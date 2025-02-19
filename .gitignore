@@ -1,4 +1,4 @@
 .obsidian/*
 !.obsidian/plugiins/bibleref
 git_ignore/
-.DS_Store
+/.DS_Store

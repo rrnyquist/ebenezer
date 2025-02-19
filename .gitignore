@@ -1,4 +1,14 @@
+# Ignore the personal Obsidian settings folder:
 .obsidian/*
+# Keep the plugins folder:
+!.obsidian/plugins
+# But ignore everything in it:
+.obsidian/plugins/*
+# Except this one plugin:
 !.obsidian/plugins/bibleref
+
+# Easy catch-all directory for personal study, tests, etc
 git_ignore/
-/.DS_Store
+
+# Mac folder display settings
+.DS_Store

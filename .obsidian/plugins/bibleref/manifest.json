@@ -1,0 +1,10 @@
+{
+  "id": "bibleref",
+  "name": "Bible Reference",
+  "description": "Hotkey for Adding Bible References",
+  "version": "0.0.1",
+  "author": "Richard Nyquist",
+  "authorUrl": "https://github.com/rrnyquist",
+  "isDesktopOnly": false,
+  "minAppVersion": "0.12.19"
+}

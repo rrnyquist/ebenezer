@@ -1,7 +1,7 @@
 {
-  "id": "bibleref",
-  "name": "Bible Reference",
-  "description": "Hotkey for Adding Bible References",
+  "id": "ebenezer-plugin",
+  "name": "Ebenezer Plugin",
+  "description": "Bible Reference Hotkey for the Ebenezer Vault",
   "version": "0.0.1",
   "author": "Richard Nyquist",
   "authorUrl": "https://github.com/rrnyquist",

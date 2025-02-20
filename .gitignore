@@ -5,7 +5,7 @@
 # But ignore everything in it:
 .obsidian/plugins/*
 # Except this one plugin:
-!.obsidian/plugins/bibleref
+!.obsidian/plugins/ebenezer-plugin
 
 # Easy catch-all directory for personal study, tests, etc
 git_ignore/

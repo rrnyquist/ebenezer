@@ -592,7 +592,7 @@ Then Philip opened his mouth, and beginning with this Scripture he told him the 
 
 And as they were going along the road they came to some water, and the eunuch said, See, here is water! What prevents me from being baptized? ^0836
 
-And as they were going along the road they came to some water, and the eunuch said, See, here is water! What prevents me from being baptized? ^0837
+[And Philip said, “If you believe with all your heart, you may.” And he replied, “I believe that Jesus Christ is the Son of God.”] ^0837
 
 And he commanded the chariot to stop, and they both went down into the water, Philip and the eunuch, and he baptized him. ^0838
 

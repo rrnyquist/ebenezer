@@ -1,319 +1,307 @@
+[[H349|How]] [[H910|lonely]] [[H3427|lies]] [[H5892|the city,]] [[H7227|once so full]] [[H5971|of people!]] [[H7227|She who was great]] [[H1471|among the nations]] [[H1961|has become]] [[H490|like a widow.]] [[H8282|The princess]] [[H4082|of the provinces]] [[H1961|has become]] [[H4522|a slave.]] ^0101
 
+[[H1058|She weeps]] [[H1058|aloud]] [[H3915|in the night,]] [[H1832|with tears]] [[H5921|upon]] [[H3895|her cheeks.]] [[H3605|Among all]] [[H157|her lovers]] [[H369|there is no one]] [[H5162|to comfort]] ⟨her⟩. [[H3605|All]] [[H7453|her friends]] [[H898|have betrayed her;]] [[H1961|they have become]] [[H341|her enemies.]] ^0102
 
-How lonely sits the city that was full of people! How like a widow has she become, she who was great among the nations! She who was a princess among the provinces has become a slave. ^0101
+[[H3063|Judah]] [[H1540|has gone into exile]] [[H6040|under affliction]] [[H7230|and harsh]] [[H5656|slavery;]] [[H1931|she]] [[H3427|dwells]] [[H1471|among the nations]] [[H4672|but finds]] [[H3808|no]] [[H4494|place to rest.]] [[H3605|All]] [[H7291|her pursuers]] [[H5381|have overtaken her]] [[H996|in the midst]] [[H4712|of her distress.]] ^0103
 
-She weeps bitterly in the night, with tears on her cheeks; among all her lovers she has none to comfort her; all her friends have dealt treacherously with her; they have become her enemies. ^0102
+[[H1870|The roads]] [[H6726|to Zion]] [[H57|mourn,]] [[H1097|because no one]] [[H935|comes]] [[H4150|to her appointed feasts.]] [[H3605|All]] [[H8179|her gates]] [[H8074|are deserted;]] [[H3548|her priests]] [[H584|groan,]] [[H1330|her maidens]] [[H3013|grieve,]] [[H1931|and she herself]] [[H4751|is bitter with anguish.]] ^0104
 
-Judah has gone into exile because of affliction and hard servitude; she dwells now among the nations, but finds no resting place; her pursuers have all overtaken her in the midst of her distress. ^0103
+[[H6862|Her foes]] [[H1961|have become]] [[H7218|her masters;]] [[H341|her enemies]] [[H7951|are at ease.]] [[H3588|For]] [[H3068|the LORD]] [[H3013|has brought her grief]] [[H5921|because of]] [[H7230|her many]] [[H6588|transgressions.]] [[H5768|Her children]] [[H1980|have gone away]] [[H7628|as captives]] [[H6440|before]] [[H6862|the enemy.]] ^0105
 
-The roads to Zion mourn, for none come to the festival; all her gates are desolate; her priests groan; her virgins have been afflicted, and she herself suffers bitterly. ^0104
+[[H3605|All]] [[H1926|the splendor]] [[H3318|has departed]] [[H4480|from]] [[H1323|the Daughter of Zion.]] [[H8269|Her princes]] [[H1961|are]] [[H354|like deer]] [[H4672|that find]] [[H3808|no]] [[H4829|pasture;]] [[H3808|they lack]] [[H3581|the strength]] [[H1980|to flee]] [[H6440|in the face of]] [[H7291|the hunter.]] ^0106
 
-Her foes have become the head; her enemies prosper, because the Lord has afflicted her for the multitude of her transgressions; her children have gone away, captives before the foe. ^0105
+[[H3117|In the days]] [[H6040|of her affliction]] [[H4788|and wandering]] [[H3389|Jerusalem]] [[H2142|remembers]] [[H3605|all]] [[H4262|the treasures]] [[H834|that]] [[H1961|were hers]] [[H3117|in days]] [[H6924|of old.]] [[H5971|When her people]] [[H5307|fell]] [[H3027|into the hand]] [[H6862|of the adversary,]] [[H369|she had no]] [[H5826|one to help.]] [[H6862|Her enemies]] [[H7200|looked at her,]] [[H7832|laughing]] [[H5921|at]] [[H4868|her downfall.]] ^0107
 
-From the daughter of Zion all her majesty has departed. Her princes have become like deer that find no pasture; they fled without strength before the pursuer. ^0106
+[[H3389|Jerusalem]] [[H2399|has sinned greatly;]] [[H5921|therefore]] [[H1961|she has become]] [[H5206|an object of scorn.]] [[H3605|All]] [[H3513|who honored her]] [[H2107|now despise her,]] [[H3588|for]] [[H7200|they have seen]] [[H6172|her nakedness;]] [[H1931|she]] [[H584|herself groans]] [[H7725|and turns]] [[H268|away.]] ^0108
 
-Jerusalem remembers in the days of her affliction and wandering all the precious things that were hers from days of old. When her people fell into the hand of the foe, and there was none to help her, her foes gloated over her; they mocked at her downfall. ^0107
+[[H2932|Her uncleanness]] [[H7757|stains her skirts;]] [[H3808|she did not]] [[H2142|consider]] [[H319|her end.]] [[H3381|Her downfall]] [[H6382|was astounding;]] [[H369|there was no one]] [[H5162|to comfort her.]] [[H7200|Look,]] [[H3068|O LORD,]] [[H6040|on my affliction,]] [[H3588|for]] [[H341|the enemy]] [[H1431|has triumphed!]] ^0109
 
-Jerusalem sinned grievously; therefore she became filthy; all who honored her despise her, for they have seen her nakedness; she herself groans and turns her face away. ^0108
+[[H6862|The adversary]] [[H3027|has seized]] [[H3605|all]] [[H4261|her treasures.]] [[H3588|For]] [[H7200|she has seen]] [[H1471|the nations]] [[H935|enter]] [[H4720|her sanctuary—]] [[H834|those]] [[H6680|You had forbidden]] [[H935|to enter]] [[H6951|Your assembly.]] ^0110
 
-Her uncleanness was in her skirts; she took no thought of her future; therefore her fall is terrible; she has no comforter. O Lord, behold my affliction, for the enemy has triumphed! ^0109
+[[H3605|All]] [[H5971|her people]] [[H584|groan]] [[H1245|as they search]] [[H3899|for bread.]] [[H5414|They have traded]] [[H4262|their treasures]] [[H400|for food]] [[H7725|to keep themselves alive.]] [[H7200|Look,]] [[H3068|O LORD,]] [[H5027|and consider,]] [[H3588|for]] [[H1961|I have become]] [[H2151|despised.]] ^0111
 
-The enemy has stretched out his hands over all her precious things; for she has seen the nations enter her sanctuary, those whom you forbade to enter your congregation. ^0110
+[[H3808|Is this nothing]] [[H413|to you,]] [[H3605|all]] [[H5674|you who pass by?]] [[H5027|Look around]] [[H7200|and see!]] [[H3426|Is there]] [[H4341|any sorrow]] [[H4341|like mine,]] [[H834|which]] [[H5953|was inflicted]] [[H834|on me,  which]] [[H3068|the LORD]] [[H3013|made me suffer]] [[H3117|on the day]] [[H2740|of His fierce]] [[H639|anger?]] ^0112
 
-All her people groan as they search for bread; they trade their treasures for food to revive their strength. Look, O Lord, and see, for I am despised. ^0111
+[[H7971|He sent]] [[H784|fire]] [[H4791|from on high;]] [[H7287|He made it seep]] [[H6106|into my bones;]] [[H6566|He spread]] [[H7568|a net]] [[H7272|for my feet]] [[H7725|and turned]] [[H268|me back.]] [[H5414|He made]] [[H8076|me desolate,]] [[H1739|faint]] [[H3605|all]] [[H3117|the day long.]] ^0113
 
-Is it nothing to you, all you who pass by? Look and see if there is any sorrow like my sorrow, which was brought upon me, which the Lord inflicted on the day of his fierce anger. ^0112
+[[H6588|My transgressions]] [[H8244|are bound into]] [[H5923|a yoke,]] [[H8276|knit together]] [[H3027|by His hand;]] [[H5927|they have come]] [[H5921|upon]] [[H6677|my neck,]] [[H136|and the Lord]] [[H3782|has broken]] [[H3581|my strength.]] [[H5414|He has handed me over]] [[H3808|to those I cannot]] [[H6965|withstand.]] ^0114
 
-From on high he sent fire; into my bones he made it descend; he spread a net for my feet; he turned me back; he has left me stunned, faint all the day long. ^0113
+[[H136|The Lord]] [[H5541|has rejected]] [[H3605|all]] [[H47|the warriors]] [[H7130|in my midst;]] [[H7121|He has summoned]] [[H4150|an army]] [[H5921|against me]] [[H7665|to crush]] [[H970|my young warriors.]] [[H1660|Like grapes in a winepress]] [[H136|the Lord]] [[H1869|has trampled]] [[H1330|the Virgin]] [[H1323|Daughter]] [[H3063|of Judah.]] ^0115
 
-My transgressions were bound into a yoke; by his hand they were fastened together; they were set upon my neck; he caused my strength to fail; the Lord gave me into the hands of those whom I cannot withstand. ^0114
+[[H5921|For]] [[H428|these things]] [[H589|I]] [[H1058|weep;]] [[H5869|my eyes]] [[H3381|flow]] [[H4325|with tears.]] [[H3588|For]] [[H7368|there is no one nearby]] [[H5162|to comfort me,]] [[H7725|no one to revive]] [[H5315|my soul.]] [[H1121|My children]] [[H1961|are]] [[H8074|destitute]] [[H3588|because]] [[H341|the enemy]] [[H1396|has prevailed.]] ^0116
 
-The Lord rejected all my mighty men in my midst; he summoned an assembly against me to crush my young men; the Lord has trodden as in a winepress the virgin daughter of Judah. ^0115
+[[H6726|Zion]] [[H6566|stretches out]] [[H3027|her hands,]] [[H369|but there is no]] [[H5162|one to comfort her.]] [[H3068|The LORD]] [[H6680|has decreed]] [[H3290|against Jacob]] [[H5439|that his neighbors]] [[H6862|become his foes.]] [[H3389|Jerusalem]] [[H1961|has become]] [[H5079|an unclean thing]] [[H996|among them.]] ^0117
 
-For these things I weep; my eyes flow with tears; for a comforter is far from me, one to revive my spirit; my children are desolate, for the enemy has prevailed. ^0116
+[[H3069|The LORD]] [[H6662|is righteous,]] [[H3588|for]] [[H4784|I have rebelled]] [[H6310|against His command.]] [[H8085|Listen,]] [[H3605|all you people;]] [[H7200|look upon]] [[H4341|my suffering.]] [[H970|My young men]] [[H1330|and maidens]] [[H1980|have gone]] [[H7628|into captivity.]] ^0118
 
-Zion stretches out her hands, but there is none to comfort her; the Lord has commanded against Jacob that his neighbors should be his foes; Jerusalem has become a filthy thing among them. ^0117
+[[H7121|I called out]] [[H157|to my lovers,]] [[H1992|but they]] [[H7411|have betrayed me.]] [[H3548|My priests]] [[H2205|and elders]] [[H1478|perished]] [[H5892|in the city]] [[H3588|while]] [[H1245|they searched for]] [[H400|food]] [[H7725|to keep themselves alive.]] ^0119
 
-The Lord is in the right, for I have rebelled against his word; but hear, all you peoples, and see my suffering; my young women and my young men have gone into captivity. ^0118
+[[H7200|Behold,]] [[H3068|O LORD,]] [[H3588|how]] [[H6862|distressed I am.]] [[H2560|I am churning]] [[H4578|within;]] [[H3820|my heart]] [[H2015|is overturned,]] [[H3588|for]] [[H4784|I have been most rebellious.]] [[H2351|Outside,]] [[H2719|the sword]] [[H7921|bereaves;]] [[H1004|inside,]] [[H4194|there is death.]] ^0120
 
-I called to my lovers, but they deceived me; my priests and elders perished in the city, while they sought food to revive their strength. ^0119
+[[H8085|People have heard]] [[H589|my]] [[H584|groaning,]] [[H369|but there is no]] [[H5162|one to comfort me.]] [[H3605|All]] [[H341|my enemies]] [[H8085|have heard]] [[H7451|of my trouble;]] [[H7797|they are glad]] [[H3588|that]] [[H859|You]] [[H6213|have caused it.]] [[H935|May You bring]] [[H3117|the day]] [[H7121|You have announced,]] [[H1961|so that they may become]] [[H3644|like me.]] ^0121
 
-Look, O Lord, for I am in distress; my stomach churns; my heart is wrung within me, because I have been very rebellious. In the street the sword bereaves; in the house it is like death. ^0120
+[[H3605|Let all]] [[H7451|their wickedness]] [[H935|come]] [[H6440|before You,]] [[H5953|and deal with them]] [[H834|as]] [[H5953|You have dealt with me]] [[H5921|because of]] [[H3605|all]] [[H6588|my transgressions.]] [[H3588|For]] [[H585|my groans]] [[H7227|are many,]] [[H3820|and my heart]] [[H1742|is faint.]] ^0122
 
-They heard my groaning, yet there is no one to comfort me. All my enemies have heard of my trouble; they are glad that you have done it. You have brought the day you announced; now let them be as I am. ^0121
+[[H349|How]] [[H136|the Lord]] [[H5743|has covered]] [[H1323|the Daughter]] [[H6726|of Zion]] [[H639|with His cloud of anger!]] [[H7993|He has cast]] [[H8597|the glory]] [[H3478|of Israel]] [[H8064|from heaven]] [[H776|to earth.]] [[H3808|He has abandoned]] [[H1916|His footstool]] [[H3117|in the day]] [[H639|of His anger.]] ^0201
 
-Let all their evildoing come before you, and deal with them as you have dealt with me because of all my transgressions; for my groans are many, and my heart is faint. ^0122
+[[H3808|Without]] [[H2550|pity]] [[H136|the Lord]] [[H1104|has swallowed up]] [[H3605|all]] [[H4999|the dwellings]] [[H3290|of Jacob.]] [[H5678|In His wrath]] [[H2040|He has demolished]] [[H4013|the fortified cities]] [[H1323|of the Daughter]] [[H3063|of Judah.]] [[H5060|He brought]] [[H776|to the ground]] [[H2490|and defiled]] [[H4467|her kingdom]] [[H8269|and its princes.]] ^0202
 
+[[H1438|He has cut off]] [[H3605|every]] [[H7161|horn]] [[H3478|of Israel]] [[H2750|in fierce]] ⟨His⟩ [[H639|anger]] [[H7725|and withdrawn]] [[H3225|His right hand]] [[H6440|at the approach]] [[H341|of the enemy.]] [[H1197|He has burned]] [[H3290|in Jacob]] [[H3852|like a flaming]] [[H784|fire]] [[H398|that consumes]] [[H5439|all around it.]] ^0203
 
+[[H1869|He has bent]] [[H7198|His bow]] [[H341|like an enemy;]] [[H3225|His right hand]] [[H5324|is positioned.]] [[H6862|Like a foe]] [[H2026|He has killed]] [[H3605|all]] [[H4261|who were pleasing]] [[H5869|to the eye;]] [[H8210|He has poured out]] [[H2534|His wrath]] [[H784|like fire]] [[H168|on the tent]] [[H1323|of the Daughter]] [[H6726|of Zion.]] ^0204
 
-How the Lord in his anger has set the daughter of Zion under a cloud! He has cast down from heaven to earth the splendor of Israel; he has not remembered his footstool in the day of his anger. ^0201
+[[H136|The Lord]] [[H1961|is]] [[H341|like an enemy;]] [[H1104|He has swallowed up]] [[H3478|Israel.]] [[H1104|He swallowed up]] [[H3605|all]] [[H759|her palaces]] [[H7843|and destroyed]] [[H4013|her strongholds.]] [[H7235|He has multiplied]] [[H8386|mourning]] [[H592|and lamentation]] [[H1323|in the Daughter]] [[H3063|of Judah.]] ^0205
 
-The Lord has swallowed up without mercy all the habitations of Jacob; in his wrath he has broken down the strongholds of the daughter of Judah; he has brought down to the ground in dishonor the kingdom and its rulers. ^0202
+[[H2554|He has laid waste]] [[H7900|to His tabernacle]] [[H1588|like a garden booth;]] [[H7843|He has destroyed]] [[H4150|His place of meeting.]] [[H3068|The LORD]] [[H7911|has made Zion forget]] [[H4150|her appointed feasts]] [[H7676|and Sabbaths.]] [[H2195|In His fierce anger]] [[H5006|He has despised]] ⟨both⟩ [[H4428|king]] [[H3548|and priest.]] ^0206
 
-He has cut down in fierce anger all the might of Israel; he has withdrawn from them his right hand in the face of the enemy; he has burned like a flaming fire in Jacob, consuming all around. ^0203
+[[H136|The Lord]] [[H2186|has rejected]] [[H4196|His altar;]] [[H5010|He has abandoned]] [[H4720|His sanctuary;]] [[H2346|He has handed the walls]] [[H759|of her palaces]] [[H5462|over to]] [[H341|the enemy.]] [[H5414|They have raised]] [[H6963|a shout]] [[H1004|in the house]] [[H3068|of the LORD]] [[H3117|as on the day]] [[H4150|of an appointed feast.]] ^0207
 
-He has bent his bow like an enemy, with his right hand set like a foe; and he has killed all who were delightful in our eyes in the tent of the daughter of Zion; he has poured out his fury like fire. ^0204
+[[H3068|The LORD]] [[H2803|determined]] [[H7843|to destroy]] [[H2346|the wall]] [[H1323|of the Daughter]] [[H6726|of Zion.]] [[H5186|He stretched out]] [[H6957|a measuring line]] [[H3808|and did not]] [[H7725|withdraw]] [[H3027|His hand]] [[H1104|from destroying.]] [[H2426|He made the ramparts]] [[H2346|and walls]] [[H56|lament;]] [[H3162|together]] [[H535|they waste away.]] ^0208
 
-The Lord has become like an enemy; he has swallowed up Israel; he has swallowed up all its palaces; he has laid in ruins its strongholds, and he has multiplied in the daughter of Judah mourning and lamentation. ^0205
+[[H8179|Her gates]] [[H2883|have sunk]] [[H776|into the ground;]] [[H6|He has destroyed]] [[H7665|and shattered]] [[H1280|their bars.]] [[H4428|Her king]] [[H8269|and her princes]] [[H1471|are among the nations,]] ⟨exiled⟩ [[H8451|the law]] [[H369|is no more,]] [[H1571|and even]] [[H5030|her prophets]] [[H4672|find]] [[H3808|no]] [[H2377|vision]] [[H3068|from the LORD.]] ^0209
 
-He has laid waste his booth like a garden, laid in ruins his meeting place; the Lord has made Zion forget festival and Sabbath, and in his fierce indignation has spurned king and priest. ^0206
+[[H2205|The elders]] [[H1323|of the Daughter]] [[H6726|of Zion]] [[H3427|sit]] [[H776|on the ground]] [[H1826|in silence.]] [[H5927|They have thrown]] [[H6083|dust]] [[H5921|on]] [[H7218|their heads]] [[H2296|and put on]] [[H8242|sackcloth.]] [[H1330|The young women]] [[H3389|of Jerusalem]] [[H3381|have bowed]] [[H7218|their heads]] [[H776|to the ground.]] ^0210
 
-The Lord has scorned his altar, disowned his sanctuary; he has delivered into the hand of the enemy the walls of her palaces; they raised a clamor in the house of the Lord as on the day of festival. ^0207
+[[H5869|My eyes]] [[H3615|fail]] [[H1832|from weeping;]] [[H2560|I am churning]] [[H4578|within.]] [[H3516|My heart]] [[H8210|is poured out]] [[H776|in grief]] [[H5921|over]] [[H7667|the destruction]] [[H1323|of the daughter]] [[H5971|of my people,]] [[H5768|because children]] [[H3243|and infants]] [[H5848|faint]] [[H7339|in the streets]] [[H7151|of the city.]] ^0211
 
-The Lord determined to lay in ruins the wall of the daughter of Zion; he stretched out the measuring line; he did not restrain his hand from destroying; he caused rampart and wall to lament; they languished together. ^0208
+[[H559|They cry out]] [[H517|to their mothers:]] [[H346|“Where]] [[H1715|is the grain]] [[H3196|and wine?”]] [[H5848|as they faint]] [[H2491|like the wounded]] [[H7339|in the streets]] [[H5892|of the city,]] [[H5315|as their lives]] [[H8210|fade away]] [[H413|in]] [[H2436|the arms]] [[H517|of their mothers.]] ^0212
 
-Her gates have sunk into the ground; he has ruined and broken her bars; her king and princes are among the nations; the law is no more, and her prophets find no vision from the Lord. ^0209
+[[H4100|What]] [[H5749|can I say for you?]] [[H4100|To  what]] [[H1819|can I compare you,]] [[H1323|O daughter]] [[H3389|of Jerusalem?]] [[H4100|To  what]] [[H7737|can I liken you,]] [[H5162|that I may console you,]] [[H1330|O virgin]] [[H1323|Daughter]] [[H6726|of Zion?]] [[H3588|For]] [[H7667|your wound]] [[H1419|is as deep]] [[H3220|as the sea.]] [[H4310|Who]] [[H7495|can ever heal you?]] ^0213
 
-The elders of the daughter of Zion sit on the ground in silence; they have thrown dust on their heads and put on sackcloth; the young women of Jerusalem have bowed their heads to the ground. ^0210
+[[H2372|The visions]] [[H5030|of your prophets]] [[H7723|were empty]] [[H8602|and deceptive;]] [[H3808|they did not]] [[H1540|expose]] [[H5771|your guilt]] [[H7725|to ward off]] [[H7622|your captivity.]] [[H4864|The oracles]] [[H2372|they saw]] [[H7723|for you  were empty]] [[H4065|and misleading.]] ^0214
 
-My eyes are spent with weeping; my stomach churns; my bile is poured out to the ground because of the destruction of the daughter of my people, because infants and babies faint in the streets of the city. ^0211
+[[H3605|All]] [[H5674|who pass by]] [[H5606|clap]] [[H3709|their hands]] [[H5921|at you]] ⟨in scorn⟩. [[H8319|They hiss]] [[H5128|and shake]] [[H7218|their heads]] [[H5921|at]] [[H1323|the Daughter]] [[H3389|of Jerusalem:]] [[H2063|“Is this]] [[H5892|the city]] [[H559|that was called]] [[H3632|the perfection]] [[H3308|of beauty,]] [[H4885|the joy]] [[H3605|of the whole]] [[H776|earth?”]] ^0215
 
-They cry to their mothers, Where is bread and wine? as they faint like a wounded man in the streets of the city, as their life is poured out on their mothers ’ bosom. ^0212
+[[H3605|All]] [[H341|your enemies]] [[H6475|open]] [[H6310|their mouths]] [[H5921|against you.]] [[H8319|They hiss]] [[H2786|and gnash]] [[H8127|their teeth,]] [[H559|saying,]] [[H1104|“We have swallowed her up.]] [[H2088|This]] [[H3117|is the day]] [[H6960|for which we have waited.]] [[H4672|We have lived]] [[H7200|to see it!”]] ^0216
 
-What can I say for you, to what compare you, O daughter of Jerusalem? What can I liken to you, that I may comfort you, O virgin daughter of Zion? For your ruin is vast as the sea; who can heal you? ^0213
+[[H3068|The LORD]] [[H6213|has done]] [[H834|what]] [[H2161|He planned;]] [[H1214|He has accomplished]] [[H565|His decree,]] [[H834|which]] [[H6680|He ordained]] [[H3117|in days]] [[H6924|of old.]] [[H2040|He has overthrown you]] [[H3808|without]] [[H2550|pity;]] [[H341|He has let the enemy]] [[H8055|gloat]] [[H5921|over you]] [[H7311|and exalted]] [[H7161|the horn]] [[H6862|of your foes.]] ^0217
 
-Your prophets have seen for you false and deceptive visions; they have not exposed your iniquity to restore your fortunes, but have seen for you oracles that are false and misleading. ^0214
+[[H3820|The hearts]] ⟨of the people⟩ [[H6817|cry out]] [[H413|to]] [[H136|the Lord.]] [[H2346|O wall]] [[H1323|of the Daughter]] [[H6726|of Zion,]] [[H1832|let your tears]] [[H3381|run down]] [[H5158|like a river]] [[H3119|day]] [[H3915|and night.]] [[H5414|Give]] [[H408|yourself no]] [[H6314|relief,]] [[H5869|and your eyes]] [[H408|no]] [[H1826|rest.]] ^0218
 
-All who pass along the way clap their hands at you; they hiss and wag their heads at the daughter of Jerusalem : Is this the city that was called the perfection of beauty, the joy of all the earth? ^0215
+[[H6965|Arise,]] [[H7442|cry out]] [[H3915|in the night]] [[H7218|from the first]] [[H821|watch of the night.]] [[H8210|Pour out]] [[H3820|your heart]] [[H4325|like water]] [[H5227|in]] [[H6440|the presence]] [[H136|of the Lord.]] [[H5375|Lift up]] [[H3709|your hands]] [[H413|to Him]] [[H5921|for]] [[H5315|the lives]] [[H5768|of your children]] [[H5848|who are fainting]] [[H7458|from hunger]] [[H7218|on the corner]] [[H3605|of every]] [[H2351|street.]] ^0219
 
-All your enemies rail against you; they hiss, they gnash their teeth, they cry : We have swallowed her! Ah, this is the day we longed for; now we have it; we see it! ^0216
+[[H7200|Look,]] [[H3068|O LORD,]] [[H5027|and consider:]] [[H4310|Whom]] [[H5953|have You treated]] ⟨ever⟩ [[H3541|like this?]] [[H802|Should women]] [[H398|eat]] [[H6529|their offspring,]] [[H5768|the infants]] [[H2949|they have nurtured?]] [[H3548|Should priests]] [[H5030|and prophets]] [[H2026|be killed]] [[H4720|in the sanctuary]] [[H136|of the Lord?]] ^0220
 
-The Lord has done what he purposed; he has carried out his word, which he commanded long ago; he has thrown down without pity; he has made the enemy rejoice over you and exalted the might of your foes. ^0217
+[[H5288|Both young]] [[H2205|and old]] [[H7901|lie together]] [[H776|in the dust]] [[H2351|of the streets.]] [[H970|My young men]] [[H1330|and maidens]] [[H5307|have fallen]] [[H2719|by the sword.]] [[H2026|You have slain]] ⟨them⟩ [[H3117|in the day]] [[H639|of Your anger;]] [[H2873|You have slaughtered]] ⟨them⟩ [[H3808|without]] [[H2550|compassion.]] ^0221
 
-Their heart cried to the Lord. O wall of the daughter of Zion, let tears stream down like a torrent day and night! Give yourself no rest, your eyes no respite! ^0218
+[[H7121|You summoned]] [[H4032|my attackers]] [[H5439|on every side,]] [[H4150|as for an appointed feast]] [[H3117|day.]] [[H3117|In the Day]] [[H3068|of the LORD’s]] [[H639|anger]] [[H3808|no]] [[H6412|one escaped]] [[H8300|or survived.]] [[H341|My enemy]] [[H3615|has destroyed]] [[H834|those]] [[H2946|I nurtured]] [[H7235|and reared.]] ^0222
 
-Arise, cry out in the night, at the beginning of the night watches! Pour out your heart like water before the presence of the Lord! Lift your hands to him for the lives of your children, who faint for hunger at the head of every street. ^0219
+[[H589|I]] [[H1397|am the man]] [[H7200|who has seen]] [[H6040|affliction]] [[H7626|under the rod]] [[H5678|of wrath.]] ⟨God’s⟩ ^0301
 
-Look, O Lord, and see! With whom have you dealt thus? Should women eat the fruit of their womb, the children of their tender care? Should priest and prophet be killed in the sanctuary of the Lord? ^0220
+[[H5090|He has driven me away]] [[H1980|and made me walk]] [[H2822|in darkness]] [[H3808|instead of]] [[H216|light.]] ^0302
 
-In the dust of the streets lie the young and the old; my young women and my young men have fallen by the sword; you have killed them in the day of your anger, slaughtering without pity. ^0221
+[[H389|Indeed,]] [[H7725|He keeps turning]] [[H3027|His hand]] ⟨against me⟩ [[H3605|all day long.]] ^0303
 
-You summoned as if to a festival day my terrors on every side, and on the day of the anger of the Lord no one escaped or survived; those whom I held and raised my enemy destroyed. ^0222
+[[H1086|He has worn away]] [[H1320|my flesh]] [[H5785|and skin;]] [[H7665|He has shattered]] [[H6106|my bones.]] ^0304
 
+[[H1129|He has besieged]] [[H5921|me]] [[H5362|and surrounded me]] [[H7219|with bitterness]] [[H8513|and hardship.]] ^0305
 
+[[H3427|He has made me dwell]] [[H4285|in darkness]] [[H4191|like those dead]] [[H5769|for ages.]] ^0306
 
-I am the man who has seen affliction under the rod of his wrath; ^0301
+[[H1443|He has walled me in]] [[H3808|so I cannot]] [[H3318|escape;]] [[H3513|He has weighed me down]] [[H5178|with chains.]] ^0307
 
-he has driven and brought me into darkness without any light; ^0302
+[[H1571|Even]] [[H3588|when]] [[H2199|I cry out]] [[H7768|and plead for help,]] [[H5640|He shuts out]] [[H8605|my prayer.]] ^0308
 
-surely against me he turns his hand again and again the whole day long. ^0303
+[[H1443|He has barred]] [[H1870|my ways]] [[H1496|with cut stones;]] [[H5410|He has made my paths]] [[H5753|crooked.]] ^0309
 
-He has made my flesh and my skin waste away; he has broken my bones; ^0304
+[[H1931|He]] [[H1677|is a bear]] [[H693|lying in wait,]] [[H738|a lion]] [[H4565|in hiding.]] ^0310
 
-he has besieged and enveloped me with bitterness and tribulation; ^0305
+[[H5493|He forced me off]] [[H1870|my path]] [[H6582|and tore me to pieces;]] [[H7760|He left me]] [[H8076|without help.]] ^0311
 
-he has made me dwell in darkness like the dead of long ago. ^0306
+[[H1869|He bent]] [[H7198|His bow]] [[H5324|and set me]] [[H4307|as the target]] [[H2671|for His arrow.]] ^0312
 
-He has walled me about so that I cannot escape; he has made my chains heavy; ^0307
+[[H935|He pierced]] [[H3629|my kidneys]] [[H1121|with His arrows.]] ^0313
 
-though I call and cry for help, he shuts out my prayer; ^0308
+[[H1961|I am]] [[H7814|a laughingstock]] [[H3605|to all]] [[H5971|my people;]] [[H5058|they mock me in song]] [[H3605|all day long.]] ^0314
 
-he has blocked my ways with blocks of stones; he has made my paths crooked. ^0309
+[[H7646|He has filled]] [[H4844|me with bitterness;]] [[H7301|He has intoxicated me]] [[H3939|with wormwood.]] ^0315
 
-He is a bear lying in wait for me, a lion in hiding; ^0310
+[[H1638|He has ground]] [[H8127|my teeth]] [[H2687|with gravel]] [[H3728|and trampled me]] [[H665|in the dust.]] ^0316
 
-he turned aside my steps and tore me to pieces; he has made me desolate; ^0311
+[[H5315|My soul]] [[H2186|has been deprived]] [[H7965|of peace;]] [[H5382|I have forgotten]] [[H2896|what prosperity is.]] ^0317
 
-he bent his bow and set me as a target for his arrow. ^0312
+[[H559|So I say,]] [[H5331|“My strength]] [[H6|has perished]] [[H8431|along with my hope]] [[H3068|from the LORD.”]] ^0318
 
-He drove into my kidneys the arrows of his quiver; ^0313
+[[H2142|Remember]] [[H6040|my affliction]] [[H4788|and wandering,]] [[H3939|the wormwood]] [[H7219|and the gall.]] ^0319
 
-I have become the laughingstock of all peoples, the object of their taunts all day long. ^0314
+[[H2142|Surely]] [[H5315|my soul]] [[H2142|remembers]] [[H7743|and is humbled]] [[H5921|within me.]] ^0320
 
-He has filled me with bitterness; he has sated me with wormwood. ^0315
+[[H7725|Yet I call]] [[H2063|this]] [[H413|to]] [[H3820|mind,]] [[H5921|and therefore]] [[H3176|I have hope:]] ^0321
 
-He has made my teeth grind on gravel, and made me cower in ashes; ^0316
+[[H3588|Because of]] [[H3068|the LORD’s]] [[H2617|loving devotion]] [[H3808|we are not]] [[H8552|consumed,]] [[H3588|for]] [[H7356|His compassions]] [[H3808|never]] [[H3615|fail.]] ^0322
 
-my soul is bereft of peace; I have forgotten what happiness is; ^0317
+[[H2319|They are new every morning;]] [[H7227|great]] [[H530|is Your faithfulness!]] ^0323
 
-so I say, My endurance has perished; so has my hope from the Lord. ^0318
+[[H3068|“The LORD]] [[H2506|is my portion,”]] [[H559|says]] [[H5315|my soul,]] [[H5921|“therefore]] [[H3176|I will hope]] ^0324
 
-Remember my affliction and my wanderings, the wormwood and the gall! ^0319
+[[H3068|The LORD]] [[H2896|is good]] [[H6960|to those who wait for Him,]] [[H5315|to the soul]] [[H1875|who seeks Him.]] ^0325
 
-My soul continually remembers it and is bowed down within me. ^0320
+[[H2896|It is good]] [[H2342|to wait]] [[H1748|quietly]] [[H8668|for the salvation]] [[H3068|of the LORD.]] ^0326
 
-But this I call to mind, and therefore I have hope : ^0321
+[[H2896|It is good]] [[H1397|for a man]] [[H5375|to bear]] [[H5923|the yoke]] [[H5271|while he is still young.]] ^0327
 
-The steadfast love of the Lord never ceases; his mercies never come to an end; ^0322
+[[H3427|Let him sit]] [[H910|alone]] [[H1826|in silence,]] [[H3588|for]] [[H5190|God has disciplined]] [[H5921|him.]] ^0328
 
-they are new every morning; great is your faithfulness. ^0323
+[[H5414|Let him bury]] [[H6310|his face]] [[H6083|in the dust—]] [[H194|perhaps]] [[H3426|there is]] [[H8615|still hope.]] ^0329
 
-The Lord is my portion, says my soul, therefore I will hope in him. ^0324
+[[H5414|Let him offer]] [[H3895|his cheek]] [[H5221|to the one who would strike him;]] [[H7646|let him be filled]] [[H2781|with reproach.]] ^0330
 
-The Lord is good to those who wait for him, to the soul who seeks him. ^0325
+[[H3588|For]] [[H136|the Lord]] [[H3808|will not]] [[H2186|cast us off]] [[H5769|forever.]] ^0331
 
-It is good that one should wait quietly for the salvation of the Lord. ^0326
+[[H3588|Even]] [[H518|if]] [[H3013|He causes grief,]] [[H7355|He will show compassion]] [[H7230|according to His abundant]] [[H2617|loving devotion.]] ^0332
 
-It is good for a man that he bear the yoke in his youth. ^0327
+[[H3588|For]] [[H3808|He does not]] [[H3820|willingly]] [[H6031|afflict]] [[H3013|or grieve]] [[H1121|the sons]] [[H376|of men.]] ^0333
 
-Let him sit alone in silence when it is laid on him; ^0328
+[[H1792|To crush]] [[H8478|underfoot]] [[H3605|all]] [[H615|the prisoners]] [[H776|of the land,]] ^0334
 
-let him put his mouth in the dust — there may yet be hope; ^0329
+[[H5186|to deny]] [[H1397|a man]] [[H4941|justice]] [[H5048|before]] [[H5945|the Most High,]] ^0335
 
-let him give his cheek to the one who strikes, and let him be filled with insults. ^0330
+[[H5791|to subvert]] [[H120|a man]] [[H7379|in his lawsuit—]] [[H136|of these the Lord]] [[H3808|does not]] [[H7200|approve.]] ^0336
 
-For the Lord will not cast off forever, ^0331
+[[H4310|Who]] [[H559|has spoken]] [[H1961|and it came to pass,]] [[H3808|unless]] [[H136|the Lord]] [[H6680|has ordained it?]] ^0337
 
-but, though he cause grief, he will have compassion according to the abundance of his steadfast love; ^0332
+[[H3808|Do not]] [[H7451|both adversity]] [[H2896|and good]] [[H3318|come]] [[H6310|from the mouth]] [[H5945|of the Most High?]] ^0338
 
-for he does not afflict from his heart or grieve the children of men. ^0333
+[[H4100|Why]] [[H2416|should any mortal]] [[H120|man]] [[H596|complain,]] [[H5921|in view of]] ⟨his⟩ [[H1397|]] [[H2399|sins?]] ^0339
 
-To crush underfoot all the prisoners of the earth, ^0334
+[[H2664|Let us examine]] [[H2713|and test]] [[H1870|our ways,]] [[H7725|and turn back]] [[H5704|to]] [[H3068|the LORD.]] ^0340
 
-to deny a man justice in the presence of the Most High, ^0335
+[[H5375|Let us lift up]] [[H3824|our hearts]] [[H3709|and hands]] [[H413|to]] [[H410|God]] [[H8064|in heaven:]] ^0341
 
-to subvert a man in his lawsuit, the Lord does not approve. ^0336
+[[H5168|“We]] [[H6586|have sinned]] [[H4784|and rebelled;]] [[H859|You]] [[H3808|have not]] [[H5545|forgiven.”]] ^0342
 
-Who has spoken and it came to pass, unless the Lord has commanded it? ^0337
+[[H5526|You have covered]] [[H639|Yourself in anger]] [[H7291|and pursued us;]] [[H2026|You have killed]] [[H3808|without]] [[H2550|pity.]] ^0343
 
-Is it not from the mouth of the Most High that good and bad come? ^0338
+[[H5526|You have covered Yourself]] [[H6051|with a cloud]] [[H8605|that no prayer]] [[H5674|can pass through.]] ^0344
 
-Why should a living man complain, a man, about the punishment of his sins? ^0339
+[[H7760|You have made us]] [[H5501|scum]] [[H3973|and refuse]] [[H7130|among]] [[H5971|the nations.]] ^0345
 
-Let us test and examine our ways, and return to the Lord! ^0340
+[[H3605|All]] [[H341|our enemies]] [[H6475|open]] [[H6310|their mouths]] [[H5921|against us.]] ^0346
 
-Let us lift up our hearts and hands to God in heaven : ^0341
+[[H6343|Panic]] [[H6354|and pitfall]] [[H1961|have come upon us—]] [[H7612|devastation]] [[H7667|and destruction.]] ^0347
 
-We have transgressed and rebelled, and you have not forgiven. ^0342
+[[H6388|Streams]] [[H4325|of tears]] [[H3381|flow]] [[H5869|from my eyes]] [[H5921|over]] [[H7667|the destruction]] [[H1323|of the daughter]] [[H5971|of my people.]] ^0348
 
-You have wrapped yourself with anger and pursued us, killing without pity; ^0343
+[[H5869|My eyes]] [[H5064|overflow]] [[H3808|unceasingly,]] [[H369|without]] [[H2014|relief,]] ^0349
 
-you have wrapped yourself with a cloud so that no prayer can pass through. ^0344
+[[H5704|until]] [[H3068|the LORD]] [[H8259|looks down]] [[H8064|from heaven]] [[H7200|and sees.]] ^0350
 
-You have made us scum and garbage among the peoples. ^0345
+[[H5869|My eyes]] [[H5953|bring grief]] [[H5315|to my soul]] [[H3605|because of all]] [[H1323|the daughters]] [[H5892|of my city.]] ^0351
 
-All our enemies open their mouths against us; ^0346
+[[H2600|Without cause]] [[H341|my enemies]] [[H6679|hunted]] [[H6833|me like a bird.]] ^0352
 
-panic and pitfall have come upon us, devastation and destruction; ^0347
+[[H6789|They dropped]] [[H2416|me alive]] [[H953|into a pit]] [[H3034|and cast]] [[H68|stones]] ^0353
 
-my eyes flow with rivers of tears because of the destruction of the daughter of my people. ^0348
+[[H4325|The waters]] [[H6687|flowed]] [[H5921|over]] [[H7218|my head,]] [[H559|and I thought]] [[H1504|I was going to die.]] ^0354
 
-My eyes will flow without ceasing, without respite, ^0349
+[[H7121|I called on]] [[H8034|Your name,]] [[H3068|O LORD,]] [[H8482|out of the depths]] [[H953|of the Pit.]] ^0355
 
-until the Lord from heaven looks down and sees; ^0350
+[[H8085|You heard]] [[H6963|my plea:]] [[H408|“Do not]] [[H5956|ignore]] [[H7775|my cry]] [[H7309|for relief.”]] ^0356
 
-my eyes cause me grief at the fate of all the daughters of my city. ^0351
+[[H7126|You drew near]] [[H3117|when]] [[H7121|I called on You;]] [[H559|You said,]] [[H408|“Do not]] [[H3372|be afraid.”]] ^0357
 
-I have been hunted like a bird by those who were my enemies without cause; ^0352
+[[H7378|You defend]] [[H5315|my]] [[H7379|cause,]] [[H136|O Lord;]] [[H1350|You redeem]] [[H2416|my life.]] ^0358
 
-they flung me alive into the pit and cast stones on me; ^0353
+[[H7200|You have seen,]] [[H3068|O LORD,]] [[H5792|the wrong done to me;]] [[H8199|uphold]] [[H4941|my cause.]] ^0359
 
-water closed over my head; I said, I am lost. ^0354
+[[H7200|You see]] [[H3605|all]] [[H5360|their malice,]] [[H3605|all]] [[H4284|their plots against me.]] ^0360
 
-I called on your name, O Lord, from the depths of the pit; ^0355
+[[H3068|O LORD,]] [[H8085|You have heard]] [[H2781|their insults,]] [[H3605|all]] [[H4284|their plots]] [[H5921|against me—]] ^0361
 
-you heard my plea, Do not close your ear to my cry for help! ^0356
+[[H8193|the slander]] [[H1902|and murmuring]] [[H6965|of my opponents]] [[H5921|against me]] [[H3605|all day long.]] ^0362
 
-You came near when I called on you; you said, Do not fear! ^0357
+[[H3427|When they sit]] [[H7012|and when they rise,]] [[H5027|see how]] [[H4485|they mock me in song.]] ^0363
 
-You have taken up my cause, O Lord; you have redeemed my life. ^0358
+[[H7725|You will pay them back]] [[H1576|what they deserve,]] [[H3068|O LORD,]] [[H4639|according to the work]] [[H3027|of their hands.]] ^0364
 
-You have seen the wrong done to me, O Lord; judge my cause. ^0359
+[[H5414|You will give]] [[H1992|them]] [[H4044|hardness]] [[H3820|of heart;]] [[H8381|may Your curse be]] [[H1992|upon them!]] ^0365
 
-You have seen all their vengeance, all their plots against me. ^0360
+[[H7291|You will pursue them]] [[H639|in anger]] [[H8045|and exterminate them]] [[H8478|from under]] [[H8064|the heavens]] [[H3068|of the LORD.]] ^0366
 
-You have heard their taunts, O Lord, all their plots against me. ^0361
+[[H349|How]] [[H2091|the gold]] [[H6004|has become tarnished,]] [[H2896|the pure]] [[H3800|gold]] [[H8132|has become dull!]] [[H68|The gems]] [[H6944|of the temple]] [[H8210|lie scattered]] [[H3605|on every]] [[H2351|street]] [[H7218|corner.]] ^0401
 
-The lips and thoughts of my assailants are against me all the day long. ^0362
+[[H349|How]] [[H3368|the precious]] [[H1121|sons]] [[H6726|of Zion,]] [[H5537|once worth their weight]] [[H6337|in pure gold,]] [[H2803|are now esteemed]] [[H2789|as clay]] [[H5035|jars,]] [[H4639|the work]] [[H3335|of a potter’s]] [[H3027|hands!]] ^0402
 
-Behold their sitting and their rising; I am the object of their taunts. ^0363
+[[H1571|Even]] [[H8568|jackals]] [[H2502|offer]] [[H7699|their breasts]] [[H3243|to nurse]] [[H1482|their young,]] ⟨but⟩ [[H1323|the daughter]] [[H5971|of my people]] [[H393|has become cruel,]] [[H3283|like an ostrich]] [[H4057|in the wilderness.]] ^0403
 
-You will repay them, O Lord, according to the work of their hands. ^0364
+[[H3243|The nursing infant’s]] [[H3956|tongue]] [[H1692|clings]] [[H6772|in thirst]] [[H413|to]] [[H2441|the roof of his mouth.]] [[H5768|Little children]] [[H7592|beg for]] [[H3899|bread,]] [[H369|but no]] [[H6566|one gives them any.]] ^0404
 
-You will give them dullness of heart; your curse will be on them. ^0365
+[[H398|Those who once ate]] [[H4574|delicacies]] [[H8074|are destitute]] [[H2351|in the streets;]] [[H539|those brought up]] [[H5921|in]] [[H8438|purple]] [[H2263|huddle]] [[H830|in ash heaps.]] ^0405
 
-You will pursue them in anger and destroy them from under your heavens, O Lord. ^0366
+[[H5771|The punishment]] [[H1323|of the daughter]] [[H5971|of my people]] [[H1431|is greater]] [[H2403|than]] ⟨that⟩ [[H5467|of Sodom,]] [[H2015|which was overthrown]] [[H3644|in]] [[H7281|an instant]] [[H3808|without]] [[H3027|a hand]] [[H2342|turned toward her.]] ^0406
 
+[[H5139|Her dignitaries]] [[H2141|were brighter]] [[H7950|than snow,]] [[H6705|whiter]] [[H2461|than milk;]] [[H6106|their bodies]] [[H119|were more ruddy]] [[H6443|than rubies,]] [[H1508|their appearance]] [[H5601|like sapphires.]] ^0407
 
+[[H8389|But now their appearance]] [[H2821|is blacker]] [[H7815|than soot;]] [[H3808|they are not]] [[H5234|recognized]] [[H2351|in the streets.]] [[H5785|Their skin]] [[H6821|has shriveled]] [[H5921|on]] [[H6106|their bones;]] [[H1961|it has become]] [[H3001|as dry]] [[H6086|as a stick.]] ^0408
 
-How the gold has grown dim, how the pure gold is changed! The holy stones lie scattered at the head of every street. ^0401
+[[H2491|Those slain]] [[H2719|by the sword]] [[H1961|are]] [[H2896|better off]] [[H2491|than those who die]] [[H7458|of hunger,]] [[H1992|who]] [[H2100|waste away,]] [[H1856|pierced with pain]] [[H7704|because the fields]] [[H8570|lack produce.]] ^0409
 
-The precious sons of Zion, worth their weight in fine gold, how they are regarded as earthen pots, the work of a potter’s hands! ^0402
+[[H3027|The hands]] [[H7362|of compassionate]] [[H802|women]] [[H1310|have cooked]] [[H3206|their own children,]] [[H1961|who became]] [[H1262|their food]] [[H7667|in the destruction]] [[H1323|of the daughter]] [[H5971|of my people.]] ^0410
 
-Even jackals offer the breast; they nurse their young, but the daughter of my people has become cruel, like the ostriches in the wilderness. ^0403
+[[H3068|The LORD]] [[H3615|has exhausted]] [[H2534|His wrath;]] [[H8210|He has poured out]] [[H2740|His fierce]] [[H639|anger;]] [[H3341|He has kindled]] [[H784|a fire]] [[H6726|in Zion,]] [[H398|and it has consumed]] [[H3247|her foundations.]] ^0411
 
-The tongue of the nursing infant sticks to the roof of its mouth for thirst; the children beg for food, but no one gives to them. ^0404
+[[H4428|The kings]] [[H776|of the earth]] [[H3808|did not]] [[H539|believe,]] [[H3605|nor any]] [[H3427|people]] [[H8398|of the world,]] [[H3588|that]] [[H6862|an enemy]] [[H341|or a foe]] [[H935|could enter]] [[H8179|the gates]] [[H3389|of Jerusalem.]] ^0412
 
-Those who once feasted on delicacies perish in the streets; those who were brought up in purple embrace ash heaps. ^0405
+⟨But this was⟩ [[H2403|for the sins]] [[H5030|of her prophets]] [[H5771|and the guilt]] [[H3548|of her priests,]] [[H8210|who shed]] [[H1818|the blood]] [[H6662|of the righteous]] [[H7130|in her midst.]] ^0413
 
-For the chastisement of the daughter of my people has been greater than the punishment of Sodom, which was overthrown in a moment, and no hands were wrung for her. ^0406
+[[H5128|They wandered]] [[H5787|blind]] [[H2351|in the streets,]] [[H1351|defiled]] [[H1818|by this blood,]] [[H3808|so that no]] [[H3201|one dared]] [[H5060|to touch]] [[H3830|their garments.]] ^0414
 
-Her princes were purer than snow, whiter than milk; their bodies were more ruddy than coral, the beauty of their form was like sapphire. ^0407
+[[H5493|“Go away!]] [[H2931|Unclean!”]] [[H7121|men shouted at them.]] [[H5493|“Away,]] [[H5493|away!]] [[H408|Do not]] [[H5060|touch us!”]] [[H3588|So]] [[H5132|they fled]] [[H1571|and]] [[H5128|wandered.]] [[H1471|Among the nations]] [[H559|it was said,]] [[H1481|“They can stay]] [[H3808|here no]] [[H3254|longer.”]] ^0415
 
-Now their face is blacker than soot; they are not recognized in the streets; their skin has shriveled on their bones; it has become as dry as wood. ^0408
+[[H6440|The LORD Himself]] [[H2505|has scattered them;]] [[H5027|He regards]] [[H3808|them no]] [[H3254|more.]] [[H3548|The priests]] [[H5375|are shown no honor,]] [[H2205|the elders]] [[H3808|find no]] [[H2603|favor.]] ^0416
 
-Happier were the victims of the sword than the victims of hunger, who wasted away, pierced by lack of the fruits of the field. ^0409
+[[H5751|All the while]] [[H5869|our eyes]] [[H3615|were failing]] [[H1892|as we looked in vain]] [[H413|for]] [[H5833|help.]] [[H6822|We watched]] [[H6822|from our towers]] [[H413|for]] [[H1471|a nation]] ⟨that⟩ [[H3808|could not]] [[H3467|save us.]] ^0417
 
-The hands of compassionate women have boiled their own children; they became their food during the destruction of the daughter of my people. ^0410
+[[H6679|They stalked]] [[H6806|our every step,]] [[H1980|so that we could not walk]] [[H7339|in our streets.]] [[H7093|Our end]] [[H7126|drew near,]] [[H3117|our time]] [[H4390|ran out,]] [[H7093|for our end]] [[H935|had come!]] ^0418
 
-The Lord gave full vent to his wrath; he poured out his hot anger, and he kindled a fire in Zion that consumed its foundations. ^0411
+[[H7291|Those who chased us]] [[H1961|were]] [[H7031|swifter]] [[H5404|than the eagles]] [[H8064|in the sky;]] [[H1814|they pursued us]] [[H5921|over]] [[H2022|the mountains]] [[H693|and ambushed us]] [[H4057|in the wilderness.]] ^0419
 
-The kings of the earth did not believe, nor any of the inhabitants of the world, that foe or enemy could enter the gates of Jerusalem. ^0412
+[[H3068|The LORD’s]] [[H4899|anointed,]] [[H7307|the breath]] [[H639|of our life,]] [[H3920|was captured]] [[H7825|in their pits.]] [[H559|We had said]] [[H834|of him,]] [[H6738|“Under his shadow]] [[H2421|we will live]] [[H1471|among the nations.”]] ^0420
 
-This was for the sins of her prophets and the iniquities of her priests, who shed in the midst of her the blood of the righteous. ^0413
+[[H7797|So rejoice]] [[H8056|and be glad,]] [[H1323|O daughter]] [[H123|of Edom,]] [[H3427|who dwells]] [[H776|in the land]] [[H5780|of Uz.]] [[H3563|Yet the cup]] [[H5674|will pass]] [[H5921|to]] [[H1571|you as well;]] [[H7937|you will get drunk]] [[H6168|and expose yourself.]] ^0421
 
-They wandered, blind, through the streets; they were so defiled with blood that no one was able to touch their garments. ^0414
+[[H1323|O Daughter]] [[H6726|of Zion,]] [[H5771|your punishment]] [[H8552|is complete;]] [[H3808|He will not]] [[H3254|prolong]] [[H1540|your exile.]] [[H6485|But He will punish]] [[H5771|your iniquity,]] [[H1323|O Daughter]] [[H123|of Edom;]] [[H1540|He will expose]] [[H2403|your sins.]] ^0422
 
-Away! Unclean! people cried at them. Away! Away! Do not touch! So they became fugitives and wanderers; people said among the nations, They shall stay with us no longer. ^0415
+[[H2142|Remember,]] [[H3068|O LORD,]] [[H4100|what]] [[H1961|has happened to us.]] [[H5027|Look]] [[H7200|and see]] [[H2781|our disgrace!]] ^0501
 
-The Lord himself has scattered them; he will regard them no more; no honor was shown to the priests, no favor to the elders. ^0416
+[[H5159|Our inheritance]] [[H2015|has been turned over]] [[H2114|to strangers,]] [[H1004|our houses]] [[H5237|to foreigners.]] ^0502
 
-Our eyes failed, ever watching vainly for help; in our watching we watched for a nation which could not save. ^0417
+[[H1961|We have become]] [[H369|fatherless]] [[H3490|orphans;]] [[H517|our mothers]] [[H490|are widows.]] ^0503
 
-They dogged our steps so that we could not walk in our streets; our end drew near; our days were numbered, for our end had come. ^0418
+[[H3701|We must buy]] [[H4325|the water]] [[H8354|we drink;]] [[H6086|our wood]] [[H935|comes]] [[H4242|at a price.]] ^0504
 
-Our pursuers were swifter than the eagles in the heavens; they chased us on the mountains; they lay in wait for us in the wilderness. ^0419
+[[H5921|We are closely]] [[H7291|pursued;]] [[H3021|we are weary]] ⟨and find⟩ [[H3808|no]] [[H5117|rest.]] ^0505
 
-The breath of our nostrils, the Lord ’s anointed, was captured in their pits, of whom we said, Under his shadow we shall live among the nations. ^0420
+[[H5414|We submitted]] [[H4713|to Egypt]] ⟨and⟩ [[H804|Assyria,]] [[H7646|to get enough]] [[H3899|food.]] ^0506
 
-Rejoice and be glad, O daughter of Edom, you who dwell in the land of Uz; but to you also the cup shall pass; you shall become drunk and strip yourself bare. ^0421
+[[H1|Our fathers]] [[H2398|sinned]] ⟨and are⟩ [[H369|no more,]] [[H587|but we]] [[H5445|bear]] [[H5771|their punishment.]] ^0507
 
-The punishment of your iniquity, O daughter of Zion, is accomplished; he will keep you in exile no longer; but your iniquity, O daughter of Edom, he will punish; he will uncover your sins. ^0422
+[[H5650|Slaves]] [[H4910|rule over us;]] ⟨there is⟩ [[H369|no one]] [[H6561|to deliver us]] [[H3027|from their hands.]] ^0508
 
+[[H935|We get]] [[H3899|our bread]] [[H5315|at the risk of our lives]] [[H6440|because of]] [[H2719|the sword]] [[H4057|in the wilderness.]] ^0509
 
+[[H5785|Our skin]] [[H3648|is as hot]] [[H8574|as an oven]] [[H6440|because of]] [[H2152|the burning]] [[H7458|of famine.]] ^0510
 
-Remember, O Lord, what has befallen us; look, and see our disgrace! ^0501
+[[H802|Women]] [[H6031|have been ravished]] [[H6726|in Zion,]] [[H1330|virgins]] [[H5892|in the cities]] [[H3063|of Judah.]] ^0511
 
-Our inheritance has been turned over to strangers, our homes to foreigners. ^0502
+[[H8269|Princes]] [[H8518|have been hung up]] [[H3027|by their hands;]] [[H2205|elders]] [[H3808|receive no]] [[H6440|respect.]] ^0512
 
-We have become orphans, fatherless; our mothers are like widows. ^0503
+[[H970|Young men]] [[H5375|toil]] [[H2911|at millstones;]] [[H5288|boys]] [[H3782|stagger]] [[H6086|under loads of wood.]] ^0513
 
-We must pay for the water we drink; the wood we get must be bought. ^0504
+[[H2205|The elders]] [[H7673|have left]] [[H8179|the city gate;]] [[H970|the young men]] ⟨have stopped⟩ [[H5058|their music.]] ^0514
 
-Our pursuers are at our necks; we are weary; we are given no rest. ^0505
+[[H4885|Joy]] [[H7673|has left]] [[H3820|our hearts;]] [[H4234|our dancing]] [[H2015|has turned]] [[H60|to mourning.]] ^0515
 
-We have given the hand to Egypt, and to Assyria, to get bread enough. ^0506
+[[H5850|The crown]] [[H5307|has fallen]] [[H7218|from our head.]] [[H188|Woe to us,]] [[H3588|for]] [[H2398|we have sinned!]] ^0516
 
-Our fathers sinned, and are no more; and we bear their iniquities. ^0507
+[[H5921|Because of]] [[H2088|this,]] [[H3820|our hearts]] [[H1961|are]] [[H1739|faint;]] [[H5921|because of]] [[H428|these,]] [[H5869|our eyes]] [[H2821|grow dim:]] ^0517
 
-Slaves rule over us; there is none to deliver us from their hand. ^0508
+[[H5921|because of]] [[H2022|Mount]] [[H6726|Zion,]] [[H8074|which lies desolate,]] [[H1980|haunted]] [[H7776|by the jackals.]] ^0518
 
-We get our bread at the peril of our lives, because of the sword in the wilderness. ^0509
+[[H859|You,]] [[H3069|O LORD,]] [[H3427|reign]] [[H5769|forever;]] [[H3678|Your throne]] [[H1755|endures from generation]] [[H1755|to generation.]] ^0519
 
-Our skin is hot as an oven with the burning heat of famine. ^0510
+[[H4100|Why]] [[H7911|have You forgotten us]] [[H5331|forever?]] [[H5800|Why have You forsaken us]] [[H753|for so long?]] ^0520
 
-Women are raped in Zion, young women in the towns of Judah. ^0511
+[[H7725|Restore]] [[H413|us to Yourself,]] [[H3068|O LORD,]] [[H7725|so we may return;]] [[H2318|renew]] [[H3117|our days]] [[H6924|as of old,]] ^0521
 
-Princes are hung up by their hands; no respect is shown to the elders. ^0512
-
-Young men are compelled to grind at the mill, and boys stagger under loads of wood. ^0513
-
-The old men have left the city gate, the young men their music. ^0514
-
-The joy of our hearts has ceased; our dancing has been turned to mourning. ^0515
-
-The crown has fallen from our head; woe to us, for we have sinned! ^0516
-
-For this our heart has become sick, for these things our eyes have grown dim, ^0517
-
-for Mount Zion which lies desolate; jackals prowl over it. ^0518
-
-But you, O Lord, reign forever; your throne endures to all generations. ^0519
-
-Why do you forget us forever, why do you forsake us for so many days? ^0520
-
-Restore us to yourself, O Lord, that we may be restored! Renew our days as of old — ^0521
-
-unless you have utterly rejected us, and you remain exceedingly angry with us. ^0522
-
-
+[[H3588|unless]] [[H3988|You have utterly rejected us]] [[H7107|and remain angry]] [[H5921|with us]] [[H5704|beyond measure.]] ^0522

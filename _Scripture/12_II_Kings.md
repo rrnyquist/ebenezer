@@ -1,1489 +1,1439 @@
+[[H8083|In the eighteenth]] [[H8141|year]] [[H3092|of Jehoshaphat's]] [[H4428|reign]] [[H3063|over Judah,]] [[H3088|Jehoram]] [[H1121|son]] [[H256|of Ahab]] [[H4427|became king]] [[H5921|of]] [[H3478|Israel,]] [[H4427|and he reigned]] [[H8111|in Samaria]] [[H8147|twelve]] [[H8141|years.]] ^0301
 
+[[H6213|And he did]] [[H7451|evil]] [[H5869|in the sight]] [[H3068|of the LORD,]] [[H7535|but]] [[H3808|not]] [[H1|as his father]] [[H517|and mother]] ⟨had done⟩. [[H5493|For he removed]] [[H4676|the sacred pillar]] [[H1168|of Baal]] [[H834|that]] [[H1|his father]] [[H6213|had made.]] ^0302
 
-After the death of Ahab, Moab rebelled against Israel. ^0101
+[[H7535|Nevertheless,]] [[H1692|he clung]] [[H2403|to the sins]] [[H834|that]] [[H3379|Jeroboam]] [[H1121|son]] [[H5028|of Nebat]] [[H3478|had caused Israel]] [[H2398|to commit;]] [[H3808|he did not]] [[H5493|turn away]] [[H4480|from them.]] ^0303
 
-Now Ahaziah fell through the lattice in his upper chamber in Samaria, and lay sick; so he sent messengers, telling them, Go, inquire of Baal-zebub, the god of Ekron, whether I shall recover from this sickness. ^0102
+[[H4338|Now Mesha]] [[H4428|king]] [[H4124|of Moab]] [[H1961|was]] [[H5349|a sheep breeder,]] [[H7725|and he would render]] [[H4428|to the king]] [[H3478|of Israel]] [[H3967|a hundred]] [[H505|thousand]] [[H3733|lambs]] [[H6785|and the wool]] [[H3967|of a hundred]] [[H505|thousand]] [[H352|rams.]] ^0304
 
-But the angel of the Lord said to Elijah the Tishbite, Arise, go up to meet the messengers of the king of Samaria, and say to them, Is it because there is no God in Israel that you are going to inquire of Baal-zebub, the god of Ekron? ^0103
+[[H1961|But after]] [[H4194|the death]] [[H256|of Ahab,]] [[H4428|the king]] [[H4124|of Moab]] [[H6586|rebelled]] [[H4428|against the king]] [[H3478|of Israel.]] ^0305
 
-Now therefore thus says the Lord, You shall not come down from the bed to which you have gone up, but you shall surely die. So Elijah went. ^0104
+[[H1931|So at that]] [[H3117|time]] [[H4428|King]] [[H3088|Jehoram]] [[H3318|set out]] [[H8111|from Samaria]] [[H6485|and mobilized]] [[H3605|all]] [[H3478|Israel.]] ^0306
 
-The messengers returned to the king, and he said to them, Why have you returned? ^0105
+[[H7971|And he sent]] [[H413|a message to]] [[H4428|King]] [[H3092|Jehoshaphat]] [[H3063|of Judah:]] [[H4428|“The king]] [[H4124|of Moab]] [[H6586|has rebelled]] [[H1980|against me.  Will you go]] [[H854|with me]] [[H4421|to fight]] [[H413|against]] [[H4124|Moab?”]] [[H5927|“I will go,”]] [[H559|replied Jehoshaphat.]] [[H3644|“I]] ⟨am⟩ [[H3644|as you]] ⟨are⟩, [[H5971|my people]] [[H5971|as your people,]] [[H5483|my horses]] [[H5483|as your horses.”]] ^0307
 
-And they said to him, There came a man to meet us, and said to us, Go back to the king who sent you, and say to him, Thus says the Lord, Is it because there is no God in Israel that you are sending to inquire of Baal-zebub, the god of Ekron? Therefore you shall not come down from the bed to which you have gone up, but you shall surely die. ^0106
+[[H559|Then he asked,]] [[H335|“Which]] [[H1870|way]] [[H5927|shall we go up?”]] [[H1870|“By way]] [[H4057|of the Desert]] [[H123|of Edom,”]] [[H559|replied Joram.]] ^0308
 
-He said to them, What kind of man was he who came to meet you and told you these things? ^0107
+[[H4428|So the king]] [[H3478|of Israel,]] [[H4428|the king]] [[H3063|of Judah,]] [[H4428|and the king]] [[H123|of Edom]] [[H1980|set out,]] [[H5437|and after they had traveled a roundabout]] [[H1870|route]] [[H7651|for seven]] [[H3117|days,]] [[H3808|they had no]] [[H4325|water]] [[H4264|for their army]] [[H834|or for their]] [[H929|animals.]] ^0309
 
-They answered him, He wore a garment of hair, with a belt of leather about his waist. And he said, It is Elijah the Tishbite. ^0108
+[[H162|“Alas,”]] [[H559|said]] [[H4428|the king]] [[H3478|of Israel,]] [[H3588|“for]] [[H3069|the LORD]] [[H7121|has summoned]] [[H428|these]] [[H7969|three]] [[H4428|kings]] [[H5414|to deliver]] [[H853|them]] [[H3027|into the hand]] [[H4124|of Moab!”]] ^0310
 
-Then the king sent to him a captain of fifty men with his fifty. He went up to Elijah, who was sitting on the top of a hill, and said to him, O man of God, the king says, Come down. ^0109
+[[H3092|But Jehoshaphat]] [[H559|asked,]] [[H369|“Is there no]] [[H5030|prophet]] [[H3068|of the LORD]] [[H6311|here?]] [[H1875|Let us inquire]] [[H3068|of the LORD]] [[H854|through him.”]] [[H259|And one]] [[H5650|of the servants]] [[H4428|of the king]] [[H3478|of Israel]] [[H6030|answered,]] [[H477|“Elisha]] [[H1121|son]] [[H8202|of Shaphat]] [[H6311|is here.]] ⟨He⟩ [[H834|]] [[H3332|used to pour]] [[H4325|water]] [[H5921|on]] [[H3027|the hands]] [[H452|of Elijah.”]] ^0311
 
-But Elijah answered the captain of fifty, If I am a man of God, let fire come down from heaven and consume you and your fifty. Then fire came down from heaven and consumed him and his fifty. ^0110
+[[H3092|Jehoshaphat]] [[H559|affirmed,]] [[H1697|“The word]] [[H3068|of the LORD]] [[H3426|is]] [[H854|with him.”]] [[H4428|So the king]] [[H3478|of Israel]] [[H3092|and Jehoshaphat]] [[H4428|and the king]] [[H123|of Edom]] [[H3381|went down]] [[H413|to him.]] ^0312
 
-Again the king sent to him another captain of fifty men with his fifty. And he answered and said to him, O man of God, this is the king’s order, Come down quickly! ^0111
+[[H477|Elisha, however,]] [[H559|said]] [[H413|to]] [[H4428|the king]] [[H3478|of Israel,]] [[H4100|“What have we to do]] [[H1980|with?  Go]] ⟨each other⟩ [[H413|to]] [[H5030|the prophets]] [[H1|of your father]] [[H413|and]] [[H517|of your mother!”]] [[H408|“No,”]] [[H559|replied]] [[H4428|the king]] [[H3478|of Israel,]] [[H3588|“for]] [[H3068|it is the LORD]] [[H7121|who has summoned]] [[H428|these]] [[H7969|three]] [[H4428|kings]] [[H5414|to deliver]] [[H853|them]] [[H3027|into the hand]] [[H4124|of Moab.”]] ^0313
 
-But Elijah answered them, If I am a man of God, let fire come down from heaven and consume you and your fifty. Then the fire of God came down from heaven and consumed him and his fifty. ^0112
+[[H477|Then Elisha]] [[H559|said,]] [[H3068|“As surely as the LORD]] [[H6635|of Hosts]] [[H2416|lives,]] [[H6440|before]] [[H834|whom]] [[H5975|I stand,]] [[H3884|were it not]] [[H5375|for my regard]] [[H6440|for the presence]] [[H3092|of Jehoshaphat]] [[H4428|king]] [[H3063|of Judah,]] [[H518|I would not]] [[H5027|look]] [[H413|at you]] [[H518|or]] [[H7200|acknowledge you.]] ^0314
 
-Again the king sent the captain of a third fifty with his fifty. And the third captain of fifty went up and came and fell on his knees before Elijah and entreated him, O man of God, please let my life, and the life of these fifty servants of yours, be precious in your sight. ^0113
+[[H6258|But now,]] [[H3947|bring]] [[H5059|me  a harpist.”]] [[H5059|And while the harpist]] [[H5059|played,]] [[H3027|the hand]] [[H3068|of the LORD]] [[H1961|came]] [[H5921|upon Elisha]] ^0315
 
-Behold, fire came down from heaven and consumed the two former captains of fifty men with their fifties, but now let my life be precious in your sight. ^0114
+[[H559|and he said,]] [[H3541|“This is what]] [[H3068|the LORD]] [[H559|says:]] [[H6213|‘Dig]] [[H2088|this]] [[H5158|valley]] [[H1356|full of ditches.’]] ^0316
 
-Then the angel of the Lord said to Elijah, Go down with him; do not be afraid of him. So he arose and went down with him to the king ^0115
+[[H3588|For]] [[H3068|the LORD]] [[H559|says,]] [[H3808|‘You will not]] [[H7200|see]] [[H7307|wind]] [[H1653|or rain,]] [[H1931|but the]] [[H5158|valley]] [[H4390|will be filled]] [[H4325|with water,]] [[H8354|and you will drink—]] [[H859|you]] [[H4735|and your cattle]] [[H929|and your animals.’]] ^0317
 
-and said to him, Thus says the Lord, Because you have sent messengers to inquire of Baal-zebub, the god of Ekron —is it because there is no God in Israel to inquire of his word ?— therefore you shall not come down from the bed to which you have gone up, but you shall surely die. ^0116
+[[H2063|This]] [[H7043|is a simple matter]] [[H5869|in the sight]] [[H3068|of the LORD,]] [[H5414|and He will also deliver]] [[H4124|the Moabites]] [[H3027|into your hand.]] ^0318
 
-So he died according to the word of the Lord that Elijah had spoken. Jehoram became king in his place in the second year of Jehoram the son of Jehoshaphat, king of Judah, because Ahaziah had no son. ^0117
+[[H5221|And you shall attack]] [[H3605|every]] [[H4013|fortified]] [[H5892|city]] [[H3605|and every]] [[H5892|city]] [[H4004|of importance.]] [[H5307|You shall cut down]] [[H3605|every]] [[H2896|good]] [[H6086|tree,]] [[H5640|stop up]] [[H3605|every]] [[H4599|spring,]] [[H3510|and ruin]] [[H3605|every]] [[H2896|good]] [[H2513|field]] [[H68|with stones.”]] ^0319
 
-Now the rest of the acts of Ahaziah that he did, are they not written in the Book of the Chronicles of the Kings of Israel? ^0118
+[[H1242|The next morning,]] [[H5927|at the time of the morning sacrifice,]] [[H4325|water]] [[H2009|suddenly]] [[H935|flowed]] [[H1870|from the direction]] [[H123|of Edom]] [[H4390|and filled]] [[H776|the land.]] ^0320
 
+[[H3605|Now all]] [[H4124|the Moabites]] [[H8085|had heard]] [[H3588|that]] [[H4428|the kings]] [[H5927|had come up]] [[H3898|to fight against them.]] [[H3605|So all]] [[H2296|who could bear arms,]] ⟨young⟩ [[H4605|and old,]] [[H6817|were summoned]] [[H5975|and stationed]] [[H5921|at]] [[H1366|the border.]] ^0321
 
+[[H7925|When they got up early]] [[H1242|in the morning,]] [[H8121|the sun]] [[H2224|was shining]] [[H5921|on]] [[H4325|the water,]] [[H4325|and]] ⟨it⟩ [[H7200|looked]] ⟨as⟩ [[H122|red]] [[H1818|as blood]] [[H4124|to the Moabites]] [[H5048|across the way.]] ^0322
 
-Now when the Lord was about to take Elijah up to heaven by a whirlwind, Elijah and Elisha were on their way from Gilgal. ^0201
+[[H2088|“This]] [[H1818|is blood!”]] [[H559|they exclaimed.]] [[H4428|“The kings]] [[H2717|have clashed swords]] [[H5221|and slaughtered]] [[H376|each]] [[H7453|other.]] [[H6258|Now]] [[H7998|to the plunder,]] [[H4124|Moab!”]] ^0323
 
-And Elijah said to Elisha, Please stay here, for the Lord has sent me as far as Bethel. But Elisha said, As the Lord lives, and as you yourself live, I will not leave you. So they went down to Bethel. ^0202
+[[H935|But when the Moabites came]] [[H413|to]] [[H4264|the camp]] [[H3478|of Israel,]] [[H3478|the Israelites]] [[H6965|rose up]] [[H5221|and attacked]] [[H4124|them,]] [[H5127|and they fled]] [[H6440|before them.]] [[H935|So invaded land]] ⟨the Israelites⟩ ⟨their⟩ [[H5221|and struck down]] [[H4124|the Moabites.]] ^0324
 
-And the sons of the prophets who were in Bethel came out to Elisha and said to him, Do you know that today the Lord will take away your master from over you? And he said, Yes, I know it; keep quiet. ^0203
+[[H2040|They destroyed]] [[H5892|the cities,]] [[H376|and each man]] [[H7993|threw]] [[H68|stones]] [[H3605|on every]] [[H2896|good]] [[H2513|field]] [[H4390|until it was covered.]] [[H5640|They stopped up]] [[H3605|every]] [[H4599|spring]] [[H5307|and cut down]] [[H3605|every]] [[H2896|good]] [[H6086|tree.]] [[H5704|Only]] [[H7025|Kir-haraseth]] [[H7604|was left]] [[H68|with stones in place,]] [[H7051|but men with slings]] [[H5437|surrounded it]] [[H5221|and attacked it]] ⟨as well⟩. ^0325
 
-Elijah said to him, Elisha, please stay here, for the Lord has sent me to Jericho. But he said, As the Lord lives, and as you yourself live, I will not leave you. So they came to Jericho. ^0204
+[[H4428|When the king]] [[H4124|of Moab]] [[H7200|saw]] [[H3588|that]] [[H4421|the battle]] [[H2388|was too fierce]] [[H4480|for him,]] [[H3947|he took]] [[H854|with him]] [[H7651|seven]] [[H3967|hundred]] [[H376|swordsmen]] [[H1234|to break through]] [[H413|to]] [[H4428|the king]] [[H123|of Edom,]] [[H3201|but they could not prevail.]] ^0326
 
-The sons of the prophets who were at Jericho drew near to Elisha and said to him, Do you know that today the Lord will take away your master from over you? And he answered, Yes, I know it; keep quiet. ^0205
+[[H3947|So he took]] [[H1060|his firstborn]] [[H1121|son,]] [[H834|who]] [[H4427|was to succeed him,]] [[H5927|and offered]] [[H5930|him as a burnt offering]] [[H5921|on]] [[H2346|the city wall.]] [[H1961|And there was]] [[H1419|great]] [[H7110|fury]] [[H5921|against]] [[H3478|the Israelites,]] [[H5265|so they withdrew]] [[H7725|and returned]] [[H776|to land.]] ⟨their own⟩ ^0327
 
-Then Elijah said to him, Please stay here, for the Lord has sent me to the Jordan. But he said, As the Lord lives, and as you yourself live, I will not leave you. So the two of them went on. ^0206
+[[H7969|In the third]] [[H8141|year]] [[H4428|of the reign]] [[H1954|of Hoshea]] [[H1121|son]] [[H425|of Elah]] [[H3478|over Israel,]] [[H2396|Hezekiah]] [[H1121|son]] [[H271|of Ahaz]] [[H4427|became king]] [[H3063|of Judah.]] ^1801
 
-Fifty men of the sons of the prophets also went and stood at some distance from them, as they both were standing by the Jordan. ^0207
+[[H1961|He was]] [[H6242|twenty-five]] [[H1121|years old]] [[H4427|when he became king,]] [[H4427|and he reigned]] [[H3389|in Jerusalem]] [[H6242|twenty-nine]] [[H8141|years.]] [[H517|His mother’s]] [[H8034|name]] [[H21|was Abi,]] [[H1323|the daughter]] [[H2148|of Zechariah.]] ^1802
 
-Then Elijah took his cloak and rolled it up and struck the water, and the water was parted to the one side and to the other, till the two of them could go over on dry ground. ^0208
+[[H6213|And he did]] ⟨what was⟩ [[H3477|right]] [[H5869|in the eyes]] [[H3068|of the LORD,]] [[H3605|just as]] [[H1|his father]] [[H1732|David]] [[H6213|had done.]] ^1803
 
-When they had crossed, Elijah said to Elisha, Ask what I shall do for you, before I am taken from you. And Elisha said, Please let there be a double portion of your spirit on me. ^0209
+[[H5493|He removed]] [[H1116|the high places,]] [[H7665|shattered]] [[H4676|the sacred pillars,]] [[H3772|and cut down]] [[H842|the Asherah poles.]] [[H3807|He also demolished]] [[H5178|the bronze]] [[H5175|serpent]] [[H7121|called]] [[H5180|Nehushtan]] [[H834|that]] [[H4872|Moses]] [[H6213|had made,]] [[H3588|for]] [[H5704|up to]] [[H1992|that]] [[H3117|time]] [[H1121|the Israelites]] [[H6999|had burned incense]] ^1804
 
-And he said, You have asked a hard thing; yet, if you see me as I am being taken from you, it shall be so for you, but if you do not see me, it shall not be so. ^0210
+[[H982|Hezekiah trusted]] [[H3068|in the LORD,]] [[H430|the God]] [[H3478|of Israel.]] [[H3808|No]] [[H4428|king]] [[H3063|of Judah]] [[H1961|was]] [[H3644|like him,]] [[H6440|either before him]] [[H310|or after him.]] ^1805
 
-And as they still went on and talked, behold, chariots of fire and horses of fire separated the two of them. And Elijah went up by a whirlwind into heaven. ^0211
+[[H1692|He remained faithful]] [[H3068|to the LORD]] [[H3808|and did not]] [[H5493|turn]] [[H310|from following Him;]] [[H8104|he kept]] [[H4687|the commandments]] [[H834|that]] [[H3068|the LORD]] [[H6680|had given]] [[H4872|Moses.]] ^1806
 
-And Elisha saw it and he cried, My father, my father! The chariots of Israel and its horsemen! And he saw him no more. Then he took hold of his own clothes and tore them in two pieces. ^0212
+[[H3068|And the LORD]] [[H1961|was]] [[H5973|with]] ⟨Hezekiah⟩, [[H7919|and he prospered]] [[H3605|wherever]] [[H3318|he went.]] [[H4775|He rebelled]] [[H4428|against the king]] [[H804|of Assyria]] [[H3808|and refused]] [[H5647|to serve him.]] ^1807
 
-And he took up the cloak of Elijah that had fallen from him and went back and stood on the bank of the Jordan. ^0213
+[[H1931|He]] [[H5221|defeated]] [[H6430|the Philistines]] [[H5704|as]] [[H5804|far as Gaza]] [[H1366|and its borders,]] [[H4026|from]] [[H5341|watchtower]] [[H5704|to]] [[H4013|fortified]] [[H5892|city.]] ^1808
 
-Then he took the cloak of Elijah that had fallen from him and struck the water, saying, Where is the Lord, the God of Elijah? And when he had struck the water, the water was parted to the one side and to the other, and Elisha went over. ^0214
+[[H7243|In the fourth]] [[H8141|year]] [[H2396|of Hezekiah's]] [[H4428|reign,]] [[H1931|which]] [[H7637|was the seventh]] [[H8141|year]] [[H4428|of the reign]] [[H1954|of Hoshea]] [[H1121|son]] [[H425|of Elah]] [[H3478|over Israel,]] [[H8022|Shalmaneser]] [[H4428|king]] [[H804|of Assyria]] [[H5927|marched]] [[H5921|against]] [[H8111|Samaria]] [[H6696|and besieged]] [[H5921|it.]] ^1809
 
-Now when the sons of the prophets who were at Jericho saw him opposite them, they said, The spirit of Elijah rests on Elisha. And they came to meet him and bowed to the ground before him. ^0215
+[[H7097|And at the end]] [[H7969|of three]] [[H8141|years,]] [[H3920|the Assyrians captured it.]] [[H8111|So Samaria]] [[H3920|was captured]] [[H8337|in the sixth]] [[H8141|year]] [[H2396|of Hezekiah,]] [[H1931|which]] [[H8672|was the ninth]] [[H8141|year]] [[H1954|of Hoshea]] [[H4428|king]] [[H3478|of Israel.]] ^1810
 
-And they said to him, Behold now, there are with your servants fifty strong men. Please let them go and seek your master. It may be that the Spirit of the Lord has caught him up and cast him upon some mountain or into some valley. And he said, You shall not send. ^0216
+[[H4428|The king]] [[H804|of Assyria]] [[H1540|exiled]] [[H3478|the Israelites]] [[H804|to Assyria]] [[H5148|and settled them]] [[H2477|in Halah,]] [[H1470|in Gozan]] [[H2249|by the Habor]] [[H5104|River,]] [[H5892|and in the cities]] [[H4074|of the Medes.]] ^1811
 
-But when they urged him till he was ashamed, he said, Send. They sent therefore fifty men. And for three days they sought him but did not find him. ^0217
+⟨This happened⟩ [[H5921|because]] [[H3808|they did not]] [[H8085|listen]] [[H6963|to the voice]] [[H3069|of the LORD]] [[H430|their God,]] [[H5674|but violated]] [[H1285|His covenant—]] [[H3605|all]] [[H834|that]] [[H4872|Moses]] [[H5650|the servant]] [[H3069|of the LORD]] [[H6680|had commanded—]] [[H3808|and would neither]] [[H8085|listen]] [[H3808|nor]] [[H6213|obey.]] ^1812
 
-And they came back to him while he was staying at Jericho, and he said to them, Did I not say to you, Do not go? ^0218
+[[H702|In the fourteenth]] [[H8141|year]] [[H4428|of the reign]] [[H2396|of Hezekiah,]] [[H5576|Sennacherib]] [[H4428|king]] [[H804|of Assyria]] [[H5927|attacked]] [[H8610|and captured]] [[H3605|all]] [[H1219|the fortified]] [[H5892|cities]] [[H3063|of Judah.]] ^1813
 
-Now the men of the city said to Elisha, Behold, the situation of this city is pleasant, as my lord sees, but the water is bad, and the land is unfruitful. ^0219
+[[H2396|So Hezekiah]] [[H4428|king]] [[H3063|of Judah]] [[H7971|sent]] [[H413|word to]] [[H4428|the king]] [[H804|of Assyria]] [[H3923|at Lachish,]] [[H559|saying,]] [[H2398|“I have done wrong;]] [[H7725|withdraw]] [[H5921|from me,]] [[H5375|and I will pay]] [[H834|whatever]] [[H5414|you demand]] [[H5921|from me.”]] [[H4428|And the king]] [[H804|of Assyria]] [[H7760|exacted]] [[H5921|from]] [[H2396|Hezekiah]] [[H4428|king]] [[H3063|of Judah]] [[H7969|three]] [[H3967|hundred]] [[H3603|talents]] [[H3701|of silver]] [[H7970|and thirty]] [[H3603|talents]] [[H2091|of gold.]] ^1814
 
-He said, Bring me a new bowl, and put salt in it. So they brought it to him. ^0220
+[[H2396|Hezekiah]] [[H5414|gave]] [[H3605|him all]] [[H3701|the silver]] [[H4672|that was found]] [[H1004|in the house]] [[H3068|of the LORD]] [[H214|and in the treasuries]] [[H4428|of the royal]] [[H1004|palace.]] ^1815
 
-Then he went to the spring of water and threw salt in it and said, Thus says the Lord, I have healed this water; from now on neither death nor miscarriage shall come from it. ^0221
+[[H1931|At that]] [[H6256|time]] [[H2396|Hezekiah]] [[H7112|stripped]] ⟨the gold⟩ [[H2396|with which]] [[H6823|he had plated]] [[H1817|the doors]] [[H853|and]] [[H547|doorposts]] [[H1964|of the temple]] [[H3068|of the LORD,]] [[H5414|and he gave]] [[H4428|it to the king]] [[H804|of Assyria.]] ^1816
 
-So the water has been healed to this day, according to the word that Elisha spoke. ^0222
+[[H4428|Nevertheless, the king]] [[H804|of Assyria]] [[H7971|sent]] [[H8661|the Tartan,]] [[H7249|the Rab-saris,]] [[H7262|and the Rab-shakeh,]] [[H3515|along with a great army,]] [[H4480|from]] [[H3923|Lachish]] [[H413|to]] [[H4428|King]] [[H2396|Hezekiah]] [[H3389|at Jerusalem.]] [[H5927|They advanced up]] [[H3389|to Jerusalem]] [[H5975|and stationed themselves]] [[H8585|by the aqueduct]] [[H5945|of the upper]] [[H1295|pool,]] [[H4546|on the road]] [[H3526|to the Launderers]] [[H7704|Field.]] ^1817
 
-He went up from there to Bethel, and while he was going up on the way, some small boys came out of the city and jeered at him, saying, Go up, you baldhead! Go up, you baldhead! ^0223
+[[H7121|Then they called]] [[H413|for]] [[H4428|the king;]] [[H471|and Eliakim]] [[H1121|son]] [[H2518|of Hilkiah]] [[H1004|the palace]] [[H5921|administrator,]] [[H7644|Shebnah]] [[H5608|the scribe,]] [[H3098|and Joah]] [[H1121|son]] [[H623|of Asaph]] [[H2142|the recorder,]] [[H3318|went out]] [[H413|to them.]] ^1818
 
-And he turned around, and when he saw them, he cursed them in the name of the Lord. And two she-bears came out of the woods and tore forty-two of the boys. ^0224
+[[H7262|The Rab-shakeh]] [[H559|said]] [[H413|to them,]] [[H559|“Tell]] [[H2396|Hezekiah]] [[H3541|that this is what]] [[H1419|the great]] [[H4428|king,]] [[H4428|the king]] [[H804|of Assyria,]] [[H559|says:]] [[H4100|What]] [[H982|is the basis]] ⟨of⟩ [[H2088|this]] [[H986|confidence]] [[H834|of yours?]] ^1819
 
-From there he went on to Mount Carmel, and from there he returned to Samaria. ^0225
+[[H559|You claim]] ⟨to have⟩ [[H6098|a strategy]] [[H1369|and strength]] [[H4421|for war,]] [[H389|but]] ⟨these are⟩ [[H8193|empty]] [[H1697|words.]] [[H5921|On]] [[H4310|whom]] [[H6258|are you now]] [[H982|relying,]] [[H3588|that]] [[H4775|you have rebelled]] ^1820
 
+[[H2009|Look]] [[H6258|now,]] [[H982|you are trusting]] [[H5921|in]] [[H4714|Egypt,]] [[H7533|that splintered]] [[H7070|reed]] [[H4938|of a staff]] [[H5344|that will pierce]] [[H3709|the hand]] [[H376|of anyone]] [[H834|who]] [[H5564|leans]] [[H5921|on it.]] [[H3651|Such is]] [[H6547|Pharaoh]] [[H4428|king]] [[H4714|of Egypt]] [[H3605|to all]] [[H982|who trust]] [[H5921|in him.]] ^1821
 
+[[H3588|But if]] [[H559|you say]] [[H413|to me:]] [[H982|‘We trust]] [[H413|in]] [[H3068|the LORD]] [[H430|our God,’]] [[H1931|is He]] [[H3808|not]] [[H834|the One]] [[H1116|whose high places]] [[H4196|and altars]] [[H2396|Hezekiah]] [[H5493|has removed,]] [[H559|saying]] [[H3063|to Judah]] [[H3389|and Jerusalem:]] [[H7812|‘You must worship]] [[H6440|before]] [[H2088|this]] [[H4196|altar]] [[H3389|in Jerusalem’?]] ^1822
 
-In the eighteenth year of Jehoshaphat king of Judah, Jehoram the son of Ahab became king over Israel in Samaria, and he reigned twelve years. ^0301
+[[H6258|Now, therefore,]] [[H6148|make a bargain]] [[H854|with]] [[H113|my master,]] [[H4428|the king]] [[H804|of Assyria.]] [[H5414|I will give]] [[H505|you  two thousand]] [[H5483|horses—]] [[H518|if]] [[H3201|you can]] [[H5414|put]] [[H7392|riders]] [[H5921|on them!]] ^1823
 
-He did what was evil in the sight of the Lord, though not like his father and mother, for he put away the pillar of Baal that his father had made. ^0302
+[[H349|For how]] [[H7725|can you repel]] [[H259|a single]] [[H6346|officer]] [[H6996|among the least]] [[H113|of my master’s]] [[H5650|servants]] [[H982|when you depend]] [[H5921|on]] [[H4714|Egypt]] [[H7393|for chariots]] [[H6571|and horsemen?]] ^1824
 
-Nevertheless, he clung to the sin of Jeroboam the son of Nebat, which he made Israel to sin; he did not depart from it. ^0303
+[[H6258|So now,]] [[H1107|was it apart from]] [[H3068|the LORD]] [[H5927|that I have come up]] [[H5921|against]] [[H2088|this]] [[H4725|place]] [[H7843|to destroy it?]] [[H3068|The LORD Himself]] [[H559|said]] [[H413|to me,]] [[H5927|‘Go up]] [[H5921|against]] [[H2063|this]] [[H776|land]] [[H7843|and destroy it!’”]] ^1825
 
-Now Mesha king of Moab was a sheep breeder, and he had to deliver to the king of Israel 100,000 lambs and the wool of 100,000 rams. ^0304
+[[H471|Then Eliakim]] [[H1121|son]] [[H2518|of Hilkiah,]] [[H7644|along with Shebnah]] [[H3098|and Joah,]] [[H559|said]] [[H413|to]] [[H7262|the Rab-shakeh,]] [[H4994|“Please]] [[H1696|speak]] [[H413|to]] [[H5650|your servants]] [[H762|in Aramaic,]] [[H3588|since]] [[H587|we]] [[H8085|understand it.]] [[H408|Do not]] [[H1696|speak]] [[H5973|to us]] [[H3066|in Hebrew]] [[H241|in the hearing]] [[H5971|of the people]] [[H5921|on]] [[H2346|the wall.]] ^1826
 
-But when Ahab died, the king of Moab rebelled against the king of Israel. ^0305
+[[H7262|But the Rab-shakeh]] [[H559|replied,]] [[H113|“Has my master]] [[H7971|sent me]] [[H1696|to speak]] [[H428|these]] [[H1697|words]] [[H5921|only to]] [[H413|you and]] [[H113|your master,]] [[H3808|and not]] [[H5921|to]] [[H376|the men]] [[H3427|sitting]] [[H5921|on]] [[H2346|the wall,]] [[H5973|who are destined with you]] [[H398|to eat]] [[H2755|their own dung]] [[H8354|and drink]] [[H7890|their own urine?]] ^1827
 
-So King Jehoram marched out of Samaria at that time and mustered all Israel. ^0306
+[[H7262|Then the Rab-shakeh]] [[H5975|stood]] [[H7121|and called out]] [[H6963|loudly]] [[H3066|in Hebrew:]] [[H8085|“Hear]] [[H1697|the word]] [[H1419|of the great]] [[H4428|king,]] [[H4428|the king]] [[H804|of Assyria!]] ^1828
 
-And he went and sent word to Jehoshaphat king of Judah, The king of Moab has rebelled against me. Will you go with me to battle against Moab? And he said, I will go. I am as you are, my people as your people, my horses as your horses. ^0307
+[[H3541|This is what]] [[H4428|the king]] [[H559|says:]] [[H408|Do not]] [[H2396|let Hezekiah]] [[H5377|deceive you;]] [[H3808|he cannot]] [[H5337|deliver]] [[H853|you]] [[H3027|from my hand.]] ^1829
 
-Then he said, By which way shall we march? Jehoram answered, By the way of the wilderness of Edom. ^0308
+[[H408|Do not]] [[H2396|let Hezekiah]] [[H982|persuade you to trust]] [[H413|in]] [[H3068|the LORD]] [[H559|when he says,]] [[H3068|‘The LORD will surely]] [[H5337|deliver]] [[H5337|us;]] [[H2063|this]] [[H5892|city]] [[H3808|will not]] [[H5414|be given]] [[H3027|into the hand]] [[H4428|of the king]] [[H804|of Assyria.’]] ^1830
 
-So the king of Israel went with the king of Judah and the king of Edom. And when they had made a circuitous march of seven days, there was no water for the army or for the animals that followed them. ^0309
+[[H408|Do not]] [[H8085|listen]] [[H413|to]] [[H2396|Hezekiah,]] [[H3588|for]] [[H3541|this is what]] [[H4428|the king]] [[H804|of Assyria]] [[H559|says:]] [[H6213|Make]] [[H1293|peace]] [[H854|with me]] [[H3318|and come out]] [[H413|to me.]] [[H376|Then every one of you]] [[H398|will eat]] [[H1612|from his own vine]] [[H8384|his own fig tree,]] ⟨and⟩ [[H376|]] [[H8354|drink]] [[H4325|water]] [[H953|from his own cistern,]] ^1831
 
-Then the king of Israel said, Alas! The Lord has called these three kings to give them into the hand of Moab. ^0310
+[[H5704|until]] [[H935|I come]] [[H3947|and take you away]] [[H413|to]] [[H776|a land]] [[H776|like your own land—]] [[H776|a land]] [[H1715|of grain]] [[H8492|and new wine,]] [[H776|a land]] [[H3899|of bread]] [[H3754|and vineyards,]] [[H776|a land]] [[H2132|of olive trees]] [[H1706|and honey—]] [[H2421|so that you may live]] [[H3808|and not]] [[H4191|die.]] [[H408|But do not]] [[H8085|listen]] [[H413|to]] [[H2396|Hezekiah,]] [[H3588|for]] [[H5496|he misleads you]] [[H559|when he says,]] [[H3068|The LORD]] [[H5337|will deliver us.]] ^1832
 
-And Jehoshaphat said, Is there no prophet of the Lord here, through whom we may inquire of the Lord? Then one of the king of Israel’s servants answered, Elisha the son of Shaphat is here, who poured water on the hands of Elijah. ^0311
+[[H430|Has the god]] [[H376|of any]] [[H1471|nation]] [[H5337|ever]] [[H5337|delivered]] [[H776|his land]] [[H3027|from the hand]] [[H4428|of the king]] [[H804|of Assyria?]] ^1833
 
-And Jehoshaphat said, The word of the Lord is with him. So the king of Israel and Jehoshaphat and the king of Edom went down to him. ^0312
+[[H346|Where]] [[H430|are the gods]] [[H2574|of Hamath]] [[H774|and Arpad?]] [[H346|Where]] [[H430|are the gods]] [[H5617|of Sepharvaim,]] [[H2012|Hena,]] [[H5755|and Ivvah?]] [[H5337|Have they delivered]] [[H8111|Samaria]] [[H3027|from my hand?]] ^1834
 
-And Elisha said to the king of Israel, What have I to do with you? Go to the prophets of your father and to the prophets of your mother. But the king of Israel said to him, No; it is the Lord who has called these three kings to give them into the hand of Moab. ^0313
+[[H4310|Who]] [[H3605|among all]] [[H430|the gods]] [[H776|of these lands]] [[H5337|has delivered]] [[H776|his land]] [[H3027|from my hand?]] [[H3068|How then can the LORD]] [[H5337|deliver]] [[H3389|Jerusalem]] [[H3027|from my hand?’”]] ^1835
 
-And Elisha said, As the Lord of hosts lives, before whom I stand, were it not that I have regard for Jehoshaphat the king of Judah, I would neither look at you nor see you. ^0314
+[[H5971|But the people]] [[H2790|remained silent]] [[H3808|and did not]] [[H6030|answer]] [[H1697|a word,]] [[H3588|for]] ⟨Hezekiah⟩ [[H4428|]] [[H4687|had commanded,]] [[H3808|“Do not]] [[H6030|answer him.”]] ^1836
 
-But now bring me a musician. And when the musician played, the hand of the Lord came upon him. ^0315
+[[H2518|Then Hilkiah's]] [[H1121|son]] [[H471|Eliakim]] [[H1004|the palace]] [[H5921|administrator,]] [[H7644|Shebna]] [[H5608|the scribe,]] [[H623|and Asaph's]] [[H1121|son]] [[H3098|Joah]] [[H2142|the recorder,]] [[H935|came]] [[H413|to]] [[H2396|Hezekiah]] [[H899|with their clothes]] [[H7167|torn,]] [[H5046|and they relayed]] [[H1697|to him  the words]] [[H7262|of Rab-shakeh.]] ⟨the⟩ ^1837
 
-And he said, Thus says the Lord, I will make this dry streambed full of pools. ^0316
+[[H477|Then Elisha]] [[H559|said,]] [[H8085|“Hear]] [[H1697|the word]] [[H3068|of the LORD!]] [[H3541|This is what]] [[H3068|the LORD]] [[H559|says:]] [[H6256|‘About this time]] [[H4279|tomorrow]] [[H8179|at the gate]] [[H8111|of Samaria,]] [[H5429|a seah]] [[H5560|of fine flour]] ⟨will sell⟩ [[H8255|for a shekel,]] [[H5429|and two seahs]] [[H8184|of barley]] [[H8255|will sell for a shekel.’”]] ^0701
 
-For thus says the Lord, You shall not see wind or rain, but that streambed shall be filled with water, so that you shall drink, you, your livestock, and your animals. ^0317
+[[H7991|But the officer]] [[H5921|on]] [[H3027|whose arm]] [[H4428|the king]] [[H8172|leaned]] [[H6030|answered]] [[H376|the man]] [[H430|of God,]] [[H2009|“Look,]] [[H3068|even if the LORD]] [[H6213|were to make]] [[H699|windows]] [[H8064|in heaven,]] [[H2088|could this]] [[H1961|really happen?”]] [[H7200|“You will see]] ⟨it⟩ [[H5869|with your own eyes,”]] [[H559|replied]] ⟨Elisha⟩, [[H398|“but you will not eat]] [[H8033|any of it.”]] ^0702
 
-This is a light thing in the sight of the Lord. He will also give the Moabites into your hand, ^0318
+[[H702|Now there were four]] [[H376|men]] [[H6879|with leprosy]] [[H6607|at the entrance]] [[H8179|to the gate,]] [[H559|and they said]] [[H413|to]] [[H376|one]] [[H7453|another,]] [[H4100|“Why]] [[H3427|just sit]] [[H6311|here]] [[H5704|until]] [[H4191|we die?]] ^0703
 
-and you shall attack every fortified city and every choice city, and shall fell every good tree and stop up all springs of water and ruin every good piece of land with stones. ^0319
+[[H518|If]] [[H559|we say,]] [[H935|‘Let us go into]] [[H5892|the city,’]] [[H4191|we will die]] [[H8033|there]] [[H7458|from the famine]] [[H5892|in the city;]] [[H518|but if]] [[H3427|we sit]] [[H6311|here,]] [[H4191|we will also die.]] [[H6258|So come now,]] [[H5307|let us go over]] [[H413|to]] [[H4264|the camp]] [[H758|of the Arameans.]] [[H518|If]] [[H2421|they let us live,]] [[H2421|we will live;]] [[H518|if]] [[H4191|they kill us,]] [[H4191|we will die.]] ^0704
 
-The next morning, about the time of offering the sacrifice, behold, water came from the direction of Edom, till the country was filled with water. ^0320
+[[H6965|So they arose]] [[H5399|at twilight]] [[H935|and went]] [[H413|to]] [[H4264|the camp]] [[H758|of the Arameans.]] [[H935|But when they came]] [[H5704|to]] [[H7097|the outskirts]] [[H4264|of the camp,]] [[H369|there was not]] [[H376|a man]] [[H2009|to be found.]] ^0705
 
-When all the Moabites heard that the kings had come up to fight against them, all who were able to put on armor, from the youngest to the oldest, were called out and were drawn up at the border. ^0321
+[[H136|For the LORD]] ⟨had caused⟩ [[H758|the Arameans]] [[H8085|to hear]] [[H6963|the sound]] [[H7393|of chariots,]] [[H5483|horses,]] [[H1419|and a great]] [[H2428|army,]] [[H559|so that they said]] [[H413|to]] [[H376|each]] [[H251|other,]] [[H2009|“Look,]] [[H4428|the king]] [[H3478|of Israel]] [[H7936|must have hired]] [[H4428|the kings]] [[H2850|of the Hittites]] [[H853|and]] [[H4714|Egyptians]] [[H935|to attack]] [[H5921|us.]] ^0706
 
-And when they rose early in the morning and the sun shone on the water, the Moabites saw the water opposite them as red as blood. ^0322
+[[H6965|Thus had arisen]] ⟨the Arameans⟩ [[H5127|and fled]] [[H5399|at twilight,]] [[H5800|abandoning]] [[H168|their tents]] [[H853|and]] [[H5483|horses]] [[H853|and]] [[H2543|donkeys.]] [[H4264|The camp was intact,]] [[H5127|and they had run]] [[H413|for]] [[H5315|their lives.]] ^0707
 
-And they said, This is blood; the kings have surely fought together and struck one another down. Now then, Moab, to the spoil! ^0323
+[[H428|When the]] [[H6879|lepers]] [[H935|reached]] [[H7097|the edge]] [[H4264|of the camp,]] [[H935|they went]] [[H413|into]] [[H259|a]] [[H168|tent]] [[H398|to eat]] [[H8354|and drink.]] [[H5375|Then they carried off]] [[H3701|the silver,]] [[H2091|gold,]] [[H899|and clothing,]] [[H1980|and went]] [[H2934|and hid]] ⟨them⟩. [[H7725|On returning,]] [[H935|they entered]] [[H312|another]] [[H168|tent,]] [[H5375|carried off]] ⟨some items⟩ [[H8033|from there,]] [[H2934|and hid them.]] ^0708
 
-But when they came to the camp of Israel, the Israelites rose and struck the Moabites, till they fled before them. And they went forward, striking the Moabites as they went. ^0324
+[[H559|Finally, they said]] [[H413|to]] [[H376|one]] [[H7453|another,]] [[H587|“We are]] [[H3808|not]] [[H6213|doing]] [[H3651|what is right.]] [[H3117|Today]] [[H3117|is a day]] [[H1309|of good news.]] [[H587|If we]] [[H2814|are silent]] [[H2442|and wait]] [[H5704|until]] [[H1242|morning]] [[H216|light,]] [[H5771|our sin]] [[H4672|will overtake us.]] [[H6258|Now, therefore,]] [[H935|let us go]] [[H5046|and tell]] [[H4428|the kings]] [[H1004|household.]] ^0709
 
-And they overthrew the cities, and on every good piece of land every man threw a stone until it was covered. They stopped every spring of water and felled all the good trees, till only its stones were left in Kir-hareseth, and the slingers surrounded and attacked it. ^0325
+[[H935|So they went]] [[H7121|and called out]] [[H413|to]] [[H7778|the gatekeepers]] [[H5892|of the city,]] [[H5046|saying,]] [[H935|“We went]] [[H413|to]] [[H758|the Aramean]] [[H4264|camp]] [[H369|and no]] [[H376|one]] ⟨was⟩ [[H8033|there—]] [[H6963|not a trace—]] [[H518|only]] [[H631|tethered]] [[H5483|horses]] [[H2543|and donkeys,]] [[H168|and the tents]] [[H1992|were intact.”]] ^0710
 
-When the king of Moab saw that the battle was going against him, he took with him 700 swordsmen to break through, opposite the king of Edom, but they could not. ^0326
+[[H7778|The gatekeepers]] [[H7121|shouted the news,]] [[H5046|and it was reported]] [[H4428|to the king’s]] [[H1004|household.]] ^0711
 
-Then he took his oldest son who was to reign in his place and offered him for a burnt offering on the wall. And there came great wrath against Israel. And they withdrew from him and returned to their own land. ^0327
+[[H4428|So the king]] [[H6965|got up]] [[H3915|in the night]] [[H559|and said]] [[H413|to]] [[H5650|his servants,]] [[H5046|“Let me tell]] [[H834|you  what]] [[H758|the Arameans]] [[H6213|have done to us.]] [[H3045|They know]] [[H587|we]] [[H7457|are starving,]] [[H3318|so they have left]] [[H4264|the camp]] [[H2247|to hide]] [[H7704|in the field,]] [[H559|thinking,]] [[H3588|‘When]] [[H3318|they come out]] [[H4480|of]] [[H5892|the city,]] [[H8610|we will take them]] [[H2416|alive]] [[H935|and enter]] [[H5892|the city.]] ^0712
 
+[[H259|But one]] [[H4480|of]] [[H5650|his servants]] [[H6030|replied,]] [[H4994|“Please,]] [[H3947|have take]] ⟨scouts⟩ [[H2568|five]] [[H5483|of the horses]] [[H834|that]] [[H7604|remain]] [[H2009|in the city.  Their plight]] [[H3605|will be no worse than all]] [[H3478|the Israelites]] [[H834|who]] [[H7604|are left]] [[H2005|here.  You can see]] [[H3605|that]] [[H3478|all the Israelites]] [[H834|here]] [[H8552|are doomed.]] [[H7971|So let us send them]] [[H7200|and find out.]] ^0713
 
+[[H3947|Then took]] ⟨the scouts⟩ [[H8147|two]] [[H7393|chariots]] [[H5483|with horses,]] [[H4428|and the king]] [[H7971|sent]] [[H310|them after]] [[H758|the Aramean]] [[H4264|army,]] [[H559|saying,]] [[H1980|“Go]] [[H7200|and see.”]] ^0714
 
-Now the wife of one of the sons of the prophets cried to Elisha, Your servant my husband is dead, and you know that your servant feared the Lord, but the creditor has come to take my two children to be his slaves. ^0401
+[[H1980|And they tracked]] [[H5704|them as]] [[H3383|far as the Jordan,]] [[H2009|and indeed,]] [[H3605|the whole]] [[H1870|way]] [[H4392|was littered with]] [[H899|the clothing]] [[H3627|and equipment]] [[H758|the Arameans]] [[H7993|had thrown off]] [[H2648|in haste.]] [[H4397|So the scouts]] [[H7725|returned]] [[H5046|and told]] [[H4428|the king.]] ^0715
 
-And Elisha said to her, What shall I do for you? Tell me; what have you in the house? And she said, Your servant has nothing in the house except a jar of oil. ^0402
+[[H5971|Then the people]] [[H3318|went out]] [[H962|and plundered]] [[H4264|the camp]] [[H758|of the Arameans.]] [[H1961|It was then that]] [[H5429|a seah]] [[H5560|of fine flour]] ⟨sold⟩ [[H8255|for a shekel,]] [[H5429|and two seahs]] [[H8184|of barley]] ⟨sold⟩ [[H8255|for a shekel,]] [[H1697|according to the word]] [[H3068|of the LORD.]] ^0716
 
-Then he said, Go outside, borrow vessels from all your neighbors, empty vessels and not too few. ^0403
+[[H4428|Now the king]] [[H6485|had appointed]] [[H7991|the officer]] [[H5921|on]] [[H3027|whose arm]] [[H8172|he leaned]] [[H5921|to be in charge of]] [[H8179|the gate,]] [[H5971|but the people]] [[H7429|trampled him]] [[H8179|in the gateway,]] [[H4191|and he died,]] [[H834|just as]] [[H376|the man]] [[H430|of God]] [[H1696|had foretold]] [[H4428|when the king]] [[H3381|had come]] [[H413|to him.]] ^0717
 
-Then go in and shut the door behind yourself and your sons and pour into all these vessels. And when one is full, set it aside. ^0404
+[[H1961|It happened]] [[H376|just as the man]] [[H430|of God]] [[H1696|had told]] [[H4428|the king:]] [[H6256|“About this time]] [[H4279|tomorrow]] [[H8179|at the gate]] [[H8111|of Samaria,]] [[H5429|two seahs]] [[H8184|of barley]] [[H8255|will sell for a shekel,]] [[H5429|and a seah]] [[H5560|of fine flour]] [[H1961|will sell]] [[H8255|for a shekel.”]] ^0718
 
-So she went from him and shut the door behind herself and her sons. And as she poured they brought the vessels to her. ^0405
+[[H7991|And the officer]] [[H6030|had answered]] [[H376|the man]] [[H430|of God,]] [[H2009|“Look,]] [[H3068|even if the LORD]] [[H6213|were to make]] [[H699|windows]] [[H8064|in heaven,]] [[H2088|could this]] [[H1961|really happen?”]] [[H559|So Elisha had replied,]] [[H7200|“You will see]] ⟨it⟩ [[H5869|with your own eyes,]] [[H3808|but you will not]] [[H398|eat]] [[H8033|any of it.”]] ^0719
 
-When the vessels were full, she said to her son, Bring me another vessel. And he said to her, There is not another. Then the oil stopped flowing. ^0406
+[[H3651|And this]] [[H1961|is just what happened]] [[H5971|to him.  The people]] [[H7429|trampled]] [[H8179|him in the gateway,]] [[H4191|and he died.]] ^0720
 
-She came and told the man of God, and he said, Go, sell the oil and pay your debts, and you and your sons can live on the rest. ^0407
+[[H1961|On]] [[H8085|hearing]] ⟨this report⟩, [[H4428|King]] [[H2396|Hezekiah]] [[H7167|tore]] [[H899|his clothes,]] [[H3680|put on]] [[H8242|sackcloth,]] [[H935|and entered]] [[H1004|the house]] [[H3068|of the LORD.]] ^1901
 
-One day Elisha went on to Shunem, where a wealthy woman lived, who urged him to eat some food. So whenever he passed that way, he would turn in there to eat food. ^0408
+[[H7971|Then he sent]] [[H471|Eliakim]] [[H1004|the palace]] [[H5921|administrator,]] [[H7644|Shebna]] [[H5608|the scribe,]] [[H2205|and the leading]] [[H3548|priests,]] [[H3680|all wearing]] [[H8242|sackcloth,]] [[H413|to]] [[H5030|the prophet]] [[H3470|Isaiah]] [[H1121|son]] [[H531|of Amoz]] ^1902
 
-And she said to her husband, Behold now, I know that this is a holy man of God who is continually passing our way. ^0409
+[[H559|to tell]] [[H413|him,]] [[H3541|“This is what]] [[H2396|Hezekiah]] [[H559|says:]] [[H3117|Today]] [[H3117|is a day]] [[H6869|of distress,]] [[H8433|rebuke,]] [[H5007|and disgrace;]] [[H3588|for]] [[H1121|the children]] [[H935|have come]] [[H5704|to the point of]] [[H4866|birth,]] [[H369|but there is no]] [[H3581|strength]] [[H3205|to deliver them.]] ^1903
 
-Let us make a small room on the roof with walls and put there for him a bed, a table, a chair, and a lamp, so that whenever he comes to us, he can go in there. ^0410
+[[H194|Perhaps]] [[H3068|the LORD]] [[H430|your God]] [[H8085|will hear]] [[H3605|all]] [[H1697|the words]] [[H7262|of the Rab-shakeh,]] [[H834|whom]] [[H113|his master]] [[H4428|the king]] [[H804|of Assyria]] [[H7971|has sent]] [[H2778|to defy]] [[H2416|the living]] [[H430|God,]] [[H3198|and He will rebuke him]] [[H1697|for the words]] [[H834|that]] [[H3068|the LORD]] [[H430|your God]] [[H8085|has heard.]] [[H5375|Therefore lift up]] [[H8605|a prayer]] [[H1157|for]] [[H7611|the remnant]] [[H4672|that still survives.]] ^1904
 
-One day he came there, and he turned into the chamber and rested there. ^0411
+[[H5650|So the servants]] [[H4428|of King]] [[H2396|Hezekiah]] [[H935|went]] [[H413|to]] [[H3470|Isaiah,]] ^1905
 
-And he said to Gehazi his servant, Call this Shunammite. When he had called her, she stood before him. ^0412
+[[H3470|who]] [[H559|replied,]] [[H559|“Tell]] [[H113|your master]] [[H3541|that this is what]] [[H3068|the LORD]] [[H559|says:]] [[H408|‘Do not]] [[H3372|be afraid]] [[H6440|of]] [[H1697|the words]] [[H8085|you have heard,]] [[H834|with which]] [[H5288|the servants]] [[H4428|of the king]] [[H804|of Assyria]] [[H1442|have blasphemed]] [[H853|Me.]] ^1906
 
-And he said to him, Say now to her, See, you have taken all this trouble for us; what is to be done for you? Would you have a word spoken on your behalf to the king or to the commander of the army? She answered, I dwell among my own people. ^0413
+[[H2005|Behold,]] [[H5414|I will put]] [[H7307|a spirit]] [[H8085|in him  so that he will hear]] [[H8052|a rumor]] [[H7725|and return]] [[H776|to his own land,]] [[H776|where]] [[H5307|I will cause him to fall]] [[H2719|by the sword.’”]] ^1907
 
-And he said, What then is to be done for her? Gehazi answered, Well, she has no son, and her husband is old. ^0414
+[[H3588|When]] [[H7262|the Rab-shakeh]] [[H8085|heard]] [[H3588|that]] [[H4428|the king]] [[H804|of Assyria]] [[H5265|had left]] [[H3923|Lachish,]] [[H7725|he withdrew]] [[H4672|and found]] ⟨the king⟩ [[H3898|fighting]] [[H5921|against]] [[H3841|Libnah.]] ^1908
 
-He said, Call her. And when he had called her, she stood in the doorway. ^0415
+[[H8085|Now Sennacherib had been warned]] [[H413|about]] [[H8640|Tirhakah]] [[H4428|king]] [[H3568|of Cush:]] [[H2009|“Look,]] [[H3318|he has set out]] [[H3898|to fight]] [[H854|against you.”]] [[H7725|So again Sennacherib]] [[H7971|sent]] [[H4397|messengers]] [[H413|to]] [[H2396|Hezekiah]] [[H559|with the order:]] ^1909
 
-And he said, At this season, about this time next year, you shall embrace a son. And she said, No, my lord, O man of God; do not lie to your servant. ^0416
+[[H559|“Tell]] [[H2396|Hezekiah]] [[H4428|king]] [[H3063|of Judah:]] [[H408|‘Do not]] [[H430|let your God,]] [[H834|in whom]] [[H859|you]] [[H982|trust,]] [[H5377|deceive you]] [[H559|by saying]] [[H3389|that Jerusalem]] [[H3808|will not]] [[H5414|be delivered]] [[H3027|into the hand]] [[H4428|of the king]] [[H804|of Assyria.]] ^1910
 
-But the woman conceived, and she bore a son about that time the following spring, as Elisha had said to her. ^0417
+[[H2009|Surely]] [[H859|you]] [[H8085|have heard]] [[H834|what]] [[H4428|the kings]] [[H804|of Assyria]] [[H6213|have done]] [[H3605|to all]] ⟨the other⟩ [[H776|countries,]] [[H2763|destroying them completely.]] [[H859|Will you then]] [[H5337|be spared?]] ^1911
 
-When the child had grown, he went out one day to his father among the reapers. ^0418
+[[H430|Did the gods]] [[H1471|of the nations]] [[H1|my fathers]] [[H7843|have destroyed]] [[H5337|rescue them—]] ⟨the gods of⟩ [[H853|]] [[H1470|Gozan,]] [[H2771|Haran,]] [[H7530|Rezeph,]] [[H1121|and the people]] [[H5729|of Eden]] [[H834|who]] ⟨were⟩ [[H8515|in Telassar?]] ^1912
 
-And he said to his father, Oh, my head, my head! The father said to his servant, Carry him to his mother. ^0419
+[[H335|Where]] [[H4428|are the kings]] [[H2574|of Hamath,]] [[H774|Arpad,]] [[H5617|Sepharvaim,]] [[H2012|Hena,]] [[H5755|and Ivvah?’”]] ^1913
 
-And when he had lifted him and brought him to his mother, the child sat on her lap till noon, and then he died. ^0420
+[[H2396|So Hezekiah]] [[H3947|received]] [[H5612|the letter]] [[H3027|from]] [[H4397|the messengers,]] [[H7121|read it,]] [[H5927|and went up to]] [[H1004|the house]] [[H3069|of the LORD]] [[H6566|and spread it out]] [[H6440|before]] [[H3069|the LORD.]] ^1914
 
-And she went up and laid him on the bed of the man of God and shut the door behind him and went out. ^0421
+[[H2396|And Hezekiah]] [[H6419|prayed]] [[H6440|before]] [[H3068|the LORD:]] [[H3068|“O LORD,]] [[H430|God]] [[H3478|of Israel,]] [[H3427|enthroned]] [[H3742|between the cherubim,]] [[H859|You]] [[H905|alone]] [[H430|are God]] [[H3605|over all]] [[H4467|the kingdoms]] [[H776|of the earth.]] [[H859|You]] [[H6213|made]] [[H8064|the heavens]] [[H776|and the earth.]] ^1915
 
-Then she called to her husband and said, Send me one of the servants and one of the donkeys, that I may quickly go to the man of God and come back again. ^0422
+[[H5186|Incline]] [[H241|Your ear,]] [[H3068|O LORD,]] [[H8085|and hear;]] [[H6491|open]] [[H5869|Your eyes,]] [[H3068|O LORD,]] [[H7200|and see.]] [[H8085|Listen to]] [[H1697|the words]] [[H834|that]] [[H5576|Sennacherib]] [[H7971|has sent]] [[H2778|to defy]] [[H2416|the living]] [[H430|God.]] ^1916
 
-And he said, Why will you go to him today? It is neither new moon nor Sabbath. She said, All is well. ^0423
+[[H551|Truly,]] [[H3068|O LORD,]] [[H4428|the kings]] [[H804|of Assyria]] [[H2717|have laid waste]] [[H1471|these nations]] [[H776|and their lands.]] ^1917
 
-Then she saddled the donkey, and she said to her servant, Urge the animal on; do not slacken the pace for me unless I tell you. ^0424
+[[H5414|They have cast]] [[H430|their gods]] [[H784|into the fire]] [[H6|and destroyed them,]] [[H3588|for]] [[H1992|they]] [[H3808|were not]] [[H430|gods]] [[H3588|but]] [[H518|only]] [[H6086|wood]] [[H68|and stone—]] [[H4639|the work]] [[H120|of human]] [[H3027|hands.]] ^1918
 
-So she set out and came to the man of God at Mount Carmel. When the man of God saw her coming, he said to Gehazi his servant, Look, there is the Shunammite. ^0425
+[[H6258|And now,]] [[H3068|O LORD]] [[H430|our God,]] [[H4994|please]] [[H3467|deliver us]] [[H3027|from his hand,]] [[H3605|so that all]] [[H4467|the kingdoms]] [[H776|of the earth]] [[H3045|may know]] [[H3588|that]] [[H859|You]] [[H905|alone,]] [[H3068|O LORD,]] [[H430|are God.”]] ^1919
 
-Run at once to meet her and say to her, Is all well with you? Is all well with your husband? Is all well with the child? And she answered, All is well. ^0426
+[[H3470|Then Isaiah]] [[H1121|son]] [[H531|of Amoz]] [[H7971|sent]] [[H413|a message to]] [[H2396|Hezekiah:]] [[H3541|“This is what]] [[H3068|the LORD,]] [[H430|the God]] [[H3478|of Israel,]] [[H559|says:]] [[H8085|I have heard]] [[H6419|your prayer]] [[H413|concerning]] [[H5576|Sennacherib]] [[H4428|king]] [[H804|of Assyria.]] ^1920
 
-And when she came to the mountain to the man of God, she caught hold of his feet. And Gehazi came to push her away. But the man of God said, Leave her alone, for she is in bitter distress, and the Lord has hidden it from me and has not told me. ^0427
+[[H2088|This]] [[H1697|is the word]] [[H3068|the LORD]] [[H1696|has spoken]] [[H5921|against him:]] [[H1330|‘The virgin]] [[H1323|Daughter]] [[H6726|of Zion]] [[H959|despises]] [[H3932|you  and mocks]] [[H1323|you;  the Daughter]] [[H3389|of Jerusalem]] [[H5128|shakes]] [[H7218|her head]] [[H310|behind you.]] ^1921
 
-Then she said, Did I ask my lord for a son? Did I not say, Do not deceive me? ^0428
+[[H4310|Whom]] [[H2778|have you taunted]] [[H1442|and blasphemed?]] [[H5921|Against]] [[H4310|whom]] [[H7311|have you raised]] [[H6963|your voice]] [[H5375|and lifted]] [[H5869|your eyes]] [[H4791|in pride?]] [[H5921|Against]] [[H6918|the Holy One]] [[H3478|of Israel!]] ^1922
 
-He said to Gehazi, Tie up your garment and take my staff in your hand and go. If you meet anyone, do not greet him, and if anyone greets you, do not reply. And lay my staff on the face of the child. ^0429
+[[H3027|Through]] [[H4397|your servants]] [[H2778|you have taunted]] [[H136|the Lord]] [[H559|and you have said:]] [[H7393|“With my many]] [[H7393|chariots]] [[H589|I]] [[H5927|have ascended]] [[H4791|to the heights]] [[H2022|of the mountains,]] [[H3411|to the far recesses]] [[H3844|of Lebanon.]] [[H3772|I have cut down]] [[H6967|its tallest]] [[H730|cedars,]] [[H4005|the finest]] [[H1265|of its cypress trees.]] [[H935|I have reached]] [[H7093|its farthest]] [[H4411|outposts,]] [[H3293|the densest]] [[H3759|of its forests.]] ^1923
 
-Then the mother of the child said, As the Lord lives and as you yourself live, I will not leave you. So he arose and followed her. ^0430
+[[H589|I]] [[H6979|have dug wells]] [[H8354|and drunk]] [[H2114|foreign]] [[H4325|waters.]] [[H3709|With the soles]] [[H6471|of my feet]] [[H2717|I have dried up]] [[H3605|all]] [[H2975|the streams]] [[H4693|of Egypt.”]] ^1924
 
-Gehazi went on ahead and laid the staff on the face of the child, but there was no sound or sign of life. Therefore he returned to meet him and told him, The child has not awakened. ^0431
+[[H3808|Have you not]] [[H8085|heard?]] [[H7350|Long ago]] [[H6213|I ordained]] [[H853|it;]] [[H3117|in days]] [[H6924|of old]] [[H3335|I planned it.]] [[H6258|Now I have]] [[H935|brought it to pass,]] [[H1961|that you should crush]] [[H1219|fortified]] [[H5892|cities]] [[H1530|into piles]] [[H5327|of rubble.]] ^1925
 
-When Elisha came into the house, he saw the child lying dead on his bed. ^0432
+[[H3427|Therefore their inhabitants,]] [[H7116|devoid]] [[H3027|of power,]] [[H2865|are dismayed]] [[H954|and ashamed.]] [[H1961|They are like]] [[H6212|plants]] [[H7704|in the field,]] [[H3419|tender]] [[H1877|green shoots,]] [[H2682|grass]] [[H1406|on the rooftops,]] [[H7711|scorched]] [[H6440|before]] [[H7054|it is grown.]] ^1926
 
-So he went in and shut the door behind the two of them and prayed to the Lord. ^0433
+[[H3045|But I know]] [[H3427|your sitting down,]] [[H3318|your going out]] [[H935|and coming in,]] [[H7264|and your raging]] [[H413|against Me.]] ^1927
 
-Then he went up and lay on the child, putting his mouth on his mouth, his eyes on his eyes, and his hands on his hands. And as he stretched himself upon him, the flesh of the child became warm. ^0434
+[[H3282|Because]] [[H7264|your rage]] [[H7600|and arrogance]] [[H413|against Me]] [[H5927|have reached]] [[H241|My ears,]] [[H7760|I will put]] [[H2397|My hook]] [[H639|in your nose]] [[H4964|and My bit]] [[H8193|in your mouth;]] [[H7725|I will send you back]] [[H1870|the way]] [[H935|you came.’]] ^1928
 
-Then he got up again and walked once back and forth in the house, and went up and stretched himself upon him. The child sneezed seven times, and the child opened his eyes. ^0435
+[[H2088|And this]] [[H226|will be a sign]] [[H8141|to you,:  This year]] ⟨O Hezekiah⟩ [[H398|you will eat]] [[H5599|what grows on its own,]] [[H8145|and in the second]] [[H8141|year]] [[H7823|what springs from the same.]] [[H7992|But in the third]] [[H8141|year]] [[H2232|you will sow]] [[H7114|and reap;]] [[H5193|you will plant]] [[H3754|vineyards]] [[H398|and eat]] [[H6529|their fruit.]] ^1929
 
-Then he summoned Gehazi and said, Call this Shunammite. So he called her. And when she came to him, he said, Pick up your son. ^0436
+[[H7604|And the surviving]] [[H6413|remnant]] [[H1004|of the house]] [[H3063|of Judah]] [[H3254|will again]] [[H8328|take root]] [[H4295|below]] [[H6213|and bear]] [[H6529|fruit]] [[H4605|above.]] ^1930
 
-She came and fell at his feet, bowing to the ground. Then she picked up her son and went out. ^0437
+[[H3588|For]] [[H7611|a remnant]] [[H3318|will go forth]] [[H3389|from Jerusalem,]] [[H6413|and survivors]] [[H2022|from Mount]] [[H6726|Zion.]] [[H7068|The zeal]] [[H3068|of the LORD]] [[H6635|of Hosts]] [[H6213|will accomplish]] [[H2063|this.]] ^1931
 
-And Elisha came again to Gilgal when there was a famine in the land. And as the sons of the prophets were sitting before him, he said to his servant, Set on the large pot, and boil stew for the sons of the prophets. ^0438
+[[H3651|So]] [[H3541|this is what]] [[H3068|the LORD]] [[H559|says]] [[H413|about]] [[H4428|the king]] [[H804|of Assyria:]] [[H3808|‘He will not]] [[H935|enter]] [[H2063|this]] [[H5892|city]] [[H3384|or shoot]] [[H2671|an arrow]] [[H8033|into it.]] [[H6923|He will not come before it]] [[H4043|with a shield]] ⟨or⟩ [[H3808|]] [[H8210|build up]] [[H5550|a siege ramp]] [[H5921|against it.]] ^1932
 
-One of them went out into the field to gather herbs, and found a wild vine and gathered from it his lap full of wild gourds, and came and cut them up into the pot of stew, not knowing what they were. ^0439
+[[H7725|He will go back]] [[H1870|the way]] [[H935|he came,]] [[H3808|and he will not]] [[H413|enter]] [[H2063|this]] [[H5892|city,]] [[H5002|declares]] [[H3068|the LORD.]] ^1933
 
-And they poured out some for the men to eat. But while they were eating of the stew, they cried out, O man of God, there is death in the pot! And they could not eat it. ^0440
+[[H1598|I will defend]] [[H2063|this]] [[H5892|city]] [[H3467|and rescue it]] [[H4616|for My own sake]] [[H4616|and for the sake of]] [[H5650|My servant]] [[H1732|David.’”]] ^1934
 
-He said, Then bring flour. And he threw it into the pot and said, Pour some out for the men, that they may eat. And there was no harm in the pot. ^0441
+[[H1961|And]] [[H1931|that very]] [[H3915|night]] [[H4397|the angel]] [[H3068|of the LORD]] [[H3318|went out]] [[H5221|and struck down]] [[H3967|185,000 men]] [[H4264|in the camp]] [[H804|of the Assyrians.]] [[H7925|When the people got up]] [[H1242|the next morning,]] [[H2009|there]] [[H3605|were all]] [[H4191|the dead]] [[H6297|bodies!]] ^1935
 
-A man came from Baal-shalishah, bringing the man of God bread of the firstfruits, twenty loaves of barley and fresh ears of grain in his sack. And Elisha said, Give to the men, that they may eat. ^0442
+[[H5576|So Sennacherib]] [[H4428|king]] [[H804|of Assyria]] [[H5265|broke camp]] [[H1980|and withdrew.]] [[H7725|He returned]] [[H5210|to Nineveh]] [[H3427|and stayed there.]] ^1936
 
-But his servant said, How can I set this before a hundred men? So he repeated, Give them to the men, that they may eat, for thus says the Lord, They shall eat and have some left. ^0443
+[[H1961|One day,]] [[H1931|while he]] [[H7812|was worshiping]] [[H1004|in the temple]] [[H430|of his god]] [[H5268|Nisroch,]] [[H1121|his sons]] [[H152|Adrammelech]] [[H8272|and Sharezer]] [[H5221|struck him down]] [[H2719|with the sword]] [[H4422|and escaped]] [[H776|to the land]] [[H780|of Ararat.]] [[H1121|And his son]] [[H634|Esar-haddon]] [[H4427|became king]] [[H8478|in his place.]] ^1937
 
-So he set it before them. And they ate and had some left, according to the word of the Lord. ^0444
+[[H1121|Now the sons]] [[H5030|of the prophets]] [[H559|said]] [[H413|to]] [[H477|Elisha,]] [[H4994|“Please]] [[H2009|take note]] [[H4725|that the place]] [[H834|where]] [[H587|we]] [[H3427|meet]] [[H6440|with you]] [[H6862|is too small]] [[H4480|for us.]] ^0601
 
+[[H4994|Please]] [[H1980|let us go]] [[H5704|to]] [[H3383|the Jordan,]] [[H8033|where]] [[H376|each of us]] [[H3947|can get]] [[H259|a]] [[H6982|log]] [[H6213|so we can build]] [[H4725|ourselves a place]] [[H3427|to live]] [[H8033|there.”]] [[H1980|“Go,”]] [[H559|said]] ⟨Elisha⟩. ^0602
 
+[[H259|Then one of them]] [[H559|said,]] [[H4994|“Please]] [[H1980|come]] [[H854|with]] [[H5650|your servants.”]] [[H589|“I will]] [[H1980|come,”]] [[H559|he replied.]] ^0603
 
-Naaman, commander of the army of the king of Syria, was a great man with his master and in high favor, because by him the Lord had given victory to Syria. He was a mighty man of valor, but he was a leper. ^0501
+[[H1980|So went]] ⟨Elisha⟩ [[H854|with them,]] [[H935|and when they came]] [[H3383|to the Jordan,]] [[H1504|they began to cut down]] [[H6086|some trees.]] ^0604
 
-Now the Syrians on one of their raids had carried off a little girl from the land of Israel, and she worked in the service of Naaman’s wife. ^0502
+[[H259|As one]] [[H5307|of them was cutting down]] [[H6982|a tree,]] [[H1270|the iron]] ⟨axhead⟩ [[H5307|fell]] [[H413|into]] [[H4325|the water.]] [[H162|“Oh,]] [[H113|my master,”]] [[H6817|he cried out,]] [[H1931|“it]] [[H7592|was borrowed!”]] ^0605
 
-She said to her mistress, Would that my lord were with the prophet who is in Samaria! He would cure him of his leprosy. ^0503
+[[H575|“Where]] [[H5307|did it fall?”]] [[H559|asked]] [[H376|the man]] [[H430|of God.]] [[H7200|And when he showed]] [[H4725|him the place,]] [[H7094|the man of God cut]] [[H6086|a stick,]] [[H7993|threw]] [[H8033|it there,]] [[H1270|and made the iron]] [[H6687|float.]] ^0606
 
-So Naaman went in and told his lord, Thus and so spoke the girl from the land of Israel. ^0504
+[[H7311|“Lift out,”]] ⟨it⟩ [[H559|he said,]] [[H7971|and reached out]] ⟨the man⟩ [[H3027|his hand]] [[H3947|and took it.]] ^0607
 
-And the king of Syria said, Go now, and I will send a letter to the king of Israel. So he went, taking with him ten talents of silver, six thousand shekels of gold, and ten changes of clothing. ^0505
+[[H4428|Now the king]] [[H758|of Aram]] [[H1961|was]] [[H3898|at war]] [[H3478|against Israel.]] [[H3289|After consulting]] [[H413|with]] [[H5650|his servants,]] [[H559|he said,]] [[H8466|“My camp]] ⟨will be⟩ [[H413|in]] [[H6423|such]] [[H492|and such]] [[H4725|a place.”]] ^0608
 
-And he brought the letter to the king of Israel, which read, When this letter reaches you, know that I have sent to you Naaman my servant, that you may cure him of his leprosy. ^0506
+[[H376|Then the man]] [[H430|of God]] [[H7971|sent]] [[H413|word to]] [[H4428|the king]] [[H3478|of Israel:]] [[H8104|“Be careful]] [[H5674|passing by]] [[H2088|this]] [[H4725|place,]] [[H3588|for]] [[H758|the Arameans]] [[H5181|are going down]] [[H8033|there.”]] ^0609
 
-And when the king of Israel read the letter, he tore his clothes and said, Am I God, to kill and to make alive, that this man sends word to me to cure a man of his leprosy? Only consider, and see how he is seeking a quarrel with me. ^0507
+[[H4428|So the king]] [[H3478|of Israel]] [[H7971|sent]] [[H413|word to]] [[H4725|the place]] [[H376|the man]] [[H430|of God]] [[H559|had pointed out.]] [[H259|Time and again]] ⟨Elisha⟩ [[H2094|warned the king,]] [[H8104|so that he was on his guard]] [[H8033|in such places.]] ^0610
 
-But when Elisha the man of God heard that the king of Israel had torn his clothes, he sent to the king, saying, Why have you torn your clothes? Let him come now to me, that he may know that there is a prophet in Israel. ^0508
+[[H5921|For]] [[H2088|this]] [[H1697|reason,]] [[H4428|the king]] [[H758|of Aram]] [[H5590|became enraged]] [[H7121|and called]] [[H5650|his servants]] [[H559|to demand]] [[H413|of them,]] [[H5046|“Tell me,]] [[H4310|which one]] [[H7945|of us]] ⟨is⟩ [[H413|on the side]] [[H4428|of the king]] [[H3478|of Israel?”]] ^0611
 
-So Naaman came with his horses and chariots and stood at the door of Elisha’s house. ^0509
+[[H259|But one]] [[H5650|of his servants]] [[H559|replied,]] [[H3808|“No one,]] [[H113|my lord]] [[H4428|the king.]] [[H3588|For]] [[H477|Elisha,]] [[H5030|the prophet]] [[H3478|in Israel,]] [[H5046|tells]] [[H4428|the king]] [[H3478|of Israel]] [[H1697|the very words]] [[H1696|you speak]] [[H2315|in your bedroom.”]] ^0612
 
-And Elisha sent a messenger to him, saying, Go and wash in the Jordan seven times, and your flesh shall be restored, and you shall be clean. ^0510
+[[H559|So the king said,]] [[H1980|“Go]] [[H7200|and see]] [[H351|where]] [[H1931|he]] ⟨is⟩, [[H7971|that I may send]] [[H3947|men to capture him.”]] [[H5046|On receiving the report,]] [[H1886|“Elisha is in Dothan,”]] ^0613
 
-But Naaman was angry and went away, saying, Behold, I thought that he would surely come out to me and stand and call upon the name of the Lord his God, and wave his hand over the place and cure the leper. ^0511
+⟨the king of Aram⟩ [[H7971|sent]] [[H5483|horses,]] [[H7393|chariots,]] [[H3515|and a great]] [[H2428|army.]] [[H935|They went there]] [[H3915|by night]] [[H5362|and surrounded]] [[H5892|the city.]] ^0614
 
-Are not Abana and Pharpar, the rivers of Damascus, better than all the waters of Israel? Could I not wash in them and be clean? So he turned and went away in a rage. ^0512
+[[H8334|When the servant]] [[H376|of the man]] [[H430|of God]] [[H6965|got up]] [[H3318|and went out]] [[H7925|early in the morning,]] [[H2428|an army]] [[H5483|with horses]] [[H7393|and chariots]] [[H5437|had surrounded]] [[H5892|the city.]] [[H5288|So he]] [[H559|asked Elisha,]] [[H162|“Oh,]] [[H113|my master,]] [[H349|what]] [[H6213|are we to do?”]] ^0615
 
-But his servants came near and said to him, My father, it is a great word the prophet has spoken to you; will you not do it? Has he actually said to you, Wash, and be clean? ^0513
+[[H408|“Do not]] [[H3372|be afraid,”]] [[H559|Elisha answered,]] [[H3588|“for]] [[H834|those who]] ⟨are⟩ [[H854|with us]] ⟨are⟩ [[H7227|more]] [[H834|than those who]] ⟨are⟩ [[H854|with them.”]] ^0616
 
-So he went down and dipped himself seven times in the Jordan, according to the word of the man of God, and his flesh was restored like the flesh of a little child, and he was clean. ^0514
+[[H477|Then Elisha]] [[H6419|prayed,]] [[H3068|“O LORD,]] [[H4994|please]] [[H6491|open]] [[H5869|his eyes]] [[H7200|that he may see.”]] [[H3068|And the LORD]] [[H6491|opened]] [[H5869|the eyes]] [[H5288|of the young man,]] [[H7200|and he saw that]] [[H2022|the hills]] [[H4390|were full of]] [[H5483|horses]] [[H7393|and chariots]] [[H784|of fire]] [[H5439|all around]] [[H477|Elisha.]] ^0617
 
-Then he returned to the man of God, he and all his company, and he came and stood before him. And he said, Behold, I know that there is no God in all the earth but in Israel; so accept now a present from your servant. ^0515
+[[H3381|As the Arameans came down]] [[H413|against him,]] [[H477|Elisha]] [[H6419|prayed]] [[H413|to]] [[H3068|the LORD,]] [[H4994|“Please]] [[H5221|strike]] [[H2088|these]] [[H1471|people]] [[H5575|with blindness.”]] [[H5221|So He struck]] [[H5575|them with blindness,]] [[H1697|according to the word]] [[H477|of Elisha.]] ^0618
 
-But he said, As the Lord lives, before whom I stand, I will receive none. And he urged him to take it, but he refused. ^0516
+[[H477|And Elisha]] [[H559|told]] [[H413|them,]] [[H2088|“This]] [[H3808|is not]] [[H1870|the way,]] [[H2090|and this]] [[H3808|is not]] [[H5892|the city.]] [[H1980|Follow]] [[H310|me,]] [[H1980|and I will take]] [[H413|you to]] [[H376|the man]] [[H1245|you are seeking.”]] [[H1980|And he led]] [[H8111|them to Samaria.]] ^0619
 
-Then Naaman said, If not, please let there be given to your servant two mule loads of earth, for from now on your servant will not offer burnt offering or sacrifice to any god but the Lord. ^0517
+[[H935|When they had entered]] [[H8111|Samaria,]] [[H477|Elisha]] [[H559|said,]] [[H3068|“O LORD,]] [[H6491|open]] [[H5869|the eyes]] [[H428|of these]] ⟨men⟩ [[H7200|that they may see.”]] [[H3068|Then the LORD]] [[H6491|opened]] [[H5869|their eyes,]] [[H7200|and they looked around]] [[H2009|and discovered]] [[H8432|they were in]] [[H8111|Samaria.]] ^0620
 
-In this matter may the Lord pardon your servant : when my master goes into the house of Rimmon to worship there, leaning on my arm, and I bow myself in the house of Rimmon, when I bow myself in the house of Rimmon, the Lord pardon your servant in this matter. ^0518
+[[H4428|And when the king]] [[H3478|of Israel]] [[H7200|saw]] [[H853|them,]] [[H559|he asked]] [[H477|Elisha,]] [[H1|“My father,]] [[H5221|shall I kill]] ⟨them⟩? [[H5221|Shall I kill?”]] ⟨them⟩ ^0621
 
-He said to him, Go in peace. But when Naaman had gone from him a short distance, ^0519
+[[H3808|“Do not]] [[H5221|kill them,”]] [[H559|he replied.]] [[H859|“Would you]] [[H5221|kill]] [[H834|those]] [[H7617|you have captured]] [[H2719|with your own sword]] [[H7198|or bow?]] [[H7760|Set]] [[H3899|food]] [[H4325|and water]] [[H6440|before them,]] [[H398|that they may eat]] [[H8354|and drink]] [[H1980|and then return]] [[H413|to]] [[H113|their master.”]] ^0622
 
-Gehazi, the servant of Elisha the man of God, said, See, my master has spared this Naaman the Syrian, in not accepting from his hand what he brought. As the Lord lives, I will run after him and get something from him. ^0520
+[[H1419|So prepared a great]] ⟨the king⟩ [[H3739|feast]] [[H3740|for them,]] [[H398|and after they had finished eating]] [[H8354|and drinking,]] [[H7971|he sent them away,]] [[H1980|and they returned]] [[H413|to]] [[H113|their master.]] [[H758|And the Aramean]] [[H1416|raiders]] [[H3808|did not]] [[H935|come]] [[H776|into the land]] [[H3478|of Israel]] [[H3254|again.]] ^0623
 
-So Gehazi followed Naaman. And when Naaman saw someone running after him, he got down from the chariot to meet him and said, Is all well? ^0521
+[[H310|Some time later,]] [[H1130|Ben-hadad]] [[H4428|king]] [[H758|of Aram]] [[H6908|assembled]] [[H3605|his entire]] [[H4264|army]] [[H5927|and marched up]] [[H6696|to besiege]] [[H8111|Samaria.]] ^0624
 
-And he said, All is well. My master has sent me to say, There have just now come to me from the hill country of Ephraim two young men of the sons of the prophets. Please give them a talent of silver and two changes of clothing. ^0522
+[[H1961|So there was]] [[H1419|a great]] [[H7458|famine]] [[H8111|in Samaria.]] [[H2009|Indeed,]] [[H6696|they besieged]] ⟨the city⟩ [[H5921|]] [[H5704|so long that]] [[H2543|a donkey’s]] [[H7218|head]] [[H1961|sold]] [[H8084|for eighty]] ⟨shekels⟩ [[H3701|of silver,]] [[H7255|and a quarter]] [[H6894|cab]] [[H2755|of dove’s dung]] [[H2568|sold for five]] ⟨shekels⟩ [[H3701|of silver.]] ^0625
 
-And Naaman said, Be pleased to accept two talents. And he urged him and tied up two talents of silver in two bags, with two changes of clothing, and laid them on two of his servants. And they carried them before Gehazi. ^0523
+[[H4428|As the king]] [[H3478|of Israel]] [[H5674|was passing by]] [[H5921|on]] [[H2346|the wall,]] [[H802|a woman]] [[H6817|cried out]] [[H413|to him,]] [[H3467|“Help me,]] [[H113|my lord]] [[H4428|the king!”]] ^0626
 
-And when he came to the hill, he took them from their hand and put them in the house, and he sent the men away, and they departed. ^0524
+[[H559|He answered,]] [[H3068|“If the LORD]] [[H408|does not]] [[H3467|help you,]] [[H370|where]] [[H3467|can I find help for you?]] [[H4480|From]] [[H1637|the threshing floor]] [[H176|or]] [[H3342|the winepress?”]] ^0627
 
-He went in and stood before his master, and Elisha said to him, Where have you been, Gehazi? And he said, Your servant went nowhere. ^0525
+[[H4428|Then the king]] [[H559|asked her,]] [[H4100|“What is the matter?”]] [[H559|And she answered,]] [[H2063|“This]] [[H802|woman]] [[H559|said]] [[H413|to me,]] [[H5414|‘Give up]] [[H1121|your son,]] [[H398|and we will eat him today,]] [[H853|and]] [[H4279|tomorrow]] [[H398|we will eat]] [[H1121|my son.’]] ^0628
 
-But he said to him, Did not my heart go when the man turned from his chariot to meet you? Was it a time to accept money and garments, olive orchards and vineyards, sheep and oxen, male servants and female servants? ^0526
+[[H1310|So we boiled]] [[H1121|my son]] [[H398|and ate him,]] [[H312|and the next]] [[H3117|day]] [[H559|I said]] [[H413|to her,]] [[H5414|‘Give up]] [[H1121|your son,]] [[H398|and we will eat him.’]] [[H2244|But she has hidden]] [[H1121|her son.”]] ^0629
 
-Therefore the leprosy of Naaman shall cling to you and to your descendants forever. So he went out from his presence a leper, like snow. ^0527
+[[H4428|When the king]] [[H8085|heard]] [[H1697|the words]] [[H802|of the woman,]] [[H7167|he tore]] [[H899|his clothes.]] [[H1931|And as he]] [[H5674|passed by]] [[H5921|on]] [[H2346|the wall,]] [[H5971|the people]] [[H7200|saw]] [[H8242|the sackcloth]] [[H1004|under his clothes]] [[H5921|next to]] [[H1320|his skin.]] ^0630
 
+[[H559|He announced,]] [[H430|“May God]] [[H3541|punish]] [[H3541|me,  and ever so]] [[H3254|severely,]] [[H518|if]] [[H7218|the head]] [[H477|of Elisha]] [[H1121|son]] [[H8202|of Shaphat]] [[H5975|remains]] [[H5921|on his shoulders]] [[H3117|through this day!”]] ^0631
 
+[[H477|Now Elisha]] [[H3427|was sitting]] [[H1004|in his house,]] [[H2205|and the elders]] [[H3427|were sitting]] [[H854|with him.]] [[H7971|The king sent]] [[H376|a messenger]] [[H6440|ahead,]] [[H2962|but before]] ⟨he⟩ [[H4397|]] [[H935|arrived,]] [[H1931|Elisha]] [[H559|said]] [[H413|to]] [[H2205|the elders,]] [[H7200|“Do you see]] [[H3588|how]] [[H2088|this]] [[H1121|murderer]] [[H7971|has sent]] [[H5493|someone to cut off]] [[H7218|my head?]] [[H7200|Look,]] [[H4397|when the messenger]] [[H935|comes,]] [[H5462|shut]] [[H1817|the door]] [[H3905|to keep him out.]] [[H3808|Is not]] [[H6963|the sound]] [[H113|of his masters]] [[H7272|footsteps]] [[H310|behind him?]] ^0632
 
-Now the sons of the prophets said to Elisha, See, the place where we dwell under your charge is too small for us. ^0601
+[[H5750|While Elisha was still]] [[H1696|speaking]] [[H5973|with them,]] [[H4397|the messenger]] [[H3381|came down]] [[H413|to him.]] [[H559|And said,]] ⟨the king⟩ [[H2063|“This]] [[H7451|calamity]] ⟨is⟩ [[H853|from]] [[H3068|the LORD.]] [[H4100|Why]] [[H3176|should I wait]] [[H3068|for the LORD]] [[H5750|any longer?”]] ^0633
 
-Let us go to the Jordan and each of us get there a log, and let us make a place for us to dwell there. And he answered, Go. ^0602
 
-Then one of them said, Be pleased to go with your servants. And he answered, I will go. ^0603
 
-So he went with them. And when they came to the Jordan, they cut down trees. ^0604
+[[H1961|Shortly before]] [[H3068|the LORD]] [[H5927|took]] [[H452|Elijah]] [[H8064|up to heaven]] [[H5591|in a whirlwind,]] [[H452|Elijah]] [[H477|and Elisha]] [[H1980|were on their way]] [[H4480|from]] [[H1537|Gilgal,]] ^0201
 
-But as one was felling a log, his axe head fell into the water, and he cried out, Alas, my master! It was borrowed. ^0605
+[[H452|and Elijah]] [[H559|said]] [[H413|to]] [[H477|Elisha,]] [[H4994|“Please]] [[H3427|stay]] [[H6311|here,]] [[H3588|for]] [[H3068|the LORD]] [[H7971|has sent me]] [[H5704|on to]] [[H1008|Bethel.”]] [[H477|But Elisha]] [[H559|replied,]] [[H3068|“As surely as the LORD]] [[H2416|lives]] [[H5315|and as you yourself]] [[H2416|live,]] [[H518|I will not]] [[H5800|leave you.”]] [[H3381|So they went down]] [[H1008|to  Bethel.]] ^0202
 
-Then the man of God said, Where did it fall? When he showed him the place, he cut off a stick and threw it in there and made the iron float. ^0606
+[[H1121|Then the sons]] [[H5030|of the prophets]] [[H1008|at  Bethel]] [[H3318|came out]] [[H413|to]] [[H477|Elisha]] [[H559|and said,]] [[H3045|“Do you know]] [[H3588|that]] [[H3068|the LORD]] [[H3947|will take]] [[H113|your master]] [[H5921|away from]] [[H7218|you]] [[H3117|today?”]] [[H1571|“Yes,]] [[H589|I]] [[H3045|know,”]] [[H559|he replied.]] [[H2814|“Do not speak.”]] ⟨of it⟩ ^0203
 
-And he said, Take it up. So he reached out his hand and took it. ^0607
+[[H452|And Elijah]] [[H559|said to]] [[H477|Elisha,]] [[H4994|“Please]] [[H3427|stay]] [[H6311|here,]] [[H3588|for]] [[H3068|the LORD]] [[H7971|has sent me]] [[H3405|on to Jericho.”]] [[H559|But Elisha replied,]] [[H3068|“As surely as the LORD]] [[H2416|lives]] [[H5315|and as you yourself]] [[H2416|live,]] [[H518|I will not]] [[H5800|leave you.”]] [[H935|So they went]] [[H3405|to Jericho.]] ^0204
 
-Once when the king of Syria was warring against Israel, he took counsel with his servants, saying, At such and such a place shall be my camp. ^0608
+[[H1121|Then the sons]] [[H5030|of the prophets]] [[H3405|at Jericho]] [[H5066|came up]] [[H413|to]] [[H477|Elisha]] [[H559|and said,]] [[H3045|“Do you know]] [[H3588|that]] [[H3068|the LORD]] [[H3947|will take]] [[H113|your master]] [[H5921|away from]] [[H7218|you]] [[H3117|today?”]] [[H1571|“Yes,]] [[H589|I]] [[H3045|know,”]] [[H559|he replied.]] [[H2814|“Do not speak.”]] ⟨of it⟩ ^0205
 
-But the man of God sent word to the king of Israel, Beware that you do not pass this place, for the Syrians are going down there. ^0609
+[[H452|And Elijah]] [[H559|said]] [[H4994|to,  “Please]] ⟨Elisha⟩ [[H3427|stay]] [[H6311|here,]] [[H3588|for]] [[H3068|the LORD]] [[H7971|has sent me]] [[H3383|on to the Jordan.”]] [[H559|But Elisha replied,]] [[H3068|“As surely as the LORD]] [[H2416|lives]] [[H5315|and as you]] [[H2416|yourself live,]] [[H518|I will not]] [[H5800|leave you.”]] [[H8147|So the two of them]] [[H1980|went on.]] ^0206
 
-And the king of Israel sent to the place about which the man of God told him. Thus he used to warn him, so that he saved himself there more than once or twice. ^0610
+[[H582|Then a company]] [[H2572|of fifty]] [[H1121|of the sons]] [[H5030|of the prophets]] [[H1980|went]] [[H5975|and stood]] [[H5048|at a distance,]] [[H7350|facing]] ⟨Elijah and Elisha⟩ [[H8147|as the two]] [[H5975|of them stood]] [[H5921|by]] [[H3383|the Jordan.]] ^0207
 
-And the mind of the king of Syria was greatly troubled because of this thing, and he called his servants and said to them, Will you not show me who of us is for the king of Israel? ^0611
+[[H452|And Elijah]] [[H3947|took]] [[H155|his cloak,]] [[H1563|rolled it up,]] [[H5221|and struck]] [[H4325|the waters,]] [[H2673|which parted]] [[H2008|to the right]] [[H2008|and to the left,]] [[H8147|so that the two]] [[H5674|of them crossed over]] [[H2724|on dry ground.]] ^0208
 
-And one of his servants said, None, my lord, O king; but Elisha, the prophet who is in Israel, tells the king of Israel the words that you speak in your bedroom. ^0612
+[[H1961|After]] [[H5674|they had crossed over,]] [[H452|Elijah]] [[H559|said]] [[H413|to]] [[H477|Elisha,]] [[H7592|“Tell me,]] [[H4100|what]] [[H6213|can I do]] [[H2962|for you  before]] [[H3947|I am taken away]] [[H5973|from you?”]] [[H4994|“Please,]] [[H1961|let]] [[H413|me inherit]] [[H8147|a double]] [[H6310|portion]] [[H7307|of your spirit,”]] [[H477|Elisha]] [[H559|replied.]] ^0209
 
-And he said, Go and see where he is, that I may send and seize him. It was told him, Behold, he is in Dothan. ^0613
+[[H7592|“You have requested]] [[H7185|a difficult thing,”]] [[H559|said Elijah.]] [[H518|“ if]] ⟨Nevertheless,⟩ [[H7200|you see]] [[H853|me]] [[H3947|as I am taken]] [[H853|from you,]] [[H1961|it will be]] [[H518|yours.  But if]] [[H369|not,]] [[H3808|then it will not]] [[H1961|be.”]] ⟨so⟩ ^0210
 
-So he sent there horses and chariots and a great army, and they came by night and surrounded the city. ^0614
+[[H1992|As they]] [[H1980|were walking along]] [[H1696|and talking together,]] [[H2009|suddenly]] [[H7393|a chariot]] [[H784|of fire]] [[H5483|with horses]] [[H784|of fire]] [[H6504|appeared and separated]] [[H8147|the two of them,]] [[H452|and Elijah]] [[H5927|went up]] [[H8064|into heaven]] [[H5591|in a whirlwind.]] ^0211
 
-When the servant of the man of God rose early in the morning and went out, behold, an army with horses and chariots was all around the city. And the servant said, Alas, my master! What shall we do? ^0615
+[[H477|As Elisha]] [[H7200|watched,]] [[H1931|he]] [[H6817|cried out,]] [[H1|“My father,]] [[H1|my father,]] [[H7393|the chariots]] [[H6571|and horsemen]] [[H3478|of Israel!”]] [[H7200|And he saw]] ⟨Elijah⟩ [[H3808|no]] [[H5750|more.]] [[H2388|So taking hold]] [[H899|of his own clothes,]] [[H7167|he tore them]] [[H8147|in two.]] ^0212
 
-He said, Do not be afraid, for those who are with us are more than those who are with them. ^0616
+[[H7311|Elisha also picked up]] [[H155|the cloak]] [[H834|that]] [[H5307|had fallen]] [[H5921|from]] [[H452|Elijah,]] [[H7725|and he went back]] [[H5975|and stood]] [[H5921|on]] [[H8193|the bank]] [[H3383|of the Jordan.]] ^0213
 
-Then Elisha prayed and said, O Lord, please open his eyes that he may see. So the Lord opened the eyes of the young man, and he saw, and behold, the mountain was full of horses and chariots of fire all around Elisha. ^0617
+[[H3947|Then he took]] [[H155|the cloak]] [[H452|of Elijah]] [[H834|that]] [[H5307|had fallen]] [[H5921|from him]] [[H5221|and struck]] [[H4325|the waters.]] [[H346|“Where now]] ⟨is⟩ [[H3068|the LORD,]] [[H430|the God]] [[H452|of Elijah?”]] [[H559|he asked.]] [[H5221|And when he had struck]] [[H4325|the waters,]] [[H2673|they parted]] [[H2008|to the right]] [[H2008|and to the left,]] [[H477|and Elisha]] [[H5674|crossed over.]] ^0214
 
-And when the Syrians came down against him, Elisha prayed to the Lord and said, Please strike this people with blindness. So he struck them with blindness in accordance with the prayer of Elisha. ^0618
+[[H1121|When the sons]] [[H5030|of the prophets]] [[H834|who]] ⟨were⟩ [[H5048|facing him]] [[H3405|from Jericho]] [[H7200|saw what had happened,]] [[H559|they said,]] [[H7307|“The spirit]] [[H452|of Elijah]] [[H5117|rests]] [[H5921|on]] [[H477|Elisha.”]] [[H935|And they went]] [[H7125|to meet him]] [[H7812|and bowed down]] [[H776|to the ground]] ^0215
 
-And Elisha said to them, This is not the way, and this is not the city. Follow me, and I will bring you to the man whom you seek. And he led them to Samaria. ^0619
+[[H2009|“Look]] [[H4994|now,”]] [[H559|they said]] [[H413|to Elisha,]] [[H5650|“we your servants]] [[H3426|have]] [[H2572|fifty]] [[H2428|valiant]] [[H376|men.]] [[H4994|Please]] [[H1980|let them go]] [[H1245|and search for]] [[H113|your master.]] [[H6435|Perhaps]] [[H7307|the Spirit]] [[H3068|of the LORD]] [[H5375|has taken him up]] [[H7993|and put him]] [[H259|on one]] [[H2022|of the mountains]] [[H176|or]] [[H259|in one]] [[H1516|of the valleys.”]] [[H3808|“Do not]] [[H7971|send them,”]] ⟨Elisha⟩ [[H559|replied.]] ^0216
 
-As soon as they entered Samaria, Elisha said, O Lord, open the eyes of these men, that they may see. So the Lord opened their eyes and they saw, and behold, they were in the midst of Samaria. ^0620
+[[H6484|But when they pressed]] [[H5704|him  to the point of]] [[H954|embarrassment,]] [[H559|he said,]] [[H7971|“Send.”]] ⟨them⟩ [[H7971|And they sent]] [[H2572|fifty]] [[H376|men,]] [[H1245|who searched for]] [[H7969|three]] [[H3117|days]] [[H3808|but did not]] [[H4672|find]] ⟨Elijah⟩. ^0217
 
-As soon as the king of Israel saw them, he said to Elisha, My father, shall I strike them down? Shall I strike them down? ^0621
+[[H7725|When they returned]] [[H413|to]] ⟨Elisha⟩, [[H1931|who]] [[H3427|was staying]] [[H3405|in Jericho,]] [[H559|he said]] [[H413|to them,]] [[H3808|“Didn't]] [[H559|I tell]] [[H413|you]] [[H408|not]] [[H1980|to go?”]] ^0218
 
-He answered, You shall not strike them down. Would you strike down those whom you have taken captive with your sword and with your bow? Set bread and water before them, that they may eat and drink and go to their master. ^0622
+[[H376|Then the men]] [[H5892|of the city]] [[H559|said]] [[H413|to]] [[H477|Elisha,]] [[H4994|“Please]] [[H2009|note,]] [[H113|our lord,]] [[H5892|that the city’s]] [[H4186|location]] [[H2896|is good,]] [[H4325|but the water]] ⟨is⟩ [[H7451|bad]] [[H776|and the land]] [[H7921|is unfruitful.”]] ^0219
 
-So he prepared for them a great feast, and when they had eaten and drunk, he sent them away, and they went to their master. And the Syrians did not come again on raids into the land of Israel. ^0623
+[[H3947|“Bring]] [[H2319|me  a new]] [[H6746|bowl,”]] [[H559|he replied,]] [[H7760|“and put]] [[H4417|some salt]] [[H8033|in it.”]] [[H3947|So they brought]] ⟨it⟩ [[H413|to him,]] ^0220
 
-Afterward Ben-hadad king of Syria mustered his entire army and went up and besieged Samaria. ^0624
+[[H3318|and went out]] ⟨Elisha⟩ [[H413|to]] [[H4161|the spring,]] [[H7993|cast]] [[H4417|the salt into it,]] [[H559|and said,]] [[H3541|“This is what]] [[H3068|the LORD]] [[H559|says:]] [[H7495|‘I have healed]] [[H428|this]] [[H4325|water.]] [[H3808|No]] [[H5750|longer]] [[H1961|will it cause]] [[H4194|death]] [[H7921|or unfruitfulness.’”]] ^0221
 
-And there was a great famine in Samaria, as they besieged it, until a donkey’s head was sold for eighty shekels of silver, and the fourth part of a kab of dove’s dung for five shekels of silver. ^0625
+[[H4325|And the waters]] ⟨there⟩ [[H7495|have been healthy]] [[H5704|to]] [[H2088|this]] [[H3117|day,]] [[H1697|according to the word]] [[H1696|spoken]] [[H477|by Elisha.]] ^0222
 
-Now as the king of Israel was passing by on the wall, a woman cried out to him, saying, Help, my lord, O king! ^0626
+[[H8033|From there,]] [[H5927|Elisha went up]] [[H1008|to  Bethel,]] [[H1931|and as he]] [[H5927|was walking up]] [[H1870|the road,]] [[H5288|a group of young men]] [[H3318|came out]] [[H4480|of]] [[H5892|the city]] [[H7046|and jeered at]] [[H559|him,  chanting,]] [[H5927|“Go up,]] [[H7142|you baldhead!]] [[H5927|Go up,]] [[H7142|you baldhead!”]] ^0223
 
-And he said, If the Lord will not help you, how shall I help you? From the threshing floor, or from the winepress? ^0627
+[[H6437|Then he turned]] [[H310|around,]] [[H7200|looked at them,]] [[H7043|and called down a curse on them]] [[H8034|in the name]] [[H3068|of the LORD.]] [[H8147|Suddenly two]] [[H1677|female bears]] [[H3318|came out]] [[H4480|of]] [[H3293|the woods]] [[H1234|and mauled]] [[H705|forty-two]] [[H3206|of the young men.]] ^0224
 
-And the king asked her, What is your trouble? She answered, This woman said to me, Give your son, that we may eat him today, and we will eat my son tomorrow. ^0628
+[[H1980|And Elisha went]] [[H8033|on]] [[H413|to]] [[H2022|Mount]] [[H3760|Carmel,]] [[H8033|and from there]] [[H7725|he returned]] [[H8111|to Samaria.]] ^0225
 
-So we boiled my son and ate him. And on the next day I said to her, Give your son, that we may eat him. But she has hidden her son. ^0629
+[[H7651|In the seventeenth]] [[H8141|year]] ⟨of the reign⟩ [[H6492|of Pekah]] [[H1121|son]] [[H7425|of Remaliah,]] [[H271|Ahaz]] [[H1121|son]] [[H3147|of Jotham]] [[H4427|became king]] [[H3063|of Judah.]] ^1601
 
-When the king heard the words of the woman, he tore his clothes —now he was passing by on the wall —and the people looked, and behold, he had sackcloth beneath on his body — ^0630
+[[H271|Ahaz]] [[H6242|was twenty]] [[H1121|years old]] [[H4427|when he became king,]] [[H4427|and he reigned]] [[H3389|in Jerusalem]] [[H8337|sixteen]] [[H8141|years.]] [[H1732|And unlike David]] [[H1|his forefather,]] [[H3808|he did not]] [[H6213|do]] ⟨what was⟩ [[H3477|right]] [[H5869|in the eyes]] [[H3068|of the LORD]] [[H430|his God.]] ^1602
 
-and he said, May God do so to me and more also, if the head of Elisha the son of Shaphat remains on his shoulders today. ^0631
+[[H1980|Instead, he walked]] [[H1870|in the way]] [[H4428|of the kings]] [[H3478|of Israel]] [[H1571|and even]] [[H5674|sacrificed]] [[H1121|his son]] [[H784|in the fire,]] [[H8441|according to the abominations]] [[H1471|of the nations]] [[H834|whom]] [[H3068|the LORD]] [[H3423|had driven out]] [[H6440|before]] [[H1121|the Israelites.]] ^1603
 
-Elisha was sitting in his house, and the elders were sitting with him. Now the king had dispatched a man from his presence, but before the messenger arrived Elisha said to the elders, Do you see how this murderer has sent to take off my head? Look, when the messenger comes, shut the door and hold the door fast against him. Is not the sound of his master’s feet behind him? ^0632
+[[H2076|And he sacrificed]] [[H6999|and burned incense]] [[H1116|on the high places,]] [[H5921|on]] [[H1389|the hills,]] [[H8478|and under]] [[H3605|every]] [[H7488|green]] [[H6086|tree.]] ^1604
 
-And while he was still speaking with them, the messenger came down to him and said, This trouble is from the Lord! Why should I wait for the Lord any longer? ^0633
+[[H227|Then]] [[H7526|Rezin]] [[H4428|king]] [[H758|of Aram]] [[H6492|and Pekah]] [[H1121|son]] [[H7425|of Remaliah]] [[H4428|king]] [[H3478|of Israel]] [[H5927|came up]] [[H4421|to wage war]] [[H3389|against Jerusalem.]] [[H6696|They besieged]] [[H271|Ahaz]] [[H3201|but could]] [[H3808|not]] [[H3898|overcome]] ⟨him⟩. ^1605
 
+[[H1931|At that]] [[H6256|time]] [[H7526|Rezin]] [[H4428|king]] [[H758|of Aram]] [[H7725|recovered]] [[H359|Elath]] [[H758|for Aram,]] [[H5394|drove out]] [[H3064|the men of Judah,]] [[H935|and sent]] [[H726|the Edomites]] [[H359|into Elath,]] [[H8033|where]] [[H3427|they live]] [[H5704|to]] [[H2088|this]] [[H3117|day.]] ^1606
 
+[[H271|So Ahaz]] [[H7971|sent]] [[H4397|messengers]] [[H413|to]] [[H8407|Tiglath-pileser]] [[H4428|king]] [[H804|of Assyria,]] [[H559|saying,]] [[H589|“I]] [[H5650|am your servant]] [[H1121|and your son.]] [[H5927|Come up]] [[H3467|and save me]] [[H3709|from the hands]] [[H4428|of the kings]] [[H758|of Aram]] ⟨and⟩ [[H4428|]] [[H3478|Israel,]] [[H6965|who are rising up]] [[H5921|against me.”]] ^1607
 
-But Elisha said, Hear the word of the Lord : thus says the Lord, Tomorrow about this time a seah of fine flour shall be sold for a shekel, and two seahs of barley for a shekel, at the gate of Samaria. ^0701
+[[H271|Ahaz]] [[H3947|also took]] [[H3701|the silver]] [[H2091|and gold]] [[H4672|found]] [[H1004|in the house]] [[H3069|of the LORD]] [[H214|and in the treasuries]] [[H4428|of the king’s]] [[H1004|palace,]] [[H7971|and he sent it]] [[H7810|as a gift]] [[H4428|to the king]] [[H804|of Assyria.]] ^1608
 
-Then the captain on whose hand the king leaned said to the man of God, If the Lord himself should make windows in heaven, could this thing be? But he said, You shall see it with your own eyes, but you shall not eat of it. ^0702
+[[H4428|So the king]] [[H804|of Assyria]] [[H8085|listened]] [[H413|to him,]] [[H5927|marched up]] [[H413|to]] [[H1834|Damascus,]] [[H8610|and captured it.]] [[H1540|He took its people]] [[H7024|to Kir as captives]] [[H853|and]] [[H7526|put Rezin]] [[H4191|to death.]] ^1609
 
-Now there were four men who were lepers at the entrance to the gate. And they said to one another, Why are we sitting here until we die? ^0703
+[[H4428|Then King]] [[H271|Ahaz]] [[H1980|went]] [[H1834|to Damascus]] [[H7125|to meet]] [[H8407|Tiglath-pileser]] [[H4428|king]] [[H804|of Assyria.]] [[H7200|On seeing]] [[H4196|the altar]] [[H1834|in Damascus,]] [[H4428|King]] [[H271|Ahaz]] [[H7971|sent]] [[H223|Uriah]] [[H3548|the priest]] [[H1823|a model]] [[H4196|of the altar]] [[H8403|and complete plans]] [[H4639|for its construction.]] ^1610
 
-If we say, Let us enter the city, the famine is in the city, and we shall die there. And if we sit here, we die also. So now come, let us go over to the camp of the Syrians. If they spare our lives we shall live, and if they kill us we shall but die. ^0704
+[[H223|And Uriah]] [[H1129|built]] [[H4196|the altar]] [[H3605|according to all]] [[H834|the instructions]] [[H4428|King]] [[H271|Ahaz]] [[H7971|had sent]] [[H1834|from Damascus,]] ⟨and⟩ [[H3651|]] [[H6213|he completed it]] [[H5704|by the time]] [[H4428|King]] [[H271|Ahaz]] [[H935|had returned.]] ^1611
 
-So they arose at twilight to go to the camp of the Syrians. But when they came to the edge of the camp of the Syrians, behold, there was no one there. ^0705
+[[H4428|When the king]] [[H935|came back]] [[H1834|from Damascus]] [[H7200|and saw]] [[H4196|the altar,]] [[H4428|he]] [[H7126|approached]] ⟨it⟩ [[H4196|]] [[H5927|and presented offerings]] [[H5921|on it.]] ^1612
 
-For the Lord had made the army of the Syrians hear the sound of chariots and of horses, the sound of a great army, so that they said to one another, Behold, the king of Israel has hired against us the kings of the Hittites and the kings of Egypt to come against us. ^0706
+[[H6999|He offered]] [[H5930|his burnt offering]] [[H4503|and his grain offering,]] [[H5258|poured out]] [[H5262|his drink offering,]] [[H2236|and sprinkled]] [[H1818|the blood]] [[H8002|of his peace offerings]] [[H5921|on]] [[H4196|the altar.]] ^1613
 
-So they fled away in the twilight and abandoned their tents, their horses, and their donkeys, leaving the camp as it was, and fled for their lives. ^0707
+[[H7126|He also took]] [[H5178|the bronze]] [[H4196|altar]] [[H834|that]] [[H6440|stood before]] [[H3068|the LORD]] [[H6440|from the front]] [[H1004|of the temple]] [[H996|(between]] [[H4196|the altar]] ⟨new⟩ [[H996|and]] [[H1004|the house]] [[H3068|of the LORD)]] [[H5414|and he put]] [[H5921|it on]] [[H6828|the north]] [[H3409|side]] [[H4196|of the altar.]] ⟨new⟩ ^1614
 
-And when these lepers came to the edge of the camp, they went into a tent and ate and drank, and they carried off silver and gold and clothing and went and hid them. Then they came back and entered another tent and carried off things from it and went and hid them. ^0708
+[[H4428|Then King]] [[H271|Ahaz]] [[H6680|commanded]] [[H223|Uriah]] [[H3548|the priest,]] [[H6999|“Offer]] [[H5921|on]] [[H1419|the great]] [[H4196|altar]] [[H1242|the morning]] [[H5930|burnt offering,]] [[H6153|the evening]] [[H4503|grain offering,]] [[H4428|and the king’s]] [[H5930|burnt offering]] [[H4503|and grain offering,]] [[H5930|as well as the burnt offerings,]] [[H4503|grain offerings,]] [[H5262|and drink offerings]] [[H3605|of all]] [[H5971|the people]] [[H776|of the land.]] [[H2236|Sprinkle]] [[H5921|on the altar]] [[H3605|all]] [[H1818|the blood]] [[H5930|of the burnt offerings]] ⟨and⟩ [[H3605|]] [[H2077|sacrifices.]] [[H1961|But I will use]] [[H5178|the bronze]] [[H4196|altar]] [[H1239|to seek guidance.]] ^1615
 
-Then they said to one another, We are not doing right. This day is a day of good news. If we are silent and wait until the morning light, punishment will overtake us. Now therefore come; let us go and tell the king’s household. ^0709
+[[H223|So Uriah]] [[H3548|the priest]] [[H6213|did]] [[H3605|just as]] [[H4428|King]] [[H271|Ahaz]] [[H6680|had commanded.]] ^1616
 
-So they came and called to the gatekeepers of the city and told them, We came to the camp of the Syrians, and behold, there was no one to be seen or heard there, nothing but the horses tied and the donkeys tied and the tents as they were. ^0710
+[[H4428|King]] [[H271|Ahaz also]] [[H7112|cut off]] [[H4526|the frames]] [[H4350|of the movable stands]] [[H5493|and removed]] [[H853|the bronze basin]] [[H5921|from each of them.]] [[H3381|He took down]] [[H3220|the Sea]] [[H5921|from]] [[H5178|the bronze]] [[H1241|bulls]] [[H834|that]] [[H5414|were under it  and put]] [[H853|it]] [[H5921|on]] [[H68|a stone]] [[H4837|base.]] ^1617
 
-Then the gatekeepers called out, and it was told within the king’s household. ^0711
+[[H853|And]] [[H6440|on account]] [[H4428|of the king]] [[H804|of Assyria,]] [[H5437|he removed]] [[H7676|the Sabbath]] [[H4329|canopy]] [[H1129|they had built]] [[H1004|in the temple]] [[H4428|and closed the royal]] [[H3996|entryway]] [[H2435|outside]] [[H1004|the house]] [[H3068|of the LORD.]] ^1618
 
-And the king rose in the night and said to his servants, I will tell you what the Syrians have done to us. They know that we are hungry. Therefore they have gone out of the camp to hide themselves in the open country, thinking, When they come out of the city, we shall take them alive and get into the city. ^0712
+[[H3499|As for the rest]] [[H1697|of the acts]] [[H271|of Ahaz,]] [[H834|along with his accomplishments,]] [[H3789|are they not written]] [[H5612|in the Book]] [[H1697|of the Chronicles]] [[H4428|of the Kings]] [[H3063|of Judah?]] ^1619
 
-And one of his servants said, Let some men take five of the remaining horses, seeing that those who are left here will fare like the whole multitude of Israel who have already perished. Let us send and see. ^0713
+[[H271|And Ahaz]] [[H7901|rested]] [[H5973|with]] [[H1|his fathers]] [[H6912|and was buried]] [[H5973|with]] ⟨them⟩ [[H1|]] [[H5892|in the City]] [[H1732|of David,]] [[H1121|and his son]] [[H2396|Hezekiah]] [[H4427|became king]] [[H8478|in his place.]] ^1620
 
-So they took two horsemen, and the king sent them after the army of the Syrians, saying, Go and see. ^0714
+[[H2977|Josiah]] [[H8083|was eight]] [[H1121|years old]] [[H4427|when he became king,]] [[H4427|and he reigned]] [[H3389|in Jerusalem]] [[H7970|thirty-one]] [[H8141|years.]] [[H517|His mother’s]] [[H8034|name]] [[H3040|was Jedidah]] [[H1323|the daughter]] [[H5718|of Adaiah;]] [[H1218|she was from Bozkath.]] ^2201
 
-So they went after them as far as the Jordan, and behold, all the way was littered with garments and equipment that the Syrians had thrown away in their haste. And the messengers returned and told the king. ^0715
+[[H6213|And he did]] ⟨what was⟩ [[H3477|right]] [[H5869|in the eyes]] [[H3068|of the LORD]] [[H1980|and walked]] [[H3605|in all]] [[H1870|the ways]] [[H1732|of David]] [[H1|his forefather;]] [[H3808|he did not]] [[H5493|turn aside]] [[H3225|to the right]] [[H8040|or to the left.]] ^2202
 
-Then the people went out and plundered the camp of the Syrians. So a seah of fine flour was sold for a shekel, and two seahs of barley for a shekel, according to the word of the Lord. ^0716
+[[H1961|Now]] [[H8083|in the eighteenth]] [[H8141|year]] [[H4428|of his reign,]] [[H4428|King]] [[H2977|Josiah]] [[H7971|sent]] [[H5608|the scribe,]] [[H8227|Shaphan]] [[H1121|son]] [[H683|of Azaliah,]] [[H1121|the son]] [[H4918|of Meshullam,]] [[H1004|to the house]] [[H3068|of the LORD,]] [[H559|saying,]] ^2203
 
-Now the king had appointed the captain on whose hand he leaned to have charge of the gate. And the people trampled him in the gate, so that he died, as the man of God had said when the king came down to him. ^0717
+[[H5927|“Go up]] [[H413|to]] [[H2518|Hilkiah]] [[H1419|the high]] [[H3548|priest]] [[H8552|and have him count]] [[H3701|the money]] [[H935|that has been brought]] [[H1004|into the house]] [[H3068|of the LORD,]] [[H834|which]] [[H5592|the doorkeepers]] [[H622|have collected]] [[H5971|from the people.]] ^2204
 
-For when the man of God had said to the king, Two seahs of barley shall be sold for a shekel, and a seah of fine flour for a shekel, about this time tomorrow in the gate of Samaria, ^0718
+[[H5414|And let them deliver it]] [[H5921|into]] [[H3027|the hands]] [[H6485|of the supervisors]] [[H6213|of those doing]] [[H4399|the work]] [[H1004|on the house]] [[H3068|of the LORD,]] [[H5414|who in turn are to give]] [[H853|it]] [[H6213|to the workmen]] [[H2388|repairing]] [[H919|the damages]] [[H1004|to the house]] [[H3068|of the LORD—]] ^2205
 
-the captain had answered the man of God, If the Lord himself should make windows in heaven, could such a thing be? And he had said, You shall see it with your own eyes, but you shall not eat of it. ^0719
+[[H2796|to the carpenters,]] [[H1129|builders,]] [[H1443|and masons—]] [[H7069|to buy]] [[H6086|timber]] [[H4274|and dressed]] [[H68|stone]] [[H2388|to repair]] [[H1004|the temple.]] ^2206
 
-And so it happened to him, for the people trampled him in the gate and he died. ^0720
+[[H389|But]] [[H3808|they need not]] [[H2803|account]] [[H3701|for the money]] [[H5414|put]] [[H5921|into]] [[H3027|their hands,]] [[H3588|since]] [[H1992|they]] [[H6213|work]] [[H530|with integrity.”]] ^2207
 
+[[H2518|Then Hilkiah]] [[H1419|the high]] [[H3548|priest]] [[H559|said to]] [[H8227|Shaphan]] [[H5608|the scribe,]] [[H4672|“I have found]] [[H5612|the Book]] [[H8451|of the Law]] [[H1004|in the house]] [[H3068|of the LORD!”]] [[H2518|And he]] [[H5414|gave]] ⟨it⟩ [[H5612|]] [[H413|to]] [[H8227|Shaphan,]] [[H7121|who read it.]] ^2208
 
+[[H8227|And Shaphan]] [[H5608|the scribe]] [[H935|went]] [[H413|to]] [[H4428|the king]] [[H7725|and reported,]] [[H5650|“Your servants]] [[H5413|have paid out]] [[H3701|the money]] [[H4672|that was found]] [[H1004|in the temple]] [[H5414|and have put]] [[H5921|it into]] [[H3027|the hands]] [[H6213|of the workers]] [[H6485|and supervisors]] [[H1004|of the house]] [[H3068|of the LORD.”]] ^2209
 
-Now Elisha had said to the woman whose son he had restored to life, Arise, and depart with your household, and sojourn wherever you can, for the Lord has called for a famine, and it will come upon the land for seven years. ^0801
+[[H8227|Moreover, Shaphan]] [[H5608|the scribe]] [[H5046|told]] [[H4428|the king,]] [[H2518|“Hilkiah]] [[H3548|the priest]] [[H5414|has given]] [[H5612|me  a book.”]] [[H8227|And Shaphan]] [[H7121|read it]] [[H6440|in the presence]] [[H4428|of the king.]] ^2210
 
-So the woman arose and did according to the word of the man of God. She went with her household and sojourned in the land of the Philistines seven years. ^0802
+[[H4428|When the king]] [[H8085|heard]] [[H1697|the words]] [[H5612|of the Book]] [[H8451|of the Law,]] [[H7167|he tore]] [[H899|his clothes]] ^2211
 
-And at the end of the seven years, when the woman returned from the land of the Philistines, she went to appeal to the king for her house and her land. ^0803
+⟨and⟩ [[H4428|]] [[H6680|commanded]] [[H2518|Hilkiah]] [[H3548|the priest,]] [[H296|Ahikam]] [[H1121|son]] [[H8227|of Shaphan,]] [[H5907|Achbor]] [[H1121|son]] [[H4320|of Micaiah,]] [[H8227|Shaphan]] [[H5608|the scribe,]] [[H6222|and Asaiah]] [[H5650|the servant]] [[H4428|of the king:]] ^2212
 
-Now the king was talking with Gehazi the servant of the man of God, saying, Tell me all the great things that Elisha has done. ^0804
+[[H1980|“Go]] [[H1875|and inquire]] [[H3068|of the LORD]] [[H1157|for me,]] [[H1157|for]] [[H5971|the people,]] [[H1157|and for]] [[H3605|all]] [[H3063|Judah]] [[H5921|concerning]] [[H1697|the words]] [[H2088|in this]] [[H5612|book]] [[H4672|that has been found.]] [[H3588|For]] [[H1419|great]] ⟨is⟩ [[H2534|the wrath]] [[H3068|of the LORD]] [[H834|that]] [[H3341|burns]] [[H834|against us  because]] [[H1|our fathers]] [[H3808|have not]] [[H8085|obeyed]] [[H1697|the words]] [[H2088|of this]] [[H5612|book]] [[H6213|by doing]] [[H3605|all]] [[H3789|that is written]] [[H5921|about us.]] ^2213
 
-And while he was telling the king how Elisha had restored the dead to life, behold, the woman whose son he had restored to life appealed to the king for her house and her land. And Gehazi said, My lord, O king, here is the woman, and here is her son whom Elisha restored to life. ^0805
+[[H2518|So Hilkiah]] [[H3548|the priest,]] [[H296|Ahikam,]] [[H5907|Achbor,]] [[H8227|Shaphan,]] [[H6222|and Asaiah]] [[H1980|went]] [[H1696|and spoke]] [[H413|to]] [[H2468|Huldah]] [[H5031|the prophetess,]] [[H802|the wife]] [[H7967|of Shallum]] [[H1121|son]] [[H8616|of Tikvah,]] [[H1121|the son]] [[H2745|of Harhas,]] [[H8104|the keeper]] [[H899|of the wardrobe.]] [[H1931|She]] [[H3427|lived]] [[H3389|in Jerusalem,]] [[H4932|in the Second District.]] ^2214
 
-And when the king asked the woman, she told him. So the king appointed an official for her, saying, Restore all that was hers, together with all the produce of the fields from the day that she left the land until now. ^0806
+[[H559|And said]] ⟨Huldah⟩ [[H413|to them,]] [[H3541|“This is what]] [[H3068|the LORD,]] [[H430|the God]] [[H3478|of Israel,]] [[H559|says:]] [[H559|‘Tell]] [[H376|the man]] [[H834|who]] [[H7971|sent]] [[H853|you]] ^2215
 
-Now Elisha came to Damascus. Ben-hadad the king of Syria was sick. And when it was told him, The man of God has come here, ^0807
+[[H3541|that this is what]] [[H3068|the LORD]] [[H559|says:]] [[H935|I am about to bring]] [[H7451|calamity]] [[H413|on]] [[H2088|this]] [[H4725|place]] [[H5921|and on]] [[H3427|its people,]] [[H3605|according to all]] [[H1697|the words]] [[H5612|of the book]] [[H834|that]] [[H4428|the king]] [[H3063|of Judah]] [[H7121|has read,]] ^2216
 
-the king said to Hazael, Take a present with you and go to meet the man of God, and inquire of the Lord through him, saying, Shall I recover from this sickness? ^0808
+[[H8478|because]] [[H5800|they have forsaken Me]] [[H6999|and burned incense]] [[H312|to other]] [[H430|gods,]] [[H4616|that]] [[H3707|they might provoke Me to anger]] [[H3605|with all]] [[H4639|the works]] [[H3027|of their hands.]] [[H2534|My wrath]] [[H3341|will be kindled]] [[H2088|against this]] [[H4725|place]] [[H3808|and will not]] [[H3518|be quenched.’]] ^2217
 
-So Hazael went to meet him, and took a present with him, all kinds of goods of Damascus, forty camels ’ loads. When he came and stood before him, he said, Your son Ben-hadad king of Syria has sent me to you, saying, Shall I recover from this sickness? ^0809
+[[H413|But as for]] [[H4428|the king]] [[H3063|of Judah,]] [[H7971|who sent]] [[H853|you]] [[H1875|to inquire]] [[H3068|of the LORD,]] [[H559|tell him]] [[H3541|that this is what]] [[H3068|the LORD,]] [[H430|God]] [[H3478|of Israel,]] [[H559|says:]] [[H1697|‘As for the words]] [[H834|that]] [[H8085|you heard,]] ^2218
 
-And Elisha said to him, Go, say to him, You shall certainly recover, but the Lord has shown me that he shall certainly die. ^0810
+[[H3282|because]] [[H3824|your heart]] [[H7401|was tender]] [[H3665|and you humbled yourself]] [[H6440|before]] [[H3068|the LORD]] [[H8085|when you heard]] [[H834|what]] [[H1696|I spoke]] [[H5921|against]] [[H2088|this]] [[H4725|place]] [[H5921|and against]] [[H3427|its people,]] [[H1961|that they would become]] [[H8047|a desolation]] [[H7045|and a curse,]] [[H7167|and because you have torn]] [[H899|your clothes]] [[H1058|and wept]] [[H6440|before Me,]] [[H595|I]] [[H8085|have heard]] ⟨you⟩, [[H5002|declares]] [[H3068|the LORD.]] ^2219
 
-And he fixed his gaze and stared at him, until he was embarrassed. And the man of God wept. ^0811
+[[H3651|‘Therefore]] [[H622|I will indeed gather]] [[H5921|you to]] [[H1|your fathers,]] [[H622|and you will be gathered]] [[H413|to]] [[H6913|your grave]] [[H7965|in peace.]] [[H5869|Your eyes]] [[H3808|will not]] [[H7200|see]] [[H3605|all]] [[H7451|the calamity]] [[H834|that]] [[H589|I]] [[H935|will bring]] [[H5921|on]] [[H2088|this]] [[H4725|place.’”]] [[H7725|So they brought]] [[H1697|her answer]] [[H4428|back to the king.]] ^2220
 
-And Hazael said, Why does my lord weep? He answered, Because I know the evil that you will do to the people of Israel. You will set on fire their fortresses, and you will kill their young men with the sword and dash in pieces their little ones and rip open their pregnant women. ^0812
+[[H477|Now Elisha]] [[H5030|the prophet]] [[H7121|summoned]] [[H259|one]] [[H1121|of the sons]] [[H5030|of the prophets]] [[H559|and said]] [[H2296|to him,  “Tuck your cloak]] [[H4975|under your belt,]] [[H3947|take]] [[H2088|this]] [[H6378|flask]] [[H8081|of oil,]] [[H1980|and go]] [[H7433|to Ramoth-gilead.]] ^0901
 
-And Hazael said, What is your servant, who is but a dog, that he should do this great thing? Elisha answered, The Lord has shown me that you are to be king over Syria. ^0813
+[[H935|When you arrive,]] [[H7200|look]] [[H3058|for Jehu]] [[H1121|son]] [[H3092|of Jehoshaphat,]] [[H1121|the son]] [[H5250|of Nimshi.]] [[H935|Go in,]] [[H6965|get him away]] [[H8432|from]] [[H251|his companions,]] [[H935|and take]] [[H2315|him to an inner room.]] ^0902
 
-Then he departed from Elisha and came to his master, who said to him, What did Elisha say to you? And he answered, He told me that you would certainly recover. ^0814
+[[H3947|Then take]] [[H6378|the flask]] [[H8081|of oil,]] [[H3332|pour]] [[H5921|it on]] [[H7218|his head,]] [[H559|and declare,]] [[H3541|‘This is what]] [[H3068|the LORD]] [[H559|says:]] [[H4886|I anoint]] [[H4428|you king]] [[H413|over]] [[H3478|Israel.’]] [[H6605|Then open]] [[H1817|the door]] [[H5127|and run.]] [[H3808|Do not]] [[H2442|delay!”]] ^0903
 
-But the next day he took the bed cloth and dipped it in water and spread it over his face, till he died. And Hazael became king in his place. ^0815
+[[H5288|So the young]] [[H5030|prophet]] [[H1980|went]] [[H7433|to Ramoth-gilead,]] ^0904
 
-In the fifth year of Joram the son of Ahab, king of Israel, when Jehoshaphat was king of Judah, Jehoram the son of Jehoshaphat, king of Judah, began to reign. ^0816
+[[H935|and when he arrived,]] [[H2428|the army]] [[H8269|commanders]] [[H3427|were sitting]] [[H2009|there.]] [[H1697|“I have a message]] [[H413|for you,]] [[H8269|commander,”]] [[H559|he said.]] [[H413|“For]] [[H4310|which]] [[H3605|of us?”]] [[H559|asked]] [[H3058|Jehu.]] [[H413|“For you,]] [[H8269|commander,”]] [[H559|he replied.]] ^0905
 
-He was thirty-two years old when he became king, and he reigned eight years in Jerusalem. ^0817
+[[H6965|So Jehu got up]] [[H935|and went]] [[H1004|into the house,]] [[H3332|where the young prophet poured]] [[H8081|the oil]] [[H413|on]] [[H7218|his head]] [[H559|and declared,]] [[H3541|“This is what]] [[H3068|the LORD,]] [[H430|the God]] [[H3478|of Israel,]] [[H559|says:]] [[H4886|‘I anoint you]] [[H4428|king]] [[H413|over]] [[H3068|the LORD’s]] [[H5971|people]] [[H3478|Israel.]] ^0906
 
-And he walked in the way of the kings of Israel, as the house of Ahab had done, for the daughter of Ahab was his wife. And he did what was evil in the sight of the Lord. ^0818
+[[H5221|And you are to strike down]] [[H1004|the house]] [[H113|of your master]] [[H256|Ahab,]] [[H5358|so that I may avenge]] [[H1818|the blood]] [[H5650|of My servants]] [[H5030|the prophets]] ⟨and⟩ [[H1818|]] [[H3605|all]] [[H5650|the servants]] [[H3068|of the LORD]] ⟨shed⟩ [[H3027|by the hand]] [[H348|of Jezebel.]] ^0907
 
-Yet the Lord was not willing to destroy Judah, for the sake of David his servant, since he promised to give a lamp to him and to his sons forever. ^0819
+[[H3605|The whole]] [[H1004|house]] [[H256|of Ahab]] [[H6|will perish,]] [[H3772|and I will cut off]] [[H256|from Ahab]] [[H8366|all the males]] [[H3478|in Israel,]] [[H6113|both slave]] [[H5800|and free.]] ^0908
 
-In his days Edom revolted from the rule of Judah and set up a king of their own. ^0820
+[[H5414|I will make]] [[H1004|the house]] [[H256|of Ahab]] [[H1004|like the houses]] [[H3379|of Jeroboam]] [[H1121|son]] [[H5028|of Nebat]] ⟨and⟩ [[H1004|]] [[H1201|Baasha]] [[H1121|son]] [[H281|of Ahijah.]] ^0909
 
-Then Joram passed over to Zair with all his chariots and rose by night, and he and his chariot commanders struck the Edomites who had surrounded him, but his army fled home. ^0821
+[[H853|And]] [[H3611|the dogs]] [[H398|will eat]] [[H348|Jezebel]] [[H2506|on the plot at]] ⟨of ground⟩ [[H3157|Jezreel,]] [[H369|and no one]] ⟨there will be⟩ [[H6912|to bury.’”]] ⟨her⟩ [[H6605|Then the young prophet opened]] [[H1817|the door]] [[H5127|and ran away.]] ^0910
 
-So Edom revolted from the rule of Judah to this day. Then Libnah revolted at the same time. ^0822
+[[H3058|When Jehu]] [[H3318|went out]] [[H413|to]] [[H5650|the servants]] [[H113|of his master,]] [[H559|they asked,]] [[H7965|“Is everything all right?]] [[H4069|Why]] [[H2088|did this]] [[H7696|madman]] [[H935|come]] [[H413|to you?”]] [[H859|“You]] [[H3045|know]] [[H376|the sort]] [[H7879|and their babble,”]] [[H559|he replied.]] ^0911
 
-Now the rest of the acts of Joram, and all that he did, are they not written in the Book of the Chronicles of the Kings of Judah? ^0823
+[[H8267|“That is a lie!”]] [[H559|they said.]] [[H5046|“Tell us!”]] [[H559|So Jehu answered,]] [[H559|“He talked]] [[H413|to me]] [[H2063|about this]] [[H2063|and that,]] [[H559|and he said,]] [[H3541|‘This is what]] [[H3068|the LORD]] [[H559|says:]] [[H4886|I anoint]] [[H4428|you king]] [[H413|over]] [[H3478|Israel.’”]] ^0912
 
-So Joram slept with his fathers and was buried with his fathers in the city of David, and Ahaziah his son reigned in his place. ^0824
+[[H4116|Quickly,]] [[H376|each man]] [[H3947|took]] [[H899|his garment]] [[H7760|and put]] ⟨it⟩ [[H8478|under]] ⟨Jehu⟩ [[H413|on]] [[H1634|the bare]] [[H4609|steps.]] [[H8628|Then they blew]] [[H7782|the trumpet]] [[H559|and proclaimed,]] [[H3058|“Jehu]] [[H4427|is king!”]] ^0913
 
-In the twelfth year of Joram the son of Ahab, king of Israel, Ahaziah the son of Jehoram, king of Judah, began to reign. ^0825
+[[H3058|Thus Jehu]] [[H1121|son]] [[H3092|of Jehoshaphat,]] [[H1121|the son]] [[H5250|of Nimshi,]] [[H7194|conspired]] [[H413|against]] [[H3141|Joram.]] [[H3141|(Now Joram]] [[H3605|and all]] [[H3478|Israel]] [[H1961|had been]] [[H8104|defending]] [[H7433|Ramoth-gilead]] [[H6440|against]] [[H2371|Hazael]] [[H4428|king]] [[H758|of Aram,]] ^0914
 
-Ahaziah was twenty-two years old when he began to reign, and he reigned one year in Jerusalem. His mother’s name was Athaliah; she was a granddaughter of Omri king of Israel. ^0826
+[[H4428|but King]] [[H3088|Joram]] [[H7725|had returned]] [[H3157|to Jezreel]] [[H7495|to recover]] [[H4480|from]] [[H4347|the wounds]] [[H5221|he had suffered]] ⟨at the hands⟩ [[H761|of the Arameans]] [[H3898|in the battle]] [[H854|against]] [[H2371|Hazael]] [[H4428|their king.)]] [[H3058|So Jehu]] [[H559|said,]] [[H518|“If]] [[H5315|you commanders wish to make me king,]] [[H408|then do not]] [[H3318|let anyone]] [[H6412|escape]] [[H4480|from]] [[H5892|the city]] [[H1980|to go]] [[H5046|and tell]] ⟨it⟩ [[H3157|in Jezreel.]] ^0915
 
-He also walked in the way of the house of Ahab and did what was evil in the sight of the Lord, as the house of Ahab had done, for he was son-in-law to the house of Ahab. ^0827
+[[H3058|Then Jehu]] [[H7392|got into his chariot]] [[H1980|and went]] [[H3157|to Jezreel,]] [[H3588|because]] [[H3141|Joram]] [[H7901|was laid up]] [[H8033|there]] [[H274|and Ahaziah]] [[H4428|king]] [[H3063|of Judah]] [[H3381|had gone down]] [[H7200|to see]] ⟨him⟩ [[H3141|.]] ^0916
 
-He went with Joram the son of Ahab to make war against Hazael king of Syria at Ramoth-gilead, and the Syrians wounded Joram. ^0828
+[[H6822|Now the watchman]] [[H5975|standing]] [[H5921|on]] [[H4026|the tower]] [[H3157|in Jezreel]] [[H7200|saw]] [[H3058|Jehu’s]] [[H8229|troops]] [[H935|approaching,]] [[H559|and he called out,]] [[H589|“I]] [[H7200|see]] [[H8229|a company of!”]] ⟨troops⟩ [[H3947|“Choose]] [[H7395|a rider,”]] [[H3088|Joram]] [[H559|commanded.]] [[H7971|“Send him out]] [[H7125|to meet them]] [[H559|and ask,]] [[H7965|Have you come in peace?’”]] ^0917
 
-And King Joram returned to be healed in Jezreel of the wounds that the Syrians had given him at Ramah, when he fought against Hazael king of Syria. And Ahaziah the son of Jehoram king of Judah went down to see Joram the son of Ahab in Jezreel, because he was sick. ^0829
+[[H7392|So a horseman]] [[H1980|rode off]] [[H7125|to meet Jehu]] [[H559|and said,]] [[H3541|“This is what]] [[H4428|the king]] [[H559|asks:]] [[H7965|‘Have you come in peace?’”]] [[H4100|“What]] [[H7965|do you  know about peace?”]] [[H3058|Jehu]] [[H559|replied.]] [[H5437|“Fall in]] [[H310|behind me.”]] [[H6822|And the watchman]] [[H5046|reported,]] [[H4397|“The messenger]] [[H935|reached]] [[H1992|them,]] [[H3808|but he is not]] [[H7725|coming back.”]] ^0918
 
+[[H7971|So sent out]] ⟨the king⟩ [[H8145|a second]] [[H7392|horseman,]] [[H935|who went]] [[H413|to them]] [[H559|and said,]] [[H3541|“This is what]] [[H4428|the king]] [[H559|asks:]] [[H7965|‘Have you come in peace?’”]] [[H4100|“What]] [[H7965|do you  know about peace?”]] [[H3058|Jehu]] [[H559|replied.]] [[H5437|“Fall in]] [[H310|behind me.”]] ^0919
 
+[[H6822|Again the watchman]] [[H5046|reported,]] [[H935|“He reached]] [[H413|them,]] [[H3808|but he is not]] [[H7725|coming back.]] [[H4491|And the charioteer]] [[H4491|is driving like]] [[H3058|Jehu]] [[H1121|son]] [[H5250|of Nimshi—]] [[H5090|he drives]] [[H7697|like a madman.”]] ^0920
 
-Then Elisha the prophet called one of the sons of the prophets and said to him, Tie up your garments, and take this flask of oil in your hand, and go to Ramoth-gilead. ^0901
+[[H631|“Harness!”]] [[H3088|Joram]] [[H559|shouted,]] [[H631|and they harnessed]] [[H7393|his chariot.]] [[H3088|Then Joram]] [[H4428|king]] [[H3478|of Israel]] [[H274|and Ahaziah]] [[H4428|king]] [[H3063|of Judah]] [[H3318|set out,]] [[H376|each]] [[H7393|in his own chariot,]] [[H3318|and met]] [[H3058|Jehu]] [[H2513|on the property]] [[H5022|of Naboth]] [[H3158|the Jezreelite.]] ^0921
 
-And when you arrive, look there for Jehu the son of Jehoshaphat, son of Nimshi. And go in and have him rise from among his fellows, and lead him to an inner chamber. ^0902
+[[H3088|When Joram]] [[H7200|saw]] [[H3058|Jehu,]] [[H559|he asked,]] [[H7965|“Have you come in peace,]] [[H3058|Jehu?”]] [[H4100|“How]] [[H5704|can there be]] [[H7965|peace,”]] [[H559|he replied,]] [[H7227|“as long as]] [[H2183|the idolatry]] [[H3785|and witchcraft]] [[H517|of your mother]] [[H348|Jezebel abound?”]] ^0922
 
-Then take the flask of oil and pour it on his head and say, Thus says the Lord, I anoint you king over Israel. Then open the door and flee; do not linger. ^0903
+[[H3088|Joram]] [[H2015|turned around]] [[H5127|and fled,]] [[H559|calling out]] [[H413|to]] [[H274|Ahaziah,]] [[H4820|“Treachery,]] [[H274|Ahaziah!”]] ^0923
 
-So the young man, the servant of the prophet, went to Ramoth-gilead. ^0904
+[[H3058|Then Jehu]] [[H4390|drew]] [[H7198|his bow]] [[H5221|and shot]] [[H3088|Joram]] [[H996|between]] [[H2220|the shoulders.]] [[H2678|The arrow]] [[H3318|pierced]] [[H3820|his heart,]] [[H3766|and he slumped down]] [[H7393|in his chariot.]] ^0924
 
-And when he came, behold, the commanders of the army were in council. And he said, I have a word for you, O commander. And Jehu said, To which of us all? And he said, To you, O commander. ^0905
+[[H559|And said]] ⟨Jehu⟩ [[H413|to]] [[H920|Bidkar]] [[H7991|his officer,]] [[H5375|“Pick him up]] ⟨and⟩ [[H7993|throw him]] [[H7704|into the field]] [[H5022|of Naboth]] [[H3158|the Jezreelite.]] [[H3588|For]] [[H2142|remember that]] [[H859|when you]] [[H589|and I]] [[H7392|were riding]] [[H6776|together]] [[H310|behind]] [[H1|his father]] [[H256|Ahab,]] [[H3069|the LORD]] [[H5375|lifted up]] [[H2088|this]] [[H4853|oracle]] [[H5921|against him:]] ^0925
 
-So he arose and went into the house. And the young man poured the oil on his head, saying to him, Thus says the Lord, the God of Israel, I anoint you king over the people of the Lord, over Israel. ^0906
+[[H518|‘As surely]] [[H7200|as I saw]] [[H1818|the blood]] [[H5022|of Naboth]] [[H1818|and the blood]] [[H1121|of his sons]] [[H570|yesterday,]] [[H5002|declares]] [[H3068|the LORD,]] [[H7999|so will I repay]] [[H2063|you on this]] [[H2513|plot of land,]] [[H5002|declares]] [[H3068|the LORD.’]] [[H6258|Now then,]] [[H1697|according to the word]] [[H3068|of the LORD,]] [[H5375|pick him up]] ⟨and⟩ [[H7993|throw him]] [[H2513|on the plot.”]] ⟨of land⟩ ^0926
 
-And you shall strike down the house of Ahab your master, so that I may avenge on Jezebel the blood of my servants the prophets, and the blood of all the servants of the Lord. ^0907
+[[H4428|When King]] [[H274|Ahaziah]] [[H3063|of Judah]] [[H7200|saw]] ⟨this⟩, [[H5127|he fled]] [[H1870|up the road]] [[H1588|toward Beth-haggan.]] [[H3058|And Jehu]] [[H7291|pursued him,]] [[H559|shouting,]] [[H5221|“Shoot]] [[H853|him]] [[H1571|too!”]] ⟨So they shot Ahaziah⟩ [[H413|in]] [[H4818|his chariot]] [[H4608|on the Ascent]] [[H1483|of Gur,]] [[H2991|near Ibleam,]] [[H5127|and he fled]] [[H4023|to Megiddo]] [[H4191|and died]] [[H8033|there.]] ^0927
 
-For the whole house of Ahab shall perish, and I will cut off from Ahab every male, bond or free, in Israel. ^0908
+[[H5650|Then his servants]] [[H7392|carried him by chariot]] [[H3389|to Jerusalem]] [[H6912|and buried]] [[H853|him]] [[H1|with his fathers]] [[H6900|in his tomb]] [[H5892|in the City]] [[H1732|of David.]] ^0928
 
-And I will make the house of Ahab like the house of Jeroboam the son of Nebat, and like the house of Baasha the son of Ahijah. ^0909
+[[H259|(In the eleventh]] [[H8141|year]] [[H3141|of Joram]] [[H1121|son]] [[H256|of Ahab,]] [[H274|Ahaziah]] [[H4427|had become king]] [[H5921|over]] [[H3063|Judah.)]] ^0929
 
-And the dogs shall eat Jezebel in the territory of Jezreel, and none shall bury her. Then he opened the door and fled. ^0910
+[[H3058|Now when Jehu]] [[H935|arrived]] [[H3157|in Jezreel,]] [[H348|Jezebel]] [[H8085|heard]] ⟨of it⟩. [[H7760|So she painted]] [[H5869|her eyes,]] [[H3190|adorned]] [[H7218|her head,]] [[H8259|and looked down]] [[H1157|from]] [[H2474|a window.]] ^0930
 
-When Jehu came out to the servants of his master, they said to him, Is all well? Why did this mad fellow come to you? And he said to them, You know the fellow and his talk. ^0911
+[[H3058|And as Jehu]] [[H935|entered]] [[H8179|the gate,]] [[H559|she asked,]] [[H7965|“Have you come in peace,]] [[H2174|O Zimri,]] [[H2026|murderer]] [[H113|of your master?”]] ^0931
 
-And they said, That is not true; tell us now. And he said, Thus and so he spoke to me, saying, Thus says the Lord, I anoint you king over Israel. ^0912
+[[H5375|He looked up]] [[H413|at]] [[H2474|the window]] [[H559|and called out,]] [[H4310|“Who]] [[H854|is on my side?]] [[H4310|Who?”]] [[H8147|And two]] [[H7969|or three]] [[H5631|eunuchs]] [[H8259|looked down]] [[H413|at him.]] ^0932
 
-Then in haste every man of them took his garment and put it under him on the bare steps, and they blew the trumpet and proclaimed, Jehu is king. ^0913
+[[H8058|“Throw her down!”]] [[H559|yelled]] ⟨Jehu⟩. [[H8058|So they threw her down,]] [[H1818|and her blood]] [[H5137|splattered]] [[H413|on]] [[H7023|the wall]] [[H413|and on]] [[H5483|the horses]] [[H7429|as they trampled her underfoot.]] ^0933
 
-Thus Jehu the son of Jehoshaphat the son of Nimshi conspired against Joram. ( Now Joram with all Israel had been on guard at Ramoth-gilead against Hazael king of Syria, ^0914
+[[H935|Then went in]] ⟨Jehu⟩ [[H398|and ate]] [[H8354|and drank.]] [[H6485|“Take care of]] [[H2063|this]] [[H779|cursed,”]] ⟨woman⟩ [[H559|he said,]] [[H6912|“and bury her,]] [[H3588|for]] [[H1931|she]] ⟨was⟩ [[H1323|the daughter]] [[H4428|of a king.”]] ^0934
 
-but King Joram had returned to be healed in Jezreel of the wounds that the Syrians had given him, when he fought with Hazael king of Syria .) So Jehu said, If this is your decision, then let no one slip out of the city to go and tell the news in Jezreel. ^0915
+[[H1980|But when they went out]] [[H6912|to bury her,]] [[H4672|they found]] [[H3808|nothing but]] [[H1538|her skull,]] [[H7272|her feet,]] [[H3709|and the palms]] [[H3027|of her hands.]] ^0935
 
-Then Jehu mounted his chariot and went to Jezreel, for Joram lay there. And Ahaziah king of Judah had come down to visit Joram. ^0916
+[[H7725|So they went back]] [[H5046|and told]] ⟨Jehu⟩ [[H559|,  who replied,]] [[H1931|“This]] [[H1697|is the word]] [[H3068|of the LORD,]] [[H834|which]] [[H1696|He spoke]] [[H3027|through]] [[H5650|His servant]] [[H452|Elijah]] [[H8664|the Tishbite:]] [[H2506|‘On the plot]] ⟨of land⟩ [[H3157|at Jezreel]] [[H3611|the dogs]] [[H398|will devour]] [[H348|Jezebel’s]] [[H1320|flesh.]] ^0936
 
-Now the watchman was standing on the tower in Jezreel, and he saw the company of Jehu as he came and said, I see a company. And Joram said, Take a horseman and send to meet them, and let him say, Is it peace? ^0917
+[[H348|And Jezebel’s]] [[H5038|body]] [[H1961|will lie]] [[H1828|like dung]] [[H7704|in the field]] [[H2506|in the plot]] [[H3157|at Jezreel,]] [[H834|so that]] [[H3808|no one]] [[H559|can say:]] [[H2063|This]] [[H348|is Jezebel.’”]] ^0937
 
-So a man on horseback went to meet him and said, Thus says the king, Is it peace? And Jehu said, What do you have to do with peace? Turn around and ride behind me. And the watchman reported, saying, The messenger reached them, but he is not coming back. ^0918
+[[H7651|In the seventh]] [[H8141|year]] [[H3058|of Jehu,]] [[H3060|Joash]] [[H4427|became king,]] [[H4427|and he reigned]] [[H3389|in Jerusalem]] [[H705|forty]] [[H8141|years.]] [[H517|His mother’s]] [[H8034|name]] [[H6645|was Zibiah;]] [[H884|she was from  Beersheba.]] ^1201
 
-Then he sent out a second horseman, who came to them and said, Thus the king has said, Is it peace? And Jehu answered, What do you have to do with peace? Turn around and ride behind me. ^0919
+[[H3060|And Joash]] [[H6213|did]] ⟨what was⟩ [[H3477|right]] [[H5869|in the eyes]] [[H3068|of the LORD]] [[H3605|all]] [[H3117|the days]] [[H3384|he was instructed]] [[H3077|by Jehoiada]] [[H3548|the priest.]] ^1202
 
-Again the watchman reported, He reached them, but he is not coming back. And the driving is like the driving of Jehu the son of Nimshi, for he drives furiously. ^0920
+[[H7535|Nevertheless,]] [[H1116|the high places]] [[H3808|were not]] [[H5493|removed;]] [[H5971|the people]] [[H5750|continued]] [[H2076|sacrificing]] [[H6999|and burning incense]] ⟨there⟩ [[H1116|.]] ^1203
 
-Joram said, Make ready. And they made ready his chariot. Then Joram king of Israel and Ahaziah king of Judah set out, each in his chariot, and went to meet Jehu, and met him at the property of Naboth the Jezreelite. ^0921
+[[H3060|Then Joash]] [[H559|said]] [[H413|to]] [[H3548|the priests,]] [[H3605|“ all]] ⟨Collect⟩ [[H3701|the money]] [[H935|brought]] [[H6944|as sacred gifts]] [[H1004|into the house]] [[H3068|of the LORD—]] [[H5674|the census]] [[H3701|money,]] [[H3701|the money]] [[H5315|from vows,]] ⟨and⟩ [[H3605|]] [[H3701|the money]] [[H935|brought]] [[H5927|voluntarily]] [[H1004|into the house]] [[H3068|of the LORD.]] ^1204
 
-And when Joram saw Jehu, he said, Is it peace, Jehu? He answered, What peace can there be, so long as the whorings and the sorceries of your mother Jezebel are so many? ^0922
+[[H376|Let every]] [[H3548|priest]] [[H3947|receive]] ⟨it⟩ [[H4378|from his constituency,]] [[H1992|and let it be used]] [[H2388|to repair]] [[H919|any damage]] [[H4672|found]] [[H1004|in the temple.”]] ^1205
 
-Then Joram reined about and fled, saying to Ahaziah, Treachery, O Ahaziah! ^0923
+[[H1961|But]] [[H6242|by the twenty-third]] [[H8141|year]] [[H4428|of the reign]] [[H3060|of Joash,]] [[H3548|the priests]] [[H3808|had not]] [[H2388|repaired]] [[H919|the damage]] [[H1004|to the temple.]] ^1206
 
-And Jehu drew his bow with his full strength, and shot Joram between the shoulders, so that the arrow pierced his heart, and he sank in his chariot. ^0924
+[[H4428|So King]] [[H3060|Joash]] [[H7121|called]] [[H3077|Jehoiada]] [[H3548|and the other priests]] [[H559|and said,]] [[H4069|“Why]] [[H369|have you not]] [[H2388|repaired]] [[H919|the damage]] [[H1004|in the temple?]] [[H6258|Now, therefore,]] [[H3947|take]] [[H408|no more]] [[H3701|money]] [[H853|from]] [[H4378|your constituency,]] [[H3588|but]] [[H5414|hand it over]] [[H919|for the repair]] [[H1004|of the temple.]] ^1207
 
-Jehu said to Bidkar his aide, Take him up and throw him on the plot of ground belonging to Naboth the Jezreelite. For remember, when you and I rode side by side behind Ahab his father, how the Lord made this pronouncement against him: ^0925
+[[H3548|So the priests]] [[H225|agreed]] [[H1115|they would not]] [[H3947|receive]] [[H3701|money]] [[H853|from]] [[H5971|the people]] [[H1115|and that they would not]] [[H2388|repair]] [[H1004|the temple]] ⟨themselves⟩. ^1208
 
-As surely as I saw yesterday the blood of Naboth and the blood of his sons — declares the Lord —I will repay you on this plot of ground. Now therefore take him up and throw him on the plot of ground, in accordance with the word of the Lord. ^0926
+[[H3077|Then Jehoiada]] [[H3548|the priest]] [[H3947|took]] [[H259|a]] [[H727|chest,]] [[H5344|bored]] [[H2356|a hole]] [[H1817|in its lid,]] [[H5414|and set]] [[H681|it beside]] [[H4196|the altar]] [[H3225|on the right side]] [[H376|as one]] [[H935|enters]] [[H1004|the house]] [[H3068|of the LORD.]] [[H8033|There]] [[H3548|the priests]] [[H8104|who guarded]] [[H5592|the threshold]] [[H5414|put]] [[H3605|all]] [[H3701|the money]] [[H935|brought]] [[H1004|into the house]] [[H3068|of the LORD.]] ^1209
 
-When Ahaziah the king of Judah saw this, he fled in the direction of Beth-haggan. And Jehu pursued him and said, Shoot him also. And they shot him in the chariot at the ascent of Gur, which is by Ibleam. And he fled to Megiddo and died there. ^0927
+[[H7200|Whenever they saw]] [[H3588|that]] ⟨there was⟩ [[H7227|a large amount]] [[H3701|of money]] [[H727|in the chest,]] [[H4428|the royal]] [[H5608|scribe]] [[H1419|and the high]] [[H3548|priest]] [[H5927|would go up,]] [[H4487|count]] [[H3701|the money]] [[H4672|brought]] [[H1004|into the house]] [[H3068|of the LORD,]] [[H6696|and tie it up in bags.]] ^1210
 
-His servants carried him in a chariot to Jerusalem, and buried him in his tomb with his fathers in the city of David. ^0928
+[[H5414|Then they would put]] [[H8505|the counted]] [[H3701|money]] [[H5921|into]] [[H3027|the hands]] [[H6213|of those who]] [[H6485|supervised]] [[H4399|the work]] [[H1004|on the house]] [[H3068|of the LORD,]] [[H3318|who in turn would pay]] [[H6213|those doing the work—]] [[H2796|the carpenters,]] [[H1129|builders,]] ^1211
 
-In the eleventh year of Joram the son of Ahab, Ahaziah began to reign over Judah. ^0929
+[[H1443|masons,]] [[H2672|and stonecutters.]] [[H7069|They also purchased]] [[H6086|timber]] [[H4274|and dressed]] [[H68|stone]] [[H2388|to repair]] [[H919|the damage]] [[H1004|to the house]] [[H3068|of the LORD,]] [[H3318|and they paid]] [[H3605|the other expenses]] [[H1004|of the temple]] [[H2394|repairs.]] ^1212
 
-When Jehu came to Jezreel, Jezebel heard of it. And she painted her eyes and adorned her head and looked out of the window. ^0930
+[[H389|However,]] [[H3701|the money]] [[H935|brought]] [[H1004|into the house]] [[H3068|of the LORD]] [[H3808|was not]] ⟨used for⟩ [[H6213|making]] [[H3701|silver]] [[H5592|basins,]] [[H4212|wick trimmers,]] [[H4219|sprinkling bowls,]] [[H2689|trumpets,]] [[H3605|or any]] [[H3627|articles]] [[H2091|of gold]] [[H3701|or silver]] [[H1004|for the house]] [[H3068|of the LORD.]] ^1213
 
-And as Jehu entered the gate, she said, Is it peace, you Zimri, murderer of your master? ^0931
+[[H3588|Instead,]] [[H5414|it was paid]] [[H6213|to those doing]] [[H4399|the work,]] [[H2388|and with it  they repaired]] [[H1004|the house]] [[H3068|of the LORD.]] ^1214
 
-And he lifted up his face to the window and said, Who is on my side? Who? Two or three eunuchs looked out at him. ^0932
+[[H3808|No]] [[H2803|accounting was required]] [[H582|from the men]] [[H834|who]] [[H3701|received the money]] [[H5414|to pay]] [[H6213|the workmen,]] [[H3588|because]] [[H1992|they]] [[H6213|acted]] [[H530|with fidelity.]] ^1215
 
-He said, Throw her down. So they threw her down. And some of her blood spattered on the wall and on the horses, and they trampled on her. ^0933
+[[H3701|The money]] [[H817|from the guilt offerings]] [[H2399|and sin offerings]] [[H3808|was not]] [[H935|brought]] [[H1004|into the house]] [[H3068|of the LORD;]] [[H1961|it belonged to]] [[H3548|the priests.]] ^1216
 
-Then he went in and ate and drank. And he said, See now to this cursed woman and bury her, for she is a king’s daughter. ^0934
+[[H227|At that time]] [[H2371|Hazael]] [[H4428|king]] [[H758|of Aram]] [[H5927|marched up]] [[H3898|and fought]] [[H5921|against]] [[H1661|Gath]] [[H3920|and captured it.]] [[H2371|Then he]] [[H7760|decided]] [[H5927|to attack]] [[H3389|Jerusalem.]] ^1217
 
-But when they went to bury her, they found no more of her than the skull and the feet and the palms of her hands. ^0935
+[[H4428|So King]] [[H3060|Joash]] [[H3063|of Judah]] [[H3947|took]] [[H3605|all]] [[H6944|the sacred objects]] [[H6942|dedicated]] [[H1|by his fathers—]] [[H3092|Jehoshaphat,]] [[H3088|Jehoram,]] [[H274|and Ahaziah,]] [[H4428|the kings]] [[H3063|of Judah—]] [[H853|along with]] [[H6944|his own consecrated items]] [[H3605|and all]] [[H2091|the gold]] [[H4672|found]] [[H214|in the treasuries]] [[H1004|of the house]] [[H3068|of the LORD]] [[H4428|and the royal]] [[H1004|palace,]] [[H7971|and he sent]] [[H2371|them to Hazael]] [[H4428|king]] [[H758|of Aram.]] [[H5927|So withdrew]] ⟨Hazael⟩ [[H5921|from]] [[H3389|Jerusalem.]] ^1218
 
-When they came back and told him, he said, This is the word of the Lord, which he spoke by his servant Elijah the Tishbite : In the territory of Jezreel the dogs shall eat the flesh of Jezebel, ^0936
+[[H3499|As for the rest]] [[H1697|of the acts]] [[H3101|of Joash,]] [[H3605|along with all]] [[H834|his accomplishments,]] [[H3789|are they not written]] [[H5612|in the Book]] [[H1697|of the Chronicles]] [[H4428|of the Kings]] [[H3063|of Judah?]] ^1219
 
-and the corpse of Jezebel shall be as dung on the face of the field in the territory of Jezreel, so that no one can say, This is Jezebel. ^0937
+[[H5650|And the servants]] ⟨of Joash⟩ [[H6965|rose up]] [[H7194|and formed]] [[H7195|a conspiracy]] [[H5221|and killed]] ⟨him⟩ [[H3101|]] [[H4407|at Beth-millo,]] [[H3381|on the road down]] [[H5538|to Silla.]] ^1220
 
+[[H5650|His servants]] [[H3107|Jozabad]] [[H1121|son]] [[H8100|of Shimeath]] [[H3075|and Jehozabad]] [[H1121|son]] [[H7763|of Shomer]] [[H5221|struck him down,]] [[H4191|and he died.]] [[H6912|And they buried]] [[H5973|him with]] [[H1|his fathers]] [[H5892|in the City]] [[H1732|of David,]] [[H1121|and his son]] [[H558|Amaziah]] [[H4427|became king]] [[H8478|in his place.]] ^1221
 
+[[H6242|In the twenty-third]] [[H8141|year]] [[H4428|of the reign]] [[H3101|of Joash]] [[H1121|son]] [[H274|of Ahaziah]] [[H3063|over Judah,]] [[H3059|Jehoahaz]] [[H1121|son]] [[H3058|of Jehu]] [[H4427|became king]] [[H5921|of]] [[H3478|Israel,]] ⟨and he reigned⟩ [[H8111|in Samaria]] [[H7651|seventeen]] [[H8141|years.]] ^1301
 
-Now Ahab had seventy sons in Samaria. So Jehu wrote letters and sent them to Samaria, to the rulers of the city, to the elders, and to the guardians of the sons of Ahab, saying, ^1001
+[[H6213|And he did]] [[H7451|evil]] [[H5869|in the sight]] [[H3068|of the LORD]] [[H1980|and followed]] [[H2403|the sins]] [[H834|that]] [[H3379|Jeroboam]] [[H1121|son]] [[H5028|of Nebat]] [[H3478|had caused Israel]] [[H2398|to commit;]] [[H3808|he did not]] [[H5493|turn away]] [[H4480|from them.]] ^1302
 
-Now then, as soon as this letter comes to you, seeing your master’s sons are with you, and there are with you chariots and horses, fortified cities also, and weapons, ^1002
+[[H639|So the anger]] [[H3068|of the LORD]] [[H2734|burned]] [[H3478|against Israel,]] [[H5414|and He delivered them]] [[H3605|continually]] [[H3027|into the hands]] [[H2371|of Hazael]] [[H4428|king]] [[H758|of Aram]] [[H2371|and his]] [[H1121|son]] [[H1130|Ben-hadad.]] ^1303
 
-select the best and fittest of your master’s sons and set him on his father’s throne and fight for your master’s house. ^1003
+[[H3059|Then Jehoahaz]] [[H2470|sought]] [[H6440|the favor]] [[H3068|of the LORD,]] [[H3068|and the LORD]] [[H8085|listened]] [[H413|to him]] [[H3588|because]] [[H7200|He saw]] [[H3906|the oppression]] [[H4428|that the king]] [[H758|of Aram]] [[H3905|had inflicted]] [[H3478|on Israel.]] ^1304
 
-But they were exceedingly afraid and said, Behold, the two kings could not stand before him. How then can we stand? ^1004
+[[H3068|So the LORD]] [[H5414|gave]] [[H3478|Israel]] [[H3467|a deliverer,]] [[H3318|and they escaped]] [[H3027|the power]] [[H758|of the Arameans.]] [[H1121|Then the people]] [[H3478|of Israel]] [[H3427|lived]] [[H168|in their own homes]] [[H8543|as they had before.]] ^1305
 
-So he who was over the palace, and he who was over the city, together with the elders and the guardians, sent to Jehu, saying, We are your servants, and we will do all that you tell us. We will not make anyone king. Do whatever is good in your eyes. ^1005
+[[H389|Nevertheless,]] [[H3808|they did not]] [[H5493|turn away]] [[H2403|from the sins]] [[H834|that]] [[H1004|the house]] [[H3379|of Jeroboam]] [[H3478|had caused Israel]] [[H2398|to commit,]] ⟨but⟩ [[H1980|they continued to walk in them.]] [[H842|The Asherah]] [[H1571|even]] [[H5975|remained standing]] [[H8111|in Samaria.]] ^1306
 
-Then he wrote to them a second letter, saying, If you are on my side, and if you are ready to obey me, take the heads of your master’s sons and come to me at Jezreel tomorrow at this time. Now the king’s sons, seventy persons, were with the great men of the city, who were bringing them up. ^1006
+[[H3059|Jehoahaz]] [[H3808|had no]] [[H5971|army]] [[H7604|left,]] [[H3588|except]] [[H2572|fifty]] [[H6571|horsemen,]] [[H6235|ten]] [[H7393|chariots,]] [[H6235|and ten]] [[H505|thousand]] [[H7273|foot soldiers,]] [[H3588|because]] [[H4428|the king]] [[H758|of Aram]] [[H6|had destroyed them]] [[H7760|and made them]] [[H6083|like the dust]] [[H1758|at threshing.]] ^1307
 
-And as soon as the letter came to them, they took the king’s sons and slaughtered them, seventy persons, and put their heads in baskets and sent them to him at Jezreel. ^1007
+[[H3499|As for the rest]] [[H1697|of the acts]] [[H3059|of Jehoahaz,]] [[H3605|along with all]] [[H834|his accomplishments]] [[H1369|and his might,]] [[H3789|are they not written]] [[H5612|in the Book]] [[H1697|of the Chronicles]] [[H4428|of the Kings]] [[H3478|of Israel?]] ^1308
 
-When the messenger came and told him, They have brought the heads of the king’s sons, he said, Lay them in two heaps at the entrance of the gate until the morning. ^1008
+[[H3059|And Jehoahaz]] [[H7901|rested]] [[H5973|with]] [[H1|his fathers]] [[H6912|and was buried]] [[H8111|in Samaria.]] [[H1121|And his son]] [[H3101|Jehoash]] [[H4427|became king]] [[H8478|in his place.]] ^1309
 
-Then in the morning, when he went out, he stood and said to all the people, You are innocent. It was I who conspired against my master and killed him, but who struck down all these? ^1009
+[[H7970|In the thirty-seventh]] [[H8141|year]] [[H4428|of the reign]] [[H3101|of Joash]] [[H3063|over Judah,]] [[H3060|Jehoash]] [[H1121|son]] [[H3059|of Jehoahaz]] [[H4427|became king]] [[H5921|of]] [[H3478|Israel]] [[H8111|in Samaria,]] ⟨and he reigned⟩ [[H8337|sixteen]] [[H8141|years.]] ^1310
 
-Know then that there shall fall to the earth nothing of the word of the Lord, which the Lord spoke concerning the house of Ahab, for the Lord has done what he said by his servant Elijah. ^1010
+[[H6213|And he did]] [[H7451|evil]] [[H5869|in the sight]] [[H3068|of the LORD]] [[H3808|and did not]] [[H5493|turn away]] [[H3605|from all]] [[H2403|the sins]] [[H834|that]] [[H3379|Jeroboam]] [[H1121|son]] [[H5028|of Nebat]] [[H3478|had caused Israel]] [[H2398|to commit,]] [[H1980|but he walked in them.]] ^1311
 
-So Jehu struck down all who remained of the house of Ahab in Jezreel, all his great men and his close friends and his priests, until he left him none remaining. ^1011
+[[H3499|As for the rest]] [[H1697|of the acts]] [[H3101|of Jehoash,]] [[H3605|along with all]] [[H834|his accomplishments]] [[H1369|and his might,]] [[H3898|including his war]] [[H5973|against]] [[H558|Amaziah]] [[H4428|king]] [[H3063|of Judah,]] [[H3789|are they not written]] [[H5612|in the Book]] [[H1697|of the Chronicles]] [[H4428|of the Kings]] [[H3478|of Israel?]] ^1312
 
-Then he set out and went to Samaria. On the way, when he was at Beth-eked of the Shepherds, ^1012
+[[H3101|And Jehoash]] [[H7901|rested]] [[H5973|with]] [[H1|his fathers,]] [[H3379|and Jeroboam]] [[H3427|succeeded him]] [[H5921|on]] [[H3678|the throne.]] [[H3101|Jehoash]] [[H6912|was buried]] [[H8111|in Samaria]] [[H5973|with]] [[H4428|the kings]] [[H3478|of Israel.]] ^1313
 
-Jehu met the relatives of Ahaziah king of Judah, and he said, Who are you? And they answered, We are the relatives of Ahaziah, and we came down to visit the royal princes and the sons of the queen mother. ^1013
+[[H477|When Elisha]] [[H2470|had fallen sick]] [[H2483|with the illness]] [[H834|from which]] [[H4191|he would die,]] [[H3101|Jehoash]] [[H4428|king]] [[H3478|of Israel]] [[H3381|came down]] [[H413|to him]] [[H1058|and wept]] [[H5921|over]] [[H6440|him,]] [[H559|saying,]] [[H1|“My father,]] [[H1|my father,]] [[H7393|the chariots]] [[H6571|and horsemen]] [[H3478|of Israel!”]] ^1314
 
-He said, Take them alive. And they took them alive and slaughtered them at the pit of Beth-eked, forty-two persons, and he spared none of them. ^1014
+[[H477|Elisha]] [[H559|told]] [[H3947|him,  “Take]] [[H7198|a bow]] [[H2671|and some arrows.”]] [[H3947|So he himself took]] [[H7198|a bow]] [[H2671|and some arrows.]] ^1315
 
-And when he departed from there, he met Jehonadab the son of Rechab coming to meet him. And he greeted him and said to him, Is your heart true to my heart as mine is to yours? And Jehonadab answered, It is. Jehu said, If it is, give me your hand. So he gave him his hand. And Jehu took him up with him into the chariot. ^1015
+[[H559|Then Elisha said]] [[H4428|to the king]] [[H3478|of Israel,]] [[H7392|“Put]] [[H3027|your hand]] [[H5921|on]] [[H7198|the bow.”]] [[H7392|So the king put]] [[H3027|his hand on]] ⟨the bow⟩, [[H477|and Elisha]] [[H7760|put]] [[H3027|his hands]] [[H5921|on]] [[H4428|the king’s]] [[H3027|hands.]] ^1316
 
-And he said, Come with me, and see my zeal for the Lord. So he had him ride in his chariot. ^1016
+[[H6605|“Open]] [[H6924|the east]] [[H2474|window,”]] [[H559|said Elisha.]] [[H6605|So he opened]] ⟨it⟩ [[H477|and Elisha]] [[H559|said,]] [[H3384|“Shoot!”]] [[H3384|So he shot.]] [[H559|Then Elisha declared,]] [[H3068|“This is the LORD’s]] [[H2671|arrow]] [[H8668|of victory,]] [[H2671|the arrow]] [[H8668|of victory]] [[H758|over Aram,]] [[H5221|for you shall strike]] [[H758|the Arameans]] [[H663|in Aphek]] [[H5704|until]] [[H3615|you have put an end to them.”]] ^1317
 
-And when he came to Samaria, he struck down all who remained to Ahab in Samaria, till he had wiped them out, according to the word of the Lord that he spoke to Elijah. ^1017
+[[H559|Then Elisha said,]] [[H3947|“Take]] [[H2678|the arrows!”]] [[H3947|So he took]] ⟨them⟩, [[H559|and Elisha said]] [[H4428|to the king]] [[H3478|of Israel,]] [[H5221|“Strike]] [[H776|the ground!”]] [[H5221|So he struck]] [[H7969|the ground three]] [[H6471|times]] [[H5975|and stopped.]] ^1318
 
-Then Jehu assembled all the people and said to them, Ahab served Baal a little, but Jehu will serve him much. ^1018
+[[H376|But the man]] [[H430|of God]] [[H7107|was angry]] [[H5921|with]] [[H559|him and said,]] [[H5221|“You should have struck]] [[H2568|the ground five]] [[H176|or]] [[H8337|six]] [[H6471|times.]] [[H227|Then]] [[H5221|you would have struck down]] [[H758|Aram]] [[H5704|until]] [[H3615|you had put an end to it.]] [[H6258|But now]] [[H5221|you will strike down]] [[H758|Aram]] ⟨only⟩ [[H7969|three]] [[H6471|times.”]] ^1319
 
-Now therefore call to me all the prophets of Baal, all his worshipers and all his priests. Let none be missing, for I have a great sacrifice to offer to Baal. Whoever is missing shall not live. But Jehu did it with cunning in order to destroy the worshipers of Baal. ^1019
+[[H477|And Elisha]] [[H4191|died]] [[H6912|and was buried.]] [[H4124|Now the Moabite]] [[H1416|raiders]] [[H935|used to come]] [[H776|into the land]] [[H935|every spring.]] ^1320
 
-And Jehu ordered, Sanctify a solemn assembly for Baal. So they proclaimed it. ^1020
+[[H1961|Once,]] [[H1992|as the Israelites]] [[H6912|were burying]] [[H376|a man,]] [[H2009|suddenly]] [[H7200|they saw]] [[H1416|a band]] ⟨of raiders⟩, [[H7993|so they threw]] [[H376|the man's body]] [[H477|into Elisha’s]] [[H6913|tomb.]] [[H5060|And when he touched]] [[H6106|the bones]] [[H477|of Elisha,]] [[H376|the man]] [[H2421|was revived]] [[H6965|and stood]] [[H7272|up on his feet.]] ^1321
 
-And Jehu sent throughout all Israel, and all the worshipers of Baal came, so that there was not a man left who did not come. And they entered the house of Baal, and the house of Baal was filled from one end to the other. ^1021
+[[H2371|And Hazael]] [[H4428|king]] [[H758|of Aram]] [[H3905|oppressed]] [[H3478|Israel]] [[H3605|throughout]] [[H3117|the reign]] [[H3059|of Jehoahaz.]] ^1322
 
-He said to him who was in charge of the wardrobe, Bring out the vestments for all the worshipers of Baal. So he brought out the vestments for them. ^1022
+[[H3068|But the LORD]] [[H2603|was gracious to them]] [[H7355|and had compassion on them,]] [[H6437|and He turned]] [[H413|toward them]] [[H4616|because of]] [[H1285|His covenant]] [[H854|with]] [[H85|Abraham,]] [[H3327|Isaac,]] [[H3290|and Jacob.]] [[H6258|And to this day,]] [[H14|He has been unwilling]] [[H7843|to destroy them]] [[H3808|or]] [[H7993|cast them]] [[H5921|from]] [[H6440|His presence.]] ^1323
 
-Then Jehu went into the house of Baal with Jehonadab the son of Rechab, and he said to the worshipers of Baal, Search, and see that there is no servant of the Lord here among you, but only the worshipers of Baal. ^1023
+[[H2371|When Hazael]] [[H4428|king]] [[H758|of Aram]] [[H4191|died,]] [[H1121|his son]] [[H1130|Ben-hadad]] [[H4427|became king]] [[H8478|in his place.]] ^1324
 
-Then they went in to offer sacrifices and burnt offerings. Now Jehu had stationed eighty men outside and said, The man who allows any of those whom I give into your hands to escape shall forfeit his life. ^1024
+[[H3060|Then Jehoash]] [[H1121|son]] [[H3059|of Jehoahaz]] [[H3947|took]] [[H7725|back]] [[H3027|from]] [[H1130|Ben-hadad]] [[H1121|son]] [[H2371|of Hazael]] [[H5892|the cities]] [[H834|that]] [[H3947|Hazael had taken]] [[H4421|in battle]] [[H3027|from]] [[H1|his father]] [[H3059|Jehoahaz.]] [[H3101|Jehoash]] [[H5221|defeated]] [[H7969|Ben-hadad three]] [[H6471|times,]] [[H7725|and so recovered]] [[H5892|the cities]] [[H3478|of Israel.]] ^1325
 
-So as soon as he had made an end of offering the burnt offering, Jehu said to the guard and to the officers, Go in and strike them down; let not a man escape. So when they put them to the sword, the guard and the officers cast them out and went into the inner room of the house of Baal, ^1025
+[[H8147|In the twelfth]] [[H8141|year]] [[H4428|of the reign]] [[H271|of Ahaz]] [[H3063|over Judah,]] [[H1954|Hoshea]] [[H1121|son]] [[H425|of Elah]] [[H4427|became king]] [[H5921|of]] [[H3478|Israel,]] ⟨and he reigned⟩ [[H8111|in Samaria]] [[H8672|nine]] [[H8141|years.]] ^1701
 
-and they brought out the pillar that was in the house of Baal and burned it. ^1026
+[[H6213|And he did]] [[H7451|evil]] [[H5869|in the sight]] [[H3068|of the LORD,]] [[H7535|but]] [[H3808|not]] [[H4428|like the kings]] [[H3478|of Israel]] [[H834|who]] [[H1961|preceded]] [[H6440|him.]] ^1702
 
-And they demolished the pillar of Baal, and demolished the house of Baal, and made it a latrine to this day. ^1027
+[[H8022|Shalmaneser]] [[H4428|king]] [[H804|of Assyria]] [[H5921|attacked]] [[H5927|him,]] [[H1954|and Hoshea]] [[H1961|became]] [[H5650|his vassal]] [[H7725|and paid]] [[H4503|him tribute.]] ^1703
 
-Thus Jehu wiped out Baal from Israel. ^1028
+[[H4428|But the king]] [[H804|of Assyria]] [[H4672|discovered]] [[H1954|that Hoshea]] [[H7195|had conspired]] [[H7971|to send]] [[H4397|envoys]] [[H413|to]] [[H4428|King]] [[H5471|So]] [[H4714|of Egypt,]] [[H3808|and that he had not]] [[H5927|paid]] [[H4503|tribute]] [[H4428|to the king]] [[H804|of Assyria]] [[H8141|as in previous years.]] [[H4428|Therefore the king]] [[H804|of Assyria]] [[H6113|arrested]] ⟨Hoshea⟩ [[H631|and put him]] [[H3608|in prison.]] ^1704
 
-But Jehu did not turn aside from the sins of Jeroboam the son of Nebat, which he made Israel to sin —that is, the golden calves that were in Bethel and in Dan. ^1029
+[[H4428|Then the king]] [[H804|of Assyria]] [[H5927|invaded]] [[H3605|the whole]] [[H776|land,]] [[H5927|marched up]] [[H8111|to Samaria,]] [[H6696|and besieged]] [[H5921|it]] [[H7969|for three]] [[H8141|years.]] ^1705
 
-And the Lord said to Jehu, Because you have done well in carrying out what is right in my eyes, and have done to the house of Ahab according to all that was in my heart, your sons of the fourth generation shall sit on the throne of Israel. ^1030
+[[H8671|In the ninth]] [[H8141|year]] ⟨of the reign⟩ [[H1954|of Hoshea,]] [[H4428|the king]] [[H804|of Assyria]] [[H3920|captured]] [[H8111|Samaria]] [[H1540|and carried away]] [[H3478|the Israelites]] [[H804|to Assyria,]] [[H3427|where he settled]] [[H853|them]] [[H2477|in Halah,]] [[H1470|in Gozan]] [[H2249|by the Habor]] [[H5104|River,]] [[H5892|and in the cities]] [[H4074|of the Medes.]] ^1706
 
-But Jehu was not careful to walk in the law of the Lord, the God of Israel, with all his heart. He did not turn from the sins of Jeroboam, which he made Israel to sin. ^1031
+[[H1961|All this happened]] [[H3588|because]] [[H1121|the people]] [[H3478|of Israel]] [[H2398|had sinned]] [[H3068|against the LORD]] [[H430|their God,]] [[H5927|who had brought]] [[H853|them]] [[H776|out of the land]] [[H4714|of Egypt]] [[H8478|from under]] [[H3027|the hand]] [[H6547|of Pharaoh]] [[H4428|king]] [[H4714|of Egypt.]] [[H3372|They had worshiped]] [[H312|other]] [[H430|gods,]] ^1707
 
-In those days the Lord began to cut off parts of Israel. Hazael defeated them throughout the territory of Israel : ^1032
+[[H1980|and they had walked]] [[H2708|in the customs]] [[H1471|of the nations]] [[H834|whom]] [[H3068|the LORD]] [[H3423|had driven out]] [[H6440|before]] [[H1121|the Israelites,]] [[H834|as well as in the practices]] [[H6213|introduced]] [[H4428|by the kings]] [[H3478|of Israel.]] ^1708
 
-from the Jordan eastward, all the land of Gilead, the Gadites, and the Reubenites, and the Manassites, from Aroer, which is by the Valley of the Arnon, that is, Gilead and Bashan. ^1033
+[[H1121|The Israelites]] [[H2644|secretly did]] [[H5921|things against]] [[H3068|the LORD]] [[H430|their God]] [[H834|that]] ⟨were⟩ [[H3808|not]] [[H3651|right.]] [[H4026|From watchtower]] [[H5704|to]] [[H4013|fortified]] [[H5892|city,]] [[H1129|they built]] [[H1116|high places]] [[H3605|in all]] [[H5892|their cities.]] ^1709
 
-Now the rest of the acts of Jehu and all that he did, and all his might, are they not written in the Book of the Chronicles of the Kings of Israel? ^1034
+[[H5324|They set up]] [[H4676|for themselves pillars]] ⟨sacred⟩ [[H842|and Asherah poles]] [[H5921|on]] [[H3605|every]] [[H1364|high]] [[H1389|hill]] [[H8478|and under]] [[H3605|every]] [[H7488|green]] [[H6086|tree.]] ^1710
 
-So Jehu slept with his fathers, and they buried him in Samaria. And Jehoahaz his son reigned in his place. ^1035
+[[H6999|They burned incense]] [[H3605|on all]] [[H1116|the high places]] [[H1471|like the nations]] [[H834|whom]] [[H3068|the LORD]] [[H1540|had driven out]] [[H6440|before them.]] [[H6213|They did]] [[H7451|wicked]] [[H1697|things,]] [[H3707|provoking]] [[H3068|the LORD]] ⟨to anger⟩. ^1711
 
-The time that Jehu reigned over Israel in Samaria was twenty-eight years. ^1036
+[[H5647|They served]] [[H1544|idols,]] [[H3068|although the LORD]] [[H559|had told them,]] [[H3808|“You shall not]] [[H6213|do]] [[H2088|this.”]] ^1712
 
+[[H3027|Yet through]] [[H3605|all]] [[H5030|His prophets]] ⟨and⟩ [[H3605|]] [[H2374|seers,]] [[H3068|the LORD]] [[H5749|warned]] [[H3478|Israel]] [[H3063|and Judah,]] [[H559|saying,]] [[H7725|“Turn]] [[H7451|from your wicked]] [[H1870|ways]] [[H8104|and keep]] [[H4687|My commandments]] [[H2708|and statutes,]] [[H3605|according to the entire]] [[H8451|Law]] [[H834|that]] [[H6680|I commanded]] [[H1|your forefathers]] [[H7971|and delivered]] [[H413|to you]] [[H3027|through]] [[H5650|My servants]] [[H5030|the prophets.]] ^1713
 
+[[H3808|But they would not]] [[H8085|listen,]] [[H7185|and they stiffened]] [[H6203|their necks]] [[H1|like their fathers,]] [[H834|who]] [[H3808|did not]] [[H539|believe]] [[H3068|the LORD]] [[H430|their God.]] ^1714
 
-Now when Athaliah the mother of Ahaziah saw that her son was dead, she arose and destroyed all the royal family. ^1101
+[[H3988|They rejected]] [[H2706|His statutes]] [[H1285|and the covenant]] [[H3772|He had made]] [[H854|with]] [[H1|their fathers,]] [[H5715|as well as the decrees]] [[H5749|He had given them.]] [[H1980|They pursued]] [[H1892|worthless idols]] [[H1891|and themselves became worthless,]] [[H310|going after]] [[H5439|the surrounding]] [[H1471|nations]] [[H3068|the LORD]] [[H6680|had commanded]] [[H1115|them not]] [[H6213|to imitate.]] ^1715
 
-But Jehosheba, the daughter of King Joram, sister of Ahaziah, took Joash the son of Ahaziah and stole him away from among the king’s sons who were being put to death, and she put him and his nurse in a bedroom. Thus they hid him from Athaliah, so that he was not put to death. ^1102
+[[H5800|They abandoned]] [[H3605|all]] [[H4687|the commandments]] [[H3068|of the LORD]] [[H430|their God]] [[H6213|and made]] [[H8147|for themselves  two]] [[H4541|cast idols]] [[H5695|of calves]] [[H842|and an Asherah pole.]] [[H7812|They bowed down to]] [[H3605|all]] [[H6635|the host]] [[H8064|of heaven]] [[H5647|and served]] [[H1168|Baal.]] ^1716
 
-And he remained with her six years, hidden in the house of the Lord, while Athaliah reigned over the land. ^1103
+[[H5674|They sacrificed]] [[H1121|their sons]] [[H1323|and daughters]] [[H784|in the fire]] [[H7080|and practiced]] [[H7081|divination]] [[H5172|and soothsaying.]] [[H4376|They devoted themselves]] [[H6213|to doing]] [[H7451|evil]] [[H5869|in the sight]] [[H3068|of the LORD,]] [[H3707|provoking Him to anger.]] ^1717
 
-But in the seventh year Jehoiada sent and brought the captains of the Carites and of the guards, and had them come to him in the house of the Lord. And he made a covenant with them and put them under oath in the house of the Lord, and he showed them the king’s son. ^1104
+[[H3068|So the LORD]] [[H3966|was very]] [[H599|angry]] [[H3478|with Israel,]] [[H5493|and He removed]] [[H5921|them from]] [[H6440|His presence.]] [[H7535|Only]] [[H7626|the tribe]] [[H3063|of Judah]] [[H7604|remained,]] ^1718
 
-And he commanded them, This is the thing that you shall do : one third of you, those who come off duty on the Sabbath and guard the king’s house ^1105
+[[H1571|and even]] [[H3063|Judah]] [[H3808|did not]] [[H8104|keep]] [[H4687|the commandments]] [[H3068|of the LORD]] [[H430|their God,]] [[H1980|but lived]] [[H2708|according to the customs]] [[H3478|Israel]] [[H6213|had introduced.]] ^1719
 
-( another third being at the gate Sur and a third at the gate behind the guards ) shall guard the palace. ^1106
+[[H3068|So the LORD]] [[H3988|rejected]] [[H3605|all]] [[H2233|the descendants]] [[H3478|of Israel.]] [[H6031|He afflicted them]] [[H5414|and delivered them]] [[H3027|into the hands]] [[H8154|of plunderers,]] [[H834|until]] [[H7993|He had banished them]] [[H6440|from His presence.]] ^1720
 
-And the two divisions of you, which come on duty in force on the Sabbath and guard the house of the Lord on behalf of the king, ^1107
+[[H3588|When]] ⟨the LORD⟩ [[H7167|had torn]] [[H3478|Israel]] [[H5921|away from]] [[H1004|the house]] [[H1732|of David,]] [[H3379|they made Jeroboam]] [[H1121|son]] [[H5028|of Nebat]] [[H4427|king,]] [[H3379|and Jeroboam]] [[H3478|led Israel]] [[H310|away from following]] [[H3068|the LORD]] [[H2398|and caused them to commit]] [[H1419|a great]] [[H2401|sin.]] ^1721
 
-shall surround the king, each with his weapons in his hand. And whoever approaches the ranks is to be put to death. Be with the king when he goes out and when he comes in. ^1108
+[[H1121|The Israelites]] [[H1980|persisted]] [[H3605|in all]] [[H2403|the sins]] [[H834|that]] [[H3379|Jeroboam]] [[H6213|committed]] [[H3808|and did not]] [[H5493|turn away]] [[H4480|from them.]] ^1722
 
-The captains did according to all that Jehoiada the priest commanded, and they each brought his men who were to go off duty on the Sabbath, with those who were to come on duty on the Sabbath, and came to Jehoiada the priest. ^1109
+[[H5704|Finally,]] [[H3068|the LORD]] [[H5493|removed]] [[H3478|Israel]] [[H5921|from]] [[H6440|His presence,]] [[H834|as]] [[H1696|He had declared]] [[H3027|through]] [[H3605|all]] [[H5650|His servants]] [[H5030|the prophets.]] [[H3478|So Israel]] [[H1540|was exiled]] [[H5921|from]] [[H127|their homeland]] [[H804|into Assyria,]] ⟨where they are⟩ [[H5704|to]] [[H2088|this]] [[H3117|day.]] ^1723
 
-And the priest gave to the captains the spears and shields that had been King David’s, which were in the house of the Lord. ^1110
+[[H4428|Then the king]] [[H804|of Assyria]] [[H935|brought]] [[H894|people from Babylon,]] [[H3575|Cuthah,]] [[H5755|Avva,]] [[H2574|Hamath,]] [[H5617|and Sepharvaim]] [[H3427|and settled them]] [[H5892|in the towns]] [[H8111|of Samaria]] [[H8478|to replace]] [[H1121|the Israelites.]] [[H3423|They took possession of]] [[H8111|Samaria]] [[H3427|and lived]] [[H5892|in its towns.]] ^1724
 
-And the guards stood, every man with his weapons in his hand, from the south side of the house to the north side of the house, around the altar and the house on behalf of the king. ^1111
+[[H1961|Now]] [[H8462|when first]] ⟨the settlers⟩ [[H3427|lived]] [[H8033|there,]] [[H3808|they did not]] [[H3372|worship]] [[H3068|the LORD,]] [[H3068|so He]] [[H7971|sent]] [[H738|lions among them,]] [[H1961|which]] [[H2026|killed]] ⟨some⟩ ^1725
 
-Then he brought out the king’s son and put the crown on him and gave him the testimony. And they proclaimed him king and anointed him, and they clapped their hands and said, Long live the king! ^1112
+[[H559|So they spoke]] [[H4428|to the king]] [[H804|of Assyria,]] [[H559|saying,]] [[H1471|“The peoples]] [[H834|that]] [[H1540|you have removed]] [[H3427|and placed]] [[H5892|in the cities]] [[H8111|of Samaria]] [[H3808|do not]] [[H3045|know]] [[H4941|the requirements]] [[H430|of the God]] [[H776|of the land.]] [[H834|Because of this,]] [[H7971|He has sent]] [[H738|lions]] [[H2009|among them,  which are indeed]] [[H4191|killing them off.]] ^1726
 
-When Athaliah heard the noise of the guard and of the people, she went into the house of the Lord to the people. ^1113
+[[H4428|Then the king]] [[H804|of Assyria]] [[H6680|commanded:]] [[H1980|“Send back]] [[H259|one]] [[H3548|of the priests]] [[H1540|you carried off]] [[H8033|from]] ⟨Samaria⟩, [[H1980|and have him go back]] [[H3427|to live]] [[H8033|there]] [[H3384|and teach]] [[H4941|the requirements]] [[H430|of the God]] [[H776|of the land.”]] ^1727
 
-And when she looked, there was the king standing by the pillar, according to the custom, and the captains and the trumpeters beside the king, and all the people of the land rejoicing and blowing trumpets. And Athaliah tore her clothes and cried, Treason! Treason! ^1114
+[[H259|Thus one]] [[H3548|of the priests]] [[H1540|they had carried away]] [[H935|came]] [[H3427|and lived]] [[H1008|in Bethel,]] [[H3384|and he began to teach]] [[H349|them how]] [[H3372|they should worship]] [[H3068|the LORD.]] ^1728
 
-Then Jehoiada the priest commanded the captains who were set over the army, Bring her out between the ranks, and put to death with the sword anyone who follows her. For the priest said, Let her not be put to death in the house of the Lord. ^1115
+[[H1961|Nevertheless,]] [[H1471|the people of each nation]] [[H6213|continued to make]] [[H430|their own gods]] [[H5892|in the cities]] [[H834|where]] [[H1992|they]] [[H3427|had settled,]] [[H3240|and they set them up]] [[H1004|in the shrines]] [[H834|that]] [[H1471|the people]] [[H8118|of Samaria]] [[H6213|had made]] [[H1116|on the high places.]] ^1729
 
-So they laid hands on her; and she went through the horses ’ entrance to the king’s house, and there she was put to death. ^1116
+[[H376|The men]] [[H894|of Babylon]] [[H6213|made]] [[H5524|Succoth-benoth,]] [[H376|the men]] [[H3575|of Cuth]] [[H6213|made]] [[H5370|Nergal,]] [[H376|the men]] [[H2574|of Hamath]] [[H6213|made]] [[H807|Ashima,]] ^1730
 
-And Jehoiada made a covenant between the Lord and the king and people, that they should be the Lord ’s people, and also between the king and the people. ^1117
+[[H5757|the Avvites]] [[H6213|made]] [[H5026|Nibhaz]] [[H8662|and Tartak,]] [[H5616|and the Sepharvites]] [[H8313|burned]] [[H1121|their children]] [[H784|in the fire]] [[H152|to Adrammelech]] [[H6048|and Anammelech]] [[H433|the gods]] [[H5617|of the Sepharvaim.]] ^1731
 
-Then all the people of the land went to the house of Baal and tore it down; his altars and his images they broke in pieces, and they killed Mattan the priest of Baal before the altars. And the priest posted watchmen over the house of the Lord. ^1118
+[[H1961|So]] ⟨the new residents⟩ [[H3372|worshiped]] [[H3069|the LORD,]] [[H6213|but they also appointed]] [[H1992|for themselves]] [[H3548|priests]] [[H7098|of all sorts]] [[H6213|to serve]] [[H1004|in the shrines]] [[H1116|of the high places.]] ^1732
 
-And he took the captains, the Carites, the guards, and all the people of the land, and they brought the king down from the house of the Lord, marching through the gate of the guards to the king’s house. And he took his seat on the throne of the kings. ^1119
+[[H3372|They worshiped]] [[H3068|the LORD,]] [[H5647|but they also served]] [[H430|their own gods]] [[H4941|according to the customs]] [[H1471|of the nations]] [[H834|from which]] [[H1540|they had been carried away.]] ^1733
 
-So all the people of the land rejoiced, and the city was quiet after Athaliah had been put to death with the sword at the king’s house. ^1120
+[[H5704|To]] [[H2088|this]] [[H3117|day]] [[H1992|they]] [[H6213|are still practicing]] [[H7223|their former]] [[H4941|customs.]] [[H369|None]] [[H3372|of them worship]] [[H3068|the LORD]] [[H6213|or observe]] [[H2708|the statutes,]] [[H4941|ordinances,]] [[H8451|laws,]] [[H4687|and commandments]] [[H834|that]] [[H3068|the LORD]] [[H6680|gave]] [[H1121|the descendants]] [[H3290|of Jacob,]] [[H7760|whom He named]] [[H3478|Israel.]] ^1734
 
-Jehoash was seven years old when he began to reign. ^1121
+[[H3068|For the LORD]] [[H3772|had made]] [[H1285|a covenant]] [[H854|with]] ⟨the Israelites⟩ [[H6680|and commanded them,]] [[H3808|“Do not]] [[H3372|worship]] [[H312|other]] [[H430|gods]] ⟨or⟩ [[H3808|]] [[H7812|bow down to them;]] [[H3808|do not]] [[H5647|serve them]] ⟨or⟩ [[H3808|]] [[H2076|sacrifice to them.]] ^1735
 
+[[H3588|Instead,]] [[H3372|worship]] [[H3068|the LORD,]] [[H834|who]] [[H5927|brought]] [[H853|you]] [[H776|out of the land]] [[H4714|of Egypt]] [[H1419|with great]] [[H3581|power]] [[H5186|and an outstretched]] [[H2220|arm.]] [[H7812|You are to bow down]] [[H2076|to Him  and offer sacrifices to Him.]] ^1736
 
+[[H853|And]] [[H3605|you must always]] [[H8104|be careful]] [[H6213|to observe]] [[H2706|the statutes,]] [[H4941|ordinances,]] [[H8451|laws,]] [[H4687|and commandments]] [[H3789|He wrote]] [[H3808|for you.  Do not]] [[H3372|worship]] [[H312|other]] [[H430|gods.]] ^1737
 
-In the seventh year of Jehu, Jehoash began to reign, and he reigned forty years in Jerusalem. His mother’s name was Zibiah of Beersheba. ^1201
+[[H3808|Do not]] [[H7911|forget]] [[H1285|the covenant]] [[H3772|I have made]] [[H854|with you.]] [[H3808|Do not]] [[H3372|worship]] [[H312|other]] [[H430|gods,]] ^1738
 
-And Jehoash did what was right in the eyes of the Lord all his days, because Jehoiada the priest instructed him. ^1202
+[[H3588|but]] [[H3372|worship]] [[H3068|the LORD]] [[H430|your God,]] [[H1931|and He]] [[H5337|will deliver]] [[H853|you]] [[H3027|from the hands]] [[H3605|of all]] [[H341|your enemies.”]] ^1739
 
-Nevertheless, the high places were not taken away; the people continued to sacrifice and make offerings on the high places. ^1203
+[[H3808|But they would not]] [[H8085|listen,]] [[H3588|and]] [[H6213|they persisted in]] [[H7223|their former]] [[H4941|customs.]] ^1740
 
-Jehoash said to the priests, All the money of the holy things that is brought into the house of the Lord, the money for which each man is assessed —the money from the assessment of persons —and the money that a man’s heart prompts him to bring into the house of the Lord, ^1204
+[[H1961|So]] [[H428|these]] [[H1471|nations]] [[H3372|worshiped]] [[H3068|the LORD]] [[H5647|but also served]] [[H6456|their idols,]] [[H1961|and]] [[H5704|to]] [[H2088|this]] [[H3117|day]] [[H1121|their children]] [[H1121|and grandchildren]] [[H6213|continue to do]] [[H834|as]] [[H1|their fathers]] [[H6213|did.]] ^1741
 
-let the priests take, each from his donor, and let them repair the house wherever any need of repairs is discovered. ^1205
+[[H4428|Then the king]] [[H7971|summoned]] [[H3605|all]] [[H2205|the elders]] [[H3389|of Jerusalem]] [[H3063|and Judah.]] ^2301
 
-But by the twenty-third year of King Jehoash, the priests had made no repairs on the house. ^1206
+[[H4428|And]] ⟨he⟩ [[H5927|went up]] [[H1004|to the house]] [[H3068|of the LORD]] [[H3605|with all]] [[H3427|the people]] [[H3063|of Judah]] ⟨and⟩ [[H3605|]] [[H3389|Jerusalem,]] [[H854|as well as]] [[H3548|the priests]] [[H5030|and the prophets—]] [[H3605|all]] [[H5971|the people]] [[H6996|small]] [[H5704|and]] [[H1419|great—]] [[H241|and in their hearing]] [[H7121|he read]] [[H3605|all]] [[H1697|the words]] [[H5612|of the Book]] [[H1285|of the Covenant]] [[H4672|that had been found]] [[H1004|in the house]] [[H3068|of the LORD.]] ^2302
 
-Therefore King Jehoash summoned Jehoiada the priest and the other priests and said to them, Why are you not repairing the house? Now therefore take no more money from your donors, but hand it over for the repair of the house. ^1207
+[[H4428|So the king]] [[H5975|stood]] [[H5921|by]] [[H5982|the pillar]] [[H3772|and made]] [[H1285|a covenant]] [[H6440|before]] [[H3068|the LORD]] [[H1980|to follow]] [[H3068|the LORD]] [[H8104|and to keep]] [[H4687|His commandments,]] [[H5715|decrees,]] [[H2708|and statutes]] [[H3605|with all]] ⟨his⟩ [[H3820|heart]] [[H3605|and all]] ⟨his⟩ [[H5315|soul,]] [[H6965|and to carry out]] [[H1697|the words]] [[H2063|of this]] [[H1285|covenant]] [[H3789|that were written]] [[H5921|in]] [[H2088|this]] [[H5612|book.]] [[H3605|And all]] [[H5971|the people]] [[H5975|entered]] [[H1285|into the covenant.]] ^2303
 
-So the priests agreed that they should take no more money from the people, and that they should not repair the house. ^1208
+[[H4428|Then the king]] [[H6680|commanded]] [[H2518|Hilkiah]] [[H1419|the high]] [[H3548|priest,]] [[H3548|the priests]] [[H4932|second in rank,]] [[H8104|and the doorkeepers]] [[H3318|to remove]] [[H1964|from the temple]] [[H3068|of the LORD]] [[H3605|all]] [[H3627|the articles]] [[H6213|made]] [[H1168|for Baal,]] [[H842|Asherah,]] [[H3605|and all]] [[H6635|the host]] [[H8064|of heaven.]] [[H8313|And he burned them]] [[H2351|outside]] [[H3389|Jerusalem]] [[H7709|in the fields]] [[H6939|of the Kidron]] [[H5375|and carried]] [[H6083|their ashes]] [[H1008|to Bethel.]] ^2304
 
-Then Jehoiada the priest took a chest and bored a hole in the lid of it and set it beside the altar on the right side as one entered the house of the Lord. And the priests who guarded the threshold put in it all the money that was brought into the house of the Lord. ^1209
+⟨Josiah⟩ [[H7673|also did away with]] [[H3649|the idolatrous priests]] [[H5414|ordained]] [[H4428|by the kings]] [[H3063|of Judah]] [[H6999|to burn incense]] [[H1116|on the high places]] [[H5892|of the cities]] [[H3063|of Judah]] [[H4524|and in the places all around]] [[H3389|Jerusalem—]] [[H6999|those who had burned incense]] [[H1168|to Baal,]] [[H8121|to the sun]] [[H3394|and moon,]] [[H4208|to the constellations,]] [[H3605|and to all]] [[H6635|the host]] [[H8064|of heaven.]] ^2305
 
-And whenever they saw that there was much money in the chest, the king’s secretary and the high priest came up and they bagged and counted the money that was found in the house of the Lord. ^1210
+[[H3318|He brought]] [[H842|the Asherah pole]] [[H1004|from the house]] [[H3068|of the LORD]] [[H413|to]] [[H6939|the Kidron]] [[H5158|Valley]] [[H2351|outside]] [[H3389|Jerusalem,]] [[H6939|and]] ⟨there⟩ [[H8313|he burned]] [[H853|it,]] [[H1854|ground]] ⟨it⟩ [[H6083|to powder,]] [[H7993|and threw]] [[H6083|its dust]] [[H5921|on]] [[H6913|the graves]] [[H1121|of the common]] [[H5971|people.]] ^2306
 
-Then they would give the money that was weighed out into the hands of the workmen who had the oversight of the house of the Lord. And they paid it out to the carpenters and the builders who worked on the house of the Lord, ^1211
+[[H5422|He also tore down]] [[H1004|the quarters]] [[H6945|of the male cult prostitutes]] [[H834|that]] ⟨were⟩ [[H1004|in the house]] [[H3068|of the LORD,]] [[H834|where]] [[H802|the women]] [[H707|had woven]] [[H1004|tapestries]] [[H842|for Asherah.]] ^2307
 
-and to the masons and the stonecutters, as well as to buy timber and quarried stone for making repairs on the house of the Lord, and for any outlay for the repairs of the house. ^1212
+[[H935|Then Josiah brought]] [[H3605|all]] [[H3548|the priests]] [[H5892|from the cities]] [[H3063|of Judah]] [[H2930|and desecrated]] [[H1116|the high places,]] [[H834|from]] [[H1387|Geba]] [[H5704|to]] [[H884|Beersheba,]] [[H8033|where]] [[H3548|the priests]] [[H6999|had burned incense.]] [[H5422|He tore down]] [[H1116|the high places]] [[H8179|of the gates]] [[H6607|at the entrance]] [[H8179|of the gate]] [[H3091|of Joshua,]] [[H8269|the governor]] [[H5892|of the city,]] [[H834|which was]] [[H5921|to]] [[H8040|the left]] [[H5892|of the city]] [[H8179|gate.]] ^2308
 
-But there were not made for the house of the Lord basins of silver, snuffers, bowls, trumpets, or any vessels of gold, or of silver, from the money that was brought into the house of the Lord, ^1213
+[[H389|Although]] [[H3548|the priests]] [[H1116|of the high places]] [[H3808|did not]] [[H5927|come up]] [[H413|to]] [[H4196|the altar]] [[H3068|of the LORD]] [[H3389|in Jerusalem,]] [[H398|they ate]] [[H4682|unleavened bread]] [[H8432|with]] [[H251|their fellow priests.]] ^2309
 
-for that was given to the workmen who were repairing the house of the Lord with it. ^1214
+[[H2930|He also desecrated]] [[H8612|Topheth]] [[H1516|in the Valley of Ben-hinnom]] [[H1115|so that no]] [[H376|one]] [[H5674|could sacrifice]] [[H1121|his son]] [[H1323|or daughter]] [[H784|in the fire]] [[H4432|to Molech.]] ^2310
 
-And they did not ask for an accounting from the men into whose hand they delivered the money to pay out to the workmen, for they dealt honestly. ^1215
+[[H7673|And he removed]] [[H935|from the entrance]] [[H1004|to the house]] [[H3068|of the LORD]] [[H5483|the horses]] [[H834|that]] [[H4428|the kings]] [[H3063|of Judah]] [[H5414|had dedicated]] [[H8121|to the sun.]] [[H834|They were]] [[H6503|in the court]] [[H413|near]] [[H3957|the chamber]] [[H5631|of  an official]] [[H5419|named Nathan-melech.]] [[H853|And]] ⟨Josiah⟩ [[H8313|burned up]] [[H4818|the chariots]] [[H8121|of the sun.]] ^2311
 
-The money from the guilt offerings and the money from the sin offerings was not brought into the house of the Lord; it belonged to the priests. ^1216
+[[H5422|He pulled down]] [[H4196|the altars]] [[H834|that]] [[H4428|the kings]] [[H3063|of Judah]] [[H6213|had set up]] [[H5921|on]] [[H1406|the roof]] [[H5944|near the upper chamber]] [[H271|of Ahaz,]] [[H4196|and the altars]] [[H4519|Manasseh]] [[H6213|had set up]] [[H8147|in the two]] [[H2691|courtyards]] [[H1004|of the house]] [[H3068|of the LORD.]] [[H4428|The king]] [[H7323|pulverized]] [[H8033|them there]] [[H7993|and threw]] [[H6083|their dust]] [[H413|into]] [[H6939|the Kidron]] [[H5158|Valley.]] ^2312
 
-At that time Hazael king of Syria went up and fought against Gath and took it. But when Hazael set his face to go up against Jerusalem, ^1217
+[[H4428|The king]] [[H2930|also desecrated]] [[H1116|the high places]] [[H5921|east]] [[H6440|of]] [[H3389|Jerusalem,]] [[H3225|to the south]] [[H2022|of the Mount]] [[H4889|of Corruption,]] [[H834|which]] [[H4428|King]] [[H8010|Solomon]] [[H3478|of Israel]] [[H1129|had built]] [[H6253|for Ashtoreth]] [[H8251|the abomination]] [[H6722|of the Sidonians,]] [[H3645|for Chemosh]] [[H8251|the abomination]] [[H4124|of the Moabites,]] [[H4445|and for Molech]] [[H8441|the abomination]] [[H1121|of the Ammonites.]] ^2313
 
-Jehoash king of Judah took all the sacred gifts that Jehoshaphat and Jehoram and Ahaziah his fathers, the kings of Judah, had dedicated, and his own sacred gifts, and all the gold that was found in the treasuries of the house of the Lord and of the king’s house, and sent these to Hazael king of Syria. Then Hazael went away from Jerusalem. ^1218
+[[H4676|He smashed the sacred pillars]] [[H7665|to pieces,]] [[H3772|cut down]] [[H842|the Asherah poles,]] [[H4390|and covered]] [[H4725|the sites]] [[H120|with human]] [[H6106|bones.]] ^2314
 
-Now the rest of the acts of Joash and all that he did, are they not written in the Book of the Chronicles of the Kings of Judah? ^1219
+[[H1571|He even]] [[H5422|pulled down]] [[H4196|the altar]] [[H1008|at Bethel,]] [[H1116|the high place]] [[H6213|set up]] [[H3379|by Jeroboam]] [[H1121|son]] [[H5028|of Nebat,]] [[H834|who]] [[H3478|had caused Israel]] [[H2398|to sin.]] [[H8313|Then he burned]] [[H1116|the high place,]] [[H1854|ground]] ⟨it⟩ [[H6083|to powder,]] [[H8313|and burned]] [[H842|the Asherah pole.]] ^2315
 
-His servants arose and made a conspiracy and struck down Joash in the house of Millo, on the way that goes down to Silla. ^1220
+[[H2977|And as Josiah]] [[H6437|turned,]] [[H7200|he saw]] [[H6913|the tombs]] [[H8033|there]] [[H2022|on the hillside,]] [[H7971|and he sent]] [[H3947|someone to take]] [[H6106|the bones]] [[H4480|out of]] [[H6913|the tombs,]] [[H8313|and he burned]] [[H5921|them on]] [[H4196|the altar]] [[H2930|to defile it,]] [[H1697|according to the word]] [[H3068|the LORD]] [[H7121|proclaimed]] [[H376|by the man]] [[H430|of God]] [[H834|who]] [[H7121|had foretold]] [[H428|these]] [[H1697|things.]] ^2316
 
-It was Jozacar the son of Shimeath and Jehozabad the son of Shomer, his servants, who struck him down, so that he died. And they buried him with his fathers in the city of David, and Amaziah his son reigned in his place. ^1221
+[[H559|Then asked,]] ⟨the king⟩ [[H4100|“What]] [[H1975|is this]] [[H6725|monument]] [[H589|I]] [[H7200|see?”]] [[H376|And the men]] [[H5892|of the city]] [[H559|replied,]] [[H6913|“It is the tomb]] [[H376|of the man]] [[H430|of God]] [[H834|who]] [[H935|came]] [[H3063|from Judah]] [[H7121|and pronounced]] [[H428|these]] [[H1697|things]] [[H834|that]] [[H6213|you have done]] [[H5921|to]] [[H4196|the altar]] [[H1008|of  Bethel.”]] ^2317
 
+[[H3240|“Let him rest,”]] [[H559|said]] ⟨Josiah⟩. [[H408|“Do not]] [[H376|let anyone]] [[H5128|disturb]] [[H6106|his bones.”]] [[H6106|So they left his bones]] [[H4422|undisturbed,]] [[H6106|along with those]] [[H5030|of the prophet]] [[H834|who]] [[H935|had come]] [[H8111|from Samaria.]] ^2318
 
+[[H6213|Just as Josiah]] [[H6213|had done]] [[H1008|at Bethel,]] ⟨he⟩ [[H2977|]] [[H1571|also]] [[H5493|removed]] [[H3605|all]] [[H1004|the shrines]] [[H1116|of the high places]] [[H834|which]] [[H4428|the kings]] [[H3478|of Israel]] [[H6213|had set up]] [[H5892|in the cities]] [[H8111|of Samaria,]] [[H3707|provoking the LORD to anger.]] ^2319
 
-In the twenty-third year of Joash the son of Ahaziah, king of Judah, Jehoahaz the son of Jehu began to reign over Israel in Samaria, and he reigned seventeen years. ^1301
+[[H5921|On]] [[H4196|the altars]] [[H2076|he slaughtered]] [[H3605|all]] [[H3548|the priests]] [[H1116|of the high places,]] [[H8313|and he burned]] [[H120|human]] [[H6106|bones]] [[H5921|on them.]] [[H7725|Then he returned]] [[H3389|to Jerusalem.]] ^2320
 
-He did what was evil in the sight of the Lord and followed the sins of Jeroboam the son of Nebat, which he made Israel to sin; he did not depart from them. ^1302
+[[H4428|The king]] [[H6680|commanded]] [[H3605|all]] [[H5971|the people,]] [[H6213|“Keep]] [[H6453|the Passover]] [[H3068|of the LORD]] [[H430|your God,]] [[H3789|as written]] ⟨it is⟩ [[H5921|in]] [[H2088|this]] [[H5612|Book]] [[H1285|of the Covenant.”]] ^2321
 
-And the anger of the Lord was kindled against Israel, and he gave them continually into the hand of Hazael king of Syria and into the hand of Ben-hadad the son of Hazael. ^1303
+[[H3808|No]] [[H2088|such]] [[H6453|Passover]] [[H6213|had been observed]] [[H3117|from the days]] [[H8199|of the judges]] [[H834|who]] [[H8199|had governed]] [[H3478|Israel]] [[H3605|through all]] [[H3117|the days]] [[H4428|of the kings]] [[H3478|of Israel]] [[H3063|and Judah.]] ^2322
 
-Then Jehoahaz sought the favor of the Lord, and the Lord listened to him, for he saw the oppression of Israel, how the king of Syria oppressed them. ^1304
+[[H3588|But]] [[H8083|in the eighteenth]] [[H8141|year]] [[H4428|of the reign]] [[H2977|of Josiah]] [[H2088|this]] [[H6453|Passover]] [[H6213|was observed]] [[H3068|to the LORD]] [[H3389|in Jerusalem.]] ^2323
 
-(Therefore the Lord gave Israel a savior, so that they escaped from the hand of the Syrians, and the people of Israel lived in their homes as formerly. ^1305
+[[H1571|Furthermore,]] [[H2977|Josiah]] [[H1197|removed]] [[H178|the mediums]] [[H853|and]] [[H3049|spiritists,]] [[H8655|the household gods]] [[H853|and]] [[H1544|idols,]] [[H3605|and all]] [[H8251|the abominations]] [[H834|that]] [[H7200|were seen]] [[H776|in the land]] [[H3063|of Judah]] [[H3389|and in Jerusalem.]] [[H4616|He did this]] [[H6965|to carry out]] [[H1697|the words]] [[H8451|of the law]] [[H3789|written]] [[H5921|in]] [[H5612|the book]] [[H834|that]] [[H2518|Hilkiah]] [[H3548|the priest]] [[H4672|had found]] [[H1004|in the house]] [[H3068|of the LORD.]] ^2324
 
-Nevertheless, they did not depart from the sins of the house of Jeroboam, which he made Israel to sin, but walked in them; and the Asherah also remained in Samaria .) ^1306
+[[H3808|Neither]] [[H6440|before]] [[H3808|nor]] [[H310|after]] ⟨Josiah⟩ [[H6965|was there]] [[H4428|any king]] [[H3644|like him,]] [[H834|who]] [[H7725|turned]] [[H413|to]] [[H3068|the LORD]] [[H3605|with all]] [[H3824|his heart]] [[H3605|and with all]] [[H5315|his soul]] [[H3605|and with all]] [[H3966|his strength,]] [[H3605|according to all]] [[H8451|the Law]] [[H4872|of Moses.]] ^2325
 
-For there was not left to Jehoahaz an army of more than fifty horsemen and ten chariots and ten thousand footmen, for the king of Syria had destroyed them and made them like the dust at threshing. ^1307
+[[H389|Nevertheless,]] [[H3068|the LORD]] [[H3808|did not]] [[H7725|turn away]] [[H2740|from the fury]] [[H1419|of His burning]] [[H639|anger,]] [[H834|which]] [[H2734|was kindled]] [[H3063|against Judah]] [[H5921|because of]] [[H3605|all]] [[H834|that]] [[H4519|Manasseh]] [[H3708|had done]] [[H3707|to provoke Him to anger.]] ^2326
 
-Now the rest of the acts of Jehoahaz and all that he did, and his might, are they not written in the Book of the Chronicles of the Kings of Israel? ^1308
+[[H3068|For the LORD]] [[H559|had said,]] [[H1571|“I will also]] [[H5493|remove]] [[H3063|Judah]] [[H5921|from]] [[H6440|My sight,]] [[H834|just as]] [[H5493|I have removed]] [[H3478|Israel.]] [[H3988|I will reject]] [[H2063|this]] [[H5892|city]] [[H3389|Jerusalem,]] [[H834|which]] [[H977|I have chosen,]] [[H1004|and the temple]] [[H834|of which]] [[H559|I said,]] [[H8034|My Name]] [[H1961|shall be]] [[H8033|there.]] ^2327
 
-So Jehoahaz slept with his fathers, and they buried him in Samaria, and Joash his son reigned in his place. ^1309
+[[H3499|As for the rest]] [[H1697|of the acts]] [[H2977|of Josiah,]] [[H3605|along with all]] [[H834|his accomplishments,]] [[H3789|are they not written]] [[H5612|in the Book]] [[H1697|of the Chronicles]] [[H4428|of the Kings]] [[H3063|of Judah?]] ^2328
 
-In the thirty-seventh year of Joash king of Judah, Jehoash the son of Jehoahaz began to reign over Israel in Samaria, and he reigned sixteen years. ^1310
+[[H3117|At the end of reign,]] ⟨Josiah's⟩ [[H6549|Pharaoh  Neco]] [[H4428|king]] [[H4714|of Egypt]] [[H5927|marched up]] [[H5921|to]] [[H4428|help the king]] [[H804|of Assyria]] [[H5921|at]] [[H6578|the Euphrates]] [[H5104|River.]] [[H4428|King]] [[H2977|Josiah]] [[H1980|went out]] [[H7125|to confront him,]] [[H7200|but Neco faced]] [[H853|him]] [[H4191|and killed him]] [[H4023|at Megiddo.]] ^2329
 
-He also did what was evil in the sight of the Lord. He did not depart from all the sins of Jeroboam the son of Nebat, which he made Israel to sin, but he walked in them. ^1311
+[[H4023|From Megiddo]] [[H5650|his servants]] [[H4191|carried his body]] [[H7392|in a chariot,]] [[H935|brought him to]] [[H3389|Jerusalem,]] [[H6912|and buried]] [[H6900|him in his own tomb.]] [[H5971|Then the people]] [[H776|of the land]] [[H3947|took]] [[H3059|Jehoahaz]] [[H1121|son]] [[H2977|of Josiah,]] [[H4886|anointed him,]] [[H4427|and made him king]] [[H8478|in place of]] [[H1|his father.]] ^2330
 
-Now the rest of the acts of Joash and all that he did, and the might with which he fought against Amaziah king of Judah, are they not written in the Book of the Chronicles of the Kings of Israel? ^1312
+[[H3059|Jehoahaz]] [[H6242|was twenty-three]] [[H1121|years old]] [[H4427|when he became king,]] [[H4427|and he reigned]] [[H3389|in Jerusalem]] [[H7969|three]] [[H2320|months.]] [[H517|His mother’s]] [[H8034|name]] [[H2537|was Hamutal]] [[H1323|daughter]] [[H3414|of Jeremiah;]] [[H3841|she was from Libnah.]] ^2331
 
-So Joash slept with his fathers, and Jeroboam sat on his throne. And Joash was buried in Samaria with the kings of Israel. ^1313
+[[H6213|And he did]] [[H7451|evil]] [[H5869|in the sight]] [[H3068|of the LORD,]] [[H3605|just as]] [[H1|his forefathers]] [[H6213|had done.]] ^2332
 
-Now when Elisha had fallen sick with the illness of which he was to die, Joash king of Israel went down to him and wept before him, crying, My father, my father! The chariots of Israel and its horsemen! ^1314
+[[H6549|And Pharaoh  Neco]] [[H631|imprisoned Jehoahaz]] [[H7247|at Riblah]] [[H776|in the land]] [[H2574|of Hamath]] [[H4427|so that he could not reign]] [[H3389|in Jerusalem,]] [[H5414|and he imposed]] [[H5921|on]] ⟨Judah⟩ [[H776|]] [[H6066|a levy]] [[H3967|of a hundred]] [[H3603|talents]] [[H3701|of silver]] [[H3603|and a talent]] [[H2091|of gold.]] ^2333
 
-And Elisha said to him, Take a bow and arrows. So he took a bow and arrows. ^1315
+[[H6549|Then Pharaoh  Neco]] [[H471|made Eliakim]] [[H1121|son]] [[H2977|of Josiah]] [[H4427|king]] [[H8478|in place of]] [[H1|his father]] [[H2977|Josiah,]] [[H5437|and he changed]] [[H8034|Eliakim’s name]] [[H3079|to Jehoiakim.]] [[H3947|But Neco took]] [[H3059|Jehoahaz]] [[H935|and carried him off]] [[H4714|to Egypt,]] [[H4191|where he died.]] ^2334
 
-Then he said to the king of Israel, Draw the bow, and he drew it. And Elisha laid his hands on the king’s hands. ^1316
+[[H3079|So Jehoiakim]] [[H5414|paid]] [[H3701|the silver]] [[H2091|and gold]] [[H6547|to Pharaoh]] ⟨Neco⟩, [[H389|but]] [[H5921|to meet]] [[H6547|Pharaoh's]] [[H6310|demand]] [[H6186|he taxed]] [[H776|the land]] [[H5065|and exacted]] [[H3701|the silver]] [[H2091|and the gold]] [[H5971|from the people,]] [[H376|each]] [[H6187|according to his wealth.]] ^2335
 
-And he said, Open the window eastward, and he opened it. Then Elisha said, Shoot, and he shot. And he said, The Lord ’s arrow of victory, the arrow of victory over Syria! For you shall fight the Syrians in Aphek until you have made an end of them. ^1317
+[[H3079|Jehoiakim]] [[H6242|was twenty-five]] [[H1121|years old]] [[H4427|when he became king,]] [[H4427|and he reigned]] [[H3389|in Jerusalem]] [[H259|eleven]] [[H8141|years.]] [[H517|His mother’s]] [[H8034|name]] [[H2080|was Zebidah]] [[H1323|daughter]] [[H6305|of Pedaiah;]] [[H4480|she was from]] [[H7316|Rumah.]] ^2336
 
-And he said, Take the arrows, and he took them. And he said to the king of Israel, Strike the ground with them. And he struck three times and stopped. ^1318
+[[H6213|And he did]] [[H7451|evil]] [[H5869|in the sight]] [[H3068|of the LORD,]] [[H3605|just as]] [[H1|his fathers]] [[H6213|had done.]] ^2337
 
-Then the man of God was angry with him and said, You should have struck five or six times; then you would have struck down Syria until you had made an end of it, but now you will strike down Syria only three times. ^1319
+[[H477|Now Elisha]] [[H1696|said]] [[H413|to]] [[H802|the woman]] [[H1121|whose son]] [[H2421|he had restored to life,]] [[H6965|“Arise,]] [[H859|you]] [[H1004|and your household,]] [[H1980|and go]] [[H1481|and live as a foreigner]] [[H834|wherever]] [[H1481|you can.]] [[H3588|For]] [[H3068|the LORD]] [[H7121|has decreed]] [[H7651|a seven-year]] [[H7458|famine,]] [[H935|and it has already come]] [[H413|to]] [[H776|the land.]] ^0801
 
-So Elisha died, and they buried him. Now bands of Moabites used to invade the land in the spring of the year. ^1320
+[[H802|So the woman]] [[H6965|got ready]] [[H6213|and did]] [[H376|as the man]] [[H430|of God]] [[H1697|had instructed.]] [[H1931|She]] [[H1004|and her household]] [[H1481|lived as foreigners]] [[H7651|for seven]] [[H8141|years]] [[H776|in the land]] [[H6430|of the Philistines.]] ^0802
 
-And as a man was being buried, behold, a marauding band was seen and the man was thrown into the grave of Elisha, and as soon as the man touched the bones of Elisha, he revived and stood on his feet. ^1321
+[[H7097|At the end]] [[H7651|of seven]] [[H8141|years,]] [[H802|when the woman]] [[H7725|returned]] [[H776|from the land]] [[H6430|of the Philistines,]] [[H3318|she went]] [[H413|to]] [[H4428|the king]] [[H6817|to appeal]] [[H413|for]] [[H1004|her house]] [[H413|and]] [[H7704|her land.]] ^0803
 
-Now Hazael king of Syria oppressed Israel all the days of Jehoahaz. ^1322
+[[H4428|Now the king]] [[H1696|had been speaking]] [[H413|to]] [[H1522|Gehazi,]] [[H5288|the servant]] [[H376|of the man]] [[H430|of God,]] [[H559|saying,]] [[H4994|“Please]] [[H5608|relate]] [[H3605|to me  all]] [[H1419|the great things]] [[H477|Elisha]] [[H6213|has done.”]] ^0804
 
-But the Lord was gracious to them and had compassion on them, and he turned toward them, because of his covenant with Abraham, Isaac, and Jacob, and would not destroy them, nor has he cast them from his presence until now. ^1323
+[[H1961|And as]] [[H1931|Gehazi]] [[H5608|was telling]] [[H4428|the king]] [[H834|how]] [[H4191|Elisha had brought the dead]] [[H2421|back to life,]] [[H802|the woman]] [[H1121|whose son]] [[H2421|he had revived]] [[H6817|came to appeal]] [[H413|to]] [[H4428|the king]] [[H5921|for]] [[H1004|her house]] [[H5921|and]] [[H7704|her land.]] [[H1522|So Gehazi]] [[H559|said,]] [[H113|“My lord]] [[H4428|the king,]] [[H2063|this]] [[H802|is the woman,]] [[H2088|and this]] [[H1121|is the son]] [[H477|Elisha]] [[H2421|restored to life.]] ^0805
 
-When Hazael king of Syria died, Ben-hadad his son became king in his place. ^1324
+[[H4428|When the king]] [[H7592|asked]] [[H802|the woman,]] [[H5608|she confirmed it.]] [[H4428|So the king]] [[H5414|appointed]] [[H259|for her  an]] [[H5631|officer,]] [[H559|saying,]] [[H7725|“Restore]] [[H3605|all]] [[H834|that was hers,]] [[H3605|along with all]] [[H8393|the proceeds]] [[H7704|of the field]] [[H3117|from the day]] [[H5800|that she left]] [[H776|the country]] [[H5704|until]] [[H6258|now.]] ^0806
 
-Then Jehoash the son of Jehoahaz took again from Ben-hadad the son of Hazael the cities that he had taken from Jehoahaz his father in war. Three times Joash defeated him and recovered the cities of Israel. ^1325
+[[H477|Then Elisha]] [[H935|came]] [[H1834|to Damascus]] [[H1130|while Ben-hadad]] [[H4428|king]] [[H758|of Aram]] [[H2470|was sick,]] [[H5046|and the king was told,]] [[H376|“The man]] [[H430|of God]] [[H935|has come]] [[H2008|here.”]] ^0807
 
+[[H4428|So the king]] [[H559|said]] [[H413|to]] [[H2371|Hazael,]] [[H3947|“Take]] [[H4503|a gift]] [[H3027|in your hand,]] [[H1980|go]] [[H7125|to meet]] [[H376|the man]] [[H430|of God,]] [[H1875|and inquire of]] [[H3069|the LORD]] [[H853|through him,]] [[H2421|‘Will I recover]] [[H2088|from this]] [[H2483|illness?’”]] ^0808
 
+[[H2371|So Hazael]] [[H1980|went]] [[H7125|to meet Elisha,]] [[H3947|taking]] [[H3027|with him]] [[H4503|a gift]] [[H705|of forty]] [[H4853|camel-loads]] [[H3605|of every]] [[H2898|good thing]] [[H1834|from Damascus.]] [[H935|And he went in]] [[H5975|and stood]] [[H6440|before him]] [[H559|and said,]] [[H1121|“Your son]] [[H1130|Ben-hadad]] [[H4428|king]] [[H758|of Aram]] [[H7971|has sent]] [[H559|me to ask,]] [[H2421|Will I recover]] [[H2088|from this]] [[H2483|illness?]] ^0809
 
-In the second year of Joash the son of Joahaz, king of Israel, Amaziah the son of Joash, king of Judah, began to reign. ^1401
+[[H477|Elisha]] [[H559|answered,]] [[H1980|“Go]] [[H559|and say to him,]] [[H2421|‘You will surely recover.’]] [[H3068|But the LORD]] [[H7200|has shown me]] [[H3588|that]] [[H4191|in fact]] [[H4191|he will die.”]] ^0810
 
-He was twenty-five years old when he began to reign, and he reigned twenty-nine years in Jerusalem. His mother’s name was Jehoaddin of Jerusalem. ^1402
+⟨Elisha⟩ [[H5975|fixed]] [[H6440|his gaze]] [[H7760|steadily]] ⟨on him⟩ [[H5704|until]] [[H954|Hazael became uncomfortable.]] [[H376|Then the man]] [[H430|of God]] [[H1058|began to weep.]] ^0811
 
-And he did what was right in the eyes of the Lord, yet not like David his father. He did in all things as Joash his father had done. ^1403
+[[H4069|“Why]] [[H113|is my lord]] [[H1058|weeping?”]] [[H559|asked]] [[H2371|Hazael.]] [[H3588|“Because]] [[H3045|I know]] [[H7451|the evil]] [[H6213|you will do]] [[H3478|to the Israelites,”]] ⟨Elisha⟩ [[H559|replied.]] [[H7971|“You will set]] [[H784|fire]] [[H4013|to their fortresses,]] [[H2026|kill]] [[H970|their young men]] [[H2719|with the sword,]] [[H5768|dash their little ones]] [[H7376|to pieces,]] [[H1234|and rip open]] [[H2030|their pregnant women.”]] ^0812
 
-But the high places were not removed; the people still sacrificed and made offerings on the high places. ^1404
+[[H3588|“But]] [[H4100|what]] ⟨is⟩ [[H5650|your servant,]] [[H3611|a mere dog,]] [[H3588|that]] [[H6213|he should do]] [[H2088|this]] [[H1419|monstrous]] [[H1697|thing?”]] [[H559|said]] [[H2371|Hazael.]] [[H477|And Elisha]] [[H559|answered,]] [[H3068|“The LORD]] [[H7200|has shown me]] [[H854|that you]] ⟨will become⟩ [[H4428|king]] [[H5921|over]] [[H758|Aram.”]] ^0813
 
-And as soon as the royal power was firmly in his hand, he struck down his servants who had struck down the king his father. ^1405
+[[H1980|So Hazael left]] [[H477|Elisha]] [[H935|and went]] [[H113|to  his master,]] [[H559|who asked him,]] [[H4100|“What]] [[H477|did Elisha]] [[H559|say to you?”]] [[H559|And he replied,]] [[H559|“He told]] [[H2421|me  you would surely recover.”]] ^0814
 
-But he did not put to death the children of the murderers, according to what is written in the Book of the Law of Moses, where the Lord commanded, Fathers shall not be put to death because of their children, nor shall children be put to death because of their fathers. But each one shall die for his own sin. ^1406
+[[H1961|But]] [[H4283|the next day]] [[H3947|Hazael took]] [[H4346|a thick cloth,]] [[H2881|dipped]] [[H4325|it in water,]] [[H6566|and spread]] [[H5921|it over]] [[H6440|the king’s face.]] [[H4191|So Ben-hadad died,]] [[H2371|and Hazael]] [[H4427|reigned]] [[H8478|in his place.]] ^0815
 
-He struck down ten thousand Edomites in the Valley of Salt and took Sela by storm, and called it Joktheel, which is its name to this day. ^1407
+[[H2568|In the fifth]] [[H8141|year]] [[H4428|of the reign]] [[H3141|of Joram]] [[H1121|son]] [[H256|of Ahab]] [[H3478|over Israel,]] [[H3088|Jehoram]] [[H1121|son]] [[H3092|of Jehoshaphat]] [[H4427|succeeded his father]] [[H4428|as king]] [[H3063|of Judah.]] ^0816
 
-Then Amaziah sent messengers to Jehoash the son of Jehoahaz, son of Jehu, king of Israel, saying, Come, let us look one another in the face. ^1408
+[[H1961|Jehoram]] ⟨was⟩ [[H7970|thirty-two]] [[H1121|years old]] [[H4427|when he became king,]] [[H4427|and he reigned]] [[H3389|in Jerusalem]] [[H8083|eight]] [[H8141|years.]] ^0817
 
-And Jehoash king of Israel sent word to Amaziah king of Judah, A thistle on Lebanon sent to a cedar on Lebanon, saying, Give your daughter to my son for a wife, and a wild beast of Lebanon passed by and trampled down the thistle. ^1409
+[[H1980|And walked]] ⟨Jehoram⟩ [[H1870|in the way]] [[H4428|of the kings]] [[H3478|of Israel,]] [[H834|just as]] [[H1004|the house]] [[H256|of Ahab]] [[H6213|had done.]] [[H3588|For]] [[H802|he married]] [[H1323|a daughter]] [[H256|of Ahab]] [[H6213|and did]] [[H7451|evil]] [[H5869|in the sight]] [[H3068|of the LORD.]] ^0818
 
-You have indeed struck down Edom, and your heart has lifted you up. Be content with your glory, and stay at home, for why should you provoke trouble so that you fall, you and Judah with you? ^1410
+[[H4616|Yet for the sake]] [[H5650|of His servant]] [[H1732|David,]] [[H3068|the LORD]] [[H3808|was unwilling]] [[H7843|to destroy]] [[H3063|Judah,]] [[H834|since]] [[H559|He had promised]] [[H5414|to maintain]] [[H5216|a lamp]] [[H1121|for David his descendants]] ⟨and⟩ [[H3605|forever.]] ^0819
 
-But Amaziah would not listen. So Jehoash king of Israel went up, and he and Amaziah king of Judah faced one another in battle at Beth-shemesh, which belongs to Judah. ^1411
+[[H3117|In the days of Jehoram,]] [[H123|Edom]] [[H6586|rebelled]] [[H8478|against]] [[H3027|the hand]] [[H3063|of Judah]] [[H4427|and appointed]] [[H5921|their own]] [[H4428|king.]] ^0820
 
-And Judah was defeated by Israel, and every man fled to his home. ^1412
+[[H3141|So Joram]] [[H5674|crossed over]] [[H6811|to Zair]] [[H5973|with]] [[H3605|all]] [[H7393|his chariots.]] [[H123|When the Edomites]] [[H5437|surrounded]] [[H413|him]] [[H853|and]] [[H7393|his chariot]] [[H8269|commanders,]] [[H1931|he]] [[H6965|rose up]] [[H5221|and attacked]] [[H3915|by night.]] [[H5971|His troops, however,]] [[H5127|fled]] [[H168|to their homes.]] ^0821
 
-And Jehoash king of Israel captured Amaziah king of Judah, the son of Jehoash, son of Ahaziah, at Beth-shemesh, and came to Jerusalem and broke down the wall of Jerusalem for four hundred cubits, from the Ephraim Gate to the Corner Gate. ^1413
+[[H5704|So to]] [[H2088|this]] [[H3117|day]] [[H123|Edom]] [[H6586|has been in rebellion]] [[H8478|against]] [[H3027|the hand of]] [[H3063|Judah.]] [[H227|Likewise,]] [[H3841|Libnah]] [[H6586|rebelled]] [[H1931|at the same]] [[H6256|time.]] ^0822
 
-And he seized all the gold and silver, and all the vessels that were found in the house of the Lord and in the treasuries of the king’s house, also hostages, and he returned to Samaria. ^1414
+[[H3499|As for the rest]] [[H1697|of the acts]] [[H3141|of Joram,]] [[H3605|along with all]] [[H834|his accomplishments,]] [[H3789|are they not written]] [[H5612|in the Book]] [[H1697|of the Chronicles]] [[H4428|of the Kings]] [[H3063|of Judah?]] ^0823
 
-Now the rest of the acts of Jehoash that he did, and his might, and how he fought with Amaziah king of Judah, are they not written in the Book of the Chronicles of the Kings of Israel? ^1415
+[[H3141|And Joram]] [[H7901|rested]] [[H5973|with]] [[H1|his fathers]] [[H6912|and was buried]] [[H5973|with]] ⟨them⟩ [[H1|]] [[H5892|in the City]] [[H1732|of David.]] [[H1121|And his son]] [[H274|Ahaziah]] [[H4427|became king]] [[H8478|in his place.]] ^0824
 
-And Jehoash slept with his fathers and was buried in Samaria with the kings of Israel, and Jeroboam his son reigned in his place. ^1416
+[[H8147|In the twelfth]] [[H8141|year]] [[H4428|of the reign]] [[H3141|of Joram]] [[H1121|son]] [[H256|of Ahab]] [[H3478|over Israel,]] [[H274|Ahaziah]] [[H1121|son]] [[H3088|of Jehoram]] [[H4427|became king]] [[H3063|of Judah.]] ^0825
 
-Amaziah the son of Joash, king of Judah, lived fifteen years after the death of Jehoash son of Jehoahaz, king of Israel. ^1417
+[[H274|Ahaziah]] ⟨was⟩ [[H6242|twenty-two]] [[H1121|years old]] [[H4427|when he became king,]] [[H4427|and he reigned]] [[H3389|in Jerusalem]] [[H259|one]] [[H8141|year.]] [[H517|His mother’s]] [[H8034|name]] [[H6271|was Athaliah,]] [[H1323|the granddaughter]] [[H6018|of Omri]] [[H4428|king]] [[H3478|of Israel.]] ^0826
 
-Now the rest of the deeds of Amaziah, are they not written in the Book of the Chronicles of the Kings of Judah? ^1418
+[[H1980|And walked]] ⟨Ahaziah⟩ [[H1870|in the way]] [[H1004|of the house]] [[H256|of Ahab]] [[H6213|and did]] [[H7451|evil]] [[H5869|in the sight]] [[H3068|of the LORD]] [[H1004|like the house]] [[H256|of Ahab,]] [[H3588|for]] [[H1931|he]] [[H2860|was a son-in-law]] [[H1004|of the house]] [[H256|of Ahab.]] ^0827
 
-And they made a conspiracy against him in Jerusalem, and he fled to Lachish. But they sent after him to Lachish and put him to death there. ^1419
+[[H1980|Then Ahaziah went]] [[H854|with]] [[H3141|Joram]] [[H1121|son]] [[H256|of Ahab]] [[H4421|to fight]] [[H5973|against]] [[H2371|Hazael]] [[H4428|king]] [[H758|of Aram]] [[H7433|at Ramoth-gilead,]] [[H761|and the Arameans]] [[H5221|wounded]] [[H3141|Joram.]] ^0828
 
-And they brought him on horses; and he was buried in Jerusalem with his fathers in the city of David. ^1420
+[[H4428|So King]] [[H3141|Joram]] [[H7725|returned]] [[H3157|to Jezreel]] [[H7495|to recover]] [[H4480|from]] [[H4347|the wounds]] [[H834|that]] [[H761|the Arameans]] [[H5221|had inflicted on him]] [[H7414|at Ramah]] [[H3898|in his battle]] [[H854|against]] [[H2371|Hazael]] [[H4428|king]] [[H758|of Aram.]] [[H274|And Ahaziah]] [[H1121|son]] [[H3088|of Jehoram]] [[H4428|king]] [[H3063|of Judah]] [[H3381|went down]] [[H3157|to Jezreel]] [[H7200|to visit]] [[H3141|Joram]] [[H1121|son]] [[H256|of Ahab,]] [[H3588|since]] [[H1931|Joram]] [[H2470|had been wounded.]] ^0829
 
-And all the people of Judah took Azariah, who was sixteen years old, and made him king instead of his father Amaziah. ^1421
+[[H3117|During Jehoiakim’s reign,]] [[H5019|Nebuchadnezzar]] [[H4428|king]] [[H894|of Babylon]] [[H5927|invaded.]] [[H3079|So Jehoiakim]] [[H1961|became]] [[H5650|his vassal]] [[H7969|for three]] [[H8141|years,]] [[H7725|until he turned]] [[H4775|and rebelled]] ^2401
 
-He built Elath and restored it to Judah, after the king slept with his fathers. ^1422
+[[H3068|And the LORD]] [[H7971|sent]] [[H3778|Chaldean,]] [[H758|Aramean,]] [[H4124|Moabite,]] [[H1121|and Ammonite]] ⟨raiders⟩ [[H1416|against Jehoiakim]] ⟨in order⟩ [[H7971|]] [[H6|to destroy]] [[H3063|Judah,]] [[H1697|according to the word]] [[H3068|the LORD]] [[H1696|had spoken]] [[H3027|through]] [[H5650|His servants]] [[H5030|the prophets.]] ^2402
 
-In the fifteenth year of Amaziah the son of Joash, king of Judah, Jeroboam the son of Joash, king of Israel, began to reign in Samaria, and he reigned forty-one years. ^1423
+[[H389|Surely]] [[H1961|this happened]] [[H3063|to Judah]] [[H5921|at]] [[H3068|the LORD’s]] [[H6310|command,]] [[H5493|to remove]] [[H5921|them from]] [[H6440|His presence]] [[H2403|because of the sins]] [[H4519|of Manasseh]] [[H3605|and all]] [[H834|that]] [[H6213|he had done,]] ^2403
 
-And he did what was evil in the sight of the Lord. He did not depart from all the sins of Jeroboam the son of Nebat, which he made Israel to sin. ^1424
+[[H1571|and also for]] [[H5355|the innocent]] [[H1818|blood]] [[H8210|he had shed.]] [[H4390|For he had filled]] [[H3389|Jerusalem]] [[H5355|with innocent]] [[H1818|blood,]] [[H3068|and the LORD]] [[H14|was unwilling]] [[H5545|to forgive.]] ^2404
 
-He restored the border of Israel from Lebo-hamath as far as the Sea of the Arabah, according to the word of the Lord, the God of Israel, which he spoke by his servant Jonah the son of Amittai, the prophet, who was from Gath-hepher. ^1425
+[[H3499|As for the rest]] [[H1697|of the acts]] [[H3079|of Jehoiakim,]] [[H3605|along with all]] [[H834|his accomplishments,]] [[H3789|are they not written]] [[H5612|in the Book]] [[H1697|of the Chronicles]] [[H4428|of the Kings]] [[H3063|of Judah?]] ^2405
 
-For the Lord saw that the affliction of Israel was very bitter, for there was none left, bond or free, and there was none to help Israel. ^1426
+[[H3079|And Jehoiakim]] [[H7901|rested]] [[H5973|with]] [[H1|his fathers,]] [[H1121|and his son]] [[H3078|Jehoiachin]] [[H4427|became king]] [[H8478|in his place.]] ^2406
 
-But the Lord had not said that he would blot out the name of Israel from under heaven, so he saved them by the hand of Jeroboam the son of Joash. ^1427
+[[H4428|Now the king]] [[H4714|of Egypt]] [[H3808|did not]] [[H3318|march out]] [[H776|of his land]] [[H3254|again,]] [[H3588|because]] [[H4428|the king]] [[H894|of Babylon]] [[H3947|had taken]] [[H3605|all]] [[H1961|his territory,]] [[H5158|from the Brook]] [[H4714|of Egypt]] [[H5704|to]] [[H6578|the Euphrates]] [[H5104|River.]] ^2407
 
-Now the rest of the acts of Jeroboam and all that he did, and his might, how he fought, and how he restored Damascus and Hamath to Judah in Israel, are they not written in the Book of the Chronicles of the Kings of Israel? ^1428
+[[H3078|Jehoiachin]] [[H8083|was eighteen]] [[H1121|years old]] [[H4427|when he became king,]] [[H4427|and he reigned]] [[H3389|in Jerusalem]] [[H7969|three]] [[H2320|months.]] [[H517|His mother’s]] [[H8034|name]] [[H5179|was Nehushta]] [[H1323|daughter]] [[H494|of Elnathan;]] [[H3389|she was from Jerusalem.]] ^2408
 
-And Jeroboam slept with his fathers, the kings of Israel, and Zechariah his son reigned in his place. ^1429
+[[H6213|And he did]] [[H7451|evil]] [[H5869|in the sight]] [[H3068|of the LORD,]] [[H3605|just as]] [[H1|his father]] [[H6213|had done.]] ^2409
 
+[[H1931|At that]] [[H6256|time]] [[H5650|the servants]] [[H5019|of Nebuchadnezzar]] [[H4428|king]] [[H894|of Babylon]] [[H5927|marched up]] [[H3389|to Jerusalem,]] [[H5892|and the city]] [[H935|came]] [[H4692|under siege.]] ^2410
 
+[[H4428|And King]] [[H5019|Nebuchadnezzar]] [[H894|of Babylon]] [[H935|came]] [[H5921|to]] [[H5892|the city]] [[H5650|while his servants]] [[H6696|were besieging it.]] ^2411
 
-In the twenty-seventh year of Jeroboam king of Israel, Azariah the son of Amaziah, king of Judah, began to reign. ^1501
+[[H3078|Jehoiachin]] [[H4428|king]] [[H3063|of Judah,]] [[H517|his mother,]] [[H5650|his servants,]] [[H8269|his commanders,]] [[H5631|and his officials]] ⟨all⟩ [[H3318|surrendered]] [[H5921|to]] [[H4428|the king]] [[H894|of Babylon.]] [[H8083|So in the eighth]] [[H8141|year]] [[H4427|of reign,]] ⟨Jehoiachin's⟩ [[H4428|the king]] [[H894|of Babylon]] [[H3947|took him captive.]] ^2412
 
-He was sixteen years old when he began to reign, and he reigned fifty-two years in Jerusalem. His mother’s name was Jecoliah of Jerusalem. ^1502
+[[H834|As]] [[H3068|the LORD]] [[H1696|had declared,]] ⟨Nebuchadnezzar⟩ [[H3318|also carried off]] [[H3605|all]] [[H214|the treasures]] [[H1004|from the house]] [[H3068|of the LORD]] ⟨and⟩ [[H214|]] [[H4428|the royal]] [[H1004|palace,]] [[H7112|and he cut into pieces]] [[H3605|all]] [[H2091|the gold]] [[H3627|articles]] [[H834|that]] [[H8010|Solomon]] [[H4428|king]] [[H3478|of Israel]] [[H6213|had made]] [[H1964|in the temple]] [[H3068|of the LORD.]] ^2413
 
-And he did what was right in the eyes of the Lord, according to all that his father Amaziah had done. ^1503
+[[H1540|He carried into exile]] [[H3605|all]] [[H3389|Jerusalem—]] [[H3605|all]] [[H8269|the commanders]] [[H853|and]] [[H1368|mighty warriors,]] [[H3605|all]] [[H2796|the craftsmen]] [[H4525|and metalsmiths—]] [[H6235|ten]] [[H505|thousand]] [[H1473|captives]] ⟨in all⟩. [[H2108|Only]] [[H1803|the poorest]] [[H5971|people]] [[H776|of the land]] [[H7604|remained.]] ^2414
 
-Nevertheless, the high places were not taken away. The people still sacrificed and made offerings on the high places. ^1504
+[[H1540|Nebuchadnezzar carried away]] [[H3078|Jehoiachin]] [[H894|to Babylon,]] [[H853|as well as]] [[H4428|the king’s]] [[H517|mother,]] ⟨his⟩ [[H4428|]] [[H802|wives,]] [[H5631|his officials,]] [[H853|and the leading men]] [[H776|of the land.]] [[H1473|He took them into exile]] [[H3389|from Jerusalem]] [[H894|to Babylon.]] ^2415
 
-And the Lord touched the king, so that he was a leper to the day of his death, and he lived in a separate house. And Jotham the king’s son was over the household, governing the people of the land. ^1505
+[[H4428|The king]] [[H894|of Babylon]] [[H935|also brought]] [[H1473|into exile]] [[H894|to Babylon]] [[H3605|all]] [[H7651|seven]] [[H505|thousand]] [[H582|valiant warriors]] [[H505|and a thousand]] [[H2796|craftsmen]] [[H4525|and metalsmiths—]] [[H3605|all]] [[H1368|strong]] [[H6213|and fit]] [[H4421|for battle.]] ^2416
 
-Now the rest of the acts of Azariah, and all that he did, are they not written in the Book of the Chronicles of the Kings of Judah? ^1506
+[[H4428|Then the king]] [[H894|of Babylon]] [[H4983|made Mattaniah,]] ⟨Jehoiachin's⟩ [[H1730|uncle,]] [[H4427|king]] [[H8478|in his place]] [[H5437|and changed]] [[H8034|his name]] [[H6667|to Zedekiah.]] ^2417
 
-And Azariah slept with his fathers, and they buried him with his fathers in the city of David, and Jotham his son reigned in his place. ^1507
+[[H6667|Zedekiah]] [[H6242|was twenty-one]] [[H1121|years old]] [[H4427|when he became king,]] [[H4427|and he reigned]] [[H3389|in Jerusalem]] [[H259|eleven]] [[H8141|years.]] [[H517|His mother’s]] [[H8034|name]] [[H2537|was Hamutal]] [[H1323|daughter]] [[H3414|of Jeremiah;]] [[H3841|she was from Libnah.]] ^2418
 
-In the thirty-eighth year of Azariah king of Judah, Zechariah the son of Jeroboam reigned over Israel in Samaria six months. ^1508
+[[H6213|And did]] ⟨Zedekiah⟩ [[H7451|evil]] [[H5869|in the sight]] [[H3068|of the LORD,]] [[H3605|just as]] [[H3079|Jehoiakim]] [[H6213|had done.]] ^2419
 
-And he did what was evil in the sight of the Lord, as his fathers had done. He did not depart from the sins of Jeroboam the son of Nebat, which he made Israel to sin. ^1509
+[[H3588|For]] [[H5921|because]] [[H639|of the anger]] [[H3068|of the LORD,]] ⟨all this⟩ [[H1961|happened]] [[H3389|in Jerusalem]] [[H3063|and Judah,]] [[H5704|until]] [[H7993|He finally banished]] [[H853|them]] [[H5921|from]] [[H6440|His presence.]] [[H6667|And Zedekiah also]] [[H4775|rebelled]] [[H4428|against the king]] [[H894|of Babylon.]] ^2420
 
-Shallum the son of Jabesh conspired against him and struck him down at Ibleam and put him to death and reigned in his place. ^1510
+[[H256|Now Ahab]] [[H7657|had seventy]] [[H1121|sons]] [[H8111|in Samaria.]] [[H3058|So Jehu]] [[H3789|wrote]] [[H5612|letters]] [[H7971|and sent]] [[H8111|them to Samaria]] [[H413|to]] [[H8269|the officials]] [[H3157|of Jezreel,]] [[H2205|to the elders,]] [[H413|and to]] [[H539|the guardians]] ⟨of the sons⟩ [[H256|of Ahab,]] [[H559|saying:]] ^1001
 
-Now the rest of the deeds of Zechariah, behold, they are written in the Book of the Chronicles of the Kings of Israel. ^1511
+[[H2088|“When this]] [[H5612|letter]] [[H935|arrives,]] [[H6258|since]] [[H113|your master’s]] [[H1121|sons]] [[H854|are with you]] [[H854|and you have]] [[H7393|chariots]] [[H5483|and horses,]] [[H4013|a fortified]] [[H5892|city]] [[H5402|and weaponry,]] ^1002
 
-(This was the promise of the Lord that he gave to Jehu, Your sons shall sit on the throne of Israel to the fourth generation. And so it came to pass.) ^1512
+[[H7200|select]] [[H2896|the best]] [[H3477|and most worthy]] [[H1121|son]] [[H113|of your master,]] [[H7760|set]] [[H5921|him on]] [[H1|his father’s]] [[H3678|throne,]] [[H3898|and fight]] [[H5921|for]] [[H113|your master’s]] [[H1004|house.”]] ^1003
 
-Shallum the son of Jabesh began to reign in the thirty-ninth year of Uzziah king of Judah, and he reigned one month in Samaria. ^1513
+[[H3372|But they were terrified]] [[H559|and reasoned,]] [[H2009|“If]] [[H8147|two]] [[H4428|kings]] [[H3808|could not]] [[H5975|stand]] [[H6440|against him,]] [[H349|how]] [[H587|can we?”]] ^1004
 
-Then Menahem the son of Gadi came up from Tirzah and came to Samaria, and he struck down Shallum the son of Jabesh in Samaria and put him to death and reigned in his place. ^1514
+[[H1004|So the palace]] [[H834|administrator,]] [[H834|the overseer]] [[H5892|of the city,]] [[H2205|the elders,]] [[H539|and the guardians]] [[H7971|sent]] [[H413|a message to]] [[H3058|Jehu:]] [[H587|“We]] [[H5650|are your servants,]] [[H6213|and we will do]] [[H3605|whatever]] [[H559|you say.]] [[H3808|We will not]] [[H376|make anyone]] [[H4427|king.]] [[H6213|Do]] ⟨whatever is⟩ [[H2896|good]] [[H5869|in your sight.”]] ^1005
 
-Now the rest of the deeds of Shallum, and the conspiracy that he made, behold, they are written in the Book of the Chronicles of the Kings of Israel. ^1515
+[[H3789|Then Jehu wrote]] [[H413|them]] [[H8145|a second]] [[H5612|letter]] [[H559|and said:]] [[H518|“If]] [[H859|you are on my side,]] [[H859|and if you]] [[H8085|will obey me,]] [[H3947|then bring]] [[H7218|the heads]] [[H113|of your master’s]] [[H1121|sons]] [[H853|to me]] [[H3157|at Jezreel]] [[H6256|by this time]] [[H4279|tomorrow.”]] [[H4428|Now the king’s]] [[H1121|sons,]] [[H7657|seventy]] [[H376|in all,]] [[H1431|were being brought up]] [[H1419|by the leading men]] [[H5892|of the city.]] ^1006
 
-At that time Menahem sacked Tiphsah and all who were in it and its territory from Tirzah on, because they did not open it to him. Therefore he sacked it, and he ripped open all the women in it who were pregnant. ^1516
+[[H1961|And]] [[H5612|when the letter]] [[H935|arrived,]] [[H3947|they took]] [[H4428|the king’s]] [[H1121|sons]] [[H7819|and slaughtered]] [[H7657|all seventy]] [[H376|of them,]] [[H7760|put]] [[H7218|their heads]] [[H1731|in baskets,]] [[H7971|and sent]] [[H413|them to Jehu]] [[H3157|at Jezreel.]] ^1007
 
-In the thirty-ninth year of Azariah king of Judah, Menahem the son of Gadi began to reign over Israel, and he reigned ten years in Samaria. ^1517
+[[H4397|When the messenger]] [[H935|arrived,]] [[H5046|he told]] ⟨Jehu⟩ [[H935|,  “They have brought]] [[H7218|the heads]] [[H4428|of the king’s]] [[H1121|sons.”]] [[H559|And ordered,]] ⟨Jehu⟩ [[H7760|“Pile]] [[H8147|them in two]] [[H6652|heaps]] [[H6607|at the entrance]] [[H8179|of the gate]] [[H5704|until]] [[H1242|morning.”]] ^1008
 
-And he did what was evil in the sight of the Lord. He did not depart all his days from all the sins of Jeroboam the son of Nebat, which he made Israel to sin. ^1518
+[[H1242|The next morning,]] ⟨Jehu⟩ [[H3318|went out]] [[H5975|and stood]] [[H413|before]] [[H3605|all]] [[H5971|the people]] [[H559|and said,]] [[H859|“You]] [[H6662|are innocent.]] [[H589|It was I]] [[H7194|who conspired]] [[H5921|against]] [[H113|my master]] [[H2026|and killed him.]] [[H4310|But who]] [[H5221|killed]] [[H3605|all]] [[H428|these?]] ^1009
 
-Pul the king of Assyria came against the land, and Menahem gave Pul a thousand talents of silver, that he might help him to confirm his hold on the royal power. ^1519
+[[H3045|Know,]] [[H645|then,]] [[H3588|that]] [[H3808|not]] [[H1697|a word]] [[H3068|the LORD]] [[H1696|has spoken]] [[H5921|against]] [[H1004|the house]] [[H256|of Ahab]] [[H5307|will fail,]] [[H3068|for the LORD]] [[H6213|has done]] [[H834|what]] [[H1696|He promised]] [[H3027|through]] [[H5650|His servant]] [[H452|Elijah.”]] ^1010
 
-Menahem exacted the money from Israel, that is, from all the wealthy men, fifty shekels of silver from every man, to give to the king of Assyria. So the king of Assyria turned back and did not stay there in the land. ^1520
+[[H3058|So Jehu]] [[H5221|killed]] [[H3605|everyone]] [[H3157|in Jezreel]] [[H7604|who remained]] [[H1004|of the house]] [[H256|of Ahab,]] [[H3605|as well as all]] [[H1419|his great men]] [[H3045|and close friends]] [[H3548|and priests,]] [[H7604|leaving]] [[H1115|him  without]] ⟨a single⟩ [[H8300|survivor.]] ^1011
 
-Now the rest of the deeds of Menahem and all that he did, are they not written in the Book of the Chronicles of the Kings of Israel? ^1521
+[[H6965|Then set out]] ⟨Jehu⟩ [[H8111|toward Samaria.]] [[H1004|At]] [[H7462|Beth-eked of the Shepherds,]] ^1012
 
-And Menahem slept with his fathers, and Pekahiah his son reigned in his place. ^1522
+[[H3058|Jehu]] [[H4672|met]] [[H251|some relatives]] [[H274|of Ahaziah]] [[H4428|king]] [[H3063|of Judah]] [[H559|and asked,]] [[H4310|“Who]] [[H859|are you?”]] [[H587|“We are]] [[H251|relatives]] [[H274|of Ahaziah,”]] [[H559|they answered,]] [[H3381|“and we have come down]] [[H7965|to greet]] [[H1121|the sons]] [[H4428|of the king]] ⟨and⟩ [[H1121|]] [[H1377|of the queen mother.”]] ^1013
 
-In the fiftieth year of Azariah king of Judah, Pekahiah the son of Menahem began to reign over Israel in Samaria, and he reigned two years. ^1523
+[[H559|Then Jehu ordered,]] [[H8610|“Take]] [[H2416|them alive.”]] [[H8610|So took]] ⟨his men⟩ [[H2416|them alive,]] [[H7819|then slaughtered them]] [[H413|at]] [[H953|the well]] [[H1044|of  Beth-eked—]] [[H705|forty-two]] [[H376|men.]] [[H3808|He]] [[H7604|spared]] [[H376|none]] [[H1992|of them.]] ^1014
 
-And he did what was evil in the sight of the Lord. He did not turn away from the sins of Jeroboam the son of Nebat, which he made Israel to sin. ^1524
+[[H1980|When he left]] [[H8033|there,]] [[H4672|he found]] [[H3082|Jehonadab]] [[H1121|son]] [[H7394|of Rechab,]] [[H7125|who was coming to meet him.]] ⟨Jehu⟩ [[H1288|greeted him]] [[H559|and asked,]] [[H3426|“Is]] [[H3824|your heart]] [[H3477|as true to mine]] [[H834|as]] [[H3824|my heart]] [[H5973|is]] [[H3824|to yours?”]] [[H3426|“It is!”]] [[H3082|Jehonadab]] [[H559|replied.]] [[H3426|“If it is,” said Jehu,]] [[H5414|“give]] [[H3027|me your hand.”]] [[H5414|So he gave]] [[H3027|him his hand,]] [[H5927|and Jehu helped him]] [[H413|into]] [[H4818|his chariot,]] ^1015
 
-And Pekah the son of Remaliah, his captain, conspired against him with fifty men of the people of Gilead, and struck him down in Samaria, in the citadel of the king’s house with Argob and Arieh; he put him to death and reigned in his place. ^1525
+[[H559|saying,]] [[H1980|“Come]] [[H854|with me]] [[H7200|and see]] [[H7068|my zeal]] [[H3068|for the LORD!”]] [[H7392|So he had him ride]] [[H7393|in his chariot.]] ^1016
 
-Now the rest of the deeds of Pekahiah and all that he did, behold, they are written in the Book of the Chronicles of the Kings of Israel. ^1526
+[[H935|When Jehu came]] [[H8111|to Samaria,]] [[H5221|he struck down]] [[H3605|everyone]] [[H256|belonging to Ahab]] [[H7604|who remained]] ⟨there⟩ [[H8111|,]] [[H5704|until]] [[H8045|he had destroyed them,]] [[H1697|according to the word]] [[H834|that]] [[H3068|the LORD]] [[H1696|had spoken]] [[H413|to]] [[H452|Elijah.]] ^1017
 
-In the fifty-second year of Azariah king of Judah, Pekah the son of Remaliah began to reign over Israel in Samaria, and he reigned twenty years. ^1527
+[[H3058|Then Jehu]] [[H3605|brought all]] [[H5971|the people]] [[H6908|together]] [[H559|and said,]] [[H256|“Ahab]] [[H5647|served]] [[H1168|Baal]] [[H4592|a little,]] [[H3058|but Jehu]] [[H5647|will serve him]] [[H7235|a lot.]] ^1018
 
-And he did what was evil in the sight of the Lord. He did not depart from the sins of Jeroboam the son of Nebat, which he made Israel to sin. ^1528
+[[H6258|Now, therefore,]] [[H7121|summon]] [[H413|to]] [[H3605|me all]] [[H5030|the prophets]] [[H1168|of Baal,]] [[H3605|all]] [[H5647|his servants,]] [[H3605|and all]] [[H3548|his priests.]] [[H376|See that no one]] [[H6485|is missing,]] [[H3588|for]] [[H1419|I have  a great]] [[H2077|sacrifice]] [[H1168|for Baal.]] [[H3605|Whoever]] [[H6485|is missing]] [[H3808|will not]] [[H2421|live.”]] [[H3058|But Jehu]] [[H6213|was acting]] [[H6122|deceptively]] [[H4616|in order to]] [[H6|destroy]] [[H5647|the servants]] [[H1168|of Baal.]] ^1019
 
-In the days of Pekah king of Israel, Tiglath-pileser king of Assyria came and captured Ijon, Abel-beth-maacah, Janoah, Kedesh, Hazor, Gilead, and Galilee, all the land of Naphtali, and he carried the people captive to Assyria. ^1529
+[[H3058|And Jehu]] [[H559|commanded,]] [[H6942|“Proclaim]] [[H6116|a solemn assembly]] [[H1168|for Baal.”]] [[H7121|So they called one.]] ^1020
 
-Then Hoshea the son of Elah made a conspiracy against Pekah the son of Remaliah and struck him down and put him to death and reigned in his place, in the twentieth year of Jotham the son of Uzziah. ^1530
+[[H3058|Then Jehu]] [[H7971|sent word]] [[H3605|throughout]] [[H3478|Israel,]] [[H3605|and all]] [[H5647|the servants]] [[H1168|of Baal]] [[H935|came;]] [[H3808|there was not]] [[H376|a man]] [[H834|who]] [[H3808|failed]] [[H935|to show up.]] [[H935|They entered]] [[H1004|the temple]] [[H1168|of Baal,]] [[H1004|and it]] [[H4390|was filled]] [[H6310|from end]] [[H6310|to end.]] ^1021
 
-Now the rest of the acts of Pekah and all that he did, behold, they are written in the Book of the Chronicles of the Kings of Israel. ^1531
+[[H559|And said]] ⟨Jehu⟩ [[H834|to the keeper]] [[H4458|of the wardrobe,]] [[H3318|“Bring out]] [[H3830|garments]] [[H3605|for all]] [[H5647|the servants]] [[H1168|of Baal.”]] [[H3318|So he brought out]] [[H4403|garments]] ^1022
 
-In the second year of Pekah the son of Remaliah, king of Israel, Jotham the son of Uzziah, king of Judah, began to reign. ^1532
+[[H3058|Next, Jehu]] [[H3082|and Jehonadab]] [[H1121|son]] [[H7394|of Rechab]] [[H935|entered]] [[H1004|the temple]] [[H1168|of Baal,]] [[H559|and Jehu said]] [[H5647|to the servants]] [[H1168|of Baal,]] [[H2664|“Look around]] [[H7200|to see]] [[H3426|that there are]] [[H6435|no]] [[H5650|servants]] [[H3068|of the LORD]] [[H6311|here]] [[H5973|among you—]] [[H3588|only]] [[H5647|servants]] [[H1168|of Baal.]] ^1023
 
-He was twenty-five years old when he began to reign, and he reigned sixteen years in Jerusalem. His mother’s name was Jerusha the daughter of Zadok. ^1533
+[[H935|And they went in]] [[H6213|to offer]] [[H2077|sacrifices]] [[H5930|and burnt offerings.]] [[H3058|Now Jehu]] [[H7760|had stationed]] [[H8084|eighty]] [[H376|men]] [[H2351|outside]] [[H559|and warned them,]] [[H376|“If anyone]] [[H4480|allows one of]] [[H376|the men]] [[H589|I]] [[H935|am delivering]] [[H5921|into]] [[H3027|your hands]] [[H4422|to escape,]] [[H5315|he will forfeit his life]] [[H8478|for]] [[H5315|theirs.]] ^1024
 
-And he did what was right in the eyes of the Lord, according to all that his father Uzziah had done. ^1534
+[[H3615|When he had finished]] [[H6213|making]] [[H5930|the burnt offering,]] [[H3058|Jehu]] [[H559|said]] [[H7323|to the guards]] [[H7991|and officers,]] [[H935|“Go in]] [[H5221|and kill them.]] [[H408|Do not]] [[H376|let anyone]] [[H3318|out.”]] [[H7323|So the guards]] [[H7991|and officers]] [[H5221|struck them down]] [[H2719|with the sword,]] [[H7993|threw the bodies out,]] [[H1980|and went]] [[H5704|into]] [[H5892|the inner room]] [[H1004|of the temple]] [[H1168|of Baal.]] ^1025
 
-Nevertheless, the high places were not removed. The people still sacrificed and made offerings on the high places. He built the upper gate of the house of the Lord. ^1535
+[[H3318|They brought out]] [[H4676|the pillar]] ⟨sacred⟩ [[H1004|of the temple]] [[H1168|of Baal]] [[H8313|and burned it,]] ^1026
 
-Now the rest of the acts of Jotham and all that he did, are they not written in the Book of the Chronicles of the Kings of Judah? ^1536
+[[H5422|and they demolished]] [[H4676|the pillar]] ⟨sacred⟩ [[H1168|of Baal.]] [[H5422|Then they tore down]] [[H1004|the temple]] [[H1168|of Baal]] [[H7760|and made]] [[H4163|it into a latrine,]] [[H5704|which it is to]] [[H3117|this day.]] ^1027
 
-In those days the Lord began to send Rezin the king of Syria and Pekah the son of Remaliah against Judah. ^1537
+[[H3058|Thus Jehu]] [[H8045|eradicated]] [[H1168|Baal]] [[H3478|from Israel,]] ^1028
 
-Jotham slept with his fathers and was buried with his fathers in the city of David his father, and Ahaz his son reigned in his place. ^1538
+[[H7535|but]] [[H3058|he]] [[H3808|did not]] [[H5493|turn away]] [[H310|from]] [[H2399|the sins]] [[H3379|that Jeroboam]] [[H1121|son]] [[H5028|of Nebat]] [[H3478|had caused Israel]] [[H2398|to commit—]] [[H2091|the worship of the golden]] [[H5695|calves]] [[H1008|at Bethel]] [[H1835|and Dan.]] ^1029
 
+[[H3068|Nevertheless, the LORD]] [[H559|said]] [[H413|to]] [[H3058|Jehu,]] [[H3282|“Because]] [[H2895|you have done well]] [[H6213|in carrying out]] [[H3477|what is right]] [[H5869|in My sight]] [[H6213|and have done]] [[H1004|to the house]] [[H256|of Ahab]] [[H3605|all]] [[H834|that]] [[H3824|was in My heart,]] [[H7243|four generations]] [[H1121|of your sons]] [[H3427|will sit]] [[H5921|on]] [[H3678|the throne]] [[H3478|of Israel.]] ^1030
 
+[[H3058|Yet Jehu]] [[H3808|was not]] [[H8104|careful]] [[H1980|to follow]] [[H8451|the instruction]] [[H3068|of the LORD,]] [[H430|the God]] [[H3478|of Israel,]] [[H3605|with all]] [[H3824|his heart.]] [[H3808|He did not]] [[H5493|turn away]] [[H5921|from]] [[H2403|the sins]] [[H834|that]] [[H3379|Jeroboam]] [[H3478|had caused Israel]] [[H2398|to commit.]] ^1031
 
-In the seventeenth year of Pekah the son of Remaliah, Ahaz the son of Jotham, king of Judah, began to reign. ^1601
+[[H1992|In those]] [[H3117|days]] [[H3068|the LORD]] [[H2490|began]] [[H7096|to reduce the size]] [[H3478|of Israel.]] [[H2371|Hazael]] [[H5221|defeated]] [[H3478|the Israelites]] [[H3605|throughout]] [[H1366|their territory]] ^1032
 
-Ahaz was twenty years old when he began to reign, and he reigned sixteen years in Jerusalem. And he did not do what was right in the eyes of the Lord his God, as his father David had done, ^1602
+[[H4480|from]] [[H3383|the Jordan]] [[H4217|eastward,]] [[H3605|all]] [[H776|the land]] [[H1568|of Gilead]] [[H1425|(the region of Gad,]] [[H7206|Reuben,]] [[H4520|and Manasseh),]] [[H6177|and from Aroer]] [[H5921|by]] [[H769|the Arnon]] [[H5158|Valley]] [[H1568|through Gilead]] [[H1316|to Bashan.]] ^1033
 
-but he walked in the way of the kings of Israel. He even burned his son as an offering, according to the despicable practices of the nations whom the Lord drove out before the people of Israel. ^1603
+[[H3499|As for the rest]] [[H1697|of the acts]] [[H3058|of Jehu,]] [[H3605|along with all]] [[H834|his accomplishments]] [[H3605|and all]] [[H1369|his might,]] [[H3789|are they not written]] [[H5612|in the Book]] [[H1697|of the Chronicles]] [[H4428|of the Kings]] [[H3478|of Israel?]] ^1034
 
-And he sacrificed and made offerings on the high places and on the hills and under every green tree. ^1604
+[[H3058|And Jehu]] [[H7901|rested]] [[H5973|with]] [[H1|his fathers]] [[H6912|and was buried]] [[H8111|in Samaria,]] [[H1121|and his son]] [[H3059|Jehoahaz]] [[H4427|became king]] [[H8478|in his place.]] ^1035
 
-Then Rezin king of Syria and Pekah the son of Remaliah, king of Israel, came up to wage war on Jerusalem, and they besieged Ahaz but could not conquer him. ^1605
+[[H3117|So the time]] [[H3058|of Jehu’s]] [[H4427|reign]] [[H5921|over]] [[H3478|Israel]] [[H8111|in Samaria]] ⟨was⟩ [[H6242|twenty-eight]] [[H8141|years.]] ^1036
 
-At that time Rezin the king of Syria recovered Elath for Syria and drove the men of Judah from Elath, and the Edomites came to Elath, where they dwell to this day. ^1606
+[[H8147|In the second]] [[H8141|year]] [[H4428|of the reign]] [[H3101|of Jehoash]] [[H1121|son]] [[H3099|of Jehoahaz]] [[H3478|over Israel,]] [[H558|Amaziah]] [[H1121|son]] [[H3101|of Joash]] [[H4427|became king]] [[H3063|of Judah.]] ^1401
 
-So Ahaz sent messengers to Tiglath-pileser king of Assyria, saying, I am your servant and your son. Come up and rescue me from the hand of the king of Syria and from the hand of the king of Israel, who are attacking me. ^1607
+[[H1961|He was]] [[H6242|twenty-five]] [[H1121|years old]] [[H4427|when he became king,]] [[H4427|and he reigned]] [[H3389|in Jerusalem]] [[H6242|twenty-nine]] [[H8141|years.]] [[H517|His mother’s]] [[H8034|name]] [[H3086|was Jehoaddan;]] [[H4480|she was from]] [[H3389|Jerusalem.]] ^1402
 
-Ahaz also took the silver and gold that was found in the house of the Lord and in the treasures of the king’s house and sent a present to the king of Assyria. ^1608
+[[H6213|And he did]] ⟨what was⟩ [[H3477|right]] [[H5869|in the eyes]] [[H3068|of the LORD,]] [[H7535|but]] [[H3808|not]] [[H1|as his father]] [[H1732|David]] ⟨had done⟩. [[H6213|He did]] [[H3605|everything]] [[H834|as]] [[H1|his father]] [[H3101|Joash]] [[H6213|had done.]] ^1403
 
-And the king of Assyria listened to him. The king of Assyria marched up against Damascus and took it, carrying its people captive to Kir, and he killed Rezin. ^1609
+[[H7535|Nevertheless,]] [[H1116|the high places]] [[H3808|were not]] [[H5493|taken away,]] [[H5971|and the people]] [[H5750|continued]] [[H2076|sacrificing]] [[H6999|and burning incense]] [[H1116|on the high places.]] ^1404
 
-When King Ahaz went to Damascus to meet Tiglath-pileser king of Assyria, he saw the altar that was at Damascus. And King Ahaz sent to Uriah the priest a model of the altar, and its pattern, exact in all its details. ^1610
+[[H834|As soon as]] [[H4467|the kingdom]] [[H2388|was firmly]] [[H3027|in his grasp,]] [[H5221|Amaziah executed]] [[H5650|the servants]] [[H5221|who had murdered]] [[H1|his father]] [[H4428|the king.]] ^1405
 
-And Uriah the priest built the altar; in accordance with all that King Ahaz had sent from Damascus, so Uriah the priest made it, before King Ahaz arrived from Damascus. ^1611
+[[H853|Yet]] [[H3808|he did not]] [[H1121|put the sons]] [[H5221|of the murderers]] [[H4191|to death,]] [[H3789|according to what is written]] [[H5612|in the Book]] [[H8451|of the Law]] [[H4872|of Moses,]] [[H834|where]] [[H3068|the LORD]] [[H6680|commanded:]] [[H1|“Fathers]] [[H3808|must not]] [[H4191|be put to death]] [[H5921|for]] [[H1121|their children,]] [[H1121|and children]] [[H3808|must not]] [[H4191|be put to death]] [[H5921|for]] [[H1|their fathers;]] [[H376|each]] [[H4191|is to die]] [[H2399|for his own sin.]] ^1406
 
-And when the king came from Damascus, the king viewed the altar. Then the king drew near to the altar and went up on it ^1612
+[[H1931|Amaziah]] [[H5221|struck down]] [[H6235|ten]] [[H505|thousand]] [[H123|Edomites]] [[H1516|in the Valley of Salt.]] [[H8610|He took]] [[H5554|Sela]] [[H4421|in battle]] [[H7121|and called]] [[H3371|it Joktheel,]] [[H8034|its name]] [[H5704|to]] [[H2088|this very]] [[H3117|day.]] ^1407
 
-and burned his burnt offering and his grain offering and poured his drink offering and threw the blood of his peace offerings on the altar. ^1613
+[[H227|Then]] [[H558|Amaziah]] [[H7971|sent]] [[H4397|messengers]] [[H413|to]] [[H4428|the king]] [[H3478|of Israel,]] [[H3060|Jehoash]] [[H1121|son]] [[H3059|of Jehoahaz,]] [[H1121|the son]] [[H3058|of Jehu.]] [[H1980|“Come,]] [[H7200|let us meet]] [[H6440|face to face,”]] [[H559|he said.]] ^1408
 
-And the bronze altar that was before the Lord he removed from the front of the house, from the place between his altar and the house of the Lord, and put it on the north side of his altar. ^1614
+[[H3060|But Jehoash]] [[H4428|king]] [[H3478|of Israel]] [[H7971|replied]] [[H413|to]] [[H558|Amaziah]] [[H4428|king]] [[H3063|of Judah:]] [[H2336|“A thistle]] [[H3844|in Lebanon]] [[H7971|sent]] [[H413|a message to]] [[H730|a cedar]] [[H3844|in Lebanon,]] [[H559|saying,]] [[H5414|‘Give]] [[H1323|your daughter]] [[H1121|to my son]] [[H802|in marriage.’]] [[H7704|Then a wild]] [[H2416|beast]] [[H3844|in Lebanon]] [[H5674|came along]] [[H7429|and trampled]] [[H2336|the thistle.]] ^1409
 
-And King Ahaz commanded Uriah the priest, saying, On the great altar burn the morning burnt offering and the evening grain offering and the king’s burnt offering and his grain offering, with the burnt offering of all the people of the land, and their grain offering and their drink offering. And throw on it all the blood of the burnt offering and all the blood of the sacrifice, but the bronze altar shall be for me to inquire by. ^1615
+[[H5221|You have indeed defeated]] [[H123|Edom,]] [[H3820|and your heart]] [[H5375|has become proud.]] [[H3513|Glory]] ⟨in that⟩ [[H3427|and stay]] [[H1004|at home.]] [[H4100|Why]] [[H1624|should you stir up]] [[H7451|trouble]] [[H5307|so that you fall—]] [[H859|you]] [[H3063|and Judah]] [[H5973|with you?”]] ^1410
 
-Uriah the priest did all this, as King Ahaz commanded. ^1616
+[[H558|But Amaziah]] [[H3808|would not]] [[H8085|listen,]] [[H3060|and Jehoash]] [[H4428|king]] [[H3478|of Israel]] [[H5927|advanced.]] [[H1931|He]] [[H4428|and King]] [[H558|Amaziah]] [[H3063|of Judah]] [[H7200|faced off]] [[H1053|at Beth-shemesh]] [[H3063|in Judah.]] ^1411
 
-And King Ahaz cut off the frames of the stands and removed the basin from them, and he took down the sea from off the bronze oxen that were under it and put it on a stone pedestal. ^1617
+[[H3063|And Judah]] [[H5062|was routed]] [[H6440|before]] [[H3478|Israel,]] [[H376|and every man]] [[H5127|fled]] [[H168|to his home.]] ^1412
 
-And the covered way for the Sabbath that had been built inside the house and the outer entrance for the king he caused to go around the house of the Lord, because of the king of Assyria. ^1618
+[[H1053|There at Beth-shemesh,]] [[H3060|Jehoash]] [[H4428|king]] [[H3478|of Israel]] [[H8610|captured]] [[H558|Amaziah]] [[H4428|king]] [[H3063|of Judah,]] [[H1121|the son]] [[H3060|of Joash,]] [[H1121|the son]] [[H274|of Ahaziah.]] [[H935|Then Jehoash went]] [[H3389|to Jerusalem]] [[H6555|and broke down]] [[H2346|the wall]] [[H3389|of Jerusalem]] [[H669|from the Ephraim]] [[H8179|Gate]] [[H5704|to]] [[H6438|the Corner]] [[H8179|Gate]] ⟨a section of⟩ [[H702|four]] [[H3967|hundred]] [[H520|cubits.]] ^1413
 
-Now the rest of the acts of Ahaz that he did, are they not written in the Book of the Chronicles of the Kings of Judah? ^1619
+[[H3947|He took]] [[H3605|all]] [[H2091|the gold]] [[H3701|and silver]] [[H853|and]] [[H3605|all]] [[H3627|the articles]] [[H4672|found]] [[H1004|in the house]] [[H3069|of the LORD]] [[H214|and in the treasuries]] [[H4428|of the royal]] [[H1004|palace,]] [[H1121|as well as some hostages.]] [[H7725|Then he returned]] [[H8111|to Samaria.]] ^1414
 
-And Ahaz slept with his fathers and was buried with his fathers in the city of David, and Hezekiah his son reigned in his place. ^1620
+[[H3499|As for the rest]] [[H1697|of the acts]] [[H3060|of Jehoash,]] [[H834|along with his accomplishments,]] [[H1369|his might,]] [[H834|and how]] [[H3898|he waged war]] [[H5973|against]] [[H558|Amaziah]] [[H4428|king]] [[H3063|of Judah,]] [[H3789|are they not written]] [[H5612|in the Book]] [[H1697|of the Chronicles]] [[H4428|of the Kings]] [[H3478|of Israel?]] ^1415
 
+[[H3060|And Jehoash]] [[H7901|rested]] [[H5973|with]] [[H1|his fathers,]] [[H6912|and he was buried]] [[H8111|in Samaria]] [[H5973|with]] [[H4428|the kings]] [[H3478|of Israel.]] [[H1121|And his son]] [[H3379|Jeroboam]] [[H4427|became king]] [[H8478|in his place.]] ^1416
 
+[[H558|Amaziah]] [[H1121|son]] [[H3101|of Joash]] [[H4428|king]] [[H3063|of Judah]] [[H2421|lived]] [[H2568|for fifteen]] [[H8141|years]] [[H310|after]] [[H4194|the death]] [[H3060|of Joash]] [[H1121|son]] [[H3059|of Jehoahaz]] [[H4428|king]] [[H3478|of Israel.]] ^1417
 
-In the twelfth year of Ahaz king of Judah, Hoshea the son of Elah began to reign in Samaria over Israel, and he reigned nine years. ^1701
+[[H3499|As for the rest]] [[H1697|of the acts]] [[H558|of Amaziah,]] [[H3808|are they not]] [[H3789|written]] [[H5612|in the Book]] [[H1697|of the Chronicles]] [[H4428|of the Kings]] [[H3063|of Judah?]] ^1418
 
-And he did what was evil in the sight of the Lord, yet not as the kings of Israel who were before him. ^1702
+[[H7195|And conspirators]] [[H7194|plotted]] [[H5921|against {Amaziah]]] [[H3389|in Jerusalem,]] [[H5127|and he fled]] [[H3923|to Lachish.]] [[H7971|But men were sent]] [[H310|after him]] [[H3923|to Lachish,]] [[H4191|and they killed him]] [[H8033|there.]] ^1419
 
-Against him came up Shalmaneser king of Assyria. And Hoshea became his vassal and paid him tribute. ^1703
+[[H5375|They carried him back]] [[H5921|on]] [[H5483|horses]] [[H6912|and buried him]] [[H3389|in Jerusalem]] [[H5973|with]] [[H1|his fathers]] [[H5892|in the City]] [[H1732|of David.]] ^1420
 
-But the king of Assyria found treachery in Hoshea, for he had sent messengers to So, king of Egypt, and offered no tribute to the king of Assyria, as he had done year by year. Therefore the king of Assyria shut him up and bound him in prison. ^1704
+[[H3605|Then all]] [[H5971|the people]] [[H3063|of Judah]] [[H3947|took]] [[H5838|Azariah,]] [[H1931|who]] ⟨was⟩ [[H8337|sixteen]] [[H1121|years old,]] [[H4427|and made him king]] [[H8478|in place of]] [[H1|his father]] [[H558|Amaziah.]] ^1421
 
-Then the king of Assyria invaded all the land and came to Samaria, and for three years he besieged it. ^1705
+⟨Azariah was the one⟩ [[H1931|]] [[H1129|who rebuilt]] [[H359|Elath]] [[H7725|and restored it]] [[H3063|to Judah]] [[H310|after]] [[H4428|King]] ⟨Amaziah⟩ [[H7901|rested]] [[H5973|with]] [[H1|his fathers.]] ^1422
 
-In the ninth year of Hoshea, the king of Assyria captured Samaria, and he carried the Israelites away to Assyria and placed them in Halah, and on the Habor, the river of Gozan, and in the cities of the Medes. ^1706
+[[H2568|In the fifteenth]] [[H8141|year]] [[H4428|of the reign]] [[H558|of Amaziah]] [[H1121|son]] [[H3101|of Joash]] [[H3063|over Judah,]] [[H3379|Jeroboam]] [[H1121|son]] [[H3101|of Jehoash]] [[H4427|became king]] [[H3478|of Israel,]] ⟨and he reigned⟩ [[H8111|in Samaria]] [[H705|forty-one]] [[H8141|years.]] ^1423
 
-And this occurred because the people of Israel had sinned against the Lord their God, who had brought them up out of the land of Egypt from under the hand of Pharaoh king of Egypt, and had feared other gods ^1707
+[[H6213|And he did]] [[H7451|evil]] [[H5869|in the sight]] [[H3068|of the LORD]] [[H3808|and did not]] [[H5493|turn away]] [[H3605|from all]] [[H2403|the sins that]] [[H3379|Jeroboam]] [[H1121|son]] [[H5028|of Nebat]] [[H3478|had caused Israel]] [[H2398|to commit.]] ^1424
 
-and walked in the customs of the nations whom the Lord drove out before the people of Israel, and in the customs that the kings of Israel had practiced. ^1708
+⟨This Jeroboam⟩ [[H1931|]] [[H7725|restored]] [[H1366|the boundary]] [[H3478|of Israel]] [[H2574|from Lebo-hamath]] [[H5704|to]] [[H3220|the Sea]] [[H6160|of the Arabah,]] [[H1697|according to the word]] [[H3068|the LORD,]] [[H430|the God]] [[H3478|of Israel,]] [[H1696|had spoken]] [[H3027|through]] [[H5650|His servant]] [[H3124|Jonah]] [[H1121|son]] [[H573|of Amittai,]] [[H5030|the prophet]] [[H1662|from Gath-hepher.]] ^1425
 
-And the people of Israel did secretly against the Lord their God things that were not right. They built for themselves high places in all their towns, from watchtower to fortified city. ^1709
+[[H3588|For]] [[H3068|the LORD]] [[H7200|saw]] [[H6040|that the affliction]] [[H3478|of the Israelites,]] [[H6113|both slave]] ⟨and⟩ [[H657|]] [[H5800|free,]] [[H3966|was very]] [[H4784|bitter.]] [[H369|There was no]] [[H5826|one to help]] [[H3478|Israel,]] ^1426
 
-They set up for themselves pillars and Asherim on every high hill and under every green tree, ^1710
+[[H3068|and since the LORD]] [[H1696|had said]] [[H4229|that He would not blot out]] [[H8034|the name]] [[H3478|of Israel]] [[H8478|from under]] [[H8064|heaven,]] [[H3467|He delivered]] [[H3027|them by the hand]] [[H3379|of Jeroboam]] [[H1121|son]] [[H3101|of Jehoash.]] ^1427
 
-and there they made offerings on all the high places, as the nations did whom the Lord carried away before them. And they did wicked things, provoking the Lord to anger, ^1711
+[[H3499|As for the rest]] [[H1697|of the acts]] [[H3379|of Jeroboam,]] [[H3605|along with all]] [[H834|his accomplishments]] [[H1369|and might,]] [[H834|and how]] [[H3898|he waged war]] [[H7725|and recovered]] [[H1834|both Damascus]] [[H2574|and Hamath]] [[H3478|for Israel]] [[H3063|from Judah,]] [[H3789|are they not written]] [[H5612|in the Book]] [[H1697|of the Chronicles]] [[H4428|of the Kings]] [[H3478|of Israel?]] ^1428
 
-and they served idols, of which the Lord had said to them, You shall not do this. ^1712
+[[H3379|And Jeroboam]] [[H7901|rested]] [[H5973|with]] [[H1|his fathers,]] [[H4428|the kings]] [[H3478|of Israel.]] [[H1121|And his son]] [[H2148|Zechariah]] [[H4427|became king]] [[H8478|in his place.]] ^1429
 
-Yet the Lord warned Israel and Judah by every prophet and every seer, saying, Turn from your evil ways and keep my commandments and my statutes, in accordance with all the Law that I commanded your fathers, and that I sent to you by my servants the prophets. ^1713
+[[H1992|In those]] [[H3117|days]] [[H2396|Hezekiah]] [[H4191|became mortally]] [[H2470|ill.]] [[H5030|The prophet]] [[H3470|Isaiah]] [[H1121|son]] [[H531|of Amoz]] [[H935|came]] [[H413|to him]] [[H559|and said,]] [[H3541|“This is what]] [[H3068|the LORD]] [[H559|says:]] [[H1004|‘Put your house]] [[H6680|in order,]] [[H3588|for]] [[H859|you]] [[H4191|are about to die;]] [[H3808|you will not]] [[H2421|recover.]] ^2001
 
-But they would not listen, but were stubborn, as their fathers had been, who did not believe in the Lord their God. ^1714
+[[H5437|Then Hezekiah turned]] [[H6440|his face]] [[H413|to]] [[H7023|the wall]] [[H6419|and prayed]] [[H413|to]] [[H3068|the LORD,]] ^2002
 
-They despised his statutes and his covenant that he made with their fathers and the warnings that he gave them. They went after false idols and became false, and they followed the nations that were around them, concerning whom the Lord had commanded them that they should not do like them. ^1715
+[[H577|“Please,]] [[H3068|O LORD,]] [[H2142|remember]] [[H834|how]] [[H1980|I have walked]] [[H6440|before You]] [[H571|faithfully]] [[H3824|and with wholehearted]] [[H8003|devotion;]] [[H6213|I have done]] ⟨what is⟩ [[H2896|good]] [[H5869|in Your sight.”]] [[H2396|And Hezekiah]] [[H1058|wept]] [[H1419|bitterly.]] ^2003
 
-And they abandoned all the commandments of the Lord their God, and made for themselves metal images of two calves; and they made an Asherah and worshiped all the host of heaven and served Baal. ^1716
+[[H3808|Before]] [[H3470|Isaiah]] [[H3318|had left]] [[H8484|the middle]] [[H5892|courtyard,]] [[H1697|the word]] [[H3068|of the LORD]] [[H1961|came]] [[H413|to him,]] [[H559|saying,]] ^2004
 
-And they burned their sons and their daughters as offerings and used divination and omens and sold themselves to do evil in the sight of the Lord, provoking him to anger. ^1717
+[[H7725|“Go back]] [[H559|and tell]] [[H2396|Hezekiah,]] [[H5057|the leader]] [[H5971|of My people,]] [[H3541|‘This is what]] [[H3068|the LORD,]] [[H430|the God]] [[H1|of your father]] [[H1732|David,]] [[H559|says:]] [[H8085|I have heard]] [[H8605|your prayer;]] [[H7200|I have seen]] [[H1832|your tears.]] [[H7495|I will surely heal you.]] [[H7992|On the third]] [[H3117|day from now]] [[H5927|you will go up]] [[H1004|to the house]] [[H3068|of the LORD.]] ^2005
 
-Therefore the Lord was very angry with Israel and removed them out of his sight. None was left but the tribe of Judah only. ^1718
+[[H3254|I will add]] [[H2568|fifteen]] [[H8141|years]] [[H5921|to]] [[H3117|your life,]] [[H5337|and I will deliver you]] [[H853|and]] [[H2063|this]] [[H5892|city]] [[H3709|from the hand]] [[H4428|of the king]] [[H804|of Assyria.]] [[H1598|I will defend]] [[H2063|this]] [[H5892|city]] [[H4616|for My sake]] [[H4616|and for the sake of]] [[H5650|My servant]] [[H1732|David.’”]] ^2006
 
-Judah also did not keep the commandments of the Lord their God, but walked in the customs that Israel had introduced. ^1719
+[[H3470|Then Isaiah]] [[H559|said,]] [[H3947|“Prepare]] [[H1690|a poultice]] [[H8384|of figs.”]] [[H3947|So they brought it]] [[H7760|and applied]] [[H5921|it to]] [[H7822|the boil,]] [[H2421|and he recovered.]] ^2007
 
-And the Lord rejected all the descendants of Israel and afflicted them and gave them into the hand of plunderers, until he had cast them out of his sight. ^1720
+[[H2396|Now Hezekiah]] [[H559|had asked]] [[H3470|Isaiah,]] [[H4100|“What]] [[H226|is the sign]] [[H3588|that]] [[H3068|the LORD]] [[H7495|will heal]] [[H5927|me and that I will go up]] [[H1004|to the house]] [[H3068|of the LORD]] [[H7992|on the third]] [[H3117|day?”]] ^2008
 
-When he had torn Israel from the house of David, they made Jeroboam the son of Nebat king. And Jeroboam drove Israel from following the Lord and made them commit great sin. ^1721
+[[H3470|And Isaiah]] [[H559|replied,]] [[H2088|“This]] [[H226|will be a sign]] [[H853|to you  from]] [[H3068|the LORD]] [[H3588|that]] [[H3068|He]] [[H6213|will do]] [[H834|what]] [[H1696|He has promised:]] ⟨Would you like⟩ [[H6738|the shadow]] [[H1980|to go]] [[H6235|forward ten]] [[H4609|steps,]] [[H518|or]] [[H7725|back]] [[H6235|ten]] [[H4609|steps?”]] ^2009
 
-The people of Israel walked in all the sins that Jeroboam did. They did not depart from them, ^1722
+[[H7043|“It is easy]] [[H6738|for the shadow]] [[H5186|to lengthen]] [[H6235|ten]] [[H4609|steps,”]] [[H559|answered]] [[H2396|Hezekiah,]] [[H3808|“but not]] [[H6738|for it]] [[H7725|to go]] [[H322|back]] [[H6235|ten]] [[H4609|steps.”]] ^2010
 
-until the Lord removed Israel out of his sight, as he had spoken by all his servants the prophets. So Israel was exiled from their own land to Assyria until this day. ^1723
+[[H3470|So Isaiah]] [[H5030|the prophet]] [[H7121|called out]] [[H413|to]] [[H3068|the LORD,]] [[H7725|and He brought]] [[H6738|the shadow]] [[H322|back]] [[H6235|the ten]] [[H4609|steps]] [[H3381|it had descended]] [[H4609|on the stairway]] [[H271|of Ahaz.]] ^2011
 
-And the king of Assyria brought people from Babylon, Cuthah, Avva, Hamath, and Sepharvaim, and placed them in the cities of Samaria instead of the people of Israel. And they took possession of Samaria and lived in its cities. ^1724
+[[H1931|At that]] [[H6256|time]] [[H1255|Merodach-baladan]] [[H1121|son]] [[H1081|of Baladan]] [[H4428|king]] [[H894|of Babylon]] [[H7971|sent]] [[H5612|letters]] [[H4503|and a gift]] [[H413|to]] [[H2396|Hezekiah,]] [[H3588|for]] [[H8085|he had heard]] [[H3588|about]] [[H2396|Hezekiah’s]] [[H2470|illness.]] ^2012
 
-And at the beginning of their dwelling there, they did not fear the Lord. Therefore the Lord sent lions among them, which killed some of them. ^1725
+[[H2396|And Hezekiah]] [[H8085|received]] [[H5921|the messengers]] [[H7200|and showed them]] [[H3605|all that was]] [[H5238|in his treasure]] [[H1004|house—]] [[H3701|the silver,]] [[H2091|the gold,]] [[H1314|the spices,]] [[H2896|and the precious]] [[H8081|oil—]] [[H1004|along with his armory]] [[H3605|and everything]] [[H834|that]] [[H4672|was found]] [[H214|in his storehouses.]] [[H1961|There was]] [[H3808|nothing]] [[H1004|in his palace]] [[H3605|or in all]] [[H4474|his dominion]] [[H834|that]] [[H2396|Hezekiah]] [[H3808|did not]] [[H7200|show them.]] ^2013
 
-So the king of Assyria was told, The nations that you have carried away and placed in the cities of Samaria do not know the law of the god of the land. Therefore he has sent lions among them, and behold, they are killing them, because they do not know the law of the god of the land. ^1726
+[[H5030|Then the prophet]] [[H3470|Isaiah]] [[H935|went]] [[H413|to]] [[H4428|King]] [[H2396|Hezekiah]] [[H559|and asked,]] [[H370|“From where]] [[H428|did those]] [[H376|men]] [[H935|come,]] [[H4100|and what]] [[H559|did they say]] [[H413|to you?”]] [[H935|“They came]] [[H7350|from a distant]] [[H776|land,”]] [[H2396|Hezekiah]] [[H559|replied,]] [[H894|“from Babylon.”]] ^2014
 
-Then the king of Assyria commanded, Send there one of the priests whom you carried away from there, and let him go and dwell there and teach them the law of the god of the land. ^1727
+[[H4100|“What]] [[H7200|have they seen]] [[H1004|in your palace?”]] [[H559|Isaiah asked.]] [[H7200|“They have seen]] [[H3605|everything]] [[H1004|in my palace,”]] [[H559|answered]] [[H2396|Hezekiah.]] [[H3808|“There is nothing]] [[H214|among my treasures]] [[H834|that]] [[H3808|I did not]] [[H7200|show them.”]] ^2015
 
-So one of the priests whom they had carried away from Samaria came and lived in Bethel and taught them how they should fear the Lord. ^1728
+[[H3470|Then Isaiah]] [[H559|said]] [[H413|to]] [[H2396|Hezekiah,]] [[H8085|“Hear]] [[H1697|the word]] [[H3068|of the LORD:]] ^2016
 
-But every nation still made gods of its own and put them in the shrines of the high places that the Samaritans had made, every nation in the cities in which they lived. ^1729
+[[H3117|The time]] [[H2009|will surely]] [[H935|come]] [[H3605|when everything]] [[H1004|in your palace]] [[H834|and all that]] [[H1|your fathers]] [[H686|have stored up]] [[H5704|until]] [[H2088|this]] [[H3117|day]] [[H5375|will be carried off]] [[H894|to Babylon.]] [[H3808|Nothing]] [[H3498|will be left,]] [[H559|says]] [[H3068|the LORD.]] ^2017
 
-The men of Babylon made Succoth-benoth, the men of Cuth made Nergal, the men of Hamath made Ashima, ^1730
+[[H4480|And some of]] [[H1121|your descendants,]] [[H834|your own]] [[H3318|flesh and blood,]] [[H3947|will be taken away]] [[H1961|to be]] [[H5631|eunuchs]] [[H1964|in the palace]] [[H4428|of the king]] [[H894|of Babylon.”]] ^2018
 
-and the Avvites made Nibhaz and Tartak; and the Sepharvites burned their children in the fire to Adrammelech and Anammelech, the gods of Sepharvaim. ^1731
+[[H2396|But Hezekiah]] [[H559|said]] [[H413|to]] [[H3470|Isaiah,]] [[H1697|“The word]] [[H3068|of the LORD]] [[H834|that]] [[H1696|you have spoken]] [[H2896|is good.”]] [[H559|For he thought,]] [[H3808|“Will there not]] [[H518|at least]] [[H1961|be]] [[H7965|peace]] [[H571|and security]] [[H3117|in my lifetime?”]] ^2019
 
-They also feared the Lord and appointed from among themselves all sorts of people as priests of the high places, who sacrificed for them in the shrines of the high places. ^1732
+[[H3499|As for the rest]] [[H1697|of the acts]] [[H2396|of Hezekiah,]] [[H3605|along with all]] [[H1369|his might]] [[H834|and how]] [[H6213|he constructed]] [[H1295|the pool]] [[H8585|and the tunnel]] [[H935|to bring]] [[H4325|water]] [[H5892|into the city,]] [[H3789|are they not written]] [[H5612|in the Book]] [[H1697|of the Chronicles]] [[H4428|of the Kings]] [[H3063|of Judah?]] ^2020
 
-So they feared the Lord but also served their own gods, after the manner of the nations from among whom they had been carried away. ^1733
+[[H2396|And Hezekiah]] [[H7901|rested]] [[H5973|with]] [[H1|his fathers,]] [[H1121|and his son]] [[H4519|Manasseh]] [[H4427|became king]] [[H8478|in his place.]] ^2021
 
-To this day they do according to the former manner. They do not fear the Lord, and they do not follow the statutes or the rules or the law or the commandment that the Lord commanded the children of Jacob, whom he named Israel. ^1734
+[[H6242|In the twenty-seventh]] [[H8141|year]] [[H3379|of Jeroboam's]] [[H4428|reign]] [[H3478|over Israel,]] [[H5838|Azariah]] [[H1121|son]] [[H558|of Amaziah]] [[H4427|became king]] [[H3063|of Judah.]] ^1501
 
-The Lord made a covenant with them and commanded them, You shall not fear other gods or bow yourselves to them or serve them or sacrifice to them, ^1735
+[[H1961|He was]] [[H8337|sixteen]] [[H1121|years old]] [[H4427|when he became king,]] [[H4427|and he reigned]] [[H3389|in Jerusalem]] [[H2572|fifty-two]] [[H8141|years.]] [[H517|His mother’s]] [[H8034|name]] [[H3203|was Jecoliah;]] [[H3389|she was from Jerusalem.]] ^1502
 
-but you shall fear the Lord, who brought you out of the land of Egypt with great power and with an outstretched arm. You shall bow yourselves to him, and to him you shall sacrifice. ^1736
+[[H6213|And he did]] ⟨what was⟩ [[H3477|right]] [[H5869|in the eyes]] [[H3068|of the LORD,]] [[H3605|just as]] [[H1|his father]] [[H558|Amaziah]] [[H6213|had done.]] ^1503
 
-And the statutes and the rules and the law and the commandment that he wrote for you, you shall always be careful to do. You shall not fear other gods, ^1737
+[[H7535|Nevertheless,]] [[H1116|the high places]] [[H3808|were not]] [[H5493|taken away;]] [[H5971|the people]] [[H5750|continued]] [[H2076|sacrificing]] [[H6999|and burning incense]] ⟨there⟩ [[H1116|.]] ^1504
 
-and you shall not forget the covenant that I have made with you. You shall not fear other gods, ^1738
+[[H3068|And the LORD]] [[H5060|afflicted]] [[H4428|the king]] [[H6879|with leprosy]] [[H5704|until]] [[H3117|the day]] [[H4194|he died,]] [[H3427|so that he lived]] [[H2669|in a separate]] [[H1004|house]] [[H4428|while]] ⟨his⟩ [[H1121|son]] [[H3147|Jotham]] [[H5921|had charge of]] [[H1004|the palace]] [[H8199|and governed]] [[H5971|the people]] [[H776|of the land.]] ^1505
 
-but you shall fear the Lord your God, and he will deliver you out of the hand of all your enemies. ^1739
+[[H3499|As for the rest]] [[H1697|of the acts]] [[H5838|of Azariah,]] [[H3605|along with all]] [[H834|his accomplishments,]] [[H3789|are they not written]] [[H5612|in the Book]] [[H1697|of the Chronicles]] [[H4428|of the Kings]] [[H3063|of Judah?]] ^1506
 
-However, they would not listen, but they did according to their former manner. ^1740
+[[H5838|And Azariah]] [[H7901|rested]] [[H5973|with]] [[H1|his fathers]] [[H6912|and was buried]] [[H5973|with]] [[H1|his fathers]] [[H5892|in the City]] [[H1732|of David.]] [[H1121|And his son]] [[H3147|Jotham]] [[H4427|became king]] [[H8478|in his place.]] ^1507
 
-So these nations feared the Lord and also served their carved images. Their children did likewise, and their children’s children — as their fathers did, so they do to this day. ^1741
+[[H7970|In the thirty-eighth]] [[H8141|year]] [[H5838|of Azariah's]] [[H4428|reign]] [[H3063|over Judah,]] [[H2148|Zechariah]] [[H1121|son]] [[H3379|of Jeroboam]] [[H4427|became king]] [[H5921|of]] [[H3478|Israel,]] ⟨and he reigned⟩ [[H8111|in Samaria]] [[H8337|six]] [[H2320|months.]] ^1508
 
+[[H6213|And he did]] [[H7451|evil]] [[H5869|in the sight]] [[H3068|of the LORD,]] [[H834|as]] [[H1|his fathers]] [[H6213|had done.]] [[H3808|He did not]] [[H5493|turn away]] [[H2403|from the sins that]] [[H3379|Jeroboam]] [[H1121|son]] [[H5028|of Nebat]] [[H3478|had caused Israel]] [[H2398|to commit.]] ^1509
 
+[[H7967|Then Shallum]] [[H1121|son]] [[H3003|of Jabesh]] [[H7194|conspired]] [[H5921|against Zechariah]] [[H5221|and struck him down]] [[H4191|and killed him]] [[H6904|in front of]] [[H5971|the people]] [[H4427|and became king]] [[H8478|in his place.]] ^1510
 
-In the third year of Hoshea son of Elah, king of Israel, Hezekiah the son of Ahaz, king of Judah, began to reign. ^1801
+[[H3499|As for the rest]] [[H1697|of the acts]] [[H2148|of Zechariah,]] [[H2009|they are indeed]] [[H3789|written]] [[H5921|in]] [[H5612|the Book]] [[H1697|of the Chronicles]] [[H4428|of the Kings]] [[H3478|of Israel.]] ^1511
 
-He was twenty-five years old when he began to reign, and he reigned twenty-nine years in Jerusalem. His mother’s name was Abi the daughter of Zechariah. ^1802
+[[H1697|So the word]] [[H3068|of the LORD]] [[H1696|spoken]] [[H413|to]] [[H3058|Jehu]] [[H1961|was fulfilled:]] [[H7243|“Four generations]] [[H1121|of your sons]] [[H3427|will sit]] [[H5921|on]] [[H3678|the throne]] [[H3478|of Israel.”]] ^1512
 
-And he did what was right in the eyes of the Lord, according to all that David his father had done. ^1803
+[[H7970|In the thirty-ninth]] [[H8141|year]] [[H5818|of Uzziah's]] [[H4428|reign]] [[H3063|over Judah,]] [[H7967|Shallum]] [[H1121|son]] [[H3003|of Jabesh]] [[H4427|became king,]] [[H4427|and he reigned]] [[H8111|in Samaria]] [[H3391|one full month.]] ^1513
 
-He removed the high places and broke the pillars and cut down the Asherah. And he broke in pieces the bronze serpent that Moses had made, for until those days the people of Israel had made offerings to it (it was called Nehushtan ). ^1804
+[[H4505|Then Menahem]] [[H1121|son]] [[H1424|of Gadi]] [[H5927|went up]] [[H8656|from Tirzah]] [[H8111|to Samaria,]] [[H5221|struck down]] [[H4191|and killed]] [[H7967|Shallum]] [[H1121|son]] [[H3003|of Jabesh,]] [[H4427|and became king]] [[H8478|in his place.]] ^1514
 
-He trusted in the Lord, the God of Israel, so that there was none like him among all the kings of Judah after him, nor among those who were before him. ^1805
+[[H3499|As for the rest]] [[H1697|of the acts]] [[H7967|of Shallum,]] [[H7195|along with the conspiracy]] [[H7194|he led,]] [[H2009|they are indeed]] [[H3789|written]] [[H5612|in the Book]] [[H1697|of the Chronicles]] [[H4428|of the Kings]] [[H3478|of Israel.]] ^1515
 
-For he held fast to the Lord. He did not depart from following him, but kept the commandments that the Lord commanded Moses. ^1806
+[[H227|At that time]] [[H4505|Menahem,]] [[H8656|starting from Tirzah,]] [[H5221|attacked]] [[H8607|Tiphsah]] [[H853|and]] [[H3605|everyone]] [[H834|in its]] [[H1366|vicinity,]] [[H3588|because]] [[H3808|they would not]] [[H6605|open]] ⟨their gates⟩. [[H5221|So he attacked]] ⟨Tiphsah⟩ [[H1234|and ripped open]] [[H3605|all]] [[H2030|the pregnant women.]] ^1516
 
-And the Lord was with him; wherever he went out, he prospered. He rebelled against the king of Assyria and would not serve him. ^1807
+[[H7970|In the thirty-ninth]] [[H8141|year]] [[H4428|of the reign]] [[H5838|of Azariah]] [[H3063|over Judah,]] [[H4505|Menahem]] [[H1121|son]] [[H1424|of Gadi]] [[H4427|became king]] [[H5921|of]] [[H3478|Israel,]] ⟨and he reigned⟩ [[H8111|in Samaria]] [[H6235|ten]] [[H8141|years.]] ^1517
 
-He struck down the Philistines as far as Gaza and its territory, from watchtower to fortified city. ^1808
+[[H6213|And he did]] [[H7451|evil]] [[H5869|in the sight]] [[H3068|of the LORD,]] [[H3605|and throughout]] [[H3117|his reign]] [[H3808|he did not]] [[H5493|turn away]] [[H5921|from]] [[H2403|the sins that]] [[H3379|Jeroboam]] [[H1121|son]] [[H5028|of Nebat]] [[H3478|had caused Israel]] [[H2398|to commit.]] ^1518
 
-In the fourth year of King Hezekiah, which was the seventh year of Hoshea son of Elah, king of Israel, Shalmaneser king of Assyria came up against Samaria and besieged it, ^1809
+[[H6322|Then Pul]] [[H4428|king]] [[H804|of Assyria]] [[H935|invaded]] [[H776|the land,]] [[H4505|and Menahem]] [[H5414|gave]] [[H6322|Pul]] [[H505|a thousand]] [[H3603|talents]] [[H3701|of silver]] [[H1961|in order to gain his support]] [[H2388|and strengthen]] [[H3027|his own grip]] [[H4467|on the kingdom.]] ^1519
 
-and at the end of three years he took it. In the sixth year of Hezekiah, which was the ninth year of Hoshea king of Israel, Samaria was taken. ^1810
+[[H4505|Menahem]] [[H3318|exacted]] [[H3701|this money]] [[H5921|from]] [[H3605|each]] [[H2428|of the wealthy]] [[H1368|men]] [[H3478|of Israel—]] [[H2572|fifty]] [[H8255|shekels]] [[H3701|of silver]] [[H259|from each]] [[H376|man—]] [[H5414|to give]] [[H4428|to the king]] [[H804|of Assyria.]] [[H4428|So the king]] [[H804|of Assyria]] [[H7725|withdrew]] [[H3808|and did not]] [[H5975|remain]] [[H776|in the land.]] ^1520
 
-The king of Assyria carried the Israelites away to Assyria and put them in Halah, and on the Habor, the river of Gozan, and in the cities of the Medes, ^1811
+[[H3499|As for the rest]] [[H1697|of the acts]] [[H4505|of Menahem,]] [[H3605|along with all]] [[H834|his accomplishments,]] [[H3789|are they not written]] [[H5612|in the Book]] [[H1697|of the Chronicles]] [[H4428|of the Kings]] [[H3478|of Israel?]] ^1521
 
-because they did not obey the voice of the Lord their God but transgressed his covenant, even all that Moses the servant of the Lord commanded. They neither listened nor obeyed. ^1812
+[[H4505|And Menahem]] [[H7901|rested]] [[H5973|with]] [[H1|his fathers,]] [[H1121|and his son]] [[H6494|Pekahiah]] [[H4427|became king]] [[H8478|in his place.]] ^1522
 
-In the fourteenth year of King Hezekiah, Sennacherib king of Assyria came up against all the fortified cities of Judah and took them. ^1813
+[[H2572|In the fiftieth]] [[H8141|year]] [[H5838|of Azariah's]] [[H4428|reign]] [[H3063|over Judah,]] [[H6494|Pekahiah]] [[H1121|son]] [[H4505|of Menahem]] [[H4427|became king]] [[H5921|of]] [[H3478|Israel]] [[H8111|and reigned in Samaria]] [[H8141|two years.]] ^1523
 
-And Hezekiah king of Judah sent to the king of Assyria at Lachish, saying, I have done wrong; withdraw from me. Whatever you impose on me I will bear. And the king of Assyria required of Hezekiah king of Judah three hundred talents of silver and thirty talents of gold. ^1814
+[[H6213|And he did]] [[H7451|evil]] [[H5869|in the sight]] [[H3068|of the LORD]] [[H3808|and did not]] [[H5493|turn away]] [[H2403|from the sins that]] [[H3379|Jeroboam]] [[H1121|son]] [[H5028|of Nebat]] [[H3478|had caused Israel]] [[H2398|to commit.]] ^1524
 
-And Hezekiah gave him all the silver that was found in the house of the Lord and in the treasuries of the king’s house. ^1815
+[[H7991|Then his officer,]] [[H6492|Pekah]] [[H1121|son]] [[H7425|of Remaliah,]] [[H7194|conspired]] [[H5921|against him]] [[H854|along with]] [[H709|Argob,]] [[H745|Arieh,]] [[H5973|and]] [[H2572|fifty]] [[H376|men]] [[H1121|of]] [[H1569|Gilead.]] [[H759|And at the citadel]] [[H4428|of the king’s]] [[H1004|palace]] [[H8111|in Samaria,]] ⟨Pekah⟩ [[H5221|struck down]] [[H4191|and killed]] ⟨Pekahiah⟩ [[H4427|and became king]] [[H8478|in his place.]] ^1525
 
-At that time Hezekiah stripped the gold from the doors of the temple of the Lord and from the doorposts that Hezekiah king of Judah had overlaid and gave it to the king of Assyria. ^1816
+[[H3499|As for the rest]] [[H1697|of the acts]] [[H6494|of Pekahiah,]] [[H3605|along with all]] [[H834|his accomplishments,]] [[H2009|they are indeed]] [[H3789|written]] [[H5612|in the Book]] [[H1697|of the Chronicles]] [[H4428|of the Kings]] [[H3478|of Israel.]] ^1526
 
-And the king of Assyria sent the Tartan, the Rab-saris, and the Rabshakeh with a great army from Lachish to King Hezekiah at Jerusalem. And they went up and came to Jerusalem. When they arrived, they came and stood by the conduit of the upper pool, which is on the highway to the Washer’s Field. ^1817
+[[H2572|In the fifty-second]] [[H8141|year]] [[H5838|of Azariah's]] [[H4428|reign]] [[H3063|over Judah,]] [[H6492|Pekah]] [[H1121|son]] [[H7425|of Remaliah]] [[H4427|became king]] [[H5921|of]] [[H3478|Israel]] ⟨and reigned⟩ [[H8111|in Samaria]] [[H6242|twenty]] [[H8141|years.]] ^1527
 
-And when they called for the king, there came out to them Eliakim the son of Hilkiah, who was over the household, and Shebnah the secretary, and Joah the son of Asaph, the recorder. ^1818
+[[H6213|And he did]] [[H7451|evil]] [[H5869|in the sight]] [[H3068|of the LORD]] [[H3808|and did not]] [[H5493|turn away]] [[H4480|from]] [[H2403|the sins that]] [[H3379|Jeroboam]] [[H1121|son]] [[H5028|of Nebat]] [[H3478|had caused Israel]] [[H2398|to commit.]] ^1528
 
-And the Rabshakeh said to them, Say to Hezekiah, Thus says the great king, the king of Assyria : On what do you rest this trust of yours? ^1819
+[[H3117|In the days]] [[H6492|of Pekah]] [[H4428|king]] [[H3478|of Israel,]] [[H8407|Tiglath-pileser]] [[H4428|king]] [[H804|of Assyria]] [[H935|came]] [[H3947|and captured]] [[H5859|Ijon,]] [[H62|Abel-beth-maacah,]] [[H3239|Janoah,]] [[H6943|Kedesh,]] [[H2674|Hazor,]] [[H1568|Gilead,]] [[H1551|and Galilee,]] [[H3605|including all]] [[H776|the land]] [[H5321|of Naphtali,]] [[H1540|and he took the people]] [[H804|to Assyria]] ⟨as captives⟩. ^1529
 
-Do you think that mere words are strategy and power for war? In whom do you now trust, that you have rebelled against me? ^1820
+[[H1954|Then Hoshea]] [[H1121|son]] [[H425|of Elah]] [[H7194|led]] [[H7195|a conspiracy]] [[H5921|against]] [[H6492|Pekah]] [[H1121|son]] [[H7425|of Remaliah.]] [[H6242|In the twentieth]] [[H8141|year]] ⟨of the reign⟩ [[H3147|of Jotham]] [[H1121|son]] [[H5818|of Uzziah,]] ⟨Hoshea⟩ [[H5221|attacked]] ⟨Pekah⟩, [[H4191|killed him,]] [[H4427|and became king]] [[H8478|in his place.]] ^1530
 
-Behold, you are trusting now in Egypt, that broken reed of a staff, which will pierce the hand of any man who leans on it. Such is Pharaoh king of Egypt to all who trust in him. ^1821
+[[H3499|As for the rest]] [[H1697|of the acts]] [[H6492|of Pekah,]] [[H3605|along with all]] [[H834|his accomplishments,]] [[H2009|they are indeed]] [[H3789|written]] [[H5612|in the Book]] [[H1697|of the Chronicles]] [[H4428|of the Kings]] [[H3478|of Israel.]] ^1531
 
-But if you say to me, We trust in the Lord our God, is it not he whose high places and altars Hezekiah has removed, saying to Judah and to Jerusalem, You shall worship before this altar in Jerusalem? ^1822
+[[H8147|In the second]] [[H8141|year]] [[H4428|of the reign]] [[H6492|of Pekah]] [[H1121|son]] [[H7425|of Remaliah]] [[H3478|over Israel,]] [[H3147|Jotham]] [[H1121|son]] [[H5818|of Uzziah]] [[H4427|became king]] [[H3063|of Judah.]] ^1532
 
-Come now, make a wager with my master the king of Assyria : I will give you two thousand horses, if you are able on your part to set riders on them. ^1823
+[[H1961|He was]] [[H6242|twenty-five]] [[H1121|years old]] [[H4427|when he became king,]] [[H4427|and he reigned]] [[H3389|in Jerusalem]] [[H8337|sixteen]] [[H8141|years.]] [[H517|His mother’s]] [[H8034|name]] [[H3388|was Jerusha]] [[H1323|daughter]] [[H6659|of Zadok.]] ^1533
 
-How then can you repulse a single captain among the least of my master’s servants, when you trust in Egypt for chariots and for horsemen? ^1824
+[[H6213|And he did]] ⟨what was⟩ [[H3477|right]] [[H5869|in the eyes]] [[H3068|of the LORD,]] [[H3605|just as]] [[H1|his father]] [[H5818|Uzziah]] [[H6213|had done.]] ^1534
 
-Moreover, is it without the Lord that I have come up against this place to destroy it? The Lord said to me, Go up against this land, and destroy it. ^1825
+[[H7535|Nevertheless,]] [[H1116|the high places]] [[H3808|were not]] [[H5493|taken away;]] [[H5971|the people]] [[H5750|continued]] [[H2076|sacrificing]] [[H6999|and burning incense]] ⟨there⟩ [[H1116|.]] [[H1931|Jotham]] [[H1129|rebuilt]] [[H5945|the Upper]] [[H8179|Gate]] [[H1004|of the house]] [[H3068|of the LORD.]] ^1535
 
-Then Eliakim the son of Hilkiah, and Shebnah, and Joah, said to the Rabshakeh, Please speak to your servants in Aramaic, for we understand it. Do not speak to us in the language of Judah within the hearing of the people who are on the wall. ^1826
+[[H3499|As for the rest]] [[H1697|of the acts]] [[H3147|of Jotham,]] [[H834|along with his accomplishments,]] [[H3789|are they not written]] [[H5612|in the Book]] [[H1697|of the Chronicles]] [[H4428|of the Kings]] [[H3063|of Judah?]] ^1536
 
-But the Rabshakeh said to them, Has my master sent me to speak these words to your master and to you, and not to the men sitting on the wall, who are doomed with you to eat their own dung and to drink their own urine? ^1827
+[[H1992|(In those]] [[H3117|days]] [[H3068|the LORD]] [[H2490|began]] [[H7971|to send]] [[H7526|Rezin]] [[H4428|king]] [[H758|of Aram]] [[H6492|and Pekah]] [[H1121|son]] [[H7425|of Remaliah]] [[H3063|against Judah.)]] ^1537
 
-Then the Rabshakeh stood and called out in a loud voice in the language of Judah : Hear the word of the great king, the king of Assyria! ^1828
+[[H3147|And Jotham]] [[H7901|rested]] [[H5973|with]] [[H1|his fathers]] [[H6912|and was buried]] [[H5973|with]] ⟨them⟩ [[H1|]] [[H5892|in the City]] [[H1732|of David,]] [[H1|his forefather.]] [[H1121|And his son]] [[H271|Ahaz]] [[H4427|became king]] [[H8478|in his place.]] ^1538
 
-Thus says the king : Do not let Hezekiah deceive you, for he will not be able to deliver you out of my hand. ^1829
+[[H4519|Manasseh]] [[H8147|was twelve]] [[H1121|years old]] [[H4427|when he became king,]] [[H4427|and he reigned]] [[H3389|in Jerusalem]] [[H2572|fifty-five]] [[H8141|years.]] [[H517|His mother’s]] [[H8034|name]] [[H2657|was Hephzibah.]] ^2101
 
-Do not let Hezekiah make you trust in the Lord by saying, The Lord will surely deliver us, and this city will not be given into the hand of the king of Assyria. ^1830
+[[H6213|And he did]] [[H7451|evil]] [[H5869|in the sight]] [[H3068|of the LORD]] [[H8441|by following the abominations]] [[H1471|of the nations]] [[H834|that]] [[H3068|the LORD]] [[H3423|had driven out]] [[H6440|before]] [[H1121|the Israelites.]] ^2102
 
-Do not listen to Hezekiah, for thus says the king of Assyria : Make your peace with me and come out to me. Then each one of you will eat of his own vine, and each one of his own fig tree, and each one of you will drink the water of his own cistern, ^1831
+[[H7725|For he rebuilt]] [[H1116|the high places]] [[H834|that]] [[H1|his father]] [[H2396|Hezekiah]] [[H6|had destroyed,]] [[H6965|and he raised up]] [[H4196|altars]] [[H1168|for Baal.]] [[H6213|He made]] [[H842|an Asherah pole,]] [[H834|as]] [[H4428|King]] [[H256|Ahab]] [[H3478|of Israel]] [[H6213|had done,]] [[H7812|and he worshiped]] [[H5647|and served]] [[H3605|all]] [[H6635|the host]] [[H8064|of heaven.]] ^2103
 
-until I come and take you away to a land like your own land, a land of grain and wine, a land of bread and vineyards, a land of olive trees and honey, that you may live, and not die. And do not listen to Hezekiah when he misleads you by saying, The Lord will deliver us. ^1832
+⟨Manasseh⟩ [[H1129|also built]] [[H4196|altars]] [[H1004|in the house]] [[H3068|of the LORD,]] [[H834|of which]] [[H3068|the LORD]] [[H559|had said,]] [[H3389|“In Jerusalem]] [[H7760|I will put]] [[H8034|My Name.”]] ^2104
 
-Has any of the gods of the nations ever delivered his land out of the hand of the king of Assyria? ^1833
+[[H8147|In both]] [[H2691|courtyards]] [[H1004|of the house]] [[H3068|of the LORD,]] [[H1129|he built]] [[H4196|altars]] [[H3605|to all]] [[H6635|the host]] [[H8064|of heaven.]] ^2105
 
-Where are the gods of Hamath and Arpad? Where are the gods of Sepharvaim, Hena, and Ivvah? Have they delivered Samaria out of my hand? ^1834
+[[H5674|He sacrificed]] [[H1121|his own son]] [[H784|in the fire,]] [[H6049|practiced sorcery]] [[H5172|and divination,]] [[H6213|and consulted]] [[H178|mediums]] [[H3049|and spiritists.]] [[H6213|He did]] [[H7235|great]] [[H7451|evil]] [[H5869|in the sight]] [[H3068|of the LORD,]] [[H3707|provoking Him to anger.]] ^2106
 
-Who among all the gods of the lands have delivered their lands out of my hand, that the Lord should deliver Jerusalem out of my hand? ^1835
+[[H6459|Manasseh even took the carved]] [[H842|Asherah pole]] [[H6213|he had made]] [[H7760|and set it up]] [[H1004|in the temple,]] [[H834|of which]] [[H3068|the LORD]] [[H559|had said]] [[H413|to]] [[H1732|David]] [[H1121|and his son]] [[H8010|Solomon,]] [[H2088|“In this]] [[H1004|temple]] [[H3389|and in Jerusalem,]] [[H834|which]] [[H977|I have chosen]] [[H3605|out of all]] [[H7626|the tribes]] [[H3478|of Israel,]] [[H7760|I will establish]] [[H8034|My Name]] [[H5769|forever.]] ^2107
 
-But the people were silent and answered him not a word, for the king’s command was, Do not answer him. ^1836
+[[H3808|I will never]] [[H3254|again]] [[H7272|cause the feet]] [[H3478|of the Israelites]] [[H5110|to wander]] [[H4480|from]] [[H127|the land]] [[H5414|I gave]] [[H1|their fathers,]] [[H518|if]] [[H7535|only]] [[H8104|they are careful]] [[H6213|to do]] [[H3605|all]] [[H6680|I have commanded them—]] [[H3605|the whole]] [[H8451|Law]] [[H834|that]] [[H5650|My servant]] [[H4872|Moses]] [[H6680|commanded]] [[H853|them.]] ^2108
 
-Then Eliakim the son of Hilkiah, who was over the household, and Shebna the secretary, and Joah the son of Asaph, the recorder, came to Hezekiah with their clothes torn and told him the words of the Rabshakeh. ^1837
+[[H3808|But did not]] ⟨the people⟩ [[H8085|listen]] [[H4519|and Manasseh]] [[H8582|led them astray,]] [[H6213|so that they did]] [[H7451|greater evil]] [[H4480|than]] [[H1471|the nations]] [[H3068|the LORD]] [[H8045|had destroyed]] [[H6440|before]] [[H1121|the Israelites.]] ^2109
 
+[[H3068|And the LORD]] [[H1696|spoke]] [[H3027|through]] [[H5650|His servants]] [[H5030|the prophets,]] [[H559|saying,]] ^2110
 
+[[H3282|“Since]] [[H4519|Manasseh]] [[H4428|king]] [[H3063|of Judah]] [[H6213|has committed]] [[H3605|all]] [[H428|these]] [[H8441|abominations,]] [[H7489|acting more wickedly]] [[H567|than the Amorites]] [[H834|who]] [[H6440|preceded him,]] [[H1571|and]] [[H1544|with his idols]] [[H3063|has caused Judah]] [[H2398|to sin,]] ^2111
 
-As soon as King Hezekiah heard it, he tore his clothes and covered himself with sackcloth and went into the house of the Lord. ^1901
+[[H3541|this is what]] [[H3068|the LORD,]] [[H430|the God]] [[H3478|of Israel,]] [[H559|says:]] [[H2005|‘Behold,]] [[H935|I am bringing]] ⟨such⟩ [[H7451|calamity]] [[H5921|upon]] [[H3389|Jerusalem]] [[H3063|and Judah]] [[H834|that]] ⟨the news⟩ [[H6750|will reverberate]] [[H241|in the ears]] [[H3605|of all]] [[H8085|who hear it.]] ^2112
 
-And he sent Eliakim, who was over the household, and Shebna the secretary, and the senior priests, covered with sackcloth, to the prophet Isaiah the son of Amoz. ^1902
+[[H5186|I will stretch out]] [[H5921|over]] [[H3389|Jerusalem]] [[H6957|the measuring line]] [[H8111|used against Samaria]] [[H4949|and the plumb line]] [[H1004|used against the house]] [[H256|of Ahab,]] [[H4229|and I will wipe out]] [[H3389|Jerusalem]] [[H834|as]] [[H4229|one wipes out]] [[H6747|a bowl—]] [[H4229|wiping]] ⟨it⟩ [[H2015|and turning]] ⟨it⟩ [[H6440|upside down.]] ^2113
 
-They said to him, Thus says Hezekiah, This day is a day of distress, of rebuke, and of disgrace; children have come to the point of birth, and there is no strength to bring them forth. ^1903
+[[H5203|So I will forsake]] [[H7611|the remnant]] [[H5159|of My inheritance]] [[H5414|and deliver them]] [[H3027|into the hand]] [[H341|of their enemies.]] [[H1961|And they will become]] [[H957|plunder]] [[H4933|and spoil]] [[H3605|to all]] [[H341|their enemies,]] ^2114
 
-It may be that the Lord your God heard all the words of the Rabshakeh, whom his master the king of Assyria has sent to mock the living God, and will rebuke the words that the Lord your God has heard; therefore lift up your prayer for the remnant that is left. ^1904
+[[H3282|because]] [[H6213|they have done]] [[H7451|evil]] [[H5869|in My sight]] [[H3707|and have provoked]] [[H853|Me]] ⟨to anger⟩ [[H4480|from]] [[H3117|the day]] [[H1|their fathers]] [[H3318|came]] [[H4714|out of Egypt]] [[H5704|until]] [[H2088|this]] [[H3117|day.’”]] ^2115
 
-When the servants of King Hezekiah came to Isaiah, ^1905
+[[H1571|Moreover,]] [[H4519|Manasseh]] [[H8210|shed]] [[H7235|so much]] [[H5355|innocent]] [[H1818|blood]] [[H5704|that]] [[H4390|he filled]] [[H3389|Jerusalem]] [[H6310|from end to end,]] [[H905|in addition to]] [[H2403|the sin]] [[H834|that]] [[H3063|he had caused Judah]] [[H2398|to commit,]] [[H6213|doing]] [[H7451|evil]] [[H5869|in the sight]] [[H3068|of the LORD.]] ^2116
 
-Isaiah said to them, Say to your master, Thus says the Lord : Do not be afraid because of the words that you have heard, with which the servants of the king of Assyria have reviled me. ^1906
+[[H3499|As for the rest]] [[H1697|of the acts]] [[H4519|of Manasseh,]] [[H3605|along with all]] [[H834|his accomplishments]] [[H2403|and the sin]] [[H834|that]] [[H2398|he committed,]] [[H3789|are they not written]] [[H5612|in the Book]] [[H1697|of the Chronicles]] [[H4428|of the Kings]] [[H3063|of Judah?]] ^2117
 
-Behold, I will put a spirit in him, so that he shall hear a rumor and return to his own land, and I will make him fall by the sword in his own land. ^1907
+[[H4519|And Manasseh]] [[H7901|rested]] [[H5973|with]] [[H1|his fathers]] [[H6912|and was buried]] [[H1004|in his palace]] [[H1588|garden,]] [[H1588|the garden]] [[H5798|of Uzza.]] [[H1121|And his son]] [[H526|Amon]] [[H4427|became king]] [[H8478|in his place.]] ^2118
 
-The Rabshakeh returned, and found the king of Assyria fighting against Libnah, for he heard that the king had left Lachish. ^1908
+[[H526|Amon]] [[H6242|was twenty-two]] [[H1121|years old]] [[H4427|when he became king,]] [[H4427|and he reigned]] [[H3389|in Jerusalem]] [[H8147|two]] [[H8141|years.]] [[H517|His mother’s]] [[H8034|name]] [[H4922|was Meshullemeth]] [[H1323|daughter]] [[H2743|of Haruz;]] [[H4480|she was from]] [[H3192|Jotbah.]] ^2119
 
-Now the king heard concerning Tirhakah king of Cush, Behold, he has set out to fight against you. So he sent messengers again to Hezekiah, saying, ^1909
+[[H6213|And he did]] [[H7451|evil]] [[H5869|in the sight]] [[H3068|of the LORD,]] [[H834|as]] [[H1|his father]] [[H4519|Manasseh]] [[H6213|had done.]] ^2120
 
-Thus shall you speak to Hezekiah king of Judah : Do not let your God in whom you trust deceive you by promising that Jerusalem will not be given into the hand of the king of Assyria. ^1910
+[[H1980|He walked]] [[H3605|in all]] [[H1870|the ways]] [[H1|of his father,]] [[H5647|and he served]] [[H7812|and worshiped]] [[H1544|the idols]] [[H1|his father]] [[H5647|had served.]] ^2121
 
-Behold, you have heard what the kings of Assyria have done to all lands, devoting them to destruction. And shall you be delivered? ^1911
+[[H5800|He abandoned]] [[H3068|the LORD,]] [[H430|the God]] [[H1|of his fathers,]] [[H3808|and did not]] [[H1980|walk]] [[H1870|in the way]] [[H3068|of the LORD.]] ^2122
 
-Have the gods of the nations delivered them, the nations that my fathers destroyed, Gozan, Haran, Rezeph, and the people of Eden who were in Telassar? ^1912
+[[H5650|Then the servants]] [[H526|of Amon]] [[H7194|conspired]] [[H5921|against him]] [[H4191|and killed]] [[H4428|the king]] [[H1004|in his palace.]] ^2123
 
-Where is the king of Hamath, the king of Arpad, the king of the city of Sepharvaim, the king of Hena, or the king of Ivvah? ^1913
+[[H5971|But the people]] [[H776|of the land]] [[H5221|killed]] [[H3605|all]] [[H7194|who had conspired]] [[H5921|against]] [[H4428|King]] [[H526|Amon,]] [[H1121|and they made his son]] [[H2977|Josiah]] [[H4427|king]] [[H8478|in his place.]] ^2124
 
-Hezekiah received the letter from the hand of the messengers and read it; and Hezekiah went up to the house of the Lord and spread it before the Lord. ^1914
+[[H3499|As for the rest]] [[H1697|of the acts]] [[H526|of Amon,]] [[H834|along with his accomplishments,]] [[H3789|are they not written]] [[H5612|in the Book]] [[H1697|of the Chronicles]] [[H4428|of the Kings]] [[H3063|of Judah?]] ^2125
 
-And Hezekiah prayed before the Lord and said : O Lord, the God of Israel, enthroned above the cherubim, you are the God, you alone, of all the kingdoms of the earth; you have made heaven and earth. ^1915
+[[H6912|And he was buried]] [[H6900|in his tomb]] [[H1588|in the garden]] [[H5798|of Uzza,]] [[H1121|and his son]] [[H2977|Josiah]] [[H4427|became king]] [[H8478|in his place.]] ^2126
 
-Incline your ear, O Lord, and hear; open your eyes, O Lord, and see; and hear the words of Sennacherib, which he has sent to mock the living God. ^1916
+[[H1961|So]] [[H8671|in the ninth]] [[H8141|year]] [[H4427|of Zedekiah’s reign,]] [[H6218|on the tenth]] [[H6224|day of the tenth]] [[H2320|month,]] [[H4428|King]] [[H5019|Nebuchadnezzar]] [[H894|of Babylon]] [[H935|marched]] [[H5921|against]] [[H3389|Jerusalem]] [[H3605|with his entire]] [[H2428|army.]] [[H2583|They encamped]] [[H5921|outside]] ⟨the city⟩ [[H1129|and built]] [[H1785|a siege wall]] [[H5439|all around it.]] ^2501
 
-Truly, O Lord, the kings of Assyria have laid waste the nations and their lands ^1917
+[[H5892|And the city]] [[H935|was kept]] [[H4692|under siege]] [[H5704|until]] [[H4428|King]] [[H6667|Zedekiah’s]] [[H6249|eleventh]] [[H8141|year.]] ^2502
 
-and have cast their gods into the fire, for they were not gods, but the work of men’s hands, wood and stone. Therefore they were destroyed. ^1918
+[[H8672|By the ninth]] ⟨day⟩ [[H2320|of the month,]] ⟨fourth⟩ [[H7458|the famine]] [[H5892|in the city]] [[H2388|was so severe]] [[H5971|that the people]] [[H776|of the land]] [[H1961|had]] [[H3808|no]] [[H3899|food.]] ^2503
 
-So now, O Lord our God, save us, please, from his hand, that all the kingdoms of the earth may know that you, O Lord, are God alone. ^1919
+[[H5892|Then the city]] [[H1234|was breached;]] [[H3778|and though the Chaldeans]] [[H5439|had surrounded]] [[H5892|the city,]] [[H3605|all]] [[H376|the men]] [[H4421|of war]] [[H3915|fled by night]] [[H1870|by way]] [[H8179|of the gate]] [[H996|between]] [[H2346|the two walls]] [[H5921|near]] [[H4428|the king’s]] [[H1588|garden.]] [[H1980|They fled]] [[H1870|toward]] [[H6160|the Arabah,]] ^2504
 
-Then Isaiah the son of Amoz sent to Hezekiah, saying, Thus says the Lord, the God of Israel : Your prayer to me about Sennacherib king of Assyria I have heard. ^1920
+[[H2428|but the army]] [[H3778|of the Chaldeans]] [[H7291|pursued]] ⟨the king⟩ [[H4428|]] [[H5381|and overtook]] [[H853|him]] [[H6160|in the plains]] [[H3405|of Jericho,]] [[H3605|and all]] [[H2428|his army]] [[H6327|was separated]] [[H5921|from him.]] ^2505
 
-This is the word that the Lord has spoken concerning him: She despises you, she scorns you— the virgin daughter of Zion; she wags her head behind you— the daughter of Jerusalem. ^1921
+[[H8610|The Chaldeans seized]] [[H4428|the king]] [[H5927|and brought him up]] [[H413|to]] [[H4428|the king]] [[H894|of Babylon]] [[H7247|at Riblah,]] [[H1696|where they pronounced]] [[H4941|judgment]] [[H854|on him.]] ^2506
 
-Whom have you mocked and reviled? Against whom have you raised your voice and lifted your eyes to the heights? Against the Holy One of Israel! ^1922
+[[H853|And]] [[H7819|they slaughtered]] [[H1121|the sons]] [[H6667|of Zedekiah]] [[H5869|before his eyes.]] [[H853|Then]] [[H5786|they put out]] ⟨his⟩ [[H6667|]] [[H5869|eyes,]] [[H631|bound him]] [[H5178|in bronze shackles,]] [[H935|and took]] [[H894|him to Babylon.]] ^2507
 
-By your messengers you have mocked the Lord, and you have said, With my many chariots I have gone up the heights of the mountains, to the far recesses of Lebanon; I felled its tallest cedars, its choicest cypresses; I entered its farthest lodging place, its most fruitful forest. ^1923
+[[H7651|On the seventh]] [[H2549|day of the fifth]] [[H2320|month,]] [[H8672|in the nineteenth]] [[H8141|year]] [[H5019|of Nebuchadnezzar's]] [[H4428|reign]] [[H894|over Babylon,]] [[H5018|Nebuzaradan]] [[H7227|the captain]] [[H2876|of the guard,]] [[H5650|a servant]] [[H4428|of the king]] [[H894|of Babylon,]] [[H935|entered]] [[H3389|Jerusalem.]] ^2508
 
-I dug wells and drank foreign waters, and I dried up with the sole of my foot all the streams of Egypt. ^1924
+[[H8313|He burned down]] [[H1004|the house]] [[H3068|of the LORD,]] [[H4428|the royal]] [[H1004|palace,]] [[H3605|and all]] [[H1004|the houses]] [[H3389|of Jerusalem—]] [[H3605|every]] [[H1419|significant]] [[H1004|building.]] ^2509
 
-Have you not heard that I determined it long ago? I planned from days of old what now I bring to pass, that you should turn fortified cities into heaps of ruins, ^1925
+[[H3605|And the whole]] [[H2428|army]] [[H3778|of the Chaldeans]] [[H834|under]] [[H7227|the commander]] [[H2876|of the guard]] [[H5422|broke down]] [[H2346|the walls]] [[H5439|around]] [[H3389|Jerusalem.]] ^2510
 
-while their inhabitants, shorn of strength, are dismayed and confounded, and have become like plants of the field and like tender grass, like grass on the housetops, blighted before it is grown. ^1926
+[[H5018|Then Nebuzaradan]] [[H7227|the captain]] [[H2876|of the guard]] [[H1540|carried into exile]] [[H5971|the people]] [[H7604|who remained]] [[H5892|in the city,]] [[H853|along with]] [[H5307|the deserters]] [[H834|who]] [[H5307|had defected]] [[H5921|to]] [[H4428|the king]] [[H894|of Babylon]] [[H3499|and the rest]] [[H1995|of the population.]] ^2511
 
-But I know your sitting down and your going out and coming in, and your raging against me. ^1927
+[[H7227|But the captain]] [[H2876|of the guard]] [[H7604|left behind]] [[H1803|some of the poorest]] [[H776|of the land]] [[H3755|to tend the vineyards]] [[H1461|and fields.]] ^2512
 
-Because you have raged against me and your complacency has come into my ears, I will put my hook in your nose and my bit in your mouth, and I will turn you back on the way by which you came. ^1928
+[[H853|Moreover,]] [[H3778|the Chaldeans]] [[H7665|broke up]] [[H5178|the bronze]] [[H5982|pillars]] [[H853|and]] [[H4350|the stands]] [[H5178|and the bronze]] [[H3220|sea]] [[H1004|in the house]] [[H3068|of the LORD,]] [[H5375|and they carried]] [[H5178|the bronze]] [[H894|to Babylon.]] ^2513
 
-And this shall be the sign for you: this year eat what grows of itself, and in the second year what springs of the same. Then in the third year sow and reap and plant vineyards, and eat their fruit. ^1929
+[[H3947|They also took away]] [[H5518|the pots,]] [[H3257|shovels,]] [[H4212|wick trimmers,]] [[H3709|dishes,]] [[H3605|and all]] [[H3627|the articles]] [[H5178|of bronze]] [[H8334|used in temple service.]] ^2514
 
-And the surviving remnant of the house of Judah shall again take root downward and bear fruit upward. ^1930
+[[H7227|The captain]] [[H2876|of the guard]] [[H3947|also took away]] [[H4289|the censers]] [[H4219|and sprinkling bowls—]] [[H834|anything]] ⟨made of⟩ [[H2091|pure gold]] [[H3701|or fine silver.]] ^2515
 
-For out of Jerusalem shall go a remnant, and out of Mount Zion a band of survivors. The zeal of the Lord will do this. ^1931
+[[H8147|As for the two]] [[H5982|pillars,]] [[H259|the]] [[H3220|Sea,]] [[H4350|and the movable stands]] [[H834|that]] [[H8010|Solomon]] [[H6213|had made]] [[H1004|for the house]] [[H3068|of the LORD,]] ⟨the weight⟩ [[H5178|of the bronze]] [[H3605|from all]] [[H428|these]] [[H3627|articles]] ⟨was beyond⟩ [[H4948|measure.]] ^2516
 
-Therefore thus says the Lord concerning the king of Assyria : He shall not come into this city or shoot an arrow there, or come before it with a shield or cast up a siege mound against it. ^1932
+[[H259|Each]] [[H5982|pillar]] [[H8083|was eighteen]] [[H520|cubits]] [[H6967|tall.]] [[H5178|The bronze]] [[H3805|capital]] [[H5921|atop]] ⟨one pillar⟩ [[H7969|was three]] [[H520|cubits]] [[H6967|high,]] [[H7639|with a network]] [[H5178|of bronze]] [[H7416|pomegranates]] [[H3605|all]] [[H5439|around.]] [[H8145|The second]] [[H5982|pillar,]] [[H7639|with its network,]] [[H428|was similar.]] ^2517
 
-By the way that he came, by the same he shall return, and he shall not come into this city, declares the Lord. ^1933
+[[H7227|The captain]] [[H2876|of the guard]] [[H3947|also took away]] [[H8304|Seraiah]] [[H7218|the chief]] [[H3548|priest,]] [[H6846|Zephaniah]] [[H3548|the priest]] [[H4932|of the second rank,]] [[H7969|and the three]] [[H8104|doorkeepers.]] ^2518
 
-For I will defend this city to save it, for my own sake and for the sake of my servant David. ^1934
+[[H4480|Of those]] [[H5892|still in the city,]] [[H3947|he took]] [[H259|a]] [[H5631|court official]] [[H834|who]] [[H6496|had been appointed]] [[H5921|over]] [[H582|the men]] [[H4421|of war]] [[H2568|and five]] [[H4428|royal]] [[H7200|advisors,]] [[H853|as well as]] [[H5608|the scribe]] [[H8269|of the captain]] [[H6635|of the army,]] [[H6633|who enlisted]] [[H5971|the people]] [[H776|of the land,]] [[H8346|and sixty]] [[H376|men]] ⟨who were⟩ [[H4672|found]] [[H5892|in the city.]] ^2519
 
-And that night the angel of the Lord went out and struck down 185,000 in the camp of the Assyrians. And when people arose early in the morning, behold, these were all dead bodies. ^1935
+[[H5018|Nebuzaradan]] [[H7227|the captain]] [[H2876|of the guard]] [[H3947|took]] [[H853|them]] [[H1980|and brought]] [[H853|them]] [[H5921|to]] [[H4428|the king]] [[H894|of Babylon]] [[H7247|at Riblah.]] ^2520
 
-Then Sennacherib king of Assyria departed and went home and lived at Nineveh. ^1936
+[[H7247|There at Riblah]] [[H776|in the land]] [[H2574|of Hamath,]] [[H4428|the king]] [[H894|of Babylon]] [[H5221|struck]] [[H853|them]] ⟨down⟩ [[H4191|and put them to death.]] [[H3063|So Judah]] [[H1540|was taken into exile,]] [[H5921|away from]] [[H127|her land.]] ^2521
 
-And as he was worshiping in the house of Nisroch his god, Adrammelech and Sharezer, his sons, struck him down with the sword and escaped into the land of Ararat. And Esarhaddon his son reigned in his place. ^1937
+[[H5019|Nebuchadnezzar]] [[H4428|king]] [[H894|of Babylon]] [[H6485|appointed]] [[H1436|Gedaliah]] [[H1121|son]] [[H296|of Ahikam,]] [[H1121|the son]] [[H8227|of Shaphan,]] [[H5921|over]] [[H5971|the people]] [[H7604|he had left behind]] [[H776|in the land]] [[H3063|of Judah.]] ^2522
 
+[[H3605|When all]] [[H8269|the commanders]] [[H2428|of the armies]] [[H376|and their men]] [[H8085|heard]] [[H3588|that]] [[H4428|the king]] [[H894|of Babylon]] [[H6485|had appointed]] [[H1436|Gedaliah]] ⟨as governor⟩, [[H935|they came]] [[H413|to]] [[H1436|Gedaliah]] [[H4709|at Mizpah—]] [[H3458|Ishmael]] [[H1121|son]] [[H5418|of Nethaniah,]] [[H3110|Johanan]] [[H1121|son]] [[H7143|of Kareah,]] [[H8304|Seraiah]] [[H1121|son]] [[H8576|of Tanhumeth]] [[H5200|the Netophathite,]] [[H2970|and Jaazaniah]] [[H1121|son]] [[H4602|of the Maacathite,]] [[H376|as well as their men.]] ^2523
 
+[[H1436|And Gedaliah]] [[H7650|took an oath]] [[H376|before them  and their men,]] [[H559|assuring]] [[H408|them,  “Do not]] [[H3372|be afraid]] [[H5650|of the servants]] [[H3778|of the Chaldeans.]] [[H3427|Live]] [[H776|in the land]] [[H5647|and serve]] [[H4428|the king]] [[H894|of Babylon,]] [[H3190|and it will be well]] ^2524
 
-In those days Hezekiah became sick and was at the point of death. And Isaiah the prophet the son of Amoz came to him and said to him, Thus says the Lord, Set your house in order, for you shall die; you shall not recover. ^2001
+[[H7637|In the seventh]] [[H2320|month, however,]] [[H3458|Ishmael]] [[H1121|son]] [[H5418|of Nethaniah,]] [[H1121|the son]] [[H476|of Elishama,]] [[H4410|of the royal]] [[H2233|family,]] [[H935|came]] [[H854|with]] [[H6235|ten]] [[H376|men]] [[H5221|and struck down]] [[H4191|and killed]] [[H1436|Gedaliah,]] [[H3064|along with the Judeans]] [[H3778|and Chaldeans]] [[H834|who]] [[H1961|were]] [[H854|with]] [[H4709|him at Mizpah.]] ^2525
 
-Then Hezekiah turned his face to the wall and prayed to the Lord, saying, ^2002
+[[H3605|Then all]] [[H5971|the people]] [[H6996|small]] [[H5704|and]] [[H1419|great,]] [[H8269|together with the commanders]] [[H2428|of the army,]] [[H6965|arose]] [[H935|and fled]] [[H4714|to Egypt]] [[H3588|for]] [[H3372|fear]] [[H6440|of]] [[H3778|the Chaldeans.]] ^2526
 
-Now, O Lord, please remember how I have walked before you in faithfulness and with a whole heart, and have done what is good in your sight. And Hezekiah wept bitterly. ^2003
+[[H6242|On the twenty-seventh]] [[H8147|day of the twelfth]] [[H2320|month]] [[H7970|of the thirty-seventh]] [[H8141|year]] [[H1546|of the exile]] [[H3063|of Judah’s]] [[H4428|King]] [[H3078|Jehoiachin,]] [[H8141|in the year]] [[H192|Evil-merodach]] [[H4428|became king]] [[H894|of Babylon,]] [[H5375|he released]] [[H4428|King]] [[H3078|Jehoiachin]] [[H3063|of Judah]] [[H1004|from]] [[H3608|prison.]] ^2527
 
-And before Isaiah had gone out of the middle court, the word of the Lord came to him: ^2004
+[[H1696|And he spoke]] [[H2896|kindly]] [[H854|to Jehoiachin]] [[H5414|and set]] [[H3678|his throne]] [[H5921|over]] [[H3678|the thrones]] [[H4428|of the kings]] [[H834|who]] [[H854|were with]] [[H894|him in Babylon.]] ^2528
 
-Turn back, and say to Hezekiah the leader of my people, Thus says the Lord, the God of David your father : I have heard your prayer; I have seen your tears. Behold, I will heal you. On the third day you shall go up to the house of the Lord, ^2005
+[[H8132|So Jehoiachin changed]] [[H3608|his prison]] [[H899|clothes,]] [[H3605|and for the rest]] [[H2416|of his life]] [[H398|he dined]] [[H8548|regularly]] [[H6440|before the]] ⟨king⟩. ^2529
 
-and I will add fifteen years to your life. I will deliver you and this city out of the hand of the king of Assyria, and I will defend this city for my own sake and for my servant David’s sake. ^2006
+[[H4428|And the king]] [[H5414|provided]] ⟨Jehoiachin⟩ [[H3117|a daily]] [[H1697|portion]] [[H3605|for the rest]] [[H2416|of his life.]] ^2530
 
-And Isaiah said, Bring a cake of figs. And let them take and lay it on the boil, that he may recover. ^2007
+[[H6271|When Athaliah]] [[H517|the mother]] [[H274|of Ahaziah]] [[H7200|saw]] [[H3588|that]] [[H1121|her son]] [[H4191|was dead,]] [[H6965|she proceeded]] [[H6|to annihilate]] [[H3605|all]] [[H4467|the royal]] [[H2233|heirs.]] ^1101
 
-And Hezekiah said to Isaiah, What shall be the sign that the Lord will heal me, and that I shall go up to the house of the Lord on the third day? ^2008
+[[H3089|But Jehosheba]] [[H1323|daughter]] [[H4428|of King]] [[H3141|Joram,]] [[H269|the sister]] [[H274|of Ahaziah,]] [[H3947|took]] [[H3101|Joash]] [[H1121|son]] [[H274|of Ahaziah]] [[H1589|and stole him away]] [[H8432|from among]] [[H1121|the sons]] [[H4428|of the king]] ⟨who were⟩ [[H4191|being murdered.]] ⟨She put⟩ [[H3243|him and his nurse]] [[H2315|in a bedroom]] [[H5641|to hide]] [[H853|him]] [[H6440|from]] [[H6271|Athaliah,]] [[H3808|and he was not]] [[H4191|killed.]] ^1102
 
-And Isaiah said, This shall be the sign to you from the Lord, that the Lord will do the thing that he has promised : shall the shadow go forward ten steps, or go back ten steps? ^2009
+[[H1961|And remained]] ⟨Joash⟩ [[H2244|hidden]] [[H854|with]] ⟨his nurse⟩ [[H1004|in the house]] [[H3068|of the LORD]] [[H8337|for six]] [[H8141|years]] [[H6271|while Athaliah]] [[H4427|ruled]] [[H776|the land.]] ^1103
 
-And Hezekiah answered, It is an easy thing for the shadow to lengthen ten steps. Rather let the shadow go back ten steps. ^2010
+[[H7637|Then in the seventh]] [[H8141|year,]] [[H3077|Jehoiada]] [[H7971|sent for]] [[H8269|the captains]] [[H3967|of hundreds,]] [[H3746|the Carites,]] [[H7323|and the guards,]] [[H935|and had them brought]] [[H1004|into the house]] [[H3068|of the LORD.]] ⟨There⟩ [[H1004|]] [[H3772|he made]] [[H1285|a covenant]] [[H1992|with them]] [[H7650|and put them under oath.]] [[H7200|He showed]] [[H853|them]] [[H4428|the king's]] [[H1121|son]] ^1104
 
-And Isaiah the prophet called to the Lord, and he brought the shadow back ten steps, by which it had gone down on the steps of Ahaz. ^2011
+[[H6680|and commanded them,]] [[H2088|“This]] [[H834|is what]] [[H6213|you are to do:]] [[H7992|A third]] [[H4480|of you]] [[H935|who come on duty]] [[H7676|on the Sabbath]] [[H8104|shall guard]] [[H4428|the royal]] [[H1004|palace,]] ^1105
 
-At that time Merodach-baladan the son of Baladan, king of Babylon, sent envoys with letters and a present to Hezekiah, for he heard that Hezekiah had been sick. ^2012
+[[H7992|a third]] ⟨shall be⟩ [[H8179|at the gate]] [[H5495|of Sur,]] [[H7992|and a third]] [[H8179|at the gate]] [[H310|behind]] [[H7323|the guards.]] [[H4535|You are to take turns]] [[H8104|guarding]] [[H1004|the temple—]] ^1106
 
-And Hezekiah welcomed them, and he showed them all his treasure house, the silver, the gold, the spices, the precious oil, his armory, all that was found in his storehouses. There was nothing in his house or in all his realm that Hezekiah did not show them. ^2013
+[[H8147|the two]] [[H3027|divisions]] [[H3318|that would go off duty]] [[H7676|on the Sabbath]] [[H8104|are to guard]] [[H1004|the house]] [[H3068|of the LORD]] [[H413|for]] [[H4428|the king.]] ^1107
 
-Then Isaiah the prophet came to King Hezekiah, and said to him, What did these men say? And from where did they come to you? And Hezekiah said, They have come from a far country, from Babylon. ^2014
+[[H5362|You must surround]] [[H4428|the king]] [[H3627|with weapons]] [[H3027|in hand,]] [[H376|and anyone]] [[H935|who approaches]] [[H7713|the ranks]] [[H4191|must be put to death.]] [[H1961|You must stay]] [[H854|close]] [[H4428|to the king]] [[H3318|wherever he goes.”]] ^1108
 
-He said, What have they seen in your house? And Hezekiah answered, They have seen all that is in my house; there is nothing in my storehouses that I did not show them. ^2015
+[[H8269|So the commanders]] [[H3967|of hundreds]] [[H6213|did]] [[H3605|everything]] [[H834|that]] [[H3077|Jehoiada]] [[H3548|the priest]] [[H6680|had ordered.]] [[H376|Each of them]] [[H3947|took]] [[H376|his men—]] [[H935|those coming on duty]] [[H7676|on the Sabbath]] [[H5973|and]] [[H3318|those going off duty—]] [[H935|and came]] [[H413|to]] [[H3077|Jehoiada]] [[H3548|the priest.]] ^1109
 
-Then Isaiah said to Hezekiah, Hear the word of the Lord : ^2016
+[[H3548|Then the priest]] [[H5414|gave]] [[H8269|to the commanders]] [[H3967|of hundreds]] [[H2595|the spears]] [[H853|and]] [[H7982|shields]] [[H4428|of King]] [[H1732|David]] [[H834|from]] [[H1004|the house]] [[H3068|of the LORD.]] ^1110
 
-Behold, the days are coming, when all that is in your house, and that which your fathers have stored up till this day, shall be carried to Babylon. Nothing shall be left, says the Lord. ^2017
+[[H7323|And the guards]] [[H5975|stood]] [[H3627|with weapons]] [[H3027|in hand]] [[H5439|surrounding]] [[H4428|the king]] [[H4196|by the altar]] [[H1004|and the temple,]] [[H3233|from the south]] [[H3802|side]] [[H5704|to]] [[H8042|the north]] [[H3802|side]] [[H1004|of the temple.]] ^1111
 
-And some of your own sons, who shall be born to you, shall be taken away, and they shall be eunuchs in the palace of the king of Babylon. ^2018
+[[H3318|Then brought out]] ⟨Jehoiada⟩ [[H4428|the king’s]] [[H1121|son,]] [[H5414|put]] [[H5145|the crown]] [[H5921|on him,]] [[H5715|presented him with the Testimony,]] [[H4427|and proclaimed him king.]] [[H4886|They anointed him,]] [[H5221|and clapped]] ⟨the people⟩ [[H3709|their hands]] [[H559|and declared,]] [[H2421|“Long live]] [[H4428|the king!”]] ^1112
 
-Then Hezekiah said to Isaiah, The word of the Lord that you have spoken is good. For he thought, Why not, if there will be peace and security in my days? ^2019
+[[H6271|When Athaliah]] [[H8085|heard]] [[H6963|the noise]] [[H7323|from the guards]] ⟨and⟩ [[H5971|the people,]] [[H935|she went out]] [[H413|to]] [[H5971|the people]] [[H1004|in the house]] [[H3068|of the LORD.]] ^1113
 
-The rest of the deeds of Hezekiah and all his might and how he made the pool and the conduit and brought water into the city, are they not written in the Book of the Chronicles of the Kings of Judah? ^2020
+[[H7200|And she looked out]] [[H2009|and saw]] [[H4428|the king,]] [[H5975|standing]] [[H5921|by]] [[H5982|the pillar,]] [[H4941|according to the custom.]] [[H8269|The officers]] [[H2689|and trumpeters]] [[H413|were beside]] [[H4428|the king,]] [[H3605|and all]] [[H5971|the people]] [[H776|of the land]] [[H8056|were rejoicing]] [[H8628|and blowing]] [[H2689|trumpets.]] [[H6271|Then Athaliah]] [[H7167|tore]] [[H899|her clothes]] [[H7121|and screamed,]] [[H7195|Treason!]] [[H7195|Treason!]] ^1114
 
-And Hezekiah slept with his fathers, and Manasseh his son reigned in his place. ^2021
+[[H3077|And Jehoiada]] [[H3548|the priest]] [[H6680|ordered]] [[H8269|the commanders]] [[H3967|of hundreds]] [[H6485|in charge of]] [[H2428|the army,]] [[H3318|“Bring her out]] [[H7713|between the ranks,]] [[H4191|and put to]] [[H2719|the sword]] [[H935|anyone who follows]] [[H310|her.”]] [[H3588|For]] [[H3548|the priest]] [[H559|had said,]] [[H408|“She must not]] [[H4191|be put to death]] [[H1004|in the house]] [[H3068|of the LORD.”]] ^1115
 
+[[H7760|So they seized]] ⟨Athaliah⟩ [[H3027|]] [[H935|as she reached]] [[H5483|the horses']] [[H3996|entrance]] [[H4428|to the palace grounds,]] [[H8033|and there]] [[H4191|she was put to death.]] ^1116
 
+[[H3077|Then Jehoiada]] [[H3772|made]] [[H1285|a covenant]] [[H996|between]] [[H3068|the LORD,]] [[H4428|the king,]] [[H5971|and the people]] [[H1961|that they would be]] [[H3068|the LORD’s]] [[H5971|people.]] [[H996|He also made a covenant between]] [[H4428|the king]] [[H996|and]] [[H5971|the people.]] ^1117
 
-Manasseh was twelve years old when he began to reign, and he reigned fifty-five years in Jerusalem. His mother’s name was Hephzibah. ^2101
+[[H3605|So all]] [[H5971|the people]] [[H776|of the land]] [[H935|went]] [[H1004|to the temple]] [[H1168|of Baal]] [[H5422|and tore it down.]] [[H4196|They smashed the altars]] [[H6754|and idols]] [[H7665|into pieces,]] [[H2026|and they killed]] [[H4977|Mattan]] [[H3548|the priest]] [[H1168|of Baal]] [[H6440|in front of]] [[H4196|the altars.]] [[H3548|And Jehoiada the priest]] [[H7760|posted]] [[H6486|guards]] [[H5921|for]] [[H1004|the house]] [[H3068|of the LORD.]] ^1118
 
-And he did what was evil in the sight of the Lord, according to the despicable practices of the nations whom the Lord drove out before the people of Israel. ^2102
+[[H3947|He took with him]] [[H8269|the commanders]] [[H3967|of hundreds,]] [[H3746|the Carites,]] [[H7323|the guards,]] [[H3605|and all]] [[H5971|the people]] [[H776|of the land,]] [[H3381|and they brought]] [[H4428|the king]] ⟨down⟩ [[H1004|from the house]] [[H3068|of the LORD]] [[H935|and entered]] [[H4428|the royal]] [[H1004|palace]] [[H1870|by way]] [[H8179|of the gate]] [[H7323|of the guards.]] [[H3427|Then took his seat]] ⟨Joash⟩ [[H5921|on]] [[H4428|the royal]] [[H3678|throne,]] ^1119
 
-For he rebuilt the high places that Hezekiah his father had destroyed, and he erected altars for Baal and made an Asherah, as Ahab king of Israel had done, and worshiped all the host of heaven and served them. ^2103
+[[H3605|and all]] [[H5971|the people]] [[H776|of the land]] [[H8055|rejoiced.]] [[H5892|And the city]] [[H8252|was quiet,]] [[H6271|because Athaliah]] [[H4191|had been put to]] [[H2719|the sword]] [[H4428|at the royal]] [[H1004|palace.]] ^1120
 
-And he built altars in the house of the Lord, of which the Lord had said, In Jerusalem will I put my name. ^2104
+[[H3060|Joash]] ⟨was⟩ [[H7651|seven]] [[H1121|years old]] [[H4427|when he became king.]] ^1121
 
-And he built altars for all the host of heaven in the two courts of the house of the Lord. ^2105
+[[H5283|Now Naaman,]] [[H8269|the commander]] [[H6635|of the army]] [[H4428|of the king]] [[H758|of Aram,]] [[H1961|was]] [[H1419|a great]] [[H376|man]] [[H113|in his master’s]] [[H6440|sight]] [[H5375|and highly regarded;]] [[H3588|for]] [[H3068|through him  the LORD]] [[H5414|had given]] [[H8668|victory]] [[H758|to Aram.]] [[H1961|And he was]] [[H1368|a mighty warrior,]] ⟨but he was⟩ [[H6879|a leper.]] ^0501
 
-And he burned his son as an offering and used fortune-telling and omens and dealt with mediums and with necromancers. He did much evil in the sight of the Lord, provoking him to anger. ^2106
+[[H758|At this time the Arameans]] [[H3318|had gone]] [[H1416|out in bands]] [[H7617|and had taken]] [[H6996|a young]] [[H5291|girl]] [[H776|from the land]] [[H3478|of Israel,]] [[H1961|and she was serving]] [[H5283|Naaman’s]] [[H802|wife.]] ^0502
 
-And the carved image of Asherah that he had made he set in the house of which the Lord said to David and to Solomon his son, In this house, and in Jerusalem, which I have chosen out of all the tribes of Israel, I will put my name forever. ^2107
+[[H559|She said]] [[H413|to]] [[H1404|her mistress,]] [[H305|“If only]] [[H113|my master]] [[H5030|would go to the prophet]] [[H834|who]] [[H8111|is in Samaria,]] [[H622|he would cure]] [[H853|him]] [[H6883|of his leprosy.”]] ^0503
 
-And I will not cause the feet of Israel to wander anymore out of the land that I gave to their fathers, if only they will be careful to do according to all that I have commanded them, and according to all the Law that my servant Moses commanded them. ^2108
+[[H935|And Naaman went]] [[H5046|and told]] [[H113|his master]] [[H2063|what]] [[H5291|the girl]] [[H776|from the land]] [[H3478|of Israel]] [[H1696|had said.]] ^0504
 
-But they did not listen, and Manasseh led them astray to do more evil than the nations had done whom the Lord destroyed before the people of Israel. ^2109
+[[H1980|“Go now,”]] [[H559|said]] [[H4428|the king]] [[H758|of Aram,]] [[H7971|“and I will send you with]] [[H5612|a letter]] [[H413|to]] [[H4428|the king]] [[H3478|of Israel.”]] [[H1980|So departed,]] ⟨Naaman⟩ [[H3947|taking]] [[H3027|with him]] [[H6235|ten]] [[H3603|talents]] [[H3701|of silver,]] [[H8337|six]] [[H505|thousand]] ⟨shekels⟩ [[H2091|of gold,]] [[H6235|and ten]] [[H2487|sets]] [[H899|of clothing.]] ^0505
 
-And the Lord said by his servants the prophets, ^2110
+[[H5612|And the letter]] [[H935|that he took]] [[H413|to]] [[H4428|the king]] [[H3478|of Israel]] [[H559|stated:]] [[H6258|“With]] [[H2088|this]] [[H5612|letter]] [[H7971|I have sent]] [[H5650|my servant]] [[H5283|Naaman,]] [[H622|so that you may cure him]] [[H6883|of his leprosy.”]] ^0506
 
-Because Manasseh king of Judah has committed these abominations and has done things more evil than all that the Amorites did, who were before him, and has made Judah also to sin with his idols, ^2111
+[[H4428|When the king]] [[H3478|of Israel]] [[H7121|read]] [[H5612|the letter,]] [[H7167|he tore]] [[H899|his clothes]] [[H559|and asked,]] [[H589|“Am I]] [[H430|God,]] [[H4191|killing]] [[H2421|and giving life,]] [[H3588|that]] [[H2088|this]] ⟨man⟩ [[H7971|expects]] [[H413|me]] [[H622|to cure]] [[H6883|a leper?]] [[H3045|Surely you can]] [[H7200|see]] [[H3588|that]] [[H1931|he]] [[H579|is seeking a quarrel]] ^0507
 
-therefore thus says the Lord, the God of Israel : Behold, I am bringing upon Jerusalem and Judah such disaster that the ears of everyone who hears of it will tingle. ^2112
+[[H1961|Now]] [[H477|when Elisha]] [[H376|the man]] [[H430|of God]] [[H8085|heard]] [[H3588|that]] [[H4428|the king]] [[H3478|of Israel]] [[H7167|had torn]] [[H899|his clothes,]] [[H7971|he sent]] [[H413|a message to]] [[H4428|the king:]] [[H4100|“Why]] [[H7167|have you torn]] [[H899|your clothes?]] [[H4994|Please]] [[H935|let come]] ⟨the man⟩ [[H413|to me,]] [[H3045|and he will know]] [[H3588|that]] [[H3426|there is]] [[H5030|a prophet]] [[H3478|in Israel.]] ^0508
 
-And I will stretch over Jerusalem the measuring line of Samaria, and the plumb line of the house of Ahab, and I will wipe Jerusalem as one wipes a dish, wiping it and turning it upside down. ^2113
+[[H5283|So Naaman]] [[H935|came]] [[H5483|with his horses]] [[H7393|and chariots]] [[H5975|and stood]] [[H6607|at the door]] [[H477|of Elisha’s]] [[H1004|house.]] ^0509
 
-And I will forsake the remnant of my heritage and give them into the hand of their enemies, and they shall become a prey and a spoil to all their enemies, ^2114
+[[H477|Then Elisha]] [[H7971|sent]] [[H413|him]] [[H4397|a messenger,]] [[H559|who said,]] [[H1980|“Go]] [[H7364|and wash yourself]] [[H7651|seven]] [[H6471|times]] [[H3383|in the Jordan,]] [[H1320|and your flesh]] [[H7725|will be restored,]] [[H2891|and you will be clean.”]] ^0510
 
-because they have done what is evil in my sight and have provoked me to anger, since the day their fathers came out of Egypt, even to this day. ^2115
+[[H5283|But Naaman]] [[H1980|went away]] [[H7107|angry,]] [[H559|saying,]] [[H559|“I thought that]] [[H3318|he would surely come out,]] [[H5975|stand]] [[H7121|and call]] [[H8034|on the name]] [[H3068|of the LORD]] [[H430|his God,]] [[H5130|and wave]] [[H3027|his hand]] [[H413|over]] [[H4725|the spot]] [[H622|to cure]] [[H6879|my leprosy.]] ^0511
 
-Moreover, Manasseh shed very much innocent blood, till he had filled Jerusalem from one end to another, besides the sin that he made Judah to sin so that they did what was evil in the sight of the Lord. ^2116
+⟨Are⟩ [[H3808|not]] [[H71|Abanah]] [[H6554|and Pharpar,]] [[H5104|the rivers]] [[H1834|of Damascus,]] [[H2896|better]] [[H3605|than all]] [[H4325|the waters]] [[H3478|of Israel?]] [[H3808|Could I not]] [[H7364|have washed]] [[H2891|in them  and been cleansed?”]] [[H6437|So he turned]] [[H1980|and went away]] [[H2534|in a rage.]] ^0512
 
-Now the rest of the acts of Manasseh and all that he did, and the sin that he committed, are they not written in the Book of the Chronicles of the Kings of Judah? ^2117
+[[H5650|Naaman's servants, however,]] [[H5066|approached him]] [[H1696|and said,]] [[H1|“My father,]] [[H5030|if the prophet]] [[H1696|had told]] [[H413|you]] [[H1419|to do some great]] [[H1697|thing,]] [[H3808|would you not]] [[H6213|have done]] ⟨it⟩? [[H637|How much more, then,]] [[H3588|when]] [[H559|he tells]] [[H413|you,]] [[H7364|‘Wash]] [[H2891|and be cleansed’?”]] ^0513
 
-And Manasseh slept with his fathers and was buried in the garden of his house, in the garden of Uzza, and Amon his son reigned in his place. ^2118
+[[H3381|So Naaman went down]] [[H2881|and dipped himself]] [[H3383|in the Jordan]] [[H7651|seven]] [[H6471|times,]] [[H1697|according to the word]] [[H376|of the man]] [[H430|of God,]] [[H1320|and his flesh]] [[H7725|was restored]] [[H1320|and became like]] ⟨that⟩ [[H6996|of a little]] [[H5288|child,]] [[H2891|and he was clean.]] ^0514
 
-Amon was twenty-two years old when he began to reign, and he reigned two years in Jerusalem. His mother’s name was Meshullemeth the daughter of Haruz of Jotbah. ^2119
+[[H1931|Then Naaman]] [[H3605|and all]] [[H4264|his attendants]] [[H7725|went back]] [[H413|to]] [[H376|the man]] [[H430|of God,]] [[H5975|stood]] [[H6440|before him,]] [[H559|and declared,]] [[H4994|“Now]] [[H3045|I know]] [[H2009|for sure]] [[H369|that there is no]] [[H430|God]] [[H3605|in all]] [[H776|the earth]] [[H3588|except]] [[H3478|in Israel.]] [[H6258|So]] [[H4994|please]] [[H3947|accept]] [[H1293|a gift]] [[H853|from]] [[H5650|your servant.]] ^0515
 
-And he did what was evil in the sight of the Lord, as Manasseh his father had done. ^2120
+[[H559|But Elisha replied,]] [[H3068|“As surely as the LORD]] [[H2416|lives,]] [[H6440|before whom]] [[H5975|I stand,]] [[H518|I will not]] [[H3947|accept it.”]] [[H6484|And although Naaman urged]] [[H3947|him  to accept it,]] [[H3985|he refused.]] ^0516
 
-He walked in all the way in which his father walked and served the idols that his father served and worshiped them. ^2121
+[[H3808|“If you will not,”]] [[H559|said]] [[H5283|Naaman,]] [[H4994|“please]] [[H5650|let me, your servant,]] [[H5414|be given]] [[H127|as much soil]] [[H6776|as a pair]] [[H6505|of mules]] [[H4853|can carry.]] [[H3588|For]] [[H5650|your servant]] [[H3808|will never]] [[H5750|again]] [[H6213|make]] [[H5930|a burnt offering]] [[H2077|or a sacrifice]] [[H312|to any other]] [[H430|god]] [[H3588|but]] [[H3068|the LORD.]] ^0517
 
-He abandoned the Lord, the God of his fathers, and did not walk in the way of the Lord. ^2122
+[[H3068|Yet may the LORD]] [[H5545|forgive]] [[H5650|your servant]] [[H2088|this]] [[H1697|one thing:]] [[H113|When my master]] [[H935|goes into]] [[H1004|the temple]] [[H7417|of Rimmon]] [[H7812|to worship]] [[H8033|there,]] [[H1931|and he]] [[H8172|leans]] [[H5921|on]] [[H3027|my arm,]] [[H7812|and I bow down]] [[H1004|in the temple]] [[H7417|of Rimmon,]] [[H3068|may the LORD]] [[H5545|forgive]] [[H5650|your servant]] [[H2088|in this]] [[H1697|matter.]] ^0518
 
-And the servants of Amon conspired against him and put the king to death in his house. ^2123
+[[H1980|“Go]] [[H7965|in peace,”]] [[H559|said]] ⟨Elisha⟩, [[H1980|and departed.]] ⟨Naaman⟩ [[H776|But after he had traveled a short distance,]] ^0519
 
-But the people of the land struck down all those who had conspired against King Amon, and the people of the land made Josiah his son king in his place. ^2124
+[[H1522|Gehazi,]] [[H5288|the servant]] [[H477|of Elisha]] [[H376|the man]] [[H430|of God,]] [[H559|said,]] [[H2009|“Look,]] [[H113|my master]] [[H2820|has spared]] [[H2088|this]] [[H761|Aramean,]] [[H5283|Naaman,]] [[H3947|while not accepting]] [[H834|what]] [[H935|he brought.]] [[H3068|As surely as the LORD]] [[H2416|lives,]] [[H7323|I will run]] [[H310|after him]] [[H3947|and get]] [[H3972|something]] [[H853|from him.]] ^0520
 
-Now the rest of the acts of Amon that he did, are they not written in the Book of the Chronicles of the Kings of Judah? ^2125
+[[H1522|So Gehazi]] [[H7291|pursued]] [[H5283|Naaman.]] [[H5283|And when Naaman]] [[H7200|saw]] ⟨him⟩ [[H7323|running]] [[H310|toward him,]] [[H5307|he got down]] [[H5921|from]] [[H4818|the chariot]] [[H7125|to meet him]] [[H559|and asked,]] [[H7965|“Is everything all right?”]] ^0521
 
-And he was buried in his tomb in the garden of Uzza, and Josiah his son reigned in his place. ^2126
+[[H7965|“Everything all right,”]] ⟨is⟩ [[H559|Gehazi replied.]] [[H113|“My master]] [[H7971|has sent]] [[H559|me to say,]] [[H6258|‘I have just now]] [[H2009|discovered]] [[H8147|that two]] [[H5288|young men]] [[H1121|from the sons]] [[H5030|of the prophets]] [[H935|have come]] [[H413|to me]] [[H2022|from the hill country]] [[H669|of Ephraim.]] [[H4994|Please]] [[H5414|give]] [[H3603|them  a talent]] [[H3701|of silver]] [[H8147|and two]] [[H2487|sets]] [[H899|of clothing.”]] ^0522
 
+[[H5283|But Naaman]] [[H559|insisted,]] [[H2974|“Please,]] [[H3947|take]] [[H3603|two talents.”]] [[H6555|And he urged]] [[H6887|Gehazi.  Then he tied up]] ⟨to accept them⟩ [[H3603|two talents]] [[H3701|of silver]] [[H8147|in two]] [[H2754|bags]] [[H8147|along with two]] [[H2487|sets]] [[H899|of clothing]] [[H5414|and gave]] [[H413|them to]] [[H8147|two]] [[H5288|of his servants,]] [[H5375|who carried them]] [[H6440|ahead of Gehazi.]] ^0523
 
+[[H935|When Gehazi came]] [[H413|to]] [[H6076|the hill,]] [[H3947|he took]] [[H3027|the gifts from]] ⟨the servants⟩ [[H6485|and stored them]] [[H1004|in the house.]] [[H7971|Then he dismissed]] [[H582|the men,]] [[H1980|and they departed.]] ^0524
 
-Josiah was eight years old when he began to reign, and he reigned thirty-one years in Jerusalem. His mother’s name was Jedidah the daughter of Adaiah of Bozkath. ^2201
+[[H1931|When Gehazi]] [[H935|went in]] [[H5975|and stood]] [[H413|before]] [[H113|his master,]] [[H477|Elisha]] [[H559|asked]] [[H413|him,]] [[H1522|“Gehazi,]] [[H575|where?”]] ⟨have you been⟩ [[H5650|“Your servant]] [[H3808|did not]] [[H1980|go]] [[H575|anywhere,”]] [[H559|he replied.]] ^0525
 
-And he did what was right in the eyes of the Lord and walked in all the way of David his father, and he did not turn aside to the right or to the left. ^2202
+[[H559|But Elisha questioned him,]] [[H3808|“Did not]] [[H3820|my spirit]] [[H1980|go]] ⟨with you⟩ [[H834|when]] [[H376|the man]] [[H2015|got down]] [[H5921|from]] [[H4818|his chariot]] [[H7125|to meet you?]] [[H6256|Is this the time]] [[H3947|to accept]] [[H3701|money]] [[H899|and clothing,]] [[H2132|olive groves]] [[H3754|and vineyards,]] [[H6629|sheep]] [[H1241|and oxen,]] [[H5650|menservants]] [[H8198|and maidservants?]] ^0526
 
-In the eighteenth year of King Josiah, the king sent Shaphan the son of Azaliah, son of Meshullam, the secretary, to the house of the Lord, saying, ^2203
+[[H6883|Therefore, the leprosy]] [[H5283|of Naaman]] [[H1692|will cling]] [[H2233|to you  and your descendants]] [[H5769|forever!”]] [[H3318|And as Gehazi left]] [[H6440|his presence,]] ⟨he was⟩ [[H6879|leprous—]] ⟨as white⟩ [[H7950|as snow.]] ^0527
 
-Go up to Hilkiah the high priest, that he may count the money that has been brought into the house of the Lord, which the keepers of the threshold have collected from the people. ^2204
+[[H310|After]] [[H4194|the death]] [[H256|of Ahab,]] [[H4124|Moab]] [[H6586|rebelled]] [[H3478|against Israel.]] ^0101
 
-And let it be given into the hand of the workmen who have the oversight of the house of the Lord, and let them give it to the workmen who are at the house of the Lord, repairing the house ^2205
+[[H274|Now Ahaziah]] [[H5307|had fallen]] [[H1157|through]] [[H7639|the lattice]] [[H5944|of his upper room]] [[H8111|in Samaria]] [[H2470|and injured himself.]] [[H7971|So he sent]] [[H4397|messengers]] [[H559|and instructed them:]] [[H1980|“Go]] [[H1875|inquire]] [[H1176|of Baal-zebub,]] [[H430|the god]] [[H6138|of Ekron,]] [[H518|whether]] [[H2421|I will recover]] [[H2088|from this]] [[H2483|injury.”]] ^0102
 
-(that is, to the carpenters, and to the builders, and to the masons ), and let them use it for buying timber and quarried stone to repair the house. ^2206
+[[H4397|But the angel]] [[H3068|of the LORD]] [[H1696|said]] [[H413|to]] [[H452|Elijah]] [[H8664|the Tishbite,]] [[H5927|“Go up]] [[H7125|to meet]] [[H4397|the messengers]] [[H4428|of the king]] [[H8111|of Samaria]] [[H1696|and ask them,]] [[H1097|‘ because]] ⟨Is [it⟩ ⟨there is⟩ [[H369|no]] [[H430|God]] [[H3478|in Israel]] [[H859|that you]] [[H1980|are on your way]] [[H1875|to inquire]] [[H1176|of Baal-zebub,]] [[H430|the god]] [[H6138|of Ekron?]] ^0103
 
-But no accounting shall be asked from them for the money that is delivered into their hand, for they deal honestly. ^2207
+[[H3651|Therefore,]] [[H3541|this is what]] [[H3068|the LORD]] [[H559|says:]] [[H3808|‘You will not]] [[H3381|get up]] [[H4480|from]] [[H4296|the bed]] [[H834|on which]] [[H5927|you are lying.]] [[H4191|You will surely die.’”]] [[H452|So Elijah]] [[H1980|departed.]] ^0104
 
-And Hilkiah the high priest said to Shaphan the secretary, I have found the Book of the Law in the house of the Lord. And Hilkiah gave the book to Shaphan, and he read it. ^2208
+[[H4397|When the messengers]] [[H7725|returned]] [[H413|to the king,]] [[H559|he asked them,]] [[H4100|“Why]] [[H7725|have you returned?”]] ^0105
 
-And Shaphan the secretary came to the king, and reported to the king, Your servants have emptied out the money that was found in the house and have delivered it into the hand of the workmen who have the oversight of the house of the Lord. ^2209
+[[H559|They replied,]] [[H376|“A man]] [[H5927|came up]] [[H7125|to meet us]] [[H559|and said,]] [[H1980|‘Go]] [[H7725|back]] [[H413|to]] [[H4428|the king]] [[H834|who]] [[H7971|sent]] [[H853|you]] [[H1696|and tell]] [[H413|him]] [[H3541|that this is what]] [[H3068|the LORD]] [[H559|says:]] [[H4480|Is it because]] [[H1097|there is no]] [[H430|God]] [[H3478|in Israel]] [[H859|that you are]] [[H7971|sending]] [[H1875|these men to inquire]] [[H1176|of Baal-zebub,]] [[H430|the god]] [[H6138|of Ekron?]] [[H3651|Therefore]] [[H3808|you will not]] [[H3381|get up]] [[H4296|from the bed]] [[H834|on which]] [[H5927|you are lying.]] [[H4191|You will surely die.]] ^0106
 
-Then Shaphan the secretary told the king, Hilkiah the priest has given me a book. And Shaphan read it before the king. ^2210
+[[H1696|The king asked them,]] [[H4100|“What]] [[H4941|sort]] [[H376|of man]] [[H5927|came up]] [[H7125|to meet]] [[H1696|you and spoke]] [[H428|these]] [[H1697|words]] [[H413|to you?”]] ^0107
 
-When the king heard the words of the Book of the Law, he tore his clothes. ^2211
+[[H8181|“ a hairy]] ⟨He was⟩ [[H376|man,”]] [[H559|they answered,]] [[H5785|“with a leather]] [[H232|belt]] [[H4975|around his waist.”]] [[H1931|“It is]] [[H452|Elijah]] [[H8664|the Tishbite,”]] [[H559|said]] ⟨the king⟩. ^0108
 
-And the king commanded Hilkiah the priest, and Ahikam the son of Shaphan, and Achbor the son of Micaiah, and Shaphan the secretary, and Asaiah the king’s servant, saying, ^2212
+[[H7971|Then King Ahaziah sent]] [[H413|to Elijah]] [[H8269|a captain]] [[H2572|with his company of fifty men.]] [[H5927|So the captain went up]] [[H413|to]] ⟨Elijah⟩, [[H3427|who was sitting]] [[H5921|on]] [[H7218|top]] [[H2022|of a hill,]] [[H1696|and said]] [[H413|to him,]] [[H376|“Man]] [[H430|of God,]] [[H4428|the king]] [[H1696|declares,]] [[H3381|‘Come down!’”]] ^0109
 
-Go, inquire of the Lord for me, and for the people, and for all Judah, concerning the words of this book that has been found. For great is the wrath of the Lord that is kindled against us, because our fathers have not obeyed the words of this book, to do according to all that is written concerning us. ^2213
+[[H452|Elijah]] [[H6030|answered]] [[H8269|the captain,]] [[H518|“If]] [[H589|I]] [[H376|am a man]] [[H430|of God,]] [[H784|may fire]] [[H3381|come down]] [[H4480|from]] [[H8064|heaven]] [[H398|and consume]] [[H853|you]] [[H853|and]] ⟨your⟩ [[H2572|fifty.”]] ⟨men⟩ [[H784|And fire]] [[H3381|came down]] [[H4480|from]] [[H8064|heaven]] [[H398|and consumed]] ⟨the captain⟩ [[H853|]] [[H2572|and his men.]] ^0110
 
-So Hilkiah the priest, and Ahikam, and Achbor, and Shaphan, and Asaiah went to Huldah the prophetess, the wife of Shallum the son of Tikvah, son of Harhas, keeper of the wardrobe (now she lived in Jerusalem in the Second Quarter ), and they talked with her. ^2214
+[[H7971|So the king sent]] [[H413|to Elijah]] [[H312|another]] [[H8269|captain]] ⟨with his⟩ [[H2572|fifty]] ⟨men⟩. [[H6030|And]] ⟨the captain⟩ [[H1696|said]] [[H413|to]] ⟨Elijah⟩, [[H376|“Man]] [[H430|of God,]] [[H4428|the king]] [[H559|declares,]] [[H3381|‘Come down]] [[H4120|at once!’”]] ^0111
 
-And she said to them, Thus says the Lord, the God of Israel : Tell the man who sent you to me, ^2215
+[[H452|Again Elijah]] [[H6030|replied,]] [[H518|“If]] [[H589|I]] [[H376|am a man]] [[H430|of God,]] [[H784|may fire]] [[H3381|come down]] [[H4480|from]] [[H8064|heaven]] [[H398|and consume]] [[H853|you]] [[H853|and]] ⟨your⟩ [[H2572|fifty.”]] ⟨men⟩ [[H784|And the fire]] [[H430|of God]] [[H3381|came down]] [[H4480|from]] [[H8064|heaven]] [[H398|and consumed]] [[H853|him]] [[H853|and]] ⟨his⟩ [[H2572|fifty men.]] ^0112
 
-Thus says the Lord, Behold, I will bring disaster upon this place and upon its inhabitants, all the words of the book that the king of Judah has read. ^2216
+[[H7725|So]] [[H7971|the king sent]] [[H7992|a third]] [[H8269|captain]] [[H2572|with his fifty men.]] [[H7992|And the third]] [[H8269|captain]] [[H5927|went up,]] [[H3766|fell]] [[H5921|on]] [[H1290|his knees]] [[H5048|before]] [[H452|Elijah,]] [[H2603|and begged him,]] [[H376|“Man]] [[H430|of God,]] [[H5315|may my life]] [[H5315|and the lives]] [[H428|of these]] [[H2572|fifty]] [[H5650|servants]] [[H4994|please]] [[H3365|be precious]] [[H5869|in your sight.]] ^0113
 
-Because they have forsaken me and have made offerings to other gods, that they might provoke me to anger with all the work of their hands, therefore my wrath will be kindled against this place, and it will not be quenched. ^2217
+[[H2009|Behold,]] [[H784|fire]] [[H3381|has come down]] [[H4480|from]] [[H8064|heaven]] [[H398|and consumed]] [[H7223|the first]] [[H8147|two]] [[H8269|captains]] [[H2572|of fifty,]] [[H2572|with all their men.]] [[H6258|But now]] [[H5315|may my life]] [[H3365|be precious]] [[H5869|in your sight.”]] ^0114
 
-But to the king of Judah, who sent you to inquire of the Lord, thus shall you say to him, Thus says the Lord, the God of Israel : Regarding the words that you have heard, ^2218
+[[H4397|Then the angel]] [[H3069|of the LORD]] [[H1696|said]] [[H413|to]] [[H452|Elijah,]] [[H3381|“Go down]] [[H854|with him.]] [[H408|Do not]] [[H3372|be afraid]] [[H6440|of him.”]] [[H6965|So arose]] ⟨Elijah⟩ [[H3381|and went down]] [[H854|with him]] [[H413|to]] [[H4428|the king.]] ^0115
 
-because your heart was penitent, and you humbled yourself before the Lord, when you heard how I spoke against this place and against its inhabitants, that they should become a desolation and a curse, and you have torn your clothes and wept before me, I also have heard you, declares the Lord. ^2219
+[[H1696|And Elijah said]] [[H413|to King Ahaziah,]] [[H3541|“This is what]] [[H3068|the LORD]] [[H559|says:]] [[H1097|‘Is there really no]] [[H430|God]] [[H3478|in Israel]] [[H1875|for you to inquire]] [[H1697|of His word?]] [[H3282|Is that why]] [[H7971|you have sent]] [[H4397|messengers]] [[H1875|to inquire]] [[H1176|of  Baal-zebub,]] [[H430|the god]] [[H6138|of Ekron?]] [[H3651|Therefore]] [[H3808|you will not]] [[H3381|get up from]] [[H4296|the bed]] [[H834|on which]] [[H5927|you are lying.]] [[H4191|You will surely die.]] ^0116
 
-Therefore, behold, I will gather you to your fathers, and you shall be gathered to your grave in peace, and your eyes shall not see all the disaster that I will bring upon this place. And they brought back word to the king. ^2220
+[[H4191|So died]] ⟨Ahaziah⟩ [[H1697|according to the word]] [[H3068|of the LORD]] [[H834|that]] [[H452|Elijah]] [[H1696|had spoken.]] [[H3588|Since]] [[H1961|he had]] [[H3808|no]] [[H1121|son,]] [[H3088|Jehoram]] [[H4427|succeeded him]] [[H8147|in the second]] [[H8141|year]] [[H4428|of the reign]] [[H3088|of Jehoram]] [[H1121|son]] [[H3092|of Jehoshaphat]] [[H3063|over Judah.]] ^0117
 
+[[H3499|As for the rest]] [[H1697|of the acts]] [[H274|of Ahaziah,]] [[H834|along with his accomplishments,]] [[H1992|are they]] [[H3808|not]] [[H3789|written]] [[H5921|in]] [[H5612|the Book]] [[H1697|of the Chronicles]] [[H4428|of the Kings]] [[H3478|of Israel?]] ^0118
 
+[[H802|Now the wife]] [[H259|of one]] [[H1121|of the sons]] [[H5030|of the prophets]] [[H6817|cried out]] [[H413|to]] [[H477|Elisha,]] [[H5650|“Your servant,]] [[H376|my husband,]] [[H4191|is dead,]] [[H859|and you]] [[H3045|know]] [[H3588|that]] [[H5650|your servant]] [[H3372|feared]] [[H3068|the LORD.]] [[H5383|And now his creditor]] [[H935|is coming]] [[H3947|to take]] [[H8147|my two]] [[H3206|children]] [[H5650|as his slaves!]] ^0401
 
-Then the king sent, and all the elders of Judah and Jerusalem were gathered to him. ^2301
+[[H4100|“How]] [[H6213|can I]] [[H559|help you?”  asked]] [[H477|Elisha.]] [[H5046|“Tell me,]] [[H4100|what]] [[H3426|do you have]] [[H1004|in the house?”]] [[H559|She answered,]] [[H8198|“Your servant]] [[H369|has nothing]] [[H1004|in the house]] [[H518|but]] [[H610|a jar]] [[H8081|of oil.”]] ^0402
 
-And the king went up to the house of the Lord, and with him all the men of Judah and all the inhabitants of Jerusalem and the priests and the prophets, all the people, both small and great. And he read in their hearing all the words of the Book of the Covenant that had been found in the house of the Lord. ^2302
+[[H1980|“Go,”]] [[H559|said]] ⟨Elisha⟩, [[H7592|“borrow]] [[H7386|empty]] [[H3627|jars]] [[H4480|from]] [[H3605|all]] [[H7934|your neighbors.]] [[H408|Do not]] [[H4591|gather just a few.]] ^0403
 
-And the king stood by the pillar and made a covenant before the Lord, to walk after the Lord and to keep his commandments and his testimonies and his statutes with all his heart and all his soul, to perform the words of this covenant that were written in this book. And all the people joined in the covenant. ^2303
+[[H935|Then go inside,]] [[H5462|shut]] [[H1817|the door]] [[H1157|behind you]] [[H1157|and]] [[H1121|your sons,]] [[H3332|and pour]] [[H5921|oil into]] [[H3605|all]] [[H428|these]] [[H3627|jars,]] [[H4392|setting the full ones]] [[H5265|aside.”]] ^0404
 
-And the king commanded Hilkiah the high priest and the priests of the second order and the keepers of the threshold to bring out of the temple of the Lord all the vessels made for Baal, for Asherah, and for all the host of heaven. He burned them outside Jerusalem in the fields of the Kidron and carried their ashes to Bethel. ^2304
+[[H1980|So she left]] [[H853|him,]] [[H5462|and after she had shut]] [[H1817|the door]] [[H1157|behind her]] [[H1157|and]] [[H1121|her sons,]] [[H1992|they]] [[H5066|kept bringing]] ⟨jars⟩ [[H413|to her,]] [[H1931|and she]] [[H3332|kept pouring.]] ^0405
 
-And he deposed the priests whom the kings of Judah had ordained to make offerings in the high places at the cities of Judah and around Jerusalem; those also who burned incense to Baal, to the sun and the moon and the constellations and all the host of the heavens. ^2305
+[[H1961|When]] [[H3627|all the jars]] [[H4390|were full,]] [[H559|she said]] [[H413|to]] [[H1121|her son,]] [[H5066|“Bring]] [[H5750|me another.”]] [[H559|But he replied,]] [[H369|“There are no]] [[H5750|more]] [[H3627|jars.”]] [[H8081|Then the oil]] [[H5975|stopped flowing.]] ^0406
 
-And he brought out the Asherah from the house of the Lord, outside Jerusalem, to the brook Kidron, and burned it at the brook Kidron and beat it to dust and cast the dust of it upon the graves of the common people. ^2306
+[[H935|She went]] [[H5046|and told]] [[H376|the man]] [[H430|of God,]] [[H559|and he said,]] [[H1980|“Go,]] [[H4376|sell]] [[H8081|the oil]] [[H7999|and pay]] [[H5386|your debt,]] [[H859|and you]] [[H1121|and your sons]] [[H2421|can live]] [[H3498|on the remainder.”]] ^0407
 
-And he broke down the houses of the male cult prostitutes who were in the house of the Lord, where the women wove hangings for the Asherah. ^2307
+[[H3117|One day]] [[H477|Elisha]] [[H5674|went]] [[H413|to]] [[H7766|Shunem,]] [[H1419|and a prominent]] [[H802|woman]] [[H8033|who lived there]] [[H2388|persuaded]] [[H398|him  to have a meal.]] [[H1961|So whenever]] [[H5674|he would pass by,]] [[H5493|he would stop]] [[H8033|there]] [[H398|to eat.]] ^0408
 
-And he brought all the priests out of the cities of Judah, and defiled the high places where the priests had made offerings, from Geba to Beersheba. And he broke down the high places of the gates that were at the entrance of the gate of Joshua the governor of the city, which were on one’s left at the gate of the city. ^2308
+[[H559|Then said]] ⟨the woman⟩ [[H413|to]] [[H376|her husband,]] [[H2009|“Behold,]] [[H4994|now]] [[H3045|I know]] [[H3588|that]] [[H1931|the one]] [[H8548|who often]] [[H5674|comes our way]] [[H6918|is a holy]] [[H376|man]] [[H430|of God.]] ^0409
 
-However, the priests of the high places did not come up to the altar of the Lord in Jerusalem, but they ate unleavened bread among their brothers. ^2309
+[[H4994|Please]] [[H6213|let us make]] [[H6996|a small]] [[H5944|room upstairs]] [[H7760|and put]] [[H8033|in it]] [[H4296|a bed,]] [[H7979|a table,]] [[H3678|a chair,]] [[H4501|and a lamp]] [[H935|for him.  Then when he comes]] [[H413|to us,]] [[H5493|he can stay]] [[H8033|there.”]] ^0410
 
-And he defiled Topheth, which is in the Valley of the Son of Hinnom, that no one might burn his son or his daughter as an offering to Molech. ^2310
+[[H3117|One day]] ⟨Elisha⟩ [[H935|came to visit]] [[H5493|and went]] [[H413|to]] [[H5944|his upper room]] [[H7901|to lie down.]] ^0411
 
-And he removed the horses that the kings of Judah had dedicated to the sun, at the entrance to the house of the Lord, by the chamber of Nathan-melech the chamberlain, which was in the precincts. And he burned the chariots of the sun with fire. ^2311
+[[H559|And he said]] [[H413|to]] [[H1522|Gehazi]] [[H5288|his servant,]] [[H7121|“Call]] [[H2063|the]] [[H7767|Shunammite woman.”]] [[H7121|And when he had called]] [[H5975|her,  she stood]] [[H6440|before him,]] ^0412
 
-And the altars on the roof of the upper chamber of Ahaz, which the kings of Judah had made, and the altars that Manasseh had made in the two courts of the house of the Lord, he pulled down and broke in pieces and cast the dust of them into the brook Kidron. ^2312
+[[H559|and said]] ⟨Elisha⟩ [[H4994|to Gehazi,  “Now]] [[H559|tell]] [[H413|her,]] [[H2009|‘Look,]] [[H3605|you have gone to all]] [[H2063|this]] [[H2729|trouble]] [[H413|for us.]] [[H4100|What]] [[H6213|can we do for you?]] [[H1696|Can we speak]] [[H413|on your behalf to]] [[H4428|the king]] [[H176|or]] [[H8269|the commander]] [[H6635|of the army?’”]] [[H595|“I]] [[H3427|have a home]] [[H8432|among]] [[H5971|my own people,”]] [[H559|she replied.]] ^0413
 
-And the king defiled the high places that were east of Jerusalem, to the south of the mount of corruption, which Solomon the king of Israel had built for Ashtoreth the abomination of the Sidonians, and for Chemosh the abomination of Moab, and for Milcom the abomination of the Ammonites. ^2313
+[[H559|So he asked,]] [[H4100|“Then what]] [[H6213|should be done]] [[H61|for her?”  “Well,]] [[H369|she has  no]] [[H1121|son,”]] [[H1522|Gehazi]] [[H559|replied,]] [[H376|“and her husband]] [[H2204|is old.”]] ^0414
 
-And he broke in pieces the pillars and cut down the Asherim and filled their places with the bones of men. ^2314
+[[H7121|“Call]] [[H559|her,”  said Elisha.]] [[H7121|So Gehazi called]] [[H5975|her,  and she stood]] [[H6607|in the doorway.]] ^0415
 
-Moreover, the altar at Bethel, the high place erected by Jeroboam the son of Nebat, who made Israel to sin, that altar with the high place he pulled down and burned, reducing it to dust. He also burned the Asherah. ^2315
+[[H559|And Elisha declared,]] [[H2088|“At this]] [[H4150|time]] [[H6256|next year,]] [[H859|you]] [[H2263|will hold]] [[H1121|a son.”]] ⟨in your arms⟩ [[H408|“No,]] [[H113|my lord,”]] [[H559|she said.]] [[H408|“Do not]] [[H3576|lie]] [[H8198|to your maidservant,]] [[H376|O man]] [[H430|of God.”]] ^0416
 
-And as Josiah turned, he saw the tombs there on the mount. And he sent and took the bones out of the tombs and burned them on the altar and defiled it, according to the word of the Lord that the man of God proclaimed, who had predicted these things. ^2316
+[[H802|But the woman]] [[H2029|did conceive,]] [[H2088|and at that]] [[H4150|time]] [[H6256|the next year]] [[H3205|she gave birth to]] [[H1121|a son,]] [[H834|just as]] [[H477|Elisha]] [[H1696|had told]] [[H413|her.]] ^0417
 
-Then he said, What is that monument that I see? And the men of the city told him, It is the tomb of the man of God who came from Judah and predicted these things that you have done against the altar at Bethel. ^2317
+[[H1961|And]] [[H3206|the child]] [[H1431|grew,]] [[H3117|and one day]] [[H3318|he went out]] [[H413|to]] [[H1|his father,]] [[H413|who was with]] [[H7114|the harvesters.]] ^0418
 
-And he said, Let him be; let no man move his bones. So they let his bones alone, with the bones of the prophet who came out of Samaria. ^2318
+[[H7218|“My head!]] [[H7218|My head!”]] [[H559|he complained]] [[H413|to]] [[H1|his father.]] [[H559|So his father told]] [[H5288|a servant,]] [[H5375|“Carry him]] [[H413|to]] [[H517|his mother.”]] ^0419
 
-And Josiah removed all the shrines also of the high places that were in the cities of Samaria, which kings of Israel had made, provoking the Lord to anger. He did to them according to all that he had done at Bethel. ^2319
+[[H5375|After had picked him up]] ⟨the servant⟩ [[H935|and carried him]] [[H413|to]] [[H517|his mother,]] ⟨the boy⟩ [[H3427|sat]] [[H5921|on]] [[H1290|her lap]] [[H5704|until]] [[H6672|noon,]] [[H4191|and then he died.]] ^0420
 
-And he sacrificed all the priests of the high places who were there, on the altars, and burned human bones on them. Then he returned to Jerusalem. ^2320
+[[H5927|And she went up]] [[H7901|and laid]] [[H5921|him on]] [[H4296|the bed]] [[H376|of the man]] [[H430|of God.]] [[H5462|Then she shut]] ⟨the door⟩ [[H3318|and went out.]] ^0421
 
-And the king commanded all the people, Keep the Passover to the Lord your God, as it is written in this Book of the Covenant. ^2321
+[[H7121|And the woman called]] [[H376|her husband]] [[H559|and said,]] [[H4994|“Please]] [[H7971|send]] [[H259|me  one]] [[H4480|of]] [[H5288|the servants]] [[H259|and one]] [[H860|of the donkeys,]] [[H7323|that I may go quickly]] [[H5704|to]] [[H376|the man]] [[H430|of God]] [[H7725|and return.”]] ^0422
 
-For no such Passover had been kept since the days of the judges who judged Israel, or during all the days of the kings of Israel or of the kings of Judah. ^2322
+[[H4069|“Why]] [[H859|would you]] [[H1980|go]] [[H413|to him]] [[H3117|today?”]] [[H559|he replied.]] [[H3808|“It is not]] [[H2320|a New Moon]] [[H7676|or a Sabbath.”]] [[H7965|“Everything is all right,”]] [[H559|she said.]] ^0423
 
-But in the eighteenth year of King Josiah this Passover was kept to the Lord in Jerusalem. ^2323
+[[H2280|Then she saddled]] [[H860|the donkey]] [[H559|and told]] [[H5288|her servant,]] [[H5090|“Drive]] [[H1980|onward;]] [[H408|do not]] [[H6113|slow]] [[H7392|the pace]] [[H518|for me  unless]] [[H559|I tell]] ^0424
 
-Moreover, Josiah put away the mediums and the necromancers and the household gods and the idols and all the abominations that were seen in the land of Judah and in Jerusalem, that he might establish the words of the law that were written in the book that Hilkiah the priest found in the house of the Lord. ^2324
+[[H1980|So she set out]] [[H935|and went]] [[H413|to]] [[H376|the man]] [[H430|of God]] [[H413|at]] [[H2022|Mount]] [[H3760|Carmel.]] [[H376|When the man]] [[H430|of God]] [[H7200|saw]] [[H853|her]] [[H5048|at a distance,]] [[H559|he said]] [[H413|to]] [[H5288|his servant]] [[H1522|Gehazi,]] [[H2009|“Look,]] [[H1975|there is]] [[H7767|the Shunammite woman.]] ^0425
 
-Before him there was no king like him, who turned to the Lord with all his heart and with all his soul and with all his might, according to all the Law of Moses, nor did any like him arise after him. ^2325
+[[H4994|Please]] [[H7323|run out]] [[H6258|now]] [[H7125|to meet her]] [[H559|and ask,]] [[H7965|‘Are you all right?]] [[H376|Is your husband]] [[H7965|all right?]] [[H3206|Is your child]] [[H7965|all right?’”]] [[H559|And she answered,]] [[H7965|“Everything is all right.”]] ^0426
 
-Still the Lord did not turn from the burning of his great wrath, by which his anger was kindled against Judah, because of all the provocations with which Manasseh had provoked him. ^2326
+[[H935|When she reached]] [[H376|the man]] [[H430|of God]] [[H413|at]] [[H2022|the mountain,]] [[H2388|she clung]] [[H7272|to his feet.]] [[H1522|Gehazi]] [[H5066|came over]] [[H1920|to push her away,]] [[H376|but the man]] [[H430|of God]] [[H559|said,]] [[H7503|“Leave her alone,]] [[H3588|for]] [[H5315|her soul]] ⟨is⟩ [[H3069|in deep distress,  and the LORD]] [[H5956|has hidden]] [[H4480|it from me]] [[H3808|and has not]] [[H5046|told]] ^0427
 
-And the Lord said, I will remove Judah also out of my sight, as I have removed Israel, and I will cast off this city that I have chosen, Jerusalem, and the house of which I said, My name shall be there. ^2327
+[[H559|Then she said,]] [[H113|“Did I ask my lord]] [[H7592|for]] [[H1121|a son?]] [[H3808|Didn’t]] [[H559|I say,]] [[H3808|‘Do not]] [[H7952|deceive me?’”]] ^0428
 
-Now the rest of the acts of Josiah and all that he did, are they not written in the Book of the Chronicles of the Kings of Judah? ^2328
+[[H559|So Elisha said]] [[H1522|to Gehazi,]] [[H2296|“Tie up]] [[H4975|your garment,]] [[H3947|take]] [[H4938|my staff]] [[H3027|in your hand,]] [[H1980|and go!]] [[H3588|If]] [[H4672|you meet]] [[H376|anyone,]] [[H3808|do not]] [[H1288|greet him,]] [[H3588|and if]] [[H376|anyone]] [[H1288|greets you,]] [[H3808|do not]] [[H6030|answer him.]] [[H7760|Then lay]] [[H4938|my staff]] [[H5921|on]] [[H5288|the boys]] [[H6440|face.]] ^0429
 
-In his days Pharaoh Neco king of Egypt went up to the king of Assyria to the river Euphrates. King Josiah went to meet him, and Pharaoh Neco killed him at Megiddo, as soon as he saw him. ^2329
+[[H517|And the mother]] [[H5288|of the boy]] [[H559|said,]] [[H3068|“As surely as the LORD]] [[H2416|lives]] [[H5315|and as you yourself]] [[H2416|live,]] [[H518|I will not]] [[H5800|leave you.”]] [[H6965|So he got up]] [[H1980|and followed]] [[H310|her.]] ^0430
 
-And his servants carried him dead in a chariot from Megiddo and brought him to Jerusalem and buried him in his own tomb. And the people of the land took Jehoahaz the son of Josiah, and anointed him, and made him king in his father’s place. ^2330
+[[H1522|Gehazi]] [[H5674|went on]] [[H6440|ahead of them]] [[H7760|and laid]] [[H4938|the staff]] [[H5921|on]] [[H5288|the boy’s]] [[H6440|face,]] [[H369|but there was no]] [[H6963|sound]] ⟨or⟩ [[H369|]] [[H7182|response.]] [[H7725|So he went back]] [[H7125|to meet]] ⟨Elisha⟩ [[H5046|and told him,]] [[H5288|“The boy]] [[H3808|has not]] [[H6974|awakened.”]] ^0431
 
-Jehoahaz was twenty-three years old when he began to reign, and he reigned three months in Jerusalem. His mother’s name was Hamutal the daughter of Jeremiah of Libnah. ^2331
+[[H477|When Elisha]] [[H935|reached]] [[H1004|the house,]] [[H2009|there was]] [[H5288|the boy]] [[H7901|lying]] [[H4191|dead]] [[H5921|on]] [[H4296|his bed.]] ^0432
 
-And he did what was evil in the sight of the Lord, according to all that his fathers had done. ^2332
+[[H935|So he went in,]] [[H5462|closed]] [[H1817|the door]] [[H1157|behind]] [[H8147|the two of them,]] [[H6419|and prayed]] [[H413|to]] [[H3068|the LORD.]] ^0433
 
-And Pharaoh Neco put him in bonds at Riblah in the land of Hamath, that he might not reign in Jerusalem, and laid on the land a tribute of a hundred talents of silver and a talent of gold. ^2333
+[[H5927|Then got on the bed]] ⟨Elisha⟩ [[H7901|and lay]] [[H5921|on]] [[H3206|the boy,]] [[H6310|mouth]] [[H5921|to]] [[H6310|mouth,]] [[H5869|eye]] [[H5921|to]] [[H5869|eye,]] [[H3709|and hands]] [[H5921|to]] [[H3709|hands.]] [[H1457|As he stretched himself out]] [[H5921|over him,]] [[H3206|the boy’s]] [[H1320|body]] [[H2552|became warm.]] ^0434
 
-And Pharaoh Neco made Eliakim the son of Josiah king in the place of Josiah his father, and changed his name to Jehoiakim. But he took Jehoahaz away, and he came to Egypt and died there. ^2334
+[[H7725|Elisha turned away]] [[H1980|and paced]] [[H259|back and forth]] [[H1004|across the room.]] [[H5927|Then he got on the bed]] [[H1457|and stretched himself out]] [[H5921|over again,]] ⟨the boy⟩ [[H5288|and the boy]] [[H2237|sneezed]] [[H7651|seven]] [[H6471|times]] [[H6491|and opened]] [[H5869|his eyes.]] ^0435
 
-And Jehoiakim gave the silver and the gold to Pharaoh, but he taxed the land to give the money according to the command of Pharaoh. He exacted the silver and the gold of the people of the land, from everyone according to his assessment, to give it to Pharaoh Neco. ^2335
+[[H7121|Elisha summoned]] [[H1522|Gehazi]] [[H559|and said,]] [[H7121|“Call]] [[H2063|the]] [[H7767|Shunammite woman.”]] [[H7121|So he called]] [[H935|her and she came.]] [[H559|Then Elisha said,]] [[H5375|“Pick up]] [[H1121|your son.”]] ^0436
 
-Jehoiakim was twenty-five years old when he began to reign, and he reigned eleven years in Jerusalem. His mother’s name was Zebidah the daughter of Pedaiah of Rumah. ^2336
+[[H935|She came in,]] [[H5307|fell]] [[H5921|at]] [[H7272|his feet,]] [[H7812|and bowed]] [[H776|to the ground.]] [[H5375|Then she picked up]] [[H1121|her son]] [[H3318|and went out.]] ^0437
 
-And he did what was evil in the sight of the Lord, according to all that his fathers had done. ^2337
+[[H477|When Elisha]] [[H7725|returned]] [[H1537|to Gilgal,]] [[H7458|there was a famine]] [[H776|in the land.]] [[H1121|As the sons]] [[H5030|of the prophets]] [[H3427|were sitting]] [[H6440|at his feet,]] [[H559|he said]] [[H5288|to his attendant,]] [[H8239|“Put on]] [[H1419|the large]] [[H5518|pot]] [[H1310|and boil]] [[H5138|some stew]] [[H1121|for the sons]] [[H5030|of the prophets.”]] ^0438
 
+[[H259|One]] ⟨of them⟩ [[H3318|went out]] [[H413|to]] [[H7704|the field]] [[H3950|to gather]] [[H219|herbs,]] [[H4672|and he found]] [[H7704|a wild]] [[H1612|vine]] [[H4480|from]] [[H3950|which he gathered]] [[H7704|as many wild]] [[H6498|gourds]] [[H899|as his garment [could hold.]] [[H935|Then he came back]] [[H6398|and cut them up]] [[H413|into]] [[H5518|the pot]] [[H5138|of stew,]] [[H3588|though]] [[H3808|no one]] [[H3045|knew]] ⟨what they were⟩. ^0439
 
+[[H3332|And they poured it out]] [[H376|for the men]] [[H398|to eat,]] [[H398|but when they tasted]] [[H5138|the stew]] [[H1992|they]] [[H6817|cried out,]] [[H4194|“There is death]] [[H5518|in the pot,]] [[H376|O man]] [[H430|of God!”]] [[H3808|And they could not]] [[H398|eat]] ⟨it⟩. ^0440
 
-In his days, Nebuchadnezzar king of Babylon came up, and Jehoiakim became his servant for three years. Then he turned and rebelled against him. ^2401
+[[H559|Then Elisha said,]] [[H3947|“Get]] [[H7058|some flour.”]] [[H7993|He threw]] [[H413|it into]] [[H5518|the pot]] [[H559|and said,]] [[H3332|“Pour it out]] [[H5971|for the people]] [[H398|to eat.”]] [[H1961|And there was]] [[H3808|nothing]] [[H7451|harmful]] [[H5518|in the pot.]] ^0441
 
-And the Lord sent against him bands of the Chaldeans and bands of the Syrians and bands of the Moabites and bands of the Ammonites, and sent them against Judah to destroy it, according to the word of the Lord that he spoke by his servants the prophets. ^2402
+[[H376|Now a man]] [[H1190|from  Baal-shalishah]] [[H935|came]] [[H376|to the man]] [[H430|of God]] [[H6861|with a sack]] [[H6242|of twenty]] [[H3899|loaves]] [[H8184|of barley]] [[H3899|bread]] [[H1061|from the first]] [[H3759|ripe grain.]] [[H5414|“Give]] [[H5971|it to the people]] [[H398|to eat,”]] [[H559|said Elisha.]] ^0442
 
-Surely this came upon Judah at the command of the Lord, to remove them out of his sight, for the sins of Manasseh, according to all that he had done, ^2403
+[[H8334|But his servant]] [[H559|asked,]] [[H4100|“How]] [[H5414|am I to set]] [[H2088|twenty loaves]] [[H6440|before]] [[H3967|a hundred]] [[H376|men?”]] [[H5414|“Give]] [[H5971|it to the people]] [[H398|to eat,”]] [[H559|said Elisha,]] [[H3588|“for]] [[H3541|this is what]] [[H3068|the LORD]] [[H559|says:]] [[H398|‘They will eat]] [[H3498|and have left over.’”]] ⟨some⟩ ^0443
 
-and also for the innocent blood that he had shed. For he filled Jerusalem with innocent blood, and the Lord would not pardon. ^2404
-
-Now the rest of the deeds of Jehoiakim and all that he did, are they not written in the Book of the Chronicles of the Kings of Judah? ^2405
-
-So Jehoiakim slept with his fathers, and Jehoiachin his son reigned in his place. ^2406
-
-And the king of Egypt did not come again out of his land, for the king of Babylon had taken all that belonged to the king of Egypt from the Brook of Egypt to the river Euphrates. ^2407
-
-Jehoiachin was eighteen years old when he became king, and he reigned three months in Jerusalem. His mother’s name was Nehushta the daughter of Elnathan of Jerusalem. ^2408
-
-And he did what was evil in the sight of the Lord, according to all that his father had done. ^2409
-
-At that time the servants of Nebuchadnezzar king of Babylon came up to Jerusalem, and the city was besieged. ^2410
-
-And Nebuchadnezzar king of Babylon came to the city while his servants were besieging it, ^2411
-
-and Jehoiachin the king of Judah gave himself up to the king of Babylon, himself and his mother and his servants and his officials and his palace officials. The king of Babylon took him prisoner in the eighth year of his reign ^2412
-
-and carried off all the treasures of the house of the Lord and the treasures of the king’s house, and cut in pieces all the vessels of gold in the temple of the Lord, which Solomon king of Israel had made, as the Lord had foretold. ^2413
-
-He carried away all Jerusalem and all the officials and all the mighty men of valor, 10,000 captives, and all the craftsmen and the smiths. None remained, except the poorest people of the land. ^2414
-
-And he carried away Jehoiachin to Babylon. The king’s mother, the king’s wives, his officials, and the chief men of the land he took into captivity from Jerusalem to Babylon. ^2415
-
-And the king of Babylon brought captive to Babylon all the men of valor, 7,000, and the craftsmen and the metal workers, 1,000, all of them strong and fit for war. ^2416
-
-And the king of Babylon made Mattaniah, Jehoiachin’s uncle, king in his place, and changed his name to Zedekiah. ^2417
-
-Zedekiah was twenty-one years old when he became king, and he reigned eleven years in Jerusalem. His mother’s name was Hamutal the daughter of Jeremiah of Libnah. ^2418
-
-And he did what was evil in the sight of the Lord, according to all that Jehoiakim had done. ^2419
-
-For because of the anger of the Lord it came to the point in Jerusalem and Judah that he cast them out from his presence. And Zedekiah rebelled against the king of Babylon. ^2420
-
-
-
-And in the ninth year of his reign, in the tenth month, on the tenth day of the month, Nebuchadnezzar king of Babylon came with all his army against Jerusalem and laid siege to it. And they built siegeworks all around it. ^2501
-
-So the city was besieged till the eleventh year of King Zedekiah. ^2502
-
-On the ninth day of the fourth month the famine was so severe in the city that there was no food for the people of the land. ^2503
-
-Then a breach was made in the city, and all the men of war fled by night by the way of the gate between the two walls, by the king’s garden, and the Chaldeans were around the city. And they went in the direction of the Arabah. ^2504
-
-But the army of the Chaldeans pursued the king and overtook him in the plains of Jericho, and all his army was scattered from him. ^2505
-
-Then they captured the king and brought him up to the king of Babylon at Riblah, and they passed sentence on him. ^2506
-
-They slaughtered the sons of Zedekiah before his eyes, and put out the eyes of Zedekiah and bound him in chains and took him to Babylon. ^2507
-
-In the fifth month, on the seventh day of the month —that was the nineteenth year of King Nebuchadnezzar, king of Babylon — Nebuzaradan, the captain of the bodyguard, a servant of the king of Babylon, came to Jerusalem. ^2508
-
-And he burned the house of the Lord and the king’s house and all the houses of Jerusalem; every great house he burned down. ^2509
-
-And all the army of the Chaldeans, who were with the captain of the guard, broke down the walls around Jerusalem. ^2510
-
-And the rest of the people who were left in the city and the deserters who had deserted to the king of Babylon, together with the rest of the multitude, Nebuzaradan the captain of the guard carried into exile. ^2511
-
-But the captain of the guard left some of the poorest of the land to be vinedressers and plowmen. ^2512
-
-And the pillars of bronze that were in the house of the Lord, and the stands and the bronze sea that were in the house of the Lord, the Chaldeans broke in pieces and carried the bronze to Babylon. ^2513
-
-And they took away the pots and the shovels and the snuffers and the dishes for incense and all the vessels of bronze used in the temple service, ^2514
-
-the fire pans also and the bowls. What was of gold the captain of the guard took away as gold, and what was of silver, as silver. ^2515
-
-As for the two pillars, the one sea, and the stands that Solomon had made for the house of the Lord, the bronze of all these vessels was beyond weight. ^2516
-
-The height of the one pillar was eighteen cubits, and on it was a capital of bronze. The height of the capital was three cubits. A latticework and pomegranates, all of bronze, were all around the capital. And the second pillar had the same, with the latticework. ^2517
-
-And the captain of the guard took Seraiah the chief priest and Zephaniah the second priest and the three keepers of the threshold; ^2518
-
-and from the city he took an officer who had been in command of the men of war, and five men of the king’s council who were found in the city; and the secretary of the commander of the army, who mustered the people of the land; and sixty men of the people of the land, who were found in the city. ^2519
-
-And Nebuzaradan the captain of the guard took them and brought them to the king of Babylon at Riblah. ^2520
-
-And the king of Babylon struck them down and put them to death at Riblah in the land of Hamath. So Judah was taken into exile out of its land. ^2521
-
-And over the people who remained in the land of Judah, whom Nebuchadnezzar king of Babylon had left, he appointed Gedaliah the son of Ahikam, son of Shaphan, governor. ^2522
-
-Now when all the captains and their men heard that the king of Babylon had appointed Gedaliah governor, they came with their men to Gedaliah at Mizpah, namely, Ishmael the son of Nethaniah, and Johanan the son of Kareah, and Seraiah the son of Tanhumeth the Netophathite, and Jaazaniah the son of the Maacathite. ^2523
-
-And Gedaliah swore to them and their men, saying, Do not be afraid because of the Chaldean officials. Live in the land and serve the king of Babylon, and it shall be well with you. ^2524
-
-But in the seventh month, Ishmael the son of Nethaniah, son of Elishama, of the royal family, came with ten men and struck down Gedaliah and put him to death along with the Jews and the Chaldeans who were with him at Mizpah. ^2525
-
-Then all the people, both small and great, and the captains of the forces arose and went to Egypt, for they were afraid of the Chaldeans. ^2526
-
-And in the thirty-seventh year of the exile of Jehoiachin king of Judah, in the twelfth month, on the twenty-seventh day of the month, Evil-merodach king of Babylon, in the year that he began to reign, graciously freed Jehoiachin king of Judah from prison. ^2527
-
-And he spoke kindly to him and gave him a seat above the seats of the kings who were with him in Babylon. ^2528
-
-So Jehoiachin put off his prison garments. And every day of his life he dined regularly at the king’s table, ^2529
-
-and for his allowance, a regular allowance was given him by the king, according to his daily needs, as long as he lived. ^2530
-
-
+[[H5414|So he set]] ⟨it⟩ [[H6440|before them,]] [[H398|and they ate]] [[H3498|and had left over,]] ⟨some⟩ [[H1697|according to the word]] [[H3068|of the LORD.]] ^0444

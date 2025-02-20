@@ -1,1987 +1,1917 @@
+[[H428|These]] [[H1697|are the words]] [[H834|that]] [[H4872|Moses]] [[H1696|spoke]] [[H413|to]] [[H3605|all]] [[H3478|Israel]] [[H4057|in the wilderness]] [[H5676|east of]] [[H3383|the Jordan,]] [[H6160|in the Arabah,]] [[H4136|opposite]] [[H5489|Suph,]] [[H996|between]] [[H6290|Paran]] [[H8603|and Tophel,]] [[H3837|Laban,]] [[H2698|Hazeroth,]] [[H1774|and Di-zahab.]] ^0101
 
+[[H259|It is an eleven-day]] ⟨journey⟩ [[H2722|from Horeb]] [[H5704|to]] [[H6947|Kadesh-barnea]] [[H1870|by way]] [[H2022|of Mount]] [[H8165|Seir.]] ^0102
 
-These are the words that Moses spoke to all Israel beyond the Jordan in the wilderness, in the Arabah opposite Suph, between Paran and Tophel, Laban, Hazeroth, and Dizahab. ^0101
+[[H705|In the fortieth]] [[H8141|year,]] [[H259|on the first day]] [[H6249|of the eleventh]] [[H2320|month,]] [[H4872|Moses]] [[H1696|proclaimed]] [[H413|to]] [[H1121|the Israelites]] [[H3605|everything]] [[H834|that]] [[H3068|the LORD]] [[H6680|had commanded]] [[H853|him]] [[H413|concerning them.]] ^0103
 
-It is eleven days ’ journey from Horeb by the way of Mount Seir to Kadesh-barnea. ^0102
+[[H310|This was after]] [[H5221|he had defeated]] [[H5511|Sihon]] [[H4428|king]] [[H567|of the Amorites,]] [[H834|who]] [[H3427|lived]] [[H2809|in Heshbon,]] [[H853|and then]] [[H154|at Edrei]] ⟨had defeated⟩ [[H5747|Og]] [[H4428|king]] [[H1316|of Bashan,]] [[H834|who]] [[H3427|lived]] [[H6252|in Ashtaroth.]] ^0104
 
-In the fortieth year, on the first day of the eleventh month, Moses spoke to the people of Israel according to all that the Lord had given him in commandment to them, ^0103
+[[H5676|On the east side]] [[H3383|of the Jordan]] [[H776|in the land]] [[H4124|of Moab,]] [[H4872|Moses]] [[H2974|began]] [[H874|to explain]] [[H2063|this]] [[H8451|law,]] [[H559|saying:]] ^0105
 
-after he had defeated Sihon the king of the Amorites, who lived in Heshbon, and Og the king of Bashan, who lived in Ashtaroth and in Edrei. ^0104
+[[H3068|“The LORD]] [[H430|our God]] [[H1696|said]] [[H413|to us]] [[H2722|at Horeb:]] [[H3427|You have stayed]] [[H2088|at this]] [[H2022|mountain]] [[H7227|long enough.]] ^0106
 
-Beyond the Jordan, in the land of Moab, Moses undertook to explain this law, saying, ^0105
+[[H6437|Resume]] [[H5265|your journey]] [[H935|and go]] [[H2022|to the hill country]] [[H567|of the Amorites;]] ⟨go⟩ [[H413|to]] [[H3605|all]] [[H7934|the neighboring peoples]] [[H6160|in the Arabah,]] [[H2022|in the hill country,]] [[H8219|in the foothills,]] [[H5045|in the Negev,]] [[H3220|and along the seacoast]] [[H776|to the land]] [[H3669|of the Canaanites]] [[H3844|and to Lebanon,]] [[H5704|as far as]] [[H1419|the great]] [[H5104|River]] [[H6578|Euphrates.]] ^0107
 
-The Lord our God said to us in Horeb, You have stayed long enough at this mountain. ^0106
+[[H7200|See,]] [[H5414|I have placed]] [[H776|the land]] [[H6440|before you.]] [[H935|Enter]] [[H3423|and possess]] [[H776|the land]] [[H834|that]] [[H3068|the LORD]] [[H7650|swore]] [[H5414|He would give]] [[H1|to your fathers]] [[H85|Abraham,]] [[H3327|Isaac,]] [[H3290|and Jacob,]] [[H2233|and to their descendants]] [[H310|after them.”]] ^0108
 
-Turn and take your journey, and go to the hill country of the Amorites and to all their neighbors in the Arabah, in the hill country and in the lowland and in the Negeb and by the seacoast, the land of the Canaanites, and Lebanon, as far as the great river, the river Euphrates. ^0107
+[[H1931|At that]] [[H6256|time]] [[H559|I said]] [[H413|to you,]] [[H3808|“I cannot]] [[H5375|carry the burden]] [[H853|for you]] [[H905|alone.]] ^0109
 
-See, I have set the land before you. Go in and take possession of the land that the Lord swore to your fathers, to Abraham, to Isaac, and to Jacob, to give to them and to their offspring after them. ^0108
+[[H3068|The LORD]] [[H430|your God]] [[H7235|has multiplied]] [[H853|you,]] [[H3117|so that today]] [[H2009|you are]] [[H7230|as numerous]] [[H3556|as the stars]] [[H8064|in the sky.]] ^0110
 
-At that time I said to you, I am not able to bear you by myself. ^0109
+[[H3068|May the LORD,]] [[H430|the God]] [[H1|of your fathers,]] [[H3254|increase you]] [[H505|a thousand]] [[H6471|times over]] [[H1288|and bless]] [[H853|you]] [[H834|as]] [[H1696|He has promised.]] ^0111
 
-The Lord your God has multiplied you, and behold, you are today as numerous as the stars of heaven. ^0110
+[[H349|But how]] [[H5375|can I bear]] [[H2960|your troubles,]] [[H4853|burdens,]] [[H7379|and disputes]] [[H905|all by myself?]] ^0112
 
-May the Lord, the God of your fathers, make you a thousand times as many as you are and bless you, as he has promised you! ^0111
+[[H3051|Choose]] [[H2450|for yourselves wise,]] [[H995|understanding,]] [[H3045|and respected men]] [[H7626|from each of your tribes,]] [[H7760|and I will appoint them]] [[H7218|as your leaders.”]] ^0113
 
-How can I bear by myself the weight and burden of you and your strife? ^0112
+[[H6030|And you answered]] [[H853|me]] [[H559|and said,]] [[H834|“What]] [[H1696|you propose]] [[H6213|to do]] [[H2896|is good.”]] ^0114
 
-Choose for your tribes wise, understanding, and experienced men, and I will appoint them as your heads. ^0113
+[[H3947|So I took]] [[H7218|the leaders]] [[H7626|of your tribes,]] [[H2450|wise]] [[H3045|and respected]] [[H376|men,]] [[H5414|and appointed]] [[H853|them]] [[H7218|as leaders]] [[H5921|over you—]] [[H8269|as commanders]] [[H505|of thousands,]] [[H3967|of hundreds,]] [[H2572|of fifties,]] [[H6235|and of tens,]] [[H7860|and as officers]] [[H7626|for your tribes.]] ^0115
 
-And you answered me, The thing that you have spoken is good for us to do. ^0114
+[[H1931|At that]] [[H6256|time]] [[H6680|I charged]] [[H8199|your judges:]] [[H8085|“Hear]] [[H996|the disputes between]] [[H251|your brothers,]] [[H8199|and judge]] [[H6664|fairly]] [[H996|between]] [[H376|a man]] [[H251|and his brother]] [[H1616|or a foreign resident.]] ^0116
 
-So I took the heads of your tribes, wise and experienced men, and set them as heads over you, commanders of thousands, commanders of hundreds, commanders of fifties, commanders of tens, and officers, throughout your tribes. ^0115
+[[H5234|Show no partiality]] [[H4941|in judging;]] [[H8085|hear]] ⟨both⟩ [[H6996|small]] [[H1419|and great alike.]] [[H3808|Do not]] [[H1481|be intimidated]] [[H4480|by]] [[H376|anyone,]] [[H3588|for]] [[H4941|judgment]] [[H430|belongs to God.]] [[H7126|And bring]] [[H413|to me]] [[H1697|any case]] [[H7185|too difficult for you,]] [[H8085|and I will hear it.”]] ^0117
 
-And I charged your judges at that time, Hear the cases between your brothers, and judge righteously between a man and his brother or the alien who is with him. ^0116
+[[H1931|And at that]] [[H6256|time]] [[H6680|I commanded]] [[H853|you]] [[H3605|all]] [[H1697|the things]] [[H6213|you were to do.]] ^0118
 
-You shall not be partial in judgment. You shall hear the small and the great alike. You shall not be intimidated by anyone, for the judgment is God’s. And the case that is too hard for you, you shall bring to me, and I will hear it. ^0117
+[[H834|And just as]] [[H3068|the LORD]] [[H430|our God]] [[H6680|had commanded us,]] [[H5265|we set out]] [[H2722|from Horeb]] [[H1980|and went]] [[H1870|toward]] [[H2022|the hill country]] [[H567|of the Amorites,]] [[H3605|through all]] [[H1419|the vast]] [[H3372|and terrifying]] [[H4057|wilderness]] [[H7200|you have seen.]] [[H935|When we reached]] [[H6947|Kadesh-barnea,]] ^0119
 
-And I commanded you at that time all the things that you should do. ^0118
+[[H559|I said:]] [[H935|“You have reached]] [[H2022|the hill country]] [[H567|of the Amorites,]] [[H834|which]] [[H3068|the LORD]] [[H430|our God]] [[H5414|is giving us.]] ^0120
 
-Then we set out from Horeb and went through all that great and terrifying wilderness that you saw, on the way to the hill country of the Amorites, as the Lord our God commanded us. And we came to Kadesh-barnea. ^0119
+[[H7200|See,]] [[H3068|the LORD]] [[H430|your God]] [[H5414|has placed]] [[H776|the land]] [[H6440|before you.]] [[H5927|Go up]] [[H3423|and take possession of]] [[H834|it as]] [[H3068|the LORD,]] [[H430|the God]] [[H1|of your fathers,]] [[H1696|has told you.]] [[H408|Do not]] [[H3372|be afraid]] [[H2865|or discouraged.”]] ^0121
 
-And I said to you, You have come to the hill country of the Amorites, which the Lord our God is giving us. ^0120
+[[H3605|Then all of you]] [[H7126|approached]] [[H559|me and said,]] [[H7971|“Let us send]] [[H376|men]] [[H6440|ahead of us]] [[H2658|to search out]] [[H776|the land]] [[H7725|and bring us]] [[H1697|word]] [[H1870|of what route]] [[H5927|to follow]] [[H5892|and which cities]] [[H935|to enter.”]] ^0122
 
-See, the Lord your God has set the land before you. Go up, take possession, as the Lord, the God of your fathers, has told you. Do not fear or be dismayed. ^0121
+[[H1697|The plan]] [[H5869|seemed]] [[H3190|good to me,]] [[H3947|so I selected]] [[H8147|twelve]] [[H376|men]] [[H4480|from among you,]] [[H259|one]] [[H7626|from each tribe.]] ^0123
 
-Then all of you came near me and said, Let us send men before us, that they may explore the land for us and bring us word again of the way by which we must go up and the cities into which we shall come. ^0122
+[[H6437|They left]] [[H5927|and went up]] [[H2022|into the hill country,]] [[H935|and came]] [[H5704|to]] [[H5158|the Valley]] [[H812|of Eshcol]] [[H7270|and spied out]] ⟨the land⟩. ^0124
 
-The thing seemed good to me, and I took twelve men from you, one man from each tribe. ^0123
+[[H3947|They took]] [[H6529|some of the fruit]] [[H776|of the land]] [[H3027|in their hands,]] [[H3381|carried it down]] [[H413|to us,]] [[H7725|and brought us]] [[H1697|word:]] [[H2896|“It is a good]] [[H776|land]] [[H834|that]] [[H3068|the LORD]] [[H430|our God]] [[H5414|is giving]] ^0125
 
-And they turned and went up into the hill country, and came to the Valley of Eshcol and spied it out. ^0124
+[[H3808|But you were unwilling]] [[H5927|to go up;]] [[H4784|you rebelled]] [[H6310|against the command]] [[H3068|of the LORD]] [[H430|your God.]] ^0126
 
-And they took in their hands some of the fruit of the land and brought it down to us, and brought us word again and said, It is a good land that the Lord our God is giving us. ^0125
+[[H7279|You grumbled]] [[H168|in your tents]] [[H559|and said,]] [[H3068|“Because the LORD]] [[H853|hates us,]] [[H3318|He has brought us out]] [[H776|of the land]] [[H4714|of Egypt]] [[H5414|to deliver]] [[H853|us]] [[H3027|into the hand]] [[H567|of the Amorites]] [[H8045|to be annihilated.]] ^0127
 
-Yet you would not go up, but rebelled against the command of the Lord your God. ^0126
+[[H575|Where]] [[H587|can we]] [[H5927|go?]] [[H251|Our brothers]] [[H4549|have made our hearts melt,]] [[H559|saying:]] [[H5971|‘The people]] [[H1419|are larger]] [[H7311|and taller]] [[H4480|than we are;]] [[H5892|the cities]] [[H1419|are large,]] [[H1219|with walls up]] [[H8064|to the heavens.]] [[H1571|We even]] [[H7200|saw]] [[H1121|the descendants]] [[H6062|of the Anakim]] [[H8033|there.’”]] ^0128
 
-And you murmured in your tents and said, Because the Lord hated us he has brought us out of the land of Egypt, to give us into the hand of the Amorites, to destroy us. ^0127
+[[H559|So I said]] [[H413|to you:]] [[H3808|“Do not]] [[H6206|be terrified]] [[H3372|or afraid]] [[H1992|of them!]] ^0129
 
-Where are we going up? Our brothers have made our hearts melt, saying, The people are greater and taller than we. The cities are great and fortified up to heaven. And besides, we have seen the sons of the Anakim there. ^0128
+[[H3068|The LORD]] [[H430|your God,]] [[H1980|who goes]] [[H6440|before you,]] [[H3898|will fight for you,]] [[H3605|just as]] [[H5869|you saw]] [[H6213|Him do]] [[H854|for you]] [[H4714|in Egypt]] ^0130
 
-Then I said to you, Do not be in dread or afraid of them. ^0129
+⟨and⟩ [[H7200|]] [[H4057|in the wilderness,]] [[H834|where]] [[H3068|the LORD]] [[H430|your God]] [[H5375|carried you,]] [[H834|as]] [[H376|a man]] [[H5375|carries]] [[H1121|his son,]] [[H3605|all]] [[H1870|the way]] [[H834|by which]] [[H1980|you traveled]] [[H5704|until]] [[H935|you reached]] [[H2088|this]] [[H4725|place.”]] ^0131
 
-The Lord your God who goes before you will himself fight for you, just as he did for you in Egypt before your eyes, ^0130
+[[H1697|But in spite]] [[H2088|of all this,]] [[H369|you did not]] [[H539|trust]] [[H3068|the LORD]] [[H430|your God,]] ^0132
 
-and in the wilderness, where you have seen how the Lord your God carried you, as a man carries his son, all the way that you went until you came to this place. ^0131
+[[H1980|who went]] [[H6440|before you]] [[H1870|on the journey,]] [[H784|in the fire]] [[H3915|by night]] [[H6051|and in the cloud]] [[H3119|by day,]] [[H8446|to seek out]] [[H4725|a place]] [[H2583|for you to camp]] ⟨and⟩ [[H7200|to show you]] [[H1870|the road]] [[H1980|to travel.]] ^0133
 
-Yet in spite of this word you did not believe the Lord your God, ^0132
+[[H3068|When the LORD]] [[H8085|heard]] [[H1697|your words,]] [[H7107|He grew angry]] [[H7650|and swore an oath,]] [[H559|saying,]] ^0134
 
-who went before you in the way to seek you out a place to pitch your tents, in fire by night and in the cloud by day, to show you by what way you should go. ^0133
+[[H518|“Not]] [[H376|one]] [[H428|of the]] [[H376|men]] [[H2088|of this]] [[H7451|evil]] [[H1755|generation]] [[H7200|shall see]] [[H2896|the good]] [[H776|land]] [[H7650|I swore]] [[H5414|to give]] [[H1|your fathers,]] ^0135
 
-And the Lord heard your words and was angered, and he swore, ^0134
+[[H2108|except]] [[H3612|Caleb]] [[H1121|the son]] [[H3312|of Jephunneh.]] [[H1931|He]] [[H7200|will see it,]] [[H5414|and I will give]] [[H853|him]] [[H1121|and his descendants]] [[H776|the land]] [[H834|on which]] [[H1869|he has set foot,]] [[H3282|because]] [[H310|he followed]] [[H3068|the LORD]] [[H4390|wholeheartedly.”]] ^0136
 
-Not one of these men of this evil generation shall see the good land that I swore to give to your fathers, ^0135
+[[H3068|The LORD]] [[H599|was also angry]] [[H1558|with me  on your account,]] [[H559|and He said,]] [[H3808|“Not]] [[H1571|even]] [[H859|you]] [[H935|shall enter]] ⟨the land⟩ [[H8033|.]] ^0137
 
-except Caleb the son of Jephunneh. He shall see it, and to him and to his children I will give the land on which he has trodden, because he has wholly followed the Lord! ^0136
+[[H3091|Joshua]] [[H1121|son]] [[H5126|of Nun,]] [[H5975|who stands]] [[H6440|before you,]] [[H935|will enter]] [[H8033|it.]] [[H2388|Encourage him,]] [[H3588|for]] [[H1931|he]] [[H3478|will enable Israel]] [[H5157|to inherit]] ⟨the land⟩ [[H853|.]] ^0138
 
-Even with me the Lord was angry on your account and said, You also shall not go in there. ^0137
+[[H2945|And the little ones,]] [[H834|whom]] [[H559|you said]] [[H1961|would become]] [[H957|captives—]] [[H1121|your children]] [[H834|who]] [[H3808|do not]] [[H3045|know]] [[H2896|good]] [[H7451|from evil,]] [[H935|will enter]] ⟨the land⟩ [[H8033|]] [[H5414|I give them]] [[H1992|and]] [[H3423|possess it.]] ^0139
 
-Joshua the son of Nun, who stands before you, he shall enter. Encourage him, for he shall cause Israel to inherit it. ^0138
+[[H859|But you]] [[H6437|are to turn back]] [[H5265|and head]] [[H4057|for the wilderness]] [[H1870|along the route]] [[H5488|to the Red]] [[H3220|Sea.”]] ^0140
 
-And as for your little ones, who you said would become a prey, and your children, who today have no knowledge of good or evil, they shall go in there. And to them I will give it, and they shall possess it. ^0139
+[[H2398|“We have sinned]] [[H3068|against the LORD,”]] [[H6030|you replied.]] [[H587|“We]] [[H5927|will go up]] [[H3898|and fight,]] [[H3605|as]] [[H3068|the LORD]] [[H430|our God]] [[H6680|has commanded us.”]] [[H376|Then each]] [[H2296|of you put on]] [[H3627|his weapons]] [[H4421|of war,]] [[H1951|thinking it easy]] [[H5927|to go up]] [[H2022|into the hill country.]] ^0141
 
-But as for you, turn, and journey into the wilderness in the direction of the Red Sea. ^0140
+[[H3068|But the LORD]] [[H559|said]] [[H413|to me,]] [[H559|“Tell]] [[H3808|them  not]] [[H5927|to go up]] [[H3898|and fight,]] [[H3588|for]] [[H369|I am not]] [[H7130|with]] [[H3808|you]] [[H3808|to keep you from]] [[H5062|defeat]] [[H6440|by]] [[H341|your enemies.”]] ^0142
 
-Then you answered me, We have sinned against the Lord. We ourselves will go up and fight, just as the Lord our God commanded us. And every one of you fastened on his weapons of war and thought it easy to go up into the hill country. ^0141
+[[H1696|So I spoke]] [[H413|to you,]] [[H3808|but you would not]] [[H8085|listen.]] [[H4784|You rebelled against]] [[H6310|the command]] [[H3068|of the LORD]] [[H2102|and presumptuously]] [[H5927|went up]] [[H2022|into the hill country.]] ^0143
 
-And the Lord said to me, Say to them, Do not go up or fight, for I am not in your midst, lest you be defeated before your enemies. ^0142
+[[H567|Then the Amorites]] [[H3427|who lived]] [[H1931|in]] [[H2022|the hills]] [[H3318|came out]] [[H7125|against you]] [[H7291|and chased]] [[H834|you like]] [[H1682|a swarm of bees.]] [[H3807|They routed]] [[H8165|you from Seir]] [[H5704|all the way]] [[H2767|to Hormah.]] ^0144
 
-So I spoke to you, and you would not listen; but you rebelled against the command of the Lord and presumptuously went up into the hill country. ^0143
+[[H7725|And you returned]] [[H1058|and wept]] [[H6440|before]] [[H3068|the LORD,]] [[H3068|but]] ⟨He⟩ [[H3808|would not]] [[H8085|listen]] [[H6963|to your voice]] ⟨or⟩ [[H3808|]] [[H238|give ear]] [[H413|to you.]] ^0145
 
-Then the Amorites who lived in that hill country came out against you and chased you as bees do and beat you down in Seir as far as Hormah. ^0144
+[[H3427|For this reason you stayed]] [[H6946|in Kadesh]] [[H7227|for a long time—]] [[H3117|a very long time.]] ^0146
 
-And you returned and wept before the Lord, but the Lord did not listen to your voice or give ear to you. ^0145
+[[H6437|Then we turned back]] [[H5265|and headed]] [[H4057|for the wilderness]] [[H1870|by way]] [[H5488|of the Red]] [[H3220|Sea,]] [[H834|as]] [[H3068|the LORD]] [[H1696|had instructed me,]] [[H7227|and for many]] [[H3117|days]] [[H5437|we wandered around]] [[H2022|the hill country]] [[H8165|of Seir.]] ^0201
 
-So you remained at Kadesh many days, the days that you remained there. ^0146
+[[H3068|And the LORD]] [[H559|then said]] [[H413|to me,]] ^0202
 
+[[H5437|“You have been wandering around]] [[H2088|this]] [[H2022|hill country]] [[H7227|long enough;]] [[H6437|turn]] [[H6828|to the north]] ^0203
 
+[[H6680|and command]] [[H5971|the people:]] [[H859|‘You]] [[H5674|will pass]] [[H1366|through the territory]] [[H251|of your brothers,]] [[H1121|the descendants]] [[H6215|of Esau,]] [[H3427|who live]] [[H8165|in Seir.]] [[H3372|They will be afraid]] [[H4480|of you,]] [[H3966|so you must be very]] [[H8104|careful.]] ^0204
 
-Then we turned and journeyed into the wilderness in the direction of the Red Sea, as the Lord told me. And for many days we traveled around Mount Seir. ^0201
+[[H408|Do not]] [[H1624|provoke them,]] [[H3588|for]] [[H3808|I will not]] [[H5414|give you]] [[H776|any of their land,]] [[H5704|not even]] [[H4096|a footprint,]] [[H3588|because]] [[H5414|I have given]] [[H6215|Esau]] [[H2022|the hill country]] [[H8165|of Seir]] [[H3425|as his possession.]] ^0205
 
-Then the Lord said to me, ^0202
+[[H7666|You are to pay]] [[H853|them]] [[H3701|in silver]] [[H400|for the food]] [[H398|you eat]] [[H1571|and]] [[H4325|the water]] [[H8354|you drink.’”]] ^0206
 
-You have been traveling around this mountain country long enough. Turn northward ^0203
+[[H3588|Indeed,]] [[H3068|the LORD]] [[H430|your God]] [[H1288|has blessed]] [[H3605|you in all]] [[H4639|the work]] [[H3027|of your hands.]] [[H3045|He has watched over]] [[H1980|your journey]] [[H2088|through this]] [[H1419|vast]] [[H4057|wilderness.]] [[H3068|The LORD]] [[H430|your God]] [[H5973|has been with you]] [[H2088|these]] [[H705|forty]] [[H8141|years,]] [[H2637|and you have lacked]] [[H3808|nothing.]] ^0207
 
-and command the people, You are about to pass through the territory of your brothers, the people of Esau, who live in Seir; and they will be afraid of you. So be very careful. ^0204
+[[H5674|So we passed by]] [[H251|our brothers,]] [[H1121|the descendants]] [[H6215|of Esau,]] [[H3427|who live]] [[H8165|in Seir.]] [[H6437|We turned away]] [[H6160|from the Arabah]] [[H1870|road,]] [[H359|which comes up from Elath]] [[H6100|and Ezion-geber,]] [[H5674|and traveled]] [[H1870|along the road]] [[H4057|of the Wilderness]] [[H4124|of Moab.]] ^0208
 
-Do not contend with them, for I will not give you any of their land, no, not so much as for the sole of the foot to tread on, because I have given Mount Seir to Esau as a possession. ^0205
+[[H3068|Then the LORD]] [[H559|said]] [[H413|to me,]] [[H408|‘Do not]] [[H6696|harass]] [[H4124|the Moabites]] ⟨or⟩ [[H408|]] [[H1624|provoke them]] [[H4421|to war,]] [[H3588|for]] [[H3808|I will not]] [[H5414|give]] [[H776|you  any of their land,]] [[H3588|because]] [[H5414|I have given]] [[H6144|Ar]] [[H3425|as a possession]] [[H1121|to the descendants]] [[H3876|of Lot.]] ^0209
 
-You shall purchase food from them with money, that you may eat, and you shall also buy water from them with money, that you may drink. ^0206
+[[H368|(The Emites]] [[H6440|used to]] [[H3427|live]] [[H5971|there,  a people]] [[H1419|great]] [[H7227|and many,]] [[H7311|as tall]] [[H6062|as the Anakites.]] ^0210
 
-For the Lord your God has blessed you in all the work of your hands. He knows your going through this great wilderness. These forty years the Lord your God has been with you. You have lacked nothing. ^0207
+[[H6062|Like the Anakites,]] [[H637|they were also]] [[H2803|regarded]] [[H7497|as Rephaim,]] [[H4125|though the Moabites]] [[H7121|called]] [[H368|them  Emites.]] ^0211
 
-So we went on, away from our brothers, the people of Esau, who live in Seir, away from the Arabah road from Elath and Ezion-geber. And we turned and went in the direction of the wilderness of Moab. ^0208
+[[H2752|The Horites]] [[H6440|used to]] [[H3427|live]] [[H8165|in Seir,]] [[H1121|but the descendants]] [[H6215|of Esau]] [[H3423|drove them out,]] [[H8045|destroying them completely]] [[H3427|and settling]] [[H8478|in their place,]] [[H834|just as]] [[H3478|Israel]] [[H6213|did]] [[H776|in the land]] [[H3068|the LORD]] [[H5414|gave them]] [[H3425|as their possession.)]] ^0212
 
-And the Lord said to me, Do not harass Moab or contend with them in battle, for I will not give you any of their land for a possession, because I have given Ar to the people of Lot for a possession. ^0209
+[[H6258|Now]] [[H6965|arise]] [[H5674|and cross over]] [[H5158|the Brook]] [[H2218|of Zered.”]] [[H5674|So we crossed over]] [[H5158|the Brook]] [[H2218|of Zered.]] ^0213
 
-( The Emim formerly lived there, a people great and many, and tall as the Anakim. ^0210
+[[H3117|The time]] [[H1980|we spent traveling]] [[H6947|from  Kadesh-barnea]] [[H5704|until]] [[H5674|we crossed over]] [[H5158|the Brook]] [[H2218|of Zered]] [[H7970|was thirty-eight]] [[H8141|years,]] [[H5704|until]] [[H3605|that entire]] [[H1755|generation]] [[H4421|of fighting]] [[H376|men]] [[H8552|had perished]] [[H7130|from]] [[H4264|the camp,]] [[H834|as]] [[H3068|the LORD]] [[H7650|had sworn to them.]] ^0214
 
-Like the Anakim they are also counted as Rephaim, but the Moabites call them Emim. ^0211
+[[H1571|Indeed,]] [[H3068|the LORD’s]] [[H3027|hand]] [[H1961|was against them,]] [[H2000|to eliminate them]] [[H7130|from]] [[H4264|the camp,]] [[H5704|until]] [[H8552|they had all perished.]] ^0215
 
-The Horites also lived in Seir formerly, but the people of Esau dispossessed them and destroyed them from before them and settled in their place, as Israel did to the land of their possession, which the Lord gave to them.) ^0212
+[[H1961|Now]] [[H834|when]] [[H3605|all]] [[H4421|the fighting]] [[H582|men]] [[H7130|among]] [[H5971|the people]] [[H4191|had died,]] ^0216
 
-Now rise up and go over the brook Zered. So we went over the brook Zered. ^0213
+[[H3068|the LORD]] [[H1696|said]] [[H413|to me,]] ^0217
 
-And the time from our leaving Kadesh-barnea until we crossed the brook Zered was thirty-eight years, until the entire generation, that is, the men of war, had perished from the camp, as the Lord had sworn to them. ^0214
+[[H3117|“Today]] [[H859|you]] [[H5674|are going to cross]] [[H1366|the border]] [[H4124|of Moab]] [[H6144|at Ar.]] ^0218
 
-For indeed the hand of the Lord was against them, to destroy them from the camp, until they had perished. ^0215
+[[H7126|But when you get close]] [[H4136|to]] [[H1121|the Ammonites,]] [[H408|do not]] [[H6696|harass them]] [[H1624|or provoke them,]] [[H3588|for]] [[H3808|I will not]] [[H5414|give you]] [[H776|any of the land]] [[H1121|of the Ammonites,]] [[H3588|because]] [[H5414|I have given]] [[H3425|it as a possession]] [[H1121|to the descendants]] [[H3876|of Lot.]] ^0219
 
-So as soon as all the men of war had perished and were dead from among the people, ^0216
+[[H637|(That too]] [[H2803|was regarded]] [[H776|as the land]] [[H7497|of the Rephaim,]] ⟨who⟩ [[H7497|]] [[H3427|used to live there,]] [[H5984|though the Ammonites]] [[H7121|called]] [[H2157|them Zamzummites.]] ^0220
 
-the Lord said to me, ^0217
+⟨They were⟩ [[H5971|a people]] [[H1419|great]] [[H7227|and many,]] [[H7311|as tall]] [[H6062|as the Anakites.]] [[H3068|But the LORD]] [[H8045|destroyed them]] [[H6440|before]] ⟨the Ammonites⟩, [[H3423|who drove them out]] [[H3427|and settled]] [[H8478|in their place,]] ^0221
 
-Today you are to cross the border of Moab at Ar. ^0218
+[[H834|just as]] [[H6213|He had done]] [[H1121|for the descendants]] [[H6215|of Esau]] [[H3427|who lived]] [[H8165|in Seir,]] [[H834|when]] [[H8045|He destroyed]] [[H2752|the Horites]] [[H6440|before them.]] [[H3423|They drove them out]] [[H3427|and have lived]] [[H8478|in their place]] [[H5704|to]] [[H2088|this]] [[H3117|day.]] ^0222
 
-And when you approach the territory of the people of Ammon, do not harass them or contend with them, for I will not give you any of the land of the people of Ammon as a possession, because I have given it to the sons of Lot for a possession. ^0219
+[[H5757|And the Avvim,]] [[H3427|who lived]] [[H2699|in villages]] [[H5704|as]] [[H5804|far as Gaza,]] [[H8045|were destroyed by]] [[H3732|the Caphtorites,]] [[H3318|who came]] [[H3731|out of Caphtor]] [[H3427|and settled]] [[H8478|in their place.)]] ^0223
 
-(It is also counted as a land of Rephaim. Rephaim formerly lived there—but the Ammonites call them Zamzummim — ^0220
+[[H6965|Arise,]] [[H5265|set out,]] [[H5674|and cross]] [[H769|the Arnon]] [[H5158|Valley.]] [[H7200|See,]] [[H3027|I have handed]] [[H5511|Sihon]] [[H567|the Amorite,]] [[H4428|king]] [[H2809|of Heshbon,]] [[H776|and his land]] [[H5414|over to you.]] [[H2490|Begin]] [[H3423|to take possession of it]] [[H1624|and engage]] [[H4421|him  in battle.]] ^0224
 
-a people great and many, and tall as the Anakim; but the Lord destroyed them before the Ammonites, and they dispossessed them and settled in their place, ^0221
+[[H2088|This very]] [[H3117|day]] [[H2490|I will begin]] [[H5414|to put]] [[H6343|the dread]] [[H3374|and fear]] [[H5921|of you]] [[H3605|upon all]] [[H5971|the nations]] [[H8478|under]] [[H8064|heaven.]] [[H8085|They will hear]] [[H8088|the reports of you]] [[H7264|and tremble]] [[H2342|in anguish]] [[H6440|because of you.”]] ^0225
 
-as he did for the people of Esau, who live in Seir, when he destroyed the Horites before them and they dispossessed them and settled in their place even to this day. ^0222
+[[H4057|So from the Wilderness]] [[H6932|of Kedemoth]] [[H7971|I sent]] [[H4397|messengers]] [[H1697|with an offer]] [[H7965|of peace]] [[H413|to]] [[H5511|Sihon]] [[H4428|king]] [[H2809|of Heshbon,]] [[H559|saying,]] ^0226
 
-As for the Avvim, who lived in villages as far as Gaza, the Caphtorim, who came from Caphtor, destroyed them and settled in their place .) ^0223
+[[H5674|“Let us pass]] [[H776|through your land;]] [[H1870|we will stay on the main road.]] [[H3808|We will not]] [[H5493|turn]] [[H3225|to the right]] [[H8040|or to the left.]] ^0227
 
-Rise up, set out on your journey and go over the Valley of the Arnon. Behold, I have given into your hand Sihon the Amorite, king of Heshbon, and his land. Begin to take possession, and contend with him in battle. ^0224
+[[H7666|You can sell]] [[H400|us food]] [[H398|to eat]] ⟨and⟩ [[H5414|]] [[H4325|water]] [[H8354|to drink]] [[H3701|in exchange for silver.]] [[H7535|Only]] [[H5674|let us pass through]] [[H7272|on foot,]] ^0228
 
-This day I will begin to put the dread and fear of you on the peoples who are under the whole heaven, who shall hear the report of you and shall tremble and be in anguish because of you. ^0225
+[[H834|just as]] [[H1121|the descendants]] [[H6215|of Esau]] [[H3427|who live]] [[H8165|in Seir]] [[H4125|and the Moabites]] [[H3427|who live]] [[H6144|in Ar]] [[H6213|did for us,]] [[H5704|until]] [[H5674|we cross]] [[H3383|the Jordan]] [[H413|into]] [[H776|the land]] [[H3068|the LORD]] [[H430|our God]] [[H5414|is giving]] ^0229
 
-So I sent messengers from the wilderness of Kedemoth to Sihon the king of Heshbon, with words of peace, saying, ^0226
+[[H5511|But Sihon]] [[H4428|king]] [[H2809|of Heshbon]] [[H14|would]] [[H3808|not]] [[H5674|let us pass through,]] [[H3588|for]] [[H3068|the LORD]] [[H430|your God]] [[H7307|had made his spirit]] [[H7185|stubborn]] [[H3824|and his heart]] [[H553|obstinate,]] [[H4616|that]] [[H5414|He might give him]] [[H3027|into your hands,]] [[H2088|as is the case]] [[H3117|this day.]] ^0230
 
-Let me pass through your land. I will go only by the road; I will turn aside neither to the right nor to the left. ^0227
+[[H3068|Then the LORD]] [[H559|said]] [[H413|to me,]] [[H7200|“See,]] [[H2490|I have begun]] [[H5414|to deliver]] [[H5511|Sihon]] [[H776|and his land]] [[H6440|to you.]] [[H853|Now]] [[H2490|begin]] [[H3423|to conquer]] [[H3423|and possess]] [[H776|his land.”]] ^0231
 
-You shall sell me food for money, that I may eat, and give me water for money, that I may drink. Only let me pass through on foot, ^0228
+[[H5511|So Sihon]] [[H3605|and his whole]] [[H5971|army]] [[H3318|came out]] [[H4421|for battle]] [[H7125|against us]] [[H3096|at Jahaz.]] ^0232
 
-as the sons of Esau who live in Seir and the Moabites who live in Ar did for me, until I go over the Jordan into the land that the Lord our God is giving to us. ^0229
+[[H3068|And the LORD]] [[H430|our God]] [[H5414|delivered him over]] [[H6440|to us,]] [[H5221|and we defeated him]] [[H1121|and his sons]] [[H3605|and his whole]] [[H5971|army.]] ^0233
 
-But Sihon the king of Heshbon would not let us pass by him, for the Lord your God hardened his spirit and made his heart obstinate, that he might give him into your hand, as he is this day. ^0230
+[[H1931|At that]] [[H6256|time]] [[H3920|we captured]] [[H3605|all]] [[H5892|his cities]] [[H2763|and completely destroyed]] [[H4962|the people]] [[H3605|of every]] [[H5892|city,]] [[H802|including women]] [[H2945|and children.]] [[H7604|We left]] [[H3808|no]] [[H8300|survivors.]] ^0234
 
-And the Lord said to me, Behold, I have begun to give Sihon and his land over to you. Begin to take possession, that you may occupy his land. ^0231
+[[H7535|We carried off for ourselves only]] [[H929|the livestock]] [[H7998|and the plunder]] [[H5892|from the cities]] [[H3920|we captured.]] ^0235
 
-Then Sihon came out against us, he and all his people, to battle at Jahaz. ^0232
+[[H6177|From Aroer]] [[H5921|on]] [[H8193|the rim]] [[H769|of the Arnon]] [[H5158|Valley,]] [[H5892|along with the city]] [[H5158|in the valley,]] [[H5704|even as]] [[H1568|far as Gilead,]] [[H3808|not one]] [[H7151|city]] ⟨had walls⟩ [[H1961|]] [[H7682|too high]] [[H4480|for us.]] [[H3068|The LORD]] [[H430|our God]] [[H5414|gave]] [[H6440|us]] [[H3605|all of them.]] ^0236
 
-And the Lord our God gave him over to us, and we defeated him and his sons and all his people. ^0233
+[[H7535|But]] [[H3808|you did not]] [[H7126|go near]] [[H776|the land]] [[H1121|of the Ammonites,]] [[H3605|or]] ⟨the land⟩ [[H3027|along the banks]] [[H2999|of the Jabbok]] [[H5158|River,]] [[H5892|or the cities]] [[H2022|of the hill country,]] [[H3605|or any]] [[H834|place that]] [[H3068|the LORD]] [[H430|our God]] [[H6680|had forbidden.]] ^0237
 
-And we captured all his cities at that time and devoted to destruction every city, men, women, and children. We left no survivors. ^0234
+[[H6437|Then we turned]] [[H5927|and went up]] [[H1870|the road]] [[H1316|to Bashan,]] [[H5747|and Og]] [[H4428|king]] [[H1316|of Bashan]] [[H3605|and his whole]] [[H5971|army]] [[H3318|came out]] [[H7125|to meet us]] [[H4421|in battle]] [[H154|at Edrei.]] ^0301
 
-Only the livestock we took as spoil for ourselves, with the plunder of the cities that we captured. ^0235
+[[H3068|But the LORD]] [[H559|said]] [[H413|to me,]] [[H408|“Do not]] [[H3372|fear him,]] [[H3588|for]] [[H3027|I have handed him over to you]] [[H853|along with]] [[H3605|all]] [[H5971|his people]] [[H776|and his land.]] [[H6213|Do]] [[H834|to him as]] [[H6213|you did]] [[H5511|to Sihon]] [[H4428|king]] [[H567|of the Amorites,]] [[H834|who]] [[H3427|lived]] [[H2809|in Heshbon.”]] ^0302
 
-From Aroer, which is on the edge of the Valley of the Arnon, and from the city that is in the valley, as far as Gilead, there was not a city too high for us. The Lord our God gave all into our hands. ^0236
+[[H3068|So the LORD]] [[H430|our God]] [[H1571|also]] [[H5747|handed over Og]] [[H4428|king]] [[H1316|of Bashan]] [[H3605|and his whole]] [[H5971|army]] [[H5414|to]] [[H3027|us.]] [[H5221|We struck them down]] [[H1115|until no]] [[H8300|survivor]] [[H7604|was left.]] ^0303
 
-Only to the land of the sons of Ammon you did not draw near, that is, to all the banks of the river Jabbok and the cities of the hill country, whatever the Lord our God had forbidden us. ^0237
+[[H1931|At that]] [[H6256|time]] [[H3920|we captured]] [[H3605|all]] [[H8346|sixty]] [[H5892|of his cities.]] [[H3808|There was not]] [[H7151|a single city]] [[H3808|we failed to]] [[H3947|take—]] [[H3605|the entire]] [[H2256|region]] [[H709|of Argob,]] [[H4467|the kingdom]] [[H5747|of Og]] [[H1316|in Bashan.]] ^0304
 
+[[H3605|All]] [[H428|these]] [[H5892|cities]] [[H1219|were fortified]] [[H1364|with high]] [[H2346|walls]] [[H1817|and gates]] [[H1280|and bars,]] [[H905|and there were]] [[H7235|many more]] [[H6521|unwalled villages.]] ^0305
 
+[[H2763|We completely destroyed]] [[H853|them,]] [[H834|as]] [[H6213|we had done]] [[H5511|to Sihon]] [[H4428|king]] [[H2809|of Heshbon,]] [[H2763|destroying]] [[H4962|the men,]] [[H802|women,]] [[H2945|and children]] [[H3605|of every]] [[H5892|city.]] ^0306
 
-Then we turned and went up the way to Bashan. And Og the king of Bashan came out against us, he and all his people, to battle at Edrei. ^0301
+[[H3605|But all]] [[H929|the livestock]] [[H7998|and plunder]] [[H5892|of the cities]] [[H962|we carried off]] ^0307
 
-But the Lord said to me, Do not fear him, for I have given him and all his people and his land into your hand. And you shall do to him as you did to Sihon the king of the Amorites, who lived at Heshbon. ^0302
+[[H1931|At that]] [[H6256|time]] [[H3947|we took]] [[H3027|from]] [[H8147|the two]] [[H4428|kings]] [[H567|of the Amorites]] [[H776|the land]] [[H5676|across]] [[H3383|the Jordan,]] [[H769|from the Arnon]] [[H5158|Valley]] [[H5704|as]] [[H2022|far as Mount]] [[H2768|Hermon—]] ^0308
 
-So the Lord our God gave into our hand Og also, the king of Bashan, and all his people, and we struck him down until he had no survivor left. ^0303
+[[H6722|which the Sidonians]] [[H7121|call]] [[H8303|Sirion]] [[H567|but the Amorites]] [[H7121|call]] [[H8149|Senir—]] ^0309
 
-And we took all his cities at that time —there was not a city that we did not take from them—sixty cities, the whole region of Argob, the kingdom of Og in Bashan. ^0304
+[[H3605|all]] [[H5892|the cities]] [[H4334|of the plateau,]] ⟨all⟩ [[H1568|Gilead,]] [[H3605|and all]] [[H1316|Bashan]] [[H5704|as far as]] [[H5892|the cities]] [[H5548|of Salecah]] [[H154|and Edrei]] [[H4467|in the kingdom]] [[H5747|of Og.]] ^0310
 
-All these were cities fortified with high walls, gates, and bars, besides very many unwalled villages. ^0305
+[[H3588|(For]] [[H7535|only]] [[H5747|Og]] [[H4428|king]] [[H1316|of Bashan]] [[H7604|had remained]] [[H3499|of the remnant]] [[H7497|of the Rephaim.]] [[H6210|His bed]] [[H1270|of iron,]] [[H8672|nine]] [[H520|cubits]] [[H753|long]] [[H702|and four]] [[H520|cubits]] [[H7341|wide,]] ⟨is still⟩ [[H3808|]] [[H7237|in Rabbah]] [[H1121|of the Ammonites.)]] ^0311
 
-And we devoted them to destruction, as we did to Sihon the king of Heshbon, devoting to destruction every city, men, women, and children. ^0306
+[[H853|So]] [[H1931|at that]] [[H6256|time]] [[H3423|we took possession of]] [[H2063|this]] [[H776|land.]] [[H7206|To the Reubenites]] [[H1425|and Gadites]] [[H5414|I gave]] ⟨the land⟩ [[H6177|beyond Aroer]] [[H5921|along]] [[H769|the Arnon]] [[H5158|Valley,]] [[H2677|and half]] [[H2022|the hill country]] [[H1568|of Gilead,]] [[H5892|along with its cities.]] ^0312
 
-But all the livestock and the spoil of the cities we took as our plunder. ^0307
+[[H2677|To the half-tribe]] [[H4519|of Manasseh]] [[H5414|I gave]] [[H3499|the rest]] [[H1568|of Gilead]] [[H3605|and all]] [[H1316|of Bashan,]] [[H4467|the kingdom]] [[H5747|of Og.]] [[H3605|(The entire]] [[H2256|region]] [[H709|of Argob,]] [[H3605|the whole]] [[H1316|territory of Bashan,]] [[H7121|used to be called]] [[H776|the land]] [[H7497|of the Rephaim.)]] ^0313
 
-So we took the land at that time out of the hand of the two kings of the Amorites who were beyond the Jordan, from the Valley of the Arnon to Mount Hermon ^0308
+[[H2971|Jair,]] [[H1121|a descendant]] [[H4519|of Manasseh,]] [[H3947|took]] [[H3605|the whole]] [[H2256|region]] [[H709|of Argob]] [[H5704|as far as]] [[H1366|the border]] [[H1651|of the Geshurites]] [[H4602|and Maacathites.]] [[H7121|He named]] [[H1316|Bashan]] [[H5921|after]] [[H8034|himself,]] [[H2334|Havvoth-jair,]] [[H2088|by which]] ⟨it is called⟩ [[H3117|to this day.]] ^0314
 
-(the Sidonians call Hermon Sirion, while the Amorites call it Senir ), ^0309
+[[H4353|To Machir]] [[H5414|I gave]] [[H1568|Gilead,]] ^0315
 
-all the cities of the tableland and all Gilead and all Bashan, as far as Salecah and Edrei, cities of the kingdom of Og in Bashan. ^0310
+[[H7206|and to the Reubenites]] [[H1425|and Gadites]] [[H5414|I gave]] [[H4480|the territory from]] [[H1568|Gilead]] [[H5704|to]] [[H769|the Arnon]] [[H5158|Valley]] [[H8432|(the middle]] [[H5158|of the valley]] [[H1366|was the border)]] [[H5704|and up to]] [[H2999|the Jabbok]] [[H5158|River,]] [[H1366|the border]] [[H1121|of the Ammonites.]] ^0316
 
-(For only Og the king of Bashan was left of the remnant of the Rephaim. Behold, his bed was a bed of iron. Is it not in Rabbah of the Ammonites? Nine cubits was its length, and four cubits its breadth, according to the common cubit. ) ^0311
+[[H3383|The Jordan]] ⟨River⟩ [[H6160|in the Arabah]] [[H1366|bordered it]] [[H3672|from Chinnereth]] [[H5704|to]] [[H3220|the Sea]] [[H6160|of the Arabah]] [[H3220|(the Salt Sea]] [[H4417|)]] [[H8478|with]] [[H794|the slopes]] [[H6449|of Pisgah]] [[H4217|to the east.]] ^0317
 
-When we took possession of this land at that time, I gave to the Reubenites and the Gadites the territory beginning at Aroer, which is on the edge of the Valley of the Arnon, and half the hill country of Gilead with its cities. ^0312
+[[H1931|At that]] [[H6256|time]] [[H6680|I commanded]] [[H853|you:]] [[H3068|“The LORD]] [[H430|your God]] [[H5414|has given]] [[H2063|you this]] [[H776|land]] [[H3423|to possess.]] [[H3605|All]] [[H1121|your warriors]] [[H5674|are to cross over,]] [[H2502|armed for battle,]] [[H6440|ahead of]] [[H251|your brothers,]] [[H1121|the Israelites.]] ^0318
 
-The rest of Gilead, and all Bashan, the kingdom of Og, that is, all the region of Argob, I gave to the half-tribe of Manasseh. ( All that portion of Bashan is called the land of Rephaim. ^0313
+[[H7535|But]] [[H802|your wives,]] [[H2945|your children,]] [[H4735|and your livestock—]] [[H3045|I know]] [[H3588|that]] [[H7227|you have a lot of]] [[H4735|livestock—]] [[H3427|may remain]] [[H5892|in the cities]] [[H5414|I have given]] ^0319
 
-Jair the Manassite took all the region of Argob, that is, Bashan, as far as the border of the Geshurites and the Maacathites, and called the villages after his own name, Havvoth-jair, as it is to this day .) ^0314
+[[H5704|until]] [[H3068|the LORD]] [[H5117|gives rest]] [[H251|to your brothers]] [[H1992|as He has to you,  and they]] [[H1571|too]] [[H3423|have taken possession of]] [[H776|the land]] [[H3068|the LORD]] [[H430|your God]] [[H5414|is giving]] [[H1992|them,]] [[H5676|across]] [[H3383|the Jordan.]] [[H376|Then each]] [[H7725|of you may return]] [[H3425|to the possession]] [[H5414|I have given]] ^0320
 
-To Machir I gave Gilead, ^0315
+[[H853|And]] [[H1931|at that]] [[H6256|time]] [[H6680|I commanded]] [[H3091|Joshua:]] [[H5869|“Your own eyes]] [[H7200|have seen]] [[H3605|all]] [[H834|that]] [[H3068|the LORD]] [[H430|your God]] [[H6213|has done]] [[H428|to these]] [[H8147|two]] [[H4428|kings.]] [[H3068|The LORD]] [[H6213|will do]] [[H3651|the same]] [[H3605|to all]] [[H4467|the kingdoms]] [[H859|you]] [[H5674|are about to enter.]] ^0321
 
-and to the Reubenites and the Gadites I gave the territory from Gilead as far as the Valley of the Arnon, with the middle of the valley as a border, as far over as the river Jabbok, the border of the Ammonites; ^0316
+[[H3808|Do not]] [[H3372|be afraid of them,]] [[H3588|for]] [[H3068|the LORD]] [[H430|your God]] [[H1931|Himself]] [[H3898|will fight]] ^0322
 
-the Arabah also, with the Jordan as the border, from Chinnereth as far as the Sea of the Arabah, the Salt Sea, under the slopes of Pisgah on the east. ^0317
+[[H1931|At that]] [[H6256|time]] [[H2603|I also pleaded]] [[H3068|with the LORD:]] ^0323
 
-And I commanded you at that time, saying, The Lord your God has given you this land to possess. All your men of valor shall cross over armed before your brothers, the people of Israel. ^0318
+[[H136|“O Lord]] [[H3069|GOD,]] [[H859|You]] [[H2490|have begun]] [[H7200|to show]] [[H1433|Your greatness]] [[H3027|and power]] [[H5650|to Your servant.]] [[H834|For]] [[H4310|what]] [[H410|god]] [[H8064|in heaven]] [[H776|or on earth]] [[H6213|can perform]] [[H4639|such works]] [[H1369|and mighty acts]] ⟨as Yours⟩? ^0324
 
-Only your wives, your little ones, and your livestock (I know that you have much livestock ) shall remain in the cities that I have given you, ^0319
+[[H4994|Please]] [[H5674|let me cross over]] [[H7200|and see]] [[H2896|the beautiful]] [[H776|land]] [[H5676|beyond]] [[H3383|the Jordan—]] [[H2088|that]] [[H2896|wonderful]] [[H2022|hill country]] [[H3844|and Lebanon!”]] ^0325
 
-until the Lord gives rest to your brothers, as to you, and they also occupy the land that the Lord your God gives them beyond the Jordan. Then each of you may return to his possession which I have given you. ^0320
+[[H3068|But the LORD]] [[H5674|was angry]] [[H4616|with me on account of you,]] [[H3808|and He would not]] [[H8085|listen]] [[H413|to me.]] [[H7227|“That is enough,”]] [[H3068|the LORD]] [[H559|said]] [[H413|to me.]] [[H408|“Do not]] [[H1696|speak]] [[H413|to]] [[H3254|Me]] [[H5750|again]] [[H2088|about this]] [[H1697|matter.]] ^0326
 
-And I commanded Joshua at that time, Your eyes have seen all that the Lord your God has done to these two kings. So will the Lord do to all the kingdoms into which you are crossing. ^0321
+[[H5927|Go]] [[H7218|to the top]] [[H6449|of Pisgah]] [[H5375|and look]] [[H3220|to the west]] [[H6828|and north]] [[H8486|and south]] [[H4217|and east.]] [[H7200|See]] ⟨the land⟩ [[H5869|with your own eyes,]] [[H3588|for]] [[H3808|you will not]] [[H5674|cross]] [[H2088|this]] [[H3383|Jordan.]] ^0327
 
-You shall not fear them, for it is the Lord your God who fights for you. ^0322
+[[H6680|But commission]] [[H3091|Joshua,]] [[H2388|and encourage]] [[H553|and strengthen him,]] [[H3588|for]] [[H1931|he]] [[H5674|will cross over]] [[H6440|ahead of]] [[H2088|the]] [[H5971|people]] [[H5157|and enable them to inherit]] [[H776|the land]] [[H834|that]] [[H7200|you will see.”]] ^0328
 
-And I pleaded with the Lord at that time, saying, ^0323
+[[H3427|So we stayed]] [[H1516|in the valley]] [[H4136|opposite]] [[H1047|Beth-peor.]] ^0329
 
-O Lord God, you have only begun to show your servant your greatness and your mighty hand. For what god is there in heaven or on earth who can do such works and mighty acts as yours? ^0324
+[[H8085|Hear]] [[H6258|now,]] [[H3478|O Israel,]] [[H2706|the statutes]] [[H4941|and ordinances]] [[H595|I]] [[H3925|am teaching]] [[H853|you]] [[H6213|to follow]] [[H4616|so that]] [[H2421|you may live,]] [[H935|enter,]] [[H3423|and take possession of]] [[H776|the land]] [[H834|that]] [[H3068|the LORD,]] [[H430|the God]] [[H1|of your fathers,]] [[H5414|is giving you.]] ^0401
 
-Please let me go over and see the good land beyond the Jordan, that good hill country and Lebanon. ^0325
+[[H3808|You must not]] [[H3254|add]] [[H5921|to]] [[H1639|or subtract]] [[H4480|from]] [[H834|what]] [[H595|I]] [[H6680|command]] [[H853|you,]] [[H8104|so that you may keep]] [[H4687|the commandments]] [[H3068|of the LORD]] [[H430|your God]] [[H595|I]] [[H6680|am giving you.]] ^0402
 
-But the Lord was angry with me because of you and would not listen to me. And the Lord said to me, Enough from you; do not speak to me of this matter again. ^0326
+[[H5869|Your eyes]] [[H7200|have seen]] [[H834|what]] [[H3069|the LORD]] [[H6213|did]] [[H1187|at Baal-peor,]] [[H3588|for]] [[H3069|the LORD]] [[H430|your God]] [[H8045|destroyed]] [[H7130|from among you]] [[H3605|all]] [[H834|who]] [[H1980|followed]] [[H1187|Baal of Peor.]] ^0403
 
-Go up to the top of Pisgah and lift up your eyes westward and northward and southward and eastward, and look at it with your eyes, for you shall not go over this Jordan. ^0327
+[[H859|But you]] [[H1695|who held fast]] [[H3068|to the LORD]] [[H430|your God]] ⟨are⟩ [[H2416|alive]] [[H3117|to this day,]] [[H3605|every one of you.]] ^0404
 
-But charge Joshua, and encourage and strengthen him, for he shall go over at the head of this people, and he shall put them in possession of the land that you shall see. ^0328
+[[H7200|See,]] [[H3925|I have taught]] [[H853|you]] [[H2706|statutes]] [[H4941|and ordinances]] [[H834|just as]] [[H3068|the LORD]] [[H430|my God]] [[H6680|has commanded me,]] [[H6213|so that you may follow]] [[H7130|them in]] [[H776|the land]] [[H859|you]] [[H935|are about to enter]] [[H3423|and possess.]] ^0405
 
-So we remained in the valley opposite Beth-peor. ^0329
+[[H6213|Observe them]] [[H8104|carefully,]] [[H3588|for]] [[H1931|this]] [[H2451|will show your wisdom]] [[H998|and understanding]] [[H5869|in the sight]] [[H5971|of the peoples,]] [[H834|who]] [[H8085|shall hear]] [[H3605|of all]] [[H428|these]] [[H2706|statutes]] [[H559|and say,]] [[H7535|“Surely]] [[H2088|this]] [[H1419|great]] [[H1471|nation]] ⟨is⟩ [[H2450|a wise]] [[H995|and understanding]] [[H5971|people.]] ^0406
 
+[[H3588|For]] [[H4310|what]] [[H1471|nation]] ⟨is so⟩ [[H1419|great]] [[H834|as to have]] [[H430|a god]] ⟨as⟩ [[H7138|near]] [[H413|to them]] [[H3068|as the LORD]] [[H430|our God]] [[H3605|is to us whenever]] [[H7121|we call]] [[H413|on Him?]] ^0407
 
+[[H4310|And what]] [[H1471|nation]] ⟨is so⟩ [[H1419|great]] [[H6662|as to have righteous]] [[H2706|statutes]] [[H4941|and ordinances]] [[H2063|like this]] [[H3605|entire]] [[H8451|law]] [[H595|I]] [[H5414|set]] [[H6440|before you today?]] ^0408
 
-And now, O Israel, listen to the statutes and the rules that I am teaching you, and do them, that you may live, and go in and take possession of the land that the Lord, the God of your fathers, is giving you. ^0401
+[[H7535|Only]] [[H8104|be on your guard]] [[H3966|and diligently]] [[H8104|watch]] [[H5315|yourselves,]] [[H6435|so that you do not]] [[H7911|forget]] [[H1697|the things]] [[H5869|your eyes]] [[H7200|have seen,]] [[H6435|and so that they do not]] [[H5493|slip]] [[H3824|from your heart]] [[H3605|as]] [[H2416|long as you live.]] [[H3045|Teach]] [[H1121|them to your children]] [[H1121|and grandchildren.]] ^0409
 
-You shall not add to the word that I command you, nor take from it, that you may keep the commandments of the Lord your God that I command you. ^0402
+[[H3117|The day]] [[H5975|you stood]] [[H6440|before]] [[H3068|the LORD]] [[H430|your God]] [[H2722|at Horeb,]] [[H3068|the LORD]] [[H559|said]] [[H413|to me,]] [[H6950|“Gather]] [[H5971|the people]] [[H853|before Me]] [[H8085|to hear]] [[H1697|My words,]] [[H834|so that]] [[H3925|they may learn]] [[H3372|to fear]] [[H853|Me]] [[H3605|all]] [[H3117|the days]] [[H1992|they]] [[H2416|live]] [[H5921|on]] [[H127|the earth,]] [[H853|and that]] [[H3925|they may teach them]] [[H1121|to their children.]] ^0410
 
-Your eyes have seen what the Lord did at Baal-peor, for the Lord your God destroyed from among you all the men who followed the Baal of Peor. ^0403
+[[H7126|You came near]] [[H5975|and stood]] [[H8478|at the foot]] [[H2022|of the mountain,]] [[H2022|a mountain]] [[H1197|blazing]] [[H784|with fire]] [[H5704|to]] [[H8064|the heavens,]] [[H6051|with black clouds]] [[H6205|and deep]] [[H2822|darkness.]] ^0411
 
-But you who held fast to the Lord your God are all alive today. ^0404
+[[H3068|And the LORD]] [[H1696|spoke]] [[H413|to you]] [[H8432|out of]] [[H784|the fire.]] [[H859|You]] [[H8085|heard]] [[H6963|the sound]] [[H1697|of the words,]] [[H7200|but saw]] [[H369|no]] [[H8544|form;]] [[H2108|there was only]] [[H6963|a voice.]] ^0412
 
-See, I have taught you statutes and rules, as the Lord my God commanded me, that you should do them in the land that you are entering to take possession of it. ^0405
+[[H5046|He declared]] [[H853|to you]] [[H1285|His covenant,]] [[H6235|the Ten]] [[H1697|Commandments]] [[H6680|He commanded]] [[H6213|you to follow,]] [[H3789|which He wrote]] [[H5921|on]] [[H8147|two]] [[H3871|tablets]] [[H68|of stone.]] ^0413
 
-Keep them and do them, for that will be your wisdom and your understanding in the sight of the peoples, who, when they hear all these statutes, will say, Surely this great nation is a wise and understanding people. ^0406
+[[H1931|At that]] [[H6256|time]] [[H3068|the LORD]] [[H6680|commanded me]] [[H3925|to teach]] [[H853|you]] [[H2706|the statutes]] [[H4941|and ordinances]] [[H6213|you are to follow]] [[H776|in the land]] [[H8033|into which]] [[H859|you]] [[H5674|are crossing]] [[H3423|to possess.]] ^0414
 
-For what great nation is there that has a god so near to it as the Lord our God is to us, whenever we call upon him? ^0407
+[[H3588|So since]] [[H7200|you saw]] [[H3808|no]] [[H8544|form]] [[H3605|of any kind]] [[H3117|on the day]] [[H3068|the LORD]] [[H1696|spoke]] [[H413|to you]] [[H8432|out of]] [[H784|the fire]] [[H2722|at Horeb,]] [[H8104|be careful]] ^0415
 
-And what great nation is there, that has statutes and rules so righteous as all this law that I set before you today? ^0408
+[[H6435|that you do not]] [[H7843|act corruptly]] [[H6213|and make]] [[H6459|an idol]] [[H8544|for yourselves  of any form]] [[H3605|or]] [[H5566|shape,]] [[H8403|whether in the likeness]] [[H2145|of a male]] [[H176|or]] [[H5347|female,]] ^0416
 
-Only take care, and keep your soul diligently, lest you forget the things that your eyes have seen, and lest they depart from your heart all the days of your life. Make them known to your children and your children’s children — ^0409
+[[H3605|of any]] [[H929|beast]] [[H776|on the earth]] [[H6833|or bird]] [[H834|that]] [[H5774|flies]] [[H8064|in the air,]] ^0417
 
-how on the day that you stood before the Lord your God at Horeb, the Lord said to me, Gather the people to me, that I may let them hear my words, so that they may learn to fear me all the days that they live on the earth, and that they may teach their children so. ^0410
+⟨or⟩ [[H8403|]] [[H3605|of any]] [[H7430|creature that crawls]] [[H127|on the ground]] [[H3605|or]] [[H1710|fish]] [[H4325|in the waters]] [[H8478|below.]] ^0418
 
-And you came near and stood at the foot of the mountain, while the mountain burned with fire to the heart of heaven, wrapped in darkness, cloud, and gloom. ^0411
+[[H5375|When you look]] [[H8064|to the heavens]] [[H7200|and see]] [[H8121|the sun]] [[H853|and]] [[H3394|moon]] [[H3556|and stars—]] [[H3605|all]] [[H6635|the host]] [[H8064|of heaven—]] [[H6435|do not]] [[H5080|be enticed]] [[H7812|to bow down]] [[H5647|and worship]] [[H834|what]] [[H3068|the LORD]] [[H430|your God]] [[H2505|has apportioned]] [[H3605|to all]] [[H5971|the nations]] [[H8478|under]] [[H8064|heaven.]] ^0419
 
-Then the Lord spoke to you out of the midst of the fire. You heard the sound of words, but saw no form; there was only a voice. ^0412
+[[H3068|Yet the LORD]] [[H3947|has taken]] [[H853|you]] [[H3318|and brought]] [[H853|you]] [[H1270|out of the iron]] [[H3564|furnace,]] [[H4714|out of Egypt,]] [[H1961|to be]] [[H5971|the people]] [[H5159|of His inheritance,]] [[H3117|as you are today.]] ^0420
 
-And he declared to you his covenant, which he commanded you to perform, that is, the Ten Commandments, and he wrote them on two tablets of stone. ^0413
+[[H3068|The LORD, however,]] [[H599|was angry]] [[H5921|with me]] [[H1697|on account of you,]] [[H7650|and He swore]] [[H1115|that I would not]] [[H5674|cross]] [[H3383|the Jordan]] [[H935|and enter]] [[H2896|the good]] [[H776|land]] [[H834|that]] [[H3068|the LORD]] [[H430|your God]] [[H5414|is giving]] [[H5159|you  as an inheritance.]] ^0421
 
-And the Lord commanded me at that time to teach you statutes and rules, that you might do them in the land that you are going over to possess. ^0414
+[[H369|For I will not]] [[H5674|be crossing]] [[H3383|the Jordan,]] [[H3588|because]] [[H595|I]] [[H4191|must die]] [[H2063|in this]] [[H776|land.]] [[H859|But you]] [[H5674|shall cross over]] [[H3423|and take possession of]] [[H2063|that]] [[H2896|good]] [[H776|land.]] ^0422
 
-Therefore watch yourselves very carefully. Since you saw no form on the day that the Lord spoke to you at Horeb out of the midst of the fire, ^0415
+[[H8104|Be careful]] [[H6435|that you do not]] [[H7911|forget]] [[H1285|the covenant]] [[H3068|of the LORD]] [[H430|your God]] [[H834|that]] [[H3772|He made]] [[H5973|with you;]] [[H6213|do not make]] [[H6459|an idol]] [[H8544|for yourselves  in the form]] [[H3605|of anything]] [[H3068|He]] [[H6680|has forbidden you.]] ^0423
 
-beware lest you act corruptly by making a carved image for yourselves, in the form of any figure, the likeness of male or female, ^0416
+[[H3588|For]] [[H3068|the LORD]] [[H430|your God]] [[H398|is a consuming]] [[H784|fire,]] [[H7067|a jealous]] [[H410|God.]] ^0424
 
-the likeness of any animal that is on the earth, the likeness of any winged bird that flies in the air, ^0417
+[[H3588|After]] [[H3205|you have]] [[H1121|children]] [[H1121|and grandchildren]] [[H776|and you have been in the land]] [[H3462|a long time,]] [[H7843|if you then act corruptly]] [[H6213|and make]] [[H6459|an idol]] [[H8544|in the form]] [[H3605|of anything,]] [[H6213|doing]] [[H7451|evil]] [[H5869|in the sight]] [[H3068|of the LORD]] [[H430|your God]] ⟨and⟩ [[H3707|provoking Him to anger,]] ^0425
 
-the likeness of anything that creeps on the ground, the likeness of any fish that is in the water under the earth. ^0418
+[[H8064|I call heaven]] [[H776|and earth]] [[H5749|as witnesses]] [[H3117|against you this day]] [[H3588|that]] [[H4118|you will quickly]] [[H6|perish]] [[H5921|from]] [[H776|the land]] [[H859|you]] [[H5674|are crossing]] [[H3383|the Jordan]] [[H3423|to possess.]] [[H3808|You will not]] [[H748|live long]] [[H5921|upon it,]] [[H3588|but]] [[H8045|will be utterly destroyed.]] ^0426
 
-And beware lest you raise your eyes to heaven, and when you see the sun and the moon and the stars, all the host of heaven, you be drawn away and bow down to them and serve them, things that the Lord your God has allotted to all the peoples under the whole heaven. ^0419
+[[H3068|Then the LORD]] [[H6327|will scatter]] [[H5971|you among the peoples,]] [[H4962|and only a few of you]] [[H7604|will survive]] [[H1471|among the nations]] [[H834|to which]] [[H3068|the LORD]] [[H5090|will drive you.]] ^0427
 
-But the Lord has taken you and brought you out of the iron furnace, out of Egypt, to be a people of his own inheritance, as you are this day. ^0420
+[[H8033|And there]] [[H5647|you will serve]] [[H4639|man-made]] [[H430|gods]] [[H6086|of wood]] [[H68|and stone,]] [[H834|which]] [[H3808|cannot]] [[H7200|see]] ⟨or⟩ [[H3808|]] [[H8085|hear]] ⟨or⟩ [[H3808|]] [[H398|eat]] ⟨or⟩ [[H3808|]] [[H7306|smell.]] ^0428
 
-Furthermore, the Lord was angry with me because of you, and he swore that I should not cross the Jordan, and that I should not enter the good land that the Lord your God is giving you for an inheritance. ^0421
+[[H8033|But if from there]] [[H1245|you will seek]] [[H3068|the LORD]] [[H430|your God,]] [[H4672|you will find]] [[H3588|Him]] [[H1875|if you seek]] [[H3605|Him with all]] [[H3824|your heart]] [[H3605|and all]] [[H5315|your soul.]] ^0429
 
-For I must die in this land; I must not go over the Jordan. But you shall go over and take possession of that good land. ^0422
+[[H6862|When you are in distress]] [[H3605|and all]] [[H428|these]] [[H1697|things]] [[H4672|have happened to you,]] [[H319|then in later]] [[H3117|days]] [[H7725|you will return]] [[H5704|to]] [[H3068|the LORD]] [[H430|your God]] [[H8085|and listen]] [[H6963|to His voice.]] ^0430
 
-Take care, lest you forget the covenant of the Lord your God, which he made with you, and make a carved image, the form of anything that the Lord your God has forbidden you. ^0423
+[[H3588|For]] [[H3068|the LORD]] [[H430|your God]] ⟨is⟩ [[H7349|a merciful]] [[H410|God;]] [[H3808|He will not]] [[H7503|abandon you]] ⟨or⟩ [[H3808|]] [[H7843|destroy you]] ⟨or⟩ [[H3808|]] [[H7911|forget]] [[H1285|the covenant]] [[H1|with your fathers,]] [[H834|which]] [[H7650|He swore to them by oath.]] ^0431
 
-For the Lord your God is a consuming fire, a jealous God. ^0424
+[[H3588|Indeed,]] [[H7592|ask]] [[H4994|now]] [[H7097|from one end]] [[H8064|of the heavens]] [[H5704|to]] ⟨the other⟩ [[H7097|]] [[H3117|about the days]] [[H834|that]] [[H7223|long]] [[H1961|preceded]] [[H6440|you,]] [[H4480|from]] [[H3117|the day]] [[H834|that]] [[H430|God]] [[H1254|created]] [[H120|man]] [[H5921|on]] [[H776|earth:]] [[H2088|Has anything as]] [[H1419|great]] [[H1697|as this]] [[H1961|ever happened]] [[H176|or]] [[H8085|been reported?]] ^0432
 
-When you father children and children’s children, and have grown old in the land, if you act corruptly by making a carved image in the form of anything, and by doing what is evil in the sight of the Lord your God, so as to provoke him to anger, ^0425
+[[H5971|Has a people]] [[H8085|ever heard]] [[H6963|the voice]] [[H430|of God]] [[H1696|speaking]] [[H8432|out of]] [[H784|the fire,]] [[H834|as]] [[H859|you]] [[H8085|have,]] [[H2421|and lived?]] ^0433
 
-I call heaven and earth to witness against you today, that you will soon utterly perish from the land that you are going over the Jordan to possess. You will not live long in it, but will be utterly destroyed. ^0426
+[[H176|Or]] [[H430|has any god]] [[H5254|tried]] [[H3947|to take]] [[H1471|as his own  a nation]] [[H7130|out of]] [[H1471|another nation—]] [[H4531|by trials,]] [[H226|signs,]] [[H4159|wonders,]] [[H4421|and war,]] [[H2389|by a strong]] [[H3027|hand]] [[H5186|and an outstretched]] [[H2220|arm,]] [[H1419|and by great]] [[H4172|terrors—]] [[H3605|as]] [[H3068|the LORD]] [[H430|your God]] [[H6213|did]] [[H4714|for you in Egypt,]] [[H5869|before your eyes?]] ^0434
 
-And the Lord will scatter you among the peoples, and you will be left few in number among the nations where the Lord will drive you. ^0427
+[[H859|You]] [[H7200|were shown]] ⟨these things⟩ [[H3045|so that you would know]] [[H3588|that]] [[H3068|the LORD]] [[H430|is God;]] [[H369|there is no]] [[H5750|other]] [[H905|besides Him.]] ^0435
 
-And there you will serve gods of wood and stone, the work of human hands, that neither see, nor hear, nor eat, nor smell. ^0428
+[[H8085|He let you hear]] [[H6963|His voice]] [[H4480|from]] [[H8064|heaven]] [[H3256|to discipline you,]] [[H5921|and on]] [[H776|earth]] [[H7200|He showed]] [[H853|you]] [[H1419|His great]] [[H784|fire,]] [[H8085|and you heard]] [[H1697|His words]] [[H8432|out of]] [[H784|the fire.]] ^0436
 
-But from there you will seek the Lord your God and you will find him, if you search after him with all your heart and with all your soul. ^0429
+[[H8478|Because]] [[H157|He loved]] [[H1|your fathers,]] [[H977|He chose]] [[H2233|their descendants]] [[H310|after them]] [[H3318|and brought you]] [[H4714|out of Egypt]] [[H6440|by His presence]] [[H1419|and great]] [[H3581|power,]] ^0437
 
-When you are in tribulation, and all these things come upon you in the latter days, you will return to the Lord your God and obey his voice. ^0430
+[[H3423|to drive out]] [[H4480|before you]] [[H1471|nations]] [[H1419|greater]] [[H6099|and mightier]] ⟨than you⟩, [[H935|and to bring you]] [[H776|into their land]] [[H5414|and give it]] [[H5159|as your  inheritance,]] [[H3117|as it is today.]] ^0438
 
-For the Lord your God is a merciful God. He will not leave you or destroy you or forget the covenant with your fathers that he swore to them. ^0431
+[[H3045|Know therefore]] [[H3117|this day]] [[H7725|and take]] [[H413|to]] [[H3824|heart]] [[H3588|that]] [[H3068|the LORD]] [[H430|is God]] [[H8064|in heaven]] [[H4605|above]] [[H5921|and on]] [[H776|the earth]] [[H8478|below;]] [[H369|there is no]] [[H5750|other.]] ^0439
 
-For ask now of the days that are past, which were before you, since the day that God created man on the earth, and ask from one end of heaven to the other, whether such a great thing as this has ever happened or was ever heard of. ^0432
+[[H8104|Keep]] [[H2706|His statutes]] [[H4687|and commandments,]] [[H834|which]] [[H595|I]] [[H6680|am giving you today,]] [[H834|so that]] [[H1121|you and your children]] [[H310|after you]] [[H3190|may prosper,]] [[H4616|and that]] [[H748|you may live long]] [[H5921|in]] [[H127|the land]] [[H3068|the LORD]] [[H430|your God]] [[H5414|is giving]] [[H3605|you for all time.”]] ^0440
 
-Did any people ever hear the voice of a god speaking out of the midst of the fire, as you have heard, and still live? ^0433
+[[H227|Then]] [[H4872|Moses]] [[H914|set aside]] [[H7969|three]] [[H5892|cities]] [[H5676|across]] [[H3383|the Jordan]] [[H4217|to the east]] ^0441
 
-Or has any god ever attempted to go and take a nation for himself from the midst of another nation, by trials, by signs, by wonders, and by war, by a mighty hand and an outstretched arm, and by great deeds of terror, all of which the Lord your God did for you in Egypt before your eyes? ^0434
+[[H8033|to which]] [[H7523|a manslayer]] [[H5127|could flee]] [[H7523|after killing]] [[H7453|his neighbor]] [[H1097|unintentionally]] [[H3808|without]] [[H4480|prior]] [[H8130|malice.]] [[H2425|To save his own life,]] [[H5127|he could flee]] [[H413|to]] [[H259|one]] [[H411|of these]] [[H5892|cities:]] ^0442
 
-To you it was shown, that you might know that the Lord is God; there is no other besides him. ^0435
+[[H1221|Bezer]] [[H4057|in the wilderness]] [[H4334|on the plateau]] [[H7206|belonging to the Reubenites,]] [[H7216|Ramoth]] [[H1568|in Gilead]] [[H1425|belonging to the Gadites,]] [[H1474|or Golan]] [[H1316|in Bashan]] [[H4520|belonging to the Manassites.]] ^0443
 
-Out of heaven he let you hear his voice, that he might discipline you. And on earth he let you see his great fire, and you heard his words out of the midst of the fire. ^0436
+[[H2063|This]] [[H8451|is the law]] [[H4872|Moses]] [[H7760|set]] [[H6440|before]] [[H1121|the Israelites.]] ^0444
 
-And because he loved your fathers and chose their offspring after them and brought you out of Egypt with his own presence, by his great power, ^0437
+[[H428|These]] ⟨are⟩ [[H5713|the testimonies,]] [[H2706|statutes,]] [[H4941|and ordinances]] [[H4872|Moses]] [[H1696|proclaimed]] [[H413|to]] [[H1121|them]] [[H3318|after they had come out]] [[H4714|of Egypt,]] ^0445
 
-driving out before you nations greater and mightier than you, to bring you in, to give you their land for an inheritance, as it is this day, ^0438
+[[H1516|while they were in the valley]] [[H5676|across]] [[H3383|the Jordan]] [[H4136|facing]] [[H1047|Beth-peor]] [[H776|in the land]] [[H5511|of Sihon]] [[H4428|king]] [[H567|of the Amorites,]] [[H834|who]] [[H3427|lived]] [[H2809|in Heshbon]] [[H5221|and was defeated]] [[H4872|by Moses]] [[H1121|and the Israelites]] [[H3318|after they had come out]] [[H4714|of Egypt.]] ^0446
 
-know therefore today, and lay it to your heart, that the Lord is God in heaven above and on the earth beneath; there is no other. ^0439
+[[H3423|They took possession of]] [[H776|his land]] [[H776|and the land]] [[H5747|of Og]] [[H4428|king]] [[H1316|of Bashan—]] [[H8147|the two]] [[H567|Amorite]] [[H4428|kings]] [[H834|who]] [[H5676|were across]] [[H3383|the Jordan]] [[H4217|to the east—]] ^0447
 
-Therefore you shall keep his statutes and his commandments, which I command you today, that it may go well with you and with your children after you, and that you may prolong your days in the land that the Lord your God is giving you for all time. ^0440
+[[H6177|extending from Aroer]] [[H5921|on]] [[H8193|the rim]] [[H769|of the Arnon]] [[H5158|Valley]] [[H5704|as far as]] [[H2022|Mount]] [[H7865|Siyon]] [[H1931|(that is,]] [[H2768|Hermon),]] ^0448
 
-Then Moses set apart three cities in the east beyond the Jordan, ^0441
+[[H3605|including all]] [[H6160|the Arabah]] [[H4217|on the east]] [[H5676|side]] [[H3383|of the Jordan]] [[H5704|and as far as]] [[H3220|the sea]] [[H6160|of the Arabah,]] [[H8478|below]] [[H794|the slopes]] [[H6449|of Pisgah.]] ^0449
 
-that the manslayer might flee there, anyone who kills his neighbor unintentionally, without being at enmity with him in time past; he may flee to one of these cities and save his life : ^0442
+[[H4872|Then Moses]] [[H7121|summoned]] [[H3605|all]] [[H3478|Israel]] [[H559|and said]] [[H413|to them,]] [[H8085|“Hear,]] [[H3478|O Israel,]] [[H2706|the statutes]] [[H4941|and ordinances]] [[H834|that]] [[H595|I]] [[H1696|declare]] [[H241|in your hearing]] [[H3117|this day.]] [[H3925|Learn]] [[H853|them]] [[H6213|and observe]] [[H8104|them carefully.]] ^0501
 
-Bezer in the wilderness on the tableland for the Reubenites, Ramoth in Gilead for the Gadites, and Golan in Bashan for the Manassites. ^0443
+[[H3068|The LORD]] [[H430|our God]] [[H3772|made]] [[H1285|a covenant]] [[H5973|with]] [[H2722|us at Horeb.]] ^0502
 
-This is the law that Moses set before the people of Israel. ^0444
+[[H3068|He]] [[H3808|did not]] [[H3772|make]] [[H2063|this]] [[H1285|covenant]] [[H854|with]] [[H1|our fathers,]] [[H3588|but]] [[H854|with]] [[H3605|all]] [[H2416|of us who are alive]] [[H6311|here today.]] ^0503
 
-These are the testimonies, the statutes, and the rules, which Moses spoke to the people of Israel when they came out of Egypt, ^0445
+[[H3068|The LORD]] [[H1696|spoke]] [[H5973|to]] [[H6440|you face]] [[H6440|to face]] [[H8432|out of]] [[H784|the fire]] [[H2022|on the mountain.]] ^0504
 
-beyond the Jordan in the valley opposite Beth-peor, in the land of Sihon the king of the Amorites, who lived at Heshbon, whom Moses and the people of Israel defeated when they came out of Egypt. ^0446
+[[H1931|At that]] [[H6256|time]] [[H595|I]] [[H5975|was standing]] [[H996|between]] [[H3068|the LORD]] [[H996|and you]] [[H5046|to declare]] [[H1697|to you  the word]] [[H3068|of the LORD,]] [[H3588|because]] [[H3372|you were afraid]] [[H6440|of]] [[H784|the fire]] [[H3808|and would not]] [[H5927|go up]] [[H2022|the mountain.]] [[H559|And He said:]] ^0505
 
-And they took possession of his land and the land of Og, the king of Bashan, the two kings of the Amorites, who lived to the east beyond the Jordan; ^0447
+[[H595|“I]] [[H3068|am the LORD]] [[H430|your God,]] [[H834|who]] [[H3318|brought you out]] [[H776|of the land]] [[H4714|of Egypt,]] [[H1004|out of the house]] [[H5650|of slavery.]] ^0506
 
-from Aroer, which is on the edge of the Valley of the Arnon, as far as Mount Sirion (that is, Hermon ), ^0448
+[[H1961|You shall have]] [[H3808|no]] [[H312|other]] [[H430|gods]] [[H5921|before]] [[H6440|Me.]] ^0507
 
-together with all the Arabah on the east side of the Jordan as far as the Sea of the Arabah, under the slopes of Pisgah. ^0449
+[[H3808|You shall not]] [[H6213|make]] [[H6459|for yourself  an idol]] [[H8544|in the form]] [[H3605|of anything]] [[H8064|in the heavens]] [[H4605|above]] [[H776|or on the earth]] [[H8478|beneath]] [[H4325|or in the waters]] [[H8478|below.]] ^0508
 
+[[H3808|You shall not]] [[H7812|bow down]] [[H5647|to them  or worship them;]] [[H3588|for]] [[H595|I,]] [[H3068|the LORD]] [[H430|your God,]] [[H7067|am a jealous]] [[H410|God,]] [[H6485|visiting]] [[H5771|the iniquity]] [[H1|of the fathers]] [[H5921|on]] [[H1121|their children,]] [[H8029|to the third]] [[H7256|and fourth]] ⟨generations⟩ [[H8130|of those who hate Me,]] ^0509
 
+[[H6213|but showing]] [[H2617|loving devotion]] [[H505|to a thousand]] ⟨generations⟩ [[H157|of those who love Me]] [[H8104|and keep]] [[H4687|My commandments.]] ^0510
 
-And Moses summoned all Israel and said to them, Hear, O Israel, the statutes and the rules that I speak in your hearing today, and you shall learn them and be careful to do them. ^0501
+[[H3808|You shall not]] [[H5375|take]] [[H8034|the name]] [[H3068|of the LORD]] [[H430|your God]] [[H7723|in vain,]] [[H3588|for]] [[H3068|the LORD]] [[H3808|will not]] [[H5352|leave anyone unpunished]] [[H834|who]] [[H5375|takes]] [[H8034|His name]] [[H7723|in vain.]] ^0511
 
-The Lord our God made a covenant with us in Horeb. ^0502
+[[H8104|Remember]] [[H7676|the Sabbath]] [[H3117|day]] [[H6942|by keeping it holy,]] [[H834|as]] [[H3068|the LORD]] [[H430|your God]] [[H6680|has commanded you.]] ^0512
 
-Not with our fathers did the Lord make this covenant, but with us, who are all of us here alive today. ^0503
+[[H8337|Six]] [[H3117|days]] [[H5647|you shall labor]] [[H6213|and do]] [[H3605|all]] [[H4399|your work,]] ^0513
 
-The Lord spoke with you face to face at the mountain, out of the midst of the fire, ^0504
+[[H7637|but the seventh]] [[H3117|day]] [[H7676|is a Sabbath]] [[H3068|to the LORD]] [[H430|your God,]] [[H3808|on which you must not]] [[H6213|do]] [[H3605|any]] [[H4399|work—]] [[H859|neither you,]] [[H1121|nor your son]] ⟨or⟩ [[H1323|daughter,]] [[H5650|nor your manservant]] ⟨or⟩ [[H519|maidservant,]] [[H7794|nor your ox]] [[H2543|or donkey]] [[H3605|or any]] [[H929|of your livestock,]] [[H1616|nor the foreigner]] [[H8179|within your gates,]] [[H4616|so that]] [[H5650|your manservant]] [[H519|and maidservant]] [[H5117|may rest]] [[H3644|as you do.]] ^0514
 
-while I stood between the Lord and you at that time, to declare to you the word of the Lord. For you were afraid because of the fire, and you did not go up into the mountain. He said : ^0505
+[[H2142|Remember]] [[H3588|that]] [[H1961|you were]] [[H5650|a slave]] [[H776|in the land]] [[H4714|of Egypt,]] [[H3068|and that the LORD]] [[H430|your God]] [[H3318|brought you out]] [[H8033|of there]] [[H2389|with a mighty]] [[H3027|hand]] [[H5186|and outstretched]] [[H2220|arm.]] [[H5921|That is why]] [[H3068|the LORD]] [[H430|your God]] [[H6680|has commanded]] [[H6213|you to keep]] [[H7676|the Sabbath]] [[H3117|day.]] ^0515
 
-I am the Lord your God, who brought you out of the land of Egypt, out of the house of slavery. ^0506
+[[H3513|Honor]] [[H1|your father]] [[H517|and your mother,]] [[H834|as]] [[H3068|the LORD]] [[H430|your God]] [[H6680|has commanded you,]] [[H4616|so that]] [[H3117|your days]] [[H748|may be long]] [[H4616|and that]] [[H3190|it may go well]] [[H5921|with you  in]] [[H127|the land]] [[H3068|the LORD]] [[H430|your God]] [[H5414|is giving]] ^0516
 
-You shall have no other gods before me. ^0507
+[[HThou shalt not kill.|You shall not]] [[H3808|murder.]] [[H7523|]] ^0517
 
-You shall not make for yourself a carved image, or any likeness of anything that is in heaven above, or that is on the earth beneath, or that is in the water under the earth. ^0508
+[[HNeither shalt thou commit adultery.|You shall not]] [[H3808|commit adultery.]] [[H5003|]] ^0518
 
-You shall not bow down to them or serve them; for I the Lord your God am a jealous God, visiting the iniquity of the fathers on the children to the third and fourth generation of those who hate me, ^0509
+[[HNeither shalt thou steal.|You shall not]] [[H3808|steal.]] [[H1589|]] ^0519
 
-but showing steadfast love to thousands of those who love me and keep my commandments. ^0510
+[[H3808|You shall not]] [[H6030|bear]] [[H7723|FALSE]] [[H5707|witness]] [[H7453|against your neighbor.]] ^0520
 
-You shall not take the name of the Lord your God in vain, for the Lord will not hold him guiltless who takes his name in vain. ^0511
+[[H3808|You shall not]] [[H2530|covet]] [[H7453|your neighbor’s]] [[H802|wife.]] [[H183|You shall not covet]] [[H7453|your neighbor’s]] [[H1004|house]] [[H7704|or field,]] [[H5650|or his manservant]] [[H519|or maidservant,]] [[H7794|or his ox]] [[H2543|or donkey,]] [[H3605|or anything]] [[H834|that]] [[H7453|belongs to your neighbor.”]] ^0521
 
-Observe the Sabbath day, to keep it holy, as the Lord your God commanded you. ^0512
+[[H3068|The LORD]] [[H1696|spoke]] [[H428|these]] [[H1697|commandments]] [[H1419|in a loud]] [[H6963|voice]] [[H413|to]] [[H3605|your whole]] [[H6951|assembly]] [[H8432|out of]] [[H784|the fire,]] [[H6051|the cloud,]] [[H6205|and the deep darkness]] [[H2022|on the mountain;]] [[H3254|He added]] [[H3808|nothing more.]] [[H3789|And He wrote them]] [[H5921|on]] [[H8147|two]] [[H3871|tablets]] [[H68|of stone]] [[H5414|and gave]] [[H413|them to me.]] ^0522
 
-Six days you shall labor and do all your work, ^0513
+[[H8085|And when you heard]] [[H6963|the voice]] [[H8432|out of]] [[H2822|the darkness,]] [[H2022|while the mountain]] [[H1197|was blazing]] [[H784|with fire,]] [[H3605|all]] [[H7218|the heads]] [[H7626|of your tribes]] [[H2205|and your elders]] [[H7126|approached]] [[H413|me,]] ^0523
 
-but the seventh day is a Sabbath to the Lord your God. On it you shall not do any work, you or your son or your daughter or your male servant or your female servant, or your ox or your donkey or any of your livestock, or the sojourner who is within your gates, that your male servant and your female servant may rest as well as you. ^0514
+[[H559|and you said,]] [[H2005|“Behold,]] [[H3068|the LORD]] [[H430|our God]] [[H7200|has shown]] [[H3519|us His glory]] [[H1433|and greatness,]] [[H8085|and we have heard]] [[H6963|His voice]] [[H8432|out of]] [[H784|the fire.]] [[H3117|Today]] [[H7200|we have seen]] [[H3588|that]] [[H430|God]] [[H1696|can speak]] [[H854|with]] [[H120|a man,]] [[H2425|yet lives.]] ⟨the man⟩ ^0524
 
-You shall remember that you were a slave in the land of Egypt, and the Lord your God brought you out from there with a mighty hand and an outstretched arm. Therefore the Lord your God commanded you to keep the Sabbath day. ^0515
+[[H6258|But now,]] [[H4100|why]] [[H4191|should we die?]] [[H3588|For]] [[H2063|this]] [[H1419|great]] [[H784|fire]] [[H398|will consume us,]] [[H4191|and we will die,]] [[H518|if]] [[H587|we]] [[H8085|hear]] [[H6963|the voice]] [[H3068|of the LORD]] [[H430|our God]] [[H3254|any longer.]] ^0525
 
-Honor your father and your mother, as the Lord your God commanded you, that your days may be long, and that it may go well with you in the land that the Lord your God is giving you. ^0516
+[[H3588|For]] [[H4310|who]] [[H3605|of all]] [[H1320|flesh]] [[H8085|has heard]] [[H6963|the voice]] [[H2416|of the living]] [[H430|God]] [[H1696|speaking]] [[H8432|out of]] [[H784|the fire,]] [[H3644|as we]] ⟨have⟩, [[H2421|and survived?]] ^0526
 
-You shall not murder. ^0517
+[[H7126|Go near]] [[H8085|and listen]] [[H3605|to all]] [[H834|that]] [[H3068|the LORD]] [[H430|our God]] [[H559|says.]] [[H859|Then you]] [[H1696|can tell]] [[H3605|us everything]] [[H3068|the LORD]] [[H430|our God]] [[H1696|tells you;]] [[H8085|we will listen]] [[H6213|and obey.”]] ^0527
 
-And you shall not commit adultery. ^0518
+[[H3068|And the LORD]] [[H8085|heard]] [[H1697|the words]] [[H1696|you spoke]] [[H413|to me,]] [[H3068|and]] ⟨He⟩ [[H559|said]] [[H413|to me,]] [[H8085|“I have heard]] [[H1697|the words]] [[H834|that]] [[H2088|these]] [[H5971|people]] [[H1696|have spoken]] [[H413|to you.]] [[H3190|They have done well]] [[H3605|in all]] [[H834|that]] [[H1696|they have spoken.]] ^0528
 
-And you shall not steal. ^0519
+[[H4310|If only]] [[H1961|they had]] [[H2088|such]] [[H3824|a heart]] [[H3372|to fear]] [[H853|Me]] [[H8104|and keep]] [[H3605|all]] [[H4687|My commandments]] [[H3605|always,]] [[H4616|so that]] [[H3190|it might be well]] [[H1121|with them  and their children]] [[H5769|forever.]] ^0529
 
-And you shall not bear false witness against your neighbor. ^0520
+[[H1980|Go]] [[H559|and tell them:]] [[H7725|‘Return]] [[H168|to your tents.’]] ^0530
 
-And you shall not covet your neighbor’s wife. And you shall not desire your neighbor’s house, his field, or his male servant, or his female servant, his ox, or his donkey, or anything that is your neighbor’s. ^0521
+[[H859|But you]] [[H5975|stand]] [[H6311|here]] [[H5978|with Me,]] [[H1696|that I may speak]] [[H413|to you]] [[H3605|all]] [[H4687|the commandments]] [[H2706|and statutes]] [[H4941|and ordinances]] [[H3925|you are to teach them]] [[H6213|to follow]] [[H776|in the land]] [[H595|I]] [[H5414|am giving]] [[H3423|them  to possess.”]] ^0531
 
-These words the Lord spoke to all your assembly at the mountain out of the midst of the fire, the cloud, and the thick darkness, with a loud voice; and he added no more. And he wrote them on two tablets of stone and gave them to me. ^0522
+[[H8104|So be careful]] [[H6213|to do]] [[H834|as]] [[H3068|the LORD]] [[H430|your God]] [[H6680|has commanded you;]] [[H3808|you are not]] [[H5493|to turn aside]] [[H3225|to the right]] [[H8040|or to the left.]] ^0532
 
-And as soon as you heard the voice out of the midst of the darkness, while the mountain was burning with fire, you came near to me, all the heads of your tribes, and your elders. ^0523
+[[H1980|You must walk]] [[H3605|in all]] [[H1870|the ways]] [[H834|that]] [[H3068|the LORD]] [[H430|your God]] [[H6680|has commanded you,]] [[H4616|so that]] [[H2421|you may live]] [[H2895|and prosper]] [[H748|and prolong]] ⟨your⟩ [[H3117|days]] [[H776|in the land]] [[H3423|you will possess.]] ^0533
 
-And you said, Behold, the Lord our God has shown us his glory and greatness, and we have heard his voice out of the midst of the fire. This day we have seen God speak with man, and man still live. ^0524
+[[H2063|These are]] [[H4687|the commandments]] [[H2706|and statutes]] [[H4941|and ordinances]] [[H834|that]] [[H3068|the LORD]] [[H430|your God]] [[H6680|has instructed]] [[H3925|me to teach you]] [[H6213|to follow]] [[H776|in the land]] [[H859|you]] [[H5674|are about to enter]] [[H3423|and possess,]] ^0601
 
-Now therefore why should we die? For this great fire will consume us. If we hear the voice of the Lord our God any more, we shall die. ^0525
+[[H4616|so that you]] [[H1121|and your children]] [[H1121|and grandchildren]] [[H3372|may fear]] [[H3068|the LORD]] [[H430|your God]] [[H3605|all]] [[H3117|the days]] [[H2416|of your lives]] [[H8104|by keeping]] [[H3605|all]] [[H2708|His statutes]] [[H4687|and commandments]] [[H834|that]] [[H595|I]] [[H6680|give]] [[H859|you,]] [[H4616|and so that]] [[H3117|your days]] [[H748|may be prolonged.]] ^0602
 
-For who is there of all flesh, that has heard the voice of the living God speaking out of the midst of fire as we have, and has still lived? ^0526
+[[H8085|Hear,]] [[H3478|O Israel,]] [[H8104|and be careful]] [[H6213|to observe them,]] [[H834|so that]] [[H3190|you may prosper]] [[H7235|and multiply]] [[H3966|greatly]] [[H776|in a land]] [[H2100|flowing]] [[H2461|with milk]] [[H1706|and honey,]] [[H834|just as]] [[H3068|the LORD,]] [[H430|the God]] [[H1|of your fathers,]] [[H1696|has promised]] ^0603
 
-Go near and hear all that the Lord our God will say, and speak to us all that the Lord our God will speak to you, and we will hear and do it. ^0527
+[[H8085|Hear,]] [[H3478|O Israel:]] [[H3068|The LORD]] [[H430|our God,]] [[H3068|the LORD]] [[H259|is One.]] ^0604
 
-And the Lord heard your words, when you spoke to me. And the Lord said to me, I have heard the words of this people, which they have spoken to you. They are right in all that they have spoken. ^0528
+[[H157|And you shall love]] [[H3068|the LORD]] [[H430|your God]] [[H3605|with all]] [[H3824|your heart]] [[H3605|and with all]] [[H5315|your soul]] [[H3605|and with all]] [[H3966|your strength.]] ^0605
 
-Oh that they had such a heart as this always, to fear me and to keep all my commandments, that it might go well with them and with their descendants forever! ^0529
+[[H428|These]] [[H1697|words]] [[H595|I]] [[H6680|am commanding you]] [[H3117|today]] [[H1961|are to be]] [[H5921|upon]] [[H3824|your hearts.]] ^0606
 
-Go and say to them, Return to your tents. ^0530
+[[H8150|And you shall teach them diligently]] [[H1121|to your children]] [[H1696|and speak of them]] [[H3427|when you sit]] [[H1004|in your house]] [[H1980|and when you walk]] [[H1870|along the road,]] [[H7901|when you lie down]] [[H6965|and when you get up.]] ^0607
 
-But you, stand here by me, and I will tell you the whole commandment and the statutes and the rules that you shall teach them, that they may do them in the land that I am giving them to possess. ^0531
+[[H7194|Tie them]] [[H226|as reminders]] [[H5921|on]] [[H3027|your hands]] [[H1961|and bind them]] [[H996|on your foreheads.]] ^0608
 
-You shall be careful therefore to do as the Lord your God has commanded you. You shall not turn aside to the right hand or to the left. ^0532
+[[H3789|Write]] [[H5921|them on]] [[H4201|the doorposts]] [[H1004|of your houses]] [[H8179|and on your gates.]] ^0609
 
-You shall walk in all the way that the Lord your God has commanded you, that you may live, and that it may go well with you, and that you may live long in the land that you shall possess. ^0533
+[[H3588|And when]] [[H3068|the LORD]] [[H430|your God]] [[H935|brings]] [[H413|you into]] [[H776|the land]] [[H7650|He swore]] [[H1|to your fathers,]] [[H85|to Abraham,]] [[H3327|Isaac,]] [[H3290|and Jacob,]] [[H5414|that He would give]] [[H1419|you— great]] ⟨a land with⟩ [[H2896|and splendid]] [[H5892|cities]] [[H834|that]] [[H3808|you did not]] [[H1129|build,]] ^0610
 
+[[H1004|with houses]] [[H4392|full of]] [[H3605|every]] [[H2898|good]] [[H834|thing with which]] [[H3808|you did not]] [[H4390|fill them,]] [[H953|with wells]] [[H834|that]] [[H3808|you did not]] [[H2672|dig,]] [[H3754|and with vineyards]] [[H2132|and olive groves]] [[H834|that]] [[H3808|you did not]] [[H5193|plant—]] [[H398|and when you eat]] [[H7646|and are satisfied,]] ^0611
 
+[[H8104|be careful]] [[H6435|not]] [[H7911|to forget]] [[H3068|the LORD]] [[H834|who]] [[H3318|brought you out]] [[H776|of the land]] [[H4714|of Egypt,]] [[H1004|out of the house]] [[H5650|of slavery.]] ^0612
 
-Now this is the commandment —the statutes and the rules — that the Lord your God commanded me to teach you, that you may do them in the land to which you are going over, to possess it, ^0601
+[[H3372|Fear]] [[H3068|the LORD]] [[H430|your God,]] [[H5647|serve Him,]] [[H7650|and take your oaths]] [[H8034|using only His name.]] ^0613
 
-that you may fear the Lord your God, you and your son and your son’s son, by keeping all his statutes and his commandments, which I command you, all the days of your life, and that your days may be long. ^0602
+[[H3808|Do not]] [[H1980|follow]] [[H312|other]] [[H430|gods,]] [[H430|the gods]] [[H5971|of the peoples]] [[H5439|around you.]] ^0614
 
-Hear therefore, O Israel, and be careful to do them, that it may go well with you, and that you may multiply greatly, as the Lord, the God of your fathers, has promised you, in a land flowing with milk and honey. ^0603
+[[H3588|For]] [[H3068|the LORD]] [[H430|your God,]] [[H7130|who is among you,]] [[H7067|is a jealous]] [[H410|God.]] [[H6435|Otherwise,]] [[H639|the anger]] [[H3068|of the LORD]] [[H430|your God]] [[H2734|will be kindled against you,]] [[H8045|and He will wipe you]] [[H5921|off]] [[H6440|the face]] [[H127|of the earth.]] ^0615
 
-Hear, O Israel : The Lord our God, the Lord is one. ^0604
+[[H3808|Do not]] [[H5254|test]] [[H3068|the LORD]] [[H430|your God]] [[H834|as]] [[H5254|you tested Him]] [[H4532|at Massah.]] ^0616
 
-You shall love the Lord your God with all your heart and with all your soul and with all your might. ^0605
+[[H8104|You are to diligently]] [[H8104|keep]] [[H4687|the commandments]] [[H3068|of the LORD]] [[H430|your God]] [[H5713|and the testimonies]] [[H2706|and statutes]] [[H6680|He has commanded you.]] ^0617
 
-And these words that I command you today shall be on your heart. ^0606
+[[H6213|Do]] [[H3477|what is right]] [[H2896|and good]] [[H5869|in the sight]] [[H3068|of the LORD,]] [[H4616|so that]] [[H3190|it may be well]] [[H935|with you  and that you may enter]] [[H3423|and possess]] [[H2896|the good]] [[H776|land]] [[H3068|which the LORD]] [[H7650|your God swore]] [[H1|to give your fathers,]] ^0618
 
-You shall teach them diligently to your children, and shall talk of them when you sit in your house, and when you walk by the way, and when you lie down, and when you rise. ^0607
+[[H1920|driving out]] [[H3605|all]] [[H341|your enemies]] [[H6440|before you,]] [[H834|as]] [[H3068|the LORD]] [[H1696|has said.]] ^0619
 
-You shall bind them as a sign on your hand, and they shall be as frontlets between your eyes. ^0608
+[[H4279|In the future,]] [[H3588|when]] [[H1121|your son]] [[H7592|asks you,]] [[H4100|“What]] [[H5713|is the meaning of the decrees]] [[H2706|and statutes]] [[H4941|and ordinances]] [[H3068|the LORD]] [[H430|our God]] [[H6680|has commanded you?”]] ^0620
 
-You shall write them on the doorposts of your house and on your gates. ^0609
+[[H559|then you are to tell]] [[H1121|him,]] [[H1961|“We were]] [[H5650|slaves]] [[H6547|of Pharaoh]] [[H4714|in Egypt,]] [[H3068|but the LORD]] [[H3318|brought us out]] [[H4714|of Egypt]] [[H2389|with a mighty]] [[H3027|hand.]] ^0621
 
-And when the Lord your God brings you into the land that he swore to your fathers, to Abraham, to Isaac, and to Jacob, to give you—with great and good cities that you did not build, ^0610
+[[H5869|Before our eyes]] [[H3068|the LORD]] [[H5414|inflicted]] [[H1419|great]] [[H7451|and devastating]] [[H226|signs]] [[H4159|and wonders]] [[H4714|on Egypt,]] [[H6547|on Pharaoh,]] [[H3605|and on all]] [[H1004|his household,]] ^0622
 
-and houses full of all good things that you did not fill, and cisterns that you did not dig, and vineyards and olive trees that you did not plant —and when you eat and are full, ^0611
+[[H3318|but He brought us]] [[H8033|from there]] [[H4616|to]] [[H935|lead us in]] [[H5414|and give]] [[H776|us the land]] [[H834|that]] [[H7650|He had sworn]] [[H1|to our fathers.]] ^0623
 
-then take care lest you forget the Lord, who brought you out of the land of Egypt, out of the house of slavery. ^0612
+[[H3068|And the LORD]] [[H6680|commanded us]] [[H6213|to observe]] [[H3605|all]] [[H428|these]] [[H2706|statutes]] [[H3372|and to fear]] [[H3068|the LORD]] [[H430|our God,]] [[H2896|that we might always prosper]] [[H2421|and be preserved,]] ⟨as we are⟩ [[H3117|this day.]] ^0624
 
-It is the Lord your God you shall fear. Him you shall serve and by his name you shall swear. ^0613
+[[H8104|And if we are careful]] [[H6213|to observe]] [[H3605|every]] [[H2063|one of these]] [[H4687|commandments]] [[H6440|before]] [[H3068|the LORD]] [[H430|our God]] [[H834|just as]] [[H6680|He has commanded us,]] [[H3588|then that]] [[H1961|will be]] [[H6666|our  righteousness.”]] ^0625
 
-You shall not go after other gods, the gods of the peoples who are around you— ^0614
+[[H3588|When]] [[H3068|the LORD]] [[H430|your God]] [[H935|brings]] [[H413|you into]] [[H776|the land]] [[H859|you]] [[H935|are entering]] [[H3423|to possess,]] [[H5394|and He drives out]] [[H4480|before]] [[H6440|you]] [[H7227|many]] [[H1471|nations—]] [[H2850|the Hittites,]] [[H1622|Girgashites,]] [[H567|Amorites,]] [[H3669|Canaanites,]] [[H6522|Perizzites,]] [[H2340|Hivites]] [[H2983|and Jebusites,]] [[H7651|seven]] [[H1471|nations]] [[H7227|larger]] [[H6099|and stronger —]] ⟨than you⟩ ^0701
 
-for the Lord your God in your midst is a jealous God — lest the anger of the Lord your God be kindled against you, and he destroy you from off the face of the earth. ^0615
+[[H3068|and when the LORD]] [[H430|your God]] [[H5414|has delivered them over]] [[H6440|to you]] [[H5221|to defeat them,]] [[H2763|then you must completely destroy them.]] [[H3772|Make]] [[H3808|no]] [[H1285|treaty]] [[H3808|with them  and show them no]] [[H2603|mercy.]] ^0702
 
-You shall not put the Lord your God to the test, as you tested him at Massah. ^0616
+[[H3808|Do not]] [[H2859|intermarry with them.]] [[H3808|Do not]] [[H5414|give]] [[H1323|your daughters]] [[H1121|to their sons]] [[H3947|or take]] [[H1323|their daughters]] [[H1121|for your sons,]] ^0703
 
-You shall diligently keep the commandments of the Lord your God, and his testimonies and his statutes, which he has commanded you. ^0617
+[[H3588|because]] [[H1121|they will turn your sons]] [[H5493|away]] [[H310|from following Me]] [[H5647|to serve]] [[H312|other]] [[H430|gods.]] [[H639|Then the anger]] [[H3068|of the LORD]] [[H2734|will burn against you,]] [[H4118|and He will swiftly]] [[H8045|destroy you.]] ^0704
 
-And you shall do what is right and good in the sight of the Lord, that it may go well with you, and that you may go in and take possession of the good land that the Lord swore to give to your fathers ^0618
+[[H3588|Instead,]] [[H3541|this is what]] [[H6213|you are to do to them:]] [[H5422|tear down]] [[H4196|their altars,]] [[H7665|smash]] [[H4676|their sacred pillars,]] [[H1438|cut down]] [[H842|their Asherah poles,]] [[H8313|and burn]] [[H6456|their idols]] [[H784|in the fire.]] ^0705
 
-by thrusting out all your enemies from before you, as the Lord has promised. ^0619
+[[H3588|For]] [[H859|you]] [[H5971|are a people]] [[H6918|holy]] [[H3068|unto the LORD]] [[H430|your God.]] [[H3068|The LORD]] [[H430|your God]] [[H977|has chosen]] [[H1961|you to be]] [[H5971|as a people]] [[H5459|for His prized possession,]] [[H3605|above all]] [[H5971|peoples]] [[H5921|on]] [[H6440|the face]] [[H127|of the earth.]] ^0706
 
-When your son asks you in time to come, What is the meaning of the testimonies and the statutes and the rules that the Lord our God has commanded you? ^0620
+[[H3068|The LORD]] [[H3808|did not]] [[H2836|set His affection on you]] ⟨and⟩ [[H977|choose you]] [[H7230|because you were more numerous]] [[H3605|than the other]] [[H5971|peoples,]] [[H3588|for]] [[H859|you]] [[H4592|were the fewest]] [[H3605|of all]] [[H5971|peoples.]] ^0707
 
-then you shall say to your son, We were Pharaoh’s slaves in Egypt. And the Lord brought us out of Egypt with a mighty hand. ^0621
+[[H3588|But]] [[H3068|because the LORD]] [[H160|loved]] [[H853|you]] [[H8104|and kept]] [[H7621|the oath]] [[H7650|He swore]] [[H1|to your fathers,]] [[H3068|He]] [[H3318|brought you out]] [[H2389|with a mighty]] [[H3027|hand]] [[H6299|and redeemed you]] [[H1004|from the house]] [[H5650|of slavery,]] [[H3027|from the hand]] [[H6547|of Pharaoh]] [[H4428|king]] [[H4714|of Egypt.]] ^0708
 
-And the Lord showed signs and wonders, great and grievous, against Egypt and against Pharaoh and all his household, before our eyes. ^0622
+[[H3045|Know therefore]] [[H3588|that]] [[H3068|the LORD]] [[H430|your God]] [[H430|is God,]] [[H539|the faithful]] [[H410|God]] [[H8104|who keeps]] [[H1285|His covenant]] [[H2617|with loving devotion]] [[H505|for a thousand]] [[H1755|generations]] [[H157|of those who love Him]] [[H8104|and keep]] [[H4687|His commandments.]] ^0709
 
-And he brought us out from there, that he might bring us in and give us the land that he swore to give to our fathers. ^0623
+[[H8130|But those who hate Him]] [[H7999|He repays]] [[H413|to]] [[H6440|their faces]] [[H6|with destruction;]] [[H3808|He will not]] [[H309|hesitate]] [[H7999|to repay]] [[H413|to]] [[H6440|his face]] [[H8130|the one who hates Him.]] ^0710
 
-And the Lord commanded us to do all these statutes, to fear the Lord our God, for our good always, that he might preserve us alive, as we are this day. ^0624
+[[H8104|So keep]] [[H4687|the commandments]] [[H853|and]] [[H2706|statutes]] [[H853|and]] [[H4941|ordinances]] [[H834|that]] [[H595|I]] [[H6680|am giving you]] [[H6213|to follow]] [[H3117|this day.]] ^0711
 
-And it will be righteousness for us, if we are careful to do all this commandment before the Lord our God, as he has commanded us. ^0625
+[[H6118|If]] [[H8085|you listen to]] [[H428|these]] [[H4941|ordinances]] [[H8104|and keep them carefully,]] [[H3068|the LORD]] [[H430|your God]] [[H8104|will keep]] [[H1285|His covenant]] [[H2617|with loving devotion,]] [[H7650|as He swore]] [[H1|to your fathers.]] ^0712
 
+[[H157|He will love you]] [[H1288|and bless you]] [[H7235|and multiply you.]] [[H1288|He will bless]] [[H6529|the fruit]] [[H990|of your womb]] [[H6529|and the produce]] [[H127|of your land—]] [[H1715|your grain,]] [[H8492|new wine,]] [[H3323|and oil—]] [[H504|the young of your herds,]] [[H6251|and the newborn]] [[H6629|of your flocks,]] [[H5921|in]] [[H127|the land]] [[H834|that]] [[H7650|He swore]] [[H1|to your fathers]] [[H5414|to give you.]] ^0713
 
+[[H1961|You will be]] [[H1288|blessed]] [[H3605|above all]] [[H5971|peoples;]] [[H1961|among you  there will be]] [[H3808|no]] [[H6135|barren man]] [[H6135|or woman]] [[H929|or livestock.]] ^0714
 
-When the Lord your God brings you into the land that you are entering to take possession of it, and clears away many nations before you, the Hittites, the Girgashites, the Amorites, the Canaanites, the Perizzites, the Hivites, and the Jebusites, seven nations more numerous and mightier than you, ^0701
+[[H3068|And the LORD]] [[H5493|will remove]] [[H4480|from you]] [[H3605|all]] [[H2483|sickness.]] [[H3808|He will not]] [[H7760|lay]] [[H3605|upon you  any]] [[H7451|of the terrible]] [[H4064|diseases]] [[H3045|you knew]] [[H4714|in Egypt,]] [[H5414|but He will inflict them]] [[H3605|on all]] [[H8130|who hate you.]] ^0715
 
-and when the Lord your God gives them over to you, and you defeat them, then you must devote them to complete destruction. You shall make no covenant with them and show no mercy to them. ^0702
+[[H398|You must destroy]] [[H3605|all]] [[H5971|the peoples]] [[H3068|the LORD]] [[H430|your God]] [[H5414|will deliver]] [[H3808|to you.  Do not]] [[H5869|look on them]] [[H2347|with pity.]] [[H3808|Do not]] [[H5647|worship]] [[H430|their gods,]] [[H3588|for]] [[H1931|that]] [[H4170|will be a snare]] ^0716
 
-You shall not intermarry with them, giving your daughters to their sons or taking their daughters for your sons, ^0703
+[[H559|You may say]] [[H3824|in your heart,]] [[H428|“These]] [[H1471|nations]] [[H7227|are greater]] [[H4480|than we are;]] [[H349|how]] [[H3201|can]] [[H3423|we drive them out?”]] ^0717
 
-for they would turn away your sons from following me, to serve other gods. Then the anger of the Lord would be kindled against you, and he would destroy you quickly. ^0704
+[[H3808|But do not]] [[H3372|be afraid]] [[H1992|of them.]] [[H2142|Be sure to remember]] [[H834|what]] [[H3068|the LORD]] [[H430|your God]] [[H6213|did]] [[H6547|to Pharaoh]] [[H3605|and all]] [[H4714|Egypt:]] ^0718
 
-But thus shall you deal with them: you shall break down their altars and dash in pieces their pillars and chop down their Asherim and burn their carved images with fire. ^0705
+[[H1419|the great]] [[H4531|trials]] [[H834|that]] [[H5869|you]] [[H7200|saw,]] [[H226|the signs]] [[H4159|and wonders,]] [[H2389|and the mighty]] [[H3027|hand]] [[H5186|and outstretched]] [[H2220|arm]] [[H834|by which]] [[H3068|the LORD]] [[H430|your God]] [[H3318|brought you out.]] [[H3068|The LORD]] [[H430|your God]] [[H6213|will do]] [[H3651|the same]] [[H3605|to all]] [[H5971|the peoples]] [[H859|you]] [[H3373|now fear.]] ^0719
 
-For you are a people holy to the Lord your God. The Lord your God has chosen you to be a people for his treasured possession, out of all the peoples who are on the face of the earth. ^0706
+[[H3068|Moreover, the LORD]] [[H430|your God]] [[H1571|will]] [[H7971|send]] [[H6880|the hornet]] [[H5704|against them]] [[H7604|until all the survivors]] [[H5641|and those hiding]] [[H6440|from you]] [[H6|have perished.]] ^0720
 
-It was not because you were more in number than any other people that the Lord set his love on you and chose you, for you were the fewest of all peoples, ^0707
+[[H3808|Do not]] [[H6206|be terrified]] [[H6440|by them,]] [[H3588|for]] [[H3068|the LORD]] [[H430|your God,]] [[H7130|who among you,]] ⟨is⟩ ⟨is⟩ [[H1419|a great]] [[H3372|and awesome]] [[H410|God.]] ^0721
 
-but it is because the Lord loves you and is keeping the oath that he swore to your fathers, that the Lord has brought you out with a mighty hand and redeemed you from the house of slavery, from the hand of Pharaoh king of Egypt. ^0708
+[[H3068|The LORD]] [[H430|your God]] [[H5394|will drive out]] [[H411|these]] [[H1471|nations]] [[H6440|before you]] [[H4592|little]] [[H4592|by little.]] [[H3808|You will not]] [[H3201|be enabled]] [[H3615|to eliminate]] [[H4118|them all at once,]] [[H6435|or]] [[H7704|the wild]] [[H2416|animals]] [[H7235|would multiply]] [[H5921|around you.]] ^0722
 
-Know therefore that the Lord your God is God, the faithful God who keeps covenant and steadfast love with those who love him and keep his commandments, to a thousand generations, ^0709
+[[H3068|But the LORD]] [[H430|your God]] [[H5414|will give them over]] [[H6440|to you]] [[H2000|and throw them]] [[H1419|into great]] [[H4103|confusion,]] [[H5704|until]] [[H8045|they are destroyed.]] ^0723
 
-and repays to their face those who hate him, by destroying them. He will not be slack with one who hates him. He will repay him to his face. ^0710
+[[H4428|He will hand their kings]] [[H5414|over to]] [[H3027|you,]] [[H6|and you will wipe out]] [[H8034|their names]] [[H8478|from under]] [[H8064|heaven.]] [[H3808|No]] [[H376|one]] [[H3320|will be able to stand]] [[H6440|against you;]] [[H8045|you will annihilate them.]] ^0724
 
-You shall therefore be careful to do the commandment and the statutes and the rules that I command you today. ^0711
+[[H8313|You must burn up]] [[H6456|the images]] [[H430|of their gods;]] [[H3808|do not]] [[H2530|covet]] [[H3701|the silver]] [[H2091|and gold]] ⟨that is⟩ [[H5921|on them]] [[H3947|or take it]] [[H6435|for yourselves,  or]] [[H3369|you will be ensnared by it;]] [[H3588|for]] [[H1931|it]] [[H8441|is detestable]] [[H3068|to the LORD]] [[H430|your God.]] ^0725
 
-And because you listen to these rules and keep and do them, the Lord your God will keep with you the covenant and the steadfast love that he swore to your fathers. ^0712
+[[H3808|And you must not]] [[H935|bring]] [[H8441|any detestable thing]] [[H413|into]] [[H1004|your house,]] [[H1961|or you, like it, will be]] [[H2764|set apart for destruction.]] [[H8262|You are to utterly detest]] [[H8581|and abhor it,]] [[H3588|because]] [[H1931|it]] [[H2764|is set apart for destruction.]] ^0726
 
-He will love you, bless you, and multiply you. He will also bless the fruit of your womb and the fruit of your ground, your grain and your wine and your oil, the increase of your herds and the young of your flock, in the land that he swore to your fathers to give you. ^0713
+[[H8104|You must carefully]] [[H6213|follow]] [[H3605|every]] [[H4687|command]] [[H595|I]] [[H6680|am giving you today,]] [[H4616|so that]] [[H2421|you may live]] [[H7235|and multiply,]] [[H935|and enter]] [[H3423|and possess]] [[H776|the land]] [[H3068|the LORD]] [[H7650|swore]] [[H1|to your fathers.]] ^0801
 
-You shall be blessed above all peoples. There shall not be male or female barren among you or among your livestock. ^0714
+[[H2142|Remember that]] [[H2088|these]] [[H705|forty]] [[H8141|years]] [[H3068|the LORD]] [[H430|your God]] [[H1980|led you]] [[H3605|all]] [[H1870|the way]] [[H4057|in the wilderness,]] [[H4616|so that]] [[H6031|He might humble you]] [[H5254|and test you]] [[H3045|in order to know]] [[H834|what]] [[H3824|was in your heart,]] [[H518|whether or]] [[H3808|not]] [[H8104|you would keep]] [[H4687|His commandments.]] ^0802
 
-And the Lord will take away from you all sickness, and none of the evil diseases of Egypt, which you knew, will he inflict on you, but he will lay them on all who hate you. ^0715
+[[H6031|He humbled you,]] [[H7456|and in your hunger]] [[H4478|gave you manna]] [[H398|to eat,]] [[H834|which]] [[H3808|neither]] [[H1|you your fathers]] ⟨nor⟩ [[H3045|had known,]] [[H4616|so that]] [[H3045|you might understand]] [[H3588|that]] [[H120|man]] [[H3808|does not]] [[H2421|live]] [[H5921|on]] [[H3899|bread]] [[H905|alone,]] [[H3588|but]] [[H5921|on]] [[H3605|every]] [[H4161|word that comes from]] [[H6310|the mouth]] [[H3068|of the LORD.]] ^0803
 
-And you shall consume all the peoples that the Lord your God will give over to you. Your eye shall not pity them, neither shall you serve their gods, for that would be a snare to you. ^0716
+[[H8071|Your clothing]] [[H3808|did not]] [[H1086|wear out]] [[H7272|and your feet]] [[H3808|did not]] [[H1216|swell]] [[H2088|during these]] [[H705|forty]] [[H8141|years.]] ^0804
 
-If you say in your heart, These nations are greater than I. How can I dispossess them? ^0717
+[[H3045|So know]] [[H5973|in]] [[H3824|your heart]] [[H3588|that]] [[H834|just as]] [[H376|a man]] [[H3256|disciplines]] [[H1121|his son,]] ⟨so⟩ [[H3068|the LORD]] [[H430|your God]] [[H3256|disciplines you.]] ^0805
 
-you shall not be afraid of them but you shall remember what the Lord your God did to Pharaoh and to all Egypt, ^0718
+[[H8104|Therefore you shall keep]] [[H4687|the commandments]] [[H3069|of the LORD]] [[H430|your God,]] [[H1980|walking]] [[H1870|in His ways]] [[H3372|and fearing]] [[H853|Him.]] ^0806
 
-the great trials that your eyes saw, the signs, the wonders, the mighty hand, and the outstretched arm, by which the Lord your God brought you out. So will the Lord your God do to all the peoples of whom you are afraid. ^0719
+[[H3588|For]] [[H3068|the LORD]] [[H430|your God]] [[H935|is bringing]] [[H413|you into]] [[H2896|a good]] [[H776|land,]] [[H776|a land]] [[H5158|of brooks]] [[H5869|and fountains]] [[H8415|and springs]] [[H3318|that flow]] [[H1237|through the valleys]] [[H2022|and hills;]] ^0807
 
-Moreover, the Lord your God will send hornets among them, until those who are left and hide themselves from you are destroyed. ^0720
+[[H776|a land]] [[H2406|of wheat,]] [[H8184|barley,]] [[H1612|vines,]] [[H8384|fig trees,]] [[H7416|and pomegranates;]] [[H776|a land]] [[H2132|of olive]] [[H8081|oil]] [[H1706|and honey;]] ^0808
 
-You shall not be in dread of them, for the Lord your God is in your midst, a great and awesome God. ^0721
+[[H776|a land]] [[H834|where]] [[H398|you will eat]] [[H3899|food]] [[H3808|without]] [[H4544|scarcity,]] [[H2637|where you will lack]] [[H3808|nothing;]] [[H776|a land]] [[H68|whose rocks]] [[H1270|are iron]] [[H2042|and whose hills]] [[H2672|can be mined]] [[H5178|for copper.]] ^0809
 
-The Lord your God will clear away these nations before you little by little. You may not make an end of them at once, lest the wild beasts grow too numerous for you. ^0722
+[[H398|When you eat]] [[H7646|and are satisfied,]] [[H1288|you are to bless]] [[H3068|the LORD]] [[H430|your God]] [[H5921|for]] [[H2896|the good]] [[H776|land]] [[H5414|He has given you.]] ^0810
 
-But the Lord your God will give them over to you and throw them into great confusion, until they are destroyed. ^0723
+[[H8104|Be careful]] [[H6435|not]] [[H7911|to forget]] [[H3068|the LORD]] [[H430|your God]] [[H1115|by failing]] [[H8104|to keep]] [[H4687|His commandments]] [[H4941|and ordinances]] [[H2708|and statutes,]] [[H834|which]] [[H595|I]] [[H6680|am giving you]] [[H3117|this day.]] ^0811
 
-And he will give their kings into your hand, and you shall make their name perish from under heaven. No one shall be able to stand against you until you have destroyed them. ^0724
+[[H6435|Otherwise,]] [[H398|when you eat]] [[H7646|and are satisfied,]] [[H1129|when you build]] [[H2896|fine]] [[H1004|houses]] [[H3427|in which to dwell,]] ^0812
 
-The carved images of their gods you shall burn with fire. You shall not covet the silver or the gold that is on them or take it for yourselves, lest you be ensnared by it, for it is an abomination to the Lord your God. ^0725
+[[H1241|and when your herds]] [[H6629|and flocks]] [[H7235|grow large,]] [[H3701|and your silver]] [[H2091|and gold]] [[H7235|are multiplied,]] [[H3605|and all]] [[H834|you have]] [[H7235|increases,]] ^0813
 
-And you shall not bring an abominable thing into your house and become devoted to destruction like it. You shall utterly detest and abhor it, for it is devoted to destruction. ^0726
+[[H3824|then your heart]] [[H7311|will become proud,]] [[H7911|and you will forget]] [[H3068|the LORD]] [[H430|your God]] [[H3318|who brought you out]] [[H776|of the land]] [[H4714|of Egypt,]] [[H1004|out of the house]] [[H5650|of slavery.]] ^0814
 
+[[H1980|He led]] [[H1419|you through the vast]] [[H3372|and terrifying]] [[H4057|wilderness]] [[H8314|with its venomous]] [[H5175|snakes]] [[H6137|and scorpions,]] [[H6774|a thirsty]] [[H4325|and waterless]] ⟨land⟩. [[H3318|He brought you]] [[H4325|water]] [[H6697|from the rock]] [[H2496|of flint.]] ^0815
 
+[[H398|He fed you]] [[H4057|in the wilderness]] [[H4478|with manna]] [[H834|that]] [[H1|your fathers]] [[H3808|had not]] [[H3045|known,]] [[H4616|in order to]] [[H6031|humble you]] [[H5254|and test you,]] [[H319|so that in the end]] [[H3190|He might cause you to prosper.]] ^0816
 
-The whole commandment that I command you today you shall be careful to do, that you may live and multiply, and go in and possess the land that the Lord swore to give to your fathers. ^0801
+[[H559|You may say]] [[H3824|in your heart,]] [[H3581|“The power]] [[H6108|and the strength]] [[H3027|of my hand]] [[H6213|has made]] [[H2088|this]] [[H2428|wealth for me.”]] ^0817
 
-And you shall remember the whole way that the Lord your God has led you these forty years in the wilderness, that he might humble you, testing you to know what was in your heart, whether you would keep his commandments or not. ^0802
+[[H2142|But remember]] [[H3068|that it is the LORD]] [[H430|your God]] ⟨who⟩ [[H1931|]] [[H5414|gives]] [[H3581|you the power]] [[H6213|to gain]] [[H2428|wealth,]] [[H4616|in order to]] [[H6965|confirm]] [[H1285|His covenant]] [[H834|that]] [[H7650|He swore]] [[H1|to your fathers,]] [[H3117|as it is this day.]] ^0818
 
-And he humbled you and let you hunger and fed you with manna, which you did not know, nor did your fathers know, that he might make you know that man does not live by bread alone, but man lives by every word that comes from the mouth of the Lord. ^0803
+[[H518|If]] [[H7911|you ever forget]] [[H3068|the LORD]] [[H430|your God]] [[H1980|and go]] [[H310|after]] [[H312|other]] [[H430|gods]] [[H5647|to worship]] [[H7812|and bow down to them,]] [[H5749|I testify]] [[H3117|against you today]] [[H3588|that]] [[H6|you will surely]] [[H6|perish.]] ^0819
 
-Your clothing did not wear out on you and your foot did not swell these forty years. ^0804
+[[H1471|Like the nations]] [[H3068|the LORD]] [[H6|has destroyed]] [[H6440|before you,]] [[H3651|so]] [[H6|you will perish]] [[H3808|if you do not]] [[H8085|obey]] [[H3068|the LORD]] [[H430|your God.]] ^0820
 
-Know then in your heart that, as a man disciplines his son, the Lord your God disciplines you. ^0805
+[[H8085|Hear,]] [[H3478|O Israel.]] [[H3117|Today]] [[H859|you]] [[H5674|are about to cross]] [[H3383|the Jordan]] [[H935|to go in]] [[H3423|and dispossess]] [[H1471|nations]] [[H1419|greater]] [[H6099|and stronger]] [[H4480|than you,]] [[H1419|with large]] [[H5892|cities]] [[H1219|fortified]] [[H8064|to the heavens.]] ^0901
 
-So you shall keep the commandments of the Lord your God by walking in his ways and by fearing him. ^0806
+[[H5971|The people]] [[H1419|are strong]] [[H7311|and tall,]] [[H1121|the descendants]] [[H6062|of the Anakim.]] [[H859|You]] [[H3045|know]] [[H834|about them]] [[H859|and you]] [[H8085|have heard it said,]] [[H4310|“Who]] [[H3320|can stand up]] [[H6440|to]] [[H1121|the sons]] [[H6061|of Anak?”]] ^0902
 
-For the Lord your God is bringing you into a good land, a land of brooks of water, of fountains and springs, flowing out in the valleys and hills, ^0807
+[[H3045|But understand]] [[H3588|that]] [[H3117|today]] [[H3068|the LORD]] [[H430|your God]] [[H5674|goes across]] [[H6440|ahead of you]] [[H398|as a consuming]] [[H784|fire;]] [[H1931|He]] [[H8045|will destroy them]] [[H3665|and subdue them]] [[H6440|before you.]] [[H3423|And you will drive them out]] [[H6|and annihilate them]] [[H4118|swiftly,]] [[H834|as]] [[H3068|the LORD]] [[H1696|has told you.]] ^0903
 
-a land of wheat and barley, of vines and fig trees and pomegranates, a land of olive trees and honey, ^0808
+[[H3068|When the LORD]] [[H430|your God]] [[H1920|has driven them out]] [[H6440|before you,]] [[H408|do not]] [[H559|say]] [[H3824|in your heart,]] [[H6666|“Because of my righteousness]] [[H3068|the LORD]] [[H935|has brought me in]] [[H3423|to possess]] [[H2063|this]] [[H776|land.”]] [[H3068|Rather, the LORD]] [[H3423|will drive out]] [[H428|these]] [[H1471|nations]] [[H6440|before you]] [[H7564|because of their wickedness.]] ^0904
 
-a land in which you will eat bread without scarcity, in which you will lack nothing, a land whose stones are iron, and out of whose hills you can dig copper. ^0809
+[[H3808|It is not]] [[H6666|by your righteousness]] [[H3476|or uprightness]] [[H3824|of heart]] [[H859|that you]] [[H935|are going in]] [[H3423|to possess]] [[H776|their land,]] [[H3588|but because]] ⟨it is⟩ [[H7564|of their wickedness]] [[H3068|that the LORD]] [[H430|your God]] [[H3423|will drive out]] [[H428|these]] [[H1471|nations]] [[H6440|before you,]] [[H4616|to]] [[H6965|keep]] [[H1697|the promise]] [[H3068|He]] [[H7650|swore]] [[H1|to your fathers,]] [[H85|to Abraham,]] [[H3327|Isaac,]] [[H3290|and Jacob.]] ^0905
 
-And you shall eat and be full, and you shall bless the Lord your God for the good land he has given you. ^0810
+[[H3045|Understand, then,]] [[H3588|that]] [[H3808|it is not]] [[H6666|by your righteousness]] [[H3068|that the LORD]] [[H430|your God]] [[H5414|is giving]] [[H2063|you this]] [[H2896|good]] [[H776|land]] [[H3423|to possess,]] [[H3588|for]] [[H859|you]] [[H7186|are a stiff-necked]] [[H5971|people.]] ^0906
 
-Take care lest you forget the Lord your God by not keeping his commandments and his rules and his statutes, which I command you today, ^0811
+[[H2142|Remember this]] [[H408|and never]] [[H7911|forget]] [[H834|how]] [[H7107|you provoked]] [[H3068|the LORD]] [[H430|your God]] [[H4057|in the wilderness.]] [[H4480|From]] [[H3117|the day]] [[H3318|you left]] [[H776|the land]] [[H4714|of Egypt]] [[H5704|until]] [[H935|you reached]] [[H2088|this]] [[H4725|place,]] [[H1961|you have been]] [[H4784|rebelling]] [[H5973|against]] [[H3068|the LORD.]] ^0907
 
-lest, when you have eaten and are full and have built good houses and live in them, ^0812
+[[H2722|At Horeb]] [[H7107|you provoked]] [[H3068|the LORD,]] [[H3068|and He]] [[H599|was angry enough]] [[H8045|to destroy]] [[H853|you.]] ^0908
 
-and when your herds and flocks multiply and your silver and gold is multiplied and all that you have is multiplied, ^0813
+[[H5927|When I went up]] [[H2022|on the mountain]] [[H3947|to receive]] [[H3871|the tablets]] [[H68|of stone,]] [[H3871|the tablets]] [[H1285|of the covenant]] [[H834|that]] [[H3068|the LORD]] [[H3772|made]] [[H5973|with you,]] [[H3427|I stayed]] [[H2022|on the mountain]] [[H705|forty]] [[H3117|days]] [[H705|and forty]] [[H3915|nights.]] [[H398|I ate]] [[H3808|no]] [[H3899|bread]] [[H8354|and drank]] [[H3808|no]] [[H4325|water.]] ^0909
 
-then your heart be lifted up, and you forget the Lord your God, who brought you out of the land of Egypt, out of the house of slavery, ^0814
+[[H3068|Then the LORD]] [[H5414|gave]] [[H8147|me the two]] [[H68|stone]] [[H3871|tablets,]] [[H3789|inscribed]] [[H676|by the finger]] [[H430|of God]] [[H3605|with the exact]] [[H1697|words]] [[H834|that]] [[H3068|the LORD]] [[H1696|spoke]] [[H5973|to you]] [[H8432|out of]] [[H784|the fire]] [[H2022|on the mountain]] [[H3117|on the day]] [[H6951|of the assembly.]] ^0910
 
-who led you through the great and terrifying wilderness, with its fiery serpents and scorpions and thirsty ground where there was no water, who brought you water out of the flinty rock, ^0815
+[[H1961|And]] [[H7093|at the end]] [[H705|of forty]] [[H3117|days]] [[H705|and forty]] [[H3915|nights,]] [[H3068|the LORD]] [[H5414|gave]] [[H8147|me the two]] [[H68|stone]] [[H3871|tablets,]] [[H3871|the tablets]] [[H1285|of the covenant,]] ^0911
 
-who fed you in the wilderness with manna that your fathers did not know, that he might humble you and test you, to do you good in the end. ^0816
+[[H3068|and the LORD]] [[H559|said]] [[H413|to me,]] [[H6965|“Get up]] [[H3381|and go down]] [[H4480|from]] [[H2088|here]] [[H4118|at once,]] [[H3588|for]] [[H5971|your people]] [[H834|whom]] [[H3318|you brought]] [[H4714|out of Egypt]] [[H7843|have corrupted]] ⟨themselves⟩. [[H4118|How quickly]] [[H5493|they have turned aside]] [[H1870|from the way]] [[H834|that]] [[H6680|I commanded them;]] [[H6213|they have made]] [[H4541|for themselves  a molten image.]] ^0912
 
-Beware lest you say in your heart, My power and the might of my hand have gotten me this wealth. ^0817
+[[H3068|The LORD]] [[H559|also said]] [[H413|to me,]] [[H7200|“I have seen]] [[H2088|this]] [[H5971|people,]] [[H2009|and indeed,]] [[H1931|they]] [[H7186|are a stiff-necked]] [[H5971|people.]] ^0913
 
-You shall remember the Lord your God, for it is he who gives you power to get wealth, that he may confirm his covenant that he swore to your fathers, as it is this day. ^0818
+[[H7503|Let Me alone,]] [[H8045|so that I may destroy them]] [[H4229|and blot out]] [[H8034|their name]] [[H4480|from]] [[H8478|under]] [[H8064|heaven.]] [[H6213|Then I will make]] [[H1471|you into a nation]] [[H6099|mightier]] [[H7227|and greater]] [[H4480|than they.”]] ^0914
 
-And if you forget the Lord your God and go after other gods and serve them and worship them, I solemnly warn you today that you shall surely perish. ^0819
+[[H6437|So I went back]] [[H3381|down]] [[H2022|the mountain]] [[H2022|while it]] [[H1197|was blazing]] [[H784|with fire,]] [[H8147|with the two]] [[H3871|tablets]] [[H1285|of the covenant]] [[H5921|in]] [[H3027|my hands.]] ^0915
 
-Like the nations that the Lord makes to perish before you, so shall you perish, because you would not obey the voice of the Lord your God. ^0820
+[[H7200|And I saw]] [[H2009|how]] [[H2398|you had sinned]] [[H3068|against the LORD]] [[H430|your God;]] [[H6213|you had made]] [[H4541|for yourselves  a molten]] [[H5695|calf.]] [[H5493|You had turned aside]] [[H4118|quickly]] [[H4480|from]] [[H1870|the way]] [[H3068|the LORD]] [[H6680|had commanded you.]] ^0916
 
+[[H8610|So I took hold]] [[H8147|of the two]] [[H3871|tablets]] [[H7993|and threw]] [[H5921|them out of]] [[H3027|my hands,]] [[H7665|shattering]] [[H5869|them before your eyes.]] ^0917
 
+[[H5307|Then I fell down]] [[H6440|before]] [[H3068|the LORD]] [[H705|for forty]] [[H3117|days]] [[H705|and forty]] [[H3915|nights,]] [[H7223|as the first time.]] ⟨I had done⟩ [[H3808|I did not]] [[H398|eat]] [[H3899|bread]] [[H8354|or drink]] [[H4325|water]] [[H5921|because of]] [[H3605|all]] [[H2403|the sin]] [[H2398|you had committed]] [[H6213|in doing]] [[H7451|what was evil]] [[H3068|in the LORD’s]] [[H5869|sight]] [[H3707|and provoking Him to anger.]] ^0918
 
-Hear, O Israel : you are to cross over the Jordan today, to go in to dispossess nations greater and mightier than you, cities great and fortified up to heaven, ^0901
+[[H3588|For]] [[H3025|I was afraid]] [[H639|of the anger]] [[H2534|and wrath]] [[H834|that]] [[H3068|the LORD]] [[H7107|had directed]] [[H5921|against you,]] [[H8045|enough to destroy you.]] [[H3068|But the LORD]] [[H8085|listened]] [[H413|to me]] [[H1931|this]] [[H6471|time]] [[H1571|as well.]] ^0919
 
-a people great and tall, the sons of the Anakim, whom you know, and of whom you have heard it said, Who can stand before the sons of Anak? ^0902
+[[H3068|The LORD]] [[H599|was angry]] [[H3966|enough]] [[H175|with Aaron]] [[H8045|to destroy him,]] [[H1931|but at that]] [[H6256|time]] [[H1571|I also]] [[H6419|prayed]] [[H1157|for]] [[H175|Aaron.]] ^0920
 
-Know therefore today that he who goes over before you as a consuming fire is the Lord your God. He will destroy them and subdue them before you. So you shall drive them out and make them perish quickly, as the Lord has promised you. ^0903
+[[H853|And]] [[H3947|I took]] [[H834|that]] [[H2403|sinful thing,]] [[H5695|the calf]] [[H6213|you had made,]] [[H8313|and burned it]] [[H784|in the fire.]] [[H3807|Then I crushed it]] ⟨and⟩ [[H2912|ground]] [[H5704|it to]] [[H1851|powder]] [[H6083|as fine as dust,]] [[H7993|and I cast]] [[H6083|it]] [[H413|into]] [[H5158|the stream]] [[H3381|that came down]] [[H4480|from]] [[H2022|the mountain.]] ^0921
 
-Do not say in your heart, after the Lord your God has thrust them out before you, It is because of my righteousness that the Lord has brought me in to possess this land, whereas it is because of the wickedness of these nations that the Lord is driving them out before you. ^0904
+[[H7107|You continued to provoke]] [[H3068|the LORD]] [[H8404|at Taberah,]] [[H4532|Massah,]] [[H6914|and Kibroth-hattaavah.]] ^0922
 
-Not because of your righteousness or the uprightness of your heart are you going in to possess their land, but because of the wickedness of these nations the Lord your God is driving them out from before you, and that he may confirm the word that the Lord swore to your fathers, to Abraham, to Isaac, and to Jacob. ^0905
+[[H3068|And when the LORD]] [[H7971|sent you out]] [[H6947|from Kadesh-barnea,]] [[H559|He said,]] [[H5927|“Go up]] [[H3423|and possess]] [[H776|the land]] [[H5414|I have given]] [[H4784|you.”  But you rebelled]] [[H6310|against the command]] [[H3068|of the LORD]] [[H430|your God.]] [[H3808|You neither]] [[H539|believed]] ⟨Him⟩ [[H3808|nor]] [[H8085|obeyed Him.]] ^0923
 
-Know, therefore, that the Lord your God is not giving you this good land to possess because of your righteousness, for you are a stubborn people. ^0906
+[[H1961|You have been]] [[H4784|rebelling]] [[H5973|against]] [[H3068|the LORD]] [[H3117|from the day]] [[H3045|I knew you.]] ^0924
 
-Remember and do not forget how you provoked the Lord your God to wrath in the wilderness. From the day you came out of the land of Egypt until you came to this place, you have been rebellious against the Lord. ^0907
+[[H5307|So I fell down]] [[H6440|before]] [[H3068|the LORD]] [[H705|for forty]] [[H3117|days]] [[H853|and]] [[H705|forty]] [[H3915|nights]] [[H3588|because]] [[H3068|the LORD]] [[H559|had said]] [[H8045|He would destroy]] [[H853|you.]] ^0925
 
-Even at Horeb you provoked the Lord to wrath, and the Lord was so angry with you that he was ready to destroy you. ^0908
+[[H6419|And I prayed]] [[H413|to]] [[H3068|the LORD]] [[H559|and said,]] [[H136|“O Lord]] [[H3068|GOD,]] [[H408|do not]] [[H7843|destroy]] [[H5971|Your people,]] [[H5159|Your inheritance,]] [[H834|whom]] [[H6299|You redeemed]] [[H1433|through Your greatness]] [[H3318|and brought out]] [[H4714|of Egypt]] [[H2389|with a mighty]] [[H3027|hand.]] ^0926
 
-When I went up the mountain to receive the tablets of stone, the tablets of the covenant that the Lord made with you, I remained on the mountain forty days and forty nights. I neither ate bread nor drank water. ^0909
+[[H2142|Remember]] [[H5650|Your servants]] [[H85|Abraham,]] [[H3327|Isaac,]] [[H3290|and Jacob.]] [[H408|Overlook]] [[H7190|the stubbornness]] [[H2088|of this]] [[H5971|people,]] [[H7562|their wickedness]] [[H2403|and sin.]] ^0927
 
-And the Lord gave me the two tablets of stone written with the finger of God, and on them were all the words that the Lord had spoken with you on the mountain out of the midst of the fire on the day of the assembly. ^0910
+[[H6435|Otherwise,]] [[H776|those in the land]] [[H834|from which]] [[H3318|you brought us out]] [[H559|will say,]] [[H3068|‘Because the LORD]] [[H1097|was not]] [[H3201|able]] [[H935|to bring]] [[H413|them into]] [[H776|the land]] [[H1696|He had promised them,]] [[H8135|and because He hated]] [[H853|them,]] [[H3318|He has brought them out]] [[H4191|to kill them]] [[H4057|in the wilderness.’]] ^0928
 
-And at the end of forty days and forty nights the Lord gave me the two tablets of stone, the tablets of the covenant. ^0911
+[[H1992|But they]] [[H5971|are Your people,]] [[H5159|Your inheritance,]] [[H834|whom]] [[H3318|You brought out]] [[H1419|by Your great]] [[H3581|power]] [[H5186|and outstretched]] [[H2220|arm.”]] ^0929
 
-Then the Lord said to me, Arise, go down quickly from here, for your people whom you have brought from Egypt have acted corruptly. They have turned aside quickly out of the way that I commanded them; they have made themselves a metal image. ^0912
+[[H1931|At that]] [[H6256|time]] [[H3068|the LORD]] [[H559|said]] [[H413|to me,]] [[H6458|“Chisel]] [[H8147|two]] [[H68|stone]] [[H3871|tablets]] [[H7223|like the first ones,]] [[H5927|come up]] [[H413|to Me]] [[H2022|on the mountain,]] [[H6213|and make]] [[H727|an ark]] [[H6086|of wood.]] ^1001
 
-Furthermore, the Lord said to me, I have seen this people, and behold, it is a stubborn people. ^0913
+[[H3789|And I will write]] [[H5921|on]] [[H3871|the tablets]] [[H1697|the words]] [[H834|that]] [[H1961|were]] [[H5921|on]] [[H7223|the first]] [[H3871|tablets,]] [[H834|which]] [[H7665|you broke;]] [[H7760|and you are to place]] [[H727|them in the ark.”]] ^1002
 
-Let me alone, that I may destroy them and blot out their name from under heaven. And I will make of you a nation mightier and greater than they. ^0914
+[[H6213|So I made]] [[H727|an ark]] [[H7848|of acacia]] [[H6086|wood,]] [[H6458|cut]] [[H8147|two]] [[H68|stone]] [[H3871|tablets]] [[H7223|like the first ones,]] [[H5927|and climbed]] [[H2022|the mountain]] [[H8147|with the two]] [[H3871|tablets]] [[H3027|in my hands.]] ^1003
 
-So I turned and came down from the mountain, and the mountain was burning with fire. And the two tablets of the covenant were in my two hands. ^0915
+[[H3789|And wrote]] ⟨the LORD⟩ [[H5921|on]] [[H3871|the tablets]] [[H4385|what had been written]] [[H7223|previously,]] [[H6235|the Ten]] [[H1697|Commandments]] [[H834|that]] [[H3068|He]] [[H1696|had spoken]] [[H413|to]] [[H2022|you on the mountain]] [[H8432|out of]] [[H784|the fire]] [[H3117|on the day]] [[H6951|of the assembly.]] [[H3068|The LORD]] [[H5414|gave]] [[H413|them to me,]] ^1004
 
-And I looked, and behold, you had sinned against the Lord your God. You had made yourselves a golden calf. You had turned aside quickly from the way that the Lord had commanded you. ^0916
+[[H6437|and I went back]] [[H3381|down]] [[H2022|the mountain]] [[H7760|and placed]] [[H3871|the tablets]] [[H727|in the ark]] [[H6213|I had made,]] [[H834|as]] [[H3068|the LORD]] [[H6680|had commanded me,]] [[H8033|and there]] [[H1961|they have remained.]] ^1005
 
-So I took hold of the two tablets and threw them out of my two hands and broke them before your eyes. ^0917
+[[H1121|The Israelites]] [[H5265|traveled]] [[H885|from  Beeroth Bene-jaakan]] [[H4149|to Moserah,]] [[H8033|where]] [[H175|Aaron]] [[H4191|died]] [[H6912|and was buried,]] [[H499|and Eleazar]] [[H1121|his son]] [[H3547|succeeded him as priest.]] ^1006
 
-Then I lay prostrate before the Lord as before, forty days and forty nights. I neither ate bread nor drank water, because of all the sin that you had committed, in doing what was evil in the sight of the Lord to provoke him to anger. ^0918
+[[H4480|From]] [[H8033|there]] [[H5265|they traveled]] [[H1412|to Gudgodah,]] [[H1412|and from Gudgodah]] [[H3193|to Jotbathah,]] [[H776|a land]] [[H5158|with streams]] [[H4325|of water.]] ^1007
 
-For I was afraid of the anger and hot displeasure that the Lord bore against you, so that he was ready to destroy you. But the Lord listened to me that time also. ^0919
+[[H1931|At that]] [[H6256|time]] [[H3068|the LORD]] [[H914|set apart]] [[H7626|the tribe]] [[H3878|of Levi]] [[H5375|to carry]] [[H727|the ark]] [[H1285|of the covenant]] [[H3068|of the LORD,]] [[H5975|to stand]] [[H6440|before]] [[H3068|the LORD]] [[H8334|to serve Him,]] [[H1288|and to pronounce blessings]] [[H8034|in His name,]] [[H5704|as to this day.]] ⟨they do⟩ ^1008
 
-And the Lord was so angry with Aaron that he was ready to destroy him. And I prayed for Aaron also at the same time. ^0920
+[[H5921|That is why]] [[H3881|Levi]] [[H1961|has]] [[H3808|no]] [[H2506|portion]] [[H5159|or inheritance]] [[H5973|among]] [[H251|his brothers;]] [[H3068|the LORD]] [[H5159|is his inheritance,]] [[H834|as]] [[H3068|the LORD]] [[H430|your God]] [[H1696|promised him.]] ^1009
 
-Then I took the sinful thing, the calf that you had made, and burned it with fire and crushed it, grinding it very small, until it was as fine as dust. And I threw the dust of it into the brook that ran down from the mountain. ^0921
+[[H595|I]] [[H5975|stayed]] [[H2022|on the mountain]] [[H705|forty]] [[H3117|days]] [[H705|and forty]] [[H3915|nights,]] [[H7223|like the first]] [[H3117|time,]] [[H1931|and that]] [[H6471|time]] [[H3068|the LORD]] [[H1571|again]] [[H8085|listened]] [[H413|to me]] ⟨and⟩ [[H3068|]] [[H14|agreed]] [[H3808|not]] [[H7843|to destroy you.]] ^1010
 
-At Taberah also, and at Massah and at Kibroth-hattaavah you provoked the Lord to wrath. ^0922
+[[H3068|Then the LORD]] [[H559|said]] [[H413|to me,]] [[H6965|“Get up.]] [[H1980|Continue]] [[H4550|your journey]] [[H6440|ahead of]] [[H5971|the people,]] [[H935|that they may enter]] [[H3423|and possess]] [[H776|the land]] [[H7650|I swore]] [[H1|to  their fathers]] [[H5414|to give them.”]] ^1011
 
-And when the Lord sent you from Kadesh-barnea, saying, Go up and take possession of the land that I have given you, then you rebelled against the commandment of the Lord your God and did not believe him or obey his voice. ^0923
+[[H6258|“And now,]] [[H3478|O Israel,]] [[H4100|what]] [[H3069|does the LORD]] [[H430|your God]] [[H7592|ask]] [[H5973|of you]] [[H3588|but]] [[H3372|to fear]] [[H3069|the LORD]] [[H430|your God]] [[H1980|by walking]] [[H3605|in all]] [[H1870|His ways,]] [[H157|to love Him,]] [[H5647|to serve]] [[H3069|the LORD]] [[H430|your God]] [[H3605|with all]] [[H3824|your heart]] [[H3605|and with all]] [[H5315|your soul,]] ^1012
 
-You have been rebellious against the Lord from the day that I knew you. ^0924
+⟨and⟩ [[H8104|to keep]] [[H4687|the commandments]] [[H2708|and statutes]] [[H3068|of the LORD,]] [[H834|which]] [[H595|I]] [[H6680|am giving you]] [[H3117|this day]] [[H2896|for your own good?]] ^1013
 
-So I lay prostrate before the Lord for these forty days and forty nights, because the Lord had said he would destroy you. ^0925
+[[H2005|Behold,]] [[H3068|to the LORD]] [[H430|your God]] [[H8064|belong the heavens,]] [[H8064|even the highest]] [[H8064|heavens,]] [[H776|and the earth]] [[H3605|and everything in it.]] ^1014
 
-And I prayed to the Lord, O Lord God, do not destroy your people and your heritage, whom you have redeemed through your greatness, whom you have brought out of Egypt with a mighty hand. ^0926
+[[H7535|Yet]] [[H3068|the LORD]] [[H2836|has set His affection]] [[H1|on your fathers]] [[H157|and loved]] [[H853|them.]] [[H977|And He has chosen you,]] [[H2233|their descendants]] [[H310|after]] [[H3605|them,  above all]] [[H5971|the peoples,]] [[H3117|even to this day.]] ^1015
 
-Remember your servants, Abraham, Isaac, and Jacob. Do not regard the stubbornness of this people, or their wickedness or their sin, ^0927
+[[H4135|Circumcise]] [[H3824|your hearts, therefore,]] [[H7185|and stiffen]] [[H6203|your necks]] [[H3808|no]] [[H5750|more.]] ^1016
 
-lest the land from which you brought us say, Because the Lord was not able to bring them into the land that he promised them, and because he hated them, he has brought them out to put them to death in the wilderness. ^0928
+[[H3588|For]] [[H3068|the LORD]] [[H430|your God]] [[H430|is God]] [[H430|of gods]] [[H136|and Lord]] [[H113|of lords,]] [[H1419|the great,]] [[H1368|mighty,]] [[H3372|and awesome]] [[H410|God,]] [[H3808|showing no]] [[H5375|partiality]] [[H3947|and accepting]] [[H3808|no]] [[H7810|bribe.]] ^1017
 
-For they are your people and your heritage, whom you brought out by your great power and by your outstretched arm. ^0929
+[[H6213|He executes]] [[H4941|justice]] [[H3490|for the fatherless]] [[H490|and widow,]] [[H157|and He loves]] [[H1616|the foreigner,]] [[H5414|giving]] [[H3899|him  food]] [[H8071|and clothing.]] ^1018
 
+[[H157|So you also must love]] [[H1616|the foreigner,]] [[H3588|since]] [[H1961|you yourselves were]] [[H1616|foreigners]] [[H776|in the land]] [[H4714|of Egypt.]] ^1019
 
+[[H3372|You are to fear]] [[H3068|the LORD]] [[H430|your God]] [[H5647|and serve Him.]] [[H1692|Hold fast to Him]] [[H7650|and take your oaths]] [[H8034|in His name.]] ^1020
 
-At that time the Lord said to me, Cut for yourself two tablets of stone like the first, and come up to me on the mountain and make an ark of wood. ^1001
+[[H1931|He]] [[H8416|is your praise]] [[H1931|and He]] [[H430|is your God,]] [[H834|who]] [[H6213|has done]] [[H853|for you]] [[H428|these]] [[H1419|great]] [[H3372|and awesome wonders]] [[H5869|your eyes]] [[H7200|have seen.]] ^1021
 
-And I will write on the tablets the words that were on the first tablets that you broke, and you shall put them in the ark. ^1002
+[[H1|Your fathers]] [[H3381|went down]] [[H4714|to Egypt,]] [[H7657|seventy]] [[H5315|in all,]] [[H6258|and now]] [[H3068|the LORD]] [[H430|your God]] [[H7760|has made]] [[H7230|you as numerous]] [[H3556|as the stars]] [[H8064|in the sky.]] ^1022
 
-So I made an ark of acacia wood, and cut two tablets of stone like the first, and went up the mountain with the two tablets in my hand. ^1003
+[[H157|You shall therefore love]] [[H3068|the LORD]] [[H430|your God]] [[H3605|and always]] [[H8104|keep]] [[H4931|His charge,]] [[H2708|His statutes,]] [[H4941|His ordinances,]] [[H4687|and His commandments.]] ^1101
 
-And he wrote on the tablets, in the same writing as before, the Ten Commandments that the Lord had spoken to you on the mountain out of the midst of the fire on the day of the assembly. And the Lord gave them to me. ^1004
+[[H3045|Know]] [[H3117|this day]] [[H3588|that]] [[H3808|it is not]] [[H1121|your children]] [[H834|who]] [[H3045|have known]] [[H834|and]] [[H7200|seen]] [[H4148|the discipline]] [[H3068|of the LORD]] [[H430|your God:]] [[H1433|His greatness,]] [[H2389|His mighty]] [[H3027|hand,]] [[H5186|and His outstretched]] [[H2220|arm;]] ^1102
 
-Then I turned and came down from the mountain and put the tablets in the ark that I had made. And there they are, as the Lord commanded me. ^1005
+[[H226|the signs]] [[H4639|and works]] [[H6213|He did]] [[H8432|in]] [[H4714|Egypt]] [[H6547|to Pharaoh]] [[H4428|king]] [[H4714|of Egypt]] [[H3605|and all]] [[H776|his land;]] ^1103
 
-(The people of Israel journeyed from Beeroth Bene-jaakan to Moserah. There Aaron died, and there he was buried. And his son Eleazar ministered as priest in his place. ^1006
+[[H834|what]] [[H6213|He did]] [[H4714|to the Egyptian]] [[H2428|army]] [[H5483|and horses]] [[H7393|and chariots]] [[H834|when]] [[H4325|He made the waters]] [[H5488|of the Red]] [[H3220|Sea]] [[H6687|engulf]] [[H6440|them]] [[H7291|as they pursued you,]] [[H3068|and He]] ⟨how⟩ [[H6|destroyed them completely,]] [[H5704|even to]] [[H3117|this day;]] ^1104
 
-From there they journeyed to Gudgodah, and from Gudgodah to Jotbathah, a land with brooks of water. ^1007
+[[H834|what]] [[H6213|He did]] [[H4057|for you  in the wilderness]] [[H5704|until]] [[H935|you reached]] [[H2088|this]] [[H4725|place;]] ^1105
 
-At that time the Lord set apart the tribe of Levi to carry the ark of the covenant of the Lord to stand before the Lord to minister to him and to bless in his name, to this day. ^1008
+[[H834|and what]] [[H6213|He did]] [[H7130|in the midst]] [[H3605|of all]] [[H3478|the Israelites]] [[H1885|to Dathan]] [[H48|and Abiram,]] [[H1121|the sons]] [[H446|of Eliab]] [[H1121|the Reubenite,]] [[H834|when]] [[H776|the earth]] [[H6475|opened]] [[H6310|its mouth]] [[H1104|and swallowed them,]] [[H1004|their households,]] [[H168|their tents,]] [[H3605|and every]] [[H3351|living thing]] [[H7272|that belonged to them.]] ^1106
 
-Therefore Levi has no portion or inheritance with his brothers. The Lord is his inheritance, as the Lord your God said to him.) ^1009
+[[H3588|For]] ⟨it is⟩ [[H5869|your own eyes]] ⟨that⟩ [[H7200|have seen]] [[H3605|every]] [[H1419|great]] [[H4639|work]] [[H834|that]] [[H3068|the LORD]] [[H6213|has done.]] ^1107
 
-I myself stayed on the mountain, as at the first time, forty days and forty nights, and the Lord listened to me that time also. The Lord was unwilling to destroy you. ^1010
+[[H8104|You shall therefore keep]] [[H3605|every]] [[H4687|commandment]] [[H595|I]] [[H6680|am giving you today,]] [[H4616|so that]] [[H2388|you may have the strength]] [[H935|to go in]] [[H3423|and possess]] [[H776|the land]] [[H859|you]] [[H3423|are to inherit,]] ^1108
 
-And the Lord said to me, Arise, go on your journey at the head of the people, so that they may go in and possess the land, which I swore to their fathers to give them. ^1011
+[[H4616|and so that]] [[H748|you may live long]] [[H5921|in]] [[H127|the land]] [[H3068|the LORD]] [[H7650|swore]] [[H1|to your fathers]] [[H5414|to give]] [[H2233|them  and their descendants,]] [[H776|a land]] [[H2100|flowing]] [[H2461|with milk]] [[H1706|and honey.]] ^1109
 
-And now, Israel, what does the Lord your God require of you, but to fear the Lord your God, to walk in all his ways, to love him, to serve the Lord your God with all your heart and with all your soul, ^1012
+[[H3588|For]] [[H776|the land]] [[H859|you]] [[H935|are entering]] [[H3423|to possess]] [[H3808|is not]] [[H776|like the land]] [[H4714|of Egypt,]] [[H1931|from which]] [[H3318|you have come,]] [[H834|where]] [[H2232|you sowed]] [[H2233|your seed]] [[H8248|and irrigated]] [[H7272|on foot,]] [[H3419|like a vegetable]] [[H1588|garden.]] ^1110
 
-and to keep the commandments and statutes of the Lord, which I am commanding you today for your good? ^1013
+[[H776|But the land]] [[H859|you]] [[H935|are entering]] [[H3423|to possess]] [[H776|is a land]] [[H2022|of mountains]] [[H1237|and valleys]] [[H8354|that drinks in]] [[H4306|the rain]] [[H8064|from heaven.]] ^1111
 
-Behold, to the Lord your God belong heaven and the heaven of heavens, the earth with all that is in it. ^1014
+[[H776|It is a land]] [[H3068|the LORD]] [[H430|your God]] [[H1875|cares for;]] [[H5869|the eyes]] [[H3068|of the LORD]] [[H430|your God]] [[H8548|are always on it,]] [[H7225|from the beginning]] [[H5704|to]] [[H319|the end]] [[H8141|of the year.]] ^1112
 
-Yet the Lord set his heart in love on your fathers and chose their offspring after them, you above all peoples, as you are this day. ^1015
+[[H1961|So]] [[H518|if]] [[H8085|you carefully obey]] [[H4687|the commandments]] [[H595|I]] [[H6680|am giving you today,]] [[H157|to love]] [[H3068|the LORD]] [[H430|your God]] [[H5647|and to serve]] [[H3605|Him with all]] [[H3824|your heart]] [[H3605|and all]] [[H5315|your soul,]] ^1113
 
-Circumcise therefore the foreskin of your heart, and be no longer stubborn. ^1016
+[[H5414|then I will provide]] [[H4306|rain]] [[H776|for your land]] [[H6256|in season,]] [[H3138|the autumn and spring rains,]] [[H622|that you may gather]] [[H1715|your grain,]] [[H8492|new wine,]] [[H3323|and oil.]] ^1114
 
-For the Lord your God is God of gods and Lord of lords, the great, the mighty, and the awesome God, who is not partial and takes no bribe. ^1017
+[[H5414|And I will provide]] [[H6212|grass]] [[H7704|in the fields]] [[H929|for your livestock,]] [[H398|and you will eat]] [[H7646|and be satisfied.]] ^1115
 
-He executes justice for the fatherless and the widow, and loves the sojourner, giving him food and clothing. ^1018
+[[H8104|But be careful]] [[H6435|that you are not]] [[H6601|enticed]] [[H5493|to turn aside]] [[H5647|to worship]] [[H7812|and bow down]] [[H312|to other]] [[H430|gods,]] ^1116
 
-Love the sojourner, therefore, for you were sojourners in the land of Egypt. ^1019
+[[H639|or the anger]] [[H3068|of the LORD]] [[H2734|will be kindled]] [[H6113|against you.  He will shut]] [[H8064|the heavens]] [[H1961|so that there will be]] [[H3808|no]] [[H4306|rain,]] [[H3808|nor will]] [[H127|the land]] [[H5414|yield]] [[H2981|its produce,]] [[H6|and you will soon perish]] [[H5921|from]] [[H2896|the good]] [[H776|land]] [[H3068|the LORD]] [[H5414|is giving]] ^1117
 
-You shall fear the Lord your God. You shall serve him and hold fast to him, and by his name you shall swear. ^1020
+[[H7760|Fix]] [[H428|these]] [[H1697|words of mine]] [[H3824|in your hearts]] [[H5315|and minds,]] [[H7194|tie]] [[H853|them]] [[H226|as a sign]] [[H5921|on]] [[H3027|your hands]] [[H1961|and bind them]] [[H996|on your foreheads.]] ^1118
 
-He is your praise. He is your God, who has done for you these great and terrifying things that your eyes have seen. ^1021
+[[H3925|Teach]] [[H853|them]] [[H1121|to your children,]] [[H1696|speaking]] [[H3427|about them  when you sit]] [[H1004|at home]] [[H1980|and when you walk]] [[H1870|along the road,]] [[H7901|when you lie down]] [[H6965|and when you get up.]] ^1119
 
-Your fathers went down to Egypt seventy persons, and now the Lord your God has made you as numerous as the stars of heaven. ^1022
+[[H3789|Write]] [[H5921|them on]] [[H4201|the doorposts]] [[H1004|of your houses]] [[H8179|and gates,]] ^1120
 
+[[H4616|so that]] [[H3117|as long as]] [[H8064|the heavens]] [[H5921|are above]] [[H776|the earth,]] [[H3117|your days]] ⟨and those⟩ [[H3117|]] [[H1121|of your children]] [[H7235|may be multiplied]] [[H5921|in]] [[H127|the land]] [[H3068|the LORD]] [[H7650|swore]] [[H5414|to give]] [[H1|your fathers.]] ^1121
 
+[[H3588|For]] [[H518|if]] [[H8104|you carefully observe]] [[H3605|all]] [[H2063|these]] [[H4687|commandments]] [[H595|I]] [[H6680|am giving]] [[H6213|you to follow—]] [[H157|to love]] [[H3068|the LORD]] [[H430|your God,]] [[H1980|to walk]] [[H3605|in all]] [[H1870|His ways,]] [[H1692|and to hold fast to Him—]] ^1122
 
-You shall therefore love the Lord your God and keep his charge, his statutes, his rules, and his commandments always. ^1101
+[[H3068|then the LORD]] [[H3423|will drive out]] [[H3605|all]] [[H428|these]] [[H1471|nations]] [[H4480|before]] [[H6440|you,]] [[H3423|and you will dispossess]] [[H1471|nations]] [[H1419|greater]] [[H6099|and stronger]] ⟨than you⟩. ^1123
 
-And consider today ( since I am not speaking to your children who have not known or seen it), consider the discipline of the Lord your God, his greatness, his mighty hand and his outstretched arm, ^1102
+[[H3605|Every]] [[H4725|place]] [[H834|where]] [[H3709|the sole]] [[H7272|of your foot]] [[H1869|treads]] [[H1961|will be yours.]] [[H1366|Your territory]] [[H1961|will extend]] [[H4480|from]] [[H4057|the wilderness]] [[H3844|to Lebanon,]] [[H4480|and from]] [[H6578|the Euphrates]] [[H5104|River]] [[H5704|to]] [[H3220|the Western Sea.]] ^1124
 
-his signs and his deeds that he did in Egypt to Pharaoh the king of Egypt and to all his land, ^1103
+[[H3808|No]] [[H376|man]] [[H3320|will be able to stand]] [[H6440|against you;]] [[H3068|the LORD]] [[H430|your God]] [[H5414|will put]] [[H6343|fear]] [[H4172|and dread]] [[H5921|of you]] [[H6440|upon]] [[H3605|all]] [[H776|the land,]] [[H834|wherever]] [[H1869|you set foot,]] [[H834|as]] [[H1696|He has promised you.]] ^1125
 
-and what he did to the army of Egypt, to their horses and to their chariots, how he made the water of the Red Sea flow over them as they pursued after you, and how the Lord has destroyed them to this day, ^1104
+[[H7200|See,]] [[H3117|today]] [[H595|I]] [[H5414|am setting]] [[H6440|before you]] [[H1293|a blessing]] [[H7045|and a curse:]] ^1126
 
-and what he did to you in the wilderness, until you came to this place, ^1105
+[[H1293|There will be blessing]] [[H834|if]] [[H8085|you obey]] [[H4687|the commandments]] [[H3068|of the LORD]] [[H430|your God]] [[H834|that]] [[H595|I]] [[H6680|am giving you today,]] ^1127
 
-and what he did to Dathan and Abiram the sons of Eliab, son of Reuben, how the earth opened its mouth and swallowed them up, with their households, their tents, and every living thing that followed them, in the midst of all Israel. ^1106
+[[H7045|but a curse]] [[H518|if]] [[H3808|you do not]] [[H8085|obey]] [[H4687|the commandments]] [[H3068|of the LORD]] [[H430|your God]] [[H5493|and turn aside]] [[H4480|from]] [[H1870|the path]] [[H595|I]] [[H6680|command]] [[H3117|you today]] [[H1980|by following]] [[H312|other]] [[H430|gods,]] [[H3808|which you have not]] [[H3045|known.]] ^1128
 
-For your eyes have seen all the great work of the Lord that he did. ^1107
+[[H3588|When]] [[H3068|the LORD]] [[H430|your God]] [[H935|brings]] [[H413|you into]] [[H776|the land]] [[H859|you]] [[H935|are entering]] [[H3423|to possess,]] [[H5414|you are to proclaim]] [[H1293|the blessing]] [[H5921|on]] [[H2022|Mount]] [[H1630|Gerizim]] [[H7045|and the curse]] [[H5921|on]] [[H2022|Mount]] [[H5858|Ebal.]] ^1129
 
-You shall therefore keep the whole commandment that I command you today, that you may be strong, and go in and take possession of the land that you are going over to possess, ^1108
+[[H3808|Are not]] [[H1992|these mountains]] [[H5676|across]] [[H3383|the Jordan,]] [[H3996|west]] [[H1870|of the road]] [[H310|toward]] [[H8121|the sunset,]] [[H776|in the land]] [[H3669|of the Canaanites]] [[H3427|who live]] [[H6160|in the Arabah]] [[H4136|opposite]] [[H1537|Gilgal,]] [[H681|near]] [[H436|the oak]] [[H4176|of Moreh?]] ^1130
 
-and that you may live long in the land that the Lord swore to your fathers to give to them and to their offspring, a land flowing with milk and honey. ^1109
+[[H3588|For]] [[H859|you]] [[H5674|are about to cross]] [[H3383|the Jordan]] [[H935|to enter]] [[H3423|and possess]] [[H776|the land]] [[H3068|the LORD]] [[H430|your God]] [[H5414|is giving you.]] [[H3423|When you possess]] [[H3427|and settle it,]] ^1131
 
-For the land that you are entering to take possession of it is not like the land of Egypt, from which you have come, where you sowed your seed and irrigated it, like a garden of vegetables. ^1110
+[[H8104|be careful]] [[H6213|to follow]] [[H3605|all]] [[H2706|the statutes]] [[H4941|and ordinances]] [[H834|that]] [[H595|I]] [[H5414|am setting]] [[H6440|before you]] [[H3117|today.]] ^1132
 
-But the land that you are going over to possess is a land of hills and valleys, which drinks water by the rain from heaven, ^1111
+[[H428|These]] ⟨are⟩ [[H2706|the statutes]] [[H4941|and ordinances]] [[H8104|you must be careful]] [[H6213|to follow]] [[H3605|all]] [[H3117|the days]] [[H859|you]] [[H2416|live]] [[H776|in the land]] [[H834|that]] [[H3068|the LORD,]] [[H430|the God]] [[H1|of your fathers,]] [[H5414|has given]] [[H3423|you to possess.]] ^1201
 
-a land that the Lord your God cares for. The eyes of the Lord your God are always upon it, from the beginning of the year to the end of the year. ^1112
+[[H6|Destroy completely]] [[H3605|all]] [[H4725|the places]] [[H834|where]] [[H1471|the nations]] [[H859|you]] [[H3423|are dispossessing]] [[H5647|have served]] [[H430|their gods—]] [[H5921|atop]] [[H7311|the high]] [[H2022|mountains,]] [[H5921|on]] [[H1389|the hills,]] [[H8478|and under]] [[H3605|every]] [[H7488|green]] [[H6086|tree.]] ^1202
 
-And if you will indeed obey my commandments that I command you today, to love the Lord your God, and to serve him with all your heart and with all your soul, ^1113
+[[H5422|Tear down]] [[H4196|their altars,]] [[H7665|smash]] [[H4676|their sacred pillars,]] [[H8313|burn up]] [[H842|their Asherah poles,]] [[H1438|cut down]] [[H6456|the idols]] [[H430|of their gods,]] [[H6|and wipe out]] [[H8034|their names]] [[H4480|from]] [[H4725|every place.]] ^1203
 
-he will give the rain for your land in its season, the early rain and the later rain, that you may gather in your grain and your wine and your oil. ^1114
+[[H3808|You shall not]] [[H6213|worship]] [[H3068|the LORD]] [[H430|your God]] [[H3651|in this way.]] ^1204
 
-And he will give grass in your fields for your livestock, and you shall eat and be full. ^1115
+[[H3588|Instead,]] [[H1875|you must seek]] [[H4725|the place]] [[H3068|the LORD]] [[H430|your God]] [[H977|will choose]] [[H3605|from among all]] [[H7626|your tribes]] [[H7760|to establish]] [[H7933|as a dwelling]] [[H8034|for His Name,]] [[H8033|and there]] [[H935|you must go.]] ^1205
 
-Take care lest your heart be deceived, and you turn aside and serve other gods and worship them; ^1116
+[[H8033|To that place]] [[H935|you are to bring]] [[H5930|your burnt offerings]] [[H2077|and sacrifices,]] [[H4643|your tithes]] [[H8641|and heave offerings,]] [[H5088|your vow offerings]] [[H5071|and freewill offerings,]] [[H1062|as well as the firstborn]] [[H1241|of your herds]] [[H6629|and flocks.]] ^1206
 
-then the anger of the Lord will be kindled against you, and he will shut up the heavens, so that there will be no rain, and the land will yield no fruit, and you will perish quickly off the good land that the Lord is giving you. ^1117
+[[H8033|There,]] [[H6440|in the presence]] [[H3068|of the LORD]] [[H430|your God,]] ⟨you and⟩ [[H1004|your households]] [[H398|shall eat]] [[H8055|and rejoice]] [[H3605|in all]] [[H4916|you do,]] [[H834|because]] [[H3068|the LORD]] [[H430|your God]] [[H1288|has blessed you.]] ^1207
 
-You shall therefore lay up these words of mine in your heart and in your soul, and you shall bind them as a sign on your hand, and they shall be as frontlets between your eyes. ^1118
+[[H3808|You are not]] [[H6213|to do]] [[H3605|as]] [[H587|we]] [[H6213|are doing]] [[H6311|here]] [[H3117|today,]] ⟨where⟩ [[H376|everyone]] ⟨does⟩ [[H3605|what]] [[H3477|seems right]] [[H5869|in his own eyes.]] ^1208
 
-You shall teach them to your children, talking of them when you are sitting in your house, and when you are walking by the way, and when you lie down, and when you rise. ^1119
+[[H3588|For]] [[H3808|you have not]] [[H5704|yet]] [[H935|come]] [[H413|to]] [[H4496|the resting place]] [[H5159|and the inheritance]] [[H3069|the LORD]] [[H430|your God]] [[H5414|is giving you.]] ^1209
 
-You shall write them on the doorposts of your house and on your gates, ^1120
+[[H5674|When you cross]] [[H3383|the Jordan]] [[H3427|and live]] [[H776|in the land]] [[H3068|the LORD]] [[H430|your God]] [[H5157|is giving you as an inheritance,]] [[H5117|and He gives you rest]] [[H3605|from all]] [[H341|the enemies]] [[H5439|around you]] [[H3427|and you live]] [[H983|in security,]] ^1210
 
-that your days and the days of your children may be multiplied in the land that the Lord swore to your fathers to give them, as long as the heavens are above the earth. ^1121
+[[H3068|then the LORD]] [[H430|your God]] [[H977|will choose]] [[H7931|a dwelling]] [[H8034|for His Name.]] [[H8033|And there]] [[H935|you are to bring]] [[H3605|everything]] [[H595|I]] [[H6680|command you:]] [[H5930|your burnt offerings]] [[H2077|and sacrifices,]] [[H4643|your tithes]] [[H8641|and special gifts,]] [[H3605|and all]] [[H4005|the choice]] [[H5088|offerings]] [[H5087|you vow]] [[H3068|to the LORD.]] ^1211
 
-For if you will be careful to do all this commandment that I command you to do, loving the Lord your God, walking in all his ways, and holding fast to him, ^1122
+[[H8055|And you shall rejoice]] [[H6440|before]] [[H3068|the LORD]] [[H430|your God—]] [[H859|you,]] [[H1121|your sons]] [[H1323|and daughters,]] [[H5650|and your menservants]] [[H519|and maidservants,]] [[H3881|and the Levite]] [[H8179|within your gates,]] [[H3588|since]] [[H369|he has no]] [[H2506|portion]] [[H5159|or inheritance]] [[H854|among you.]] ^1212
 
-then the Lord will drive out all these nations before you, and you will dispossess nations greater and mightier than you. ^1123
+[[H8104|Be careful]] [[H6435|not]] [[H5927|to offer]] [[H5930|your burnt offerings]] [[H3605|in just any]] [[H4725|place]] [[H7200|you see;]] ^1213
 
-Every place on which the sole of your foot treads shall be yours. Your territory shall be from the wilderness to the Lebanon and from the River, the river Euphrates, to the western sea. ^1124
+[[H5927|you must offer]] ⟨them⟩ [[H5930|]] [[H3588|only]] [[H4725|in the place]] [[H3068|the LORD]] [[H977|will choose]] [[H259|in one]] [[H7626|of your tribal territories,]] [[H8033|and there]] [[H6213|you shall do]] [[H3605|all]] [[H834|that]] [[H595|I]] [[H6680|command you.]] ^1214
 
-No one shall be able to stand against you. The Lord your God will lay the fear of you and the dread of you on all the land that you shall tread, as he promised you. ^1125
+[[H7535|But]] [[H3605|whenever]] [[H5315|you]] [[H185|wish,]] [[H2076|you may slaughter]] [[H398|and eat]] [[H1320|meat]] [[H3605|within any]] [[H8179|of your gates,]] [[H1293|according to the blessing]] [[H3068|the LORD]] [[H430|your God]] [[H5414|has given you.]] [[H2889|Those who are clean]] [[H2931|or unclean]] [[H398|may eat it,]] [[H6643|as they would a gazelle]] [[H354|or deer,]] ^1215
 
-See, I am setting before you today a blessing and a curse : ^1126
+[[H7535|but]] [[H3808|you must not]] [[H398|eat]] [[H1818|the blood;]] [[H8210|pour]] [[H5921|it on]] [[H776|the ground]] [[H4325|like water.]] ^1216
 
-the blessing, if you obey the commandments of the Lord your God, which I command you today, ^1127
+[[H8179|Within your gates]] [[H3201|you must]] [[H3808|not]] [[H398|eat]] [[H4643|the tithe]] [[H1715|of your grain]] [[H8492|or new wine]] [[H3323|or oil,]] [[H1062|the firstborn]] [[H1241|of your herds]] [[H6629|or flocks,]] [[H3605|any]] [[H5088|of the offerings]] [[H834|that]] [[H5087|you have vowed to give,]] [[H5071|or your freewill offerings]] [[H8641|or special gifts.]] ^1217
 
-and the curse, if you do not obey the commandments of the Lord your God, but turn aside from the way that I am commanding you today, to go after other gods that you have not known. ^1128
+[[H3588|Instead,]] [[H398|you must eat them]] [[H6440|in the presence]] [[H3068|of the LORD]] [[H430|your God]] [[H4725|at the place]] [[H3068|the LORD]] [[H430|your God]] [[H977|will choose—]] [[H859|you,]] [[H1121|your sons]] [[H1323|and daughters,]] [[H5650|your menservants]] [[H519|and maidservants,]] [[H3881|and the Levite]] [[H8179|within your gates.]] [[H8055|Rejoice]] [[H6440|before]] [[H3068|the LORD]] [[H430|your God]] [[H3605|in all]] [[H4916|you do,]] ^1218
 
-And when the Lord your God brings you into the land that you are entering to take possession of it, you shall set the blessing on Mount Gerizim and the curse on Mount Ebal. ^1129
+[[H8104|and be careful]] [[H6435|not]] [[H5800|to neglect]] [[H3881|the Levites]] [[H3605|as]] [[H5921|long as you live in]] [[H127|your land.]] ^1219
 
-Are they not beyond the Jordan, west of the road, toward the going down of the sun, in the land of the Canaanites who live in the Arabah, opposite Gilgal, beside the oak of Moreh? ^1130
+[[H3588|When]] [[H3068|the LORD]] [[H430|your God]] [[H7337|expands]] [[H1366|your territory]] [[H834|as]] [[H1696|He has promised,]] [[H5315|and you]] [[H183|crave]] [[H1320|meat]] [[H559|and say,]] [[H398|“I want to eat]] [[H1320|meat,”]] [[H398|you may eat]] [[H1320|it]] [[H3605|whenever]] [[H5315|you]] [[H185|want.]] ^1220
 
-For you are to cross over the Jordan to go in to take possession of the land that the Lord your God is giving you. And when you possess it and live in it, ^1131
+[[H3588|If]] [[H4725|the place]] [[H834|where]] [[H3068|the LORD]] [[H430|your God]] [[H977|chooses]] [[H7760|to put]] [[H8034|His Name]] [[H7368|is too far]] [[H4480|from you,]] [[H2076|you may slaughter]] [[H1241|any of the herd]] [[H6629|or flock]] [[H3068|He]] [[H5414|has given you,]] [[H834|as]] [[H6680|I have commanded you,]] [[H398|and you may eat]] [[H8179|it within your gates]] [[H3605|whenever]] [[H5315|you]] [[H185|want.]] ^1221
 
-you shall be careful to do all the statutes and the rules that I am setting before you today. ^1132
+[[H389|Indeed,]] [[H398|you may eat]] [[H834|it as]] [[H398|you would eat]] [[H6643|a gazelle]] [[H354|or deer;]] [[H3162|both]] [[H2889|the clean]] [[H2931|and the unclean]] [[H398|may eat it.]] ^1222
 
+[[H7535|Only]] [[H2388|be sure]] [[H1115|not]] [[H398|to eat]] [[H1818|the blood,]] [[H3588|because]] [[H1818|the blood]] [[H5315|is the life,]] [[H3808|and you must not]] [[H398|eat]] [[H5315|the life]] [[H5973|with]] [[H1320|the meat.]] ^1223
 
+[[H398|You must not eat]] ⟨the blood⟩; [[H8210|pour]] [[H5921|it on]] [[H776|the ground]] [[H4325|like water.]] ^1224
 
-These are the statutes and rules that you shall be careful to do in the land that the Lord, the God of your fathers, has given you to possess, all the days that you live on the earth. ^1201
+[[H3808|Do not]] [[H398|eat it,]] [[H4616|so that]] [[H3190|it may go well]] [[H1121|with you and your children]] [[H310|after you,]] [[H3588|because]] [[H6213|you will be doing]] [[H3477|what is right]] [[H5869|in the eyes]] [[H3068|of the LORD.]] ^1225
 
-You shall surely destroy all the places where the nations whom you shall dispossess served their gods, on the high mountains and on the hills and under every green tree. ^1202
+[[H7535|But]] [[H5375|you are to take]] [[H6944|your holy things]] [[H5088|and your vow offerings]] [[H935|and go]] [[H413|to]] [[H4725|the place]] [[H3068|the LORD]] [[H977|will choose.]] ^1226
 
-You shall tear down their altars and dash in pieces their pillars and burn their Asherim with fire. You shall chop down the carved images of their gods and destroy their name out of that place. ^1203
+[[H6213|Present]] [[H1320|the meat]] [[H1818|and blood]] [[H5930|of your burnt offerings]] [[H5921|on]] [[H4196|the altar]] [[H3068|of the LORD]] [[H430|your God.]] [[H1818|The blood]] [[H2077|of your other sacrifices]] [[H8210|must be poured out]] [[H5921|beside]] [[H4196|the altar]] [[H3068|of the LORD]] [[H430|your God,]] [[H398|but you may eat]] [[H1320|the meat.]] ^1227
 
-You shall not worship the Lord your God in that way. ^1204
+[[H8104|Be careful]] [[H8085|to obey]] [[H3605|all]] [[H428|these]] [[H1697|things]] [[H595|I]] [[H6680|command you,]] [[H4616|so that]] [[H3190|it may always go well]] [[H1121|with you and your children]] [[H310|after you,]] [[H3588|because]] [[H6213|you will be doing]] [[H2896|what is good]] [[H3477|and right]] [[H5869|in the eyes]] [[H3068|of the LORD]] [[H430|your God.]] ^1228
 
-But you shall seek the place that the Lord your God will choose out of all your tribes to put his name and make his habitation there. There you shall go, ^1205
+[[H3588|When]] [[H3068|the LORD]] [[H430|your God]] [[H3772|cuts off]] [[H6440|before you]] [[H1471|the nations]] [[H859|you]] [[H935|are entering]] [[H3423|to dispossess,]] [[H3423|and you drive them out]] [[H3427|and live]] [[H776|in their land,]] ^1229
 
-and there you shall bring your burnt offerings and your sacrifices, your tithes and the contribution that you present, your vow offerings, your freewill offerings, and the firstborn of your herd and of your flock. ^1206
+[[H8104|be careful]] [[H6435|not]] [[H5367|to be ensnared]] [[H310|by their ways]] [[H310|after]] [[H8045|they have been destroyed]] [[H6440|before you.]] [[H6435|Do not]] [[H1875|inquire]] [[H430|about their gods,]] [[H559|asking,]] [[H349|“How]] [[H428|do these]] [[H1471|nations]] [[H5647|serve]] [[H430|their gods?]] [[H589|I will]] [[H6213|do]] [[H1571|likewise.”]] ^1230
 
-And there you shall eat before the Lord your God, and you shall rejoice, you and your households, in all that you undertake, in which the Lord your God has blessed you. ^1207
+[[H3808|You must not]] ⟨worship⟩ [[H6213|]] [[H3068|the LORD]] [[H430|your God]] [[H3651|in this way,]] [[H3588|because]] [[H6213|they practice]] [[H430|for their gods]] [[H3605|every]] [[H8441|abomination]] [[H834|which]] [[H3068|the LORD]] [[H8130|hates.]] [[H3588|They even]] [[H8313|burn]] [[H1121|their sons]] [[H1323|and daughters]] [[H784|in the fire]] ⟨as sacrifices⟩ [[H430|to their gods.]] ^1231
 
-You shall not do according to all that we are doing here today, everyone doing whatever is right in his own eyes, ^1208
+[[H8104|See that you do]] [[H3605|everything]] [[H595|I]] [[H6680|command you;]] [[H3808|do not]] [[H3254|add]] [[H5921|to it]] [[H1639|or subtract]] [[H4480|from it.]] ^1232
 
-for you have not as yet come to the rest and to the inheritance that the Lord your God is giving you. ^1209
+[[H3588|If]] [[H5030|a prophet]] [[H176|or]] [[H2492|dreamer]] [[H2472|of dreams]] [[H6965|arises]] [[H7130|among you]] [[H5414|and proclaims]] [[H226|a sign]] [[H176|or]] [[H4159|wonder]] [[H413|to you,]] ^1301
 
-But when you go over the Jordan and live in the land that the Lord your God is giving you to inherit, and when he gives you rest from all your enemies around, so that you live in safety, ^1210
+[[H226|and if the sign]] [[H4159|or wonder]] [[H1696|he has spoken]] [[H413|to you]] [[H935|comes about,]] [[H559|but he says,]] [[H1980|“Let us follow]] [[H312|other]] [[H430|gods]] [[H3808|(which you have not]] [[H3045|known)]] [[H5647|and let us worship them,”]] ^1302
 
-then to the place that the Lord your God will choose, to make his name dwell there, there you shall bring all that I command you: your burnt offerings and your sacrifices, your tithes and the contribution that you present, and all your finest vow offerings that you vow to the Lord. ^1211
+[[H3808|you must not]] [[H8085|listen]] [[H413|to]] [[H1697|the words]] [[H1931|of that]] [[H5030|prophet]] [[H176|or]] [[H2492|dreamer.]] [[H3588|For]] [[H3068|the LORD]] [[H430|your God]] [[H5254|is testing you]] [[H3045|to find out]] [[H3426|whether]] [[H157|you love]] ⟨Him⟩ [[H3068|]] [[H3605|with all]] [[H3824|your heart]] [[H3605|and with all]] [[H5315|your soul.]] ^1303
 
-And you shall rejoice before the Lord your God, you and your sons and your daughters, your male servants and your female servants, and the Levite that is within your towns, since he has no portion or inheritance with you. ^1212
+[[H1980|You are to follow]] [[H3069|the LORD]] [[H430|your God]] [[H853|and]] [[H3372|fear Him.]] [[H8104|Keep]] [[H4687|His commandments]] [[H8085|and listen]] [[H6963|to His voice;]] [[H5647|serve]] [[H1692|Him  and hold Him fast.]] ^1304
 
-Take care that you do not offer your burnt offerings at any place that you see, ^1213
+[[H1931|Such a]] [[H5030|prophet]] [[H176|or]] [[H2492|dreamer]] [[H4191|must be put to death,]] [[H3588|because]] [[H1696|he has advocated]] [[H5627|rebellion]] [[H5921|against]] [[H3068|the LORD]] [[H430|your God,]] [[H3318|who brought you out]] [[H4480|of]] [[H776|the land]] [[H4714|of Egypt]] [[H6299|and redeemed you]] [[H1004|from the house]] [[H5650|of slavery,]] [[H5080|in order to turn you]] [[H1870|from the way]] [[H3068|the LORD]] [[H430|your God]] [[H6680|has commanded you]] [[H1980|to walk.]] [[H1197|So you must purge]] [[H7451|the evil]] [[H7130|from among you.]] ^1305
 
-but at the place that the Lord will choose in one of your tribes, there you shall offer your burnt offerings, and there you shall do all that I am commanding you. ^1214
+[[H3588|If]] [[H251|your very own brother,]] [[H176|or]] [[H1121|your son]] [[H176|or]] [[H1323|daughter,]] [[H176|or]] [[H802|the wife]] [[H2436|you embrace,]] [[H176|or]] [[H7453|your closest friend]] [[H5643|secretly]] [[H5496|entices you,]] [[H559|saying,]] [[H1980|“Let us go]] [[H5647|and worship]] [[H312|other]] [[H430|gods”]] [[H834|(which]] [[H859|neither you]] [[H3808|nor]] [[H1|your fathers]] [[H3045|have known,]] ^1306
 
-However, you may slaughter and eat meat within any of your towns, as much as you desire, according to the blessing of the Lord your God that he has given you. The unclean and the clean may eat of it, as of the gazelle and as of the deer. ^1215
+[[H430|the gods]] [[H5971|of the peoples]] [[H5439|around you,]] [[H7138|whether near]] [[H176|or]] [[H7350|far,]] [[H4480|from]] [[H7097|one end]] [[H776|of the earth]] [[H5704|to the other]] [[H776|),]] ^1307
 
-Only you shall not eat the blood; you shall pour it out on the earth like water. ^1216
+[[H3808|you must not]] [[H14|yield]] [[H8085|to him  or listen]] [[H413|to him.]] [[H3808|Show him no]] [[H2347|pity,]] [[H3808|and do not]] [[H2550|spare]] [[H3808|him]] [[H3680|or shield]] [[H5921|him.]] ^1308
 
-You may not eat within your towns the tithe of your grain or of your wine or of your oil, or the firstborn of your herd or of your flock, or any of your vow offerings that you vow, or your freewill offerings or the contribution that you present, ^1217
+[[H3588|Instead,]] [[H2026|you must surely kill him.]] [[H3027|Your hand]] [[H1961|must be]] [[H7223|the first]] [[H4191|against him  to put him to death,]] [[H314|and then]] [[H3027|the hands]] [[H3605|of all]] [[H5971|the people.]] ^1309
 
-but you shall eat them before the Lord your God in the place that the Lord your God will choose, you and your son and your daughter, your male servant and your female servant, and the Levite who is within your towns. And you shall rejoice before the Lord your God in all that you undertake. ^1218
+[[H5619|Stone him]] [[H4191|to death]] [[H3588|for]] [[H1245|trying]] [[H5080|to turn you]] [[H5921|away from]] [[H3068|the LORD]] [[H430|your God,]] [[H3318|who brought you out]] [[H776|of the land]] [[H4714|of Egypt,]] [[H1004|out of the house]] [[H5650|of slavery.]] ^1310
 
-Take care that you do not neglect the Levite as long as you live in your land. ^1219
+[[H3605|Then all]] [[H3478|Israel]] [[H8085|will hear]] [[H3372|and be afraid,]] [[H3808|and will never]] [[H3254|again]] [[H6213|do]] [[H1697|such]] [[H7451|a wicked]] [[H2088|thing]] [[H7130|among you.]] ^1311
 
-When the Lord your God enlarges your territory, as he has promised you, and you say, I will eat meat, because you crave meat, you may eat meat whenever you desire. ^1220
+[[H3588|If,]] [[H259|regarding one]] [[H5892|of the cities]] [[H3068|the LORD]] [[H430|your God]] [[H5414|is giving]] [[H3427|you  to inhabit,]] [[H8085|you hear]] [[H559|it said]] ^1312
 
-If the place that the Lord your God will choose to put his name there is too far from you, then you may kill any of your herd or your flock, which the Lord has given you, as I have commanded you, and you may eat within your towns whenever you desire. ^1221
+[[H1100|that wicked]] [[H376|men]] [[H3318|have arisen]] [[H7130|from among you]] [[H3427|and led the people]] [[H5892|of their city]] [[H5080|astray,]] [[H559|saying,]] [[H1980|“Let us go]] [[H5647|and serve]] [[H312|other]] [[H430|gods”]] [[H834|(which]] [[H3808|you have not]] [[H3045|known),]] ^1313
 
-Just as the gazelle or the deer is eaten, so you may eat of it. The unclean and the clean alike may eat of it. ^1222
+[[H1875|then you must inquire,]] [[H2713|investigate,]] [[H7592|and interrogate]] [[H3190|thoroughly.]] [[H2009|And if]] [[H571|it is established with certainty]] [[H2063|that this]] [[H8441|abomination]] [[H6213|has been committed]] [[H7130|among you,]] ^1314
 
-Only be sure that you do not eat the blood, for the blood is the life, and you shall not eat the life with the flesh. ^1223
+[[H5221|you must surely strike down]] [[H3427|the inhabitants]] [[H1931|of that]] [[H5892|city]] [[H2719|with the sword.]] [[H2763|Destroy]] [[H6310|with]] [[H2719|the sword]] [[H3605|all]] ⟨its people⟩ [[H929|and livestock.]] ^1315
 
-You shall not eat it; you shall pour it out on the earth like water. ^1224
+[[H853|And]] [[H6908|you are to gather]] [[H3605|all]] [[H7998|its plunder]] [[H413|in]] [[H8432|the middle]] [[H7339|of the public square,]] [[H8313|and completely burn]] [[H5892|the city]] [[H3605|and all]] [[H7998|its plunder]] [[H3632|as a whole burnt offering]] [[H3068|to the LORD]] [[H430|your God.]] ⟨The city⟩ [[H1961|must remain]] [[H8510|a mound of ruins]] [[H5769|forever,]] [[H3808|never]] [[H1129|to be rebuilt.]] ^1316
 
-You shall not eat it, that all may go well with you and with your children after you, when you do what is right in the sight of the Lord. ^1225
+[[H3808|Nothing]] [[H2764|set apart for destruction]] [[H1692|shall be found]] [[H3027|in your hands,]] [[H4616|so that]] [[H3068|the LORD]] [[H7725|will turn]] [[H4480|from]] [[H2740|His fierce anger,]] [[H5414|grant]] [[H7356|you mercy,]] [[H7355|show you compassion,]] [[H7235|and multiply you]] [[H834|as]] [[H7650|He swore]] [[H1|to your fathers,]] ^1317
 
-But the holy things that are due from you, and your vow offerings, you shall take, and you shall go to the place that the Lord will choose, ^1226
+[[H3588|because]] [[H8085|you obey]] [[H3068|the LORD]] [[H430|your God,]] [[H8104|keeping]] [[H3605|all]] [[H4687|His commandments]] [[H595|I]] [[H6680|am giving you today,]] [[H6213|doing]] [[H3477|what is right]] [[H5869|in the eyes]] [[H3068|of the LORD]] [[H430|your God.]] ^1318
 
-and offer your burnt offerings, the flesh and the blood, on the altar of the Lord your God. The blood of your sacrifices shall be poured out on the altar of the Lord your God, but the flesh you may eat. ^1227
+[[H859|You]] [[H1121|are sons]] [[H3068|of the LORD]] [[H430|your God;]] [[H3808|do not]] [[H1413|cut]] [[H3808|yourselves]] [[H7760|or shave]] [[H996|your forehead]] [[H4191|on behalf of the dead,]] ^1401
 
-Be careful to obey all these words that I command you, that it may go well with you and with your children after you forever, when you do what is good and right in the sight of the Lord your God. ^1228
+[[H3588|for]] [[H859|you]] [[H6918|are a holy]] [[H5971|people]] [[H3068|belonging to the LORD]] [[H430|your God.]] [[H3068|The LORD]] [[H977|has chosen]] [[H1961|you to be]] [[H5459|His prized possession]] [[H3605|out of all]] [[H5971|the peoples]] [[H5921|on]] [[H6440|the face]] [[H127|of the earth.]] ^1402
 
-When the Lord your God cuts off before you the nations whom you go in to dispossess, and you dispossess them and dwell in their land, ^1229
+[[H3808|You must not]] [[H398|eat]] [[H3605|any]] [[H8441|detestable thing.]] ^1403
 
-take care that you be not ensnared to follow them, after they have been destroyed before you, and that you do not inquire about their gods, saying, How did these nations serve their gods ?—that I also may do the same. ^1230
+[[H2063|These]] [[H929|are the animals]] [[H834|that]] [[H398|you may eat:]] [[H7794|The ox,]] [[H3775|the sheep,]] [[H5795|the goat,]] ^1404
 
-You shall not worship the Lord your God in that way, for every abominable thing that the Lord hates they have done for their gods, for they even burn their sons and their daughters in the fire to their gods. ^1231
+[[H354|the deer,]] [[H6643|the gazelle,]] [[H3180|the roe deer,]] [[H689|the wild goat,]] [[H1788|the ibex,]] [[H8377|the antelope,]] [[H2169|and the mountain sheep.]] ^1405
 
-Everything that I command you, you shall be careful to do. You shall not add to it or take from it. ^1232
+[[H398|You may eat]] [[H3605|any]] [[H929|animal]] [[H6541|that has hooves]] [[H8156|divided]] [[H8147|in two]] [[H5927|and that chews]] [[H1625|the cud.]] ^1406
 
+[[H389|But]] [[H5927|of those that chew]] [[H1625|the cud]] [[H8156|or have divided]] [[H6541|hooves,]] [[H3808|you are not]] [[H398|to eat]] [[H1581|the camel,]] [[H768|the rabbit,]] ⟨or⟩ [[H853|]] [[H8227|the rock badger.]] [[H3588|Although]] [[H1992|they]] [[H5927|chew]] [[H1625|the cud,]] [[H3808|they do not]] [[H6541|have hooves.]] [[H1992|They]] [[H2931|are unclean for you,]] ^1407
 
+[[H853|as well as]] [[H2386|the pig;]] [[H1931|though its]] [[H6541|hooves]] [[H6536|are divided,]] [[H3808|it does not]] [[H1625|chew the cud.]] [[H1931|It]] [[H2931|is unclean for you.]] [[H3808|You must not]] [[H398|eat]] [[H1320|its meat]] [[H5060|or touch]] [[H5038|its carcass.]] ^1408
 
-If a prophet or a dreamer of dreams arises among you and gives you a sign or a wonder, ^1301
+[[H3605|Of all]] ⟨the creatures⟩ [[H834|]] [[H4325|in the water,]] [[H398|you may eat]] [[H3605|anything]] [[H5579|with fins]] [[H7193|and scales,]] ^1409
 
-and the sign or wonder that he tells you comes to pass, and if he says, Let us go after other gods, which you have not known, and let us serve them, ^1302
+[[H3808|but you may not]] [[H398|eat]] [[H3605|anything]] [[H834|that]] [[H369|does not]] [[H5579|have fins]] [[H7193|and scales;]] [[H1931|it]] [[H2931|is unclean]] ^1410
 
-you shall not listen to the words of that prophet or that dreamer of dreams. For the Lord your God is testing you, to know whether you love the Lord your God with all your heart and with all your soul. ^1303
+[[H398|You may eat]] [[H3605|any]] [[H2889|clean]] [[H6833|bird,]] ^1411
 
-You shall walk after the Lord your God and fear him and keep his commandments and obey his voice, and you shall serve him and hold fast to him. ^1304
+[[H2088|but these]] [[H3808|you may not]] [[H398|eat:]] [[H5404|the eagle,]] [[H6538|the vulture,]] [[H5822|the black vulture,]] ^1412
 
-But that prophet or that dreamer of dreams shall be put to death, because he has taught rebellion against the Lord your God, who brought you out of the land of Egypt and redeemed you out of the house of slavery, to make you leave the way in which the Lord your God commanded you to walk. So you shall purge the evil from your midst. ^1305
+[[H7201|the red kite,]] [[H344|the black kite,]] [[H4327|any kind]] [[H1772|of falcon,]] ^1413
 
-If your brother, the son of your mother, or your son or your daughter or the wife you embrace or your friend who is as your own soul entices you secretly, saying, Let us go and serve other gods, which neither you nor your fathers have known, ^1306
+[[H3605|any]] [[H4327|kind]] [[H6158|of raven,]] ^1414
 
-some of the gods of the peoples who are around you, whether near you or far off from you, from the one end of the earth to the other, ^1307
+[[H1323|the ostrich,]] [[H8464|the owl,]] [[H7828|the seagull,]] [[H4327|any kind]] [[H5322|of hawk,]] ^1415
 
-you shall not yield to him or listen to him, nor shall your eye pity him, nor shall you spare him, nor shall you conceal him. ^1308
+[[H3563|the little owl,]] [[H3244|the great owl,]] [[H8580|the white owl,]] ^1416
 
-But you shall kill him. Your hand shall be first against him to put him to death, and afterward the hand of all the people. ^1309
+[[H6893|the desert owl,]] [[H7360|the osprey,]] [[H7994|the cormorant,]] ^1417
 
-You shall stone him to death with stones, because he sought to draw you away from the Lord your God, who brought you out of the land of Egypt, out of the house of slavery. ^1310
+[[H2624|the stork,]] [[H4327|any kind]] [[H601|of heron,]] [[H1744|the hoopoe,]] [[H5847|or the bat.]] ^1418
 
-And all Israel shall hear and fear and never again do any such wickedness as this among you. ^1311
+[[H3605|All]] [[H5775|winged insects]] [[H8318|that swarm]] [[H2931|are unclean for you;]] [[H3808|they may not]] [[H398|be eaten.]] ^1419
 
-If you hear in one of your cities, which the Lord your God is giving you to dwell there, ^1312
+[[H398|But you may eat]] [[H3605|any]] [[H2889|clean]] [[H5775|bird.]] ^1420
 
-that certain worthless fellows have gone out among you and have drawn away the inhabitants of their city, saying, Let us go and serve other gods, which you have not known, ^1313
+[[H3808|You are not]] [[H398|to eat]] [[H3605|any]] [[H5038|carcass;]] [[H5414|you may give]] [[H1616|it to a temporary resident]] [[H8179|within your gates,]] [[H398|and he may eat it,]] [[H176|or]] [[H4376|you may sell]] [[H5237|it to a foreigner.]] [[H3588|For]] [[H859|you]] [[H6918|are a holy]] [[H5971|people]] [[H3068|belonging to the LORD]] [[H430|your God.]] [[H3808|You must not]] [[H1310|cook]] [[H1423|a young goat]] [[H517|in its mothers]] [[H2461|milk.]] ^1421
 
-then you shall inquire and make search and ask diligently. And behold, if it be true and certain that such an abomination has been done among you, ^1314
+[[H6237|You must be sure to set aside a tenth]] [[H3605|of all]] [[H8393|the produce]] [[H3318|brought forth]] [[H8141|each year]] [[H7704|from your fields.]] ^1422
 
-you shall surely put the inhabitants of that city to the sword, devoting it to destruction, all who are in it and its cattle, with the edge of the sword. ^1315
+[[H398|And you are to eat]] [[H4643|a tenth]] [[H1715|of your grain,]] [[H8492|new wine,]] [[H3323|and oil,]] [[H1062|and the firstborn]] [[H1241|of your herds]] [[H6629|and flocks,]] [[H6440|in the presence]] [[H3069|of the LORD]] [[H430|your God]] [[H4725|at the place]] [[H834|where]] [[H977|He will choose]] [[H7931|as a dwelling]] [[H8034|for His Name,]] [[H4616|so that]] [[H3925|you may learn]] [[H3372|to fear]] [[H3069|the LORD]] [[H430|your God]] [[H3605|always.]] ^1423
 
-You shall gather all its spoil into the midst of its open square and burn the city and all its spoil with fire, as a whole burnt offering to the Lord your God. It shall be a heap forever. It shall not be built again. ^1316
+[[H3588|But if]] [[H1870|the distance]] [[H7235|is too great]] [[H4480|for]] [[H5375|you to carry]] [[H3588|that with which]] [[H3068|the LORD]] [[H430|your God]] [[H1288|has blessed you,]] [[H3588|because]] [[H4725|the place]] [[H834|where]] [[H3068|the LORD]] [[H430|your God]] [[H977|will choose]] [[H7760|to put]] [[H8034|His Name]] [[H7368|is too far away,]] ^1424
 
-None of the devoted things shall stick to your hand, that the Lord may turn from the fierceness of his anger and show you mercy and have compassion on you and multiply you, as he swore to your fathers, ^1317
+[[H5414|then exchange]] [[H3701|it for money,]] [[H6887|take]] [[H3701|the money]] [[H3027|in your hand,]] [[H1980|and go]] [[H413|to]] [[H4725|the place]] [[H834|where]] [[H3068|the LORD]] [[H430|your God]] [[H977|will choose.]] ^1425
 
-if you obey the voice of the Lord your God, keeping all his commandments that I am commanding you today, and doing what is right in the sight of the Lord your God. ^1318
+[[H5414|Then you may spend]] [[H3701|the money]] [[H3605|on anything]] [[H5315|you]] [[H183|desire:]] [[H1241|cattle,]] [[H6629|sheep,]] [[H3196|wine,]] [[H7941|strong drink,]] [[H3605|or anything]] [[H5315|you]] [[H7592|wish.]] [[H398|You are to feast]] [[H8033|there]] [[H6440|in the presence]] [[H3068|of the LORD]] [[H430|your God]] [[H8055|and rejoice]] [[H1004|with your household.]] ^1426
 
+[[H3808|And do not]] [[H5800|neglect]] [[H3881|the Levite]] [[H8179|within your gates,]] [[H3588|since]] [[H369|he has no]] [[H2506|portion]] [[H5159|or inheritance]] [[H5973|among you.]] ^1427
 
+[[H7097|At the end]] [[H7969|of every three]] [[H8141|years,]] [[H3318|bring]] [[H4643|a tenth]] [[H3605|of all]] [[H8393|your produce]] [[H1931|for that]] [[H8141|year]] [[H3240|and lay up]] ⟨it⟩ [[H8179|within your gates.]] ^1428
 
-You are the sons of the Lord your God. You shall not cut yourselves or make any baldness on your foreheads for the dead. ^1401
+[[H3881|Then the Levite]] [[H3588|(because]] [[H369|he has no]] [[H2506|portion]] [[H5159|or inheritance]] [[H5973|among you),]] [[H1616|the foreigner,]] [[H3490|the fatherless,]] [[H490|and the widow]] [[H8179|within your gates]] [[H935|may come]] [[H398|and eat]] [[H7646|and be satisfied.]] [[H3068|And the LORD]] [[H430|your God]] [[H1288|will bless]] [[H3605|you in all]] [[H4639|the work]] [[H3027|of your hands.]] ^1429
 
-For you are a people holy to the Lord your God, and the Lord has chosen you to be a people for his treasured possession, out of all the peoples who are on the face of the earth. ^1402
+[[H7093|At the end]] [[H7651|of every seven]] [[H8141|years]] [[H8059|you must cancel debts.]] ^1501
 
-You shall not eat any abomination. ^1403
+[[H2088|This]] [[H1697|is the manner]] [[H8059|of remission:]] [[H3605|Every]] [[H1167|creditor]] [[H8058|shall cancel]] [[H834|what]] [[H5383|he has loaned]] [[H7453|his neighbor.]] [[H3808|He is not]] [[H5065|to collect]] [[H853|anything]] [[H7453|from his neighbor]] [[H251|or brother,]] [[H3588|because]] [[H3068|the LORD’s]] [[H8059|time of release]] [[H7121|has been proclaimed.]] ^1502
 
-These are the animals you may eat : the ox, the sheep, the goat, ^1404
+[[H5065|You may collect]] [[H5237|something from a foreigner,]] [[H3027|but you]] [[H8058|must forgive]] [[H834|whatever]] [[H251|your brother]] [[H1961|owes you.]] ^1503
 
-the deer, the gazelle, the roebuck, the wild goat, the ibex, the antelope, and the mountain sheep. ^1405
+[[H1961|There will be]] [[H3808|no]] [[H34|poor among you,]] [[H657|however,]] [[H3588|because]] [[H3068|the LORD]] [[H1288|will surely bless you]] [[H776|in the land]] [[H3068|the LORD]] [[H430|your God]] [[H5414|is giving]] [[H3423|you  to possess]] [[H5159|as an inheritance,]] ^1504
 
-Every animal that parts the hoof and has the hoof cloven in two and chews the cud, among the animals, you may eat. ^1406
+[[H518|if]] [[H7535|only]] [[H8085|you obey]] [[H3068|the LORD]] [[H430|your God]] [[H8104|and are careful]] [[H6213|to follow]] [[H3605|all]] [[H2063|these]] [[H4687|commandments]] [[H595|I]] [[H6680|am giving you today.]] ^1505
 
-Yet of those that chew the cud or have the hoof cloven you shall not eat these: the camel, the hare, and the rock badger, because they chew the cud but do not part the hoof, are unclean for you. ^1407
+[[H3068|When the LORD]] [[H430|your God]] [[H1288|blesses you]] [[H834|as]] [[H1696|He has promised,]] [[H5670|you will lend]] [[H7227|to many]] [[H1471|nations]] [[H5670|but borrow]] [[H3808|from none;]] [[H4910|you will rule]] [[H7227|over many]] [[H1471|nations,]] [[H4910|but be ruled]] [[H3808|by none.]] ^1506
 
-And the pig, because it parts the hoof but does not chew the cud, is unclean for you. Their flesh you shall not eat, and their carcasses you shall not touch. ^1408
+[[H3588|If]] [[H1961|there is]] [[H34|a poor man]] [[H251|among  your brothers]] [[H259|within any]] [[H8179|of the gates]] [[H776|in the land]] [[H834|that]] [[H3068|the LORD]] [[H430|your God]] [[H5414|is giving you,]] [[H3808|you are not]] [[H553|to harden]] [[H3824|your heart]] ⟨or⟩ [[H3808|]] [[H7092|shut]] [[H3027|your hand]] [[H34|from your poor]] [[H251|brother.]] ^1507
 
-Of all that are in the waters you may eat these : whatever has fins and scales you may eat. ^1409
+[[H3588|Instead,]] [[H6605|you are to open]] [[H3027|your hand]] [[H5670|to him  and freely loan]] [[H5670|him]] [[H1767|whatever]] [[H4270|he needs.]] ^1508
 
-And whatever does not have fins and scales you shall not eat; it is unclean for you. ^1410
+[[H8104|Be careful]] [[H6435|not to harbor]] [[H1100|this wicked]] [[H1697|thought]] [[H5973|in]] [[H3824|your heart,]] [[H7651|“The seventh]] [[H8141|year,]] [[H8141|the year]] [[H8059|of release,]] [[H7126|is near,”]] [[H5869|so that you look upon]] [[H34|your poor]] [[H251|brother]] [[H7489|begrudgingly]] [[H5414|and give him]] [[H3808|nothing.]] [[H7121|He will cry out]] [[H413|to]] [[H3068|the LORD]] [[H5921|against you,]] [[H1961|and you will be]] [[H2399|guilty of sin.]] ^1509
 
-You may eat all clean birds. ^1411
+[[H5414|Give generously]] [[H3808|to him,  and do not]] [[H3824|let your heart]] [[H7489|be grieved]] ⟨when you do so⟩ [[H5414|.]] [[H1558|And because of]] [[H2088|this]] [[H3069|the LORD]] [[H430|your God]] [[H1288|will bless]] [[H3605|you in all]] [[H4639|your work]] [[H3605|and in everything]] [[H4916|to which you put]] [[H3027|your hand.]] ^1510
 
-But these are the ones that you shall not eat : the eagle, the bearded vulture, the black vulture, ^1412
+[[H3588|For]] [[H3808|there will never]] [[H2308|cease]] [[H34|to be poor]] [[H7130|in]] [[H776|the land;]] [[H5921|that is why]] [[H595|I]] [[H6680|am commanding you]] [[H559|to]] [[H6605|open]] [[H6605|wide]] [[H3027|your hand]] [[H251|to your brother]] [[H6041|and to the poor]] [[H34|and needy]] [[H776|in your land.]] ^1511
 
-the kite, the falcon of any kind; ^1413
+[[H3588|If]] [[H251|a fellow]] [[H5680|Hebrew,]] [[H176|a man or]] [[H5680|a woman,]] [[H4376|sells himself]] [[H5647|to you  and serves you]] [[H8337|six]] [[H8141|years,]] [[H7637|in the seventh]] [[H8141|year]] [[H7971|you must set]] [[H2670|him free.]] ^1512
 
-every raven of any kind; ^1414
+[[H3588|And when]] [[H7971|you release him,]] [[H3808|do not]] [[H7971|send him away]] [[H7387|empty-handed.]] ^1513
 
-the ostrich, the nighthawk, the sea gull, the hawk of any kind; ^1415
+[[H6059|You are to furnish]] [[H6059|him liberally]] [[H6629|from your flock,]] [[H1637|your threshing floor,]] [[H3342|and your winepress.]] [[H5414|You shall give]] [[H834|to him  as]] [[H3068|the LORD]] [[H430|your God]] [[H1288|has blessed you.]] ^1514
 
-the little owl and the short-eared owl, the barn owl ^1416
+[[H2142|Remember]] [[H3588|that]] [[H1961|you were]] [[H5650|slaves]] [[H776|in the land]] [[H4714|of Egypt,]] [[H3068|and the LORD]] [[H430|your God]] [[H6299|redeemed you;]] [[H5921|that is why]] [[H595|I]] [[H6680|am giving]] [[H853|you]] [[H2088|this]] [[H1697|command]] [[H3117|today.]] ^1515
 
-and the tawny owl, the carrion vulture and the cormorant, ^1417
+[[H3588|But if]] [[H559|your servant says]] [[H413|to you,]] [[H3808|‘I do not]] [[H3318|want to leave you,’]] [[H3588|because]] [[H157|he loves]] [[H853|you]] [[H1004|and your household]] [[H3588|and]] [[H2895|is well off]] [[H5973|with you,]] ^1516
 
-the stork, the heron of any kind; the hoopoe and the bat. ^1418
+[[H3947|take]] [[H4836|an awl]] [[H5414|and pierce]] ⟨it⟩ [[H241|through his ear]] [[H1817|into the door,]] [[H1961|and he will become]] [[H5650|your  servant]] [[H5769|for life.]] [[H637|And]] [[H6213|treat]] [[H519|your maidservant]] [[H3651|the same way.]] ^1517
 
-And all winged insects are unclean for you; they shall not be eaten. ^1419
+[[H3808|Do not]] [[H5869|regard it]] [[H7185|as a hardship]] [[H7971|to set]] ⟨your servant⟩ [[H853|]] [[H2670|free,]] [[H3588|because]] [[H8337|his six]] [[H8141|years]] [[H5647|of service]] [[H4932|were worth twice]] [[H7939|the wages]] [[H7916|of a hired hand.]] [[H3068|And the LORD]] [[H430|your God]] [[H1288|will bless you]] [[H3605|in all]] [[H6213|you do.]] ^1518
 
-All clean winged things you may eat. ^1420
+[[H6942|You must set apart]] [[H3068|to the LORD]] [[H430|your God]] [[H3605|every]] [[H1060|firstborn]] [[H2145|male]] [[H3205|produced]] [[H1241|by your herds]] [[H6629|and flocks.]] [[H3808|You are not]] [[H1060|to put the firstborn]] [[H7794|of your oxen]] [[H5647|to work]] ⟨or⟩ [[H3808|]] [[H1494|shear]] [[H1060|the firstborn]] [[H6629|of your flock.]] ^1519
 
-You shall not eat anything that has died naturally. You may give it to the sojourner who is within your towns, that he may eat it, or you may sell it to a foreigner. For you are a people holy to the Lord your God. You shall not boil a young goat in its mother’s milk. ^1421
+[[H8141|Each year]] [[H859|you]] [[H1004|and your household]] [[H398|are to eat it]] [[H6440|before]] [[H3068|the LORD]] [[H430|your God]] [[H4725|in the place]] [[H3068|the LORD]] [[H977|will choose.]] ^1520
 
-You shall tithe all the yield of your seed that comes from the field year by year. ^1422
+[[H3588|But if]] ⟨an animal⟩ [[H1961|has]] [[H3971|a defect,]] [[H6455|is lame]] [[H176|or]] [[H5787|blind,]] [[H3605|or has any]] [[H7451|serious]] [[H3971|flaw,]] [[H3808|you must not]] [[H2076|sacrifice]] [[H3068|it to the LORD]] [[H430|your God.]] ^1521
 
-And before the Lord your God, in the place that he will choose, to make his name dwell there, you shall eat the tithe of your grain, of your wine, and of your oil, and the firstborn of your herd and flock, that you may learn to fear the Lord your God always. ^1423
+[[H398|Eat it]] [[H8179|within your gates;]] [[H3162|both]] [[H2931|the unclean]] [[H2889|person and the clean]] ⟨may eat it⟩ [[H6643|as if it were a gazelle]] [[H354|or deer.]] ^1522
 
-And if the way is too long for you, so that you are not able to carry the tithe, when the Lord your God blesses you, because the place is too far from you, which the Lord your God chooses, to set his name there, ^1424
+[[H7535|But]] [[H3808|you must not]] [[H398|eat]] [[H1818|the blood;]] [[H8210|pour]] [[H5921|it on]] [[H776|the ground]] [[H4325|like water.]] ^1523
 
-then you shall turn it into money and bind up the money in your hand and go to the place that the Lord your God chooses ^1425
+[[H8104|Observe]] [[H2320|the month]] [[H24|of Abib]] [[H6213|and celebrate]] [[H6453|the Passover]] [[H3068|to the LORD]] [[H430|your God,]] [[H3588|because]] [[H2320|in the month]] [[H24|of Abib]] [[H3068|the LORD]] [[H430|your God]] [[H3318|brought you out]] [[H4714|of Egypt]] [[H3915|by night.]] ^1601
 
-and spend the money for whatever you desire — oxen or sheep or wine or strong drink, whatever your appetite craves. And you shall eat there before the Lord your God and rejoice, you and your household. ^1426
+[[H2076|You are to offer]] [[H3068|to the LORD]] [[H430|your God]] [[H6453|the Passover sacrifice]] [[H1241|from the herd]] [[H6629|or flock]] [[H4725|in the place]] [[H834|where]] [[H3068|the LORD]] [[H977|will choose]] [[H7931|as a dwelling]] [[H8034|for His Name.]] ^1602
 
-And you shall not neglect the Levite who is within your towns, for he has no portion or inheritance with you. ^1427
+[[H3808|You must not]] [[H398|eat]] [[H2557|leavened bread]] [[H5921|with it;]] [[H7651|for seven]] [[H3117|days]] [[H398|you are to eat]] [[H5921|with it]] [[H4682|unleavened bread,]] [[H3899|the bread]] [[H6040|of affliction,]] [[H3588|because]] [[H3318|you left]] [[H776|the land]] [[H4714|of Egypt]] [[H2649|in haste—]] [[H4616|so that]] [[H2142|you may remember]] [[H3605|for the rest]] [[H2416|of your life]] [[H3117|the day]] [[H3318|you left]] [[H776|the land]] [[H4714|of Egypt.]] ^1603
 
-At the end of every three years you shall bring out all the tithe of your produce in the same year and lay it up within your towns. ^1428
+[[H3808|No]] [[H7603|yeast]] [[H7200|is to be found]] [[H3605|in all]] [[H1366|your land]] [[H7651|for seven]] [[H3117|days,]] [[H3808|and none]] [[H4480|of]] [[H1320|the meat]] [[H2076|you sacrifice]] [[H6153|in the evening]] [[H7223|of the first]] [[H3117|day]] [[H3885|shall remain]] [[H1242|until morning.]] ^1604
 
-And the Levite, because he has no portion or inheritance with you, and the sojourner, the fatherless, and the widow, who are within your towns, shall come and eat and be filled, that the Lord your God may bless you in all the work of your hands that you do. ^1429
+[[H3808|You are not]] [[H2076|to sacrifice]] [[H6453|the Passover animal]] [[H259|in any]] [[H8179|of the towns]] [[H3068|the LORD]] [[H430|your God]] [[H5414|is giving you.]] ^1605
 
+[[H3588|You must only]] [[H2076|offer]] [[H6453|the Passover sacrifice]] [[H413|at]] [[H4725|the place]] [[H834|where]] [[H3068|the LORD]] [[H430|your God]] [[H977|will choose]] [[H7931|as a dwelling]] [[H8034|for His Name.]] [[H6153|Do this in the evening]] [[H8121|as the sun]] [[H935|sets,]] [[H4150|at the same time]] [[H3318|you departed]] [[H4714|from Egypt.]] ^1606
 
+[[H1310|And you shall roast]] [[H398|and eat it]] [[H4725|in the place]] [[H3068|the LORD]] [[H430|your God]] [[H977|will choose,]] [[H1242|and in the morning]] [[H1980|you shall return]] [[H168|to your tents.]] ^1607
 
-At the end of every seven years you shall grant a release. ^1501
+[[H8337|For six]] [[H3117|days]] [[H398|you must eat]] [[H4682|unleavened bread,]] [[H7637|and on the seventh]] [[H3117|day]] [[H6116|you shall hold a solemn assembly]] [[H3068|to the LORD]] [[H430|your God,]] [[H3808|and you must not]] [[H6213|do]] [[H4399|any work.]] ^1608
 
-And this is the manner of the release : every creditor shall release what he has lent to his neighbor. He shall not exact it of his neighbor, his brother, because the Lord ’s release has been proclaimed. ^1502
+[[H5608|You are to count off]] [[H7651|seven]] [[H7620|weeks]] ⟨from⟩ [[H5608|]] ⟨the time⟩ [[H7620|]] [[H2770|you first put the sickle]] [[H7054|to the standing grain.]] ^1609
 
-Of a foreigner you may exact it, but whatever of yours is with your brother your hand shall release. ^1503
+[[H6213|And you shall celebrate]] [[H2282|the Feast]] [[H7620|of Weeks]] [[H3068|to the LORD]] [[H430|your God]] [[H5071|with a freewill offering]] [[H834|that]] [[H5414|you give]] [[H834|in proportion to how]] [[H3068|the LORD]] [[H430|your God]] [[H1288|has blessed you,]] ^1610
 
-But there will be no poor among you; for the Lord will bless you in the land that the Lord your God is giving you for an inheritance to possess — ^1504
+[[H8055|and you shall rejoice]] [[H6440|before]] [[H3068|the LORD]] [[H430|your God]] [[H4725|in the place]] [[H834|where]] [[H3068|He]] [[H977|will choose]] [[H7931|as a dwelling]] [[H8034|for His Name—]] [[H859|you,]] [[H1121|your sons]] [[H1323|and daughters,]] [[H5650|your menservants]] [[H519|and maidservants,]] [[H3881|and the Levite]] [[H8179|within your gates,]] [[H1616|as well as the foreigner,]] [[H3490|the fatherless,]] [[H490|and the widows]] [[H7130|among you.]] ^1611
 
-if only you will strictly obey the voice of the Lord your God, being careful to do all this commandment that I command you today. ^1505
+[[H2142|Remember]] [[H3588|that]] [[H1961|you were]] [[H5650|slaves]] [[H4714|in Egypt,]] [[H8104|and carefully]] [[H6213|follow]] [[H428|these]] [[H2706|statutes.]] ^1612
 
-For the Lord your God will bless you, as he promised you, and you shall lend to many nations, but you shall not borrow, and you shall rule over many nations, but they shall not rule over you. ^1506
+[[H6213|You are to celebrate]] [[H2282|the Feast]] [[H5521|of Tabernacles]] [[H7651|for seven]] [[H3117|days]] [[H622|after you have gathered]] ⟨the produce of⟩ [[H1637|your threshing floor]] [[H3342|and your winepress.]] ^1613
 
-If among you, one of your brothers should become poor, in any of your towns within your land that the Lord your God is giving you, you shall not harden your heart or shut your hand against your poor brother, ^1507
+[[H8055|And you shall rejoice]] [[H2282|in your feast—]] [[H859|you,]] [[H1121|your sons]] [[H1323|and daughters,]] [[H5650|your menservants]] [[H519|and maidservants,]] [[H3881|and the Levite,]] [[H1616|as well as the foreigner,]] [[H3490|the fatherless,]] [[H490|and the widows]] [[H8179|among you.]] ^1614
 
-but you shall open your hand to him and lend him sufficient for his need, whatever it may be. ^1508
+[[H7651|For seven]] [[H3117|days]] [[H2287|you shall celebrate a feast]] [[H3068|for the LORD]] [[H430|your God]] [[H4725|in the place]] [[H3068|He]] [[H977|will choose,]] [[H3588|because]] [[H3068|the LORD]] [[H430|your God]] [[H1288|will bless]] [[H3605|you in all]] [[H8393|your produce]] [[H3605|and in all]] [[H4639|the work]] [[H3027|of your hands,]] [[H8056|so that your joy]] [[H1961|will be]] [[H389|complete.]] ^1615
 
-Take care lest there be an unworthy thought in your heart and you say, The seventh year, the year of release is near, and your eye look grudgingly on your poor brother, and you give him nothing, and he cry to the Lord against you, and you be guilty of sin. ^1509
+[[H7969|Three]] [[H6471|times]] [[H8141|a year]] [[H3605|all]] [[H2138|your men]] [[H7200|are to appear]] [[H6440|before]] [[H3068|the LORD]] [[H430|your God]] [[H4725|in the place]] [[H977|He will choose:]] [[H2282|at the Feast]] [[H4682|of Unleavened Bread,]] [[H2282|the Feast]] [[H7620|of Weeks,]] [[H2282|and the Feast]] [[H5521|of Tabernacles]] [[H3808|No one]] [[H7200|should appear]] [[H6440|before]] [[H3068|the LORD]] [[H7387|empty-handed.]] ^1616
 
-You shall give to him freely, and your heart shall not be grudging when you give to him, because for this the Lord your God will bless you in all your work and in all that you undertake. ^1510
+[[H376|Everyone]] [[H4979|must appear with a gift]] [[H3027|as he is able,]] [[H1293|according to the blessing]] [[H3068|the LORD]] [[H430|your God]] [[H5414|has given you.]] ^1617
 
-For there will never cease to be poor in the land. Therefore I command you, You shall open wide your hand to your brother, to the needy and to the poor, in your land. ^1511
+[[H5414|You are to appoint]] [[H8199|judges]] [[H7860|and officials]] [[H7626|for your tribes]] [[H3605|in every]] [[H8179|town]] [[H3068|the LORD]] [[H430|your God]] [[H5414|is giving you.]] [[H8199|They are to judge]] [[H5971|the people]] [[H6664|with righteous]] [[H4941|judgment.]] ^1618
 
-If your brother, a Hebrew man or a Hebrew woman, is sold to you, he shall serve you six years, and in the seventh year you shall let him go free from you. ^1512
+[[H3808|Do not]] [[H5186|deny]] [[H4941|justice]] [[H5234|or show partiality.]] [[H3808|Do not]] [[H3947|accept]] [[H7810|any bribes,]] [[H3588|for]] [[H7810|a bribe]] [[H5786|blinds]] [[H5869|the eyes]] [[H2450|of the wise]] [[H5557|and twists]] [[H1697|the words]] [[H6662|of the righteous.]] ^1619
 
-And when you let him go free from you, you shall not let him go empty-handed. ^1513
+[[H7291|Pursue]] [[H6664|justice,]] [[H6664|and justice alone,]] [[H4616|so that]] [[H2421|you may live,]] [[H3423|and you may possess]] [[H776|the land]] [[H3068|the LORD]] [[H430|your God]] [[H5414|is giving you.]] ^1620
 
-You shall furnish him liberally out of your flock, out of your threshing floor, and out of your winepress. As the Lord your God has blessed you, you shall give to him. ^1514
+[[H3808|You shall not]] [[H5193|plant]] [[H3605|any]] [[H6086|kind of tree]] [[H842|as an Asherah pole]] [[H681|next to]] [[H4196|the altar]] [[H6213|you will build]] [[H3068|for the LORD]] [[H430|your God,]] ^1621
 
-You shall remember that you were a slave in the land of Egypt, and the Lord your God redeemed you; therefore I command you this today. ^1515
+[[H3808|and do not]] [[H6965|set up]] [[H4676|for yourselves  a sacred pillar,]] [[H834|which]] [[H3068|the LORD]] [[H430|your God]] [[H8130|hates.]] ^1622
 
-But if he says to you, I will not go out from you, because he loves you and your household, since he is well-off with you, ^1516
+[[H3808|You shall not]] [[H2076|sacrifice]] [[H3068|to the LORD]] [[H430|your God]] [[H7794|an ox]] [[H7716|or a sheep]] [[H3971|with any defect]] ⟨or⟩ [[H3605|]] [[H7451|serious]] [[H1697|flaw,]] [[H3588|for]] [[H1931|that]] [[H8441|is detestable]] [[H3068|to the LORD]] [[H430|your God.]] ^1701
 
-then you shall take an awl, and put it through his ear into the door, and he shall be your slave forever. And to your female slave you shall do the same. ^1517
+[[H3588|If]] [[H376|a man]] [[H176|or]] [[H802|woman]] [[H7130|among you]] [[H259|in one]] [[H8179|of the towns]] [[H834|that]] [[H3068|the LORD]] [[H430|your God]] [[H5414|gives]] [[H4672|you  is found]] [[H6213|doing]] [[H7451|evil]] [[H5869|in the sight]] [[H3068|of the LORD]] [[H430|your God]] [[H5674|by transgressing]] [[H1285|His covenant]] ^1702
 
-It shall not seem hard to you when you let him go free from you, for at half the cost of a hired worker he has served you six years. So the Lord your God will bless you in all that you do. ^1518
+[[H1980|and going]] [[H5647|to worship]] [[H312|other]] [[H430|gods,]] [[H7812|bowing down]] [[H8121|to them  or to the sun]] [[H176|or]] [[H3394|moon]] [[H176|or]] [[H3605|any]] [[H6635|of the host]] [[H8064|of heaven—]] [[H834|which]] [[H3808|I have forbidden—]] ^1703
 
-All the firstborn males that are born of your herd and flock you shall dedicate to the Lord your God. You shall do no work with the firstborn of your herd, nor shear the firstborn of your flock. ^1519
+[[H5046|and if it is reported]] [[H8085|and you hear about it,]] [[H1875|you must investigate it]] [[H3190|thoroughly.]] [[H2009|If]] [[H1697|the report]] [[H6213|is]] [[H571|TRUE]] [[H2063|and such]] [[H8441|an abomination]] [[H3478|has happened in Israel,]] ^1704
 
-You shall eat it, you and your household, before the Lord your God year by year at the place that the Lord will choose. ^1520
+[[H3318|you must bring out]] [[H413|to]] [[H8179|your gates]] [[H1931|that]] [[H376|man]] [[H176|or]] [[H802|woman]] [[H834|who]] [[H6213|has done]] [[H2088|this]] [[H7451|evil]] [[H1697|thing,]] [[H5619|and stone that person]] [[H4191|to death.]] ^1705
 
-But if it has any blemish, if it is lame or blind or has any serious blemish whatever, you shall not sacrifice it to the Lord your God. ^1521
+[[H5921|On]] [[H6310|the testimony]] [[H8147|of two]] [[H176|or]] [[H7969|three]] [[H5707|witnesses]] [[H4191|a man shall be put to death,]] [[H3808|but he shall not]] [[H4191|be executed]] [[H5921|on]] [[H6310|the testimony]] [[H259|of a lone]] [[H5707|witness.]] ^1706
 
-You shall eat it within your towns. The unclean and the clean alike may eat it, as though it were a gazelle or a deer. ^1522
+[[H3027|The hands]] [[H5707|of the witnesses]] [[H1961|shall be]] [[H7223|the first]] [[H4191|in putting him to death,]] [[H314|and after that,]] [[H3027|the hands]] [[H3605|of all]] [[H5971|the people.]] [[H1197|You must purge]] [[H7451|the evil]] [[H7130|from among you.]] ^1707
 
-Only you shall not eat its blood; you shall pour it out on the ground like water. ^1523
+[[H3588|If]] [[H1697|a case]] [[H6381|is too difficult]] [[H4480|for you]] [[H4941|to judge,]] [[H1697|whether]] [[H7379|the controversy]] [[H8179|within your gates]] [[H996|is regarding]] [[H1818|bloodshed,]] [[H1779|lawsuits,]] [[H5061|or assaults,]] [[H5927|you must go up]] [[H413|to]] [[H4725|the place]] [[H3068|the LORD]] [[H430|your God]] [[H977|will choose.]] ^1708
 
+[[H935|You are to go]] [[H413|to]] [[H3881|the Levitical]] [[H3548|priests]] [[H413|and to]] [[H8199|the judge]] [[H834|who]] [[H1992|presides at that]] [[H3117|time.]] [[H1875|Inquire of them,]] [[H5046|and they will give]] [[H1697|you a verdict]] [[H4941|in the case.]] ^1709
 
+[[H6213|You must abide by]] [[H1697|the verdict]] [[H5046|they give]] [[H4480|you at]] [[H4725|the place]] [[H3068|the LORD]] [[H977|will choose.]] [[H8104|Be careful]] [[H6213|to do]] [[H3605|everything]] [[H3384|they instruct you,]] ^1710
 
-Observe the month of Abib and keep the Passover to the Lord your God, for in the month of Abib the Lord your God brought you out of Egypt by night. ^1601
+[[H5921|according]] [[H6310|to the terms]] [[H8451|of law]] [[H3384|they give]] [[H4941|and the verdict]] [[H559|they proclaim.]] [[H3808|Do not]] [[H5493|turn aside]] [[H3225|to the right]] [[H8040|or to the left]] [[H4480|from]] [[H1697|the decision]] [[H5046|they declare]] ^1711
 
-And you shall offer the Passover sacrifice to the Lord your God, from the flock or the herd, at the place that the Lord will choose, to make his name dwell there. ^1602
+[[H376|But the man]] [[H834|who]] [[H6213|acts]] [[H2087|presumptuously,]] [[H1115|refusing]] [[H8085|to listen]] [[H413|either to]] [[H3548|the priest]] [[H5975|who stands]] [[H8033|there]] [[H8334|to serve]] [[H3069|the LORD]] [[H430|your God,]] [[H176|or]] [[H413|to]] [[H8199|the judge,]] [[H4191|must be put to death.]] [[H1197|You must purge]] [[H7451|the evil]] [[H3478|from Israel.]] ^1712
 
-You shall eat no leavened bread with it. Seven days you shall eat it with unleavened bread, the bread of affliction — for you came out of the land of Egypt in haste — that all the days of your life you may remember the day when you came out of the land of Egypt. ^1603
+[[H3605|Then all]] [[H5971|the people]] [[H8085|will hear]] [[H3372|and be afraid,]] [[H3808|and will no]] [[H5750|longer]] [[H2102|behave arrogantly.]] ^1713
 
-No leaven shall be seen with you in all your territory for seven days, nor shall any of the flesh that you sacrifice on the evening of the first day remain all night until morning. ^1604
+[[H3588|When]] [[H935|you enter]] [[H776|the land]] [[H3068|the LORD]] [[H430|your God]] [[H5414|is giving]] [[H3423|you  and have taken possession of it]] [[H3427|and settled it,]] [[H559|and you say,]] [[H7760|“Let us set]] [[H4428|a king]] [[H5921|over us]] [[H3605|like all]] [[H1471|the nations]] [[H5439|around us,”]] ^1714
 
-You may not offer the Passover sacrifice within any of your towns that the Lord your God is giving you, ^1605
+[[H7760|you are to appoint]] [[H5921|over yourselves]] [[H4428|the king]] [[H3068|the LORD]] [[H430|your God]] [[H977|shall choose.]] [[H7760|Appoint]] [[H4428|a king]] [[H7130|from among]] [[H251|your brothers;]] [[H3808|you are not]] [[H5414|to set]] [[H376|a foreigner]] [[H5921|over yourselves,]] [[H1931|or one]] [[H834|who]] [[H3808|is not]] [[H251|of your brothers.]] ^1715
 
-but at the place that the Lord your God will choose, to make his name dwell in it, there you shall offer the Passover sacrifice, in the evening at sunset, at the time you came out of Egypt. ^1606
+[[H7535|But]] ⟨the king⟩ [[H3808|must not]] [[H7235|acquire many]] [[H5483|horses]] [[H5971|for himself  or send the people]] [[H7725|back]] [[H4714|to Egypt]] [[H4616|to]] [[H7235|acquire more]] [[H5483|horses,]] [[H3068|for the LORD]] [[H559|has told you,]] [[H3808|‘You are never]] [[H7725|to go back]] [[H2088|that]] [[H1870|way]] [[H5750|again.’]] ^1716
 
-And you shall cook it and eat it at the place that the Lord your God will choose. And in the morning you shall turn and go to your tents. ^1607
+[[H3808|He must not]] [[H7235|take many]] [[H802|wives]] [[H3808|for himself,  lest]] [[H3824|his heart]] [[H5493|go astray.]] [[H3808|He must not]] [[H7235|accumulate]] [[H3966|for himself  great amounts]] [[H3701|of silver]] [[H2091|and gold.]] ^1717
 
-For six days you shall eat unleavened bread, and on the seventh day there shall be a solemn assembly to the Lord your God. You shall do no work on it. ^1608
+[[H3427|When he is seated]] [[H5921|on]] [[H4467|his royal]] [[H3678|throne,]] [[H3789|he must write]] [[H853|for himself]] [[H4932|a copy]] [[H2063|of this]] [[H8451|instruction]] [[H5921|on]] [[H5612|a scroll]] [[H6440|in the presence]] [[H3881|of the Levitical]] [[H3548|priests.]] ^1718
 
-You shall count seven weeks. Begin to count the seven weeks from the time the sickle is first put to the standing grain. ^1609
+[[H1961|It is to remain]] [[H5973|with him,]] [[H7121|and he is to read]] [[H3605|from it  all]] [[H3117|the days]] [[H2416|of his life,]] [[H4616|so that]] [[H3925|he may learn]] [[H3372|to fear]] [[H3068|the LORD]] [[H430|his God]] [[H8104|by carefully observing]] [[H3605|all]] [[H1697|the words]] [[H2063|of this]] [[H8451|instruction]] [[H428|and these]] [[H2706|statutes.]] ^1719
 
-Then you shall keep the Feast of Weeks to the Lord your God with the tribute of a freewill offering from your hand, which you shall give as the Lord your God blesses you. ^1610
+[[H3824|Then his heart]] [[H1115|will not]] [[H7311|be exalted]] [[H4480|above]] [[H251|his countrymen,]] [[H1115|and he will not]] [[H5493|turn aside]] [[H4687|from the commandment,]] [[H3225|to the right]] [[H8040|or to the left,]] [[H4616|in order that]] [[H1931|he]] [[H1121|and his sons]] [[H748|may reign]] [[H3117|many years]] [[H5921|over]] [[H4467|his kingdom]] [[H7130|in]] [[H3478|Israel.]] ^1720
 
-And you shall rejoice before the Lord your God, you and your son and your daughter, your male servant and your female servant, the Levite who is within your towns, the sojourner, the fatherless, and the widow who are among you, at the place that the Lord your God will choose, to make his name dwell there. ^1611
+[[H3881|The Levitical]] [[H3548|priests—]] [[H3605|indeed the whole]] [[H7626|tribe]] [[H3878|of Levi—]] [[H1961|shall have]] [[H3808|no]] [[H2506|portion]] [[H5159|or inheritance]] [[H5973|with]] [[H3478|Israel.]] [[H398|They are to eat]] [[H801|the offerings made by fire]] [[H3068|to the LORD;]] [[H5159|that is their inheritance.]] ^1801
 
-You shall remember that you were a slave in Egypt; and you shall be careful to observe these statutes. ^1612
+[[H1961|Although they have]] [[H3808|no]] [[H5159|inheritance]] [[H7130|among]] [[H251|their brothers,]] [[H3068|the LORD]] ⟨is⟩ [[H5159|their inheritance,]] [[H834|as]] [[H1696|He promised]] ^1802
 
-You shall keep the Feast of Booths seven days, when you have gathered in the produce from your threshing floor and your winepress. ^1613
+[[H2088|This]] [[H1961|shall be]] [[H3548|the priests’]] [[H4941|share]] [[H5971|from the people]] [[H2076|who offer]] [[H2077|a sacrifice,]] [[H518|whether]] [[H7794|a bull]] [[H518|or]] [[H7716|a sheep:]] [[H3548|the priests]] [[H5414|are to be given]] [[H2220|the shoulder,]] [[H3895|jowls,]] [[H6896|and the stomach.]] ^1803
 
-You shall rejoice in your feast, you and your son and your daughter, your male servant and your female servant, the Levite, the sojourner, the fatherless, and the widow who are within your towns. ^1614
+[[H5414|You are to give]] [[H7225|them  the firstfruits]] [[H1715|of your grain,]] [[H8492|new wine,]] [[H3323|and oil,]] [[H7225|and the first]] [[H1488|wool sheared]] [[H6629|from your flock.]] ^1804
 
-For seven days you shall keep the feast to the Lord your God at the place that the Lord will choose, because the Lord your God will bless you in all your produce and in all the work of your hands, so that you will be altogether joyful. ^1615
+[[H3588|For]] [[H3068|the LORD]] [[H430|your God]] [[H977|has chosen]] ⟨Levi⟩ [[H1121|and his sons]] [[H3605|out of all]] [[H7626|your tribes]] [[H5975|to stand]] [[H8334|and minister]] [[H3068|in His]] [[H8034|name]] [[H3605|for all]] [[H3117|time.]] ^1805
 
-Three times a year all your males shall appear before the Lord your God at the place that he will choose : at the Feast of Unleavened Bread, at the Feast of Weeks, and at the Feast of Booths. They shall not appear before the Lord empty-handed. ^1616
+[[H3588|Now if]] [[H3881|a Levite]] [[H935|moves]] [[H259|from any]] [[H8179|town]] [[H1481|of residence]] [[H8033|throughout]] [[H3478|Israel]] [[H935|and comes]] [[H3605|in all]] [[H185|earnestness]] [[H413|to]] [[H4725|the place]] [[H3068|the LORD]] [[H977|will choose,]] ^1806
 
-Every man shall give as he is able, according to the blessing of the Lord your God that he has given you. ^1617
+[[H8334|then he shall serve]] [[H8034|in the name]] [[H3068|of the LORD]] [[H430|his God]] [[H3605|like all]] [[H251|his fellow]] [[H3881|Levites]] [[H5975|who stand]] [[H8033|there]] [[H6440|before]] [[H3068|the LORD.]] ^1807
 
-You shall appoint judges and officers in all your towns that the Lord your God is giving you, according to your tribes, and they shall judge the people with righteous judgment. ^1618
+[[H398|They shall eat]] [[H2506|equal portions,]] [[H905|even though]] [[H5921|he has received from]] ⟨money⟩ [[H4465|the sale]] [[H1|of his father’s estate.]] ^1808
 
-You shall not pervert justice. You shall not show partiality, and you shall not accept a bribe, for a bribe blinds the eyes of the wise and subverts the cause of the righteous. ^1619
+[[H3588|When]] [[H859|you]] [[H935|enter]] [[H776|the land]] [[H3068|the LORD]] [[H430|your God]] [[H5414|is giving you,]] [[H3808|do not]] [[H6213|imitate]] [[H8441|the detestable ways]] [[H1471|of the nations]] [[H1992|there.]] ^1809
 
-Justice, and only justice, you shall follow, that you may live and inherit the land that the Lord your God is giving you. ^1620
+[[H3808|Let no one]] [[H4672|be found]] [[H5674|among you  who sacrifices]] [[H1121|his son]] [[H1323|or daughter]] [[H784|in the fire,]] [[H7080|practices divination]] ⟨or⟩ [[H6049|conjury,]] [[H5172|interprets omens,]] [[H3784|practices sorcery,]] ^1810
 
-You shall not plant any tree as an Asherah beside the altar of the Lord your God that you shall make. ^1621
+[[H2266|casts spells,]] [[H7592|consults]] [[H178|a medium]] [[H3049|or familiar spirit,]] [[H1875|or inquires]] [[H413|of]] [[H4191|the dead.]] ^1811
 
-And you shall not set up a pillar, which the Lord your God hates. ^1622
+[[H3605|For whoever]] [[H6213|does]] [[H428|these things]] [[H8441|is detestable]] [[H3068|to the LORD,]] [[H1558|and because]] [[H428|of these]] [[H8441|detestable things]] [[H3068|the LORD]] [[H430|your God]] [[H3423|is driving out]] ⟨the nations⟩ [[H6440|before you.]] ^1812
 
+[[H1961|You must be]] [[H8549|blameless]] [[H5973|before]] [[H3068|the LORD]] [[H430|your God.]] ^1813
 
+[[H3588|Though]] [[H428|these]] [[H1471|nations]] [[H859|you]] [[H3423|shall dispossess]] [[H8085|listen]] [[H413|to]] [[H6049|conjurers]] [[H7080|and diviners,]] [[H3068|the LORD]] [[H430|your God]] [[H3808|has not]] [[H5414|permitted you]] [[H3651|to do so.]] ^1814
 
-You shall not sacrifice to the Lord your God an ox or a sheep in which is a blemish, any defect whatever, for that is an abomination to the Lord your God. ^1701
+[[H3068|The LORD]] [[H430|your God]] [[H6965|will raise up]] [[H5030|for you a prophet]] [[H3644|like me]] [[H7130|from among]] [[H251|your own brothers.]] [[H8085|You must listen]] [[H413|to him.]] ^1815
 
-If there is found among you, within any of your towns that the Lord your God is giving you, a man or woman who does what is evil in the sight of the Lord your God, in transgressing his covenant, ^1702
+[[H3605|This is what]] [[H7592|you asked]] [[H5973|of]] [[H3068|the LORD]] [[H430|your God]] [[H2722|at Horeb]] [[H3117|on the day]] [[H6951|of the assembly,]] [[H559|when you said,]] [[H3808|“Let us not]] [[H8085|hear]] [[H6963|the voice]] [[H3068|of the LORD]] [[H430|our God]] [[H7200|or see]] [[H2063|this]] [[H1419|great]] [[H784|fire]] [[H5750|anymore,]] [[H3808|so that we will not]] [[H4191|die!]] ^1816
 
-and has gone and served other gods and worshiped them, or the sun or the moon or any of the host of heaven, which I have forbidden, ^1703
+[[H3068|Then the LORD]] [[H559|said]] [[H413|to me,]] [[H1696|“They have spoken]] [[H3190|well.]] ^1817
 
-and it is told you and you hear of it, then you shall inquire diligently, and if it is true and certain that such an abomination has been done in Israel, ^1704
+[[H6965|I will raise up]] [[H5030|for them a prophet]] [[H3644|like you]] [[H7130|from among]] [[H251|their brothers.]] [[H5414|I will put]] [[H1697|My words]] [[H6310|in his mouth,]] [[H1696|and he will tell]] [[H413|them]] [[H3605|everything]] [[H6680|I command him.]] ^1818
 
-then you shall bring out to your gates that man or woman who has done this evil thing, and you shall stone that man or woman to death with stones. ^1705
+[[H595|And I]] [[H1875|will hold accountable]] [[H376|anyone]] [[H834|who]] [[H3808|does not]] [[H8085|listen]] [[H413|to]] [[H1697|My words]] [[H834|that]] ⟨that prophet⟩ [[H1696|speaks]] [[H8034|in My name.]] ^1819
 
-On the evidence of two witnesses or of three witnesses the one who is to die shall be put to death; a person shall not be put to death on the evidence of one witness. ^1706
+[[H389|But]] [[H5030|if any prophet]] [[H2102|dares]] [[H1696|to speak]] [[H1697|a message]] [[H8034|in My name]] [[H834|that]] [[H3808|I have not]] [[H6680|commanded]] [[H1696|him to speak,]] ⟨or⟩ [[H834|]] [[H1696|to speak]] [[H8034|in the name]] [[H312|of other]] [[H430|gods,]] [[H1931|that]] [[H5030|prophet]] [[H4191|must be put to death.”]] ^1820
 
-The hand of the witnesses shall be first against him to put him to death, and afterward the hand of all the people. So you shall purge the evil from your midst. ^1707
+[[H559|You may ask]] [[H3824|in your heart,]] [[H349|“How]] [[H3045|can we recognize]] [[H1697|a message]] [[H834|that]] [[H3068|the LORD]] [[H3808|has not]] [[H1696|spoken?”]] ^1821
 
-If any case arises requiring decision between one kind of homicide and another, one kind of legal right and another, or one kind of assault and another, any case within your towns that is too difficult for you, then you shall arise and go up to the place that the Lord your God will choose. ^1708
+[[H834|When]] [[H5030|a prophet]] [[H1696|speaks]] [[H8034|in the name]] [[H3068|of the LORD]] [[H1697|and the message]] [[H3808|does not]] [[H1961|come to pass]] [[H935|or come true,]] [[H1931|that]] [[H1697|is a message]] [[H3068|the LORD]] [[H3808|has not]] [[H1696|spoken.]] [[H5030|The prophet]] [[H1696|has spoken]] [[H2087|presumptuously.]] [[H3808|Do not]] [[H1481|be afraid]] [[H4480|of him.]] ^1822
 
-And you shall come to the Levitical priests and to the judge who is in office in those days, and you shall consult them, and they shall declare to you the decision. ^1709
+[[H3588|When]] [[H3068|the LORD]] [[H430|your God]] [[H3772|has cut off]] [[H1471|the nations]] [[H776|whose land]] [[H3068|He]] [[H5414|is giving you,]] [[H3423|so that you drive them out]] [[H3427|and settle]] [[H5892|in their cities]] [[H1004|and houses,]] ^1901
 
-Then you shall do according to what they declare to you from that place that the Lord will choose. And you shall be careful to do according to all that they direct you. ^1710
+[[H914|then you are to set apart]] [[H7969|for yourselves  three]] [[H5892|cities]] [[H8432|within]] [[H776|the land]] [[H834|that]] [[H3068|the LORD]] [[H430|your God]] [[H5414|is giving]] [[H3423|you to possess.]] ^1902
 
-According to the instructions that they give you, and according to the decision which they pronounce to you, you shall do. You shall not turn aside from the verdict that they declare to you, either to the right hand or to the left. ^1711
+[[H3559|You are to build]] [[H1870|roads]] [[H8027|for yourselves  and divide into three regions]] [[H776|the land]] [[H834|which]] [[H3068|the LORD]] [[H430|your God]] [[H5157|is giving you as an inheritance,]] [[H3605|so that any]] [[H7523|manslayer]] [[H5127|can flee]] [[H8033|to these cities.]] ^1903
 
-The man who acts presumptuously by not obeying the priest who stands to minister there before the Lord your God, or the judge, that man shall die. So you shall purge the evil from Israel. ^1712
+[[H2088|Now this]] [[H1697|is the situation]] [[H7523|regarding the manslayer]] [[H834|who]] [[H5127|flees]] ⟨to one of these cities⟩ [[H8033|]] [[H2425|to save his life,]] [[H5221|having killed]] [[H7453|his neighbor]] [[H1097|accidentally,]] [[H3808|without]] [[H8130|intending to harm him:]] ^1904
 
-And all the people shall hear and fear and not act presumptuously again. ^1713
+[[H834|If]] [[H935|he goes]] [[H3293|into the forest]] [[H854|with]] [[H7453|his neighbor]] [[H2404|to cut]] [[H6086|timber]] [[H5080|and swings]] [[H1631|his ax]] [[H3772|to chop down]] [[H6086|a tree,]] [[H5394|but the blade flies off]] [[H6086|the handle]] [[H4672|and strikes]] [[H4191|and kills]] [[H7453|his neighbor,]] [[H1931|he]] [[H5127|may flee]] [[H413|to]] [[H259|one]] [[H428|of these]] [[H5892|cities]] [[H2425|to save his life.]] ^1905
 
-When you come to the land that the Lord your God is giving you, and you possess it and dwell in it and then say, I will set a king over me, like all the nations that are around me, ^1714
+[[H6435|Otherwise,]] [[H1350|the avenger]] [[H1818|of blood]] [[H7291|might pursue]] [[H7523|the manslayer]] [[H3824|in a rage,]] [[H5381|overtake him]] [[H1870|since the distance]] [[H7235|is great,]] [[H5221|and strike]] [[H5315|him dead]] [[H369|though he did not]] [[H4941|deserve]] [[H4194|to die,]] [[H3588|since]] [[H1931|he]] [[H3808|did not]] [[H8130|intend any harm.]] ^1906
 
-you may indeed set a king over you whom the Lord your God will choose. One from among your brothers you shall set as king over you. You may not put a foreigner over you, who is not your brother. ^1715
+[[H5921|This is why]] [[H595|I]] [[H6680|am commanding]] [[H914|you to set apart]] [[H7969|three]] [[H5892|cities]] ^1907
 
-Only he must not acquire many horses for himself or cause the people to return to Egypt in order to acquire many horses, since the Lord has said to you, You shall never return that way again. ^1716
+[[H518|And if]] [[H3068|the LORD]] [[H430|your God]] [[H7337|enlarges]] [[H1366|your territory,]] [[H834|as]] [[H7650|He swore]] [[H1|to your fathers,]] [[H5414|and gives]] [[H3605|you  all]] [[H776|the land]] [[H1696|He promised]] [[H1|them,]] ^1908
 
-And he shall not acquire many wives for himself, lest his heart turn away, nor shall he acquire for himself excessive silver and gold. ^1717
+[[H3588|and if]] [[H8104|you carefully observe]] [[H3605|all]] [[H2063|these]] [[H4687|commandments]] [[H595|I]] [[H6680|am giving you]] [[H3117|today,]] [[H157|loving]] [[H3069|the LORD]] [[H430|your God]] [[H1980|and walking]] [[H1870|in His ways]] [[H3605|at all times,]] [[H3254|then you are to add]] [[H7969|three]] [[H5750|more]] [[H5892|cities]] [[H5921|to]] [[H428|these]] [[H7969|three.]] ^1909
 
-And when he sits on the throne of his kingdom, he shall write for himself in a book a copy of this law, approved by the Levitical priests. ^1718
+[[H5355|Thus innocent]] [[H1818|blood]] [[H3808|will not]] [[H8210|be shed]] [[H7130|in]] [[H776|the land]] [[H3068|the LORD]] [[H430|your God]] [[H5414|is giving]] [[H5159|you as an inheritance,]] [[H1961|so that you will not be]] [[H1818|guilty of bloodshed.]] ^1910
 
-And it shall be with him, and he shall read in it all the days of his life, that he may learn to fear the Lord his God by keeping all the words of this law and these statutes, and doing them, ^1719
+[[H3588|If, however,]] [[H376|a man]] [[H8130|hates]] [[H7453|his neighbor]] [[H693|and lies in wait,]] [[H6965|attacks]] [[H5921|him]] [[H5221|and kills him,]] [[H5127|and then flees]] [[H413|to]] [[H259|one]] [[H411|of these]] [[H5892|cities,]] ^1911
 
-that his heart may not be lifted up above his brothers, and that he may not turn aside from the commandment, either to the right hand or to the left, so that he may continue long in his kingdom, he and his children, in Israel. ^1720
+[[H2205|the elders]] [[H5892|of his city]] [[H7971|must send for him,]] [[H3947|bring]] [[H853|him]] [[H8033|back,]] [[H5414|and hand him over to]] [[H1350|the avenger]] [[H1818|of blood]] [[H4191|to die.]] ^1912
 
+[[H2347|You must show him no pity.]] [[H1197|You are to purge]] [[H3478|from Israel]] [[H5355|the guilt of shedding innocent]] [[H1818|blood,]] [[H2896|that it may go well with you.]] ^1913
 
+[[H3808|You must not]] [[H5253|move]] [[H7453|your neighbor’s]] [[H1366|boundary marker,]] [[H1379|which was set up]] [[H7223|by your ancestors]] ⟨to mark⟩ [[H5159|the inheritance]] [[H5157|you shall receive]] [[H776|in the land]] [[H3068|the LORD]] [[H430|your God]] [[H5414|is giving]] [[H3423|you to possess.]] ^1914
 
-The Levitical priests, all the tribe of Levi, shall have no portion or inheritance with Israel. They shall eat the Lord ’s food offerings as their inheritance. ^1801
+[[H259|A lone]] [[H5707|witness]] [[H3808|is not sufficient]] [[H6965|to establish]] [[H3605|any]] [[H5771|wrongdoing]] ⟨or⟩ [[H3605|]] [[H2403|sin]] [[H376|against a man,]] [[H3605|regardless of what]] [[H2399|offense]] [[H2398|he may have committed.]] [[H1697|A matter]] [[H6965|must be established]] [[H5921|by]] [[H6310|the testimony]] [[H8147|of two]] [[H176|or]] [[H7969|three]] [[H5707|witnesses.]] ^1915
 
-They shall have no inheritance among their brothers; the Lord is their inheritance, as he promised them. ^1802
+[[H3588|If]] [[H2555|a false]] [[H5707|witness]] [[H6030|testifies]] [[H376|against someone,]] [[H5627|accusing him of a crime,]] ^1916
 
-And this shall be the priests ’ due from the people, from those offering a sacrifice, whether an ox or a sheep : they shall give to the priest the shoulder and the two cheeks and the stomach. ^1803
+[[H8147|both]] [[H376|parties]] [[H7379|to the dispute]] [[H5975|must stand]] [[H6440|in the presence]] [[H3068|of the LORD,]] [[H6440|before]] [[H3548|the priests]] [[H8199|and judges]] [[H834|who]] [[H1961|are]] ⟨in office⟩ [[H1992|]] [[H1992|at that]] [[H3117|time.]] ^1917
 
-The firstfruits of your grain, of your wine and of your oil, and the first fleece of your sheep, you shall give him. ^1804
+[[H8199|The judges]] [[H1875|shall investigate]] [[H3190|thoroughly,]] [[H2009|and if]] [[H5707|the witness]] [[H8267|is proven to be a liar]] [[H8267|who has falsely]] [[H6030|accused]] [[H251|his brother,]] ^1918
 
-For the Lord your God has chosen him out of all your tribes to stand and minister in the name of the Lord, him and his sons for all time. ^1805
+[[H6213|you must do]] [[H834|to him as]] [[H2161|he intended]] [[H6213|to do]] [[H251|to his brother.]] [[H1197|You must purge]] [[H7451|the evil]] [[H7130|from among you.]] ^1919
 
-And if a Levite comes from any of your towns out of all Israel, where he lives —and he may come when he desires — to the place that the Lord will choose, ^1806
+[[H7604|Then the rest]] ⟨of the people⟩ [[H8085|will hear]] [[H3372|and be afraid,]] [[H3808|and they will never]] [[H3254|again]] [[H6213|do]] [[H1697|anything]] [[H2088|so]] [[H7451|evil]] [[H7130|among you.]] ^1920
 
-and ministers in the name of the Lord his God, like all his fellow Levites who stand to minister there before the Lord, ^1807
+[[H3808|You must show no pity:]] [[H5315|life]] [[H5315|for life,]] [[H5869|eye]] [[H5869|for eye,]] [[H8127|tooth]] [[H8127|for tooth,]] [[H3027|hand]] [[H3027|for hand,]] ⟨and⟩ [[H7272|foot]] [[H7272|for foot.]] ^1921
 
-then he may have equal portions to eat, besides what he receives from the sale of his patrimony. ^1808
+[[H3588|When]] [[H3318|you go out]] [[H4421|to war]] [[H5921|against]] [[H341|your enemies]] [[H7200|and see]] [[H5483|horses,]] [[H7393|chariots,]] [[H5971|and an army]] [[H7227|larger]] [[H4480|than yours,]] [[H3808|do not]] [[H3372|be afraid]] [[H1992|of them;]] [[H3588|for]] [[H3068|the LORD]] [[H430|your God,]] [[H5927|who brought you]] [[H776|out of the land]] [[H4714|of Egypt,]] [[H5973|is with you.]] ^2001
 
-When you come into the land that the Lord your God is giving you, you shall not learn to follow the abominable practices of those nations. ^1809
+[[H1961|When you are about to]] [[H7126|go]] [[H413|into]] [[H4421|battle,]] [[H3548|the priest]] [[H5066|is to come forward]] [[H1696|and address]] [[H5971|the army,]] ^2002
 
-There shall not be found among you anyone who burns his son or his daughter as an offering, anyone who practices divination or tells fortunes or interprets omens, or a sorcerer ^1810
+[[H559|saying]] [[H413|to them,]] [[H8085|“Hear,]] [[H3478|O Israel,]] [[H3117|today]] [[H859|you]] [[H7131|are going]] [[H4421|into battle]] [[H5921|with]] [[H341|your enemies.]] [[H408|Do not]] [[H7401|be fainthearted]] ⟨or⟩ [[H408|]] [[H3372|be afraid;]] [[H408|do not]] [[H2648|be alarmed]] [[H6206|or terrified]] [[H6440|because of them.]] ^2003
 
-or a charmer or a medium or a necromancer or one who inquires of the dead, ^1811
+[[H3588|For]] [[H3068|the LORD]] [[H430|your God]] ⟨is⟩ [[H1980|He who goes]] [[H5973|with you]] [[H3898|to fight]] [[H5973|for you  against]] [[H341|your enemies,]] [[H3467|to give you the victory.”]] ^2004
 
-for whoever does these things is an abomination to the Lord. And because of these abominations the Lord your God is driving them out before you. ^1812
+[[H7860|Furthermore, the officers]] [[H1696|are to address]] [[H5971|the army,]] [[H559|saying,]] [[H4310|“Has any]] [[H376|man]] [[H1129|built]] [[H2319|a new]] [[H1004|house]] [[H3808|and not]] [[H2596|dedicated it?]] [[H1980|Let him return]] [[H1004|home,]] [[H6435|or]] [[H4191|he may die]] [[H4421|in battle]] [[H312|and another]] [[H376|man]] [[H2596|dedicate it.]] ^2005
 
-You shall be blameless before the Lord your God, ^1813
+[[H4310|Has any]] [[H376|man]] [[H5193|planted]] [[H3754|a vineyard]] [[H3808|and not]] [[H2490|begun to enjoy its fruit?]] [[H1980|Let him return]] [[H1004|home,]] [[H6435|or]] [[H4191|he may die]] [[H4421|in battle]] [[H312|and another]] [[H376|man]] [[H2490|enjoy its fruit.]] ^2006
 
-for these nations, which you are about to dispossess, listen to fortune-tellers and to diviners. But as for you, the Lord your God has not allowed you to do this. ^1814
+[[H4310|Has any]] [[H376|man]] [[H781|become pledged]] [[H802|to a woman]] [[H3808|and not]] [[H3947|married her?]] [[H1980|Let him return]] [[H1004|home,]] [[H6435|or]] [[H4191|he may die]] [[H4421|in battle]] [[H312|and another]] [[H376|man]] [[H3947|marry her.”]] ^2007
 
-The Lord your God will raise up for you a prophet like me from among you, from your brothers —it is to him you shall listen — ^1815
+[[H7860|Then the officers]] [[H1696|shall speak]] [[H3254|further]] [[H413|to]] [[H5971|the army,]] [[H559|saying,]] [[H4310|“Is any]] [[H376|man]] [[H3373|afraid]] [[H7390|or fainthearted?]] [[H1980|Let him return]] [[H1004|home,]] [[H3824|so that the hearts]] [[H251|of his brothers]] [[H3808|will not]] [[H4549|melt]] [[H3824|like his own.”]] ^2008
 
-just as you desired of the Lord your God at Horeb on the day of the assembly, when you said, Let me not hear again the voice of the Lord my God or see this great fire any more, lest I die. ^1816
+[[H7860|When the officers]] [[H3615|have finished]] [[H1696|addressing]] [[H5971|the army,]] [[H6485|they are to appoint]] [[H8269|commanders]] [[H7218|to lead it.]] ^2009
 
-And the Lord said to me, They are right in what they have spoken. ^1817
+[[H3588|When]] [[H7126|you approach]] [[H5892|a city]] [[H3898|to fight]] [[H5921|against it,]] [[H7121|you are to make an offer]] [[H7965|of peace.]] ^2010
 
-I will raise up for them a prophet like you from among their brothers. And I will put my words in his mouth, and he shall speak to them all that I command him. ^1818
+[[H518|If]] [[H6030|they accept]] [[H7965|your offer of peace]] [[H6605|and open]] ⟨their gates⟩, [[H3605|all]] [[H5971|the people]] ⟨there⟩ [[H4672|]] [[H1961|will become]] [[H4522|forced laborers]] [[H5647|to serve you.]] ^2011
 
-And whoever will not listen to my words that he shall speak in my name, I myself will require it of him. ^1819
+[[H518|But if]] [[H3808|they refuse]] [[H7999|to make peace]] [[H5973|with you]] [[H6213|and wage]] [[H4421|war]] [[H5973|against you,]] [[H6696|lay siege]] [[H5921|to]] ⟨that city⟩. ^2012
 
-But the prophet who presumes to speak a word in my name that I have not commanded him to speak, or who speaks in the name of other gods, that same prophet shall die. ^1820
+[[H3068|When the LORD]] [[H430|your God]] [[H5414|has delivered it]] [[H3027|into your hands,]] [[H5221|you must strike down]] [[H3605|every]] [[H2138|male]] [[H2719|with the sword.]] ^2013
 
-And if you say in your heart, How may we know the word that the Lord has not spoken? — ^1821
+[[H7535|But]] [[H802|the women,]] [[H2945|children,]] [[H929|livestock,]] [[H3605|and whatever]] [[H1961|else is]] [[H5892|in the city—]] [[H3605|all]] [[H7998|its spoil—]] [[H962|you may take as plunder,]] [[H398|and you shall use]] [[H7998|the spoil]] [[H341|of your enemies]] [[H834|that]] [[H3068|the LORD]] [[H430|your God]] [[H5414|gives you.]] ^2014
 
-when a prophet speaks in the name of the Lord, if the word does not come to pass or come true, that is a word that the Lord has not spoken; the prophet has spoken it presumptuously. You need not be afraid of him. ^1822
+[[H3651|This is how]] [[H6213|you are to treat]] [[H3605|all]] [[H5892|the cities]] [[H7350|that are far away]] [[H4480|from you]] [[H3808|and do not]] [[H428|belong to the]] [[H1471|nations nearby.]] ^2015
 
+[[H7535|However,]] [[H5892|in the cities]] [[H428|of the]] [[H5971|nations]] [[H834|that]] [[H3068|the LORD]] [[H430|your God]] [[H5414|is giving]] [[H5159|you  as an inheritance,]] [[H2421|you must not leave alive]] [[H3605|anything]] [[H5397|that breathes.]] ^2016
 
+[[H2763|You must completely destroy]] [[H2763|them—]] [[H2850|the Hittites]] [[H567|and the Amorites,]] [[H3669|the Canaanites]] [[H6522|and the Perizzites,]] [[H2340|the Hivites]] [[H2983|and the Jebusites—]] [[H834|as]] [[H3068|the LORD]] [[H430|your God]] [[H6680|has commanded you,]] ^2017
 
-When the Lord your God cuts off the nations whose land the Lord your God is giving you, and you dispossess them and dwell in their cities and in their houses, ^1901
+[[H4616|so that]] [[H3808|they cannot]] [[H3925|teach]] [[H6213|you to do]] [[H3605|all]] [[H8441|the detestable things]] [[H6213|they do]] [[H430|for their gods]] ⟨and⟩ [[H2398|cause you to sin]] [[H3068|against the LORD]] [[H430|your God.]] ^2018
 
-you shall set apart three cities for yourselves in the land that the Lord your God is giving you to possess. ^1902
+[[H3588|When]] [[H6696|you lay siege]] [[H413|to]] [[H5892|a city]] [[H7227|for an extended]] [[H3117|time]] [[H3898|while fighting]] [[H5921|against it]] [[H8610|to capture it,]] [[H3808|you must not]] [[H7843|destroy]] [[H6086|its trees]] [[H5080|by putting]] [[H1631|an ax]] [[H5921|to them,]] [[H3588|because]] [[H398|you can eat their fruit.]] [[H3808|You must not]] [[H3772|cut them down.]] [[H6086|Are the trees]] [[H7704|of the field]] [[H120|human,]] [[H4692|that you should besiege them?]] ^2019
 
-You shall measure the distances and divide into three parts the area of the land that the Lord your God gives you as a possession, so that any manslayer can flee to them. ^1903
+[[H7535|But]] [[H7843|you may destroy]] [[H6086|the trees]] [[H834|that]] [[H3045|you know]] [[H3808|do not]] [[H3978|produce fruit.]] ⟨Use them⟩ [[H3772|]] [[H1129|to build]] [[H4692|siege works]] [[H5921|against]] [[H5892|the city]] [[H834|that]] [[H6213|is waging]] [[H4421|war]] [[H5973|against you,]] [[H5704|until]] [[H3381|it falls.]] ^2020
 
-This is the provision for the manslayer, who by fleeing there may save his life. If anyone kills his neighbor unintentionally without having hated him in the past — ^1904
+[[H3588|If]] ⟨one⟩ [[H4672|is found]] [[H2491|slain,]] [[H5307|lying]] [[H7704|in a field]] [[H127|in the land]] [[H3068|the LORD]] [[H430|your God]] [[H5414|is giving]] [[H3423|you  to possess,]] [[H3808|and it is not]] [[H3045|known]] [[H4310|who]] [[H5221|killed him,]] ^2101
 
-as when someone goes into the forest with his neighbor to cut wood, and his hand swings the axe to cut down a tree, and the head slips from the handle and strikes his neighbor so that he dies —he may flee to one of these cities and live, ^1905
+[[H2205|your elders]] [[H8199|and judges]] [[H3318|must come out]] [[H4058|and measure the distance]] [[H2491|from the victim]] [[H413|to]] [[H5439|the neighboring]] [[H5892|cities.]] ^2102
 
-lest the avenger of blood in hot anger pursue the manslayer and overtake him, because the way is long, and strike him fatally, though the man did not deserve to die, since he had not hated his neighbor in the past. ^1906
+[[H1961|Then]] [[H2205|the elders]] [[H5892|of the city]] [[H7138|nearest]] [[H2491|the victim]] [[H3947|shall take]] [[H5697|a heifer]] [[H834|that]] [[H3808|has never]] [[H5923|been yoked]] [[H5647|or used for work,]] ^2103
 
-Therefore I command you, You shall set apart three cities. ^1907
+[[H3381|bring]] [[H5697|the heifer]] [[H413|to]] [[H5158|a valley]] [[H386|with running water]] [[H834|that]] [[H3808|has not]] [[H5647|been plowed]] [[H2232|or sown,]] [[H5697|and break its]] [[H6202|neck]] [[H8033|there]] [[H5158|by the stream.]] ^2104
 
-And if the Lord your God enlarges your territory, as he has sworn to your fathers, and gives you all the land that he promised to give to your fathers — ^1908
+[[H3548|And the priests,]] [[H1121|the sons]] [[H3878|of Levi,]] [[H5066|shall come forward,]] [[H3588|for]] [[H3068|the LORD]] [[H430|your God]] [[H977|has chosen]] [[H8334|them to serve]] [[H1288|Him and pronounce blessings]] [[H3068|in His]] [[H8034|name]] [[H5921|and to give a ruling]] [[H3605|in every]] [[H7379|dispute]] [[H5061|and case of assault.]] ^2105
 
-provided you are careful to keep all this commandment, which I command you today, by loving the Lord your God and by walking ever in his ways — then you shall add three other cities to these three, ^1909
+[[H3605|Then all]] [[H2205|the elders]] [[H5892|of the city]] [[H7138|nearest]] [[H2491|the victim]] [[H7364|shall wash]] [[H3027|their hands]] [[H5158|by the stream]] [[H5921|over]] [[H5697|the heifer]] [[H6202|whose neck has been broken,]] ^2106
 
-lest innocent blood be shed in your land that the Lord your God is giving you for an inheritance, and so the guilt of bloodshed be upon you. ^1910
+[[H6030|and they shall declare,]] [[H3027|“Our hands]] [[H3808|did not]] [[H8210|shed]] [[H2088|this]] [[H1818|blood,]] [[H3808|nor did]] [[H5869|our eyes]] [[H7200|see it.]] ^2107
 
-But if anyone hates his neighbor and lies in wait for him and attacks him and strikes him fatally so that he dies, and he flees into one of these cities, ^1911
+[[H3722|Accept this atonement,]] [[H3068|O LORD,]] [[H5971|for Your people]] [[H3478|Israel]] [[H834|whom]] [[H6299|You have redeemed,]] [[H408|and do not]] [[H5414|hold]] [[H5355|the shedding of innocent]] [[H1818|blood]] [[H7130|against]] [[H5971|them.”]] [[H1818|And the bloodshed]] [[H3722|will be atoned for.]] ^2108
 
-then the elders of his city shall send and take him from there, and hand him over to the avenger of blood, so that he may die. ^1912
+[[H859|So you]] [[H1197|shall purge]] [[H7130|from among you]] [[H5355|the guilt of shedding innocent]] [[H1818|blood,]] [[H3588|since]] [[H6213|you have done]] [[H3477|what is right]] [[H5869|in the eyes]] [[H3068|of the LORD.]] ^2109
 
-Your eye shall not pity him, but you shall purge the guilt of innocent blood from Israel, so that it may be well with you. ^1913
+[[H3588|When]] [[H3318|you go]] [[H4421|to war]] [[H5921|against]] [[H341|your enemies]] [[H3068|and the LORD]] [[H430|your God]] [[H5414|delivers them]] [[H3027|into your hands]] [[H7617|and you take]] [[H7617|them captive,]] ^2110
 
-You shall not move your neighbor’s landmark, which the men of old have set, in the inheritance that you will hold in the land that the Lord your God is giving you to possess. ^1914
+[[H7200|if you see]] [[H3303|a beautiful]] [[H802|woman]] [[H7633|among]] ⟨them⟩, [[H2836|and you desire]] [[H3947|her  and want to take]] [[H802|her as your wife,]] ^2111
 
-A single witness shall not suffice against a person for any crime or for any wrong in connection with any offense that he has committed. Only on the evidence of two witnesses or of three witnesses shall a charge be established. ^1915
+[[H935|then you shall bring]] [[H413|her into]] [[H1004|your house.]] [[H1548|She must shave]] [[H7218|her head,]] [[H6213|trim]] [[H6856|her nails,]] ^2112
 
-If a malicious witness arises to accuse a person of wrongdoing, ^1916
+[[H5493|and put aside]] [[H8071|the clothes]] [[H7633|of her captivity.]] [[H310|After]] [[H3427|she has lived]] [[H1004|in your house]] [[H3391|a full month]] [[H1058|and mourned]] [[H1|her father]] [[H517|and mother,]] [[H935|you may have relations with]] [[H413|her]] [[H1167|and be her husband,]] [[H1961|and she shall be]] [[H802|your wife.]] ^2113
 
-then both parties to the dispute shall appear before the Lord, before the priests and the judges who are in office in those days. ^1917
+[[H1961|And]] [[H518|if]] [[H3808|you are not]] [[H2654|pleased with her,]] [[H7971|you are to let her go]] [[H5315|wherever she wishes.]] [[H3808|But you must not]] [[H4376|sell]] [[H3701|her for money]] [[H6014|or treat her as a slave,]] [[H8478|since]] [[H6031|you have dishonored her.]] ^2114
 
-The judges shall inquire diligently, and if the witness is a false witness and has accused his brother falsely, ^1918
+[[H3588|If]] [[H376|a man]] [[H1961|has]] [[H8147|two]] [[H802|wives,]] [[H259|one]] [[H157|beloved]] [[H259|and the other]] [[H8130|unloved,]] [[H157|and]] ⟨both⟩ [[H3205|bear]] [[H1121|him sons,]] [[H8146|but the unloved]] [[H1961|wife has]] [[H1060|the firstborn]] [[H1121|son,]] ^2115
 
-then you shall do to him as he had meant to do to his brother. So you shall purge the evil from your midst. ^1919
+[[H3117|when]] [[H834|that man]] [[H5157|assigns his inheritance]] [[H1121|to his sons]] [[H3808|he must not]] ⟨appoint⟩ [[H1121|the son]] [[H157|of the beloved wife]] [[H6440|as the firstborn]] [[H1121|over]] ⟨the son⟩ [[H1060|]] [[H8130|of the unloved wife.]] ^2116
 
-And the rest shall hear and fear, and shall never again commit any such evil among you. ^1920
+[[H3588|Instead,]] [[H5234|he must acknowledge]] [[H1060|the firstborn,]] [[H1121|the son]] [[H8130|of his unloved wife,]] [[H5414|by giving]] [[H8147|him  a double]] [[H6310|portion]] [[H3605|of all]] [[H834|that]] [[H4672|he has.]] [[H3588|For]] ⟨that son⟩ [[H1931|]] [[H7225|is the firstfruits]] [[H202|of his strength;]] ⟨father’s⟩ [[H4941|the right]] [[H1062|of the firstborn]] ^2117
 
-Your eye shall not pity. It shall be life for life, eye for eye, tooth for tooth, hand for hand, foot for foot. ^1921
+[[H3588|If]] [[H376|a man]] [[H1961|has]] [[H5637|a stubborn]] [[H4784|and rebellious]] [[H1121|son]] [[H369|who does not]] [[H8085|obey]] [[H1|his father]] [[H517|and mother,]] ⟨or⟩ [[H3808|]] [[H8085|listen]] [[H413|to them]] [[H3256|when disciplined,]] ^2118
 
+[[H1|his father]] [[H517|and mother]] [[H8610|are to lay hold]] [[H3318|of him  and bring]] [[H413|him to]] [[H2205|the elders]] [[H5892|of his city,]] [[H413|to]] [[H8179|the gate]] [[H4725|of his hometown,]] ^2119
 
+[[H559|and say]] [[H413|to]] [[H2205|the elders,]] [[H2088|“This]] [[H1121|son of ours]] [[H5637|is stubborn]] [[H4784|and rebellious;]] [[H369|he does not]] [[H8085|obey us.]] [[H2151|He is a glutton]] [[H5435|and a drunkard.”]] ^2120
 
-When you go out to war against your enemies, and see horses and chariots and an army larger than your own, you shall not be afraid of them, for the Lord your God is with you, who brought you up out of the land of Egypt. ^2001
+[[H3605|Then all]] [[H376|the men]] [[H5892|of his city]] [[H7275|will stone]] [[H4191|him to death.]] [[H1197|You must purge]] [[H7451|the evil]] [[H7130|from among you,]] [[H3605|and all]] [[H3478|Israel]] [[H8085|will hear]] [[H3372|and be afraid.]] ^2121
 
-And when you draw near to the battle, the priest shall come forward and speak to the people ^2002
+[[H3588|If]] [[H376|a man]] [[H1961|has committed]] [[H2399|a sin]] [[H4941|worthy]] [[H4194|of death,]] [[H4191|and he is executed,]] [[H8518|and you hang]] [[H853|his body]] [[H5921|on]] [[H6086|a tree,]] ^2122
 
-and shall say to them, Hear, O Israel, today you are drawing near for battle against your enemies : let not your heart faint. Do not fear or panic or be in dread of them, ^2003
+[[H3808|you must not leave]] [[H5038|the body]] [[H5921|on]] [[H6086|the tree]] [[H3885|overnight,]] [[H3588|but]] [[H6912|you must be sure to bury]] [[H1931|him]] [[H3117|that day,]] [[H3588|because]] [[H8518|anyone who is hung on a tree]] [[H430|is under God’s]] [[H7045|curse.]] [[H3808|You must not]] [[H2930|defile]] [[H127|the land]] [[H3068|the LORD]] [[H430|your God]] [[H5414|is giving]] [[H5159|you  as an inheritance.]] ^2123
 
-for the Lord your God is he who goes with you to fight for you against your enemies, to give you the victory. ^2004
+[[H7200|If you see]] [[H251|your brother’s]] [[H7794|ox]] [[H176|or]] [[H7716|sheep]] [[H5080|straying,]] [[H3808|you must not]] [[H5956|ignore it;]] [[H7725|be sure to return it]] [[H251|to your brother.]] ^2201
 
-Then the officers shall speak to the people, saying, Is there any man who has built a new house and has not dedicated it? Let him go back to his house, lest he die in the battle and another man dedicate it. ^2005
+[[H518|If]] [[H251|your brother]] [[H3808|does not]] [[H7138|live near you,]] [[H3808|or if you do not]] [[H3045|know who he is,]] [[H622|you are to take]] [[H413|the animal]] [[H1004|home]] [[H1961|to remain]] [[H5973|with you]] [[H5704|until]] [[H251|your brother]] [[H1875|comes seeking it;]] [[H7725|then you can return it to him.]] ^2202
 
-And is there any man who has planted a vineyard and has not enjoyed its fruit? Let him go back to his house, lest he die in the battle and another man enjoy its fruit. ^2006
+[[H6213|And you shall do]] [[H3651|the same]] [[H2543|for his donkey,]] [[H8071|his cloak,]] [[H3605|or anything]] [[H251|your brother]] [[H9|has lost]] [[H4672|and you have found.]] [[H3201|You must]] [[H3808|not]] [[H5956|ignore it.]] ^2203
 
-And is there any man who has betrothed a wife and has not taken her? Let him go back to his house, lest he die in the battle and another man take her. ^2007
+[[H7200|If you see]] [[H251|your brother’s]] [[H2543|donkey]] [[H176|or]] [[H7794|ox]] [[H5307|fallen]] [[H1870|on the road,]] [[H3808|you must not]] [[H5956|ignore it;]] [[H6965|you must help him lift it up.]] ^2204
 
-And the officers shall speak further to the people, and say, Is there any man who is fearful and fainthearted? Let him go back to his house, lest he make the heart of his fellows melt like his own. ^2008
+[[H802|A woman]] [[H3808|must not]] [[H1961|wear]] [[H1397|men’s]] [[H3627|clothing,]] [[H1397|and a man]] [[H3808|must not]] [[H3847|wear]] [[H802|women’s]] [[H8071|clothing,]] [[H3588|for]] [[H3605|whoever]] [[H6213|does]] [[H428|these things]] [[H8441|is detestable]] [[H3069|to the LORD]] [[H430|your God.]] ^2205
 
-And when the officers have finished speaking to the people, then commanders shall be appointed at the head of the people. ^2009
+[[H3588|If]] [[H7122|you come across]] [[H6833|a bird’s]] [[H7064|nest]] [[H667|with chicks]] [[H176|or]] [[H1000|eggs,]] [[H6086|either in a tree]] [[H176|or]] [[H5921|on]] [[H776|the ground]] [[H1870|along the road,]] [[H517|and the mother]] [[H7257|is sitting]] [[H5921|on]] [[H667|the chicks]] [[H176|or]] [[H1000|eggs,]] [[H3808|you must not]] [[H3947|take]] [[H517|the mother]] [[H5921|along with]] [[H1121|the young.]] ^2206
 
-When you draw near to a city to fight against it, offer terms of peace to it. ^2010
+[[H3947|You may take]] [[H1121|the young,]] [[H517|but be sure to let the mother]] [[H7971|go,]] [[H4616|so that]] [[H3190|it may be well]] [[H748|with you  and that you may prolong]] [[H3117|your days.]] ^2207
 
-And if it responds to you peaceably and it opens to you, then all the people who are found in it shall do forced labor for you and shall serve you. ^2011
+[[H3588|If]] [[H1129|you build]] [[H2319|a new]] [[H1004|house,]] [[H6213|you are to construct]] [[H4624|a railing]] [[H1406|around your roof,]] [[H3808|so that you do not]] [[H7760|bring]] [[H1818|bloodguilt]] [[H1004|on your house]] [[H3588|if]] [[H5307|someone]] [[H5307|falls]] [[H4480|from it.]] ^2208
 
-But if it makes no peace with you, but makes war against you, then you shall besiege it. ^2012
+[[H3808|Do not]] [[H2232|plant]] [[H3754|your vineyard]] [[H3610|with two types of seed,]] [[H6435|or]] [[H4395|the entire harvest]] [[H6942|will be defiled—]] [[H2233|both the crop]] [[H2232|you plant]] [[H8393|and the fruit]] [[H3754|of your vineyard.]] ^2209
 
-And when the Lord your God gives it into your hand, you shall put all its males to the sword, ^2013
+[[H3808|Do not]] [[H2790|plow]] [[H7794|with an ox]] [[H2543|and a donkey]] ⟨yoked⟩ [[H3162|together.]] ^2210
 
-but the women and the little ones, the livestock, and everything else in the city, all its spoil, you shall take as plunder for yourselves. And you shall enjoy the spoil of your enemies, which the Lord your God has given you. ^2014
+[[H3808|Do not]] [[H3847|wear]] [[H8162|clothes]] [[H6785|of wool]] [[H6593|and linen]] [[H3162|woven together.]] ^2211
 
-Thus you shall do to all the cities that are very far from you, which are not cities of the nations here. ^2015
+[[H6213|You are to make]] [[H1434|tassels]] [[H5921|on]] [[H702|the four]] [[H3671|corners]] [[H3682|of the cloak]] [[H3680|you wear.]] ^2212
 
-But in the cities of these peoples that the Lord your God is giving you for an inheritance, you shall save alive nothing that breathes, ^2016
+[[H3588|Suppose]] [[H376|a man]] [[H3947|marries]] [[H802|a woman,]] [[H935|has relations with]] [[H413|her,]] [[H8130|and comes to hate her,]] ^2213
 
-but you shall devote them to complete destruction, the Hittites and the Amorites, the Canaanites and the Perizzites, the Hivites and the Jebusites, as the Lord your God has commanded, ^2017
+[[H7760|and then accuses her]] [[H5949|of shameful conduct]] [[H3318|and gives]] [[H7451|her a bad]] [[H8034|name,]] [[H559|saying,]] [[H3947|“I married]] [[H2063|this]] [[H802|woman]] [[H7126|and had relations with]] [[H413|her,]] [[H4672|but I discovered]] [[H3808|she was not]] [[H1331|a virgin.”]] ^2214
 
-that they may not teach you to do according to all their abominable practices that they have done for their gods, and so you sin against the Lord your God. ^2018
+[[H5291|Then the young woman’s]] [[H1|father]] [[H517|and mother]] [[H3318|shall bring]] [[H5291|the proof of her]] [[H1331|virginity]] [[H413|to]] [[H5892|the city]] [[H2205|elders]] [[H8179|at the gate]] ^2215
 
-When you besiege a city for a long time, making war against it in order to take it, you shall not destroy its trees by wielding an axe against them. You may eat from them, but you shall not cut them down. Are the trees in the field human, that they should be besieged by you? ^2019
+⟨and⟩ [[H5291|]] [[H559|say]] [[H413|to]] [[H2205|the elders,]] [[H5414|“I gave]] [[H1323|my daughter]] [[H802|in marriage]] [[H2088|to this]] [[H376|man,]] [[H8130|but he has come to hate her.]] ^2216
 
-Only the trees that you know are not trees for food you may destroy and cut down, that you may build siegeworks against the city that makes war with you, until it falls. ^2020
+[[H2009|And now]] [[H1931|he]] [[H7760|has accused her]] [[H5949|of shameful conduct,]] [[H559|saying,]] [[H4672|‘I discovered]] [[H1323|your daughter]] [[H3808|was not]] [[H1331|a virgin.’]] [[H428|But here is the proof]] [[H1323|of]] ⟨her⟩ [[H1331|virginity.”]] [[H6566|And they shall spread out]] [[H8071|the cloth]] [[H6440|before]] [[H5892|the city]] [[H2205|elders.]] ^2217
 
+[[H2205|Then the elders]] [[H1931|of that]] [[H5892|city]] [[H3947|shall take]] [[H376|the man]] [[H3256|and punish him.]] ^2218
 
+[[H6064|They are also to fine]] [[H853|him]] [[H3967|a hundred]] ⟨shekels⟩ [[H3701|of silver]] [[H5414|and give them]] [[H5291|to the young woman’s]] [[H1|father,]] [[H3588|because]] [[H3318|this man has given]] [[H3478|an Israelite]] [[H1330|virgin]] [[H7451|a bad]] [[H8034|name.]] [[H1961|And she shall remain]] [[H802|his wife;]] [[H3808|he must not]] [[H7971|divorce]] [[H3605|her as]] [[H3117|long as he lives.]] ^2219
 
-If in the land that the Lord your God is giving you to possess someone is found slain, lying in the open country, and it is not known who killed him, ^2101
+[[H518|If, however,]] [[H2088|this]] [[H1697|accusation]] [[H1961|is]] [[H571|true,]] [[H3808|and no]] [[H5291|proof of the young woman’s]] [[H1331|virginity]] [[H4672|is found,]] ^2220
 
-then your elders and your judges shall come out, and they shall measure the distance to the surrounding cities. ^2102
+⟨she⟩ [[H5291|]] [[H3318|shall be brought]] [[H413|to]] [[H6607|the door]] [[H1|of her father’s]] [[H1004|house,]] [[H376|and there the men]] [[H5892|of her city]] [[H5619|will stone]] [[H4191|her to death.]] [[H3588|For]] [[H6213|she has committed]] [[H5039|an outrage]] [[H3478|in Israel]] [[H2181|by being promiscuous]] [[H1|in her father’s]] [[H1004|house.]] [[H1197|You must purge]] [[H7451|the evil]] [[H7130|from among you.]] ^2221
 
-And the elders of the city that is nearest to the slain man shall take a heifer that has never been worked and that has not pulled in a yoke. ^2103
+[[H3588|If]] [[H376|a man]] [[H4672|is found]] [[H7901|lying]] [[H5973|with]] [[H1167|another man’s]] [[H802|wife,]] [[H376|both the man]] [[H7901|who slept]] [[H5973|with]] ⟨her⟩ [[H802|]] [[H802|and the woman]] [[H4191|must die.]] [[H1197|You must purge]] [[H7451|the evil]] [[H3478|from Israel.]] ^2222
 
-And the elders of that city shall bring the heifer down to a valley with running water, which is neither plowed nor sown, and shall break the heifer’s neck there in the valley. ^2104
+[[H3588|If]] [[H1961|there is]] [[H1330|a virgin]] [[H781|pledged in marriage]] [[H376|to a man,]] [[H376|and another man]] [[H4672|encounters her]] [[H5892|in the city]] [[H7901|and sleeps]] [[H5973|with her,]] ^2223
 
-Then the priests, the sons of Levi, shall come forward, for the Lord your God has chosen them to minister to him and to bless in the name of the Lord, and by their word every dispute and every assault shall be settled. ^2105
+[[H8147|you must take both]] [[H3318|of them out]] [[H413|to]] [[H8179|the gate]] [[H1931|of that]] [[H5892|city]] [[H5619|and stone]] [[H4191|them to death—]] [[H5291|the young woman]] [[H5921|because]] [[H3808|she did not]] [[H6817|cry out]] [[H5892|in the city,]] [[H376|and the man]] [[H5921|because]] [[H6031|he has violated]] [[H7453|his neighbor’s]] [[H802|wife.]] [[H1197|You must purge]] [[H7451|the evil]] [[H7130|from among you.]] ^2224
 
-And all the elders of that city nearest to the slain man shall wash their hands over the heifer whose neck was broken in the valley, ^2106
+[[H518|But if]] [[H376|the man]] [[H4672|encounters]] [[H781|a betrothed]] [[H5291|woman]] [[H7704|in the open country,]] [[H376|and he]] [[H2388|overpowers her]] [[H7901|and rapes]] [[H5973|her,]] [[H905|only]] [[H376|the man]] [[H834|who]] ⟨has done this⟩ [[H7901|]] [[H4191|must die.]] ^2225
 
-and they shall testify, Our hands did not shed this blood, nor did our eyes see it shed. ^2107
+[[H6213|Do]] [[H3808|nothing]] [[H5291|to the young woman,]] [[H3588|because]] [[H5291|she]] ⟨has committed⟩ [[H369|no]] [[H2399|sin]] ⟨worthy⟩ [[H4194|of death.]] [[H2088|This]] [[H1697|case]] [[H834|is just like]] [[H376|one in which a man]] [[H6965|attacks]] [[H7453|his neighbor]] [[H7523|and murders him.]] ^2226
 
-Accept atonement, O Lord, for your people Israel, whom you have redeemed, and do not set the guilt of innocent blood in the midst of your people Israel, so that their blood guilt be atoned for. ^2108
+[[H3588|When]] [[H4672|he found]] [[H7704|her in the field,]] [[H781|the betrothed]] [[H5291|woman]] [[H6817|cried out,]] [[H369|but there was no]] [[H3467|one to rescue her.]] ^2227
 
-So you shall purge the guilt of innocent blood from your midst, when you do what is right in the sight of the Lord. ^2109
+[[H3588|If]] [[H376|a man]] [[H4672|encounters]] [[H1330|a virgin]] [[H834|who]] [[H3808|is not]] [[H781|pledged in marriage,]] [[H8610|and he overpowers her]] [[H7901|and rapes]] [[H5973|her,]] [[H4672|and they are discovered,]] ^2228
 
-When you go out to war against your enemies, and the Lord your God gives them into your hand and you take them captive, ^2110
+[[H376|the man]] [[H7901|who raped her]] [[H5414|must pay]] [[H5291|the young woman’s]] [[H1|father]] [[H2572|fifty]] ⟨shekels⟩ [[H3701|of silver,]] [[H1961|and  she must become]] [[H802|his wife]] [[H8478|because]] [[H6031|he has violated her.]] [[H3808|He must not]] [[H7971|divorce]] [[H3605|her as]] [[H3117|long as he lives.]] ^2229
 
-and you see among the captives a beautiful woman, and you desire to take her to be your wife, ^2111
+[[H376|A man]] [[H3808|is not]] [[H3947|to marry]] [[H1|his father’s]] [[H802|wife,]] [[H3808|so that he will not]] [[H1540|dishonor]] [[H1|his father’s]] [[H3671|marriage bed.]] ^2230
 
-and you bring her home to your house, she shall shave her head and pare her nails. ^2112
+[[H3808|No man]] [[H6481|with crushed]] [[H3772|or severed]] [[H8212|genitals]] [[H935|may enter]] [[H6951|the assembly]] [[H3068|of the LORD.]] ^2301
 
-And she shall take off the clothes in which she was captured and shall remain in your house and lament her father and her mother a full month. After that you may go in to her and be her husband, and she shall be your wife. ^2113
+[[H3808|No]] [[H4464|one of illegitimate birth]] [[H935|may enter]] [[H6951|the assembly]] [[H3068|of the LORD,]] [[H3808|nor may any of his descendants,]] [[H1571|even]] [[H6224|to the tenth]] [[H1755|generation.]] ^2302
 
-But if you no longer delight in her, you shall let her go where she wants. But you shall not sell her for money, nor shall you treat her as a slave, since you have humiliated her. ^2114
+[[H3808|No]] [[H5984|Ammonite]] [[H4125|or Moabite]] [[H3808|or any of their descendants]] [[H935|may enter]] [[H6951|the assembly]] [[H3068|of the LORD,]] [[H1571|even]] [[H6224|to the tenth]] [[H1755|generation.]] ^2303
 
-If a man has two wives, the one loved and the other unloved, and both the loved and the unloved have borne him children, and if the firstborn son belongs to the unloved, ^2115
+[[H5921|For]] [[H3808|they did not]] [[H6923|meet]] [[H3899|you with food]] [[H4325|and water]] [[H1870|on your way]] [[H3318|out of]] [[H4714|Egypt,]] ⟨and⟩ [[H834|]] [[H7936|they hired]] [[H1109|Balaam]] [[H1121|son]] [[H1160|of Beor]] [[H6604|from Pethor]] [[H763|in Aram-naharaim]] [[H7043|to curse you.]] ^2304
 
-then on the day when he assigns his possessions as an inheritance to his sons, he may not treat the son of the loved as the firstborn in preference to the son of the unloved, who is the firstborn, ^2116
+[[H3068|Yet the LORD]] [[H430|your God]] [[H14|would]] [[H3808|not]] [[H8085|listen]] [[H413|to]] [[H1109|Balaam,]] [[H3068|and the LORD]] [[H2015|turned]] [[H7045|the curse]] [[H1293|into a blessing]] [[H3588|for you,  because]] [[H3068|the LORD]] [[H430|your God]] [[H157|loves you.]] ^2305
 
-but he shall acknowledge the firstborn, the son of the unloved, by giving him a double portion of all that he has, for he is the firstfruits of his strength. The right of the firstborn is his. ^2117
+[[H3808|You are not to]] [[H1875|seek]] [[H7965|peace]] [[H2896|or prosperity from them]] [[H3605|as long as you live.]] ^2306
 
-If a man has a stubborn and rebellious son who will not obey the voice of his father or the voice of his mother, and, though they discipline him, will not listen to them, ^2118
+[[H3808|Do not]] [[H8581|despise]] [[H130|an Edomite,]] [[H3588|for]] [[H1931|he]] [[H251|is your brother.]] [[H3808|Do not]] [[H8581|despise]] [[H4713|an Egyptian,]] [[H3588|because]] [[H1961|you lived]] [[H1616|as a foreigner]] [[H776|in his land.]] ^2307
 
-then his father and his mother shall take hold of him and bring him out to the elders of his city at the gate of the place where he lives, ^2119
+[[H7992|The third]] [[H1755|generation]] [[H1121|of children]] [[H3205|born]] [[H935|to them  may enter]] [[H6951|the assembly]] [[H3068|of the LORD.]] ^2308
 
-and they shall say to the elders of his city, This our son is stubborn and rebellious; he will not obey our voice; he is a glutton and a drunkard. ^2120
+[[H3588|When]] [[H3318|you are encamped]] [[H5921|against]] [[H341|your enemies,]] [[H8104|then you shall keep yourself]] [[H3605|from every]] [[H7451|wicked]] [[H1697|thing.]] ^2309
 
-Then all the men of the city shall stone him to death with stones. So you shall purge the evil from your midst, and all Israel shall hear, and fear. ^2121
+[[H3588|If]] [[H376|any man]] [[H1961|among you  becomes]] [[H2889|unclean]] [[H3915|because of a nocturnal]] [[H7137|emission,]] [[H3318|he must leave]] [[H4264|the camp]] ⟨and⟩ [[H935|stay]] [[H2351|outside.]] ^2310
 
-And if a man has committed a crime punishable by death and he is put to death, and you hang him on a tree, ^2122
+[[H6153|When evening]] [[H6437|approaches,]] [[H7364|he must wash]] [[H4325|with water,]] [[H8121|and when the sun]] [[H935|sets]] [[H935|he may return]] [[H413|to]] [[H4264|the camp.]] ^2311
 
-his body shall not remain all night on the tree, but you shall bury him the same day, for a hanged man is cursed by God. You shall not defile your land that the Lord your God is giving you for an inheritance. ^2123
+[[H1961|You must have]] [[H3027|a place]] [[H2351|outside]] [[H4264|the camp]] [[H3318|to go]] ⟨and⟩ [[H8033|relieve yourself.]] ^2312
 
+[[H1961|And you must have]] [[H3489|a digging tool]] [[H5921|in]] [[H240|your equipment]] [[H1961|so that]] [[H3427|when you relieve yourself]] [[H2658|you can dig a hole]] [[H3680|and cover up]] [[H6627|your excrement.]] ^2313
 
+[[H3588|For]] [[H3068|the LORD]] [[H430|your God]] [[H1980|walks]] [[H7130|throughout]] [[H4264|your camp]] [[H5337|to protect you]] [[H5414|and deliver]] [[H341|your enemies]] [[H6440|to you.]] [[H4264|Your camp]] [[H1961|must be]] [[H6918|holy,]] [[H3808|lest]] [[H7200|He see]] [[H1697|anything]] [[H6172|unclean]] [[H7725|among you  and turn away]] [[H310|from you.]] ^2314
 
-You shall not see your brother’s ox or his sheep going astray and ignore them. You shall take them back to your brother. ^2201
+[[H3808|Do not]] [[H5462|return]] [[H5650|a slave]] [[H413|to]] [[H113|his master]] [[H5337|if he has taken refuge]] [[H413|with you.]] ^2315
 
-And if he does not live near you and you do not know who he is, you shall bring it home to your house, and it shall stay with you until your brother seeks it. Then you shall restore it to him. ^2202
+[[H3427|Let him live]] [[H7130|among you]] [[H4725|wherever]] [[H977|he chooses,]] [[H259|in]] [[H8179|the town]] [[H2896|of his pleasing.]] [[H3808|Do not]] [[H3238|oppress him.]] ^2316
 
-And you shall do the same with his donkey or with his garment, or with any lost thing of your brother’s, which he loses and you find; you may not ignore it. ^2203
+[[H3808|No]] [[H1323|daughter]] [[H3808|or]] [[H1121|son]] [[H3478|of Israel]] [[H1961|is to be]] [[H6945|a cult prostitute.]] ^2317
 
-You shall not see your brother’s donkey or his ox fallen down by the way and ignore them. You shall help him to lift them up again. ^2204
+[[H3808|You must not]] [[H935|bring]] [[H868|the wages]] [[H2181|of a prostitute, whether female]] [[H3611|or male,]] [[H1004|into the house]] [[H3068|of the LORD]] [[H430|your God]] [[H3605|to fulfill any]] [[H5088|vow,]] [[H3588|because]] [[H8147|both]] [[H8441|are detestable]] [[H3068|to the LORD]] [[H430|your God.]] ^2318
 
-A woman shall not wear a man’s garment, nor shall a man put on a woman’s cloak, for whoever does these things is an abomination to the Lord your God. ^2205
+[[H3808|Do not]] [[H5391|charge]] [[H251|your brother]] [[H5392|interest]] [[H3701|on money,]] [[H400|food,]] [[H3605|or any]] [[H1697|other]] [[H5391|type of loan.]] ^2319
 
-If you come across a bird’s nest in any tree or on the ground, with young ones or eggs and the mother sitting on the young or on the eggs, you shall not take the mother with the young. ^2206
+[[H5237|You may charge a foreigner]] [[H5391|interest,]] [[H3808|but not]] [[H251|your brother,]] [[H4616|so that]] [[H3068|the LORD]] [[H430|your God]] [[H1288|may bless you]] [[H3605|in everything]] [[H4916|to which you put]] [[H3027|your hand]] [[H5921|in]] [[H776|the land]] [[H859|you]] [[H935|are entering]] [[H3423|to possess.]] ^2320
 
-You shall let the mother go, but the young you may take for yourself, that it may go well with you, and that you may live long. ^2207
+[[H3588|If]] [[H5087|you make]] [[H5088|a vow]] [[H3068|to the LORD]] [[H430|your God,]] [[H3808|do not]] [[H309|be slow to keep it,]] [[H3588|because]] [[H3068|He]] [[H1875|will surely require it]] [[H5973|of you,]] [[H1961|and you will be]] [[H2399|guilty of sin.]] ^2321
 
-When you build a new house, you shall make a parapet for your roof, that you may not bring the guilt of blood upon your house, if anyone should fall from it. ^2208
+[[H3588|But if]] [[H2308|you refrain]] [[H5087|from making a vow,]] [[H3808|you will not]] [[H1961|be]] [[H2399|guilty of sin.]] ^2322
 
-You shall not sow your vineyard with two kinds of seed, lest the whole yield be forfeited, the crop that you have sown and the yield of the vineyard. ^2209
+[[H8104|Be careful]] [[H6213|to follow through]] [[H4161|on what comes]] [[H8193|from your lips,]] [[H834|because]] [[H5071|you have freely]] [[H5087|vowed]] [[H3068|to the LORD]] [[H430|your God]] [[H6310|with your own mouth.]] ^2323
 
-You shall not plow with an ox and a donkey together. ^2210
+[[H3588|When]] [[H935|you enter]] [[H7453|your neighbor’s]] [[H3754|vineyard,]] [[H398|you may eat]] [[H5315|your]] [[H7648|fill of]] [[H6025|grapes,]] [[H3808|but you must not]] [[H5414|put]] [[H413|any in]] [[H3627|your basket.]] ^2324
 
-You shall not wear cloth of wool and linen mixed together. ^2211
+[[H3588|When]] [[H935|you enter]] [[H7453|your neighbor’s]] [[H7054|grainfield,]] [[H6998|you may pluck]] [[H4425|the heads of grain]] [[H3027|with your hand,]] [[H3808|but you must not]] [[H5130|put]] [[H2770|a sickle]] [[H5921|to]] [[H7453|your neighbor’s]] [[H7054|grain.]] ^2325
 
-You shall make yourself tassels on the four corners of the garment with which you cover yourself. ^2212
+[[H3588|If]] [[H376|a man]] [[H1166|marries]] [[H802|a woman,]] [[H518|but]] [[H3808|she becomes displeasing]] [[H3588|to him because]] [[H4672|he finds]] [[H1697|some]] [[H6172|indecency]] [[H3789|in her,  he may write]] [[H5612|her  a certificate]] [[H3748|of divorce,]] [[H5414|hand it to]] [[H3027|her,]] [[H7971|and send her away]] [[H1004|from his house.]] ^2401
 
-If any man takes a wife and goes in to her and then hates her ^2213
+[[H3318|If, after leaving]] [[H1004|his house,]] [[H1980|she goes]] [[H1961|and becomes]] [[H312|another]] [[H376|man’s wife,]] ^2402
 
-and accuses her of misconduct and brings a bad name upon her, saying, I took this woman, and when I came near her, I did not find in her evidence of virginity, ^2214
+[[H314|and the second]] [[H376|man]] [[H8130|hates her,]] [[H3789|writes]] [[H5612|her  a certificate]] [[H3748|of divorce,]] [[H5414|hands it to]] [[H3027|her,]] [[H7971|and sends her away]] [[H1004|from his house,]] [[H176|or]] [[H3588|if]] [[H4191|he dies,]] ^2403
 
-then the father of the young woman and her mother shall take and bring out the evidence of her virginity to the elders of the city in the gate. ^2215
+[[H1167|the husband]] [[H834|who]] [[H7971|divorced her]] [[H7223|first]] [[H3201|may]] [[H3808|not]] [[H3947|marry]] [[H7725|her again]] [[H310|after]] [[H2930|she has been defiled,]] [[H3588|for]] [[H1931|that]] ⟨is⟩ [[H8441|an abomination]] [[H6440|to]] [[H3068|the LORD.]] [[H3808|You must not]] [[H2398|bring sin]] [[H776|upon the land]] [[H3068|the LORD]] [[H430|your God]] [[H5414|is giving]] [[H5159|you as an inheritance.]] ^2404
 
-And the father of the young woman shall say to the elders, I gave my daughter to this man to marry, and he hates her; ^2216
+[[H3588|If]] [[H376|a man]] [[H2319|is newly]] [[H3947|married,]] [[H3808|he must not]] [[H3318|be sent]] [[H6635|to war]] [[H3808|or]] [[H5674|be pressed into]] [[H3605|any]] [[H1697|duty.]] [[H259|For one]] [[H8141|year]] [[H1961|he is]] [[H5355|free]] [[H1004|to stay at home]] [[H8055|and bring joy]] [[H802|to the wife]] [[H3947|he has married.]] ^2405
 
-and behold, he has accused her of misconduct, saying, I did not find in your daughter evidence of virginity. And yet this is the evidence of my daughter’s virginity. And they shall spread the cloak before the elders of the city. ^2217
+[[H3808|Do not]] [[H7347|take a pair of millstones]] [[H7393|or even an upper millstone]] [[H2254|as security for a debt,]] [[H3588|because]] [[H1931|that would be]] [[H5315|taking one’s livelihood]] [[H2254|as security.]] ^2406
 
-Then the elders of that city shall take the man and whip him, ^2218
+[[H3588|If]] [[H376|a man]] [[H4672|is caught]] [[H1589|kidnapping]] [[H5315|one]] [[H1121|of his Israelite]] [[H251|brothers,]] [[H6014|whether he treats him as a slave]] [[H4376|or sells him,]] [[H1931|the]] [[H1590|kidnapper]] [[H4191|must die.]] [[H1197|You must purge]] [[H7451|the evil]] [[H7130|from among you.]] ^2407
 
-and they shall fine him a hundred shekels of silver and give them to the father of the young woman, because he has brought a bad name upon a virgin of Israel. And she shall be his wife. He may not divorce her all his days. ^2219
+[[H5061|In cases of infectious]] [[H6883|skin diseases,]] [[H8104|be careful]] [[H8104|to diligently]] [[H6213|follow]] [[H3605|everything]] [[H3881|the Levitical]] [[H3548|priests]] [[H3384|instruct]] [[H853|you.]] [[H8104|Be careful]] [[H6213|to do]] [[H834|as]] [[H6680|I have commanded them.]] ^2408
 
-But if the thing is true, that evidence of virginity was not found in the young woman, ^2220
+[[H2142|Remember]] [[H834|what]] [[H3069|the LORD]] [[H430|your God]] [[H6213|did]] [[H4813|to Miriam]] [[H1870|on the journey]] [[H3318|after you had left]] [[H4714|Egypt.]] ^2409
 
-then they shall bring out the young woman to the door of her father’s house, and the men of her city shall stone her to death with stones, because she has done an outrageous thing in Israel by whoring in her father’s house. So you shall purge the evil from your midst. ^2221
+[[H3588|When]] [[H5383|you lend]] [[H4859|anything]] [[H7453|to your neighbor,]] [[H3808|do not]] [[H935|enter]] [[H1004|his house]] [[H5670|to collect]] [[H5667|security.]] ^2410
 
-If a man is found lying with the wife of another man, both of them shall die, the man who lay with the woman, and the woman. So you shall purge the evil from Israel. ^2222
+[[H5975|You are to stand]] [[H2351|outside]] [[H376|while the man]] [[H859|to whom]] [[H5383|you are lending]] [[H3318|brings]] [[H5667|the security]] [[H2351|out]] [[H413|to you.]] ^2411
 
-If there is a betrothed virgin, and a man meets her in the city and lies with her, ^2223
+[[H518|If]] [[H1931|he]] [[H6041|is a poor]] [[H376|man,]] [[H3808|you must not]] [[H7901|go to sleep]] [[H5667|with the security]] ⟨in your possession⟩; ^2412
 
-then you shall bring them both out to the gate of that city, and you shall stone them to death with stones, the young woman because she did not cry for help though she was in the city, and the man because he violated his neighbor’s wife. So you shall purge the evil from your midst. ^2224
+[[H7725|be sure to return]] ⟨it⟩ [[H5667|]] [[H935|to him  by sunset,]] [[H7901|so that he may sleep]] [[H8008|in his own cloak]] [[H1288|and bless you,]] [[H1961|and this will be]] [[H6666|credited to you as righteousness]] [[H6440|before]] [[H3068|the LORD]] [[H430|your God.]] ^2413
 
-But if in the open country a man meets a young woman who is betrothed, and the man seizes her and lies with her, then only the man who lay with her shall die. ^2225
+[[H3808|Do not]] [[H6231|oppress]] [[H7916|a hired hand]] [[H6041|who is poor]] [[H34|and needy,]] ⟨whether⟩ [[H251|he is a brother]] [[H176|or]] [[H1616|a foreigner residing]] [[H8179|in one of your towns.]] ^2414
 
-But you shall do nothing to the young woman; she has committed no offense punishable by death. For this case is like that of a man attacking and murdering his neighbor, ^2226
+[[H5414|You are to pay]] [[H7939|his wages]] [[H3117|each day]] [[H3808|before]] [[H8121|sunset,]] [[H3588|because]] [[H1931|he]] [[H6041|is poor]] [[H5375|and depends]] [[H413|on them.]] [[H3808|Otherwise]] [[H7121|he may cry out]] [[H3068|to the LORD]] [[H5921|against you,]] [[H2399|and you will be guilty of sin.]] ^2415
 
-because he met her in the open country, and though the betrothed young woman cried for help there was no one to rescue her. ^2227
+[[H1|Fathers]] [[H3808|shall not]] [[H4191|be put to death]] [[H5921|for]] [[H1121|their children,]] [[H1121|nor children]] [[H5921|for]] [[H1|their fathers;]] [[H376|each]] [[H4191|is to die]] [[H2399|for his own sin.]] ^2416
 
-If a man meets a virgin who is not betrothed, and seizes her and lies with her, and they are found, ^2228
+[[H3808|Do not]] [[H5186|deny]] [[H4941|justice]] [[H1616|to the foreigner]] [[H3490|or the fatherless,]] [[H3808|and do not]] [[H490|take a widow’s]] [[H899|cloak]] [[H2254|as security.]] ^2417
 
-then the man who lay with her shall give to the father of the young woman fifty shekels of silver, and she shall be his wife, because he has violated her. He may not divorce her all his days. ^2229
+[[H2142|Remember]] [[H3588|that]] [[H1961|you were]] [[H5650|slaves]] [[H4714|in Egypt,]] [[H3068|and the LORD]] [[H430|your God]] [[H6299|redeemed you]] [[H8033|from that place.]] [[H5921|Therefore]] [[H595|I]] [[H6680|am commanding]] [[H6213|you to do]] [[H2088|this.]] ^2418
 
-A man shall not take his father’s wife, so that he does not uncover his father’s nakedness. ^2230
+[[H3588|If]] [[H7114|you are harvesting]] [[H7704|in your field]] [[H7911|and forget]] [[H6016|a sheaf]] ⟨there⟩ [[H7704|,]] [[H3808|do not]] [[H7725|go back]] [[H3947|to get it.]] [[H1961|It is]] [[H1616|to be left for the foreigner,]] [[H3490|the fatherless,]] [[H490|and the widow,]] [[H4616|so that]] [[H3068|the LORD]] [[H430|your God]] [[H1288|may bless]] [[H3605|you in all]] [[H4639|the work]] [[H3027|of your hands.]] ^2419
 
+[[H3588|When]] [[H2251|you beat]] [[H2132|the olives from your trees,]] [[H3808|you must not]] [[H6286|go over]] [[H310|the branches again.]] [[H1961|What remains will be]] [[H1616|for the foreigner,]] [[H3490|the fatherless,]] [[H490|and the widow.]] ^2420
 
+[[H3588|When]] [[H1219|you gather the grapes]] [[H3754|of your vineyard,]] [[H3808|you must not]] [[H5953|go over]] ⟨the vines⟩ [[H310|again.]] [[H1961|What remains will be]] [[H1616|for the foreigner,]] [[H3490|the fatherless,]] [[H490|and the widow.]] ^2421
 
-No one whose testicles are crushed or whose male organ is cut off shall enter the assembly of the Lord. ^2301
+[[H2142|Remember]] [[H3588|that]] [[H1961|you were]] [[H5650|slaves]] [[H776|in the land]] [[H4714|of Egypt.]] [[H5921|Therefore]] [[H595|I]] [[H6680|am commanding]] [[H6213|you to do]] [[H2088|this.]] ^2422
 
-No one born of a forbidden union may enter the assembly of the Lord. Even to the tenth generation, none of his descendants may enter the assembly of the Lord. ^2302
+[[H3588|If]] [[H1961|there is]] [[H7379|a dispute]] [[H996|between]] [[H582|men,]] [[H5066|they are to go]] [[H413|to]] [[H4941|court]] [[H8199|to be judged,]] [[H6662|so that the innocent]] [[H6663|may be acquitted]] [[H7563|and the guilty]] [[H7561|condemned.]] ^2501
 
-No Ammonite or Moabite may enter the assembly of the Lord. Even to the tenth generation, none of them may enter the assembly of the Lord forever, ^2303
+[[H518|If]] [[H7563|the guilty man]] [[H5221|deserves to be beaten,]] [[H8199|the judge]] [[H5307|shall have him lie down]] [[H5221|and be flogged]] [[H6440|in his presence]] [[H4557|with the number]] [[H1767|of lashes]] [[H7564|his crime deserves.]] ^2502
 
-because they did not meet you with bread and with water on the way, when you came out of Egypt, and because they hired against you Balaam the son of Beor from Pethor of Mesopotamia, to curse you. ^2304
+[[H5221|He may receive]] [[H3808|no]] [[H3254|more]] [[H705|than forty]] ⟨lashes⟩, [[H6435|lest]] [[H251|your brother]] [[H5221|be beaten]] [[H3254|any more]] [[H5921|than]] [[H428|that]] [[H7034|and be degraded]] [[H5869|in your sight.]] ^2503
 
-But the Lord your God would not listen to Balaam; instead the Lord your God turned the curse into a blessing for you, because the Lord your God loved you. ^2305
+[[H3808|Do not]] [[H2629|muzzle]] [[H7794|an ox]] [[H1758|while it is treading out the grain.]] ^2504
 
-You shall not seek their peace or their prosperity all your days forever. ^2306
+[[H3588|When]] [[H251|brothers]] [[H3427|dwell]] [[H3162|together]] [[H259|and one]] [[H1992|of them]] [[H4191|dies]] [[H369|without]] [[H1121|a son,]] [[H802|the widow]] [[H3808|must not]] [[H1961|marry]] [[H2351|outside]] ⟨the family⟩. [[H2993|Her husband’s brother]] [[H3947|is to take her]] [[H802|as his  wife]] [[H2992|and fulfill the duty of a brother-in-law for her.]] ^2505
 
-You shall not abhor an Edomite, for he is your brother. You shall not abhor an Egyptian, because you were a sojourner in his land. ^2307
+[[H1060|The first son]] [[H3205|she bears]] [[H6965|will carry]] [[H5921|on]] [[H8034|the name]] [[H4191|of the dead]] [[H251|brother,]] [[H8034|so that his name]] [[H3808|will not]] [[H4229|be blotted out]] [[H3478|from Israel.]] ^2506
 
-Children born to them in the third generation may enter the assembly of the Lord. ^2308
+[[H518|But if]] [[H376|the man]] [[H3808|does not]] [[H2654|want]] [[H3947|to marry]] [[H2994|his brother’s widow,]] [[H2994|she]] [[H5927|is to go]] [[H413|to]] [[H2205|the elders]] [[H8179|at the city gate]] [[H559|and say,]] [[H2993|“My husband’s brother]] [[H3985|refuses]] [[H6965|to preserve]] [[H251|his brother’s]] [[H8034|name]] [[H3478|in Israel.]] [[H3808|He is not]] [[H14|willing]] [[H2992|to perform the duty of a brother-in-law for me.]] ^2507
 
-When you are encamped against your enemies, then you shall keep yourself from every evil thing. ^2309
+[[H2205|Then the elders]] [[H5892|of his city]] [[H7121|shall summon]] [[H1696|him  and speak]] [[H413|with him.]] [[H5975|If he persists]] [[H559|and says,]] [[H3808|“I do not]] [[H2654|want]] [[H3947|to marry her,”]] ^2508
 
-If any man among you becomes unclean because of a nocturnal emission, then he shall go outside the camp. He shall not come inside the camp, ^2310
+[[H2994|his brother’s widow]] [[H5066|shall go up]] [[H413|to him]] [[H5869|in the presence]] [[H2205|of the elders,]] [[H2502|remove]] [[H5275|his sandal,]] [[H3417|spit]] [[H6440|in his face,]] [[H559|and declare,]] [[H3602|“This is what]] [[H6213|is done]] [[H376|to the man]] [[H834|who]] [[H3808|will not]] [[H1129|maintain]] [[H251|his brother’s]] [[H1004|line.”]] ^2509
 
-but when evening comes, he shall bathe himself in water, and as the sun sets, he may come inside the camp. ^2311
+[[H8034|And his family name]] [[H3478|in Israel]] [[H7121|will be called]] [[H1004|“The House]] [[H5275|of the Unsandaled.”]] ^2510
 
-You shall have a place outside the camp, and you shall go out to it. ^2312
+[[H3588|If]] [[H376|two men]] [[H5327|are fighting,]] [[H802|and the wife]] [[H259|of one]] [[H7126|steps in]] [[H5337|to rescue]] [[H376|her husband]] [[H3027|from]] [[H5221|the one striking him,]] [[H7971|and she reaches out]] [[H3027|her hand]] [[H2388|and grabs]] [[H4016|his genitals,]] ^2511
 
-And you shall have a trowel with your tools, and when you sit down outside, you shall dig a hole with it and turn back and cover up your excrement. ^2313
+[[H7112|you are to cut off]] [[H3709|her hand.]] [[H2347|You must show her no pity.]] ^2512
 
-Because the Lord your God walks in the midst of your camp, to deliver you and to give up your enemies before you, therefore your camp must be holy, so that he may not see anything indecent among you and turn away from you. ^2314
+[[H3808|You shall not]] [[H1961|have]] [[H68|two differing weights]] [[H3599|in your bag,]] [[H1419|one heavy]] [[H6996|and one light.]] ^2513
 
-You shall not give up to his master a slave who has escaped from his master to you. ^2315
+[[H3808|You shall not]] [[H1961|have]] [[H374|two differing measures]] [[H1004|in your house,]] [[H1419|a larger]] [[H6996|and a smaller.]] ^2514
 
-He shall dwell with you, in your midst, in the place that he shall choose within one of your towns, wherever it suits him. You shall not wrong him. ^2316
+[[H1961|You must maintain]] [[H8003|accurate]] [[H6664|and honest]] [[H68|weights]] ⟨and⟩ [[H8003|]] [[H374|measures,]] [[H4616|so that]] [[H748|you may live long]] [[H5921|in]] [[H127|the land]] [[H3068|the LORD]] [[H430|your God]] [[H5414|is giving you.]] ^2515
 
-None of the daughters of Israel shall be a cult prostitute, and none of the sons of Israel shall be a cult prostitute. ^2317
+[[H3588|For]] [[H3605|everyone]] [[H6213|who behaves]] [[H5766|dishonestly]] [[H428|in regard to these things]] [[H8441|is detestable]] [[H3068|to the LORD]] [[H430|your God.]] ^2516
 
-You shall not bring the fee of a prostitute or the wages of a dog into the house of the Lord your God in payment for any vow, for both of these are an abomination to the Lord your God. ^2318
+[[H2142|Remember]] [[H834|what]] [[H6002|the Amalekites]] [[H6213|did]] [[H1870|to you  along your way]] [[H3318|from]] [[H4714|Egypt,]] ^2517
 
-You shall not charge interest on loans to your brother, interest on money, interest on food, interest on anything that is lent for interest. ^2319
+[[H834|how]] [[H7136|they met you]] [[H1870|on your journey]] [[H859|when you]] [[H3023|were tired]] [[H5889|and weary,]] [[H2179|and they attacked]] [[H3605|all]] [[H2826|your stragglers;]] [[H3808|they had no]] [[H3373|fear]] [[H430|of God.]] ^2518
 
-You may charge a foreigner interest, but you may not charge your brother interest, that the Lord your God may bless you in all that you undertake in the land that you are entering to take possession of it. ^2320
+[[H3068|When the LORD]] [[H430|your God]] [[H5117|gives you rest]] [[H3605|from]] [[H341|the enemies]] [[H5439|all around you]] [[H776|in the land]] ⟨He⟩ [[H3068|]] [[H5414|is giving]] [[H3423|you to possess]] [[H5159|as an inheritance,]] [[H4229|you are to blot out]] [[H2143|the memory]] [[H6002|of Amalek]] [[H8478|from under]] [[H8064|heaven.]] [[H3808|Do not]] [[H7911|forget!]] ^2519
 
-If you make a vow to the Lord your God, you shall not delay fulfilling it, for the Lord your God will surely require it of you, and you will be guilty of sin. ^2321
+[[H3588|When]] [[H935|you enter]] [[H776|the land]] [[H3068|the LORD]] [[H430|your God]] [[H5414|is giving]] [[H5159|you as an inheritance,]] [[H3423|and you take possession of it]] [[H3427|and settle]] ^2601
 
-But if you refrain from vowing, you will not be guilty of sin. ^2322
+[[H3947|you must take]] [[H7225|some of the firstfruits]] [[H3605|of all]] [[H6529|the produce]] [[H127|of the ground]] [[H834|that]] [[H935|you bring in]] [[H776|from the land]] [[H3068|the LORD]] [[H430|your God]] [[H5414|is giving]] [[H7760|you  and put]] ⟨them⟩ [[H2935|in a basket.]] [[H1980|Then go]] [[H413|to]] [[H4725|the place]] [[H834|that]] [[H3068|the LORD]] [[H430|your God]] [[H977|will choose]] [[H7931|as a dwelling]] [[H8034|for His name,]] ^2602
 
-You shall be careful to do what has passed your lips, for you have voluntarily vowed to the Lord your God what you have promised with your mouth. ^2323
+[[H935|go]] [[H413|to]] [[H3548|the priest]] [[H834|who]] [[H1961|is]] [[H1992|serving at that]] [[H3117|time,]] [[H559|and say]] [[H413|to him,]] [[H5046|“I declare]] [[H3117|today]] [[H3068|to the LORD]] [[H430|your God]] [[H3588|that]] [[H935|I have entered]] [[H776|the land]] [[H834|which]] [[H3068|the LORD]] [[H7650|swore]] [[H1|to our fathers]] [[H5414|to give]] ^2603
 
-If you go into your neighbor’s vineyard, you may eat your fill of grapes, as many as you wish, but you shall not put any in your bag. ^2324
+[[H3548|Then the priest]] [[H3947|shall take]] [[H2935|the basket]] [[H3027|from your hands]] [[H3240|and place it]] [[H6440|before]] [[H4196|the altar]] [[H3068|of the LORD]] [[H430|your God,]] ^2604
 
-If you go into your neighbor’s standing grain, you may pluck the ears with your hand, but you shall not put a sickle to your neighbor’s standing grain. ^2325
+[[H6030|and you are to declare]] [[H6440|before]] [[H3068|the LORD]] [[H430|your God,]] [[H1|“My father]] [[H6|was a wandering]] [[H761|Aramean,]] [[H3381|and he went down]] [[H4714|to Egypt]] [[H4592|few in number]] [[H1481|and lived]] [[H8033|there]] [[H1961|and became]] [[H1419|a great]] [[H1471|nation,]] [[H6099|mighty]] [[H7227|and numerous.]] ^2605
 
+[[H4713|But the Egyptians]] [[H7489|mistreated us]] [[H6031|and afflicted us,]] [[H5414|putting us]] [[H7186|to hard]] [[H5656|labor.]] ^2606
 
+[[H6817|So we called out]] [[H413|to]] [[H3068|the LORD,]] [[H430|the God]] [[H1|of our fathers;]] [[H3068|and the LORD]] [[H8085|heard]] [[H6963|our voice]] [[H7200|and saw]] [[H6040|our misery,]] [[H5999|toil,]] [[H3906|and oppression.]] ^2607
 
-When a man takes a wife and marries her, if then she finds no favor in his eyes because he has found some indecency in her, and he writes her a certificate of divorce and puts it in her hand and sends her out of his house, and she departs out of his house, ^2401
+[[H3068|Then the LORD]] [[H3318|brought us]] [[H4714|out of Egypt]] [[H2389|with a mighty]] [[H3027|hand]] [[H5186|and an outstretched]] [[H2220|arm,]] [[H1419|with great]] [[H4172|terror,]] [[H226|signs,]] [[H4159|and wonders.]] ^2608
 
-and if she goes and becomes another man’s wife, ^2402
+[[H935|And He brought us]] [[H413|to]] [[H2088|this]] [[H4725|place]] [[H5414|and gave]] [[H2063|us this]] [[H776|land,]] [[H776|a land]] [[H2100|flowing]] [[H2461|with milk]] [[H1706|and honey.]] ^2609
 
-and the latter man hates her and writes her a certificate of divorce and puts it in her hand and sends her out of his house, or if the latter man dies, who took her to be his wife, ^2403
+[[H6258|And now,]] [[H2009|behold,]] [[H935|I have brought]] [[H6529|the firstfruits]] [[H127|of the land]] [[H834|that]] [[H3068|You, O LORD,]] [[H5414|have given]] [[H3240|me.”  Then you are to place]] ⟨the basket⟩ [[H6440|before]] [[H3068|the LORD]] [[H430|your God]] [[H7812|and bow down]] [[H6440|before]] [[H3068|Him.]] ^2610
 
-then her former husband, who sent her away, may not take her again to be his wife, after she has been defiled, for that is an abomination before the Lord. And you shall not bring sin upon the land that the Lord your God is giving you for an inheritance. ^2404
+[[H8056|So you shall rejoice—]] [[H859|you,]] [[H3881|the Levite,]] [[H1616|and the foreigner dwelling]] [[H7130|among you—]] [[H3605|in all]] [[H2896|the good]] [[H3068|things the LORD]] [[H430|your God]] [[H5414|has given]] [[H1004|to you  and your household.]] ^2611
 
-When a man is newly married, he shall not go out with the army or be liable for any other public duty. He shall be free at home one year to be happy with his wife whom he has taken. ^2405
+[[H3588|When]] [[H3615|you have finished laying aside]] [[H4643|a tenth]] [[H3605|of all]] [[H8393|of your produce]] [[H7992|in the third]] [[H8141|year,]] [[H8141|the year]] [[H4643|of the tithe,]] [[H5414|you are to give]] [[H3881|it to the Levite,]] [[H1616|the foreigner,]] [[H3490|the fatherless,]] [[H490|and the widow,]] [[H398|that they may eat]] [[H7646|and be filled]] [[H8179|within your gates.]] ^2612
 
-No one shall take a mill or an upper millstone in pledge, for that would be taking a life in pledge. ^2406
+[[H559|Then you shall declare]] [[H6440|in the presence]] [[H3068|of the LORD]] [[H430|your God,]] [[H1197|“I have removed]] [[H4480|from]] ⟨my⟩ [[H1004|house]] [[H6944|the sacred]] ⟨portion⟩ [[H1571|and]] [[H5414|have given it]] [[H3881|to the Levite,]] [[H1616|the foreigner,]] [[H3490|the fatherless,]] [[H490|and the widow,]] [[H3605|according to all]] [[H4687|the commandments]] [[H6680|You have given me.]] [[H3808|I have not]] [[H5674|transgressed]] [[H7911|or forgotten]] [[H4687|Your commandments.]] ^2613
 
-If a man is found stealing one of his brothers of the people of Israel, and if he treats him as a slave or sells him, then that thief shall die. So you shall purge the evil from your midst. ^2407
+[[H3808|I have not]] [[H398|eaten]] [[H4480|any of]] ⟨the sacred portion⟩ [[H205|while in mourning,]] [[H1197|or removed]] [[H4480|any of it]] [[H2931|while unclean,]] [[H5414|or offered]] [[H4480|any of]] [[H4191|it for the dead.]] [[H8085|I have obeyed]] [[H3068|the LORD]] [[H430|my God;]] [[H6213|I have done]] [[H3605|everything]] [[H6680|You commanded me.]] ^2614
 
-Take care, in a case of leprous disease, to be very careful to do according to all that the Levitical priests shall direct you. As I commanded them, so you shall be careful to do. ^2408
+[[H8259|Look down]] [[H4480|from]] [[H6944|Your holy]] [[H4583|habitation,]] [[H8064|from heaven,]] [[H1288|and bless]] [[H5971|Your people]] [[H3478|Israel]] [[H127|and the land]] [[H5414|You have given]] [[H834|us,  as]] [[H7650|You swore]] [[H1|to our fathers,]] [[H776|a land]] [[H2100|flowing]] [[H2461|with milk]] [[H1706|and honey.”]] ^2615
 
-Remember what the Lord your God did to Miriam on the way as you came out of Egypt. ^2409
+[[H3068|The LORD]] [[H430|your God]] [[H6680|commands you]] [[H2088|this]] [[H3117|day]] [[H6213|to follow]] [[H428|these]] [[H2706|statutes]] [[H4941|and ordinances.]] [[H8104|You must be careful]] [[H6213|to follow]] [[H853|them]] [[H3605|with all]] [[H3824|your heart]] [[H3605|and all]] [[H5315|your soul.]] ^2616
 
-When you make your neighbor a loan of any sort, you shall not go into his house to collect his pledge. ^2410
+[[H3117|Today]] [[H559|you have proclaimed]] [[H3068|that the LORD]] [[H1961|is]] [[H430|your God]] [[H1980|and that you will walk]] [[H1870|in His ways,]] [[H8104|keep]] [[H2706|His statutes]] [[H4687|and commandments]] [[H4941|and ordinances,]] [[H8085|and listen]] [[H6963|to His voice.]] ^2617
 
-You shall stand outside, and the man to whom you make the loan shall bring the pledge out to you. ^2411
+[[H3117|And today]] [[H3068|the LORD]] [[H559|has proclaimed you]] [[H1961|to be]] [[H5971|His  people,]] [[H5459|a treasured possession]] [[H834|as]] [[H1696|He promised,]] [[H8104|and that you are to keep]] [[H3605|all]] [[H4687|His commandments,]] ^2618
 
-And if he is a poor man, you shall not sleep in his pledge. ^2412
+[[H5414|and that He will set you]] [[H5945|high]] [[H8416|in praise]] [[H8034|and name]] [[H8597|and honor]] [[H5921|above]] [[H3605|all]] [[H1471|the nations]] [[H6213|He has made,]] [[H1961|and that you will be]] [[H6918|a holy]] [[H5971|people]] [[H3068|to the LORD]] [[H430|your God]] [[H834|as]] [[H1696|He promised.]] ^2619
 
-You shall restore to him the pledge as the sun sets, that he may sleep in his cloak and bless you. And it shall be righteousness for you before the Lord your God. ^2413
+[[H4872|Then Moses]] [[H2205|and the elders]] [[H3478|of Israel]] [[H6680|commanded]] [[H5971|the people,]] [[H8104|“Keep]] [[H3605|all]] [[H4687|the commandments]] [[H595|I]] [[H6680|am giving]] [[H853|you]] [[H3117|today.]] ^2701
 
-You shall not oppress a hired worker who is poor and needy, whether he is one of your brothers or one of the sojourners who are in your land within your towns. ^2414
+[[H1961|And]] [[H3117|on the day]] [[H5674|you cross]] [[H3383|the Jordan]] [[H413|into]] [[H776|the land]] [[H3068|the LORD]] [[H430|your God]] [[H5414|is giving you,]] [[H6965|you are to set up]] [[H1419|large]] [[H68|stones]] [[H7874|and coat]] [[H853|them]] [[H7874|with plaster.]] ^2702
 
-You shall give him his wages on the same day, before the sun sets (for he is poor and counts on it), lest he cry against you to the Lord, and you be guilty of sin. ^2415
+[[H3789|Write]] [[H5921|on them]] [[H3605|all]] [[H1697|the words]] [[H2063|of this]] [[H8451|law]] [[H5674|when you have crossed over]] [[H4616|to]] [[H935|enter]] [[H776|the land]] [[H3068|the LORD]] [[H430|your God]] [[H5414|is giving you,]] [[H776|a land]] [[H2100|flowing]] [[H2461|with milk]] [[H1706|and honey,]] [[H834|just as]] [[H3068|the LORD,]] [[H430|the God]] [[H1|of your fathers,]] [[H1696|has promised you.]] ^2703
 
-Fathers shall not be put to death because of their children, nor shall children be put to death because of their fathers. Each one shall be put to death for his own sin. ^2416
+[[H1961|And]] [[H5674|when you have crossed]] [[H3383|the Jordan,]] [[H6965|you are to set up]] [[H428|these]] [[H68|stones]] [[H2022|on Mount]] [[H5858|Ebal,]] [[H834|as]] [[H595|I]] [[H6680|am commanding you today,]] [[H7874|and you are to coat]] [[H853|them]] [[H7874|with plaster.]] ^2704
 
-You shall not pervert the justice due to the sojourner or to the fatherless, or take a widow’s garment in pledge, ^2417
+[[H1129|Moreover, you shall build]] [[H8033|there]] [[H4196|an altar]] [[H3068|to the LORD]] [[H430|your God,]] [[H4196|an altar of]] [[H68|stones.]] [[H3808|You must not]] [[H5130|use]] [[H1270|any iron tool]] [[H5921|on them.]] ^2705
 
-but you shall remember that you were a slave in Egypt and the Lord your God redeemed you from there; therefore I command you to do this. ^2418
+[[H1129|You shall build]] [[H4196|the altar]] [[H3068|of the LORD]] [[H430|your God]] [[H8003|with uncut]] [[H68|stones]] [[H5927|and offer]] [[H5921|upon it]] [[H5930|burnt offerings]] [[H3068|to the LORD]] [[H430|your God.]] ^2706
 
-When you reap your harvest in your field and forget a sheaf in the field, you shall not go back to get it. It shall be for the sojourner, the fatherless, and the widow, that the Lord your God may bless you in all the work of your hands. ^2419
+[[H8033|There]] [[H2076|you are to sacrifice]] ⟨your⟩ [[H8002|peace offerings,]] [[H398|eating them]] [[H8055|and rejoicing]] [[H6440|in the presence]] [[H3068|of the LORD]] [[H430|your God.]] ^2707
 
-When you beat your olive trees, you shall not go over them again. It shall be for the sojourner, the fatherless, and the widow. ^2420
+[[H3789|And you shall write]] [[H874|distinctly]] [[H5921|upon]] [[H68|these stones]] [[H3605|all]] [[H1697|the words]] [[H2063|of this]] [[H8451|law.”]] ^2708
 
-When you gather the grapes of your vineyard, you shall not strip it afterward. It shall be for the sojourner, the fatherless, and the widow. ^2421
+[[H4872|Then Moses]] [[H3881|and the Levitical]] [[H3548|priests]] [[H1696|spoke]] [[H413|to]] [[H3605|all]] [[H3478|Israel:]] [[H5535|“Be silent,]] [[H3478|O Israel,]] [[H8085|and listen!]] [[H2088|This]] [[H3117|day]] [[H1961|you have become]] [[H5971|the people]] [[H3068|of the LORD]] [[H430|your God.]] ^2709
 
-You shall remember that you were a slave in the land of Egypt; therefore I command you to do this. ^2422
+[[H8085|You shall therefore obey]] [[H6963|the voice]] [[H3069|of the LORD]] [[H430|your God]] [[H6213|and follow]] [[H4687|His commandments]] [[H2706|and statutes]] [[H595|I]] [[H6680|am giving you today.”]] ^2710
 
+[[H1931|On that]] [[H3117|day]] [[H4872|Moses]] [[H6680|commanded]] [[H5971|the people:]] ^2711
 
+[[H5674|“When you have crossed]] [[H3383|the Jordan,]] [[H428|these]] ⟨tribes⟩ [[H5975|shall stand]] [[H5921|on]] [[H2022|Mount]] [[H1630|Gerizim]] [[H1288|to bless]] [[H5971|the people:]] [[H8095|Simeon,]] [[H3878|Levi,]] [[H3063|Judah,]] [[H3485|Issachar,]] [[H3130|Joseph,]] [[H1144|and Benjamin.]] ^2712
 
-If there is a dispute between men and they come into court and the judges decide between them, acquitting the innocent and condemning the guilty, ^2501
+[[H428|And these]] ⟨tribes⟩ [[H5975|shall stand]] [[H2022|on Mount]] [[H5858|Ebal]] [[H5921|to]] [[H7045|deliver the curse:]] [[H7205|Reuben,]] [[H1410|Gad,]] [[H836|Asher,]] [[H2074|Zebulun,]] [[H1835|Dan,]] [[H5321|and Naphtali.]] ^2713
 
-then if the guilty man deserves to be beaten, the judge shall cause him to lie down and be beaten in his presence with a number of stripes in proportion to his offense. ^2502
+[[H3881|Then the Levites]] [[H559|shall proclaim]] [[H7311|in a loud]] [[H6963|voice]] [[H413|to]] [[H3605|every]] [[H376|Israelite:]] ^2714
 
-Forty stripes may be given him, but not more, lest, if one should go on to beat him with more stripes than these, your brother be degraded in your sight. ^2503
+[[H779|‘Cursed]] ⟨is⟩ [[H376|the man]] [[H834|who]] [[H6213|makes]] [[H6459|a carved idol]] [[H4541|or molten image—]] [[H8441|which is detestable]] [[H3068|to the LORD,]] [[H4639|the work of]] [[H3027|the hands]] [[H2796|of a craftsman—]] [[H7760|and sets it up]] [[H5643|in secret.’]] [[H3605|And all]] ⟨let⟩ [[H5971|the people]] [[H6030|say,]] [[H543|‘Amen!’]] ^2715
 
-You shall not muzzle an ox when it is treading out the grain. ^2504
+[[H779|‘Cursed]] ⟨is⟩ [[H7034|he who dishonors]] [[H1|his father]] [[H517|or mother.’]] [[H3605|And all]] ⟨let⟩ [[H5971|the people]] [[H559|say,]] [[H543|‘Amen!’]] ^2716
 
-If brothers dwell together, and one of them dies and has no son, the wife of the dead man shall not be married outside the family to a stranger. Her husband’s brother shall go in to her and take her as his wife and perform the duty of a husband’s brother to her. ^2505
+[[H779|‘Cursed]] ⟨is⟩ [[H5253|he who moves]] [[H7453|his neighbor’s]] [[H1366|boundary stone.’]] [[H3605|And all]] ⟨let⟩ [[H5971|the people]] [[H559|say,]] [[H543|‘Amen!’]] ^2717
 
-And the first son whom she bears shall succeed to the name of his dead brother, that his name may not be blotted out of Israel. ^2506
+[[H779|‘Cursed is]] [[H5787|he who lets a blind man]] [[H7686|wander]] [[H1870|in the road.’]] [[H3605|And all]] ⟨let⟩ [[H5971|the people]] [[H559|say,]] [[H543|‘Amen!’]] ^2718
 
-And if the man does not wish to take his brother’s wife, then his brother’s wife shall go up to the gate to the elders and say, My husband’s brother refuses to perpetuate his brother’s name in Israel; he will not perform the duty of a husband’s brother to me. ^2507
+[[H779|‘Cursed is]] [[H5186|he who withholds]] [[H4941|justice]] [[H1616|from the foreigner,]] [[H3490|the fatherless,]] [[H490|or the widow.’]] [[H3605|And all]] ⟨let⟩ [[H5971|the people]] [[H559|say,]] [[H543|‘Amen!’]] ^2719
 
-Then the elders of his city shall call him and speak to him, and if he persists, saying, I do not wish to take her, ^2508
+[[H779|‘Cursed is]] [[H7901|he who sleeps]] [[H5973|with]] [[H1|his father’s]] [[H802|wife,]] [[H3588|for]] [[H1540|he has violated]] [[H1|his father’s]] [[H3671|marriage bed.’]] [[H3605|And all]] ⟨let⟩ [[H5971|the people]] [[H559|say,]] [[H543|‘Amen!’]] ^2720
 
-then his brother’s wife shall go up to him in the presence of the elders and pull his sandal off his foot and spit in his face. And she shall answer and say, So shall it be done to the man who does not build up his brother’s house. ^2509
+[[H779|‘Cursed is]] [[H7901|he who has sexual relations]] [[H5973|with]] [[H3605|any]] [[H929|animal.’]] [[H3605|And all]] ⟨let⟩ [[H5971|the people]] [[H559|say,]] [[H543|‘Amen!’]] ^2721
 
-And the name of his house shall be called in Israel, The house of him who had his sandal pulled off. ^2510
+[[H779|‘Cursed is]] [[H7901|he who sleeps]] [[H5973|with]] [[H269|his sister,]] [[H1323|the daughter of]] [[H1|his father]] [[H176|or]] [[H1323|the daughter of]] [[H517|his mother.’]] [[H3605|And all]] ⟨let⟩ [[H5971|the people]] [[H559|say,]] [[H543|‘Amen!’]] ^2722
 
-When men fight with one another and the wife of the one draws near to rescue her husband from the hand of him who is beating him and puts out her hand and seizes him by the private parts, ^2511
+[[H779|‘Cursed is]] [[H7901|he who sleeps]] [[H5973|with]] [[H2859|his mother-in-law.’]] [[H3605|And all]] ⟨let⟩ [[H5971|the people]] [[H559|say,]] [[H543|‘Amen!’]] ^2723
 
-then you shall cut off her hand. Your eye shall have no pity. ^2512
+[[H779|‘Cursed is]] [[H5221|he who strikes down]] [[H7453|his neighbor]] [[H5643|in secret.’]] [[H3605|And all]] ⟨let⟩ [[H5971|the people]] [[H559|say,]] [[H543|‘Amen!’]] ^2724
 
-You shall not have in your bag two kinds of weights, a large and a small. ^2513
+[[H779|‘Cursed is]] [[H3947|he who accepts]] [[H7810|a bribe]] [[H5221|to kill]] [[H5355|an innocent]] [[H5315|person.’]] [[H3605|And all]] ⟨let⟩ [[H5971|the people]] [[H559|say,]] [[H543|‘Amen!’]] ^2725
 
-You shall not have in your house two kinds of measures, a large and a small. ^2514
+[[H779|‘Cursed is]] [[H834|he who]] [[H3808|does not]] [[H6965|put]] [[H1697|the words]] [[H2063|of this]] [[H8451|law]] [[H6213|into practice.’]] [[H3605|And all]] ⟨let⟩ [[H5971|the people]] [[H559|say,]] [[H543|‘Amen!’”]] ^2726
 
-A full and fair weight you shall have, a full and fair measure you shall have, that your days may be long in the land that the Lord your God is giving you. ^2515
+[[H1961|Now]] [[H518|if]] [[H8085|you faithfully obey]] [[H6963|the voice of]] [[H3068|the LORD]] [[H430|your God]] [[H8104|and are careful]] [[H6213|to follow]] [[H3605|all]] [[H4687|His commandments]] [[H595|I]] [[H6680|am giving you today,]] [[H3068|the LORD]] [[H430|your God]] [[H5414|will set you]] [[H5921|high above]] [[H3605|all]] [[H1471|the nations]] [[H776|of the earth.]] ^2801
 
-For all who do such things, all who act dishonestly, are an abomination to the Lord your God. ^2516
+[[H3605|All]] [[H428|these]] [[H1293|blessings]] [[H935|will come]] [[H5921|upon you]] [[H5381|and overtake you,]] [[H3588|if]] [[H8085|you will obey]] [[H6963|the voice of]] [[H3068|the LORD]] [[H430|your God:]] ^2802
 
-Remember what Amalek did to you on the way as you came out of Egypt, ^2517
+[[H859|You]] [[H1288|will be blessed]] [[H5892|in the city]] [[H1288|and blessed]] [[H7704|in the country.]] ^2803
 
-how he attacked you on the way when you were faint and weary, and cut off your tail, those who were lagging behind you, and he did not fear God. ^2518
+[[H6529|The fruit of]] [[H990|your womb]] [[H1288|will be blessed,]] [[H6529|and the produce]] [[H127|of your land,]] [[H6529|the offspring]] [[H929|of your livestock,]] [[H7698|the calves]] [[H504|of your herds,]] [[H6251|and the lambs]] [[H6629|of your flocks.]] ^2804
 
-Therefore when the Lord your God has given you rest from all your enemies around you, in the land that the Lord your God is giving you for an inheritance to possess, you shall blot out the memory of Amalek from under heaven; you shall not forget. ^2519
+[[H2935|Your basket]] [[H4863|and kneading bowl]] [[H1288|will be blessed.]] ^2805
 
+[[H859|You]] [[H1288|will be blessed]] [[H935|when you come in]] [[H1288|and blessed]] [[H859|when you]] [[H3318|go out.]] ^2806
 
+[[H3068|The LORD]] [[H5414|will cause]] [[H341|the enemies]] [[H6965|who rise up]] [[H5921|against you]] [[H5062|to be defeated]] [[H6440|before you.]] [[H3318|They will march out]] [[H413|against]] [[H259|you in one]] [[H1870|direction]] [[H5127|but flee]] [[H6440|from you]] [[H7651|in seven.]] ^2807
 
-When you come into the land that the Lord your God is giving you for an inheritance and have taken possession of it and live in it, ^2601
+[[H3068|The LORD]] [[H6680|will decree]] [[H1293|a blessing]] [[H618|on your barns]] [[H3605|and on everything]] [[H4916|to which you put]] [[H3027|your hand;]] [[H3068|the LORD]] [[H430|your God]] [[H1288|will bless you]] [[H776|in the land]] [[H5414|He is giving]] ^2808
 
-you shall take some of the first of all the fruit of the ground, which you harvest from your land that the Lord your God is giving you, and you shall put it in a basket, and you shall go to the place that the Lord your God will choose, to make his name to dwell there. ^2602
+[[H3068|The LORD]] [[H6965|will establish you]] [[H6918|as His holy]] [[H5971|people,]] [[H834|just as]] [[H7650|He has sworn]] [[H3588|to you,  if]] [[H8104|you keep]] [[H4687|the commandments]] [[H3068|of the LORD]] [[H430|your God]] [[H1980|and walk]] [[H1870|in His ways.]] ^2809
 
-And you shall go to the priest who is in office at that time and say to him, I declare today to the Lord your God that I have come into the land that the Lord swore to our fathers to give us. ^2603
+[[H3605|Then all]] [[H5971|the peoples]] [[H776|of the earth]] [[H7200|will see]] [[H3588|that]] [[H7121|you are called]] [[H8034|by the name of]] [[H3068|the LORD,]] [[H3372|and they will stand in awe]] [[H4480|of you.]] ^2810
 
-Then the priest shall take the basket from your hand and set it down before the altar of the Lord your God. ^2604
+[[H3068|The LORD]] [[H3498|will make you prosper]] [[H2896|abundantly]] [[H6529|in the fruit of]] [[H990|your womb,]] [[H6529|the offspring]] [[H929|of your livestock,]] [[H6529|and the produce]] [[H127|of your land,]] [[H5921|in]] [[H127|the land]] [[H3068|the LORD]] [[H7650|swore]] [[H1|to your fathers]] [[H5414|to give]] ^2811
 
-And you shall make response before the Lord your God, A wandering Aramean was my father. And he went down into Egypt and sojourned there, few in number, and there he became a nation, great, mighty, and populous. ^2605
+[[H3068|The LORD]] [[H6605|will open]] [[H8064|the heavens,]] [[H2896|His abundant]] [[H214|storehouse,]] [[H5414|to send]] [[H4306|rain]] [[H776|to your land]] [[H6256|in season]] [[H1288|and to bless]] [[H3605|all]] [[H4639|the work]] [[H3027|of your hands.]] [[H3867|You will lend]] [[H7227|to many]] [[H1471|nations,]] [[H859|but]] [[H3867|borrow]] [[H3808|from none.]] ^2812
 
-And the Egyptians treated us harshly and humiliated us and laid on us hard labor. ^2606
+[[H3068|The LORD]] [[H5414|will make]] [[H7218|you the head]] [[H3808|and not]] [[H2180|the tail;]] [[H7535|you will only]] [[H4605|move upward]] [[H3808|and never]] [[H4295|downward,]] [[H3588|if]] [[H8085|you hear]] [[H8104|and carefully]] [[H6213|follow]] [[H4687|the commandments]] [[H3068|of the LORD]] [[H430|your God,]] [[H834|which]] [[H595|I]] [[H6680|am giving]] [[H3117|you today.]] ^2813
 
-Then we cried to the Lord, the God of our fathers, and the Lord heard our voice and saw our affliction, our toil, and our oppression. ^2607
+[[H3808|Do not]] [[H5493|turn aside]] [[H3225|to the right]] [[H8040|or to the left]] [[H3605|from any of]] [[H1697|the words]] [[H595|I]] [[H6680|command]] [[H853|you]] [[H3117|today,]] [[H1980|and do not go]] [[H310|after]] [[H312|other]] [[H430|gods]] [[H5647|to serve them.]] ^2814
 
-And the Lord brought us out of Egypt with a mighty hand and an outstretched arm, with great deeds of terror, with signs and wonders. ^2608
+[[H518|If, however,]] [[H3808|you do not]] [[H8085|obey]] [[H3068|the LORD]] [[H430|your God]] [[H8104|by carefully]] [[H6213|following]] [[H3605|all]] [[H4687|His commandments]] [[H2708|and statutes]] [[H595|I]] [[H6680|am giving you today,]] [[H3605|all]] [[H428|these]] [[H7045|curses]] [[H935|will come]] [[H5921|upon you]] [[H5381|and overtake you:]] ^2815
 
-And he brought us into this place and gave us this land, a land flowing with milk and honey. ^2609
+[[H859|You]] [[H779|will be cursed]] [[H5892|in the city]] [[H779|and cursed]] [[H7704|in the country.]] ^2816
 
-And behold, now I bring the first of the fruit of the ground, which you, O Lord, have given me. And you shall set it down before the Lord your God and worship before the Lord your God. ^2610
+[[H2935|Your basket]] [[H4863|and kneading bowl]] [[H779|will be cursed.]] ^2817
 
-And you shall rejoice in all the good that the Lord your God has given to you and to your house, you, and the Levite, and the sojourner who is among you. ^2611
+[[H6529|The fruit]] [[H990|of your womb]] [[H779|will be cursed,]] [[H6529|and the produce]] [[H127|of your land,]] [[H7698|the calves]] [[H504|of your herds,]] [[H6251|and the lambs]] [[H6629|of your flocks.]] ^2818
 
-When you have finished paying all the tithe of your produce in the third year, which is the year of tithing, giving it to the Levite, the sojourner, the fatherless, and the widow, so that they may eat within your towns and be filled, ^2612
+[[H859|You]] [[H779|will be cursed]] [[H935|when you come in]] [[H779|and cursed]] [[H859|when you]] [[H3318|go out.]] ^2819
 
-then you shall say before the Lord your God, I have removed the sacred portion out of my house, and moreover, I have given it to the Levite, the sojourner, the fatherless, and the widow, according to all your commandment that you have commanded me. I have not transgressed any of your commandments, nor have I forgotten them. ^2613
+[[H3068|The LORD]] [[H7971|will send]] [[H3994|curses]] [[H4103|upon you,  confusion]] [[H853|and]] [[H4045|rebuke]] [[H3605|in all]] [[H4916|to which you put]] [[H3027|your hand,]] [[H5704|until]] [[H8045|you are destroyed]] [[H4118|and quickly]] [[H6|perish]] [[H6440|because of]] [[H7455|the wickedness]] [[H4611|you have committed]] [[H5800|in forsaking Him.]] ^2820
 
-I have not eaten of the tithe while I was mourning, or removed any of it while I was unclean, or offered any of it to the dead. I have obeyed the voice of the Lord my God. I have done according to all that you have commanded me. ^2614
+[[H3068|The LORD]] [[H1698|will make the pestilence]] [[H1692|cling]] [[H5704|to you  until]] [[H3615|He has exterminated]] [[H853|you]] [[H5921|from]] [[H127|the land]] [[H859|you]] [[H935|are entering]] [[H3423|to possess.]] ^2821
 
-Look down from your holy habitation, from heaven, and bless your people Israel and the ground that you have given us, as you swore to our fathers, a land flowing with milk and honey. ^2615
+[[H3068|The LORD]] [[H5221|will strike you]] [[H7829|with wasting disease,]] [[H6920|with fever]] [[H1816|and inflammation,]] [[H2746|with severe heat]] [[H2719|and drought,]] [[H7711|with blight]] [[H3420|and mildew;]] [[H7291|these will pursue]] [[H5704|you until]] [[H6|you perish.]] ^2822
 
-This day the Lord your God commands you to do these statutes and rules. You shall therefore be careful to do them with all your heart and with all your soul. ^2616
+[[H8064|The sky]] [[H5921|over]] [[H7218|your head]] [[H1961|will be]] [[H5178|bronze,]] [[H776|and the earth]] [[H8478|beneath you]] [[H1270|iron.]] ^2823
 
-You have declared today that the Lord is your God, and that you will walk in his ways, and keep his statutes and his commandments and his rules, and will obey his voice. ^2617
+[[H3068|The LORD]] [[H5414|will turn]] [[H4306|the rain]] [[H776|of your land]] [[H80|into dust]] [[H6083|and powder;]] [[H3381|it will descend]] [[H5921|on you]] [[H4480|from]] [[H8064|the sky]] [[H5704|until]] [[H8045|you are destroyed.]] ^2824
 
-And the Lord has declared today that you are a people for his treasured possession, as he has promised you, and that you are to keep all his commandments, ^2618
+[[H3068|The LORD]] [[H5414|will cause]] [[H5062|you to be defeated]] [[H6440|before]] [[H341|your enemies.]] [[H3318|You will march out]] [[H413|against them]] [[H259|in one]] [[H1870|direction]] [[H5127|but flee]] [[H6440|from them]] [[H7651|in seven.]] [[H1961|You will be]] [[H2189|an object of horror]] [[H3605|to all]] [[H4467|the kingdoms]] [[H776|of the earth.]] ^2825
 
-and that he will set you in praise and in fame and in honor high above all nations that he has made, and that you shall be a people holy to the Lord your God, as he promised. ^2619
+[[H5038|Your corpses]] [[H1961|will be]] [[H3978|food]] [[H3605|for all]] [[H5775|the birds]] [[H8064|of the air]] [[H929|and beasts of]] [[H776|the earth,]] [[H369|with no]] [[H2729|one to scare them away.]] ^2826
 
+[[H3068|The LORD]] [[H5221|will afflict]] [[H7822|you with the boils]] [[H4714|of Egypt,]] [[H6076|with tumors]] [[H1618|and scabs]] [[H2775|and itch,]] [[H834|from which]] [[H3808|you cannot]] [[H7495|be cured.]] ^2827
 
+[[H3068|The LORD]] [[H5221|will afflict]] [[H7697|you with madness,]] [[H5788|blindness,]] [[H8541|and confusion]] [[H3824|of mind,]] ^2828
 
-Now Moses and the elders of Israel commanded the people, saying, Keep the whole commandment that I command you today. ^2701
+[[H6672|so that at noon]] [[H1961|you will]] [[H4959|grope about]] [[H834|like]] [[H5787|a blind man]] [[H653|in the darkness.]] [[H3808|You will not]] [[H6743|prosper]] [[H1870|in your ways.]] [[H3605|Day after day]] [[H1961|you will be]] [[H6231|oppressed]] [[H1497|and plundered,]] [[H369|with no one]] [[H3467|to save you.]] ^2829
 
-And on the day you cross over the Jordan to the land that the Lord your God is giving you, you shall set up large stones and plaster them with plaster. ^2702
+[[H781|You will be pledged in marriage]] [[H802|to a woman,]] [[H312|but another]] [[H376|man]] [[H7693|will violate her.]] [[H1129|You will build]] [[H1004|a house]] [[H3808|but not]] [[H3427|live in it.]] [[H5193|You will plant]] [[H3754|a vineyard]] [[H3808|but not]] [[H2490|enjoy its fruit.]] ^2830
 
-And you shall write on them all the words of this law, when you cross over to enter the land that the Lord your God is giving you, a land flowing with milk and honey, as the Lord, the God of your fathers, has promised you. ^2703
+[[H7794|Your ox]] [[H2873|will be slaughtered]] [[H5869|before your eyes,]] [[H3808|but you will not]] [[H398|eat]] [[H4480|any of it.]] [[H2543|Your donkey]] [[H1497|will be taken away]] [[H3808|and not]] [[H7725|returned to you.]] [[H6629|Your flock]] [[H5414|will be given]] [[H341|to your enemies,]] [[H369|and no]] [[H3467|one will help you.]] ^2831
 
-And when you have crossed over the Jordan, you shall set up these stones, concerning which I command you today, on Mount Ebal, and you shall plaster them with plaster. ^2704
+[[H1121|Your sons]] [[H1323|and daughters]] [[H5414|will be given]] [[H312|to another]] [[H5971|nation,]] [[H5869|while your eyes]] [[H3616|grow weary]] [[H7200|looking]] [[H413|for them]] [[H3117|day after day,]] [[H369|with no]] [[H410|power in]] [[H3027|your hand.]] ^2832
 
-And there you shall build an altar to the Lord your God, an altar of stones. You shall wield no iron tool on them; ^2705
+[[H5971|A people]] [[H3808|you do not]] [[H3045|know]] [[H398|will eat]] [[H6529|the produce]] [[H127|of your land]] [[H3605|and of all]] [[H3018|your toil.]] [[H3605|All]] [[H3117|your days]] [[H1961|you will be]] [[H6231|oppressed]] [[H7533|and crushed.]] ^2833
 
-you shall build an altar to the Lord your God of uncut stones. And you shall offer burnt offerings on it to the Lord your God, ^2706
+[[H1961|You will be]] [[H7696|driven mad]] [[H4758|by the sights]] [[H7200|you see.]] ^2834
 
-and you shall sacrifice peace offerings and shall eat there, and you shall rejoice before the Lord your God. ^2707
+[[H3068|The LORD]] [[H5221|will afflict you]] [[H7451|with painful,]] [[H3808|incurable]] [[H7822|boils]] [[H5921|on]] [[H1290|your knees]] [[H7785|and thighs,]] [[H3709|from the soles]] [[H7272|of your feet]] [[H5704|to]] [[H6936|the top of your head.]] ^2835
 
-And you shall write on the stones all the words of this law very plainly. ^2708
+[[H3068|The LORD]] [[H1980|will bring]] [[H853|you]] [[H853|and]] [[H4428|the king]] [[H6965|you appoint]] [[H413|to]] [[H1471|a nation]] [[H859|neither you]] [[H3808|nor]] [[H1|your fathers]] [[H3045|have known,]] [[H8033|and there]] [[H5647|you will worship]] [[H312|other]] [[H430|gods,]] ⟨gods⟩ [[H6086|of wood]] [[H68|and stone.]] ^2836
 
-Then Moses and the Levitical priests said to all Israel, Keep silence and hear, O Israel : this day you have become the people of the Lord your God. ^2709
+[[H1961|You will become]] [[H8047|an object of horror,]] [[H4912|scorn,]] [[H8148|and ridicule]] [[H3605|among all]] [[H5971|the nations]] [[H834|to which]] [[H3068|the LORD]] [[H5090|will drive you.]] ^2837
 
-You shall therefore obey the voice of the Lord your God, keeping his commandments and his statutes, which I command you today. ^2710
+[[H3318|You will sow]] [[H7227|much]] [[H2233|seed]] [[H7704|in the field]] [[H622|but harvest]] [[H4592|little,]] [[H3588|because]] [[H697|the locust]] [[H2628|will consume it.]] ^2838
 
-That day Moses charged the people, saying, ^2711
+[[H5193|You will plant]] [[H5647|and cultivate]] [[H3754|vineyards,]] [[H3808|but will neither]] [[H8354|drink]] [[H3196|the wine]] [[H3808|nor]] [[H103|gather]] ⟨the grapes⟩, [[H3588|because]] [[H8438|worms]] [[H398|will eat them.]] ^2839
 
-When you have crossed over the Jordan, these shall stand on Mount Gerizim to bless the people : Simeon, Levi, Judah, Issachar, Joseph, and Benjamin. ^2712
+[[H1961|You will have]] [[H2132|olive trees]] [[H3605|throughout]] [[H1366|your territory,]] [[H3808|but you will never]] [[H5480|anoint]] [[H8081|yourself with oil,]] [[H3588|because]] [[H2132|the olives]] [[H5394|will drop off.]] ^2840
 
-And these shall stand on Mount Ebal for the curse : Reuben, Gad, Asher, Zebulun, Dan, and Naphtali. ^2713
+[[H3205|You will father]] [[H1121|sons]] [[H1323|and daughters,]] [[H3808|but they will not]] [[H1961|remain]] [[H3588|yours,  because]] [[H1980|they will go]] [[H7628|into captivity.]] ^2841
 
-And the Levites shall declare to all the men of Israel in a loud voice : ^2714
+[[H6767|Swarms of locusts]] [[H3423|will consume]] [[H3605|all]] [[H6086|your trees]] [[H6529|and the produce]] [[H127|of your land.]] ^2842
 
-Cursed be the man who makes a carved or cast metal image, an abomination to the Lord, a thing made by the hands of a craftsman, and sets it up in secret. And all the people shall answer and say, Amen. ^2715
+[[H1616|The foreigner living]] [[H7130|among you]] [[H5927|will rise]] [[H4605|higher]] [[H4605|and higher]] [[H5921|above you,]] [[H859|while you]] [[H3381|sink down]] [[H4295|lower]] [[H4295|and lower.]] ^2843
 
-Cursed be anyone who dishonors his father or his mother. And all the people shall say, Amen. ^2716
+[[H1931|He]] [[H3867|will lend to you,]] [[H859|but you]] [[H3808|will not]] [[H3867|lend to him.]] [[H1931|He]] [[H1961|will be]] [[H7218|the head,]] [[H859|and you]] [[H1961|will be]] [[H2180|the tail.]] ^2844
 
-Cursed be anyone who moves his neighbor’s landmark. And all the people shall say, Amen. ^2717
+[[H3605|All]] [[H428|these]] [[H7045|curses]] [[H935|will come]] [[H5921|upon you.]] [[H7291|They will pursue you]] [[H5381|and overtake you]] [[H5704|until]] [[H8045|you are destroyed,]] [[H3588|since]] [[H3808|you did not]] [[H8085|obey]] [[H3068|the LORD]] [[H430|your God]] [[H8104|and keep]] [[H4687|the commandments]] [[H2708|and statutes]] [[H6680|He gave you.]] ^2845
 
-Cursed be anyone who misleads a blind man on the road. And all the people shall say, Amen. ^2718
+[[H1961|These curses will be]] [[H226|a sign]] [[H4159|and a wonder]] [[H2233|upon you  and your descendants]] [[H5704|forever.]] ^2846
 
-Cursed be anyone who perverts the justice due to the sojourner, the fatherless, and the widow. And all the people shall say, Amen. ^2719
+[[H8478|Because]] [[H3808|you did not]] [[H5647|serve]] [[H3068|the LORD]] [[H430|your God]] [[H8057|with joy]] [[H2898|and gladness]] [[H3824|of heart]] [[H3605|in all]] [[H7230|your abundance,]] ^2847
 
-Cursed be anyone who lies with his father’s wife, because he has uncovered his father’s nakedness. And all the people shall say, Amen. ^2720
+[[H5647|you will serve]] [[H341|your enemies]] [[H3068|the LORD]] [[H7971|will send against you]] [[H7458|in famine,]] [[H6772|thirst,]] [[H5903|nakedness,]] [[H2640|and destitution.]] [[H5414|He will place]] [[H1270|an iron]] [[H5923|yoke]] [[H5921|on]] [[H6677|your neck]] [[H5704|until]] [[H8045|He has destroyed]] [[H853|you.]] ^2848
 
-Cursed be anyone who lies with any kind of animal. And all the people shall say, Amen. ^2721
+[[H3068|The LORD]] [[H5375|will bring]] [[H1471|a nation]] [[H7350|from afar,]] [[H7097|from the ends of]] [[H776|the earth,]] [[H1675|to swoop down]] [[H5921|upon you]] [[H834|like]] [[H5404|an eagle,]] [[H1471|a nation]] [[H834|whose]] [[H3956|language]] [[H3808|you will not]] [[H8085|understand,]] ^2849
 
-Cursed be anyone who lies with his sister, whether the daughter of his father or the daughter of his mother. And all the people shall say, Amen. ^2722
+[[H5794|a ruthless]] [[H1471|nation]] [[H3808|with no]] [[H5375|respect]] [[H2205|for the old]] [[H3808|and no]] [[H2603|pity]] [[H5288|for the young.]] ^2850
 
-Cursed be anyone who lies with his mother-in-law. And all the people shall say, Amen. ^2723
+[[H398|They will eat]] [[H6529|the offspring]] [[H929|of your livestock]] [[H6529|and the produce]] [[H127|of your land]] [[H5704|until]] [[H8045|you are destroyed.]] [[H7604|They will leave]] [[H3808|you  no]] [[H1715|grain]] [[H8492|or new wine]] [[H3323|or oil,]] [[H7698|no calves]] [[H504|of your herds]] [[H6251|or lambs]] [[H6629|of your flocks,]] [[H5704|until]] [[H6|they have caused you to perish.]] ^2851
 
-Cursed be anyone who strikes down his neighbor in secret. And all the people shall say, Amen. ^2724
+[[H6887|They will besiege]] [[H3605|all]] [[H8179|your cities,]] [[H5704|until]] [[H1364|the high]] [[H1219|and fortified]] [[H2346|walls]] [[H834|in which]] [[H859|you]] [[H982|trust]] [[H3381|have fallen]] [[H3605|in all]] [[H776|the land.]] [[H6887|They will besiege]] [[H3605|all]] [[H8179|your cities]] [[H3605|throughout]] [[H776|the land]] [[H3068|the LORD]] [[H430|your God]] [[H5414|has given you.]] ^2852
 
-Cursed be anyone who takes a bribe to shed innocent blood. And all the people shall say, Amen. ^2725
+[[H4692|During the siege]] [[H4689|and hardship]] [[H341|your enemy]] [[H6693|will impose]] [[H398|on you,  you will eat]] [[H6529|the fruit]] [[H990|of your womb,]] [[H1320|the flesh]] [[H1121|of your sons]] [[H1323|and daughters]] [[H3068|the LORD]] [[H430|your God]] [[H5414|has given]] ^2853
 
-Cursed be anyone who does not confirm the words of this law by doing them. And all the people shall say, Amen. ^2726
+[[H3966|The most]] [[H7390|gentle]] [[H6028|and refined]] [[H376|man]] [[H7489|among you  will begrudge]] [[H251|his brother,]] [[H802|the wife]] [[H2436|he embraces,]] [[H3499|and the rest]] [[H1121|of his children]] [[H3498|who have survived,]] ^2854
 
+[[H5414|refusing to share]] [[H259|with any]] [[H1992|of them]] [[H1320|the flesh]] [[H1121|of his children]] [[H834|that]] [[H398|he will eat]] [[H1097|because he has nothing]] [[H7604|left]] [[H4692|in the siege]] [[H4689|and hardship]] [[H341|your enemy]] [[H6693|will impose]] [[H3605|on all]] [[H8179|your cities.]] ^2855
 
+[[H7390|The most gentle]] [[H6028|and refined woman]] [[H7391|among you,  so gentle]] [[H6026|and refined]] [[H3808|she would not]] [[H5254|venture]] [[H3322|to set]] [[H3709|the sole]] [[H7272|of her foot]] [[H5921|on]] [[H776|the ground,]] [[H7489|will begrudge]] [[H376|the husband]] [[H2436|she embraces]] [[H1121|and her son]] [[H1323|and daughter]] ^2856
 
-And if you faithfully obey the voice of the Lord your God, being careful to do all his commandments that I command you today, the Lord your God will set you high above all the nations of the earth. ^2801
+[[H7988|the afterbirth]] [[H3318|that comes]] [[H996|from between]] [[H7272|her legs]] [[H1121|and the children]] [[H3205|she bears,]] [[H3588|because]] [[H5643|she will secretly]] [[H398|eat]] [[H2640|them for lack]] [[H3605|of anything else]] [[H4692|in the siege]] [[H4689|and dire straits]] [[H341|your enemy]] [[H6693|will impose]] [[H8179|on you  in all your cities.]] ^2857
 
-And all these blessings shall come upon you and overtake you, if you obey the voice of the Lord your God. ^2802
+[[H518|If]] [[H3808|you are not]] [[H8104|careful]] [[H6213|to observe]] [[H3605|all]] [[H1697|the words]] [[H2063|of this]] [[H8451|law]] [[H3789|which are written]] [[H2088|in this]] [[H5612|book,]] [[H3372|that you may fear]] [[H3513|this glorious]] [[H3372|and awesome]] [[H8034|name—]] [[H3068|the LORD]] [[H430|your God—]] ^2858
 
-Blessed shall you be in the city, and blessed shall you be in the field. ^2803
+[[H3068|He]] ⟨will bring⟩ [[H2233|upon you and your descendants]] [[H6381|extraordinary]] [[H4347|disasters,]] [[H1419|severe]] [[H539|and lasting]] [[H4347|plagues,]] [[H7451|and terrible]] [[H539|and chronic]] [[H2483|sicknesses.]] ^2859
 
-Blessed shall be the fruit of your womb and the fruit of your ground and the fruit of your cattle, the increase of your herds and the young of your flock. ^2804
+[[H7725|He will afflict you again]] [[H3605|with all]] [[H4064|the diseases]] [[H3025|you dreaded]] [[H4714|in Egypt,]] [[H1692|and they will cling to you.]] ^2860
 
-Blessed shall be your basket and your kneading bowl. ^2805
+[[H3068|The LORD]] [[H1571|will also]] [[H5927|bring]] [[H5921|upon you]] [[H3605|every]] [[H2483|sickness]] [[H4347|and plague]] [[H3808|not]] [[H3789|recorded]] [[H2063|in this]] [[H5612|Book]] [[H8451|of the Law,]] [[H5704|until]] [[H8045|you are destroyed.]] ^2861
 
-Blessed shall you be when you come in, and blessed shall you be when you go out. ^2806
+[[H1961|You who were]] [[H7230|as numerous]] [[H3556|as the stars]] [[H8064|in the sky]] [[H7604|will be left]] [[H4592|few]] [[H4962|in number,]] [[H3588|because]] [[H3808|you would not]] [[H8085|obey]] [[H6963|the voice of]] [[H3068|the LORD]] [[H430|your God.]] ^2862
 
-The Lord will cause your enemies who rise against you to be defeated before you. They shall come out against you one way and flee before you seven ways. ^2807
+[[H834|Just as]] [[H7797|it pleased]] [[H3068|the LORD]] [[H3190|to make you prosper]] [[H7235|and to multiply you,]] [[H3651|so also]] [[H7797|it will please]] [[H3068|Him]] [[H6|to exterminate]] [[H853|you]] [[H8045|and destroy]] [[H853|you.]] [[H5255|And you will be uprooted]] [[H5921|from]] [[H127|the land]] [[H859|you]] [[H935|are entering]] [[H3423|to possess.]] ^2863
 
-The Lord will command the blessing on you in your barns and in all that you undertake. And he will bless you in the land that the Lord your God is giving you. ^2808
+[[H3068|Then the LORD]] [[H6327|will scatter]] [[H3605|you among all]] [[H5971|the nations,]] [[H7097|from one end]] [[H776|of the earth]] [[H5704|to]] [[H7097|the other,]] [[H8033|and there]] [[H5647|you will worship]] [[H312|other]] [[H430|gods,]] ⟨gods⟩ [[H6086|of wood]] [[H68|and stone,]] [[H834|which]] [[H859|neither you]] [[H3808|nor]] [[H1|your fathers]] [[H3045|have known.]] ^2864
 
-The Lord will establish you as a people holy to himself, as he has sworn to you, if you keep the commandments of the Lord your God and walk in his ways. ^2809
+[[H1992|Among those]] [[H1471|nations]] [[H3808|you will find no]] [[H7280|repose,]] [[H3808|not even]] [[H4494|a resting place]] [[H3709|for the sole]] [[H7272|of your foot.]] [[H8033|There]] [[H3068|the LORD]] [[H5414|will give]] [[H7268|you a trembling]] [[H3820|heart,]] [[H3631|failing]] [[H5869|eyes,]] [[H1671|and a despairing]] [[H5315|soul.]] ^2865
 
-And all the peoples of the earth shall see that you are called by the name of the Lord, and they shall be afraid of you. ^2810
+[[H2416|So your life]] [[H8511|will hang in doubt]] [[H5048|before you,]] [[H6342|and you will be afraid]] [[H3915|night]] [[H3119|and day,]] [[H3808|never]] [[H539|certain]] [[H2416|of survival.]] ^2866
 
-And the Lord will make you abound in prosperity, in the fruit of your womb and in the fruit of your livestock and in the fruit of your ground, within the land that the Lord swore to your fathers to give you. ^2811
+[[H1242|In the morning]] [[H559|you will say,]] [[H4310|‘If only]] [[H6153|it were evening!’]] [[H6153|and in the evening]] [[H559|you will say,]] [[H4310|‘If only]] [[H1242|it were morning!’—]] [[H6343|because of the dread]] [[H3824|in your hearts]] [[H834|of]] [[H6342|the terrifying]] [[H4758|sights]] [[H7200|you will see.]] ^2867
 
-The Lord will open to you his good treasury, the heavens, to give the rain to your land in its season and to bless all the work of your hands. And you shall lend to many nations, but you shall not borrow. ^2812
+[[H3068|The LORD]] [[H7725|will return you]] [[H4714|to Egypt]] [[H591|in ships]] [[H1870|by a route]] [[H834|that]] [[H559|I said]] [[H3808|you should never]] [[H7200|see]] [[H3254|again.]] [[H8033|There]] [[H4376|you will sell]] [[H341|yourselves to your enemies]] [[H5650|as male]] [[H8198|and female slaves,]] [[H369|but no]] [[H7069|one will buy you.”]] ^2868
 
-And the Lord will make you the head and not the tail, and you shall only go up and not down, if you obey the commandments of the Lord your God, which I command you today, being careful to do them, ^2813
+[[H428|These]] [[H1697|are the words]] [[H1285|of the covenant]] [[H3068|the LORD]] [[H6680|commanded]] [[H4872|Moses]] [[H3772|to make]] [[H854|with]] [[H1121|the Israelites]] [[H776|in the land]] [[H4124|of Moab,]] [[H905|in addition to]] [[H1285|the covenant]] [[H3772|He had made]] [[H854|with]] [[H2722|them at Horeb.]] ^2901
 
-and if you do not turn aside from any of the words that I command you today, to the right hand or to the left, to go after other gods to serve them. ^2814
+[[H4872|Moses]] [[H7121|summoned]] [[H3605|all]] [[H3478|Israel]] [[H559|and proclaimed]] [[H413|to them,]] [[H859|“You]] [[H7200|have seen]] [[H5869|with your own eyes]] [[H3605|everything]] [[H3068|the LORD]] [[H6213|did]] [[H4714|in Egypt]] [[H6547|to Pharaoh,]] [[H3605|to all]] [[H5650|his officials,]] [[H3605|and to all]] [[H776|his land.]] ^2902
 
-But if you will not obey the voice of the Lord your God or be careful to do all his commandments and his statutes that I command you today, then all these curses shall come upon you and overtake you. ^2815
+[[H7200|You saw]] [[H5869|with your own eyes]] [[H1419|the great]] [[H4531|trials,]] [[H1992|and those]] [[H1419|miraculous]] [[H226|signs]] [[H4159|and wonders.]] ^2903
 
-Cursed shall you be in the city, and cursed shall you be in the field. ^2816
+[[H5704|Yet to]] [[H2088|this]] [[H3117|day]] [[H3068|the LORD]] [[H3808|has not]] [[H5414|given]] [[H3820|you a mind]] [[H3045|to understand,]] [[H5869|eyes]] [[H7200|to see,]] [[H241|or ears]] [[H8085|to hear.]] ^2904
 
-Cursed shall be your basket and your kneading bowl. ^2817
+[[H705|During the forty]] [[H8141|years]] [[H1980|I led]] [[H853|you]] [[H4057|in the wilderness,]] [[H8008|neither your clothes]] [[H5275|nor the sandals]] [[H5921|on]] [[H7272|your feet]] [[H1086|wore out;]] ^2905
 
-Cursed shall be the fruit of your womb and the fruit of your ground, the increase of your herds and the young of your flock. ^2818
+[[H3808|you did not]] [[H398|eat]] [[H3899|bread]] [[H8354|or drink]] [[H3196|wine]] [[H7941|or strong drink,]] [[H4616|so that]] [[H3045|you might know]] [[H3588|that]] [[H589|I]] [[H3068|am the LORD]] [[H430|your God.]] ^2906
 
-Cursed shall you be when you come in, and cursed shall you be when you go out. ^2819
+[[H935|When you reached]] [[H2088|this]] [[H4725|place,]] [[H5511|Sihon]] [[H4428|king]] [[H2809|of Heshbon]] [[H5747|and Og]] [[H4428|king]] [[H1316|of Bashan]] [[H3318|came out]] [[H7125|against us]] [[H4421|in battle,]] [[H5221|but we defeated them.]] ^2907
 
-The Lord will send on you curses, confusion, and frustration in all that you undertake to do, until you are destroyed and perish quickly on account of the evil of your deeds, because you have forsaken me. ^2820
+[[H3947|We took]] [[H776|their land]] [[H5414|and gave]] [[H5159|it as an inheritance]] [[H7206|to the Reubenites,]] [[H1425|the Gadites,]] [[H2677|and the half-tribe]] [[H4520|of Manasseh.]] ^2908
 
-The Lord will make the pestilence stick to you until he has consumed you off the land that you are entering to take possession of it. ^2821
+[[H8104|So keep]] [[H6213|and follow]] [[H1697|the words]] [[H2063|of this]] [[H1285|covenant,]] [[H4616|that]] [[H7919|you may prosper]] [[H3605|in all]] [[H6213|you do.]] ^2909
 
-The Lord will strike you with wasting disease and with fever, inflammation and fiery heat, and with drought and with blight and with mildew. They shall pursue you until you perish. ^2822
+[[H3605|All]] [[H859|of you]] [[H5324|are standing]] [[H3117|today]] [[H6440|before]] [[H3068|the LORD]] [[H430|your God—]] [[H7218|you leaders]] [[H7626|of tribes,]] [[H2205|elders,]] [[H7860|officials,]] [[H3605|and all]] [[H376|the men]] [[H3478|of Israel,]] ^2910
 
-And the heavens over your head shall be bronze, and the earth under you shall be iron. ^2823
+[[H2945|you children,]] [[H802|wives,]] [[H1616|and the foreigners]] [[H7130|in]] [[H4264|your camps]] [[H2404|who cut]] [[H6086|your wood]] [[H7579|and draw]] [[H4325|your water—]] ^2911
 
-The Lord will make the rain of your land powder. From heaven dust shall come down on you until you are destroyed. ^2824
+[[H5674|so that you may enter]] [[H1285|into the covenant]] [[H3068|of the LORD]] [[H430|your God,]] [[H834|which]] [[H3068|He]] [[H3772|is making]] [[H5973|with you today,]] [[H423|and into His oath,]] ^2912
 
-The Lord will cause you to be defeated before your enemies. You shall go out one way against them and flee seven ways before them. And you shall be a horror to all the kingdoms of the earth. ^2825
+[[H4616|and so that]] [[H6965|He may establish]] [[H853|you]] [[H3117|today]] [[H5971|as His people,]] [[H1931|and He]] [[H1961|may be]] [[H430|your God]] [[H834|as]] [[H1696|He promised]] [[H834|you  and as]] [[H7650|He swore]] [[H1|to your fathers,]] [[H85|Abraham,]] [[H3327|Isaac,]] [[H3290|and Jacob.]] ^2913
 
-And your dead body shall be food for all birds of the air and for the beasts of the earth, and there shall be no one to frighten them away. ^2826
+[[H595|I]] [[H3772|am making]] [[H2063|this]] [[H1285|covenant]] [[H2063|and this]] [[H423|oath]] [[H3808|not]] [[H905|only]] [[H854|with you,]] ^2914
 
-The Lord will strike you with the boils of Egypt, and with tumors and scabs and itch, of which you cannot be healed. ^2827
+[[H3588|but]] [[H854|also with]] [[H834|those who]] [[H5975|are standing]] [[H6311|here]] [[H5973|with us]] [[H3117|today]] [[H6440|in the presence]] [[H3068|of the LORD]] [[H430|our God,]] [[H854|as well as]] [[H834|with those who]] [[H369|are not]] [[H6311|here today.]] ^2915
 
-The Lord will strike you with madness and blindness and confusion of mind, ^2828
+[[H3588|For]] [[H859|you yourselves]] [[H3045|know]] [[H834|how]] [[H3427|we lived]] [[H776|in the land]] [[H4714|of Egypt]] [[H5674|and passed]] [[H7130|through]] [[H1471|the nations]] [[H5674|as you traveled.]] ^2916
 
-and you shall grope at noonday, as the blind grope in darkness, and you shall not prosper in your ways. And you shall be only oppressed and robbed continually, and there shall be no one to help you. ^2829
+[[H7200|You saw]] [[H8251|the abominations]] [[H1544|and idols]] [[H5973|among them]] [[H6086|made of wood]] [[H68|and stone,]] [[H3701|of silver]] [[H2091|and gold.]] ^2917
 
-You shall betroth a wife, but another man shall ravish her. You shall build a house, but you shall not dwell in it. You shall plant a vineyard, but you shall not enjoy its fruit. ^2830
+[[H3426|Make sure there is]] [[H6435|no]] [[H376|man]] [[H802|or woman,]] [[H4940|clan]] [[H176|or]] [[H7626|tribe]] [[H3117|among you  today]] [[H834|whose]] [[H3824|heart]] [[H6437|turns away]] [[H5973|from]] [[H3068|the LORD]] [[H430|our God]] [[H1980|to go]] [[H5647|and worship]] [[H430|the gods]] [[H1992|of those]] [[H1471|nations.]] [[H3426|Make sure there is]] [[H6435|no]] [[H8328|root]] [[H6509|among you  that bears]] [[H7219|such poisonous]] [[H3939|and bitter fruit,]] ^2918
 
-Your ox shall be slaughtered before your eyes, but you shall not eat any of it. Your donkey shall be seized before your face, but shall not be restored to you. Your sheep shall be given to your enemies, but there shall be no one to help you. ^2831
+[[H8085|because when such a person hears]] [[H1697|the words]] [[H2063|of this]] [[H423|oath,]] [[H1288|he may invoke a blessing]] [[H3824|on himself,]] [[H559|saying,]] [[H1961|‘I will have]] [[H7965|peace,]] [[H3588|even though]] [[H1980|I walk]] [[H8307|in the stubbornness]] [[H3820|of my own heart.’]] [[H5595|This will bring disaster]] [[H7302|on the watered]] ⟨land⟩ [[H853|as well as]] [[H6771|the dry.]] ^2919
 
-Your sons and your daughters shall be given to another people, while your eyes look on and fail with longing for them all day long, but you shall be helpless. ^2832
+[[H3068|The LORD]] [[H3808|will never]] [[H14|be willing]] [[H5545|to forgive him.]] [[H3588|Instead,]] ⟨His⟩ [[H3068|]] [[H639|anger]] [[H7068|and jealousy]] [[H6225|will burn]] [[H1931|against that]] [[H376|man,]] [[H3605|and every]] [[H423|curse]] [[H3789|written]] [[H2088|in this]] [[H5612|book]] [[H7257|will fall]] [[H3068|upon him.  The LORD]] [[H4229|will blot out]] [[H8034|his name]] [[H8478|from under]] [[H8064|heaven]] ^2920
 
-A nation that you have not known shall eat up the fruit of your ground and of all your labors, and you shall be only oppressed and crushed continually, ^2833
+[[H914|and single him out]] [[H7451|for disaster]] [[H3605|from all]] [[H7626|the tribes]] [[H3478|of Israel,]] [[H3605|according to all]] [[H423|the curses]] [[H1285|of the covenant]] [[H3789|written]] [[H2088|in this]] [[H5612|Book]] [[H8451|of the Law.]] ^2921
 
-so that you are driven mad by the sights that your eyes see. ^2834
+[[H1755|Then the generation]] [[H314|to come—]] [[H1121|your sons]] [[H834|who]] [[H6965|follow]] [[H310|you]] [[H5237|and the foreigner]] [[H834|who]] [[H935|comes]] [[H7350|from a distant]] [[H776|land—]] [[H7200|will see]] [[H4347|the plagues]] [[H776|of the land]] [[H8463|and the sicknesses]] [[H3068|the LORD]] [[H2470|has inflicted on it.]] ^2922
 
-The Lord will strike you on the knees and on the legs with grievous boils of which you cannot be healed, from the sole of your foot to the crown of your head. ^2835
+[[H3605|All]] [[H776|its soil]] [[H8316|will be a burning waste]] [[H1614|of brimstone]] [[H4417|and salt,]] [[H3808|unsown]] [[H6779|and unproductive,]] [[H3808|with no]] [[H6212|plant]] [[H5927|growing on it,]] [[H4114|just like the destruction]] [[H5467|of Sodom]] [[H6017|and Gomorrah,]] [[H126|Admah]] [[H6636|and Zeboiim,]] [[H834|which]] [[H3068|the LORD]] [[H2015|overthrew]] [[H639|in His fierce anger.]] ^2923
 
-The Lord will bring you and your king whom you set over you to a nation that neither you nor your fathers have known. And there you shall serve other gods of wood and stone. ^2836
+[[H3605|All]] [[H1471|the nations]] [[H559|will ask,]] [[H5921|‘Why]] [[H3068|has the LORD]] [[H6213|done]] [[H3602|this]] [[H2063|to this]] [[H776|land?]] [[H4100|Why]] [[H2088|this]] [[H1419|great]] [[H2750|outburst]] [[H639|of anger?’]] ^2924
 
-And you shall become a horror, a proverb, and a byword among all the peoples where the Lord will lead you away. ^2837
+[[H559|And will answer,]] ⟨the people⟩ [[H5921|‘It is because]] [[H5800|they abandoned]] [[H1285|the covenant]] [[H3068|of the LORD,]] [[H430|the God]] [[H1|of their fathers,]] [[H834|which]] [[H3772|He made]] [[H5973|with]] [[H3318|them when He brought]] [[H853|them]] [[H776|out of the land]] [[H4714|of Egypt.]] ^2925
 
-You shall carry much seed into the field and shall gather in little, for the locust shall consume it. ^2838
+[[H1980|They went]] [[H5647|and served]] [[H312|other]] [[H430|gods,]] [[H7812|and they worshiped]] [[H430|gods]] [[H3808|they had not]] [[H3045|known—]] [[H3808|gods that had not]] ⟨the LORD⟩ [[H2505|given]] ^2926
 
-You shall plant vineyards and dress them, but you shall neither drink of the wine nor gather the grapes, for the worm shall eat them. ^2839
+[[H3068|Therefore the LORD’s]] [[H639|anger]] [[H2734|burned]] [[H1931|against this]] [[H776|land,]] [[H935|and He brought]] [[H5921|upon it]] [[H3605|every]] [[H7045|curse]] [[H3789|written]] [[H2088|in this]] [[H5612|book.]] ^2927
 
-You shall have olive trees throughout all your territory, but you shall not anoint yourself with the oil, for your olives shall drop off. ^2840
+[[H3068|The LORD]] [[H5428|uprooted]] [[H5921|them from]] [[H127|their land]] [[H639|in His anger,]] [[H2534|rage,]] [[H1419|and great]] [[H7110|wrath,]] [[H7993|and He cast them]] [[H413|into]] [[H312|another]] [[H776|land,]] [[H3117|where they are today.’]] ^2928
 
-You shall father sons and daughters, but they shall not be yours, for they shall go into captivity. ^2841
+[[H5641|The secret]] ⟨things belong⟩ [[H3068|to the LORD]] [[H430|our God,]] [[H1540|but the things revealed]] [[H1121|belong to us  and to our children]] [[H5704|forever,]] [[H6213|so that we may follow]] [[H3605|all]] [[H1697|the words]] [[H2063|of this]] [[H8451|law.]] ^2929
 
-The cricket shall possess all your trees and the fruit of your ground. ^2842
+[[H3588|When]] [[H3605|all]] [[H428|these]] [[H1697|things]] [[H935|come]] [[H5921|upon you—]] [[H1293|the blessings]] [[H7045|and curses]] [[H5414|I have set]] [[H6440|before you—]] [[H7725|and you call]] ⟨them⟩ [[H413|to]] [[H3824|mind]] [[H3605|in all]] [[H1471|the nations]] [[H834|to which]] [[H3068|the LORD]] [[H430|your God]] [[H5080|has banished you,]] ^3001
 
-The sojourner who is among you shall rise higher and higher above you, and you shall come down lower and lower. ^2843
+[[H859|and when you]] [[H1121|and your children]] [[H7725|return]] [[H5704|to]] [[H3068|the LORD]] [[H430|your God]] [[H8085|and obey]] [[H6963|His voice]] [[H3605|with all]] [[H3824|your heart]] [[H3605|and all]] [[H5315|your soul]] [[H3605|according to everything]] [[H595|I]] [[H6680|am giving you today,]] ^3002
 
-He shall lend to you, and you shall not lend to him. He shall be the head, and you shall be the tail. ^2844
+[[H3068|then He]] [[H7725|will restore]] [[H7622|you from captivity]] [[H7355|and have compassion on you]] [[H6908|and gather you]] [[H3605|from all]] [[H5971|the nations]] [[H834|to which]] [[H3068|the LORD]] [[H430|your God]] [[H6327|has scattered you.]] ^3003
 
-All these curses shall come upon you and pursue you and overtake you till you are destroyed, because you did not obey the voice of the Lord your God, to keep his commandments and his statutes that he commanded you. ^2845
+[[H518|Even if]] [[H5080|you have been banished]] [[H7097|to the ends]] [[H8064|of the earth,]] [[H3068|He]] [[H6908|will gather you]] [[H3947|and return you]] [[H8033|from there.]] ^3004
 
-They shall be a sign and a wonder against you and your offspring forever. ^2846
+[[H3068|And the LORD]] [[H430|your God]] [[H935|will bring you]] [[H413|into]] [[H776|the land]] [[H1|your fathers]] [[H3423|possessed,]] [[H3423|and you will take possession of it.]] [[H3190|He will cause you to prosper]] [[H7235|and multiply you]] [[H1|more than your fathers.]] ^3005
 
-Because you did not serve the Lord your God with joyfulness and gladness of heart, because of the abundance of all things, ^2847
+[[H3068|The LORD]] [[H430|your God]] [[H4135|will circumcise]] [[H3824|your hearts]] [[H3824|and the hearts]] [[H2233|of your descendants,]] [[H157|and you will love]] [[H3068|Him]] [[H3605|with all]] [[H3824|your heart]] [[H3605|and all]] [[H5315|your soul,]] [[H4616|so that]] [[H2416|you may live.]] ^3006
 
-therefore you shall serve your enemies whom the Lord will send against you, in hunger and thirst, in nakedness, and lacking everything. And he will put a yoke of iron on your neck until he has destroyed you. ^2848
+[[H3068|Then the LORD]] [[H430|your God]] [[H5414|will put]] [[H3605|all]] [[H428|these]] [[H423|curses]] [[H5921|upon]] [[H341|your enemies]] [[H834|who]] [[H8130|hate you]] [[H7291|and persecute you.]] ^3007
 
-The Lord will bring a nation against you from far away, from the end of the earth, swooping down like the eagle, a nation whose language you do not understand, ^2849
+[[H859|And you]] [[H7725|will again]] [[H8085|obey]] [[H6963|the voice]] [[H3068|of the LORD]] [[H6213|and follow]] [[H3605|all]] [[H4687|His commandments]] [[H595|I]] [[H6680|am giving you today.]] ^3008
 
-a hard-faced nation who shall not respect the old or show mercy to the young. ^2850
+[[H3068|So the LORD]] [[H430|your God]] [[H3498|will make you abound]] [[H3605|in all]] [[H4639|the work]] [[H3027|of your hands]] ⟨and⟩ [[H6529|in the fruit]] [[H990|of your womb,]] [[H6529|the offspring]] [[H929|of your livestock,]] [[H6529|and the produce]] [[H127|of your land.]] [[H3068|Indeed, the LORD]] [[H7725|will again]] [[H7797|delight]] [[H5921|in]] [[H2896|your prosperity,]] [[H834|as]] [[H7797|He delighted]] [[H5921|in]] [[H1|that of your fathers,]] ^3009
 
-It shall eat the offspring of your cattle and the fruit of your ground, until you are destroyed; it also shall not leave you grain, wine, or oil, the increase of your herds or the young of your flock, until they have caused you to perish. ^2851
+[[H3588|if]] [[H8085|you obey]] [[H3068|the LORD]] [[H430|your God]] [[H8104|by keeping]] [[H4687|His commandments]] [[H2708|and statutes]] [[H3789|that are written]] [[H2088|in this]] [[H5612|book]] [[H8451|of the law,]] ⟨and⟩ [[H3588|if]] [[H7725|you turn]] [[H413|to]] [[H3068|Him]] [[H3605|with all]] [[H3824|your heart]] [[H3605|and all]] [[H5315|your soul.]] ^3010
 
-They shall besiege you in all your towns, until your high and fortified walls, in which you trusted, come down throughout all your land. And they shall besiege you in all your towns throughout all your land, which the Lord your God has given you. ^2852
+[[H3588|For]] [[H2063|this]] [[H4687|commandment]] [[H595|I]] [[H6680|give]] [[H3117|you today]] [[H3808|is not]] [[H6381|too difficult]] [[H4480|for you]] [[H3808|or]] [[H7350|beyond your reach.]] ^3011
 
-And you shall eat the fruit of your womb, the flesh of your sons and daughters, whom the Lord your God has given you, in the siege and in the distress with which your enemies shall distress you. ^2853
+[[H1931|It]] [[H3808|is not]] [[H8064|in heaven,]] [[H559|that you would need to ask,]] [[H4310|“Who]] [[H5927|will ascend]] [[H8064|into  heaven]] [[H3947|to get it]] [[H8085|for us  and proclaim]] [[H853|it,]] [[H6213|that we may obey it?”]] ^3012
 
-The man who is the most tender and refined among you will begrudge food to his brother, to the wife he embraces, and to the last of the children whom he has left, ^2854
+[[H1931|And it]] [[H3808|is not]] [[H5676|beyond]] [[H3220|the sea,]] [[H559|that you would need to ask,]] [[H4310|“Who]] [[H5674|will cross]] [[H3220|the sea]] [[H3947|to get it]] [[H8085|for us  and proclaim]] [[H853|it,]] [[H6213|that we may obey it?”]] ^3013
 
-so that he will not give to any of them any of the flesh of his children whom he is eating, because he has nothing else left, in the siege and in the distress with which your enemy shall distress you in all your towns. ^2855
+[[H3588|But]] [[H1697|the word]] ⟨is⟩ [[H3966|very]] [[H7138|near]] [[H413|you,]] [[H6310|in your mouth]] [[H3824|and in your heart,]] [[H6213|so that you may obey it.]] ^3014
 
-The most tender and refined woman among you, who would not venture to set the sole of her foot on the ground because she is so delicate and tender, will begrudge to the husband she embraces, to her son and to her daughter, ^2856
+[[H7200|See,]] [[H5414|I have set]] [[H6440|before you]] [[H3117|today]] [[H2416|life]] [[H2896|and prosperity,]] [[H853|as well as]] [[H4194|death]] [[H7451|and disaster.]] ^3015
 
-her afterbirth that comes out from between her feet and her children whom she bears, because lacking everything she will eat them secretly, in the siege and in the distress with which your enemy shall distress you in your towns. ^2857
+[[H834|For]] [[H595|I]] [[H6680|am commanding]] [[H3117|you today]] [[H157|to love]] [[H3068|the LORD]] [[H430|your God,]] [[H1980|to walk]] [[H1870|in His ways,]] [[H8104|and to keep]] [[H4687|His commandments,]] [[H2708|statutes,]] [[H4941|and ordinances,]] [[H2421|so that you may live]] [[H7235|and increase,]] [[H3068|and the LORD]] [[H430|your God]] [[H1288|may bless]] [[H776|you in the land]] [[H859|you]] [[H935|are entering]] [[H3423|to possess.]] ^3016
 
-If you are not careful to do all the words of this law that are written in this book, that you may fear this glorious and awesome name, the Lord your God, ^2858
+[[H518|But if]] [[H3824|your heart]] [[H6437|turns away]] [[H3808|and you do not]] [[H8085|listen,]] [[H5080|but are drawn away]] [[H7812|to bow down]] [[H312|to other]] [[H430|gods]] [[H5647|and worship them,]] ^3017
 
-then the Lord will bring on you and your offspring extraordinary afflictions, afflictions severe and lasting, and sicknesses grievous and lasting. ^2859
+[[H5046|I declare]] [[H3117|to you  today]] [[H3588|that]] [[H6|you will surely perish;]] [[H748|you shall not prolong]] ⟨your⟩ [[H3117|days]] [[H5921|in]] [[H127|the land]] [[H859|you]] [[H5674|are crossing]] [[H3383|the Jordan]] [[H3423|to possess.]] ^3018
 
-And he will bring upon you again all the diseases of Egypt, of which you were afraid, and they shall cling to you. ^2860
+[[H8064|I call heaven]] [[H776|and earth]] [[H5749|as witnesses]] [[H3117|against you  today]] [[H5414|that I have set]] [[H6440|before]] [[H2416|you life]] [[H4194|and death,]] [[H1293|blessing]] [[H7045|and cursing.]] [[H977|So choose]] [[H2416|life,]] [[H4616|so that]] [[H859|you]] [[H2233|and your descendants]] [[H2421|may live,]] ^3019
 
-Every sickness also and every affliction that is not recorded in the book of this law, the Lord will bring upon you, until you are destroyed. ^2861
+[[H157|and that you may love]] [[H3068|the LORD]] [[H430|your God,]] [[H8085|obey Him,]] [[H1692|and hold fast]] [[H3588|to Him.  For]] [[H1931|He]] ⟨is⟩ [[H2416|your life,]] [[H753|and He will prolong]] [[H3117|your life]] [[H5921|in]] [[H127|the land]] [[H3068|the LORD]] [[H7650|swore]] [[H5414|to give]] [[H1|to your fathers,]] [[H85|Abraham,]] [[H3327|Isaac,]] [[H3290|and Jacob.]] ^3020
 
-Whereas you were as numerous as the stars of heaven, you shall be left few in number, because you did not obey the voice of the Lord your God. ^2862
+[[H4872|Then Moses]] [[H1980|went out]] [[H1696|and spoke]] [[H428|these]] [[H1697|words]] [[H413|to]] [[H3605|all]] [[H3478|Israel:]] ^3101
 
-And as the Lord took delight in doing you good and multiplying you, so the Lord will take delight in bringing ruin upon you and destroying you. And you shall be plucked off the land that you are entering to take possession of it. ^2863
+[[H595|“I]] [[H3117|am now]] [[H3967|a hundred]] [[H6242|and twenty]] [[H1121|years old;]] [[H3201|I am]] [[H3808|no]] [[H5750|longer]] [[H3318|able to come]] [[H935|and go,]] [[H3068|and the LORD]] [[H559|has said]] [[H413|to me,]] [[H3808|‘You shall not]] [[H5674|cross]] [[H2088|the]] [[H3383|Jordan.’]] ^3102
 
-And the Lord will scatter you among all peoples, from one end of the earth to the other, and there you shall serve other gods of wood and stone, which neither you nor your fathers have known. ^2864
+[[H3068|The LORD]] [[H430|your God]] [[H1931|Himself]] [[H5674|will cross over]] [[H6440|ahead of you.]] [[H1931|He]] [[H8045|will destroy]] [[H428|these]] [[H1471|nations]] [[H6440|before you,]] [[H3423|and you will dispossess them.]] [[H3091|Joshua]] [[H5674|will cross]] [[H6440|ahead of you,]] [[H834|as]] [[H3068|the LORD]] [[H1696|has said.]] ^3103
 
-And among these nations you shall find no respite, and there shall be no resting place for the sole of your foot, but the Lord will give you there a trembling heart and failing eyes and a languishing soul. ^2865
+[[H3068|And the LORD]] [[H6213|will do]] [[H834|to them  as]] [[H6213|He did]] [[H5511|to Sihon]] [[H5747|and Og,]] [[H4428|the kings]] [[H567|of the Amorites,]] [[H834|when]] [[H8045|He destroyed]] [[H853|them]] [[H776|along with their land.]] ^3104
 
-Your life shall hang in doubt before you. Night and day you shall be in dread and have no assurance of your life. ^2866
+[[H3068|The LORD]] [[H5414|will deliver them over]] [[H6440|to you,]] [[H6213|and you must do]] [[H3605|to them  exactly as]] [[H6680|I have commanded]] [[H853|you.]] ^3105
 
-In the morning you shall say, If only it were evening! and at evening you shall say, If only it were morning! because of the dread that your heart shall feel, and the sights that your eyes shall see. ^2867
+[[H2388|Be strong]] [[H553|and courageous;]] [[H408|do not]] [[H3372|be afraid]] [[H6206|or terrified]] [[H6440|of them,]] [[H3588|for]] [[H3068|it is the LORD]] [[H430|your God]] [[H1931|who]] [[H1980|goes]] [[H5973|with you;]] [[H3808|He will never]] [[H7503|leave you]] ⟨nor⟩ [[H3808|]] [[H5800|forsake you.”]] ^3106
 
-And the Lord will bring you back in ships to Egypt, a journey that I promised that you should never make again; and there you shall offer yourselves for sale to your enemies as male and female slaves, but there will be no buyer. ^2868
+[[H4872|Then Moses]] [[H7121|called]] [[H3091|for Joshua]] [[H559|and said]] [[H413|to him]] [[H5869|in the presence]] [[H3605|of all]] [[H3478|Israel,]] [[H2388|“Be strong]] [[H553|and courageous,]] [[H3588|for]] [[H859|you]] [[H935|will go]] [[H854|with]] [[H2088|this]] [[H5971|people]] [[H413|into]] [[H776|the land]] [[H3068|the LORD]] [[H7650|swore]] [[H1|to their fathers]] [[H5414|to give]] [[H859|them,  and you]] [[H5157|shall give it to them as an inheritance.]] ^3107
 
+[[H3068|The LORD]] [[H1931|Himself]] [[H1980|goes]] [[H6440|before you;]] [[H1931|He]] [[H1961|will be]] [[H5973|with you.]] [[H3808|He will never]] [[H7503|leave you]] [[H5800|or forsake you.]] [[H3808|Do not]] [[H3372|be afraid]] [[H2865|or discouraged.”]] ^3108
 
+[[H4872|So Moses]] [[H3789|wrote down]] [[H2063|this]] [[H8451|law]] [[H5414|and gave]] [[H413|it to]] [[H3548|the priests,]] [[H1121|the sons]] [[H3878|of Levi,]] [[H5375|who carried]] [[H727|the ark]] [[H1285|of the covenant]] [[H3068|of the LORD,]] [[H413|and to]] [[H3605|all]] [[H2205|the elders]] [[H3478|of Israel.]] ^3109
 
-These are the words of the covenant that the Lord commanded Moses to make with the people of Israel in the land of Moab, besides the covenant that he had made with them at Horeb. ^2901
+[[H4872|Then Moses]] [[H6680|commanded them,]] [[H7093|“At the end]] [[H7651|of seven]] ⟨every⟩ [[H8141|years,]] [[H4150|at the appointed time]] [[H8141|in the year]] [[H8059|of remission]] ⟨of debt⟩, [[H2282|during the Feast]] [[H5521|of Tabernacles,]] ^3110
 
-And Moses summoned all Israel and said to them: You have seen all that the Lord did before your eyes in the land of Egypt, to Pharaoh and to all his servants and to all his land, ^2902
+[[H3605|when all]] [[H3478|Israel]] [[H935|comes]] [[H6440|before]] [[H3068|of the LORD]] [[H430|your God]] [[H4725|at the place]] [[H977|He will choose,]] [[H7121|you are to read]] [[H2063|this]] [[H8451|law]] [[H241|in the hearing]] [[H3605|of all]] [[H3478|Israel.]] ^3111
 
-the great trials that your eyes saw, the signs, and those great wonders. ^2903
+[[H6950|Assemble]] [[H5971|the people—]] [[H376|men,]] [[H802|women,]] [[H2945|children,]] [[H1616|and the foreigners]] [[H8179|within your gates—]] [[H4616|so that]] [[H8085|they may listen]] [[H3925|and learn]] [[H3372|to fear]] [[H3068|the LORD]] [[H430|your God]] [[H6213|and follow]] [[H8104|carefully]] [[H3605|all]] [[H1697|the words]] [[H2063|of this]] [[H8451|law.]] ^3112
 
-But to this day the Lord has not given you a heart to understand or eyes to see or ears to hear. ^2904
+[[H1121|Then their children]] [[H834|who]] [[H3808|do not]] [[H3045|know]] ⟨the law⟩ [[H8085|will listen]] [[H3925|and learn]] [[H3372|to fear]] [[H3068|the LORD]] [[H430|your God,]] [[H3605|as]] [[H859|long as you]] [[H2416|live]] [[H5921|in]] [[H127|the land]] [[H859|you]] [[H5674|are crossing]] [[H3383|the Jordan]] [[H3423|to possess.”]] ^3113
 
-I have led you forty years in the wilderness. Your clothes have not worn out on you, and your sandals have not worn off your feet. ^2905
+[[H3068|Then the LORD]] [[H559|said]] [[H413|to]] [[H4872|Moses,]] [[H2005|“Behold,]] [[H3117|the time]] [[H4191|of your death]] [[H7126|is near.]] [[H7121|Call]] [[H3091|Joshua]] [[H3320|and present yourselves]] [[H168|at the Tent]] [[H4150|of Meeting,]] [[H6680|so that I may commission him.”]] [[H4872|So Moses]] [[H3091|and Joshua]] [[H1980|went]] [[H3320|and presented themselves]] [[H168|at the Tent]] [[H4150|of Meeting.]] ^3114
 
-You have not eaten bread, and you have not drunk wine or strong drink, that you may know that I am the Lord your God. ^2906
+[[H3068|Then the LORD]] [[H7200|appeared]] [[H168|at the tent]] [[H5982|in a pillar]] [[H6051|of cloud,]] [[H6051|and the cloud]] [[H5975|stood]] [[H5921|over]] [[H6607|the entrance]] [[H168|to the tent.]] ^3115
 
-And when you came to this place, Sihon the king of Heshbon and Og the king of Bashan came out against us to battle, but we defeated them. ^2907
+[[H3068|And the LORD]] [[H559|said]] [[H413|to]] [[H4872|Moses,]] [[H2009|“You will soon]] [[H7901|rest]] [[H5973|with]] [[H1|your fathers,]] [[H2088|and these]] [[H5971|people]] [[H6965|will rise up]] [[H2181|and prostitute themselves]] [[H310|with]] [[H5236|the foreign]] [[H430|gods]] [[H776|of the land]] [[H1931|they]] [[H935|are entering.]] [[H5800|They will forsake]] [[H6565|Me and break]] [[H1285|the covenant]] [[H3772|I have made]] [[H854|with them.]] ^3116
 
-We took their land and gave it for an inheritance to the Reubenites, the Gadites, and the half-tribe of the Manassites. ^2908
+[[H1931|On that]] [[H3117|day]] [[H639|My anger]] [[H2734|will burn]] [[H5800|against them,  and I will abandon them]] [[H5641|and hide]] [[H6440|My face]] [[H1992|from them,]] [[H1961|so that they will be]] [[H398|consumed,]] [[H7227|and many]] [[H7451|troubles]] [[H6869|and afflictions]] [[H4672|will befall them.]] [[H1931|On that]] [[H3117|day]] [[H559|they will say,]] [[H3808|‘Have not]] [[H428|these]] [[H7451|disasters]] [[H4672|come upon us]] [[H5921|because]] [[H430|our God]] [[H369|is no]] [[H7130|longer with us?]] ^3117
 
-Therefore keep the words of this covenant and do them, that you may prosper in all that you do. ^2909
+[[H595|And]] [[H1931|on that]] [[H3117|day]] [[H5640|I will surely]] [[H5641|hide]] [[H6440|My face]] [[H5921|because of]] [[H3605|all]] [[H7451|the evil]] [[H6213|they have done]] [[H6437|by turning]] [[H413|to]] [[H312|other]] [[H430|gods.]] ^3118
 
-You are standing today all of you before the Lord your God : the heads of your tribes, your elders, and your officers, all the men of Israel, ^2910
+[[H6258|Now therefore,]] [[H3789|write down]] [[H2063|for yourselves  this]] [[H7892|song]] [[H3925|and teach]] [[H1121|it to the Israelites;]] [[H7760|have them recite]] [[H6310|it,]] [[H4616|so that]] ⟨it⟩ [[H2063|]] [[H1961|may be]] [[H5707|a witness]] [[H1121|for Me  against]] ⟨them⟩. ^3119
 
-your little ones, your wives, and the sojourner who is in your camp, from the one who chops your wood to the one who draws your water, ^2911
+[[H3588|When]] [[H935|I have brought them]] [[H413|into]] [[H127|the land]] [[H7650|I swore]] [[H1|to give their fathers,]] [[H2100|a land flowing]] [[H2461|with milk]] [[H1706|and honey,]] [[H398|they will eat]] [[H7646|their fill]] [[H1878|and prosper.]] [[H6437|Then they will turn]] [[H413|to]] [[H312|other]] [[H430|gods]] [[H5647|and worship them,]] [[H5006|and they will reject Me]] [[H6565|and break]] [[H1285|My covenant.]] ^3120
 
-so that you may enter into the sworn covenant of the Lord your God, which the Lord your God is making with you today, ^2912
+[[H3588|And when]] [[H7227|many]] [[H7451|troubles]] [[H6869|and afflictions]] [[H4672|have come upon them,]] [[H2063|this]] [[H7892|song]] [[H6030|will testify]] [[H6440|against them,]] [[H3588|because]] [[H7911|it will not be forgotten]] [[H6310|from the lips]] [[H2233|of their descendants.]] [[H3588|For]] [[H3045|I know]] [[H3336|their inclination,]] [[H2962|even before]] [[H935|I bring]] [[H413|them into]] [[H776|the land]] [[H7650|I swore to give them.]] ^3121
 
-that he may establish you today as his people, and that he may be your God, as he promised you, and as he swore to your fathers, to Abraham, to Isaac, and to Jacob. ^2913
+[[H1931|So that very]] [[H3117|day]] [[H4872|Moses]] [[H3789|wrote down]] [[H2063|this]] [[H7892|song]] [[H3925|and taught it]] [[H1121|to the Israelites.]] ^3122
 
-It is not with you alone that I am making this sworn covenant, ^2914
+[[H6680|Then the LORD commissioned]] [[H3091|Joshua]] [[H1121|son]] [[H5126|of Nun]] [[H559|and said,]] [[H2388|“Be strong]] [[H553|and courageous,]] [[H3588|for]] [[H859|you]] [[H935|will bring]] [[H1121|the Israelites]] [[H413|into]] [[H776|the land]] [[H7650|I swore to give]] [[H595|them,  and I]] [[H1961|will be]] [[H5973|with you.”]] ^3123
 
-but with whoever is standing here with us today before the Lord our God, and with whoever is not here with us today. ^2915
+[[H4872|When Moses]] [[H3615|had finished]] [[H3789|writing]] [[H5612|in a book]] [[H1697|the words]] [[H2063|of this]] [[H8451|law]] [[H8552|from beginning to end,]] ^3124
 
-You know how we lived in the land of Egypt, and how we came through the midst of the nations through which you passed. ^2916
+[[H6680|he gave this command to]] [[H3881|the Levites]] [[H5375|who carried]] [[H727|the ark]] [[H1285|of the covenant]] [[H3068|of the LORD:]] ^3125
 
-And you have seen their detestable things, their idols of wood and stone, of silver and gold, which were among them. ^2917
+[[H3947|“Take]] [[H2088|this]] [[H5612|Book]] [[H8451|of the Law]] [[H7760|and place]] [[H853|it]] [[H6654|beside]] [[H727|the ark]] [[H1285|of the covenant]] [[H3068|of the LORD]] [[H430|your God,]] [[H1961|so that it may remain]] [[H8033|there]] [[H5707|as a witness]] ^3126
 
-Beware lest there be among you a man or woman or clan or tribe whose heart is turning away today from the Lord our God to go and serve the gods of those nations. Beware lest there be among you a root bearing poisonous and bitter fruit, ^2918
+[[H3588|For]] [[H595|I]] [[H3045|know]] [[H4805|how rebellious]] [[H6203|and stiff-necked you are.]] [[H1961|If you are already]] [[H4784|rebelling]] [[H5973|against]] [[H3068|the LORD]] [[H5750|while I am still]] [[H2416|alive,]] [[H637|how much more]] [[H310|will you rebel after]] [[H4194|my death!]] ^3127
 
-one who, when he hears the words of this sworn covenant, blesses himself in his heart, saying, I shall be safe, though I walk in the stubbornness of my heart. This will lead to the sweeping away of moist and dry alike. ^2919
+[[H6950|Assemble]] [[H413|before me]] [[H3605|all]] [[H2205|the elders]] [[H7626|of your tribes]] [[H7860|and your officers]] ⟨all⟩ [[H1696|so that I may speak]] [[H428|these]] [[H1697|words]] [[H241|in their hearing]] [[H8064|and call heaven]] [[H776|and earth]] [[H5749|to witness]] ^3128
 
-The Lord will not be willing to forgive him, but rather the anger of the Lord and his jealousy will smoke against that man, and the curses written in this book will settle upon him, and the Lord will blot out his name from under heaven. ^2920
+[[H3588|For]] [[H3045|I know]] [[H3588|that]] [[H310|after]] [[H4194|my death]] [[H7843|you will become utterly corrupt]] [[H5493|and turn]] [[H4480|from]] [[H1870|the path]] [[H6680|I have commanded you.]] [[H319|And in]] [[H3117|the days]] ⟨to come⟩, [[H7451|disaster]] [[H7122|will befall]] [[H853|you]] [[H3588|because]] [[H6213|you will do]] [[H7451|evil]] [[H5869|in the sight]] [[H3068|of the LORD]] [[H3707|to provoke Him to anger]] [[H4639|by the work]] [[H3027|of your hands.]] ^3129
 
-And the Lord will single him out from all the tribes of Israel for calamity, in accordance with all the curses of the covenant written in this Book of the Law. ^2921
+[[H4872|Then Moses]] [[H1696|recited aloud]] [[H3605|to the whole]] [[H6951|assembly]] [[H3478|of Israel]] [[H1697|the words]] [[H2063|of this]] [[H7892|song]] ⟨from beginning⟩ [[H5704|]] [[H8552|to end:]] ^3130
 
-And the next generation, your children who rise up after you, and the foreigner who comes from a far land, will say, when they see the afflictions of that land and the sicknesses with which the Lord has made it sick — ^2922
+[[H238|“Give ear,]] [[H8064|O heavens,]] [[H1696|and I will speak;]] [[H8085|hear,]] [[H776|O earth,]] [[H561|the words]] [[H6310|of my mouth.]] ^3201
 
-the whole land burned out with brimstone and salt, nothing sown and nothing growing, where no plant can sprout, an overthrow like that of Sodom and Gomorrah, Admah, and Zeboiim, which the Lord overthrew in his anger and wrath — ^2923
+[[H3948|Let my teaching]] [[H6201|fall]] [[H4306|like rain]] [[H565|and my speech]] [[H5140|settle]] [[H2919|like dew,]] [[H8164|like gentle rain]] [[H5921|on]] [[H1877|new grass,]] [[H7241|like showers]] [[H5921|on]] [[H6212|tender plants.]] ^3202
 
-all the nations will say, Why has the Lord done thus to this land? What caused the heat of this great anger? ^2924
+[[H3588|For]] [[H7121|I will proclaim]] [[H8034|the name]] [[H3068|of the LORD.]] [[H3051|Ascribe]] [[H1433|greatness]] [[H430|to our God!]] ^3203
 
-Then people will say, It is because they abandoned the covenant of the Lord, the God of their fathers, which he made with them when he brought them out of the land of Egypt, ^2925
+⟨He is⟩ [[H6697|the Rock,]] [[H6467|His work]] [[H8549|is perfect;]] [[H3605|all]] [[H1870|His ways]] [[H4941|are just.]] [[H410|A God]] [[H530|of faithfulness]] [[H369|without]] [[H5766|injustice,]] [[H6662|righteous]] [[H3477|and upright]] ⟨is⟩ [[H1931|He.]] ^3204
 
-and went and served other gods and worshiped them, gods whom they had not known and whom he had not allotted to them. ^2926
+⟨His people⟩ [[H7843|have acted corruptly]] [[H3971|toward Him;  their spot]] ⟨is⟩ [[H3808|not]] [[H1121|that of His children,]] [[H6141|but of a perverse]] [[H6618|and crooked]] [[H1755|generation.]] ^3205
 
-Therefore the anger of the Lord was kindled against this land, bringing upon it all the curses written in this book, ^2927
+[[H2063|Is this]] [[H1580|how you repay]] [[H3068|the LORD,]] [[H5036|O foolish]] [[H3808|and senseless]] [[H5971|people?]] [[H1931|Is He]] [[H3808|not]] [[H1|your Father]] [[H7069|and Creator?]] [[H1931|Has He not]] [[H6213|made you]] [[H3559|and established you?]] ^3206
 
-and the Lord uprooted them from their land in anger and fury and great wrath, and cast them into another land, as they are this day. ^2928
+[[H2142|Remember]] [[H3117|the days]] [[H5769|of old;]] [[H995|consider]] [[H8141|the years]] [[H1755|long]] [[H1755|past.]] [[H7592|Ask]] [[H1|your father,]] [[H5046|and he will tell you,]] [[H2205|your elders,]] [[H559|and they will inform you.]] ^3207
 
-The secret things belong to the Lord our God, but the things that are revealed belong to us and to our children forever, that we may do all the words of this law. ^2929
+[[H5945|When the Most High]] [[H1471|gave the nations]] [[H5157|their inheritance,]] [[H6504|when He divided]] [[H1121|the sons]] [[H120|of man,]] [[H5324|He set]] [[H1367|the boundaries]] [[H5971|of the peoples]] [[H4557|according to the number]] [[H1121|of the sons]] [[H3478|of God.]] ^3208
 
+[[H3588|But]] [[H3068|the LORD’s]] [[H2506|portion]] [[H5971|is His people,]] [[H3290|Jacob]] [[H2256|His allotted]] [[H5159|inheritance.]] ^3209
 
+[[H4672|He found him]] [[H4057|in a desolate]] [[H776|land,]] [[H8414|in a barren,]] [[H3214|howling]] [[H3452|wilderness;]] [[H5437|He surrounded him,]] [[H995|He instructed him,]] [[H5341|He guarded him]] [[H380|as the apple]] [[H5869|of His eye.]] ^3210
 
-And when all these things come upon you, the blessing and the curse, which I have set before you, and you call them to mind among all the nations where the Lord your God has driven you, ^3001
+[[H5404|As an eagle]] [[H5782|stirs up]] [[H7064|its nest]] [[H7363|and hovers]] [[H5921|over]] [[H1469|its young,]] [[H6566|He spread]] [[H3671|His wings]] [[H3947|to catch them;]] [[H5375|He carried them]] [[H5921|on]] [[H84|His pinions.]] ^3211
 
-and return to the Lord your God, you and your children, and obey his voice in all that I command you today, with all your heart and with all your soul, ^3002
+[[H3068|The LORD]] [[H910|alone]] [[H5148|led him,]] [[H369|and no]] [[H5236|foreign]] [[H410|god]] ⟨was⟩ [[H5973|with him.]] ^3212
 
-then the Lord your God will restore your fortunes and have mercy on you, and he will gather you again from all the peoples where the Lord your God has scattered you. ^3003
+[[H7392|He made him ride]] [[H5921|on]] [[H1116|the heights]] [[H776|of the land]] [[H398|and fed him]] [[H8570|the produce]] [[H7704|of the field.]] [[H3243|He nourished]] [[H1706|him with honey]] [[H5553|from the rock]] [[H8081|and oil]] [[H2496|from the flinty]] [[H6697|crag,]] ^3213
 
-If your outcasts are in the uttermost parts of heaven, from there the Lord your God will gather you, and from there he will take you. ^3004
+[[H2529|with curds]] [[H1241|from the herd]] [[H2461|and milk]] [[H6629|from the flock,]] [[H5973|with]] [[H2459|the fat]] [[H3733|of lambs,]] [[H352|with rams]] [[H1121|from Bashan,]] [[H6260|and goats,]] [[H5973|with]] [[H2459|the choicest]] [[H3629|grains]] [[H2406|of wheat.]] [[H1818|From the juice]] [[H6025|of the finest grapes]] [[H8354|you drank]] [[H2561|the wine.]] ^3214
 
-And the Lord your God will bring you into the land that your fathers possessed, that you may possess it. And he will make you more prosperous and numerous than your fathers. ^3005
+[[H3484|But Jeshurun]] [[H8080|grew fat]] [[H1163|and kicked—]] [[H8080|becoming fat,]] [[H5666|bloated,]] [[H3780|and gorged.]] [[H5203|He abandoned]] [[H433|the God]] [[H6213|who made him]] [[H5034|and scorned]] [[H6697|the Rock]] [[H3444|of his salvation.]] ^3215
 
-And the Lord your God will circumcise your heart and the heart of your offspring, so that you will love the Lord your God with all your heart and with all your soul, that you may live. ^3006
+[[H7065|They provoked His jealousy]] [[H2114|with foreign gods;]] [[H3707|they enraged Him]] [[H8441|with abominations.]] ^3216
 
-And the Lord your God will put all these curses on your foes and enemies who persecuted you. ^3007
+[[H2076|They sacrificed]] [[H7700|to demons,]] [[H3808|not]] [[H433|to God,]] [[H430|to gods]] [[H3808|they had not]] [[H3045|known,]] [[H2319|to newly arrived]] ⟨gods⟩, [[H1|which your fathers]] [[H3808|did not]] [[H8175|fear.]] ^3217
 
-And you shall again obey the voice of the Lord and keep all his commandments that I command you today. ^3008
+[[H7876|You ignored]] [[H6697|the Rock]] [[H3205|who brought you forth;]] [[H7911|you forgot]] [[H410|the God]] [[H2342|who gave you birth.]] ^3218
 
-The Lord your God will make you abundantly prosperous in all the work of your hand, in the fruit of your womb and in the fruit of your cattle and in the fruit of your ground. For the Lord will again take delight in prospering you, as he took delight in your fathers, ^3009
+[[H3068|When the LORD]] [[H7200|saw this,]] [[H5006|He rejected]] ⟨them⟩, [[H3708|provoked to anger]] [[H1121|by His sons]] [[H1323|and daughters.]] ^3219
 
-when you obey the voice of the Lord your God, to keep his commandments and his statutes that are written in this Book of the Law, when you turn to the Lord your God with all your heart and with all your soul. ^3010
+[[H559|He said:]] [[H5641|I will hide]] [[H6440|My face from them;]] [[H7200|I will see]] [[H4100|what]] ⟨will be⟩ [[H319|their end.]] [[H3588|For]] [[H1992|they]] [[H8419|are a perverse]] [[H1755|generation—]] [[H1121|children]] [[H529|of unfaithfulness.]] ^3220
 
-For this commandment that I command you today is not too hard for you, neither is it far off. ^3011
+[[H1992|They]] [[H7065|have provoked My jealousy]] [[H3808|by not]] ⟨that which is⟩ [[H410|God;]] [[H3707|they have enraged Me]] [[H1892|with their worthless idols.]] [[H589|So I]] [[H7065|will make them jealous]] [[H3808|by those who are not]] [[H5971|a people;]] [[H3707|I will make them angry]] [[H1471|by a nation]] [[H5036|without understanding.]] ^3221
 
-It is not in heaven, that you should say, Who will ascend to heaven for us and bring it to us, that we may hear it and do it? ^3012
+[[H3588|For]] [[H784|a fire]] [[H6919|has been kindled]] [[H639|by My anger,]] [[H3344|and it burns]] [[H5704|to]] [[H8482|the depths]] [[H7585|of Sheol;]] [[H398|it consumes]] [[H776|the earth]] [[H2981|and its produce,]] [[H3857|and scorches]] [[H4146|the foundations]] [[H2022|of the mountains.]] ^3222
 
-Neither is it beyond the sea, that you should say, Who will go over the sea for us and bring it to us, that we may hear it and do it? ^3013
+[[H5595|I will heap]] [[H7451|disasters]] [[H5921|upon them;]] [[H3615|I will spend]] [[H2671|My arrows]] ^3223
 
-But the word is very near you. It is in your mouth and in your heart, so that you can do it. ^3014
+[[H4198|They will be wasted]] [[H7458|from hunger,]] [[H3898|ravaged]] [[H7565|by pestilence]] [[H4815|and bitter]] [[H6986|plague;]] [[H7971|I will send]] [[H8127|the fangs]] [[H929|of wild beasts]] [[H5973|against them,  with]] [[H2534|the venom]] [[H2119|of vipers that slither]] [[H6083|in the dust.]] ^3224
 
-See, I have set before you today life and good, death and evil. ^3015
+[[H2351|Outside,]] [[H2719|the sword]] [[H7921|will take their children,]] [[H2315|and inside,]] [[H367|terror will strike]] [[H970|the young man]] [[H1571|and]] [[H1330|the young woman,]] [[H3243|the infant]] [[H5973|and]] [[H7872|the gray-haired]] [[H376|man.]] ^3225
 
-If you obey the commandments of the Lord your God that I command you today, by loving the Lord your God, by walking in his ways, and by keeping his commandments and his statutes and his rules, then you shall live and multiply, and the Lord your God will bless you in the land that you are entering to take possession of it. ^3016
+[[H559|I would have said]] [[H6284|I will cut them to pieces]] [[H7673|and blot out]] [[H2143|their memory]] [[H582|from mankind,]] ^3226
 
-But if your heart turns away, and you will not hear, but are drawn away to worship other gods and serve them, ^3017
+[[H3884|if I had not]] [[H1481|dreaded]] [[H3708|the taunt]] [[H341|of the enemy,]] [[H6435|lest]] [[H6862|their adversaries]] [[H5234|misunderstand]] [[H559|and say:]] [[H3027|‘Our own hand]] [[H7311|has prevailed;]] [[H3808|it was not]] [[H3068|the LORD]] [[H6466|who did]] [[H3605|all]] [[H2063|this.’]] ^3227
 
-I declare to you today, that you shall surely perish. You shall not live long in the land that you are going over the Jordan to enter and possess. ^3018
+[[H1992|Israel]] [[H1471|is a nation]] [[H6|devoid]] [[H6098|of counsel]] [[H369|with no]] [[H8394|understanding]] ^3228
 
-I call heaven and earth to witness against you today, that I have set before you life and death, blessing and curse. Therefore choose life, that you and your offspring may live, ^3019
+[[H3863|If only]] [[H2449|they were wise,]] [[H7919|they would understand]] [[H2063|it;]] [[H995|they would comprehend]] [[H319|their fate.]] ^3229
 
-loving the Lord your God, obeying his voice and holding fast to him, for he is your life and length of days, that you may dwell in the land that the Lord swore to your fathers, to Abraham, to Isaac, and to Jacob, to give them. ^3020
+[[H349|How]] [[H259|could one man]] [[H7291|pursue]] [[H505|a thousand,]] [[H8147|or two]] [[H7233|put ten thousand]] [[H5127|to flight,]] [[H518|unless]] [[H6697|their Rock]] [[H4376|had sold them,]] [[H3068|unless the LORD]] [[H5462|had given them up?]] ^3230
 
+[[H3588|For]] [[H6697|their rock]] [[H3808|is not]] [[H6697|like our Rock,]] [[H341|even our enemies]] [[H6414|concede.]] ^3231
 
+[[H3588|But]] [[H1612|their vine]] ⟨is⟩ [[H1612|from the vine]] [[H5467|of Sodom]] [[H7709|and from the fields]] [[H6017|of Gomorrah.]] [[H6025|Their grapes]] [[H7219|are poisonous;]] [[H811|Their  clusters]] ⟨are⟩ [[H4846|bitter.]] ^3232
 
-So Moses continued to speak these words to all Israel. ^3101
+[[H3196|Their wine]] [[H2534|is the venom]] [[H8577|of serpents,]] [[H393|the deadly]] [[H7219|poison]] [[H6620|of cobras.]] ^3233
 
-And he said to them, I am 120 years old today. I am no longer able to go out and come in. The Lord has said to me, You shall not go over this Jordan. ^3102
+[[H3808|Have I not]] [[H3647|stored up]] [[H1931|these things,]] [[H2856|sealed up]] [[H5978|within My]] [[H214|vaults?]] ^3234
 
-The Lord your God himself will go over before you. He will destroy these nations before you, so that you shall dispossess them, and Joshua will go over at your head, as the Lord has spoken. ^3103
+[[H5359|Vengeance]] [[H8005|is Mine;  I will repay.]] [[H6256|In due time]] [[H7272|their foot]] [[H4131|will slip;]] [[H3588|for]] [[H3117|their day]] [[H343|of disaster]] [[H7138|is near,]] [[H6264|and their doom]] [[H2363|is coming quickly.]] ^3235
 
-And the Lord will do to them as he did to Sihon and Og, the kings of the Amorites, and to their land, when he destroyed them. ^3104
+[[H3588|For]] [[H3068|the LORD]] [[H1777|will judge]] [[H5971|His people]] [[H5162|and have compassion]] [[H5921|on]] [[H5650|His servants]] [[H3588|when]] [[H7200|He sees]] [[H3588|that]] [[H3027|their strength]] [[H235|is gone]] [[H657|and no one]] ⟨remains⟩, [[H6113|slave]] [[H5800|or free.]] ^3236
 
-And the Lord will give them over to you, and you shall do to them according to the whole commandment that I have commanded you. ^3105
+[[H559|He will say:]] [[H335|Where]] [[H430|are their gods,]] [[H6697|the rock]] [[H2620|in which  they took refuge,]] ^3237
 
-Be strong and courageous. Do not fear or be in dread of them, for it is the Lord your God who goes with you. He will not leave you or forsake you. ^3106
+[[H834|which]] [[H398|ate]] [[H2459|the fat]] [[H2077|of their sacrifices]] [[H8354|and drank]] [[H3196|the wine]] [[H5257|of their drink offerings?]] [[H6965|Let them rise up]] [[H5826|and help you;]] [[H1961|let them give you]] [[H5643|shelter!]] ^3238
 
-Then Moses summoned Joshua and said to him in the sight of all Israel, Be strong and courageous, for you shall go with this people into the land that the Lord has sworn to their fathers to give them, and you shall put them in possession of it. ^3107
+[[H7200|See]] [[H6258|now]] [[H3588|that]] [[H589|I]] [[H1931|am He;]] [[H369|there is no]] [[H430|God]] [[H5978|besides Me.]] [[H589|I]] [[H4191|bring death]] [[H2421|and I give life;]] [[H4272|I wound]] [[H589|and I]] [[H7495|heal,]] [[H369|and no one]] ⟨there is⟩ [[H5337|who can deliver]] [[H3027|from My hand.]] ^3239
 
-It is the Lord who goes before you. He will be with you; he will not leave you or forsake you. Do not fear or be dismayed. ^3108
+[[H3588|For]] [[H5375|I lift up]] [[H3027|My hand]] [[H413|to]] [[H8064|heaven]] [[H559|and declare:]] [[H595|As surely as I]] [[H2416|live]] [[H5769|forever,]] ^3240
 
-Then Moses wrote this law and gave it to the priests, the sons of Levi, who carried the ark of the covenant of the Lord, and to all the elders of Israel. ^3109
+[[H518|when]] [[H8150|I sharpen]] [[H1300|My flashing]] [[H2719|sword,]] [[H3027|and My hand]] [[H270|grasps it]] [[H4941|in judgment,]] [[H7725|I will take]] [[H5359|vengeance]] [[H6862|on My adversaries]] [[H7999|and repay]] [[H8130|those who hate Me.]] ^3241
 
-And Moses commanded them, At the end of every seven years, at the set time in the year of release, at the Feast of Booths, ^3110
+[[H2671|I will make My arrows]] [[H7937|drunk]] [[H1818|with blood,]] [[H2719|while My sword]] [[H398|devours]] [[H1320|flesh—]] [[H1818|the blood]] [[H2491|of the slain]] [[H7633|and captives,]] [[H7218|the heads]] [[H341|of the enemy]] [[H6546|leaders.]] ^3242
 
-when all Israel comes to appear before the Lord your God at the place that he will choose, you shall read this law before all Israel in their hearing. ^3111
+[[H7442|Rejoice, הַרְנִ֤ינוּ (har·nî·nū)Verb - Hifil - Imperative - masculine pluralStrong's 7442: To give a ringing cry O Gentiles,גוֹיִם֙ (ḡō·w·yim)Noun - masculine pluralStrong's 1471: A foreign nation, a Gentile, a troop of animals, a flight of locusts His people;עַמּ֔וֹ (‘am·mōw)Noun - masculine singular construct | third person masculine singularStrong's 5971: A people, a tribe, troops, attendants, a flockforכִּ֥י (kî)ConjunctionStrong's 3588: A relative conjunctionHe will avengeיִקּ֑וֹם (yiq·qō·wm)Verb - Qal - Imperfect - third person masculine singularStrong's 5358: To grudge, avenge, punishthe bloodדַם־ (ḏam-)Noun - masculine singular constructStrong's 1818: Blood, of man, an animal, the juice of the grape, bloodshedof His children.עֲבָדָ֖יו (‘ă·ḇā·ḏāw)Noun - masculine plural construct | third person masculine singularStrong's 5650: Slave, servantHe will takeיָשִׁ֣יב (yā·šîḇ)Verb - Hifil - Imperfect - third person masculine singularStrong's 7725: To turn back, in, to retreat, againvengeanceוְנָקָם֙ (wə·nā·qām)Conjunctive waw | Noun - masculine singularStrong's 5359: Vengeanceon His adversaries;לְצָרָ֔יו (lə·ṣā·rāw)Preposition-l | Noun - masculine plural construct | third person masculine singularStrong's 6862: Narrow, a tight place, a pebble, an opponentHe will cleanseוְכִפֶּ֥ר (wə·ḵip·per)Conjunctive waw | Verb - Piel - Conjunctive perfect - third person masculine singularStrong's 3722: To cover, to expiate, condone, to placate, cancelHis landאַדְמָת֖וֹ (’aḏ·mā·ṯōw)Noun - feminine singular construct | third person masculine singularStrong's 127: Ground, land His people.”עַמּֽוֹ׃ (‘am·mōw)Noun - masculine singular construct | third person masculine singularStrong's 5971: A people, a tribe, troops, attendants, a flock                                                                                                                                                                                                                                                            OpenBible.com]] ⟨O heavens, with Him, and let all God’s angels worship Him.⟩ ⟨Rejoice,⟩ ⟨with⟩ ⟨and repay those who hate Him⟩ ⟨and⟩ ⟨Rejoice,⟩ [[H1471|O Gentiles,]] ⟨with⟩ [[H5971|His people;]] [[H3588|for]] [[H5358|He will avenge]] [[H1818|the blood]] [[H5650|of His children.]] [[H7725|He will take]] [[H5359|vengeance]] [[H6862|on His adversaries]] [[H3722|He will cleanse]] [[H127|His land]] ⟨and⟩ [[H5971|His people.”]] ^3243
 
-Assemble the people, men, women, and little ones, and the sojourner within your towns, that they may hear and learn to fear the Lord your God, and be careful to do all the words of this law, ^3112
+[[H4872|Then Moses]] [[H935|came]] [[H1954|with Joshua]] [[H1121|son]] [[H5126|of Nun]] [[H1696|and recited]] [[H3605|all]] [[H1697|the words]] [[H2063|of this]] [[H7892|song]] [[H241|in the hearing]] [[H5971|of the people.]] ^3244
 
-and that their children, who have not known it, may hear and learn to fear the Lord your God, as long as you live in the land that you are going over the Jordan to possess. ^3113
+[[H4872|When Moses]] [[H3615|had finished]] [[H1696|reciting]] [[H3605|all]] [[H428|these]] [[H1697|words]] [[H413|to]] [[H3605|all]] [[H3478|Israel,]] ^3245
 
-And the Lord said to Moses, Behold, the days approach when you must die. Call Joshua and present yourselves in the tent of meeting, that I may commission him. And Moses and Joshua went and presented themselves in the tent of meeting. ^3114
+[[H559|he said]] [[H413|to them,]] [[H7760|“Take]] [[H3824|to heart]] [[H3605|all]] [[H1697|these words]] [[H595|I]] [[H5749|testify]] [[H3117|among you  today,]] [[H834|so that]] [[H6680|you may command]] [[H1121|your children]] [[H8104|to carefully]] [[H6213|follow]] [[H3605|all]] [[H1697|the words]] [[H2063|of this]] [[H8451|law.]] ^3246
 
-And the Lord appeared in the tent in a pillar of cloud. And the pillar of cloud stood over the entrance of the tent. ^3115
+[[H3588|For]] [[H1931|they]] [[H3808|are not]] [[H7386|idle]] [[H1697|words]] [[H4480|to you,]] [[H3588|because]] [[H1931|they]] [[H2416|are your life,]] [[H2088|and by them]] [[H748|you will live long]] [[H5921|in]] [[H127|the land]] [[H859|you]] [[H5674|are crossing]] [[H3383|the Jordan]] [[H3423|to possess.”]] ^3247
 
-And the Lord said to Moses, Behold, you are about to lie down with your fathers. Then this people will rise and whore after the foreign gods among them in the land that they are entering, and they will forsake me and break my covenant that I have made with them. ^3116
+[[H2088|On that]] [[H6106|same]] [[H3117|day]] [[H3068|the LORD]] [[H1696|said]] [[H413|to]] [[H4872|Moses,]] ^3248
 
-Then my anger will be kindled against them in that day, and I will forsake them and hide my face from them, and they will be devoured. And many evils and troubles will come upon them, so that they will say in that day, Have not these evils come upon us because our God is not among us? ^3117
+[[H5927|“Go up]] [[H413|into]] [[H5682|the Abarim]] [[H2022|Range]] [[H2022|to Mount]] [[H5015|Nebo,]] [[H776|in the land]] [[H4124|of Moab]] [[H5921|across]] [[H6440|from]] [[H3405|Jericho,]] [[H7200|and view]] [[H776|the land]] [[H3667|of Canaan,]] [[H834|which]] [[H589|I]] [[H5414|am giving]] [[H1121|to the Israelites]] [[H272|as their own possession.]] ^3249
 
-And I will surely hide my face in that day because of all the evil that they have done, because they have turned to other gods. ^3118
+[[H8033|And there]] [[H2022|on the mountain]] [[H834|that]] [[H859|you]] [[H5927|climb,]] [[H4191|you will die]] [[H622|and be gathered]] [[H413|to]] [[H5971|your people,]] [[H834|just as]] [[H251|your brother]] [[H175|Aaron]] [[H4191|died]] [[H2022|on Mount]] [[H2023|Hor]] [[H622|and was gathered]] [[H413|to]] [[H5971|his people.]] ^3250
 
-Now therefore write this song and teach it to the people of Israel. Put it in their mouths, that this song may be a witness for me against the people of Israel. ^3119
+[[H5921|For]] [[H4325|at the waters]] [[H4808|of Meribah-kadesh]] [[H4057|in the Wilderness]] [[H6790|of Zin,]] [[H4603|both of you broke faith]] [[H8432|with Me  among]] [[H1121|the Israelites]] [[H5921|by]] [[H3808|failing]] [[H6942|to treat Me as holy]] [[H1121|in their]] [[H8432|presence.]] ^3251
 
-For when I have brought them into the land flowing with milk and honey, which I swore to give to their fathers, and they have eaten and are full and grown fat, they will turn to other gods and serve them, and despise me and break my covenant. ^3120
+[[H3588|Although]] [[H7200|you shall see]] [[H5048|from a distance]] [[H776|the land]] [[H834|that]] [[H589|I]] [[H5414|am giving]] [[H1121|the Israelites,]] [[H3808|you shall not]] [[H935|enter]] ⟨it⟩ [[H413|.”]] ^3252
 
-And when many evils and troubles have come upon them, this song shall confront them as a witness ( for it will live unforgotten in the mouths of their offspring ). For I know what they are inclined to do even today, before I have brought them into the land that I swore to give. ^3121
+[[H2063|This]] [[H1293|is the blessing]] [[H834|that]] [[H4872|Moses,]] [[H376|the man]] [[H430|of God,]] [[H1288|pronounced]] [[H1121|upon the Israelites]] [[H6440|before]] [[H4194|his death.]] ^3301
 
-So Moses wrote this song the same day and taught it to the people of Israel. ^3122
+[[H559|He said:]] [[H3068|“The LORD]] [[H935|came]] [[H5514|from Sinai]] [[H2224|and dawned]] [[H8165|upon us  from Seir;]] [[H3313|He shone forth]] [[H2022|from Mount]] [[H6290|Paran]] [[H857|and came]] [[H7233|with myriads]] [[H6944|of holy ones,]] [[H799|with flaming fire]] [[H3225|at His right hand.]] ^3302
 
-And the Lord commissioned Joshua the son of Nun and said, Be strong and courageous, for you shall bring the people of Israel into the land that I swore to give them. I will be with you. ^3123
+[[H637|Surely]] [[H2245|You love]] [[H5971|the people;]] [[H3605|all]] [[H6918|the holy ones]] ⟨are⟩ [[H3027|in Your hand,]] [[H1992|and they]] [[H8497|sit down]] [[H7272|at Your feet;]] [[H5375|each receives]] [[H1703|Your words—]] ^3303
 
-When Moses had finished writing the words of this law in a book to the very end, ^3124
+[[H8451|the law]] [[H4872|that Moses]] [[H6680|gave]] [[H4181|us,  the possession]] [[H6952|of the congregation]] [[H3290|of Jacob.]] ^3304
 
-Moses commanded the Levites who carried the ark of the covenant of the Lord, ^3125
+[[H1961|So became]] ⟨the LORD⟩ [[H4428|King]] [[H3484|in Jeshurun]] [[H7218|when the leaders]] [[H5971|of the people]] [[H622|gathered,]] [[H3162|together with]] [[H7626|the tribes]] [[H3478|of Israel.]] ^3305
 
-Take this Book of the Law and put it by the side of the ark of the covenant of the Lord your God, that it may be there for a witness against you. ^3126
+[[H7205|Let Reuben]] [[H2421|live]] [[H408|and not]] [[H4191|die,]] [[H1961|nor]] [[H4962|his men]] [[H4557|be few.”]] ^3306
 
-For I know how rebellious and stubborn you are. Behold, even today while I am yet alive with you, you have been rebellious against the Lord. How much more after my death! ^3127
+[[H2063|And]] [[H3063|concerning Judah]] [[H559|he said:]] [[H3068|“O LORD,]] [[H8085|hear]] [[H6963|the cry]] [[H3063|of Judah]] [[H935|and bring]] [[H413|him to]] [[H5971|his people.]] [[H3027|With his own hands]] [[H7227|he defends his cause,]] [[H1961|but may You be]] [[H5828|a help]] [[H6862|against his foes.”]] ^3307
 
-Assemble to me all the elders of your tribes and your officers, that I may speak these words in their ears and call heaven and earth to witness against them. ^3128
+[[H3878|Concerning Levi]] [[H559|he said:]] [[H8550|“ Your Thummim]] ⟨Give⟩ ⟨to Levi⟩ [[H224|and Your Urim]] [[H2623|to Your godly]] [[H376|one,]] [[H834|whom]] [[H5254|You tested]] [[H4532|at Massah]] [[H7378|and contested]] [[H5921|at]] [[H4325|the waters]] [[H4809|of Meribah.]] ^3308
 
-For I know that after my death you will surely act corruptly and turn aside from the way that I have commanded you. And in the days to come evil will befall you, because you will do what is evil in the sight of the Lord, provoking him to anger through the work of your hands. ^3129
+[[H559|He said]] [[H1|of his father]] [[H517|and mother,]] [[H3808|‘I do not]] [[H7200|consider them.’]] [[H3808|He disregarded]] [[H251|his brothers]] [[H3808|and did not]] [[H3045|know]] [[H1121|his own sons,]] [[H3588|for]] [[H8104|they kept]] [[H565|Your word]] [[H5341|and maintained]] [[H1285|Your covenant.]] ^3309
 
-Then Moses spoke the words of this song until they were finished, in the ears of all the assembly of Israel : ^3130
+[[H3384|They will teach]] [[H4941|Your ordinances]] [[H3290|to Jacob]] [[H8451|and Your law]] [[H3478|to Israel;]] [[H7760|they will set]] [[H6988|incense]] [[H639|before You]] [[H3632|and whole burnt offerings]] [[H5921|on]] [[H4196|Your altar.]] ^3310
 
+[[H1288|Bless]] [[H2428|his substance,]] [[H3069|O LORD,]] [[H7521|and accept]] [[H6467|the work]] [[H3027|of his hands.]] [[H4272|Smash]] [[H4975|the loins]] [[H6965|of those who rise against him,]] [[H8130|and of his foes]] [[H4480|so they can]] [[H6965|rise.”]] ⟨no more⟩ ^3311
 
+[[H1144|Concerning Benjamin]] [[H559|he said:]] [[H3039|“May the beloved]] [[H3068|of the LORD]] [[H7931|rest]] [[H983|secure]] [[H5921|in Him;]] ⟨God⟩ [[H2653|shields]] [[H5921|him]] [[H3605|all]] [[H3117|day long,]] [[H3802|and upon His shoulders]] [[H7931|he rests.”]] ^3312
 
-Give ear, O heavens, and I will speak, and let the earth hear the words of my mouth. ^3201
+[[H3130|Concerning Joseph]] [[H559|he said:]] [[H776|“May his land]] [[H1288|be blessed]] [[H3068|by the LORD]] [[H2919|with the dew]] [[H8064|of heaven’s]] [[H4022|bounty]] [[H8415|and the watery depths]] [[H7257|that lie]] [[H8478|beneath,]] ^3313
 
-May my teaching drop as the rain, my speech distill as the dew, like gentle rain upon the tender grass, and like showers upon the herb. ^3202
+[[H4022|with the bountiful]] [[H8393|harvest]] [[H8121|from the sun]] [[H4022|and the abundant]] [[H1645|yield]] [[H3391|of the seasons,]] ^3314
 
-For I will proclaim the name of the Lord; ascribe greatness to our God! ^3203
+[[H7218|with the best]] [[H6924|of the ancient]] [[H2042|mountains]] [[H4022|and the bounty]] [[H5769|of the everlasting]] [[H1389|hills,]] ^3315
 
-The Rock, his work is perfect, for all his ways are justice. A God of faithfulness and without iniquity, just and upright is he. ^3204
+[[H4022|with the choice gifts]] [[H776|of the land]] [[H4393|and everything in it,]] [[H7522|and with the favor]] [[H7931|of Him who dwelt]] [[H5572|in the burning bush.]] [[H935|May these rest]] [[H7218|on the head]] [[H3130|of Joseph]] [[H6936|and crown the brow]] [[H5139|of the prince]] [[H251|of his brothers.]] ^3316
 
-They have dealt corruptly with him; they are no longer his children because they are blemished; they are a crooked and twisted generation. ^3205
+[[H1926|His  majesty]] ⟨is like⟩ [[H1060|a firstborn]] [[H7794|bull]] [[H7161|and his horns]] [[H7161|like those]] [[H7214|of a wild ox.]] [[H5055|With them he will gore]] [[H5971|the nations,]] [[H657|even to the ends]] [[H776|of the earth.]] [[H1992|Such]] [[H7233|are the myriads]] [[H669|of Ephraim,]] [[H1992|and such]] [[H505|are the thousands]] [[H4519|of Manasseh.”]] ^3317
 
-Do you thus repay the Lord, you foolish and senseless people? Is not he your father, who created you, who made you and established you? ^3206
+[[H2074|Concerning Zebulun]] [[H559|he said:]] [[H8055|“Rejoice,]] [[H2074|Zebulun,]] [[H3318|in your journeys,]] [[H3485|and Issachar,]] [[H168|in your tents.]] ^3318
 
-Remember the days of old; consider the years of many generations; ask your father, and he will show you, your elders, and they will tell you. ^3207
+[[H7121|They will call]] [[H5971|the peoples]] [[H2022|to a mountain;]] [[H8033|there]] [[H2076|they will offer]] [[H2077|sacrifices]] [[H6664|of righteousness.]] [[H3588|For]] [[H3243|they will feast on]] [[H8228|the abundance]] [[H3220|of the seas]] [[H8226|and the hidden]] [[H2934|treasures]] [[H2344|of the sand.”]] ^3319
 
-When the Most High gave to the nations their inheritance, when he divided mankind, he fixed the borders of the peoples according to the number of the sons of God. ^3208
+[[H1410|Concerning Gad]] [[H559|he said:]] [[H1288|“Blessed]] ⟨is⟩ [[H7337|he who enlarges]] ⟨the domain of⟩ [[H1410|Gad!]] [[H7931|He lies down]] [[H3833|like a lion]] [[H2963|and tears off]] [[H2220|an arm]] [[H637|or]] [[H6936|a head.]] ^3320
 
-But the Lord ’s portion is his people, Jacob his allotted heritage. ^3209
+[[H7200|He chose]] [[H7225|the best]] ⟨land⟩ [[H3588|for himself,  because]] [[H2710|a ruler’s]] [[H2513|portion]] [[H5603|was reserved for him]] [[H8033|there.]] [[H857|He came]] [[H7218|with the leaders]] [[H5971|of the people;]] [[H6213|he administered]] [[H6666|the justice]] [[H3068|of the LORD]] [[H4941|and His ordinances]] [[H5973|for]] [[H3478|Israel.”]] ^3321
 
-He found him in a desert land, and in the howling waste of the wilderness; he encircled him, he cared for him, he kept him as the apple of his eye. ^3210
+[[H1835|Concerning Dan]] [[H559|he said:]] [[H1835|“Dan]] ⟨is⟩ [[H738|a lion’s]] [[H1482|cub,]] [[H2187|leaping]] [[H4480|out of]] [[H1316|Bashan.”]] ^3322
 
-Like an eagle that stirs up its nest, that flutters over its young, spreading out its wings, catching them, bearing them on its pinions, ^3211
+[[H5321|Concerning Naphtali]] [[H559|he said:]] [[H5321|“Naphtali]] [[H7649|is abounding]] [[H7522|with favor,]] [[H4392|full]] [[H1293|of the blessing]] [[H3068|of the LORD;]] [[H3423|he shall take possession]] [[H3220|of the Sea]] [[H1864|and the south.”]] ^3323
 
-the Lord alone guided him, no foreign god was with him. ^3212
+[[H836|Concerning Asher]] [[H559|he said:]] [[H836|“May Asher]] [[H1288|be the most blessed]] [[H1121|of sons;]] [[H1961|may he be]] [[H7521|the most favored]] [[H251|among his brothers]] [[H2881|and dip]] [[H7272|his foot]] [[H8081|in oil.]] ^3324
 
-He made him ride on the high places of the land, and he ate the produce of the field, and he suckled him with honey out of the rock, and oil out of the flinty rock. ^3213
+[[H4515|May the bolts of your gate]] [[H1270|be iron]] [[H5178|and bronze,]] [[H1679|and your strength]] [[H3117|match your days.]] ^3325
 
-Curds from the herd, and milk from the flock, with fat of lambs, rams of Bashan and goats, with the very finest of the wheat — and you drank foaming wine made from the blood of the grape. ^3214
+[[H369|There is none]] [[H410|like the God]] [[H3484|of Jeshurun,]] [[H7392|who rides]] [[H8064|the heavens]] [[H5828|to your aid,]] [[H7834|and the clouds]] [[H1346|in His majesty.]] ^3326
 
-But Jeshurun grew fat, and kicked; you grew fat, stout, and sleek; then he forsook God who made him and scoffed at the Rock of his salvation. ^3215
+[[H6924|The eternal]] [[H430|God]] [[H4585|is your dwelling place,]] [[H8478|and underneath]] [[H5769|are the everlasting]] [[H2220|arms.]] [[H1644|He drives out]] [[H341|the enemy]] [[H6440|before you,]] [[H559|giving the command,]] [[H8045|‘Destroy!’]] ⟨him⟩ ^3327
 
-They stirred him to jealousy with strange gods; with abominations they provoked him to anger. ^3216
+[[H3478|So Israel]] [[H7931|dwells]] [[H983|securely;]] [[H5869|the fountain]] [[H3290|of Jacob]] [[H910|lives untroubled]] [[H413|in]] [[H776|a land]] [[H1715|of grain]] [[H8492|and new wine,]] [[H637|where even]] [[H8064|the heavens]] [[H6201|drip]] [[H2919|with dew.]] ^3328
 
-They sacrificed to demons that were no gods, to gods they had never known, to new gods that had come recently, whom your fathers had never dreaded. ^3217
+[[H835|Blessed you,]] ⟨are⟩ [[H3478|O Israel!]] [[H4310|Who]] [[H3644|is like you,]] [[H5971|a people]] [[H3467|saved]] [[H3068|by the LORD?]] [[H4043|He is the shield]] [[H5828|that protects you,]] [[H2719|the sword]] [[H1346|in which you boast.]] [[H341|Your enemies]] [[H3584|will cower before you,]] [[H859|and you]] [[H1869|shall trample]] [[H1116|their high places.”]] ^3329
 
-You were unmindful of the Rock that bore you, and you forgot the God who gave you birth. ^3218
+[[H4872|Then Moses]] [[H5927|went up]] [[H6160|from the plains]] [[H4124|of Moab]] [[H413|to]] [[H2022|Mount]] [[H5015|Nebo,]] [[H7218|to the top]] [[H6449|of Pisgah,]] [[H834|which]] [[H5921|faces]] [[H3405|Jericho.]] [[H3068|And the LORD]] [[H7200|showed him]] [[H3605|the whole]] [[H776|land—]] [[H1568|from Gilead]] [[H5704|as far]] [[H1835|as Dan,]] ^3401
 
-The Lord saw it and spurned them, because of the provocation of his sons and his daughters. ^3219
+[[H3605|all]] [[H5321|of Naphtali,]] [[H776|the land]] [[H669|of Ephraim]] [[H4519|and Manasseh,]] [[H3605|all]] [[H776|the land]] [[H3063|of Judah]] [[H5704|as far as]] [[H314|the Western]] [[H3220|Sea,]] ^3402
 
-And he said, I will hide my face from them; I will see what their end will be, for they are a perverse generation, children in whom is no faithfulness. ^3220
+[[H5045|the Negev]] [[H3603|and the region]] [[H1237|from the Valley]] [[H3405|of Jericho,]] [[H5892|the City]] [[H8558|of Palms,]] ⟨and⟩ [[H5704|all the way]] [[H6820|to Zoar.]] ^3403
 
-They have made me jealous with what is no god; they have provoked me to anger with their idols. So I will make them jealous with those who are no people; I will provoke them to anger with a foolish nation. ^3221
+[[H3068|And the LORD]] [[H559|said]] [[H413|to him,]] [[H2063|“This]] [[H776|is the land]] [[H7650|I swore to give]] [[H85|Abraham,]] [[H3327|Isaac,]] [[H3290|and Jacob,]] [[H559|when I said,]] [[H5414|‘I will give]] [[H2233|it to your descendants.’]] [[H7200|I have let you see]] [[H5869|it with your own eyes,]] [[H3808|but you will not]] [[H5674|cross into it.”]] ^3404
 
-For a fire is kindled by my anger, and it burns to the depths of Sheol, devours the earth and its increase, and sets on fire the foundations of the mountains. ^3222
+[[H4872|So Moses]] [[H5650|the servant]] [[H3068|of the LORD]] [[H4191|died]] [[H8033|there]] [[H776|in the land]] [[H4124|of Moab,]] [[H5921|as]] [[H3068|the LORD]] [[H6310|had said.]] ^3405
 
-And I will heap disasters upon them; I will spend my arrows on them; ^3223
+[[H6912|And He buried]] [[H853|him]] [[H1516|in a valley]] [[H776|in the land]] [[H4124|of Moab]] [[H4136|facing]] [[H1047|Beth-peor,]] [[H3808|and no]] [[H376|one]] [[H5704|to]] [[H2088|this]] [[H3117|day]] [[H3045|knows]] [[H6900|the location of his grave.]] ^3406
 
-they shall be wasted with hunger, and devoured by plague and poisonous pestilence; I will send the teeth of beasts against them, with the venom of things that crawl in the dust. ^3224
+[[H4872|Moses]] ⟨was⟩ [[H3967|a hundred]] [[H6242|and twenty]] [[H1121|years old]] [[H4194|when he died,]] [[H5869|yet his eyes]] [[H3808|were not]] [[H3543|weak,]] [[H3893|and his vitality]] [[H3808|had not]] [[H5127|diminished.]] ^3407
 
-Outdoors the sword shall bereave, and indoors terror, for young man and woman alike, the nursing child with the man of gray hairs. ^3225
+[[H1121|The Israelites]] [[H1058|grieved]] [[H4872|for Moses]] [[H6160|in the plains]] [[H4124|of Moab]] [[H7970|thirty]] [[H3117|days,]] [[H3117|until the time]] [[H1065|of weeping]] [[H60|and mourning]] [[H4872|for Moses]] [[H8552|came to an end.]] ^3408
 
-I would have said, I will cut them to pieces; I will wipe them from human memory, ^3226
+[[H3091|Now Joshua]] [[H1121|son]] [[H5126|of Nun]] [[H4392|was filled]] [[H7307|with the spirit]] [[H2451|of wisdom]] [[H3588|because]] [[H4872|Moses]] [[H5564|had laid]] [[H3027|his hands]] [[H5921|on him.]] [[H1121|So the Israelites]] [[H8085|obeyed]] [[H413|him]] [[H6213|and did]] [[H834|as]] [[H3068|the LORD]] [[H6680|had commanded]] [[H4872|Moses.]] ^3409
 
-had I not feared provocation by the enemy, lest their adversaries should misunderstand, lest they should say, Our hand is triumphant, it was not the Lord who did all this. ^3227
+[[H5750|Since that time,]] [[H3808|no]] [[H5030|prophet]] [[H6965|has arisen]] [[H3478|in Israel]] [[H4872|like Moses,]] [[H834|whom]] [[H3069|the LORD]] [[H3045|knew]] [[H6440|face]] [[H413|to]] [[H6440|face]] ^3410
 
-For they are a nation void of counsel, and there is no understanding in them. ^3228
+[[H3605|in all]] [[H226|the signs]] [[H4159|and wonders]] [[H3068|the LORD]] [[H7971|sent]] [[H6213|him to do]] [[H776|against the land]] [[H4714|of Egypt—]] [[H6547|to Pharaoh]] [[H3605|and all]] [[H5650|his officials]] [[H3605|and all]] [[H776|his land—]] ^3411
 
-If they were wise, they would understand this; they would discern their latter end! ^3229
-
-How could one have chased a thousand, and two have put ten thousand to flight, unless their Rock had sold them, and the Lord had given them up? ^3230
-
-For their rock is not as our Rock; our enemies are by themselves. ^3231
-
-For their vine comes from the vine of Sodom and from the fields of Gomorrah; their grapes are grapes of poison; their clusters are bitter; ^3232
-
-their wine is the poison of serpents and the cruel venom of asps. ^3233
-
-Is not this laid up in store with me, sealed up in my treasuries? ^3234
-
-Vengeance is mine, and recompense, for the time when their foot shall slip; for the day of their calamity is at hand, and their doom comes swiftly. ^3235
-
-For the Lord will vindicate his people and have compassion on his servants, when he sees that their power is gone and there is none remaining, bond or free. ^3236
-
-Then he will say, Where are their gods, the rock in which they took refuge, ^3237
-
-who ate the fat of their sacrifices and drank the wine of their drink offering? Let them rise up and help you; let them be your protection! ^3238
-
-See now that I, even I, am he, and there is no god beside me; I kill and I make alive; I wound and I heal; and there is none that can deliver out of my hand. ^3239
-
-For I lift up my hand to heaven and swear, As I live forever, ^3240
-
-if I sharpen my flashing sword and my hand takes hold on judgment, I will take vengeance on my adversaries and will repay those who hate me. ^3241
-
-I will make my arrows drunk with blood, and my sword shall devour flesh — with the blood of the slain and the captives, from the long-haired heads of the enemy. ^3242
-
-Rejoice with him, O heavens; bow down to him, all gods, for he avenges the blood of his children and takes vengeance on his adversaries. He repays those who hate him and cleanses his people’s land. ^3243
-
-Moses came and recited all the words of this song in the hearing of the people, he and Joshua the son of Nun. ^3244
-
-And when Moses had finished speaking all these words to all Israel, ^3245
-
-he said to them, Take to heart all the words by which I am warning you today, that you may command them to your children, that they may be careful to do all the words of this law. ^3246
-
-For it is no empty word for you, but your very life, and by this word you shall live long in the land that you are going over the Jordan to possess. ^3247
-
-That very day the Lord spoke to Moses, ^3248
-
-Go up this mountain of the Abarim, Mount Nebo, which is in the land of Moab, opposite Jericho, and view the land of Canaan, which I am giving to the people of Israel for a possession. ^3249
-
-And die on the mountain which you go up, and be gathered to your people, as Aaron your brother died in Mount Hor and was gathered to his people, ^3250
-
-because you broke faith with me in the midst of the people of Israel at the waters of Meribah-kadesh, in the wilderness of Zin, and because you did not treat me as holy in the midst of the people of Israel. ^3251
-
-For you shall see the land before you, but you shall not go there, into the land that I am giving to the people of Israel. ^3252
-
-
-
-This is the blessing with which Moses the man of God blessed the people of Israel before his death. ^3301
-
-He said, The Lord came from Sinai and dawned from Seir upon us; he shone forth from Mount Paran; he came from the ten thousands of holy ones, with flaming fire at his right hand. ^3302
-
-Yes, he loved his people, all his holy ones were in his hand; so they followed in your steps, receiving direction from you, ^3303
-
-when Moses commanded us a law, as a possession for the assembly of Jacob. ^3304
-
-Thus the Lord became king in Jeshurun, when the heads of the people were gathered, all the tribes of Israel together. ^3305
-
-Let Reuben live, and not die, but let his men be few. ^3306
-
-And this he said of Judah : Hear, O Lord, the voice of Judah, and bring him in to his people. With your hands contend for him, and be a help against his adversaries. ^3307
-
-And of Levi he said, Give to Levi your Thummim, and your Urim to your godly one, whom you tested at Massah, with whom you quarreled at the waters of Meribah; ^3308
-
-who said of his father and mother, I regard them not; he disowned his brothers and ignored his children. For they observed your word and kept your covenant. ^3309
-
-They shall teach Jacob your rules and Israel your law; they shall put incense before you and whole burnt offerings on your altar. ^3310
-
-Bless, O Lord, his substance, and accept the work of his hands; crush the loins of his adversaries, of those who hate him, that they rise not again. ^3311
-
-Of Benjamin he said, The beloved of the Lord dwells in safety. The High God surrounds him all day long, and dwells between his shoulders. ^3312
-
-And of Joseph he said, Blessed by the Lord be his land, with the choicest gifts of heaven above, and of the deep that crouches beneath, ^3313
-
-with the choicest fruits of the sun and the rich yield of the months, ^3314
-
-with the finest produce of the ancient mountains and the abundance of the everlasting hills, ^3315
-
-with the best gifts of the earth and its fullness and the favor of him who dwells in the bush. May these rest on the head of Joseph, on the pate of him who is prince among his brothers. ^3316
-
-A firstborn bull —he has majesty, and his horns are the horns of a wild ox; with them he shall gore the peoples, all of them, to the ends of the earth; they are the ten thousands of Ephraim, and they are the thousands of Manasseh. ^3317
-
-And of Zebulun he said, Rejoice, Zebulun, in your going out, and Issachar, in your tents. ^3318
-
-They shall call peoples to their mountain; there they offer right sacrifices; for they draw from the abundance of the seas and the hidden treasures of the sand. ^3319
-
-And of Gad he said, Blessed be he who enlarges Gad! Gad crouches like a lion; he tears off arm and scalp. ^3320
-
-He chose the best of the land for himself, for there a commander’s portion was reserved; and he came with the heads of the people, with Israel he executed the justice of the Lord, and his judgments for Israel. ^3321
-
-And of Dan he said, Dan is a lion’s cub that leaps from Bashan. ^3322
-
-And of Naphtali he said, O Naphtali, sated with favor, and full of the blessing of the Lord, possess the lake and the south. ^3323
-
-And of Asher he said, Most blessed of sons be Asher; let him be the favorite of his brothers, and let him dip his foot in oil. ^3324
-
-Your bars shall be iron and bronze, and as your days, so shall your strength be. ^3325
-
-There is none like God, O Jeshurun, who rides through the heavens to your help, through the skies in his majesty. ^3326
-
-The eternal God is your dwelling place, and underneath are the everlasting arms. And he thrust out the enemy before you and said, Destroy. ^3327
-
-So Israel lived in safety, Jacob lived alone, in a land of grain and wine, whose heavens drop down dew. ^3328
-
-Happy are you, O Israel! Who is like you, a people saved by the Lord, the shield of your help, and the sword of your triumph! Your enemies shall come fawning to you, and you shall tread upon their backs. ^3329
-
-
-
-Then Moses went up from the plains of Moab to Mount Nebo, to the top of Pisgah, which is opposite Jericho. And the Lord showed him all the land, Gilead as far as Dan, ^3401
-
-all Naphtali, the land of Ephraim and Manasseh, all the land of Judah as far as the western sea, ^3402
-
-the Negeb, and the Plain, that is, the Valley of Jericho the city of palm trees, as far as Zoar. ^3403
-
-And the Lord said to him, This is the land of which I swore to Abraham, to Isaac, and to Jacob, I will give it to your offspring. I have let you see it with your eyes, but you shall not go over there. ^3404
-
-So Moses the servant of the Lord died there in the land of Moab, according to the word of the Lord, ^3405
-
-and he buried him in the valley in the land of Moab opposite Beth-peor; but no one knows the place of his burial to this day. ^3406
-
-Moses was 120 years old when he died. His eye was undimmed, and his vigor unabated. ^3407
-
-And the people of Israel wept for Moses in the plains of Moab thirty days. Then the days of weeping and mourning for Moses were ended. ^3408
-
-And Joshua the son of Nun was full of the spirit of wisdom, for Moses had laid his hands on him. So the people of Israel obeyed him and did as the Lord had commanded Moses. ^3409
-
-And there has not arisen a prophet since in Israel like Moses, whom the Lord knew face to face, ^3410
-
-none like him for all the signs and the wonders that the Lord sent him to do in the land of Egypt, to Pharaoh and to all his servants and to all his land, ^3411
-
-and for all the mighty power and all the great deeds of terror that Moses did in the sight of all Israel. ^3412
-
-
+[[H3605|and in all]] [[H2389|the mighty]] [[H3027|acts of power]] [[H4172|and terrifying deeds]] [[H834|that]] [[H4872|Moses]] [[H6213|performed]] [[H5869|in the sight]] [[H3605|of all]] [[H3478|Israel.]] ^3412

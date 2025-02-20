@@ -1,1389 +1,1355 @@
+⟨This is the⟩ [[G746|beginning]] [[G3588|of the]] [[G2098|gospel]] [[G2424|of Jesus]] [[G5547|Christ,]] ⟨the⟩ [[G5207|Son]] [[G2316|of God.]] ^0101
 
+[[G2531|As]] [[G1125|it is written]] [[G1722|in]] [[G2268|Isaiah]] [[G3588|the]] [[G4396|prophet:]] [[G2400|“Behold,]] [[G649|I will send]] [[G1473|My]] [[G32|messenger]] [[G4253|ahead of You,]] [[G3739|who]] [[G2680|will prepare]] [[G4771|Your]] [[G3598|way.”]] ^0102
 
-The beginning of the gospel of Jesus Christ, the Son of God. ^0101
+[[G5456|“A voice]] [[G994|of one calling]] [[G1722|in]] [[G3588|the]] [[G2048|wilderness,]] [[G2090|‘Prepare]] [[G3588|the]] [[G3598|way]] [[G2962|for Lord,]] ⟨the⟩ [[G4160|make]] [[G2117|straight]] [[G5147|paths]] [[G846|for Him.’”]] ^0103
 
-As it is written in Isaiah the prophet, Behold, I send my messenger before your face, who will prepare your way, ^0102
+[[G2491|John]] [[G3588|the]] [[G907|Baptist]] [[G1096|appeared]] [[G1722|in]] [[G3588|the]] [[G2048|wilderness,]] [[G2784|preaching]] ⟨a⟩ [[G908|baptism]] [[G3341|of repentance]] [[G1519|for]] ⟨the⟩ [[G859|forgiveness]] [[G266|of sins.]] ^0104
 
-the voice of one crying in the wilderness : Prepare the way of the Lord, make his paths straight, ^0103
+⟨People⟩ [[G1607|went out]] [[G4314|to]] [[G846|him]] [[G3956|from all]] [[G2415|of Jerusalem]] [[G2532|and]] [[G3588|the]] [[G5561|countryside]] [[G2449|of Judea.]] [[G1843|Confessing]] [[G846|their]] [[G266|sins,]] [[G907|they were baptized]] [[G5259|by]] [[G846|him]] [[G1722|in]] [[G3588|the]] [[G2446|Jordan]] [[G4215|River.]] ^0105
 
-John appeared, baptizing in the wilderness and proclaiming a baptism of repentance for the forgiveness of sins. ^0104
+[[G2491|John]] [[G1510|was]] [[G1746|clothed in]] [[G2574|camel’s]] [[G2359|hair,]] [[G2532|with]] [[G1193|a leather]] [[G2223|belt]] [[G4012|around]] [[G846|his]] [[G3751|waist.]] [[G2068|His food was]] [[G200|locusts]] [[G2532|and]] [[G66|wild]] [[G3192|honey.]] ^0106
 
-And all the country of Judea and all Jerusalem were going out to him and were being baptized by him in the river Jordan, confessing their sins. ^0105
+[[G2532|And]] [[G2784|he began to proclaim:]] [[G3694|“After]] [[G1473|me]] [[G2064|will come]] [[G3588|One]] [[G2478|more powerful]] [[G1473|than I,]] [[G3588|the]] [[G2438|straps]] [[G3588|of]] [[G3739|whose]] [[G5266|sandals]] [[G1510|I am]] [[G3756|not]] [[G2425|worthy]] [[G2955|to stoop down]] ⟨and⟩ [[G3089|untie.]] ^0107
 
-Now John was clothed with camel’s hair and wore a leather belt around his waist and ate locusts and wild honey. ^0106
+[[G1473|I]] [[G907|baptize]] [[G4771|you]] ⟨with⟩ [[G5204|water,]] [[G1161|but]] [[G846|He]] [[G907|will baptize]] [[G4771|you]] [[G1722|with]] ⟨the⟩ [[G40|Holy]] [[G4151|Spirit.”]] ^0108
 
-And he preached, saying, After me comes he who is mightier than I, the strap of whose sandals I am not worthy to stoop down and untie. ^0107
+[[G1722|In]] [[G1565|those]] [[G2250|days]] [[G2424|Jesus]] [[G2064|came]] [[G575|from]] [[G3478|Nazareth]] [[G1056|in Galilee]] [[G2532|and]] [[G907|was baptized]] [[G5259|by]] [[G2491|John]] [[G1519|in]] [[G3588|the]] [[G2446|Jordan.]] ^0109
 
-I have baptized you with water, but he will baptize you with the Holy Spirit. ^0108
+[[G2112|As soon]] ⟨as Jesus⟩ [[G305|came up]] [[G1537|out of]] [[G3588|the]] [[G5204|water,]] [[G3708|he saw]] [[G3588|the]] [[G3772|heavens]] [[G4977|breaking open]] [[G2532|and]] [[G3588|the]] [[G4151|Spirit]] [[G2597|descending]] [[G1519|on]] [[G846|Him]] [[G5613|like]] [[G4058|a dove.]] ^0110
 
-In those days Jesus came from Nazareth of Galilee and was baptized by John in the Jordan. ^0109
+[[G2532|And]] [[G5456|a voice]] [[G1096|came]] [[G1537|from]] [[G3772|heaven:]] [[G4771|“You]] [[G1510|are]] [[G1473|My]] [[G27|beloved]] [[G5207|Son;]] [[G1722|in]] [[G4771|You]] [[G2106|I am well pleased.”]] ^0111
 
-And when he came up out of the water, immediately he saw the heavens being torn open and the Spirit descending on him like a dove. ^0110
+[[G2112|At once]] [[G3588|the]] [[G4151|Spirit]] [[G1544|drove]] ⟨Jesus⟩ [[G1519|into]] [[G3588|the]] [[G2048|wilderness,]] ^0112
 
-And a voice came from heaven, You are my beloved Son; with you I am well pleased. ^0111
+[[G2532|and]] [[G1510|He was]] ⟨there⟩ [[G2048|]] [[G5062|for forty]] [[G2250|days,]] [[G3985|being tempted]] [[G5259|by]] [[G4567|Satan.]] [[G1510|He was]] [[G3326|with]] [[G3588|the]] [[G2342|wild animals,]] [[G2532|and]] [[G3588|the]] [[G32|angels]] [[G1247|ministered]] [[G846|to Him.]] ^0113
 
-The Spirit immediately drove him out into the wilderness. ^0112
+[[G3326|After]] [[G3588|the]] [[G3860|arrest]] [[G2491|of John,]] [[G2424|Jesus]] [[G2064|went]] [[G1519|into]] [[G1056|Galilee]] ⟨and⟩ [[G2784|proclaimed]] [[G3588|the]] [[G2098|gospel]] [[G2316|of God.]] ^0114
 
-And he was in the wilderness forty days, being tempted by Satan. And he was with the wild animals, and the angels were ministering to him. ^0113
+[[G3588|“The]] [[G2540|time]] [[G4137|is fulfilled,”]] [[G3004|He said,]] [[G2532|“and]] [[G3588|the]] [[G932|kingdom]] [[G2316|of God]] [[G1448|is near.]] [[G3340|Repent]] [[G2532|and]] [[G4100|believe]] [[G1722|in]] [[G3588|the]] [[G2098|gospel!”]] ^0115
 
-Now after John was arrested, Jesus came into Galilee, proclaiming the gospel of God, ^0114
+[[G2532|As]] ⟨Jesus⟩ [[G3855|was walking]] [[G3844|beside]] [[G3588|the]] [[G2281|Sea]] [[G1056|of Galilee,]] [[G3708|He saw]] [[G4613|Simon]] [[G2532|and]] ⟨his⟩ [[G4613|]] [[G80|brother]] [[G406|Andrew.]] [[G906|They were casting a net]] [[G1722|into]] [[G3588|the]] [[G2281|sea,]] [[G1063|for]] [[G1510|they were]] [[G231|fishermen.]] ^0116
 
-and saying, The time is fulfilled, and the kingdom of God is at hand; repent and believe in the gospel. ^0115
+[[G1205|“Come, follow]] [[G1473|Me,”]] [[G2424|Jesus]] [[G2036|said,]] [[G2532|“and]] [[G4160|I will make]] [[G4771|you]] [[G231|fishers]] [[G444|of men.”]] ^0117
 
-Passing alongside the Sea of Galilee, he saw Simon and Andrew the brother of Simon casting a net into the sea, for they were fishermen. ^0116
+[[G2532|And]] [[G2112|at once]] [[G863|they left]] ⟨their⟩ [[G3588|]] [[G1350|nets]] ⟨and⟩ [[G190|followed]] [[G846|Him.]] ^0118
 
-And Jesus said to them, Follow me, and I will make you become fishers of men. ^0117
+[[G4260|Going on]] [[G3641|a little farther,]] [[G3708|He saw]] [[G2385|James]] ⟨son⟩ [[G3588|]] [[G2199|of Zebedee]] [[G2532|and]] [[G846|his]] [[G80|brother]] [[G2491|John.]] [[G846|They]] ⟨were⟩ [[G1722|in]] [[G3588|a]] [[G4143|boat,]] [[G2675|mending]] ⟨their⟩ [[G3588|]] [[G1350|nets.]] ^0119
 
-And immediately they left their nets and followed him. ^0118
+[[G2112|Immediately]] ⟨Jesus⟩ [[G2564|called]] [[G846|them,]] [[G2532|and]] [[G863|leaving]] [[G846|their]] [[G3962|father]] [[G2199|Zebedee]] [[G1722|in]] [[G3588|the]] [[G4143|boat]] [[G3326|with]] [[G3588|the]] [[G3411|hired men,]] [[G565|they followed]] [[G846|Him.]] ^0120
 
-And going on a little farther, he saw James the son of Zebedee and John his brother, who were in their boat mending the nets. ^0119
+[[G2532|Then]] ⟨Jesus and His companions⟩ [[G1531|went]] [[G1519|to]] [[G2584|Capernaum,]] [[G2532|and]] [[G2112|as soon as]] [[G3588|the]] [[G4521|Sabbath]] ⟨began⟩, ⟨Jesus⟩ [[G1525|entered]] [[G3588|the]] [[G4864|synagogue]] ⟨and⟩ [[G1321|began to teach.]] ^0121
 
-And immediately he called them, and they left their father Zebedee in the boat with the hired servants and followed him. ^0120
+⟨The people⟩ [[G1605|were astonished]] [[G1909|at]] [[G846|His]] [[G1322|teaching,]] [[G1063|because]] [[G1321|He taught]] [[G5613|as]] [[G2192|one who had]] [[G1849|authority,]] [[G2532|and]] [[G3756|not]] [[G5613|as]] [[G3588|the]] [[G1122|scribes.]] ^0122
 
-And they went into Capernaum, and immediately on the Sabbath he entered the synagogue and was teaching. ^0121
+[[G2112|Suddenly]] [[G444|a man]] [[G1722|with]] [[G169|an unclean]] [[G4151|spirit]] [[G349|cried out]] [[G1722|in]] [[G3588|the]] [[G4864|synagogue:]] ^0123
 
-And they were astonished at his teaching, for he taught them as one who had authority, and not as the scribes. ^0122
+[[G5101|“What]] [[G4771|do You]] ⟨want⟩ [[G1473|with us,]] [[G2424|Jesus]] [[G3479|of Nazareth?]] [[G2064|Have You come]] [[G622|to destroy]] [[G1473|us?]] [[G1492|I know]] [[G5101|who]] [[G4771|You]] [[G1510|are—]] [[G3588|the]] [[G40|Holy]] ⟨One⟩ [[G2316|of God!”]] ^0124
 
-And immediately there was in their synagogue a man with an unclean spirit. And he cried out, ^0123
+[[G2532|But]] [[G2424|Jesus]] [[G2008|rebuked]] ⟨the spirit⟩ [[G846|]] ⟨and⟩ [[G3004|said,]] [[G5392|“Be silent!]] [[G1831|Come]] [[G1537|out of]] [[G846|him!”]] ^0125
 
-What have you to do with us, Jesus of Nazareth? Have you come to destroy us? I know who you are — the Holy One of God. ^0124
+[[G2532|At this,]] [[G3588|the]] [[G169|unclean]] [[G4151|spirit]] [[G4682|threw into convulsions]] ⟨the man⟩ ⟨and⟩ [[G1831|came]] [[G1537|out]] [[G5456|with a loud shriek.]] ^0126
 
-But Jesus rebuked him, saying, Be silent, and come out of him! ^0125
+[[G537|All]] ⟨the people⟩ [[G2284|were amazed]] ⟨and⟩ [[G5620|]] [[G4802|began to ask]] [[G1438|one another,]] [[G5101|“What]] [[G1510|is]] [[G3778|this?]] [[G2537|A new]] [[G1322|teaching]] [[G2596|with]] [[G1849|authority!]] [[G2004|He commands]] [[G2532|even]] [[G3588|the]] [[G169|unclean]] [[G4151|spirits,]] [[G2532|and]] [[G5219|they obey]] [[G846|Him!”]] ^0127
 
-And the unclean spirit, convulsing him and crying out with a loud voice, came out of him. ^0126
+[[G2532|And]] [[G3588|the]] [[G189|news]] [[G846|about]] ⟨Jesus⟩ [[G1831|spread]] [[G2112|quickly]] [[G3837|through]] [[G3588|the]] [[G3650|whole]] [[G4066|region]] [[G1056|of Galilee.]] ^0128
 
-And they were all amazed, so that they questioned among themselves, saying, What is this? A new teaching with authority! He commands even the unclean spirits, and they obey him. ^0127
+[[G2532|As soon as]] ⟨Jesus and His companions⟩ [[G1831|had left]] [[G3588|the]] [[G4864|synagogue,]] [[G2064|they went]] [[G3326|with]] [[G2385|James]] [[G2532|and]] [[G2491|John]] [[G1519|to]] [[G3588|the]] [[G3614|home]] [[G4613|of Simon]] [[G2532|and]] [[G406|Andrew.]] ^0129
 
-And at once his fame spread everywhere throughout all the surrounding region of Galilee. ^0128
+[[G4613|Simon’s]] [[G3994|mother-in-law]] [[G2621|was sick in bed]] [[G4445|with a fever,]] [[G2532|and]] [[G3004|they promptly told]] ⟨Jesus⟩ [[G846|]] [[G4012|about]] [[G846|her.]] ^0130
 
-And immediately he left the synagogue and entered the house of Simon and Andrew, with James and John. ^0129
+[[G2532|So]] [[G4334|He went to]] ⟨her⟩, [[G2902|took]] [[G3588|her]] ⟨by the⟩ [[G5495|hand,]] [[G1453|and helped her up.]] [[G3588|The]] [[G4446|fever]] [[G863|left]] [[G846|her,]] [[G2532|and]] [[G1247|she began to serve]] [[G846|them.]] ^0131
 
-Now Simon’s mother -in-law lay ill with a fever, and immediately they told him about her. ^0130
+[[G3798|That evening,]] [[G3753|after]] [[G2246|sunset,]] ⟨people⟩ [[G5342|brought]] [[G4314|to]] [[G846|Him]] [[G3956|all]] [[G3588|who]] [[G2192|were]] [[G2560|sick]] [[G2532|and]] [[G1139|demon-possessed,]] ^0132
 
-And he came and took her by the hand and lifted her up, and the fever left her, and she began to serve them. ^0131
+[[G2532|and]] [[G3588|the]] [[G3650|whole]] [[G4172|town]] [[G1996|gathered]] [[G4314|at]] [[G3588|the]] [[G2374|door.]] ^0133
 
-That evening at sundown they brought to him all who were sick or oppressed by demons. ^0132
+[[G2532|And]] ⟨Jesus⟩ [[G2323|healed]] [[G4183|many]] [[G2192|who were]] [[G2560|ill]] [[G4164|with various]] [[G3554|diseases]] [[G2532|and]] [[G1544|drove out]] [[G4183|many]] [[G1140|demons.]] [[G2532|But]] [[G863|He would not allow]] [[G3588|the]] [[G1140|demons]] [[G2980|to speak,]] [[G3754|because]] [[G1492|they knew]] [[G846|who He was.]] ^0134
 
-And the whole city was gathered together at the door. ^0133
+[[G4404|Early in the morning,]] [[G3029|while it was]] [[G1773|still dark,]] ⟨Jesus⟩ [[G450|got up]] ⟨and⟩ [[G1831|slipped out]] [[G1519|to]] [[G2048|a solitary]] [[G5117|place]] [[G4336|to pray.]] ^0135
 
-And he healed many who were sick with various diseases, and cast out many demons. And he would not permit the demons to speak, because they knew him. ^0134
+[[G4613|Simon]] [[G2532|and]] [[G3588|his companions]] [[G2614|went to look for]] [[G846|Him,]] ^0136
 
-And rising very early in the morning, while it was still dark, he departed and went out to a desolate place, and there he prayed. ^0135
+[[G2532|and]] [[G2147|when they found]] [[G846|Him,]] [[G3004|they said,]] [[G3956|“Everyone]] [[G2212|is looking for]] [[G4771|You!”]] ^0137
 
-And Simon and those who were with him searched for him, ^0136
+[[G2532|But]] ⟨Jesus⟩ [[G3004|answered,]] [[G71|“Let us go]] [[G237|on]] [[G1519|to]] [[G3588|the]] [[G2192|neighboring]] [[G2969|towns]] [[G2443|so]] [[G2784|I can preach]] [[G1563|there]] [[G2532|as well,]] [[G1063|for]] [[G1519|that is why]] [[G1831|I have come.”]] ^0138
 
-and they found him and said to him, Everyone is looking for you. ^0137
+⟨So⟩ [[G2532|]] [[G2064|He went]] [[G1519|throughout]] [[G1056|Galilee,]] [[G2784|preaching]] [[G1519|in]] [[G846|their]] [[G4864|synagogues]] [[G2532|and]] [[G1544|driving out]] [[G1140|demons.]] ^0139
 
-And he said to them, Let us go on to the next towns, that I may preach there also, for that is why I came out. ^0138
+[[G2532|Then]] [[G3015|a leper]] [[G2064|came]] [[G4314|to]] ⟨Jesus⟩ [[G846|,]] [[G3870|begging]] [[G1120|on his knees:]] [[G1437|“If]] [[G2309|You are willing,]] [[G1410|You can]] [[G2511|make me clean.”]] ^0140
 
-And he went throughout all Galilee, preaching in their synagogues and casting out demons. ^0139
+[[G4697|Moved with compassion,]] [[G1614|Jesus reached out]] [[G846|His]] [[G5495|hand]] ⟨and⟩ [[G680|touched]] ⟨the man⟩. [[G2309|“I am willing,”]] [[G3004|He said,]] [[G2511|“Be clean.”]] ^0141
 
-And a leper came to him, imploring him, and kneeling said to him, If you will, you can make me clean. ^0140
+[[G2112|Immediately]] [[G3588|the]] [[G3014|leprosy]] [[G565|left]] [[G846|him,]] [[G2532|and]] [[G2511|he was cleansed.]] ^0142
 
-Moved with pity, he stretched out his hand and touched him and said to him, I will; be clean. ^0141
+⟨Jesus⟩ [[G1544|promptly sent him away]] [[G1690|with a stern warning:]] ^0143
 
-And immediately the leprosy left him, and he was made clean. ^0142
+[[G3708|“See]] [[G2036|that you don’t tell]] ⟨anyone⟩ [[G3367|.]] [[G235|But]] [[G5217|go,]] [[G1166|show]] [[G4572|yourself]] [[G3588|to the]] [[G2409|priest]] [[G2532|and]] [[G4374|present the offering]] [[G3475|Moses]] [[G4367|prescribed]] [[G4012|for]] [[G4771|your]] [[G2512|cleansing,]] [[G1519|as]] [[G3142|a testimony]] [[G846|to them.”]] ^0144
 
-And Jesus sternly charged him and sent him away at once, ^0143
+[[G1161|But]] [[G3588|the]] ⟨man⟩ [[G1831|went out]] ⟨and⟩ [[G4183|openly]] [[G756|began]] [[G2784|to proclaim]] [[G2532|and]] [[G1310|spread]] [[G3588|the]] [[G3056|news.]] [[G5620|Consequently,]] [[G846|Jesus]] [[G3371|could no longer]] [[G1525|enter]] [[G4172|a town]] [[G5320|in plain view,]] [[G235|but]] [[G1510|He stayed]] [[G1854|out]] [[G1909|in]] [[G2048|solitary]] [[G5117|places.]] [[G2532|Yet]] ⟨people⟩ [[G2064|came]] [[G4314|to]] [[G846|Him]] [[G3840|from every quarter.]] ^0145
 
-and said to him, See that you say nothing to anyone, but go, show yourself to the priest and offer for your cleansing what Moses commanded, for a proof to them. ^0144
+⟨A few⟩ [[G2250|days]] [[G1223|later,]] ⟨Jesus⟩ [[G1525|went back to]] [[G2584|Capernaum.]] [[G191|And when heard]] ⟨the people⟩ [[G1510|He was]] [[G3624|home,]] ^0201
 
-But he went out and began to talk freely about it, and to spread the news, so that Jesus could no longer openly enter a town, but was out in desolate places, and people were coming to him from every quarter. ^0145
+[[G4863|they gathered]] [[G4183|in such large numbers]] [[G5620|that]] ⟨there was⟩ [[G3371|no more]] [[G5562|room,]] [[G3366|not even]] [[G4314|outside]] [[G3588|the]] [[G2374|door,]] ⟨as Jesus⟩ [[G2980|spoke]] [[G3588|the]] [[G3056|word]] [[G846|to them.]] ^0202
 
+[[G2532|Then]] [[G3885|a paralytic]] [[G5342|was brought]] [[G4314|to]] [[G846|Him,]] [[G142|carried]] [[G5259|by]] [[G5064|four]] ⟨men⟩. ^0203
 
+[[G2532|Since]] [[G1410|they were unable]] [[G4374|to get to]] ⟨Jesus⟩ [[G846|]] [[G1223|through]] [[G3588|the]] [[G3793|crowd,]] [[G648|they uncovered]] [[G3588|the]] [[G4721|roof]] [[G3699|above Him,]] [[G1846|made an opening,]] ⟨and⟩ [[G5465|lowered]] [[G3588|the]] [[G3885|paralytic]] [[G3699|on]] ⟨his⟩ [[G3588|]] [[G2895|mat.]] ^0204
 
-And when he returned to Capernaum after some days, it was reported that he was at home. ^0201
+[[G2532|When]] [[G2424|Jesus]] [[G3708|saw]] [[G846|their]] [[G4102|faith,]] [[G3004|He said]] [[G3588|to the]] [[G3885|paralytic,]] [[G5043|“Son,]] [[G4771|your]] [[G266|sins]] [[G863|are forgiven.”]] ^0205
 
-And many were gathered together, so that there was no more room, not even at the door. And he was preaching the word to them. ^0202
+[[G1161|But]] [[G5100|some]] [[G3588|of the]] [[G1122|scribes]] [[G1510|were]] [[G2521|sitting]] [[G1563|there]] [[G2532|and]] [[G1260|contemplating]] [[G1722|in]] [[G846|their]] [[G2588|hearts,]] ^0206
 
-And they came, bringing to him a paralytic carried by four men. ^0203
+[[G5101|“Why]] ⟨does⟩ [[G3778|this]] ⟨man⟩ [[G2980|speak]] [[G3779|like this?]] [[G987|He is blaspheming!]] [[G5101|Who]] [[G1410|can]] [[G863|forgive]] [[G266|sins]] [[G1487|but]] [[G2316|God]] [[G1520|alone?”]] ^0207
 
-And when they could not get near him because of the crowd, they removed the roof above him, and when they had made an opening, they let down the bed on which the paralytic lay. ^0204
+[[G2112|At once]] [[G2424|Jesus]] [[G1921|knew]] [[G3588|in]] [[G846|His]] [[G4151|spirit]] [[G3754|that]] [[G1260|they were considering]] [[G3779|this]] [[G1722|within]] [[G1438|themselves.]] [[G5101|“Why]] [[G1260|do you question]] [[G3778|these things]] [[G1722|in]] [[G4771|your]] [[G2588|hearts?”]] [[G3004|He asked.]] ^0208
 
-And when Jesus saw their faith, he said to the paralytic, Son, your sins are forgiven. ^0205
+[[G5101|“Which]] [[G1510|is]] [[G2123|easier:]] [[G2036|to say]] [[G3885|to a paralyzed man,]] [[G4771|‘Your]] [[G266|sins]] [[G863|are forgiven,’]] [[G2228|or]] [[G2036|to say,]] [[G1453|‘Get up,]] [[G142|pick up]] [[G4771|your]] [[G2895|mat,]] [[G2532|and]] [[G4043|walk’?]] ^0209
 
-Now some of the scribes were sitting there, questioning in their hearts, ^0206
+[[G1161|But]] [[G2443|so that]] [[G1492|you may know]] [[G3754|that]] [[G3588|the]] [[G5207|Son]] [[G444|of Man]] [[G2192|has]] [[G1849|authority]] [[G1909|on]] [[G1093|earth]] [[G863|to forgive]] [[G266|sins...”]] [[G3004|He said]] [[G3588|to the]] [[G3885|paralytic,]] ^0210
 
-Why does this man speak like that? He is blaspheming! Who can forgive sins but God alone? ^0207
+[[G3004|“I tell]] [[G4771|you,]] [[G1453|get up,]] [[G142|pick up]] [[G4771|your]] [[G2895|mat,]] [[G2532|and]] [[G5217|go]] [[G3624|home.”]] ^0211
 
-And immediately Jesus, perceiving in his spirit that they thus questioned within themselves, said to them, Why do you question these things in your hearts? ^0208
+[[G2532|And]] [[G2112|immediately]] ⟨the man⟩ [[G1453|got up,]] [[G142|picked up]] ⟨his⟩ [[G3588|]] [[G2895|mat,]] ⟨and⟩ [[G1831|walked out]] [[G1715|in front of]] [[G3956|them all.]] [[G5620|As a result,]] [[G3956|everyone]] [[G1839|was amazed]] [[G2532|and]] [[G1392|glorified]] [[G2316|God,]] [[G3004|saying,]] [[G3708|“We have never seen]] [[G3779|anything like this!”]] ^0212
 
-Which is easier, to say to the paralytic, Your sins are forgiven, or to say, Rise, take up your bed and walk? ^0209
+⟨Once⟩ [[G2532|]] [[G3825|again]] ⟨Jesus⟩ [[G1831|went out]] [[G3844|beside]] [[G3588|the]] [[G2281|sea.]] [[G3956|All]] [[G3588|the]] [[G3793|people]] [[G2064|came]] [[G4314|to]] [[G846|Him,]] [[G2532|and]] [[G1321|He taught]] [[G846|them]] ⟨there⟩. ^0213
 
-But that you may know that the Son of Man has authority on earth to forgive sins —he said to the paralytic — ^0210
+[[G3855|As He was walking along,]] [[G3708|He saw]] [[G3018|Levi]] ⟨son⟩ [[G3588|]] [[G256|of Alphaeus]] [[G2521|sitting]] [[G1909|at]] [[G3588|the]] [[G5058|tax booth.]] [[G190|“Follow]] [[G1473|Me,”]] [[G3004|He told]] [[G846|him,]] [[G2532|and]] ⟨Levi⟩ [[G450|got up]] ⟨and⟩ [[G190|followed]] [[G846|Him.]] ^0214
 
-I say to you, rise, pick up your bed, and go home. ^0211
+[[G2532|While]] ⟨Jesus⟩ [[G846|]] [[G2621|was dining]] [[G1722|at]] ⟨Levi’s⟩ [[G846|]] [[G3614|house,]] [[G4183|many]] [[G5057|tax collectors]] [[G2532|and]] [[G268|sinners]] [[G4873|were eating with]] ⟨Him⟩ [[G2424|]] [[G2532|and]] [[G846|His]] [[G3101|disciples—]] [[G1063|for]] [[G1510|there were]] [[G4183|many]] [[G190|who followed]] [[G846|Him.]] ^0215
 
-And he rose and immediately picked up his bed and went out before them all, so that they were all amazed and glorified God, saying, We never saw anything like this! ^0212
+[[G2532|When]] [[G3588|the]] [[G1122|scribes]] [[G3588|who]] ⟨were⟩ [[G5330|Pharisees]] [[G3708|saw]] ⟨Jesus⟩ [[G3754|]] [[G2068|eating]] [[G3326|with]] ⟨these people⟩ [[G5057|,]] [[G2036|they asked]] [[G846|His]] [[G3101|disciples,]] [[G3754|“Why]] ⟨does⟩ [[G2068|He eat]] [[G3326|with]] [[G5057|tax collectors]] [[G2532|and]] [[G268|sinners?”]] ^0216
 
-He went out again beside the sea, and all the crowd was coming to him, and he was teaching them. ^0213
+⟨On⟩ [[G2532|]] [[G191|hearing this,]] [[G2424|Jesus]] [[G3004|told]] [[G846|them,]] [[G3756|“ not]] ⟨It is⟩ [[G3588|the]] [[G2480|healthy]] ⟨who⟩ [[G2192|]] [[G5532|need]] [[G2395|a doctor,]] [[G235|but]] [[G3588|the]] [[G2560|sick.]] [[G2064|I have not come]] [[G2564|to call]] [[G1342|the righteous,]] [[G235|but]] [[G268|sinners.”]] ^0217
 
-And as he passed by, he saw Levi the son of Alphaeus sitting at the tax booth, and he said to him, Follow me. And he rose and followed him. ^0214
+[[G2532|Now]] [[G2491|John’s]] [[G3101|disciples]] [[G2532|and]] [[G3588|the]] [[G5330|Pharisees]] [[G1510|were often]] [[G3522|fasting.]] [[G2532|So]] ⟨people⟩ [[G2064|came]] [[G846|to]] ⟨Jesus⟩ [[G2532|and]] [[G3004|asked,]] [[G1223|“Why]] [[G3756|don’t]] [[G4674|Your]] [[G3101|disciples]] [[G3522|fast]] ⟨like⟩ [[G2491|John’s]] [[G3101|disciples]] [[G2532|and]] ⟨those⟩ [[G3101|]] [[G3588|of the]] [[G5330|Pharisees?]] ^0218
 
-And as he reclined at table in his house, many tax collectors and sinners were reclining with Jesus and his disciples, for there were many who followed him. ^0215
+[[G2424|Jesus]] [[G2036|answered,]] [[G1410|“Can]] [[G3588|the]] [[G5207|guests]] [[G3588|of the]] [[G3567|bridegroom]] [[G3522|fast]] [[G3739|while]] ⟨He⟩ [[G3566|]] [[G1510|is]] [[G3326|with]] [[G846|them?]] [[G3745|As long as]] ⟨He is⟩ [[G3566|]] [[G3326|with]] [[G846|them,]] [[G1410|they cannot]] [[G3522|fast.]] ^0219
 
-And the scribes of the Pharisees, when they saw that he was eating with sinners and tax collectors, said to his disciples, Why does he eat with tax collectors and sinners? ^0216
+[[G1161|But]] [[G2250|the time]] [[G2064|will come]] [[G3752|when]] [[G3588|the]] [[G3566|bridegroom]] [[G522|will be taken away]] [[G575|from]] [[G846|them;]] [[G5119|then]] [[G3522|they will fast.]] ^0220
 
-And when Jesus heard it, he said to them, Those who are well have no need of a physician, but those who are sick. I came not to call the righteous, but sinners. ^0217
+[[G3762|No one]] [[G1976|sews]] [[G1915|a patch]] [[G46|of unshrunk]] [[G4470|cloth]] [[G1909|on]] [[G3820|an old]] [[G2440|garment.]] [[G1487|If he does,]] [[G3588|the]] ⟨new⟩ [[G4138|piece]] [[G142|will pull away]] [[G3588|from]] ⟨the⟩ [[G3820|old,]] [[G2532|and]] [[G5501|a worse]] [[G4978|tear]] [[G1096|will result.]] ^0221
 
-Now John’s disciples and the Pharisees were fasting. And people came and said to him, Why do John’s disciples and the disciples of the Pharisees fast, but your disciples do not fast? ^0218
+[[G2532|And]] [[G3762|no one]] [[G906|pours]] [[G3501|new]] [[G3631|wine]] [[G1519|into]] [[G3820|old]] [[G779|wineskins.]] [[G1487|If he does,]] [[G3588|the]] [[G3631|wine]] [[G4486|will burst]] [[G3588|the]] [[G779|skins,]] [[G2532|and]] ⟨both⟩ [[G3588|the]] [[G3631|wine]] [[G2532|and]] [[G3588|the]] [[G779|wineskins]] [[G622|will be ruined.]] [[G235|Instead,]] [[G3501|new]] [[G3631|wine]] ⟨is poured⟩ [[G1519|into]] [[G2537|new]] [[G779|wineskins.]] ^0222
 
-And Jesus said to them, Can the wedding guests fast while the bridegroom is with them? As long as they have the bridegroom with them, they cannot fast. ^0219
+[[G1722|One]] [[G4521|Sabbath]] ⟨Jesus⟩ [[G846|]] [[G3899|was going]] [[G1223|through]] [[G3588|the]] [[G4702|grainfields,]] [[G2532|and]] [[G846|His]] [[G3101|disciples]] [[G756|began]] [[G5089|to pick]] [[G3588|the]] [[G4719|heads of grain]] ⟨as⟩ [[G4160|they walked along.]] ^0223
 
-The days will come when the bridegroom is taken away from them, and then they will fast in that day. ^0220
+⟨So⟩ [[G2532|]] [[G3588|the]] [[G5330|Pharisees]] [[G2036|said]] [[G846|to Him,]] [[G2400|“Look,]] [[G5101|why]] [[G4160|are they doing]] [[G3739|what]] [[G1832|is unlawful]] [[G3588|on the]] [[G4521|Sabbath?”]] ^0224
 
-No one sews a piece of unshrunk cloth on an old garment. If he does, the patch tears away from it, the new from the old, and a worse tear is made. ^0221
+[[G2532|But]] ⟨Jesus⟩ [[G3004|replied,]] [[G314|“Have you never read]] [[G5101|what]] [[G1138|David]] [[G4160|did]] [[G3753|when]] [[G846|he]] [[G2532|and]] [[G3588|his companions]] [[G3983|were hungry]] [[G2532|and]] [[G5532|in need?]] ^0225
 
-And no one puts new wine into old wineskins. If he does, the wine will burst the skins — and the wine is destroyed, and so are the skins. But new wine is for fresh wineskins. ^0222
+[[G1909|During]] [[G749|the high priesthood]] [[G8|of Abiathar,]] [[G1525|he entered]] [[G3588|the]] [[G3624|house]] [[G2316|of God]] [[G2532|and]] [[G5315|ate]] [[G3588|the]] [[G740|consecrated bread,]] [[G3739|which]] [[G1832|was lawful]] [[G1487|only]] [[G3588|for the]] [[G2409|priests.]] [[G2532|And]] [[G1325|he gave]] ⟨some⟩ [[G3588|to his companions]] [[G2532|as well.”]] ^0226
 
-One Sabbath he was going through the grainfields, and as they made their way, his disciples began to pluck heads of grain. ^0223
+[[G2532|Then]] ⟨Jesus⟩ [[G2036|told]] [[G846|them,]] [[G3588|“The]] [[G4521|Sabbath]] [[G1096|was made]] [[G1223|for]] [[G444|man,]] [[G3756|not]] [[G444|man]] [[G1223|for]] [[G3588|the]] [[G4521|Sabbath.]] ^0227
 
-And the Pharisees were saying to him, Look, why are they doing what is not lawful on the Sabbath? ^0224
+[[G5620|Therefore,]] [[G3588|the]] [[G5207|Son]] [[G444|of Man]] [[G1510|is]] [[G2962|Lord]] [[G2532|even]] [[G3588|of the]] [[G4521|Sabbath.”]] ^0228
 
-And he said to them, Have you never read what David did, when he was in need and was hungry, he and those who were with him : ^0225
+[[G3825|Once again]] ⟨Jesus⟩ [[G1525|entered]] [[G3588|the]] [[G4864|synagogue,]] [[G2532|and]] [[G444|a man]] [[G2192|with]] [[G3588|a]] [[G3583|withered]] [[G5495|hand]] [[G1510|was]] [[G1563|there.]] ^0301
 
-how he entered the house of God, in the time of Abiathar the high priest, and ate the bread of the Presence, which it is not lawful for any but the priests to eat, and also gave it to those who were with him? ^0226
+[[G2443|In order to]] [[G2723|accuse]] [[G846|Him,]] [[G3906|they were watching]] ⟨to see⟩ [[G1487|if]] [[G2323|He would heal]] [[G3588|on the]] [[G4521|Sabbath.]] ^0302
 
-And he said to them, The Sabbath was made for man, not man for the Sabbath. ^0227
+[[G2532|Then]] ⟨Jesus⟩ [[G3004|said]] [[G3588|to the]] [[G444|man]] [[G2192|with]] [[G3588|the]] [[G3584|withered]] [[G5495|hand,]] [[G1453|“Stand up]] [[G3319|among.”]] ⟨us⟩ ^0303
 
-So the Son of Man is lord even of the Sabbath. ^0228
+[[G2532|And]] [[G3004|He asked]] [[G846|them,]] [[G1832|“Which is lawful]] [[G3588|on the]] [[G4521|Sabbath:]] [[G15|to do good]] [[G2228|or]] [[G2554|to do evil,]] [[G4982|to save]] [[G5590|life]] [[G2228|or]] [[G615|to destroy?”]] ⟨it⟩ [[G1161|But]] [[G4623|they were silent.]] ^0304
 
+⟨Jesus⟩ [[G4017|looked around at]] [[G846|them]] [[G3326|with]] [[G3709|anger]] ⟨and⟩ [[G4818|sorrow]] [[G1909|at]] ⟨their⟩ [[G3588|]] [[G4457|hardness]] [[G3588|of]] [[G2588|heart.]] [[G2532|Then]] [[G3004|He said]] [[G3588|to the]] [[G444|man,]] [[G1614|“Stretch out]] [[G4771|your]] [[G5495|hand.”]] [[G1614|So he stretched out,]] ⟨it⟩ [[G2532|and]] ⟨it⟩ [[G5495|]] [[G600|was restored.]] ^0305
 
+[[G2532|At this,]] [[G3588|the]] [[G5330|Pharisees]] [[G1831|went out]] ⟨and⟩ [[G1325|plotted]] [[G3326|with]] [[G3588|the]] [[G2265|Herodians]] [[G3704|how]] [[G622|they might kill]] ⟨Jesus⟩ [[G846|.]] ^0306
 
-Again he entered the synagogue, and a man was there with a withered hand. ^0301
+⟨So⟩ [[G2532|]] [[G2424|Jesus]] [[G402|withdrew]] [[G3326|with]] [[G846|His]] [[G3101|disciples]] [[G4314|to]] [[G3588|the]] [[G2281|sea,]] [[G190|accompanied by]] [[G4183|a large]] [[G4128|crowd]] [[G575|from]] [[G1056|Galilee,]] [[G2449|Judea,]] ^0307
 
-And they watched Jesus, to see whether he would heal him on the Sabbath, so that they might accuse him. ^0302
+[[G2414|Jerusalem,]] [[G2401|Idumea,]] [[G4008|the region beyond]] [[G3588|the]] [[G2446|Jordan,]] [[G2532|and]] [[G4012|the vicinity of]] [[G5184|Tyre]] [[G2532|and]] [[G4605|Sidon.]] ⟨The⟩ [[G4183|large]] [[G4128|crowd]] [[G2064|came]] [[G4314|to]] [[G846|Him]] [[G191|when they heard]] [[G3745|what great things]] [[G4160|He was doing.]] ^0308
 
-And he said to the man with the withered hand, Come here. ^0303
+⟨Jesus⟩ [[G2036|asked]] [[G846|His]] [[G3101|disciples]] [[G2443|to]] ⟨have⟩ [[G4142|a boat]] [[G4342|ready]] [[G846|for Him]] [[G2443|so that]] [[G3588|the]] [[G3793|crowd]] [[G2346|would not crush]] [[G846|Him.]] ^0309
 
-And he said to them, Is it lawful on the Sabbath to do good or to do harm, to save life or to kill? But they were silent. ^0304
+[[G1063|For]] [[G2323|He had healed]] [[G4183|so many]] [[G5620|that]] [[G3745|all]] [[G2192|who had]] [[G3148|diseases]] [[G1968|were pressing forward]] [[G2443|to]] [[G680|touch]] [[G846|Him.]] ^0310
 
-And he looked around at them with anger, grieved at their hardness of heart, and said to the man, Stretch out your hand. He stretched it out, and his hand was restored. ^0305
+[[G2532|And when]] [[G3588|the]] [[G169|unclean]] [[G4151|spirits]] [[G2334|saw]] [[G846|Him,]] [[G4363|they fell down before]] [[G846|Him]] [[G2532|and]] [[G2896|cried out,]] [[G4771|“You]] [[G1510|are]] [[G3588|the]] [[G5207|Son]] [[G2316|of God!”]] ^0311
 
-The Pharisees went out and immediately held counsel with the Herodians against him, how to destroy him. ^0306
+[[G2532|But]] [[G2008|He ordered]] [[G846|them]] [[G4183|sternly]] [[G3361|not]] [[G2443|to]] [[G4160|make]] [[G846|Him]] [[G5318|known.]] ^0312
 
-Jesus withdrew with his disciples to the sea, and a great crowd followed, from Galilee and Judea ^0307
+[[G2532|Then]] ⟨Jesus⟩ [[G305|went up]] [[G1519|on]] [[G3588|the]] [[G3735|mountain]] [[G2532|and]] [[G4341|called for]] [[G3739|those]] [[G846|He]] [[G2309|wanted,]] [[G2532|and]] [[G565|they came]] [[G4314|to]] [[G846|Him.]] ^0313
 
-and Jerusalem and Idumea and from beyond the Jordan and from around Tyre and Sidon. When the great crowd heard all that he was doing, they came to him. ^0308
+[[G4160|He appointed]] [[G1427|twelve]] ⟨of them⟩ [[G3739|]] ⟨whom⟩ [[G2532|]] [[G3687|He designated as]] [[G652|apostles,]] [[G2443|to]] [[G1510|accompany]] [[G846|Him,]] [[G2443|to]] [[G649|be sent out]] [[G2784|to preach,]] ^0314
 
-And he told his disciples to have a boat ready for him because of the crowd, lest they crush him, ^0309
+[[G2532|and]] [[G2192|to have]] [[G1849|authority]] [[G1544|to drive out]] [[G1140|demons.]] ^0315
 
-for he had healed many, so that all who had diseases pressed around him to touch him. ^0310
+⟨These are⟩ [[G3588|the]] [[G1427|twelve]] [[G4160|He appointed:]] [[G4613|Simon]] [[G2007|(whom He named]] [[G4074|Peter),]] ^0316
 
-And whenever the unclean spirits saw him, they fell down before him and cried out, You are the Son of God. ^0311
+[[G2385|James]] ⟨son⟩ [[G3588|]] [[G3588|of]] [[G2199|Zebedee]] [[G2532|and]] [[G2385|his]] [[G80|brother]] [[G2491|John]] [[G846|(]] ⟨whom⟩ [[G3686|He named]] [[G993|Boanerges,]] [[G1510|meaning]] [[G5207|Sons]] [[G1027|of Thunder),]] ^0317
 
-And he strictly ordered them not to make him known. ^0312
+[[G406|Andrew,]] [[G5376|Philip,]] [[G918|Bartholomew,]] [[G3156|Matthew,]] [[G2381|Thomas,]] [[G2385|James]] ⟨son⟩ [[G3588|]] [[G256|of Alphaeus,]] [[G2280|Thaddaeus,]] [[G4613|Simon]] [[G3588|the]] [[G2581|Zealot,]] ^0318
 
-And he went up on the mountain and called to him those whom he desired, and they came to him. ^0313
+[[G2532|and]] [[G2455|Judas]] [[G2469|Iscariot,]] [[G3739|who]] [[G2532|later]] [[G3860|betrayed]] [[G846|Him.]] ^0319
 
-And he appointed twelve ( whom he also named apostles ) so that they might be with him and he might send them out to preach ^0314
+[[G2532|Then]] ⟨Jesus⟩ [[G2064|went]] [[G3624|home,]] [[G2532|and]] [[G3825|once again]] [[G3588|a]] [[G3793|crowd]] [[G4905|gathered,]] [[G5620|so that]] ⟨He and His disciples⟩ [[G1410|could]] [[G3361|not]] [[G3366|even]] [[G5315|eat.]] ^0320
 
-and have authority to cast out demons. ^0315
+⟨When⟩ [[G2532|]] [[G3844|His family]] [[G191|heard]] ⟨about this⟩, [[G1831|they went out]] [[G2902|to take custody]] [[G846|of Him,]] [[G2036|saying,]] [[G1839|“He is out of His mind.”]] ^0321
 
-He appointed the twelve : Simon (to whom he gave the name Peter ); ^0316
+[[G2532|And]] [[G3588|the]] [[G1122|scribes]] [[G3588|who]] [[G2597|had come down]] [[G575|from]] [[G2414|Jerusalem]] [[G2036|were saying,]] [[G2192|“He is possessed]] [[G954|by Beelzebul,”]] [[G2532|and,]] [[G1722|“By]] [[G3588|the]] [[G758|prince]] [[G3588|of the]] [[G1140|demons]] [[G1544|He drives out]] [[G1140|demons.”]] ^0322
 
-James the son of Zebedee and John the brother of James (to whom he gave the name Boanerges, that is, Sons of Thunder ); ^0317
+[[G2532|So]] ⟨Jesus⟩ [[G4341|called them together]] ⟨and⟩ [[G2036|began to speak]] [[G846|to them]] [[G1722|in]] [[G3850|parables:]] [[G4459|“How]] [[G1410|can]] [[G4567|Satan]] [[G1544|drive out]] [[G4567|Satan?]] ^0323
 
-Andrew, and Philip, and Bartholomew, and Matthew, and Thomas, and James the son of Alphaeus, and Thaddaeus, and Simon the Zealot, ^0318
+[[G1437|If]] [[G932|a kingdom]] [[G3307|is divided]] [[G1909|against]] [[G1438|itself,]] ⟨it⟩ [[G932|]] [[G1410|cannot]] [[G2476|stand.]] ^0324
 
-and Judas Iscariot, who betrayed him. ^0319
+[[G1437|If]] [[G3614|a house]] [[G3307|is divided]] [[G1909|against]] [[G1438|itself,]] ⟨it⟩ [[G3614|]] [[G1410|cannot]] [[G2476|stand.]] ^0325
 
-Then he went home, and the crowd gathered again, so that they could not even eat. ^0320
+[[G2532|And]] [[G1487|if]] [[G4567|Satan]] [[G3307|is divided]] [[G2532|and]] [[G450|rises]] [[G1909|against]] [[G1438|himself,]] [[G1410|he cannot]] [[G2476|stand;]] ⟨his⟩ [[G5056|end]] [[G2192|has come.]] ^0326
 
-And when his family heard it, they went out to seize him, for they were saying, He is out of his mind. ^0321
+[[G235|Indeed,]] [[G3762|no one]] [[G1410|can]] [[G1525|enter]] [[G2478|a strong man’s]] [[G3614|house]] [[G1283|to steal]] [[G846|his]] [[G4632|possessions]] [[G1437|unless]] [[G1210|he first ties up]] [[G3588|the]] [[G2478|strong man.]] [[G5119|Then]] [[G1283|he can plunder]] [[G846|his]] [[G3614|house.]] ^0327
 
-And the scribes who came down from Jerusalem were saying, He is possessed by Beelzebul, and by the prince of demons he casts out the demons. ^0322
+[[G281|Truly]] [[G3004|I tell]] [[G4771|you,]] [[G3588|the]] [[G5207|sons]] [[G444|of men]] [[G863|will be forgiven]] [[G3956|all]] [[G265|sins]] [[G2532|and]] [[G988|blasphemies,]] [[G3745|as many as]] [[G987|they utter.]] ^0328
 
-And he called them to him and said to them in parables, How can Satan cast out Satan? ^0323
+[[G1161|But]] [[G3739|whoever]] [[G987|blasphemes]] [[G1519|against]] [[G3588|the]] [[G40|Holy]] [[G4151|Spirit]] ⟨will⟩ [[G3756|never]] [[G2192|be]] [[G859|forgiven;]] [[G1510|he is]] [[G1777|guilty]] ⟨of⟩ [[G166|eternal]] [[G265|sin.”]] ^0329
 
-If a kingdom is divided against itself, that kingdom cannot stand. ^0324
+⟨Jesus made this statement⟩ [[G3754|because]] [[G2036|they were claiming,]] [[G2192|“He has]] [[G169|an unclean]] [[G4151|spirit.”]] ^0330
 
-And if a house is divided against itself, that house will not be able to stand. ^0325
+[[G2532|Then]] ⟨Jesus’⟩ [[G846|]] [[G3384|mother]] [[G2532|and]] [[G80|brothers]] [[G2064|came]] [[G2532|and]] [[G4739|stood]] [[G1854|outside.]] [[G649|They sent in]] ⟨someone⟩ [[G4314|to]] [[G2564|summon]] [[G846|Him,]] ^0331
 
-And if Satan has risen up against himself and is divided, he cannot stand, but is coming to an end. ^0326
+[[G2532|and]] [[G3793|a crowd]] [[G2521|was sitting]] [[G4012|around]] [[G846|Him.]] [[G2400|“Look,”]] [[G3004|He was told,]] [[G4771|“Your]] [[G3384|mother]] [[G2532|and]] [[G80|brothers]] [[G1854|are outside,]] [[G2212|asking for]] [[G4771|You.”]] ^0332
 
-But no one can enter a strong man’s house and plunder his goods, unless he first binds the strong man. Then indeed he may plunder his house. ^0327
+[[G2532|But]] ⟨Jesus⟩ [[G611|replied,]] [[G5101|“Who]] [[G1510|are]] [[G1473|My]] [[G3384|mother]] [[G2532|and]] [[G1473|My]] [[G80|brothers?”]] ^0333
 
-Truly, I say to you, all sins will be forgiven the children of man, and whatever blasphemies they utter, ^0328
+[[G4017|Looking at]] [[G3588|those]] [[G2521|seated]] [[G2945|in a circle]] [[G4012|around]] [[G846|Him,]] [[G3004|He said,]] [[G2400|“Here]] ⟨are⟩ [[G1473|My]] [[G3384|mother]] [[G2532|and]] [[G1473|My]] [[G80|brothers!]] ^0334
 
-but whoever blasphemes against the Holy Spirit never has forgiveness, but is guilty of an eternal sin — ^0329
+[[G1063|For]] [[G3739|whoever]] [[G4160|does]] [[G3588|the]] [[G2307|will]] [[G2316|of God]] [[G1510|is]] [[G1473|My]] [[G80|brother]] [[G2532|and]] [[G79|sister]] [[G2532|and]] [[G3384|mother.”]] ^0335
 
-for they were saying, He has an unclean spirit. ^0330
+⟨Once⟩ [[G2532|]] [[G3825|again,]] ⟨Jesus⟩ [[G756|began]] [[G1321|to teach]] [[G3844|beside]] [[G3588|the]] [[G2281|sea,]] [[G2532|and]] ⟨such⟩ [[G4118|a large]] [[G3793|crowd]] [[G4863|gathered]] [[G4314|around]] [[G846|Him]] [[G5620|that]] [[G846|He]] [[G1684|got into]] [[G4143|a boat]] ⟨and⟩ [[G2521|sat]] [[G1722|in]] ⟨it⟩ [[G2281|.]] [[G3956|All]] [[G3588|the]] [[G3793|people]] [[G1510|crowded]] [[G1909|along]] [[G3588|the]] [[G1093|shore,]] ^0401
 
-And his mother and his brothers came, and standing outside they sent to him and called him. ^0331
+[[G2532|and]] [[G1321|He taught]] [[G846|them]] [[G4183|many things]] [[G1722|in]] [[G3850|parables.]] [[G2532|And]] [[G1722|in]] [[G846|His]] [[G1322|teaching]] [[G2036|He said,]] ^0402
 
-And a crowd was sitting around him, and they said to him, Your mother and your brothers are outside, seeking you. ^0332
+[[G191|“Listen!]] [[G3588|A]] [[G4687|farmer]] [[G1831|went out]] [[G4687|to sow his seed.]] ^0403
 
-And he answered them, Who are my mother and my brothers? ^0333
+[[G1722|As]] [[G4687|he was sowing,]] [[G3739|some]] ⟨seed⟩ [[G4098|fell]] [[G3844|along]] [[G3588|the]] [[G3598|path,]] [[G2532|and]] [[G3588|the]] [[G4071|birds]] [[G2064|came]] [[G2532|and]] [[G2719|devoured]] [[G846|it.]] ^0404
 
-And looking about at those who sat around him, he said, Here are my mother and my brothers! ^0334
+[[G243|Other]] ⟨seed⟩ [[G4098|fell]] [[G1909|on]] [[G4075|rocky ground,]] [[G3699|where]] [[G2192|it did not have]] [[G4183|much]] [[G1093|soil.]] [[G1816|It sprang up]] [[G2112|quickly,]] [[G1223|because]] [[G1093|the soil]] [[G3361|was shallow.]] ^0405
 
-For whoever does the will of God, he is my brother and sister and mother. ^0335
+[[G2532|But]] [[G3753|when]] [[G3588|the]] [[G2246|sun]] [[G393|rose,]] ⟨the seedlings⟩ [[G2739|were scorched,]] [[G2532|and]] [[G3583|they withered]] [[G1223|because]] [[G2192|they had]] [[G3361|no]] [[G4491|root.]] ^0406
 
+[[G243|Other]] ⟨seed⟩ [[G4098|fell]] [[G1519|among]] [[G173|thorns,]] ⟨which⟩ [[G173|]] [[G305|grew up]] [[G2532|and]] [[G4846|choked]] ⟨the seedlings⟩ [[G846|,]] [[G2532|and]] ⟨they⟩ [[G1325|yielded]] [[G3756|no]] [[G2590|crop.]] ^0407
 
+[[G2532|Still]] [[G243|other]] ⟨seed⟩ [[G4098|fell]] [[G1519|on]] [[G2570|good]] [[G1093|soil,]] ⟨where it⟩ [[G305|sprouted,]] [[G837|grew up,]] [[G2532|and]] [[G1325|produced]] [[G2590|a crop—]] [[G1520|one]] [[G5342|bearing]] [[G5144|thirtyfold,]] [[G1520|another]] [[G1835|sixtyfold,]] [[G2532|and]] [[G1520|another]] [[G1540|a hundredfold.”]] ^0408
 
-Again he began to teach beside the sea. And a very large crowd gathered about him, so that he got into a boat and sat in it on the sea, and the whole crowd was beside the sea on the land. ^0401
+[[G2532|Then]] ⟨Jesus⟩ [[G2036|said,]] [[G3739|“He who]] [[G2192|has]] [[G3775|ears]] [[G191|to hear,]] [[G191|let him hear.”]] ^0409
 
-And he was teaching them many things in parables, and in his teaching he said to them : ^0402
+[[G2532|As soon as]] ⟨Jesus⟩ [[G1096|was]] [[G3441|alone]] ⟨with⟩ [[G3588|the]] [[G1427|Twelve]] [[G4862|and]] [[G3588|those]] [[G4012|around]] [[G846|Him,]] [[G2065|they asked]] [[G846|Him]] ⟨about⟩ [[G3588|the]] [[G3850|parable.]] ^0410
 
-Listen! Behold, a sower went out to sow. ^0403
+[[G2532|And]] [[G2036|He told]] [[G846|them,]] [[G3588|“The]] [[G3466|mystery]] [[G3588|of the]] [[G932|kingdom]] [[G2316|of God]] [[G1325|has been given]] [[G4771|to you,]] [[G1161|but]] [[G1565|to those]] [[G1854|on the outside,]] [[G3956|everything]] [[G1096|is expressed]] [[G1722|in]] [[G3850|parables,]] ^0411
 
-And as he sowed, some seed fell along the path, and the birds came and devoured it. ^0404
+[[G2443|so that,]] [[G991|‘they may be ever seeing]] ⟨but⟩ [[G2532|]] [[G3361|never]] [[G3708|perceiving,]] [[G2532|and]] [[G191|ever hearing]] ⟨but⟩ [[G2532|]] [[G3361|never]] [[G4920|understanding;]] [[G3361|otherwise]] [[G1994|they might turn]] [[G2532|and]] [[G863|be forgiven.’”]] ^0412
 
-Other seed fell on rocky ground, where it did not have much soil, and immediately it sprang up, since it had no depth of soil. ^0405
+[[G2532|Then]] ⟨Jesus⟩ [[G3004|said]] [[G846|to them,]] [[G1492|“Do you not understand]] [[G3778|this]] [[G3850|parable?]] [[G2532|Then]] [[G4459|how]] [[G1097|will you understand]] ⟨any of⟩ [[G3956|]] [[G3588|the]] [[G3850|parables?]] ^0413
 
-And when the sun rose, it was scorched, and since it had no root, it withered away. ^0406
+[[G3588|The]] [[G4687|farmer]] [[G4687|sows]] [[G3588|the]] [[G3056|word.]] ^0414
 
-Other seed fell among thorns, and the thorns grew up and choked it, and it yielded no grain. ^0407
+⟨Some⟩ [[G3778|]] [[G1510|are like]] [[G3588|the]] ⟨seeds⟩ [[G3844|along]] [[G3588|the]] [[G3598|path,]] [[G3699|where]] [[G3588|the]] [[G3056|word]] [[G4687|is sown.]] [[G2112|As soon as]] [[G191|they hear]] ⟨it⟩, [[G4567|Satan]] [[G2064|comes]] [[G2532|and]] [[G142|takes away]] [[G3588|the]] [[G3056|word]] [[G3588|that]] [[G4687|was sown]] [[G1519|in]] [[G846|them.]] ^0415
 
-And other seeds fell into good soil and produced grain, growing up and increasing and yielding thirtyfold and sixtyfold and a hundredfold. ^0408
+⟨Others⟩ [[G3778|]] [[G1510|are]] [[G3668|like]] [[G3588|the]] ⟨seeds⟩ [[G4687|sown]] [[G1909|on]] [[G4075|rocky places.]] ⟨They⟩ [[G3739|]] [[G191|hear]] [[G3588|the]] [[G3056|word]] ⟨and⟩ [[G2112|at once]] [[G2983|receive]] [[G846|it]] [[G3326|with]] [[G5479|joy.]] ^0416
 
-And he said, He who has ears to hear, let him hear. ^0409
+[[G2532|But]] [[G2192|they themselves have]] [[G3756|no]] [[G4491|root,]] ⟨and⟩ [[G235|]] [[G1510|they remain]] [[G4340|for only a season.]] [[G1534|When]] [[G2347|trouble]] [[G2228|or]] [[G1375|persecution]] [[G1096|comes]] [[G1223|because of]] [[G3588|the]] [[G3056|word,]] [[G4624|they quickly fall away.]] ^0417
 
-And when he was alone, those around him with the twelve asked him about the parables. ^0410
+[[G2532|Still]] ⟨others⟩ [[G243|]] [[G1510|are like]] [[G3588|the]] ⟨seeds⟩ [[G4687|sown]] [[G1519|among]] [[G3588|the]] [[G173|thorns.]] ⟨They⟩ [[G3778|]] [[G191|hear]] [[G3588|the]] [[G3056|word,]] ^0418
 
-And he said to them, To you has been given the secret of the kingdom of God, but for those outside everything is in parables, ^0411
+[[G2532|but]] [[G3588|the]] [[G3308|cares]] [[G165|of this life,]] [[G3588|the]] [[G539|deceitfulness]] [[G3588|of]] [[G4149|wealth,]] [[G2532|and]] [[G3588|the]] [[G1939|desire]] [[G4012|for]] [[G3062|other things]] [[G1531|come in]] ⟨and⟩ [[G4846|choke]] [[G3588|the]] [[G3056|word,]] [[G2532|and]] [[G1096|it becomes]] [[G175|unfruitful.]] ^0419
 
-so that they may indeed see but not perceive, and may indeed hear but not understand, lest they should turn and be forgiven. ^0412
+[[G2532|Yet]] ⟨others⟩ [[G1565|]] [[G1510|are like]] [[G3588|the]] ⟨seeds⟩ [[G4687|sown]] [[G1909|on]] [[G2570|good]] [[G1093|soil.]] ⟨They⟩ [[G3748|]] [[G191|hear]] [[G3588|the]] [[G3056|word,]] [[G3858|receive]] ⟨it⟩, [[G2532|and]] [[G2592|produce a crop—]] [[G5144|thirtyfold,]] [[G1835|sixtyfold,]] ⟨or⟩ [[G2532|]] [[G1520|a]] [[G1540|hundredfold.”]] ^0420
 
-And he said to them, Do you not understand this parable? How then will you understand all the parables? ^0413
+⟨Jesus⟩ [[G2036|also said]] [[G846|to them,]] [[G2064|“Does bring in]] ⟨anyone⟩ [[G3588|a]] [[G3088|lamp]] [[G2443|so]] [[G5087|he can place]] ⟨it⟩ [[G5259|under]] [[G3426|a basket]] [[G2228|or]] [[G5259|under]] [[G2825|a bed?]] [[G3756|Doesn’t he]] [[G5087|set it]] [[G1909|on]] [[G3087|a lampstand?]] ^0421
 
-The sower sows the word. ^0414
+[[G1063|For]] ⟨everything⟩ [[G3756|]] [[G2927|hidden]] [[G1510|is]] [[G1437|meant]] [[G2443|to]] [[G5319|be revealed,]] ⟨and everything⟩ [[G3761|]] [[G1096|concealed]] [[G235|is meant]] [[G2064|to be brought]] [[G1519|to]] [[G5318|light.]] ^0422
 
-And these are the ones along the path, where the word is sown : when they hear, Satan immediately comes and takes away the word that is sown in them. ^0415
+[[G1487|If]] [[G5100|anyone]] [[G2192|has]] [[G3775|ears]] [[G191|to hear,]] [[G191|let him hear.”]] ^0423
 
-And these are the ones sown on rocky ground : the ones who, when they hear the word, immediately receive it with joy. ^0416
+[[G2036|He went on to say,]] [[G991|“Pay attention to]] [[G5101|what]] [[G191|you hear.]] [[G1722|With]] ⟨the⟩ [[G3739|]] [[G3358|measure]] [[G3354|you]] ⟨use⟩, [[G3354|it will be measured]] [[G4771|to you,]] [[G2532|and]] [[G4369|even more will be added]] [[G4771|to you.]] ^0424
 
-And they have no root in themselves, but endure for a while; then, when tribulation or persecution arises on account of the word, immediately they fall away. ^0417
+[[G1063|For]] [[G3739|whoever]] [[G2192|has]] [[G1325|will be given]] ⟨more⟩ [[G846|,]] ⟨but⟩ [[G2532|]] [[G3739|whoever]] [[G2192|does not have,]] [[G2532|even]] [[G3739|what]] [[G2192|he has]] [[G142|will be taken away]] [[G575|from]] [[G846|him.”]] ^0425
 
-And others are the ones sown among thorns. They are those who hear the word, ^0418
+⟨Jesus⟩ [[G2036|also said,]] [[G3588|“The]] [[G932|kingdom]] [[G2316|of God]] [[G1510|is]] [[G3779|like]] [[G444|a man]] [[G906|who scatters]] [[G4703|seed]] [[G1909|on]] [[G3588|the]] [[G1093|ground.]] ^0426
 
-but the cares of the world and the deceitfulness of riches and the desires for other things enter in and choke the word, and it proves unfruitful. ^0419
+[[G3571|Night]] [[G2532|and]] [[G2250|day]] [[G2518|he sleeps]] [[G2532|and]] [[G1453|wakes,]] [[G2532|and]] [[G3588|the]] [[G4703|seed]] [[G985|sprouts]] [[G2532|and]] [[G3373|grows,]] ⟨though⟩ [[G846|he]] [[G1492|knows]] [[G3756|not]] [[G5613|how.]] ^0427
 
-But those that were sown on the good soil are the ones who hear the word and accept it and bear fruit, thirtyfold and sixtyfold and a hundredfold. ^0420
+[[G844|All by itself]] [[G3588|the]] [[G1093|earth]] [[G2592|produces a crop—]] [[G4412|first]] ⟨the⟩ [[G5528|stalk,]] [[G1534|then]] ⟨the⟩ [[G4719|head,]] [[G1534|then]] [[G4621|grain]] ⟨that⟩ [[G4134|ripens]] [[G1722|within.]] ^0428
 
-And he said to them, Is a lamp brought in to be put under a basket, or under a bed, and not on a stand? ^0421
+[[G1161|And]] [[G2112|as soon as]] [[G3588|the]] [[G2590|grain]] [[G3860|is ripe,]] [[G649|he swings]] [[G3588|the]] [[G1407|sickle,]] [[G3754|because]] [[G3588|the]] [[G2326|harvest]] [[G3936|has come.”]] ^0429
 
-For nothing is hidden except to be made manifest; nor is anything secret except to come to light. ^0422
+[[G2532|Then]] [[G2036|He asked,]] [[G4459|“To what]] [[G3666|can we compare]] [[G3588|the]] [[G932|kingdom]] [[G2316|of God?]] [[G1722|With]] [[G5101|what]] [[G3850|parable]] [[G5087|shall we present]] [[G846|it?]] ^0430
 
-If anyone has ears to hear, let him hear. ^0423
+[[G5613|It is like]] [[G2848|a mustard seed,]] [[G3739|which]] [[G1510|is]] ⟨the⟩ [[G3398|smallest]] [[G3956|of all]] [[G4690|seeds]] [[G4687|sown]] [[G1909|upon]] [[G3588|the]] [[G1093|earth.]] ^0431
 
-And he said to them, Pay attention to what you hear : with the measure you use, it will be measured to you, and still more will be added to you. ^0424
+[[G2532|But]] [[G3752|after]] [[G4687|it is planted,]] [[G305|it grows]] [[G1096|to be]] [[G3173|larger]] [[G3956|than all]] [[G3001|garden plants]] [[G2532|and]] [[G4160|puts forth]] [[G3173|great]] [[G2798|branches,]] [[G5620|so that]] [[G3588|the]] [[G4071|birds]] [[G3588|of the]] [[G3772|air]] [[G2681|nest]] [[G5259|in]] [[G846|its]] [[G4639|shade.]] ^0432
 
-For to the one who has, more will be given, and from the one who has not, even what he has will be taken away. ^0425
+[[G4183|With many such]] [[G3850|parables]] ⟨Jesus⟩ [[G2980|spoke]] [[G3588|the]] [[G3056|word]] [[G846|to them,]] [[G2531|to the extent that]] [[G1410|they could]] [[G191|understand.]] ^0433
 
-And he said, The kingdom of God is as if a man should scatter seed on the ground. ^0426
+[[G2980|He did not say]] ⟨anything⟩ [[G846|to them]] [[G5565|without]] [[G3850|a parable.]] [[G1161|But]] [[G2398|privately]] [[G1956|He explained]] [[G3956|all things]] [[G3588|to His]] [[G2398|own]] [[G3101|disciples.]] ^0434
 
-He sleeps and rises night and day, and the seed sprouts and grows; he knows not how. ^0427
+[[G2532|When]] [[G1565|that]] [[G3798|evening came,]] [[G3004|He said]] [[G846|to]] ⟨His disciples⟩, [[G1330|“Let us go across]] [[G1519|to]] [[G3588|the]] [[G4008|other side.”]] ^0435
 
-The earth produces by itself, first the blade, then the ear, then the full grain in the ear. ^0428
+[[G2532|After]] [[G863|they had dismissed]] [[G3588|the]] [[G3793|crowd,]] [[G3880|they took with them,]] ⟨Jesus⟩ [[G5613|since]] [[G1510|He was already]] [[G1722|in]] [[G3588|the]] [[G4143|boat.]] [[G2532|And]] [[G1510|there were]] [[G243|other]] [[G4143|boats]] [[G3326|with]] [[G846|Him.]] ^0436
 
-But when the grain is ripe, at once he puts in the sickle, because the harvest has come. ^0429
+[[G2532|Soon]] [[G3173|a violent]] [[G2978|windstorm]] [[G1096|came up,]] [[G2532|and]] [[G3588|the]] [[G2949|waves]] [[G1911|were breaking]] [[G1519|over]] [[G3588|the]] [[G4143|boat,]] [[G5620|so that]] ⟨it⟩ [[G4143|]] [[G1072|was being swamped.]] ^0437
 
-And he said, With what can we compare the kingdom of God, or what parable shall we use for it? ^0430
+[[G2532|But]] ⟨Jesus⟩ [[G846|]] [[G1510|was]] [[G1722|in]] [[G3588|the]] [[G4403|stern,]] [[G2518|sleeping]] [[G1909|on]] [[G3588|the]] [[G4344|cushion.]] ⟨So⟩ [[G2532|]] [[G1453|they woke]] [[G846|Him]] [[G2532|and]] [[G3004|said,]] [[G1320|“Teacher,]] [[G3199|don’t You care]] [[G3754|that]] [[G622|we are perishing?”]] ^0438
 
-It is like a grain of mustard seed, which, when sown on the ground, is the smallest of all the seeds on earth, ^0431
+[[G2532|Then]] ⟨Jesus⟩ [[G1326|got up]] ⟨and⟩ [[G2008|rebuked]] [[G3588|the]] [[G417|wind]] [[G2532|and]] [[G3588|the]] [[G2281|sea.]] [[G4623|“Silence!”]] [[G2036|He commanded.]] [[G5392|“Be still!”]] [[G2532|And]] [[G3588|the]] [[G417|wind]] [[G2869|died down,]] [[G2532|and]] [[G1096|it was]] [[G3173|perfectly]] [[G1055|calm.]] ^0439
 
-yet when it is sown it grows up and becomes larger than all the garden plants and puts out large branches, so that the birds of the air can make nests in its shade. ^0432
+[[G5101|“Why]] [[G1510|are you]] [[G1169|so afraid?”]] [[G2036|He asked.]] [[G2192|“Do you still have no]] [[G4102|faith?”]] ^0440
 
-With many such parables he spoke the word to them, as they were able to hear it. ^0433
+[[G5399|Overwhelmed with fear,]] [[G2036|they asked]] [[G240|one another,]] [[G5101|“Who]] [[G1510|is]] [[G3778|this,]] [[G3754|that]] [[G2532|even]] [[G3588|the]] [[G417|wind]] [[G2532|and]] [[G3588|the]] [[G2281|sea]] [[G5219|obey]] [[G846|Him?”]] ^0441
 
-He did not speak to them without a parable, but privately to his own disciples he explained everything. ^0434
+[[G1519|On]] [[G3588|the]] [[G4008|other side]] [[G3588|of the]] [[G2281|sea,]] [[G2064|they arrived]] [[G1519|in]] [[G3588|the]] [[G5561|region]] [[G3588|of the]] [[G1086|Gerasenes.]] ^0501
 
-On that day, when evening had come, he said to them, Let us go across to the other side. ^0435
+[[G2532|As soon as]] ⟨Jesus⟩ [[G846|]] [[G1831|got]] [[G1537|out of]] [[G3588|the]] [[G4143|boat,]] [[G444|a man]] [[G1722|with]] [[G169|an unclean]] [[G4151|spirit]] ⟨came⟩ [[G1537|from]] [[G3588|the]] [[G3419|tombs]] ⟨and⟩ [[G5221|met]] [[G846|Him.]] ^0502
 
-And leaving the crowd, they took him with them in the boat, just as he was. And other boats were with him. ^0436
+⟨He⟩ [[G3739|]] [[G2192|had]] [[G2731|been living]] [[G1722|in]] [[G3588|the]] [[G3418|tombs]] [[G2532|and]] [[G1410|could]] [[G3765|no longer]] [[G1210|be restrained,]] ⟨even⟩ [[G3761|]] [[G254|with chains.]] ^0503
 
-And a great windstorm arose, and the waves were breaking into the boat, so that the boat was already filling. ^0437
+⟨Though⟩ [[G1223|]] [[G846|he]] ⟨was⟩ [[G4178|often]] [[G1210|bound]] [[G254|with chains]] [[G2532|and]] [[G3976|shackles,]] [[G1288|he had broken]] [[G3588|the]] [[G254|chains]] [[G2532|and]] [[G4937|shattered]] [[G3588|the]] [[G3976|shackles.]] [[G2532|Now]] [[G3762|no one]] [[G2480|had the strength]] [[G1150|to subdue]] [[G846|him.]] ^0504
 
-But he was in the stern, asleep on the cushion. And they woke him and said to him, Teacher, do you not care that we are perishing? ^0438
+[[G3571|Night]] [[G2532|and]] [[G2250|day]] [[G1722|in]] [[G3588|the]] [[G3418|tombs]] [[G2532|and]] [[G1722|in]] [[G3588|the]] [[G3735|mountains,]] [[G1510|he]] [[G1223|kept]] [[G2896|crying out]] [[G2532|and]] [[G2629|cutting]] [[G1438|himself]] [[G3037|with stones.]] ^0505
 
-And he awoke and rebuked the wind and said to the sea, Peace! Be still! And the wind ceased, and there was a great calm. ^0439
+[[G2532|When]] ⟨the man⟩ [[G3708|saw]] [[G2424|Jesus]] [[G575|from]] [[G3113|a distance,]] [[G5143|he ran]] [[G2532|and]] [[G4352|fell on his knees]] [[G846|before Him.]] ^0506
 
-He said to them, Why are you so afraid? Have you still no faith? ^0440
+[[G2532|And]] [[G2896|he shouted]] [[G5456|in a loud voice,]] [[G5101|“What]] [[G4771|do You]] ⟨want⟩ [[G1473|with me,]] [[G2424|Jesus,]] [[G5207|Son]] [[G3588|of]] [[G3588|the]] [[G5310|Most High]] [[G2316|God?]] [[G3726|I beg]] [[G4771|You]] [[G2316|before God]] [[G3361|not]] [[G928|to torture]] [[G1473|me!”]] ^0507
 
-And they were filled with great fear and said to one another, Who then is this, that even the wind and the sea obey him? ^0441
+[[G1063|For]] ⟨Jesus⟩ [[G2036|had already declared,]] [[G1831|“Come]] [[G1537|out of]] ⟨this⟩ [[G3588|]] [[G444|man,]] ⟨you⟩ [[G169|unclean]] [[G4151|spirit!”]] ^0508
 
+[[G5101|“What]] ⟨is⟩ [[G4771|your]] [[G3686|name?”]] ⟨Jesus⟩ [[G1905|asked.]] [[G1473|“My]] [[G3686|name]] ⟨is⟩ [[G3003|Legion,”]] [[G846|he replied,]] [[G3754|“for]] [[G1510|we are]] [[G4183|many.”]] ^0509
 
+[[G2532|And]] [[G3870|he begged]] ⟨Jesus⟩ [[G846|]] [[G4183|repeatedly]] [[G649|not to send]] [[G846|them]] [[G1854|out of]] ⟨that⟩ [[G3588|]] [[G5561|region.]] ^0510
 
-They came to the other side of the sea, to the country of the Gerasenes. ^0501
+[[G1563|There]] [[G3588|on the]] [[G4314|nearby]] [[G3735|hillside]] [[G3173|a large]] [[G34|herd]] [[G5519|of pigs]] [[G1510|was]] [[G1006|feeding.]] ^0511
 
-And when Jesus had stepped out of the boat, immediately there met him out of the tombs a man with an unclean spirit. ^0502
+⟨So⟩ [[G2532|]] ⟨the demons⟩ [[G3870|begged]] ⟨Jesus⟩ [[G846|,]] [[G3992|“Send]] [[G1473|us]] [[G1519|to]] [[G3588|the]] [[G5519|pigs,]] [[G2443|so that]] [[G1525|we may enter]] [[G846|them.”]] ^0512
 
-He lived among the tombs. And no one could bind him anymore, not even with a chain, ^0503
+[[G2010|He gave them permission,]] [[G2532|and]] [[G3588|the]] [[G169|unclean]] [[G4151|spirits]] [[G1831|came out]] ⟨and⟩ [[G1525|went]] [[G1519|into]] [[G3588|the]] [[G5519|pigs,]] [[G2532|and]] [[G3588|the]] [[G34|herd]] [[G5613|of about]] [[G1367|two thousand]] [[G3729|rushed]] [[G2596|down]] [[G3588|the]] [[G2911|steep bank]] [[G1519|into]] [[G3588|the]] [[G2281|sea]] [[G2532|and]] [[G4155|drowned]] [[G1722|in]] [[G3588|the]] ⟨water⟩ [[G2281|.]] ^0513
 
-for he had often been bound with shackles and chains, but he wrenched the chains apart, and he broke the shackles in pieces. No one had the strength to subdue him. ^0504
+[[G3588|Those]] [[G1006|tending]] ⟨the pigs⟩ [[G846|]] [[G5343|ran off]] [[G2532|and]] [[G518|reported]] ⟨this⟩ [[G1519|in]] [[G3588|the]] [[G4172|town]] [[G2532|and]] [[G68|countryside,]] [[G2532|and]] ⟨the people⟩ [[G2064|went out]] [[G3708|to see]] [[G5101|what]] [[G1096|had happened.]] ^0514
 
-Night and day among the tombs and on the mountains he was always crying out and cutting himself with stones. ^0505
+[[G2532|When]] [[G2064|they came]] [[G4314|to]] [[G2424|Jesus,]] [[G2334|they saw]] [[G3588|the who]] ⟨man⟩ [[G1139|had been possessed]] [[G3588|by the]] [[G3003|legion]] ⟨of demons⟩ [[G2521|sitting]] ⟨there⟩, [[G2439|clothed]] [[G2532|and]] [[G4993|in his right mind;]] [[G2532|and]] [[G5399|they were afraid.]] ^0515
 
-And when he saw Jesus from afar, he ran and fell down before him. ^0506
+[[G3588|Those]] [[G3708|who had seen]] ⟨it⟩ [[G1334|described]] [[G4459|what]] [[G1096|had happened]] [[G3588|to the]] [[G1139|demon-possessed man]] [[G2532|and]] ⟨also to⟩ [[G4012|]] [[G3588|the]] [[G5519|pigs.]] ^0516
 
-And crying out with a loud voice, he said, What have you to do with me, Jesus, Son of the Most High God? I adjure you by God, do not torment me. ^0507
+[[G2532|And]] ⟨the people⟩ [[G756|began]] [[G3870|to plead with]] ⟨Jesus⟩ [[G846|]] [[G565|to leave]] [[G846|their]] [[G3725|region.]] ^0517
 
-For he was saying to him, Come out of the man, you unclean spirit! ^0508
+[[G2532|As]] [[G846|He]] [[G1684|was getting]] [[G1519|into]] [[G3588|the]] [[G4143|boat,]] [[G3588|the]] ⟨man⟩ [[G1139|who had been possessed by the demons]] [[G3870|begged]] [[G2443|to]] [[G1510|go]] [[G3326|with]] [[G846|Him.]] ^0518
 
-And Jesus asked him, What is your name? He replied, My name is Legion, for we are many. ^0509
+[[G2532|But]] ⟨Jesus⟩ [[G863|would not allow]] [[G846|him.]] [[G5217|“Go]] [[G3624|home]] [[G4314|to]] [[G4674|your own,”]] ⟨people⟩ [[G3004|He said,]] [[G2532|“and]] [[G518|tell]] [[G846|them]] [[G3745|how much]] [[G3588|the]] [[G2962|Lord]] [[G4160|has done]] [[G4771|for you,]] [[G2532|and]] [[G1653|what mercy He has shown]] [[G4771|you.”]] ^0519
 
-And he begged him earnestly not to send them out of the country. ^0510
+⟨So⟩ [[G2532|]] ⟨the man⟩ [[G565|went away]] [[G2532|and]] [[G756|began]] [[G2784|to proclaim]] [[G1722|throughout]] [[G3588|the]] [[G1179|Decapolis]] [[G3745|how much]] [[G2424|Jesus]] [[G4160|had done]] [[G846|for him.]] [[G2532|And]] [[G3956|everyone]] [[G2296|was amazed.]] ^0520
 
-Now a great herd of pigs was feeding there on the hillside, ^0511
+[[G2532|When]] [[G2424|Jesus]] [[G1276|had again crossed]] [[G1722|by]] [[G4143|boat]] [[G1519|to]] [[G3588|the]] [[G4008|other side,]] [[G4183|a large]] [[G3793|crowd]] [[G4863|gathered]] [[G1909|around]] [[G846|Him]] [[G3844|beside]] [[G3588|the]] [[G2281|sea.]] ^0521
 
-and they begged him, saying, Send us to the pigs; let us enter them. ^0512
+[[G1520|A]] [[G752|synagogue leader]] [[G3686|named]] [[G2383|Jairus]] [[G2064|arrived,]] [[G2532|and]] [[G3708|seeing]] ⟨Jesus⟩ [[G846|,]] [[G4098|he fell]] [[G4314|at]] [[G846|His]] [[G4228|feet]] ^0522
 
-So he gave them permission. And the unclean spirits came out and entered the pigs; and the herd, numbering about two thousand, rushed down the steep bank into the sea and drowned in the sea. ^0513
+[[G2532|and]] [[G3870|pleaded with]] [[G846|Him]] [[G4183|urgently,]] [[G1473|“My]] [[G2365|little daughter]] [[G2192|is]] [[G2079|near death.]] ⟨Please⟩ [[G2443|]] [[G2064|come]] ⟨and⟩ [[G2007|place]] ⟨Your⟩ [[G3588|]] [[G5495|hands]] [[G846|on her,]] [[G2443|so that]] [[G4982|she will be healed]] [[G2532|and]] [[G2198|live.”]] ^0523
 
-The herdsmen fled and told it in the city and in the country. And people came to see what it was that had happened. ^0514
+[[G2532|So]] ⟨Jesus⟩ [[G565|went]] [[G3326|with]] [[G846|him,]] [[G2532|and]] [[G4183|a large]] [[G3793|crowd]] [[G190|followed]] [[G2532|and]] [[G4918|pressed around]] [[G846|Him.]] ^0524
 
-And they came to Jesus and saw the demon-possessed man, the one who had had the legion, sitting there, clothed and in his right mind, and they were afraid. ^0515
+[[G2532|And]] [[G1135|a woman]] [[G1510|was there]] [[G1722|who had been afflicted]] [[G1427|for twelve]] [[G2094|years]] [[G4511|by an issue]] [[G129|of bleeding.]] ^0525
 
-And those who had seen it described to them what had happened to the demon-possessed man and to the pigs. ^0516
+[[G3958|She had suffered]] [[G4183|greatly]] [[G5259|under the care of]] [[G4183|many]] [[G2395|physicians]] [[G2532|and]] [[G1159|had spent]] [[G3956|all]] [[G846|she had,]] [[G2532|but]] [[G3367|to no]] [[G5623|avail.]] [[G3123|Instead,]] ⟨her condition⟩ [[G2064|had only grown]] [[G5501|worse.]] ^0526
 
-And they began to beg Jesus to depart from their region. ^0517
+[[G191|When heard]] ⟨the woman⟩ [[G4012|about]] [[G2424|Jesus,]] [[G2064|she came up]] [[G1722|through]] [[G3588|the]] [[G3793|crowd]] [[G3693|behind]] ⟨Him⟩ ⟨and⟩ [[G680|touched]] [[G846|His]] [[G2440|cloak.]] ^0527
 
-As he was getting into the boat, the man who had been possessed with demons begged him that he might be with him. ^0518
+[[G1063|For]] [[G2036|she kept saying,]] [[G1437|“If]] [[G680|I only touch]] [[G846|His]] [[G2440|clothes,]] [[G4982|I will be healed.”]] ^0528
 
-And he did not permit him but said to him, Go home to your friends and tell them how much the Lord has done for you, and how he has had mercy on you. ^0519
+[[G2112|At that instant,]] [[G846|her]] [[G129|bleeding]] [[G3583|stopped,]] [[G2532|and]] [[G1097|she sensed]] [[G3588|in]] ⟨her⟩ [[G4983|body]] [[G3754|that]] [[G2390|she was healed]] [[G575|of]] ⟨her⟩ [[G3588|]] [[G3148|affliction.]] ^0529
 
-And he went away and began to proclaim in the Decapolis how much Jesus had done for him, and everyone marveled. ^0520
+[[G2112|At once]] [[G2424|Jesus]] [[G1921|was aware]] ⟨that⟩ [[G3588|]] [[G1411|power]] [[G1831|had gone]] [[G1537|out from]] [[G846|Him.]] [[G1994|Turning]] [[G1722|to]] [[G3588|the]] [[G3793|crowd,]] [[G2036|He asked,]] [[G5101|“Who]] [[G680|touched]] [[G1473|My]] [[G2440|clothes?”]] ^0530
 
-And when Jesus had crossed again in the boat to the other side, a great crowd gathered about him, and he was beside the sea. ^0521
+[[G846|His]] [[G3101|disciples]] [[G2036|answered,]] [[G991|“You can see]] [[G3588|the]] [[G3793|crowd]] [[G4918|pressing in on]] [[G4771|You,]] [[G2532|and yet]] [[G3004|You ask,]] [[G5101|‘Who]] [[G680|touched]] [[G1473|Me?’”]] ^0531
 
-Then came one of the rulers of the synagogue, Jairus by name, and seeing him, he fell at his feet ^0522
+[[G2532|But]] [[G4017|He kept looking around]] [[G3708|to see]] [[G3588|who]] [[G4160|had done]] [[G3778|this.]] ^0532
 
-and implored him earnestly, saying, My little daughter is at the point of death. Come and lay your hands on her, so that she may be made well and live. ^0523
+[[G1161|Then]] [[G3588|the]] [[G1135|woman,]] [[G1492|knowing]] [[G3739|what]] [[G1096|had happened]] [[G846|to her,]] [[G2064|came]] [[G2532|and]] [[G4363|fell down before]] [[G846|Him]] [[G5141|trembling]] [[G5399|in fear,]] [[G2532|and]] [[G2036|she told]] [[G846|Him]] [[G3588|the]] [[G3956|whole]] [[G225|truth.]] ^0533
 
-And he went with him. And a great crowd followed him and thronged about him. ^0524
+[[G2364|“Daughter,”]] [[G2036|said]] ⟨Jesus⟩, [[G4771|“your]] [[G4102|faith]] [[G4982|has healed]] [[G4771|you;]] [[G5217|go]] [[G1519|in]] [[G1515|peace]] [[G2532|and]] [[G1510|be]] [[G5199|free]] [[G575|of]] [[G4771|your]] [[G3148|affliction.”]] ^0534
 
-And there was a woman who had had a discharge of blood for twelve years, ^0525
+[[G2980|While He was still speaking,]] ⟨messengers⟩ [[G575|from]] ⟨the house of Jairus⟩ [[G752|]] [[G2064|arrived]] ⟨and⟩ [[G3004|said,]] [[G4771|“Your]] [[G2364|daughter]] [[G599|is dead;]] [[G5101|why]] [[G4660|bother]] [[G3588|the]] [[G1320|Teacher]] [[G2089|anymore?”]] ^0535
 
-and who had suffered much under many physicians, and had spent all that she had, and was no better but rather grew worse. ^0526
+[[G1161|But]] [[G2424|Jesus]] [[G3878|overheard]] [[G2980|their conversation]] [[G3004|and said]] [[G3588|to]] ⟨Jairus⟩ [[G752|,]] [[G3361|“ not]] ⟨Do⟩ [[G5399|be afraid;]] [[G3440|just]] [[G4100|believe.”]] ^0536
 
-She had heard the reports about Jesus and came up behind him in the crowd and touched his garment. ^0527
+[[G2532|And]] [[G863|He did not allow]] [[G3762|anyone]] [[G4870|to accompany]] [[G846|Him]] [[G1487|except]] [[G4074|Peter,]] [[G2385|James,]] [[G2532|and]] [[G2491|John]] [[G3588|the]] [[G80|brother]] [[G2385|of James.]] ^0537
 
-For she said, If I touch even his garments, I will be made well. ^0528
+[[G2532|When]] [[G2064|they arrived]] [[G1519|at]] [[G3588|the]] [[G3624|house]] [[G3588|of]] ⟨Jairus⟩ [[G752|,]] ⟨Jesus⟩ [[G2334|saw]] ⟨the⟩ [[G2351|commotion]] [[G2532|and]] ⟨the people⟩ [[G2799|weeping]] [[G2532|and]] [[G214|wailing]] [[G4183|loudly.]] ^0538
 
-And immediately the flow of blood dried up, and she felt in her body that she was healed of her disease. ^0529
+[[G1525|He went inside]] ⟨and⟩ [[G3004|asked,]] [[G5101|“Why]] [[G2350|all this commotion]] [[G2532|and]] [[G2799|weeping?]] [[G3588|The]] [[G3813|child]] [[G599|is not dead,]] [[G235|but]] [[G2518|asleep.”]] ^0539
 
-And Jesus, perceiving in himself that power had gone out from him, immediately turned about in the crowd and said, Who touched my garments? ^0530
+[[G2532|And]] [[G2606|they laughed at]] [[G846|Him.]] ⟨After⟩ [[G1161|]] [[G846|He]] [[G1544|had sent them all out,]] [[G3880|He took]] [[G3588|the]] [[G3813|child’s]] [[G3962|father]] [[G2532|and]] [[G3384|mother]] [[G2532|and]] [[G3588|His own companions,]] [[G2532|and]] [[G1531|went in]] ⟨to see⟩ [[G3699|]] [[G3588|the]] [[G3813|child.]] ^0540
 
-And his disciples said to him, You see the crowd pressing around you, and yet you say, Who touched me? ^0531
+[[G2902|Taking]] ⟨her⟩ [[G3813|]] [[G3588|by the]] [[G5495|hand,]] ⟨Jesus⟩ [[G3004|said,]] [[G5008|“Talitha]] [[G2891|koum!”]] [[G3739|which]] [[G3177|means,]] [[G2877|“Little girl,]] [[G3004|I say]] [[G4771|to you,]] [[G1453|get up!”]] ^0541
 
-And he looked around to see who had done it. ^0532
+[[G2112|Immediately]] [[G3588|the]] [[G2877|girl]] [[G450|got up]] [[G2532|and]] [[G4043|began to walk around.]] [[G1510|She was]] [[G1427|twelve]] [[G2094|years old,]] [[G2532|and]] [[G2112|at once]] [[G1839|they were overcome]] [[G1611|with astonishment.]] ^0542
 
-But the woman, knowing what had happened to her, came in fear and trembling and fell down before him and told him the whole truth. ^0533
+[[G2532|Then]] ⟨Jesus⟩ [[G1291|gave strict orders]] [[G2443|that]] [[G3367|no one]] [[G1097|should know about]] [[G3778|this,]] [[G2532|and]] [[G2036|He told]] ⟨them⟩ [[G1325|to give]] [[G846|her]] ⟨something⟩ [[G5315|to eat.]] ^0543
 
-And he said to her, Daughter, your faith has made you well; go in peace, and be healed of your disease. ^0534
+⟨Jesus⟩ [[G1831|went on]] [[G1564|from there]] [[G2532|and]] [[G2064|came]] [[G1519|to]] [[G846|His]] [[G3968|hometown,]] [[G190|accompanied by]] [[G846|His]] [[G3101|disciples.]] ^0601
 
-While he was still speaking, there came from the ruler’s house some who said, Your daughter is dead. Why trouble the Teacher any further? ^0535
+⟨When⟩ [[G2532|]] ⟨the⟩ [[G4521|Sabbath]] [[G1096|came,]] [[G756|He began]] [[G1321|to teach]] [[G1722|in]] [[G3588|the]] [[G4864|synagogue,]] [[G2532|and]] [[G4183|many]] [[G191|who heard]] ⟨Him⟩ [[G1605|were astonished.]] [[G4159|“Where]] ⟨did⟩ [[G3778|this]] ⟨man get⟩ [[G3778|these?”]] ⟨ideas⟩ [[G3004|they asked.]] [[G5101|“What]] ⟨is⟩ ⟨this⟩ [[G3588|]] [[G4678|wisdom]] [[G1325|He has been given?]] [[G2532|And]] ⟨how can⟩ [[G1096|He perform]] [[G5108|such]] [[G1411|miracles?]] ^0602
 
-But overhearing what they said, Jesus said to the ruler of the synagogue, Do not fear, only believe. ^0536
+[[G1510|Isn’t]] [[G3778|this]] [[G3588|the]] [[G5045|carpenter,]] [[G3588|the]] [[G5207|son]] [[G3137|of Mary]] [[G2532|and]] ⟨the⟩ [[G80|brother]] [[G2385|of James,]] [[G2500|Joseph,]] [[G2455|Judas,]] [[G2532|and]] [[G4613|Simon?]] [[G1510|Aren’t]] [[G846|His]] [[G79|sisters]] [[G5602|here]] [[G4314|with]] [[G1473|us]] [[G2532|as well?]] [[G2532|And]] [[G4624|they took offense]] [[G1722|at]] [[G846|Him.]] ^0603
 
-And he allowed no one to follow him except Peter and James and John the brother of James. ^0537
+[[G2532|Then]] [[G2424|Jesus]] [[G2036|told]] [[G846|them,]] [[G4396|“A prophet]] [[G1510|is]] [[G820|without honor]] [[G1487|only]] [[G1722|in]] [[G846|his]] [[G3968|hometown,]] [[G1722|among]] [[G846|his]] [[G4773|relatives,]] [[G2532|and]] [[G1722|in]] [[G846|his]] ⟨own⟩ [[G3588|]] [[G3614|household.”]] ^0604
 
-They came to the house of the ruler of the synagogue, and Jesus saw a commotion, people weeping and wailing loudly. ^0538
+⟨So⟩ [[G2532|]] [[G1410|He could not]] [[G4160|perform]] ⟨any⟩ [[G3762|]] [[G1411|miracles]] [[G1563|there,]] [[G1487|except]] [[G2007|to lay]] ⟨His⟩ [[G3588|]] [[G5495|hands]] [[G3641|on a few]] [[G732|of the sick]] ⟨and⟩ [[G2323|heal]] ⟨them⟩. ^0605
 
-And when he had entered, he said to them, Why are you making a commotion and weeping? The child is not dead but sleeping. ^0539
+[[G2532|And]] [[G2296|amazed]] [[G1223|at]] [[G846|their]] [[G570|unbelief,]] [[G4013|He went]] [[G2945|around]] [[G1321|teaching]] [[G2968|from village to village.]] ^0606
 
-And they laughed at him. But he put them all outside and took the child’s father and mother and those who were with him and went in where the child was. ^0540
+[[G2532|Then]] ⟨Jesus⟩ [[G4341|called]] [[G3588|the]] [[G1427|Twelve]] ⟨to Him⟩ [[G2532|and]] [[G756|began]] [[G649|to send them out]] [[G1417|two]] ⟨by⟩ [[G1417|two,]] [[G1325|giving]] [[G846|them]] [[G1849|authority]] [[G3588|over]] [[G169|unclean]] [[G4151|spirits.]] ^0607
 
-Taking her by the hand he said to her, Talitha cumi, which means, Little girl, I say to you, arise. ^0541
+[[G3853|He instructed]] [[G846|them]] [[G2443|to]] [[G142|take]] [[G3367|nothing]] [[G1487|but]] [[G4464|a staff]] [[G1519|for]] ⟨the⟩ [[G3598|journey—]] [[G3361|no]] [[G740|bread,]] [[G3361|no]] [[G4082|bag,]] [[G3361|no]] [[G5475|money]] [[G1519|in]] [[G3588|their]] [[G2223|belts—]] ^0608
 
-And immediately the girl got up and began walking ( for she was twelve years of age), and they were immediately overcome with amazement. ^0542
+⟨and⟩ [[G235|]] [[G5265|to wear]] [[G4547|sandals,]] ⟨but⟩ [[G2532|]] [[G3361|not]] [[G1417|a second]] [[G5509|tunic.]] ^0609
 
-And he strictly charged them that no one should know this, and told them to give her something to eat. ^0543
+[[G2532|And]] [[G2036|He told]] [[G846|them,]] [[G3699|“When]] [[G1525|you enter]] [[G3614|a house,]] [[G3306|stay]] [[G1563|there]] [[G2193|until]] [[G1831|you leave]] ⟨that town⟩ [[G1564|.]] ^0610
 
+[[G3739|If]] [[G302|anyone]] [[G1209|will not welcome]] [[G4771|you]] [[G3366|or]] [[G191|listen to]] [[G4771|you,]] [[G1621|shake]] [[G3588|the]] [[G5522|dust]] [[G5270|off]] [[G4771|your]] [[G4228|feet]] [[G1607|when you leave]] [[G1564|that]] [[G5117|place,]] [[G1519|as]] [[G3142|a testimony]] [[G846|against them.”]] ^0611
 
+⟨So⟩ [[G2532|]] [[G1831|they went out]] ⟨and⟩ [[G2784|preached]] [[G2443|that]] ⟨the people⟩ [[G3340|should repent.]] ^0612
 
-He went away from there and came to his hometown, and his disciples followed him. ^0601
+[[G1544|They also drove out]] [[G4183|many]] [[G1140|demons]] [[G2532|and]] [[G2323|healed]] [[G4183|many]] [[G732|of the sick,]] [[G218|anointing]] ⟨them⟩ [[G1637|with oil.]] ^0613
 
-And on the Sabbath he began to teach in the synagogue, and many who heard him were astonished, saying, Where did this man get these things? What is the wisdom given to him? How are such mighty works done by his hands? ^0602
+[[G2532|Now]] [[G935|King]] [[G2264|Herod]] [[G191|heard about this,]] [[G1063|for]] ⟨Jesus’⟩ [[G846|]] [[G3686|name]] [[G1096|had become]] [[G5318|well known,]] [[G2532|and]] ⟨people⟩ [[G2036|were saying,]] [[G2491|“John]] [[G3588|the]] [[G907|Baptist]] [[G1453|has risen]] [[G1537|from]] ⟨the⟩ [[G3498|dead!]] [[G3778|That]] [[G1223|is why]] [[G1411|miraculous powers]] [[G1754|are at work]] [[G1722|in]] [[G846|him.]] ^0614
 
-Is not this the carpenter, the son of Mary and brother of James and Joses and Judas and Simon? And are not his sisters here with us? And they took offense at him. ^0603
+[[G243|Others]] [[G2036|said,]] [[G1510|“He is]] [[G2243|Elijah,”]] [[G1161|and]] [[G243|still others,]] [[G4396|“ a prophet,]] ⟨He is⟩ [[G5613|like]] [[G1520|one]] [[G3588|of the]] [[G4396|prophets.”]] ⟨of old⟩ ^0615
 
-And Jesus said to them, A prophet is not without honor, except in his hometown and among his relatives and in his own household. ^0604
+[[G1161|But when]] [[G2264|Herod]] [[G191|heard this,]] [[G2036|he said,]] [[G2491|“John,]] [[G3739|whom]] [[G1473|I]] [[G607|beheaded,]] [[G1453|has been raised!”]] ⟨from the dead⟩ ^0616
 
-And he could do no mighty work there, except that he laid his hands on a few sick people and healed them. ^0605
+[[G1063|For]] [[G2264|Herod]] [[G846|himself]] [[G649|had ordered]] [[G3588|that]] [[G2491|John]] [[G2902|be arrested]] [[G2532|and]] [[G1210|bound]] ⟨and⟩ [[G5438|imprisoned,]] [[G1223|on account of]] [[G846|his]] [[G80|brother]] [[G5376|Philip’s]] [[G1135|wife]] [[G2266|Herodias,]] ⟨whom⟩ [[G846|]] ⟨Herod⟩ [[G1060|had married.]] ^0617
 
-And he marveled because of their unbelief. And he went about among the villages teaching. ^0606
+[[G1063|For]] [[G2491|John]] [[G2036|had been telling]] [[G2264|Herod,]] [[G1832|“It is not lawful]] [[G4771|for you]] [[G2192|to have]] [[G4771|your]] [[G80|brother’s]] [[G1135|wife!”]] ^0618
 
-And he called the twelve and began to send them out two by two, and gave them authority over the unclean spirits. ^0607
+[[G1161|So]] [[G2266|Herodias]] [[G1758|held a grudge]] [[G846|against]] ⟨John⟩ [[G2532|and]] [[G2309|wanted]] [[G615|to kill]] [[G846|him.]] [[G2532|But]] [[G1410|she had been unable,]] ^0619
 
-He charged them to take nothing for their journey except a staff — no bread, no bag, no money in their belts — ^0608
+[[G1063|because]] [[G2264|Herod]] [[G5399|feared]] [[G2491|John]] [[G2532|and]] [[G4933|protected]] [[G846|him,]] [[G1492|knowing]] [[G846|he]] ⟨was⟩ [[G1342|a righteous]] [[G2532|and]] [[G40|holy]] [[G435|man.]] [[G2532|When]] [[G191|he heard]] ⟨John’s words⟩ [[G846|,]] [[G639|he was greatly perplexed;]] [[G2532|yet]] [[G191|he listened]] [[G846|to him]] [[G2234|gladly.]] ^0620
 
-but to wear sandals and not put on two tunics. ^0609
+[[G3588|On]] ⟨Herod’s⟩ [[G846|]] [[G1077|birthday,]] ⟨her⟩ [[G2121|opportunity]] [[G1096|arose.]] [[G2264|Herod]] [[G4160|held]] [[G1173|a banquet]] [[G3588|for]] [[G846|his]] [[G3175|nobles]] [[G2532|and]] [[G5506|military commanders,]] [[G2532|as well as]] [[G3588|the]] [[G4413|leading]] ⟨men⟩ [[G1056|of Galilee.]] ^0621
 
-And he said to them, Whenever you enter a house, stay there until you depart from there. ^0610
+⟨When⟩ [[G2532|]] [[G3588|the]] [[G2364|daughter]] [[G2266|of Herodias]] [[G1525|came]] [[G2532|and]] [[G3738|danced,]] [[G700|she pleased]] [[G2264|Herod]] [[G2532|and]] [[G4873|his guests,]] [[G1161|and]] [[G3588|the]] [[G935|king]] [[G2036|said]] [[G3588|to the]] [[G2877|girl,]] [[G154|“Ask]] [[G1473|me]] [[G3739|for whatever]] [[G2309|you wish,]] [[G2532|and]] [[G1325|I will give]] ⟨it⟩ [[G4771|to you.]] ^0622
 
-And if any place will not receive you and they will not listen to you, when you leave, shake off the dust that is on your feet as a testimony against them. ^0611
+[[G2532|And]] [[G3660|he swore]] [[G846|to her,]] [[G4183|“Whatever]] [[G154|you ask]] [[G1473|of me,]] [[G1325|I will give]] [[G4771|you,]] [[G2193|up to]] [[G2255|half]] [[G1473|my]] [[G932|kingdom!”]] ^0623
 
-So they went out and proclaimed that people should repent. ^0612
+[[G2532|Then]] [[G1831|she went out]] ⟨and⟩ [[G2036|said]] [[G846|to her]] [[G3384|mother,]] [[G5101|“What]] [[G154|should I ask for?”]] [[G1161|And]] ⟨Herodias⟩ [[G2036|answered,]] [[G3588|“The]] [[G2776|head]] [[G2491|of John]] [[G3588|the]] [[G907|Baptist.”]] ^0624
 
-And they cast out many demons and anointed with oil many who were sick and healed them. ^0613
+[[G2112|At once]] ⟨the girl⟩ [[G1525|hurried back]] [[G4314|to]] [[G3588|the]] [[G935|king]] [[G154|with her request:]] [[G2309|“I want]] [[G1325|you to give]] [[G1473|me]] [[G3588|the]] [[G2776|head]] [[G2491|of John]] [[G3588|the]] [[G910|Baptist]] [[G1909|on]] [[G4094|a platter]] [[G1824|immediately.”]] ^0625
 
-King Herod heard of it, for Jesus ’ name had become known. Some said, John the Baptist has been raised from the dead. That is why these miraculous powers are at work in him. ^0614
+[[G3588|The]] [[G935|king]] [[G1096|was]] [[G4036|overwhelmed with sorrow,]] [[G1223|but because of]] ⟨his⟩ [[G3588|]] [[G3727|oaths]] [[G2532|and]] [[G345|his guests,]] [[G2309|he did not want]] [[G114|to refuse]] [[G846|her.]] ^0626
 
-But others said, He is Elijah. And others said, He is a prophet, like one of the prophets of old. ^0615
+[[G2532|So]] [[G2112|without delay,]] [[G3588|the]] [[G935|king]] [[G2004|commanded that]] [[G846|John’s]] [[G2776|head]] [[G5342|be brought in.]] [[G649|He sent]] [[G4688|an executioner]] [[G565|who went]] ⟨and⟩ [[G607|beheaded]] [[G846|him]] [[G1722|in]] [[G3588|the]] [[G5438|prison.]] ^0627
 
-But when Herod heard of it, he said, John, whom I beheaded, has been raised. ^0616
+⟨The man⟩ [[G5342|brought]] ⟨John’s⟩ [[G3588|]] [[G2776|head]] [[G1909|on]] [[G4094|a platter]] [[G2532|and]] [[G1325|presented]] [[G846|it]] [[G3588|to the]] [[G2877|girl,]] ⟨who⟩ [[G2877|]] [[G1325|gave]] [[G846|it]] [[G846|to her]] [[G3384|mother.]] ^0628
 
-For it was Herod who had sent and seized John and bound him in prison for the sake of Herodias, his brother Philip’s wife, because he had married her. ^0617
+[[G2532|When]] ⟨John’s⟩ [[G846|]] [[G3101|disciples]] [[G191|heard about]] ⟨this⟩, [[G2064|they came]] [[G2532|and]] [[G142|took]] [[G846|his]] [[G4430|body]] [[G2532|and]] [[G5087|laid]] [[G846|it]] [[G1722|in]] ⟨a⟩ [[G3419|tomb.]] ^0629
 
-For John had been saying to Herod, It is not lawful for you to have your brother’s wife. ^0618
+[[G2532|Meanwhile,]] [[G3588|the]] [[G652|apostles]] [[G4863|gathered]] [[G4314|around]] [[G2424|Jesus]] [[G2532|and]] [[G518|brought Him news]] [[G3956|of all]] [[G4160|they had done]] [[G2532|and]] [[G1321|taught.]] ^0630
 
-And Herodias had a grudge against him and wanted to put him to death. But she could not, ^0619
+[[G2532|And]] [[G3004|He said]] [[G846|to them,]] [[G1205|“Come]] [[G2596|with Me]] [[G846|privately]] [[G1519|to]] ⟨a⟩ [[G2048|solitary]] [[G5117|place,]] [[G2532|and]] [[G373|let us rest]] [[G3641|for a while.”]] [[G1063|For]] [[G4183|many]] ⟨people⟩ [[G1510|were]] [[G2064|coming]] [[G2532|and]] [[G5217|going,]] [[G2532|and]] [[G2119|they did not even have time]] [[G5315|to eat.]] ^0631
 
-for Herod feared John, knowing that he was a righteous and holy man, and he kept him safe. When he heard him, he was greatly perplexed, and yet he heard him gladly. ^0620
+[[G2532|So]] [[G565|they went away]] [[G1722|in]] [[G4143|a boat]] [[G2596|by]] [[G2398|themselves]] [[G1519|to]] [[G2048|a solitary]] [[G5117|place.]] ^0632
 
-But an opportunity came when Herod on his birthday gave a banquet for his nobles and military commanders and the leading men of Galilee. ^0621
+[[G2532|But]] [[G4183|many]] ⟨people⟩ [[G3708|saw]] [[G846|them]] [[G5217|leaving]] [[G2532|and]] [[G1921|recognized]] ⟨them⟩. [[G4936|They ran together]] [[G3979|on foot]] [[G575|from]] [[G3956|all]] [[G3588|the]] [[G4172|towns]] [[G2532|and]] [[G4281|arrived before]] [[G846|them.]] ^0633
 
-For when Herodias’s daughter came in and danced, she pleased Herod and his guests. And the king said to the girl, Ask me for whatever you wish, and I will give it to you. ^0622
+[[G2532|When]] ⟨Jesus⟩ [[G1831|stepped ashore]] ⟨and⟩ [[G3708|saw]] [[G4183|a large]] [[G3793|crowd,]] [[G4697|He had compassion]] [[G1909|on]] [[G846|them,]] [[G3754|because]] [[G1510|they were]] [[G5613|like]] [[G4263|sheep]] [[G2192|without]] [[G4166|a shepherd.]] [[G2532|And]] [[G756|He began]] [[G1321|to teach]] [[G846|them]] [[G4183|many things.]] ^0634
 
-And he vowed to her, Whatever you ask me, I will give you, up to half of my kingdom. ^0623
+[[G2532|By now]] [[G5610|the hour]] [[G1096|was]] [[G2235|already]] [[G4183|late.]] ⟨So⟩ [[G3588|the]] [[G3101|disciples]] [[G4334|came]] [[G846|to]] ⟨Jesus⟩ ⟨and⟩ [[G2036|said,]] [[G3588|“This]] [[G1510|is]] [[G2048|a desolate]] [[G5117|place,]] [[G2532|and]] [[G5610|the hour]] ⟨is⟩ [[G2235|already]] [[G4183|late.]] ^0635
 
-And she went out and said to her mother, For what should I ask? And she said, The head of John the Baptist. ^0624
+[[G630|Dismiss]] ⟨the crowd⟩ [[G846|]] [[G2443|so]] [[G565|they can go]] [[G1519|to]] [[G3588|the]] [[G2945|surrounding]] [[G68|countryside]] [[G2532|and]] [[G2968|villages]] ⟨and⟩ [[G59|buy]] [[G1438|themselves]] [[G5101|something]] [[G5315|to eat.”]] ^0636
 
-And she came in immediately with haste to the king and asked, saying, I want you to give me at once the head of John the Baptist on a platter. ^0625
+[[G1161|But]] ⟨Jesus⟩ [[G611|told]] [[G846|them,]] [[G4771|“You]] [[G1325|give]] [[G846|them]] ⟨something⟩ [[G5315|to eat.”]] [[G3004|They asked]] [[G846|Him,]] [[G565|“Should we go out]] ⟨and⟩ [[G59|spend]] [[G1250|two hundred]] [[G1220|denarii]] [[G1325|to give]] [[G846|all of them]] [[G740|bread]] [[G5315|to eat?”]] ^0637
 
-And the king was exceedingly sorry, but because of his oaths and his guests he did not want to break his word to her. ^0626
+[[G5217|“Go]] ⟨and⟩ [[G3708|see]] [[G4214|how many]] [[G740|loaves]] [[G2192|you have,”]] [[G3004|He told]] [[G846|them.]] [[G2532|And]] [[G1097|after checking]] [[G3004|they said,]] [[G4002|“Five,]] [[G2532|and]] [[G1417|two]] [[G2486|fish.”]] ^0638
 
-And immediately the king sent an executioner with orders to bring John’s head. He went and beheaded him in the prison ^0627
+[[G2532|Then]] ⟨Jesus⟩ [[G2004|directed]] [[G846|them]] [[G347|to have sit]] ⟨the people⟩ [[G4849|in groups]] [[G1909|on]] [[G3588|the]] [[G5515|green]] [[G5528|grass.]] ^0639
 
-and brought his head on a platter and gave it to the girl, and the girl gave it to her mother. ^0628
+[[G2532|So]] [[G377|they sat down]] [[G4237|in groups]] [[G2596|of]] [[G1540|hundreds]] [[G2532|and]] [[G4004|fifties.]] ^0640
 
-When his disciples heard of it, they came and took his body and laid it in a tomb. ^0629
+[[G2983|Taking]] [[G3588|the]] [[G4002|five]] [[G740|loaves]] [[G2532|and]] [[G3588|the]] [[G1417|two]] [[G2486|fish]] ⟨and⟩ [[G308|looking up]] [[G1519|to]] [[G3772|heaven,]] ⟨Jesus⟩ [[G2127|spoke a blessing]] [[G2532|and]] [[G2622|broke]] [[G3588|the]] [[G740|loaves.]] [[G2532|Then]] [[G1325|He gave]] ⟨them⟩ [[G3588|to]] [[G846|His]] [[G3101|disciples]] [[G2443|to]] [[G3908|set before]] ⟨the people⟩ [[G846|.]] [[G2532|And]] [[G3307|He divided]] [[G3588|the]] [[G1417|two]] [[G2486|fish]] [[G3956|among them all.]] ^0641
 
-, The apostles returned to Jesus and told him all that they had done and taught. ^0630
+⟨They⟩ [[G3956|all]] [[G5315|ate]] [[G2532|and]] [[G5526|were satisfied,]] ^0642
 
-And he said to them, Come away by yourselves to a desolate place and rest a while. For many were coming and going, and they had no leisure even to eat. ^0631
+[[G2532|and]] ⟨the disciples⟩ [[G142|picked up]] [[G1427|twelve]] [[G2894|basketfuls]] [[G2801|of broken pieces of bread]] [[G2532|and]] [[G2486|fish.]] ^0643
 
-And they went away in the boat to a desolate place by themselves. ^0632
+[[G2532|And]] [[G1510|there were]] [[G4000|five thousand]] [[G435|men]] [[G3588|who]] [[G5315|ate]] [[G3588|the]] [[G740|loaves.]] ^0644
 
-Now many saw them going and recognized them, and they ran there on foot from all the towns and got there ahead of them. ^0633
+[[G2112|Immediately]] ⟨Jesus⟩ [[G315|made]] [[G846|His]] [[G3101|disciples]] [[G1684|get]] [[G1519|into]] [[G3588|the]] [[G4143|boat]] [[G2532|and]] [[G4254|cross over ahead of]] ⟨Him⟩ [[G4314|to]] [[G966|Bethsaida,]] [[G2193|while]] [[G846|He]] [[G630|dismissed]] [[G3588|the]] [[G3793|crowd.]] ^0645
 
-When he went ashore he saw a great crowd, and he had compassion on them, because they were like sheep without a shepherd. And he began to teach them many things. ^0634
+[[G657|After bidding them farewell,]] [[G565|He went]] [[G1519|up on]] [[G3588|the]] [[G3735|mountain]] [[G4336|to pray.]] ^0646
 
-And when it grew late, his disciples came to him and said, This is a desolate place, and the hour is now late. ^0635
+[[G2532|When]] [[G3798|evening]] [[G1096|came,]] [[G3588|the]] [[G4143|boat]] [[G1510|was]] [[G1722|in]] [[G3319|the middle]] [[G3588|of the]] [[G2281|sea,]] [[G2532|and]] ⟨Jesus was⟩ [[G846|]] [[G3441|alone]] [[G1909|on]] [[G1093|land.]] ^0647
 
-Send them away to go into the surrounding countryside and villages and buy themselves something to eat. ^0636
+[[G3708|He could see that]] ⟨the disciples⟩ [[G846|]] [[G928|were straining]] [[G1643|to row,]] [[G1063|because]] [[G3588|the]] [[G417|wind]] [[G1510|was]] [[G1727|against]] [[G846|them.]] [[G4012|About]] ⟨the⟩ [[G5067|fourth]] [[G5438|watch]] [[G3588|of the]] [[G3571|night,]] ⟨Jesus⟩ [[G2064|went out]] [[G4314|to]] [[G846|them,]] [[G4043|walking]] [[G1909|on]] [[G3588|the]] [[G2281|sea.]] [[G2309|He intended]] [[G3928|to pass by]] [[G846|them,]] ^0648
 
-But he answered them, You give them something to eat. And they said to him, Shall we go and buy two hundred denarii worth of bread and give it to them to eat? ^0637
+[[G1161|but]] [[G3708|when they saw]] [[G846|Him]] [[G4043|walking]] [[G1909|on]] [[G3588|the]] [[G2281|sea,]] [[G349|they cried out,]] [[G1380|thinking]] ⟨He⟩ [[G1510|was]] [[G5326|a ghost—]] ^0649
 
-And he said to them, How many loaves do you have? Go and see. And when they had found out, they said, Five, and two fish. ^0638
+[[G1063|for]] [[G3956|they all]] [[G3708|saw Him]] [[G2532|and]] [[G5015|were terrified.]] [[G1161|But]] ⟨Jesus⟩ [[G2980|spoke up]] [[G2112|at once:]] [[G2293|“Take courage!]] ⟨It⟩ [[G1510|is]] [[G1473|I.]] ⟨Do⟩ [[G3361|not]] [[G5399|be afraid.”]] ^0650
 
-Then he commanded them all to sit down in groups on the green grass. ^0639
+[[G2532|Then]] [[G305|He climbed]] [[G1519|into]] [[G3588|the]] [[G4143|boat]] [[G4314|with]] [[G846|them,]] [[G2532|and]] [[G3588|the]] [[G417|wind]] [[G2869|died down.]] [[G2532|And]] ⟨the disciples were⟩ [[G3029|utterly]] [[G1839|astounded,]] ^0651
 
-So they sat down in groups, by hundreds and by fifties. ^0640
+[[G1063|for]] [[G4920|they had not understood]] [[G1909|about]] [[G3588|the]] [[G740|loaves,]] [[G235|but]] [[G846|their]] [[G2588|hearts]] [[G1510|had been]] [[G4456|hardened.]] ^0652
 
-And taking the five loaves and the two fish he looked up to heaven and said a blessing and broke the loaves and gave them to the disciples to set before the people. And he divided the two fish among them all. ^0641
+[[G2532|When]] [[G1276|they had crossed over,]] [[G2064|they landed]] [[G1519|at]] [[G1082|Gennesaret,]] ⟨where⟩ [[G4358|they moored the boat.]] ^0653
 
-And they all ate and were satisfied. ^0642
+[[G2112|As soon as]] [[G846|they]] [[G1831|got]] [[G1537|out of]] [[G3588|the]] [[G4143|boat,]] ⟨the people⟩ [[G1921|recognized]] ⟨Jesus⟩ [[G846|]] ^0654
 
-And they took up twelve baskets full of broken pieces and of the fish. ^0643
+⟨and⟩ [[G4063|ran through]] [[G1565|that]] [[G3650|whole]] [[G5561|region,]] [[G4064|carrying]] [[G3588|the]] [[G2560|sick]] [[G1909|on]] [[G2895|mats]] [[G3699|to wherever]] [[G191|they heard]] [[G1510|He was.]] ^0655
 
-And those who ate the loaves were five thousand men. ^0644
+[[G2532|And]] [[G3699|wherever]] [[G1531|He went—]] [[G2968|villages]] ⟨and⟩ [[G2228|]] [[G4172|towns]] ⟨and⟩ [[G2228|]] [[G68|countrysides—]] [[G5087|they laid]] [[G3588|the]] [[G770|sick]] [[G1722|in]] [[G3588|the]] [[G58|marketplaces]] [[G2532|and]] [[G3870|begged]] [[G846|Him]] [[G680|to let them just touch]] [[G3588|the]] [[G2899|fringe]] [[G846|of His]] [[G2440|cloak.]] [[G2532|And]] [[G3745|all]] [[G302|who]] [[G680|touched]] [[G846|Him]] [[G4982|were healed.]] ^0656
 
-Immediately he made his disciples get into the boat and go before him to the other side, to Bethsaida, while he dismissed the crowd. ^0645
+[[G2532|Then]] [[G3588|the]] [[G5330|Pharisees]] [[G2532|and]] [[G5100|some]] [[G3588|of the]] [[G1122|scribes]] [[G2064|who had come]] [[G575|from]] [[G2414|Jerusalem]] [[G4863|gathered around]] ⟨Jesus⟩ [[G846|,]] ^0701
 
-And after he had taken leave of them, he went up on the mountain to pray. ^0646
+[[G2532|and]] [[G3708|they saw]] [[G5100|some]] [[G3588|of]] [[G846|His]] [[G3101|disciples]] [[G2068|eating]] ⟨with⟩ [[G5495|hands]] ⟨that were⟩ [[G2839|defiled—]] [[G3778|that]] [[G1510|is,]] [[G449|unwashed.]] ^0702
 
-And when evening came, the boat was out on the sea, and he was alone on the land. ^0647
+[[G1063|Now]] [[G2902|in holding]] [[G3588|to the]] [[G3862|tradition]] [[G3588|of the]] [[G4245|elders,]] [[G3588|the]] [[G5330|Pharisees]] [[G2532|and]] [[G3956|all]] [[G3588|the]] [[G2453|Jews]] ⟨do⟩ [[G3756|not]] [[G2068|eat]] [[G1437|until]] [[G3538|they wash]] ⟨their⟩ [[G3588|]] [[G5495|hands]] [[G4435|ceremonially.]] ^0703
 
-And he saw that they were making headway painfully, for the wind was against them. And about the fourth watch of the night he came to them, walking on the sea. He meant to pass by them, ^0648
+[[G2532|And]] ⟨on returning⟩ [[G575|from]] [[G58|the market,]] [[G2068|they do not eat]] [[G1437|unless]] [[G907|they wash.]] [[G2532|And]] [[G1510|there are]] [[G4183|many]] [[G243|other]] [[G3880|traditions for them]] [[G2902|to observe,]] ⟨including⟩ [[G909|the washing]] [[G4221|of cups,]] [[G3582|pitchers,]] [[G5473|kettles,]] [[G2532|and]] [[G2825|couches for dining.]] ^0704
 
-but when they saw him walking on the sea they thought it was a ghost, and cried out, ^0649
+[[G2532|So]] [[G3588|the]] [[G5330|Pharisees]] [[G2532|and]] [[G1122|scribes]] [[G1905|questioned]] ⟨Jesus⟩ [[G846|:]] [[G1223|“Why]] ⟨do⟩ [[G4771|Your]] [[G3101|disciples]] [[G3756|not]] [[G4043|live]] [[G2596|according to]] [[G3588|the]] [[G3862|tradition]] [[G3588|of the]] [[G4245|elders?]] [[G235|Instead,]] [[G2068|they eat]] [[G2839|with defiled]] [[G5495|hands.]] ^0705
 
-for they all saw him and were terrified. But immediately he spoke to them and said, Take heart; it is I. Do not be afraid. ^0650
+[[G2036|Jesus answered]] [[G846|them,]] [[G2268|“Isaiah]] [[G4395|prophesied]] [[G2573|correctly]] [[G4012|about]] [[G4771|you]] [[G5273|hypocrites,]] [[G5613|as]] [[G1125|it is written:]] [[G3778|‘These]] [[G2992|people]] [[G5091|honor]] [[G1473|Me]] [[G3588|with]] ⟨their⟩ [[G5491|lips,]] [[G1161|but]] [[G846|their]] [[G2588|hearts]] [[G568|are]] [[G4206|far]] [[G575|from]] [[G1473|Me.]] ^0706
 
-And he got into the boat with them, and the wind ceased. And they were utterly astounded, ^0651
+[[G4576|They worship]] [[G1473|Me]] [[G3155|in vain;]] [[G1321|they teach]] ⟨as⟩ [[G1319|doctrine]] ⟨the⟩ [[G1778|precepts]] [[G444|of men.’]] ^0707
 
-for they did not understand about the loaves, but their hearts were hardened. ^0652
+[[G863|You have disregarded]] [[G3588|the]] [[G1785|commandment]] [[G2316|of God]] [[G2902|to keep]] [[G3588|the]] [[G3862|tradition]] [[G444|of men.”]] ^0708
 
-When they had crossed over, they came to land at Gennesaret and moored to the shore. ^0653
+[[G2036|He went on to say,]] [[G114|“You neatly set aside]] [[G3588|the]] [[G1785|commandment]] [[G2316|of God]] [[G2443|to]] [[G5083|maintain]] [[G4771|your]] ⟨own⟩ [[G3588|]] [[G3862|tradition.]] ^0709
 
-And when they got out of the boat, the people immediately recognized him ^0654
+[[G1063|For]] [[G3475|Moses]] [[G2036|said,]] [[G5091|‘Honor]] [[G4771|your]] [[G3962|father]] [[G2532|and]] [[G4771|your]] [[G3384|mother,’]] [[G2532|and,]] [[G3588|‘Whoever]] [[G2551|curses]] ⟨his⟩ [[G3962|father]] [[G2228|or]] [[G3384|mother]] [[G5053|must be put to death.’]] ^0710
 
-and ran about the whole region and began to bring the sick people on their beds to wherever they heard he was. ^0655
+[[G1161|But]] [[G4771|you]] [[G3004|say that]] [[G1437|if]] [[G444|a man]] [[G2036|says]] [[G3588|to]] ⟨his⟩ [[G3962|father]] [[G2228|or]] [[G3384|mother,]] [[G3739|‘Whatever]] [[G5623|you would have received]] [[G1537|from]] [[G1473|me]] ⟨is⟩ [[G2878|Corban’]] [[G3739|(that]] [[G1510|is,]] [[G1435|a gift committed to God),]] ^0711
 
-And wherever he came, in villages, cities, or countryside, they laid the sick in the marketplaces and implored him that they might touch even the fringe of his garment. And as many as touched it were made well. ^0656
+[[G846|he]] ⟨is⟩ [[G3765|no longer]] [[G863|permitted]] [[G4160|to do]] [[G3762|anything]] [[G3588|for his]] [[G3962|father]] [[G2228|or]] [[G3384|mother.]] ^0712
 
+⟨Thus⟩ [[G208|you nullify]] [[G3588|the]] [[G3056|word]] [[G2316|of God]] [[G3588|by]] ⟨the⟩ [[G4771|]] [[G3862|tradition]] [[G3860|you have handed down.]] [[G2532|And]] [[G4160|you do]] [[G5108|so]] [[G4183|in many]] [[G3946|such.”]] ⟨matters⟩ ^0713
 
+[[G3825|Once again]] ⟨Jesus⟩ [[G4341|called]] [[G3588|the]] [[G3793|crowd]] ⟨to Him⟩ ⟨and⟩ [[G2036|said,]] [[G3956|“All of you,]] [[G191|listen to]] [[G1473|Me]] [[G2532|and]] [[G4920|understand:]] ^0714
 
-Now when the Pharisees gathered to him, with some of the scribes who had come from Jerusalem, ^0701
+[[G3762|Nothing]] [[G1531|that enters]] [[G3588|a]] [[G444|man]] [[G1855|from the outside]] [[G1410|can]] [[G2840|defile]] [[G846|him;]] [[G235|but]] [[G3588|the things]] [[G1607|that come]] [[G1537|out of]] [[G3588|a]] [[G444|man,]] [[G1510|these are]] [[G3588|what]] [[G2840|defile]] ⟨him⟩ [[G444|.”]] ^0715
 
-they saw that some of his disciples ate with hands that were defiled, that is, unwashed. ^0702
+[[G1487|If]] [[G5101|anyone]] [[G2192|has]] [[G3775|ears]] [[G191|to hear,]] [[G191|let him hear.]] ^0716
 
-( For the Pharisees and all the Jews do not eat unless they wash their hands properly, holding to the tradition of the elders, ^0703
+[[G3753|After]] ⟨Jesus⟩ [[G1525|had left]] [[G3588|the]] [[G3793|crowd]] ⟨and gone⟩ [[G1519|into]] ⟨the⟩ [[G3624|house,]] [[G846|His]] [[G3101|disciples]] [[G1905|inquired about]] [[G3588|the]] [[G3850|parable.]] ^0717
 
-and when they come from the marketplace, they do not eat unless they wash. And there are many other traditions that they observe, such as the washing of cups and pots and copper vessels and dining couches. ) ^0704
+[[G1510|“Are]] [[G4771|you]] [[G2532|still]] [[G3779|so]] [[G801|dull?”]] [[G3004|He asked.]] [[G3539|“Do you not understand?]] [[G3956|Nothing]] [[G3588|that]] [[G1531|enters]] [[G3588|a]] [[G444|man]] [[G1855|from the outside]] [[G1410|can]] [[G2840|defile]] [[G846|him,]] ^0718
 
-And the Pharisees and the scribes asked him, Why do your disciples not walk according to the tradition of the elders, but eat with defiled hands? ^0705
+[[G3754|because]] [[G1531|it does not enter]] [[G846|his]] [[G2588|heart,]] [[G235|but]] ⟨it goes⟩ [[G1519|into]] [[G3588|the]] [[G2836|stomach]] [[G2532|and then]] [[G1607|is eliminated.”]] [[G3956|( all]] ⟨Thus⟩ [[G1033|foods]] [[G2511|are clean.)]] ^0719
 
-And he said to them, Well did Isaiah prophesy of you hypocrites, as it is written, This people honors me with their lips, but their heart is far from me; ^0706
+[[G2036|He continued:]] [[G3588|“What]] [[G1607|comes]] [[G1537|out of]] [[G3588|a]] [[G444|man,]] [[G1565|that]] ⟨is what⟩ [[G2840|defiles]] ⟨him⟩ [[G444|.]] ^0720
 
-in vain do they worship me, teaching as doctrines the commandments of men. ^0707
+[[G1063|For]] [[G1537|from]] [[G2081|within]] [[G3588|the]] [[G2588|hearts]] [[G444|of men]] [[G1607|come]] [[G2556|evil]] [[G1261|thoughts,]] [[G4202|sexual immorality,]] [[G2829|theft,]] [[G5408|murder,]] [[G3430|adultery,]] ^0721
 
-You leave the commandment of God and hold to the tradition of men. ^0708
+[[G4124|greed,]] [[G4189|wickedness,]] [[G1388|deceit,]] [[G766|debauchery,]] [[G3788|envy,]] [[G988|slander,]] [[G5243|arrogance,]] ⟨and⟩ [[G877|foolishness.]] ^0722
 
-And he said to them, You have a fine way of rejecting the commandment of God in order to establish your tradition! ^0709
+[[G3956|All]] [[G3778|these]] [[G4190|evils]] [[G1607|come]] [[G2081|from within,]] [[G2532|and]] ⟨these are what⟩ [[G2840|defile]] [[G3588|a]] [[G444|man.”]] ^0723
 
-For Moses said, Honor your father and your mother; and, Whoever reviles father or mother must surely die. ^0710
+⟨Jesus⟩ [[G450|left]] [[G1564|that place]] ⟨and⟩ [[G565|went]] [[G1519|to]] [[G3588|the]] [[G3725|region]] [[G5184|of Tyre.]] [[G2309|Not wanting anyone]] [[G1097|to know]] ⟨He was there⟩, [[G1525|He entered]] ⟨a⟩ [[G3614|house,]] [[G2532|but]] [[G1410|was unable]] [[G2990|to escape their notice.]] ^0724
 
-But you say, If a man tells his father or his mother, Whatever you would have gained from me is Corban (that is, given to God) — ^0711
+[[G235|Instead,]] [[G1135|a woman]] [[G3739|whose]] [[G2365|little daughter]] [[G2192|had]] ⟨an⟩ [[G169|unclean]] [[G4151|spirit]] [[G2112|soon]] [[G191|heard]] [[G4012|about]] [[G846|Jesus,]] ⟨and⟩ [[G2064|she came]] ⟨and⟩ [[G4363|fell]] [[G4314|at]] [[G846|His]] [[G4228|feet.]] ^0725
 
-then you no longer permit him to do anything for his father or mother, ^0712
+[[G1161|Now]] [[G1510|she was]] [[G1674|a Greek]] [[G1135|woman]] [[G3588|of]] [[G4949|Syrophoenician]] [[G1085|origin,]] [[G2532|and]] [[G2065|she kept asking]] ⟨Jesus⟩ [[G846|]] [[G1544|to drive]] [[G3588|the]] [[G1140|demon]] [[G1537|out of]] [[G846|her]] [[G2364|daughter.]] ^0726
 
-thus making void the word of God by your tradition that you have handed down. And many such things you do. ^0713
+[[G4412|“First]] [[G863|let]] [[G3588|the]] [[G5043|children]] [[G5526|have their fill,”]] [[G2036|He said.]] [[G1063|“For]] [[G1510|it is]] [[G3756|not]] [[G2570|right]] [[G2983|to take]] [[G3588|the]] [[G5043|children’s]] [[G740|bread]] [[G2532|and]] [[G906|toss]] ⟨it⟩ [[G3588|to the]] [[G2952|dogs.”]] ^0727
 
-And he called the people to him again and said to them, Hear me, all of you, and understand : ^0714
+[[G3483|“Yes,]] [[G2962|Lord,”]] [[G611|she replied,]] [[G2532|“even]] [[G3588|the]] [[G2952|dogs]] [[G5270|under]] [[G3588|the]] [[G5132|table]] [[G2068|eat]] [[G3588|the]] [[G3813|children’s]] [[G5589|crumbs.”]] ^0728
 
-There is nothing outside a person that by going into him can defile him, but the things that come out of a person are what defile him. ^0715
+[[G2532|Then]] ⟨Jesus⟩ [[G2036|told]] [[G846|her,]] [[G1223|“Because of]] [[G3778|this]] [[G3056|answer,]] [[G5217|you may go.]] [[G3588|The]] [[G1140|demon]] [[G1831|has left]] [[G4771|your]] [[G2364|daughter.”]] ^0729
 
-There is nothing outside a person that by going into him can defile him, but the things that come out of a person are what defile him. ^0716
+[[G2532|And]] [[G565|she went]] [[G3624|home]] ⟨and⟩ [[G2147|found]] ⟨her⟩ [[G3588|]] [[G3813|child]] [[G906|lying]] [[G1909|on]] [[G3588|the]] [[G2825|bed,]] [[G2532|and]] [[G3588|the]] [[G1140|demon]] [[G1831|was gone.]] ^0730
 
-And when he had entered the house and left the people, his disciples asked him about the parable. ^0717
+[[G2532|Then]] ⟨Jesus⟩ [[G1831|left]] [[G3588|the]] [[G3725|region]] [[G5184|of Tyre]] ⟨and⟩ [[G2064|went]] [[G1223|through]] [[G4605|Sidon]] [[G1519|to]] [[G3588|the]] [[G2281|Sea]] [[G1056|of Galilee]] ⟨and⟩ [[G303|into]] [[G3588|the]] [[G3725|region]] [[G1179|of Decapolis.]] ⟨the⟩ ^0731
 
-And he said to them, Then are you also without understanding? Do you not see that whatever goes into a person from outside cannot defile him, ^0718
+⟨Some people⟩ [[G5342|brought]] [[G846|to Him]] [[G2974|a man who was deaf]] [[G2532|and]] [[G3424|hardly able to speak,]] [[G2532|and]] [[G3870|they begged]] ⟨Jesus⟩ [[G846|]] [[G2007|to place]] ⟨His⟩ [[G3588|]] [[G5495|hand]] [[G846|on him.]] ^0732
 
-since it enters not his heart but his stomach, and is expelled? ( Thus he declared all foods clean .) ^0719
+⟨So⟩ [[G2532|]] ⟨Jesus⟩ [[G618|took him]] [[G2596|aside]] [[G2398|privately,]] [[G575|away from]] [[G3588|the]] [[G3793|crowd,]] ⟨and⟩ [[G906|put]] [[G846|His]] [[G1147|fingers]] [[G1519|into]] ⟨the man’s⟩ [[G846|]] [[G3775|ears.]] [[G2532|Then]] [[G4429|He spit]] ⟨and⟩ [[G680|touched]] ⟨the man’s⟩ [[G846|]] [[G1100|tongue.]] ^0733
 
-And he said, What comes out of a person is what defiles him. ^0720
+[[G2532|And]] [[G308|looking up]] [[G1519|to]] [[G3772|heaven,]] [[G4727|He sighed deeply]] [[G2532|and]] [[G3004|said]] [[G846|to him,]] [[G2188|“Ephphatha!”]] [[G3739|(which]] [[G1510|means,]] [[G1272|“Be opened!”).]] ^0734
 
-For from within, out of the heart of man, come evil thoughts, sexual immorality, theft, murder, adultery, ^0721
+[[G2112|Immediately]] ⟨the man’s⟩ [[G846|]] [[G189|ears]] [[G455|were opened]] [[G2532|and]] [[G846|his]] [[G1100|tongue]] [[G3089|was released,]] [[G2532|and]] [[G2980|he began to speak]] [[G3723|plainly.]] ^0735
 
-coveting, wickedness, deceit, sensuality, envy, slander, pride, foolishness. ^0722
+⟨Jesus⟩ [[G1291|ordered]] [[G846|them]] [[G3004|not to tell anyone.]] [[G1161|But]] [[G3745|the more]] [[G846|He]] [[G1291|ordered]] [[G846|them,]] [[G4053|the more widely]] [[G2784|they proclaimed]] ⟨it⟩. ^0736
 
-All these evil things come from within, and they defile a person. ^0723
+⟨The people⟩ [[G1605|were utterly astonished]] ⟨and⟩ [[G3004|said,]] [[G4160|“He has done]] [[G3956|all things]] [[G2573|well!]] [[G4160|He makes]] [[G2532|even]] [[G3588|the]] [[G2974|deaf]] [[G191|to hear]] [[G2532|and]] [[G3588|the]] [[G216|mute]] [[G2980|to speak!”]] ^0737
 
-And from there he arose and went away to the region of Tyre and Sidon. And he entered a house and did not want anyone to know, yet he could not be hidden. ^0724
+[[G1722|In]] [[G1565|those]] [[G2250|days]] ⟨the⟩ [[G3793|crowd]] [[G3825|once again]] [[G1510|became]] [[G4183|very large,]] [[G2532|and]] [[G2192|they had]] [[G3361|nothing]] [[G5315|to eat.]] ⟨Jesus⟩ [[G4341|called]] [[G3588|the]] [[G3101|disciples]] ⟨to Him⟩ ⟨and⟩ [[G3004|said,]] ^0801
 
-But immediately a woman whose little daughter had an unclean spirit heard of him and came and fell down at his feet. ^0725
+[[G4697|“I have compassion]] [[G1909|for]] ⟨these⟩ [[G3588|]] [[G3793|people,]] [[G3754|because]] [[G4357|they have already been]] [[G1473|with Me]] [[G5140|three]] [[G2250|days]] [[G2532|and]] [[G2192|have]] [[G3756|nothing]] [[G5315|to eat.]] ^0802
 
-Now the woman was a Gentile, a Syrophoenician by birth. And she begged him to cast the demon out of her daughter. ^0726
+[[G1437|If]] [[G630|I send]] [[G846|them]] [[G3624|home]] [[G3523|hungry,]] [[G1590|they will faint]] [[G1722|along]] [[G3588|the]] [[G3598|way.]] [[G2532|For]] [[G5100|some]] [[G846|of them]] [[G2240|have come]] [[G3113|a great distance.”]] ^0803
 
-And he said to her, Let the children be fed first, for it is not right to take the children’s bread and throw it to the dogs. ^0727
+[[G846|His]] [[G3101|disciples]] [[G611|replied,]] [[G4159|“Where]] [[G1909|in]] [[G2047|this desolate place]] [[G1410|could]] [[G5100|anyone]] ⟨find enough⟩ [[G740|bread]] [[G5526|to feed]] [[G3778|all these?”]] ⟨people⟩ ^0804
 
-But she answered him, Yes, Lord; yet even the dogs under the table eat the children’s crumbs. ^0728
+[[G4214|“How many]] [[G740|loaves]] [[G2192|do you have?”]] ⟨Jesus⟩ [[G2065|asked.]] [[G2033|“Seven,”]] [[G2036|they replied.]] ^0805
 
-And he said to her, For this statement you may go your way; the demon has left your daughter. ^0729
+[[G2532|And]] [[G3853|He directed]] [[G3588|the]] [[G3793|crowd]] [[G377|to sit down]] [[G1909|on]] [[G3588|the]] [[G1093|ground.]] [[G2532|Then]] [[G2983|He took]] [[G3588|the]] [[G2033|seven]] [[G740|loaves,]] [[G2168|gave thanks]] ⟨and⟩ [[G2806|broke]] ⟨them⟩, [[G2532|and]] [[G1325|gave]] ⟨them⟩ [[G3588|to]] [[G846|His]] [[G3101|disciples]] [[G3908|to set before]] ⟨the people⟩. [[G2532|And]] [[G3908|they distributed]] ⟨them⟩ [[G3588|to the]] [[G3793|crowd.]] ^0806
 
-And she went home and found the child lying in bed and the demon gone. ^0730
+[[G2192|They also had]] [[G3641|a few]] [[G2485|small fish,]] [[G2532|and]] ⟨Jesus⟩ [[G2127|blessed]] [[G846|them]] ⟨and⟩ [[G2036|ordered that]] [[G3778|these]] [[G3908|be set before]] ⟨them⟩ [[G2532|as well.]] ^0807
 
-Then he returned from the region of Tyre and went through Sidon to the Sea of Galilee, in the region of the Decapolis. ^0731
+⟨The people⟩ [[G5315|ate]] [[G2532|and]] [[G5526|were satisfied,]] [[G2532|and]] ⟨the disciples⟩ [[G142|picked up]] [[G2033|seven]] [[G4711|basketfuls]] [[G2801|of broken pieces]] [[G4051|that were left over.]] ^0808
 
-And they brought to him a man who was deaf and had a speech impediment, and they begged him to lay his hand on him. ^0732
+[[G1161|And]] [[G5613|about]] [[G5070|four thousand]] [[G1510|were]] ⟨fed⟩. [[G2532|As soon as]] ⟨Jesus⟩ [[G630|had dismissed]] ⟨the crowd⟩ [[G846|,]] ^0809
 
-And taking him aside from the crowd privately, he put his fingers into his ears, and after spitting touched his tongue. ^0733
+[[G1684|He got]] [[G1519|into]] [[G3588|the]] [[G4143|boat]] [[G3326|with]] [[G846|His]] [[G3101|disciples]] ⟨and⟩ [[G2064|went]] [[G1519|to]] [[G3588|the]] [[G3313|district]] [[G1148|of Dalmanutha.]] ^0810
 
-And looking up to heaven, he sighed and said to him, Ephphatha, that is, Be opened. ^0734
+[[G2532|Then]] [[G3588|the]] [[G5330|Pharisees]] [[G1831|came]] [[G2532|and]] [[G756|began]] [[G4802|to argue with]] ⟨Jesus⟩ [[G846|.]] [[G3985|They tested]] [[G846|Him]] ⟨by⟩ [[G2212|demanding]] [[G3844|from]] [[G846|Him]] [[G4592|a sign]] [[G575|from]] [[G3772|heaven.]] ^0811
 
-And his ears were opened, his tongue was released, and he spoke plainly. ^0735
+⟨Jesus⟩ [[G389|sighed deeply]] [[G3588|in]] [[G846|His]] [[G4151|spirit]] ⟨and⟩ [[G3004|said,]] [[G5101|“Why]] [[G3778|{does] this]] [[G1074|generation]] [[G2212|demand]] [[G4592|a sign?]] [[G281|Truly]] [[G3004|I tell]] [[G4771|you,]] [[G1487|no]] [[G4592|sign]] [[G1325|will be given]] [[G3778|to this]] [[G1074|generation.”]] ^0812
 
-And Jesus charged them to tell no one. But the more he charged them, the more zealously they proclaimed it. ^0736
+[[G2532|Then]] [[G863|He left]] [[G846|them,]] [[G1684|got back into the boat,]] ⟨and⟩ [[G565|crossed]] [[G1519|to]] [[G3588|the]] [[G4008|other side.]] ^0813
 
-And they were astonished beyond measure, saying, He has done all things well. He even makes the deaf hear and the mute speak. ^0737
+[[G2532|Now]] ⟨the disciples⟩ [[G1950|had forgotten]] [[G2983|to take]] [[G740|bread,]] [[G1487|except for]] [[G1520|one]] [[G740|loaf]] [[G2192|they had]] [[G3326|with]] [[G1438|them]] [[G1722|in]] [[G3588|the]] [[G4143|boat.]] ^0814
 
+[[G3708|“Watch out!”]] [[G1291|He cautioned]] [[G846|them.]] [[G991|“Beware]] [[G575|of]] [[G3588|the]] [[G2219|yeast]] [[G3588|of the]] [[G5330|Pharisees]] [[G2532|and]] [[G2264|of Herod.”]] ^0815
 
+⟨So⟩ [[G2532|]] [[G1260|they began to discuss]] [[G4314|with]] [[G240|one another]] [[G3754|the fact that]] [[G2192|they had]] [[G3756|no]] [[G740|bread.]] ^0816
 
-In those days, when again a great crowd had gathered, and they had nothing to eat, he called his disciples to him and said to them, ^0801
+[[G1097|Aware of]] ⟨their conversation⟩, ⟨Jesus⟩ [[G3004|asked]] [[G846|them,]] [[G5101|“Why]] [[G1260|are you debating]] [[G3754|about]] [[G2192|having]] [[G3756|no]] [[G740|bread?]] [[G3539|Do you still not see]] [[G3761|or]] [[G4920|understand?]] [[G2192|Do you have]] [[G4456|such hard]] [[G2588|hearts?]] ^0817
 
-I have compassion on the crowd, because they have been with me now three days and have nothing to eat. ^0802
+[[G2192|‘Having]] [[G3788|eyes,]] [[G991|do you not see?]] [[G2532|And]] [[G2192|having]] [[G3775|ears,]] [[G191|do you not hear?’]] [[G2532|And]] [[G3421|do you not remember?]] ^0818
 
-And if I send them away hungry to their homes, they will faint on the way. And some of them have come from far away. ^0803
+[[G3753|When]] [[G2806|I broke]] [[G3588|the]] [[G4002|five]] [[G740|loaves]] [[G1519|for]] [[G3588|the]] [[G4000|five thousand,]] [[G4214|how many]] [[G2894|basketfuls]] [[G2801|of broken pieces]] [[G142|did you collect?”]] [[G1427|“Twelve,”]] [[G3004|they answered.]] ^0819
 
-And his disciples answered him, How can one feed these people with bread here in this desolate place? ^0804
+[[G2532|“And]] [[G3753|when]] ⟨I broke⟩ [[G3588|the]] [[G2033|seven]] ⟨loaves⟩ [[G1519|for]] [[G3588|the]] [[G5070|four thousand,]] [[G4214|how many]] [[G4711|basketfuls]] [[G2801|of broken pieces]] [[G142|did you collect?”]] [[G2033|“Seven,”]] [[G846|they]] [[G3004|said.]] ^0820
 
-And he asked them, How many loaves do you have? They said, Seven. ^0805
+[[G2532|Then]] [[G2036|He asked]] [[G846|them,]] [[G4920|“Do you still not understand?”]] ^0821
 
-And he directed the crowd to sit down on the ground. And he took the seven loaves, and having given thanks, he broke them and gave them to his disciples to set before the people; and they set them before the crowd. ^0806
+⟨When⟩ [[G2532|]] [[G2064|they arrived]] [[G1519|at]] [[G966|Bethsaida,]] ⟨some people⟩ [[G5342|brought]] [[G5185|a blind]] ⟨man⟩ [[G2532|and]] [[G3870|begged]] ⟨Jesus⟩ [[G846|]] [[G2443|to]] [[G680|touch]] [[G846|him.]] ^0822
 
-And they had a few small fish. And having blessed them, he said that these also should be set before them. ^0807
+[[G2532|So]] [[G1949|He took]] [[G3588|the]] [[G5185|blind]] ⟨man⟩ [[G3588|by the]] [[G5495|hand]] ⟨and⟩ [[G1627|led him]] [[G1854|out]] [[G3588|of the]] [[G2968|village.]] [[G2532|Then]] [[G4429|He spit]] [[G1519|on]] ⟨the man’s⟩ [[G846|]] [[G3659|eyes]] ⟨and⟩ [[G2007|placed]] ⟨His⟩ [[G3588|]] [[G5495|hands]] [[G846|on him.]] [[G991|“Can you see]] [[G5100|anything?]] [[G1905|He asked.]] ^0823
 
-And they ate and were satisfied. And they took up the broken pieces left over, seven baskets full. ^0808
+⟨The man⟩ [[G308|looked up]] ⟨and⟩ [[G2036|said,]] [[G991|“I can see]] [[G3588|the]] [[G444|people,]] ⟨but⟩ [[G3754|]] [[G3708|they look]] [[G5613|like]] [[G1186|trees]] [[G4043|walking around.”]] ^0824
 
-And there were about four thousand people. And he sent them away. ^0809
+[[G1534|Once again]] ⟨Jesus⟩ [[G2007|placed]] ⟨His⟩ [[G3588|]] [[G5495|hands]] [[G1909|on]] ⟨the man’s⟩ [[G846|]] [[G3788|eyes,]] [[G2532|and when]] [[G1227|he opened them]] ⟨his sight⟩ [[G600|was restored,]] [[G2532|and]] [[G1689|he could see]] [[G537|everything]] [[G5081|clearly.]] ^0825
 
-And immediately he got into the boat with his disciples and went to the district of Dalmanutha. ^0810
+⟨Jesus⟩ [[G649|sent]] [[G846|him]] [[G3624|home]] ⟨and⟩ [[G3004|said,]] [[G1525|“Do not go back]] [[G1519|into]] [[G3588|the]] [[G2968|village.”]] ^0826
 
-The Pharisees came and began to argue with him, seeking from him a sign from heaven to test him. ^0811
+[[G2532|Then]] [[G2424|Jesus]] [[G2532|and]] [[G846|His]] [[G3101|disciples]] [[G1831|went on]] [[G1519|to]] [[G3588|the]] [[G2968|villages]] [[G2542|around Caesarea]] [[G5376|Philippi.]] [[G1722|On]] [[G3588|the]] [[G3598|way,]] [[G1905|He questioned]] [[G846|His]] [[G3101|disciples:]] [[G5101|“Who]] ⟨do⟩ [[G444|people]] [[G3004|say]] [[G1473|I]] [[G1510|am?]] ^0827
 
-And he sighed deeply in his spirit and said, Why does this generation seek a sign? Truly, I say to you, no sign will be given to this generation. ^0812
+[[G2036|They answered,]] [[G2491|“ John]] ⟨Some say⟩ [[G3588|the]] [[G910|Baptist;]] [[G243|others]] ⟨say⟩ [[G2243|Elijah;]] [[G1161|and still]] [[G243|others]] ⟨say You are⟩ [[G1520|one]] [[G3588|of the]] [[G4396|prophets.”]] ^0828
 
-And he left them, got into the boat again, and went to the other side. ^0813
+[[G1161|“But]] [[G5101|who]] ⟨do⟩ [[G4771|you]] [[G3004|say]] [[G1473|I]] [[G1510|am?”]] [[G846|He]] [[G1905|asked.]] [[G4074|Peter]] [[G611|answered,]] [[G4771|“You]] [[G1510|are]] [[G3588|the]] [[G5547|Christ.”]] ^0829
 
-Now they had forgotten to bring bread, and they had only one loaf with them in the boat. ^0814
+[[G2532|And]] ⟨Jesus⟩ [[G2008|warned]] [[G846|them]] [[G3004|not to tell anyone]] [[G4012|about]] [[G846|Him.]] ^0830
 
-And he cautioned them, saying, Watch out; beware of the leaven of the Pharisees and the leaven of Herod. ^0815
+[[G2532|Then]] [[G756|He began]] [[G1321|to teach]] [[G846|them]] [[G3754|that]] [[G3588|the]] [[G5207|Son]] [[G444|of Man]] [[G1163|must]] [[G3958|suffer]] [[G4183|many things]] [[G2532|and]] [[G593|be rejected]] [[G5259|by]] [[G3588|the]] [[G4245|elders,]] [[G749|chief priests,]] [[G2532|and]] [[G1122|scribes,]] [[G2532|and]] ⟨that⟩ [[G615|He must be killed]] [[G2532|and]] [[G3326|after]] [[G5140|three]] [[G2250|days]] [[G450|rise]] ⟨again⟩. ^0831
 
-And they began discussing with one another the fact that they had no bread. ^0816
+[[G2980|He spoke]] ⟨this⟩ [[G3588|]] [[G3056|message]] [[G3954|quite frankly,]] [[G2532|and]] [[G4074|Peter]] [[G4355|took Him aside]] ⟨and⟩ [[G756|began]] [[G2008|to rebuke]] [[G846|Him.]] ^0832
 
-And Jesus, aware of this, said to them, Why are you discussing the fact that you have no bread? Do you not yet perceive or understand? Are your hearts hardened? ^0817
+[[G1994|Turning]] [[G2532|and]] [[G3708|looking at]] [[G846|His]] [[G3101|disciples,]] ⟨Jesus⟩ [[G2008|rebuked]] [[G4074|Peter]] [[G2532|and]] [[G3004|said,]] [[G5217|“Get]] [[G3694|behind]] [[G1473|Me,]] [[G4567|Satan!]] [[G3754|For]] [[G5426|you do not have in mind]] [[G3588|the]] [[G3588|things]] [[G2316|of God,]] [[G235|but]] [[G3588|the]] [[G3588|things]] [[G444|of men.]] ^0833
 
-Having eyes do you not see, and having ears do you not hear? And do you not remember? ^0818
+[[G2532|Then]] ⟨Jesus⟩ [[G4341|called]] [[G3588|the]] [[G3793|crowd]] ⟨to Him⟩ [[G4862|along with]] [[G846|His]] [[G3101|disciples,]] ⟨and⟩ [[G2036|He told]] [[G846|them,]] [[G1487|“If]] [[G5100|anyone]] [[G2309|wants]] [[G2064|to come]] [[G3694|after]] [[G1473|Me,]] [[G533|he must deny]] [[G1438|himself]] [[G2532|and]] [[G142|take up]] [[G846|his]] [[G4716|cross]] [[G2532|and]] [[G190|follow]] [[G1473|Me.]] ^0834
 
-When I broke the five loaves for the five thousand, how many baskets full of broken pieces did you take up? They said to him, Twelve. ^0819
+[[G1063|For]] [[G3739|whoever]] [[G2309|wants]] [[G4982|to save]] [[G846|his]] [[G5590|life]] [[G622|will lose]] [[G846|it,]] [[G1161|but]] [[G3739|whoever]] [[G622|loses]] [[G846|his]] [[G5590|life]] [[G1752|for My sake]] [[G2532|and]] [[G3588|for the]] [[G2098|gospel]] [[G4982|will save]] [[G846|it.]] ^0835
 
-And the seven for the four thousand, how many baskets full of broken pieces did you take up? And they said to him, Seven. ^0820
+[[G5101|What]] [[G5623|does it profit]] [[G444|a man]] [[G2770|to gain]] [[G3588|the]] [[G3650|whole]] [[G2889|world,]] [[G2532|yet]] [[G2210|forfeit]] [[G846|his]] [[G5590|soul?]] ^0836
 
-And he said to them, Do you not yet understand? ^0821
+[[G1063|Or]] [[G5101|what]] ⟨can⟩ [[G444|a man]] [[G1325|give]] [[G465|in exchange]] [[G3588|for]] [[G846|his]] [[G5590|soul?]] ^0837
 
-And they came to Bethsaida. And some people brought to him a blind man and begged him to touch him. ^0822
+[[G1063|For]] [[G3739|whoever]] [[G1870|is ashamed of]] [[G1473|Me]] [[G2532|and]] [[G1699|My]] [[G3056|words]] [[G1722|in]] [[G3778|this]] [[G3428|adulterous]] [[G2532|and]] [[G268|sinful]] [[G1074|generation,]] [[G3588|the]] [[G5207|Son]] [[G444|of Man]] [[G1870|will also be ashamed of]] [[G846|him]] [[G3752|when]] [[G2064|He comes]] [[G1722|in]] [[G846|His]] [[G3962|Fathers]] [[G1391|glory]] [[G3326|with]] [[G3588|the]] [[G40|holy]] [[G32|angels.]] ^0838
 
-And he took the blind man by the hand and led him out of the village, and when he had spit on his eyes and laid his hands on him, he asked him, Do you see anything? ^0823
+[[G2532|Then]] ⟨Jesus⟩ [[G2036|said]] [[G846|to them,]] [[G281|“Truly]] [[G3004|I tell]] [[G4771|you,]] [[G1510|there are]] [[G5100|some]] [[G2476|standing]] [[G5602|here]] [[G3748|who]] [[G1089|will not taste]] [[G2288|death]] [[G2193|until]] [[G3708|they see]] [[G3588|the]] [[G932|kingdom]] [[G2316|of God]] [[G2064|arrive]] [[G1722|with]] [[G1411|power.]] ^0901
 
-And he looked up and said, I see people, but they look like trees, walking. ^0824
+[[G3326|After]] [[G1803|six]] [[G2250|days,]] [[G2424|Jesus]] [[G3880|took with]] ⟨Him⟩ [[G4074|Peter,]] [[G2385|James,]] [[G2532|and]] [[G2491|John,]] [[G2532|and]] [[G399|led them up]] [[G5308|a high]] [[G3735|mountain]] ⟨by⟩ [[G2398|themselves.]] ⟨There⟩ [[G2532|]] [[G3339|He was transfigured]] [[G1715|before]] [[G846|them.]] ^0902
 
-Then Jesus laid his hands on his eyes again; and he opened his eyes, his sight was restored, and he saw everything clearly. ^0825
+[[G846|His]] [[G2440|clothes]] [[G1096|became]] [[G3029|radiantly]] [[G3022|white,]] ⟨brighter than⟩ [[G3634|]] ⟨any⟩ [[G3756|]] [[G1102|launderer]] [[G1909|on]] [[G1093|earth]] [[G1410|could]] [[G3021|bleach them.]] ^0903
 
-And he sent him to his home, saying, Do not even enter the village. ^0826
+[[G2532|And]] [[G2243|Elijah]] ⟨and⟩ [[G4862|]] [[G3475|Moses]] [[G3708|appeared]] [[G846|before them,]] [[G4814|talking with]] [[G2424|Jesus.]] ^0904
 
-And Jesus went on with his disciples to the villages of Caesarea Philippi. And on the way he asked his disciples, Who do people say that I am? ^0827
+[[G4074|Peter]] [[G3004|said]] [[G2424|to Jesus,]] [[G4461|“Rabbi,]] [[G1510|it is]] [[G2570|good]] [[G1473|for us]] [[G1510|to be]] [[G5602|here.]] [[G4160|Let us put up]] [[G5140|three]] [[G4633|shelters:]] [[G1520|one]] [[G4771|for You,]] [[G1520|one]] [[G3475|for Moses,]] [[G2532|and]] [[G1520|one]] [[G2243|for Elijah.”]] ^0905
 
-And they told him, John the Baptist; and others say, Elijah; and others, one of the prophets. ^0828
+[[G1063|For]] [[G1096|they were all]] [[G1630|so terrified]] [[G1063|that]] ⟨Peter⟩ [[G1492|did not know]] [[G5101|what else]] [[G611|to say.]] ^0906
 
-And he asked them, But who do you say that I am? Peter answered him, You are the Christ. ^0829
+[[G2532|Then]] [[G3507|a cloud]] [[G1096|appeared]] ⟨and⟩ [[G1982|enveloped]] [[G846|them,]] [[G2532|and]] [[G5456|a voice]] [[G1096|came]] [[G1537|from]] [[G3588|the]] [[G3507|cloud:]] [[G3778|“This]] [[G1510|is]] [[G1473|My]] [[G27|beloved]] [[G5207|Son.]] [[G191|Listen]] [[G846|to Him!”]] ^0907
 
-And he strictly charged them to tell no one about him. ^0830
+[[G1819|Suddenly,]] ⟨when⟩ [[G4017|they looked around,]] [[G3708|they saw]] [[G3765|no]] [[G3762|one]] [[G3326|with]] [[G1438|them]] [[G235|except]] [[G2424|Jesus.]] ^0908
 
-And he began to teach them that the Son of Man must suffer many things and be rejected by the elders and the chief priests and the scribes and be killed, and after three days rise again. ^0831
+⟨As⟩ [[G2532|]] [[G846|they]] [[G2597|were coming down]] [[G3588|the]] [[G3735|mountain,]] ⟨Jesus⟩ [[G1291|admonished]] [[G846|them]] [[G1334|not to tell anyone]] [[G3739|what]] [[G3708|they had seen]] [[G3752|until]] [[G3588|the]] [[G5207|Son]] [[G444|of Man]] [[G450|had risen]] [[G1537|from]] ⟨the⟩ [[G3498|dead.]] ^0909
 
-And he said this plainly. And Peter took him aside and began to rebuke him. ^0832
+⟨So⟩ [[G2532|]] [[G2902|they kept]] [[G3588|this]] [[G3056|matter]] [[G4314|to]] [[G1438|themselves,]] [[G4802|discussing]] [[G5101|what]] [[G1510|it meant]] [[G450|to rise]] [[G1537|from]] ⟨the⟩ [[G3498|dead.]] ^0910
 
-But turning and seeing his disciples, he rebuked Peter and said, Get behind me, Satan! For you are not setting your mind on the things of God, but on the things of man. ^0833
+[[G2532|And]] [[G1905|they asked]] ⟨Jesus⟩ [[G846|,]] [[G3588|“ the]] ⟨Why do⟩ [[G1122|scribes]] [[G3004|say]] [[G3754|that]] [[G2243|Elijah]] [[G1163|must]] [[G2064|come]] [[G4412|first?”]] ^0911
 
-And calling the crowd to him with his disciples, he said to them, If anyone would come after me, let him deny himself and take up his cross and follow me. ^0834
+[[G5346|He replied,]] [[G2243|“Elijah]] ⟨does⟩ [[G3303|indeed]] [[G2064|come]] [[G4412|first,]] ⟨and⟩ [[G600|he restores]] [[G3956|all things.]] [[G4459|Why]] [[G2532|then]] [[G1125|is it written]] [[G2443|that]] [[G3588|the]] [[G5207|Son]] [[G444|of Man]] [[G3958|must suffer]] [[G4183|many things]] [[G2532|and]] [[G1847|be rejected?]] ^0912
 
-For whoever would save his life will lose it, but whoever loses his life for my sake and the gospel’s will save it. ^0835
+[[G235|But]] [[G3004|I tell]] [[G4771|you]] [[G3754|that]] [[G2243|Elijah]] [[G2064|has indeed come,]] [[G2532|and]] [[G4160|they have done]] [[G846|to him]] [[G3745|whatever]] [[G2309|they wished,]] [[G2531|just as]] [[G1125|it is written]] [[G1909|about]] [[G846|him.”]] ^0913
 
-For what does it profit a man to gain the whole world and forfeit his soul? ^0836
+⟨When⟩ [[G2532|]] [[G2064|they returned]] [[G4314|to]] [[G3588|the]] ⟨other⟩ [[G3101|disciples,]] [[G3708|they saw]] [[G4183|a large]] [[G3793|crowd]] [[G4012|around]] [[G846|them]] [[G2532|and]] [[G1122|scribes]] [[G4802|arguing]] [[G4314|with]] [[G846|them.]] ^0914
 
-For what can a man give in return for his soul? ^0837
+[[G2112|As soon as]] [[G3956|all]] [[G3588|the]] [[G3793|people]] [[G3708|saw]] ⟨Jesus⟩ [[G846|,]] [[G1568|they were filled with awe]] [[G2532|and]] [[G4370|ran]] [[G782|to greet]] [[G846|Him.]] ^0915
 
-For whoever is ashamed of me and of my words in this adulterous and sinful generation, of him will the Son of Man also be ashamed when he comes in the glory of his Father with the holy angels. ^0838
+[[G5101|“What]] [[G4802|are you disputing]] [[G4314|with]] [[G848|them?”]] [[G1905|He asked.]] ^0916
 
+[[G1520|Someone]] [[G1537|in]] [[G3588|the]] [[G3793|crowd]] [[G611|replied,]] [[G1320|“Teacher,]] [[G5342|I brought]] [[G4771|You]] [[G1473|my]] [[G5207|son,]] [[G2192|who has]] [[G4151|a spirit]] ⟨that makes him⟩ [[G216|mute.]] ^0917
 
+[[G3699|Whenever]] [[G2638|it seizes]] [[G846|him,]] [[G4486|it throws him to the ground.]] [[G875|He foams at the mouth,]] [[G5149|gnashes]] [[G3599|his teeth,]] [[G2532|and]] [[G3583|becomes rigid.]] [[G2036|I asked]] [[G4771|Your]] [[G3101|disciples]] [[G2443|to]] [[G1544|drive it out,]] [[G2532|but]] [[G2480|they were unable.”]] ^0918
 
-And he said to them, Truly, I say to you, there are some standing here who will not taste death until they see the kingdom of God after it has come with power. ^0901
+[[G5599|“O]] [[G571|unbelieving]] [[G1074|generation!”]] ⟨Jesus⟩ [[G3004|]] [[G611|replied.]] [[G2193|“How long]] [[G1510|must I remain]] [[G4314|with]] [[G4771|you?]] [[G2193|How long]] [[G430|must I put up with]] [[G4771|you?]] [[G5342|Bring]] ⟨the boy⟩ [[G846|]] [[G4314|to]] [[G1473|Me.”]] ^0919
 
-And after six days Jesus took with him Peter and James and John, and led them up a high mountain by themselves. And he was transfigured before them, ^0902
+[[G2532|So]] [[G5342|they brought]] [[G846|him,]] [[G2532|and]] [[G3708|seeing]] ⟨Jesus⟩ [[G846|,]] [[G3588|the]] [[G4151|spirit]] [[G2112|immediately]] [[G4952|threw into a convulsion.]] ⟨the boy⟩ [[G4098|He fell]] [[G1909|to]] [[G3588|the]] [[G1093|ground]] ⟨and⟩ [[G2947|rolled around,]] [[G875|foaming at the mouth.]] ^0920
 
-and his clothes became radiant, intensely white, as no one on earth could bleach them. ^0903
+⟨Jesus⟩ [[G1905|asked]] ⟨the boy’s⟩ [[G846|]] [[G3962|father,]] [[G4214|“How long]] ⟨has⟩ [[G3778|this]] [[G1096|been]] [[G846|with him?”]] [[G1537|“From]] [[G3812|childhood,”]] [[G2036|he said.]] ^0921
 
-And there appeared to them Elijah with Moses, and they were talking with Jesus. ^0904
+[[G906|“It often throws]] [[G846|him]] [[G1519|into]] ⟨the⟩ [[G4442|fire]] ⟨or⟩ [[G2532|]] [[G1519|into]] ⟨the⟩ [[G5204|water,]] [[G2443|trying]] [[G622|to kill]] [[G846|him.]] [[G235|But]] [[G1487|if]] [[G1410|You can]] ⟨do⟩ [[G5100|anything,]] [[G4697|have compassion]] [[G1909|on]] [[G1473|us]] ⟨and⟩ [[G997|help]] [[G1473|us.”]] ^0922
 
-And Peter said to Jesus, Rabbi, it is good that we are here. Let us make three tents, one for you and one for Moses and one for Elijah. ^0905
+[[G1487|“If]] [[G1410|You can?”]] [[G2036|echoed]] [[G2424|Jesus.]] [[G3956|“All things]] [[G1415|are possible]] [[G3588|to him who]] [[G4100|believes!”]] ^0923
 
-For he did not know what to say, for they were terrified. ^0906
+[[G2112|Immediately]] [[G3588|the]] [[G3813|boy’s]] [[G3962|father]] [[G2896|cried out,]] [[G4100|“I do believe;]] [[G997|help]] [[G1473|my]] [[G570|unbelief!”]] ^0924
 
-And a cloud overshadowed them, and a voice came out of the cloud, This is my beloved Son; listen to him. ^0907
+[[G1161|When]] [[G2424|Jesus]] [[G3708|saw]] [[G3754|that]] [[G3793|a crowd]] [[G1998|had come running,]] [[G2008|He rebuked]] [[G3588|the]] [[G169|unclean]] [[G4151|spirit.]] [[G2974|“ deaf]] ⟨You⟩ [[G2532|and]] [[G216|mute]] [[G4151|spirit,”]] [[G3004|He said,]] [[G1473|“I]] [[G2004|command]] [[G4771|you]] [[G1831|to come]] [[G1537|out]] [[G2532|and]] [[G3371|never]] [[G1525|enter]] [[G846|him.”]] ⟨again⟩ ^0925
 
-And suddenly, looking around, they no longer saw anyone with them but Jesus only. ^0908
+[[G2896|After shrieking]] [[G2532|and]] [[G4682|convulsing him violently,]] ⟨the spirit⟩ [[G1831|came out.]] ⟨The boy⟩ [[G1096|became]] [[G5616|like]] [[G3498|a corpse,]] [[G5620|so that]] [[G4183|many]] [[G3004|said,]] [[G599|“He is dead.”]] ^0926
 
-And as they were coming down the mountain, he charged them to tell no one what they had seen, until the Son of Man had risen from the dead. ^0909
+[[G1161|But]] [[G2424|Jesus]] [[G2902|took]] [[G846|him]] [[G3588|by the]] [[G5495|hand]] ⟨and⟩ [[G1453|helped him to his feet,]] [[G2532|and]] [[G450|he stood up.]] ^0927
 
-So they kept the matter to themselves, questioning what this rising from the dead might mean. ^0910
+[[G2532|After]] ⟨Jesus⟩ [[G846|]] [[G1525|had gone]] [[G1519|into]] ⟨the⟩ [[G3624|house,]] [[G846|His]] [[G3101|disciples]] [[G1905|asked]] [[G846|Him]] [[G2398|privately,]] [[G3754|“Why]] [[G1410|couldn’t]] [[G1473|we]] [[G1544|drive it out?”]] ^0928
 
-And they asked him, Why do the scribes say that first Elijah must come? ^0911
+⟨Jesus⟩ [[G2036|answered,]] [[G3778|“This]] [[G1085|kind]] [[G1410|cannot]] [[G1831|come out,]] [[G1487|except]] [[G1722|by]] [[G4335|prayer.”]] ^0929
 
-And he said to them, Elijah does come first to restore all things. And how is it written of the Son of Man that he should suffer many things and be treated with contempt? ^0912
+[[G1831|Going on]] [[G2547|from there,]] [[G3899|they passed]] [[G1223|through]] [[G1056|Galilee.]] [[G2532|But]] ⟨Jesus⟩ [[G2309|did not want]] [[G5100|anyone]] [[G1097|to know,]] ^0930
 
-But I tell you that Elijah has come, and they did to him whatever they pleased, as it is written of him. ^0913
+[[G1063|because]] [[G1321|He was teaching]] [[G846|His]] [[G3101|disciples.]] [[G2036|He told]] [[G846|them,]] [[G3588|“The]] [[G5207|Son]] [[G444|of Man]] [[G3860|will be delivered]] [[G1519|into]] ⟨the⟩ [[G5495|hands]] [[G444|of men.]] [[G615|They will kill]] [[G846|Him,]] [[G2532|and]] [[G3326|after]] [[G5140|three]] [[G2250|days]] [[G450|He will rise.”]] ^0931
 
-And when they came to the disciples, they saw a great crowd around them, and scribes arguing with them. ^0914
+[[G1161|But]] [[G50|they did not understand]] [[G3588|this]] [[G4487|statement,]] [[G2532|and]] [[G5399|they were afraid]] [[G1905|to ask]] [[G846|Him.]] ^0932
 
-And immediately all the crowd, when they saw him, were greatly amazed and ran up to him and greeted him. ^0915
+[[G2532|Then]] [[G2064|they came]] [[G1519|to]] [[G2584|Capernaum.]] [[G1096|While was]] ⟨Jesus⟩ [[G1722|in]] [[G3588|the]] [[G3614|house,]] [[G1905|He asked]] [[G846|them,]] [[G5101|“What]] [[G1260|were you discussing]] [[G1722|on]] [[G3588|the]] [[G3598|way?”]] ^0933
 
-And he asked them, What are you arguing about with them? ^0916
+[[G1161|But]] [[G4623|they were silent,]] [[G1063|for]] [[G1722|on]] [[G3588|the]] [[G3598|way]] [[G1256|they had been arguing]] [[G4314|with]] [[G240|each other]] [[G5101|which]] ⟨of them was⟩ ⟨the⟩ [[G3173|greatest.]] ^0934
 
-And someone from the crowd answered him, Teacher, I brought my son to you, for he has a spirit that makes him mute. ^0917
+[[G2523|Sitting down,]] ⟨Jesus⟩ [[G5455|called]] [[G3588|the]] [[G1427|Twelve]] [[G2532|and]] [[G3004|said,]] [[G1487|“If]] [[G5100|anyone]] [[G2309|wants]] [[G1510|to be]] [[G4413|first,]] [[G1510|he must be]] ⟨the⟩ [[G2078|last]] [[G3956|of all]] [[G2532|and]] ⟨the⟩ [[G1249|servant]] [[G3956|of all.”]] ^0935
 
-And whenever it seizes him, it throws him down, and he foams and grinds his teeth and becomes rigid. So I asked your disciples to cast it out, and they were not able. ^0918
+[[G2532|Then]] [[G2476|He had]] [[G3813|a little child]] ⟨stand⟩ [[G3319|among]] [[G846|them.]] [[G1723|Taking in His arms,]] ⟨the child⟩ [[G2036|He said]] [[G846|to them,]] ^0936
 
-And he answered them, O faithless generation, how long am I to be with you? How long am I to bear with you? Bring him to me. ^0919
+[[G3739|“Whoever]] [[G1209|welcomes]] [[G1520|one]] [[G5108|of these]] [[G3813|little children]] [[G1909|in]] [[G1473|My]] [[G3686|name]] [[G1209|welcomes]] [[G1473|Me,]] [[G2532|and]] [[G3739|whoever]] [[G1209|welcomes]] [[G1473|Me]] [[G1209|welcomes]] [[G3756|not only]] [[G1473|Me,]] [[G235|but]] [[G3588|the]] ⟨One⟩ [[G649|who sent]] [[G1473|Me.]] ^0937
 
-And they brought the boy to him. And when the spirit saw him, immediately it convulsed the boy, and he fell on the ground and rolled about, foaming at the mouth. ^0920
+[[G2491|John]] [[G5346|said]] [[G846|to Him,]] [[G1320|“Teacher,]] [[G3708|we saw]] [[G5100|someone]] [[G3739|else]] [[G1544|driving out]] [[G1140|demons]] [[G1722|in]] [[G4771|Your]] [[G3686|name,]] [[G2532|and]] [[G2967|we tried to stop]] [[G846|him,]] [[G3754|because]] [[G190|he does not accompany]] [[G1473|us.”]] ^0938
 
-And Jesus asked his father, How long has this been happening to him? And he said, From childhood. ^0921
+[[G1161|But]] [[G2424|Jesus]] [[G2036|replied,]] [[G3361|“ not]] ⟨Do⟩ [[G2967|stop]] [[G846|him.]] [[G3762|No one]] [[G3739|who]] [[G4160|performs]] [[G1411|a miracle]] [[G1909|in]] [[G1473|My]] [[G3686|name]] [[G1410|can]] [[G5035|turn around]] [[G2532|and]] [[G2551|speak evil of]] [[G1473|Me.]] ^0939
 
-And it has often cast him into fire and into water, to destroy him. But if you can do anything, have compassion on us and help us. ^0922
+[[G1063|For]] [[G3739|whoever]] [[G1510|is]] [[G3756|not]] [[G2596|against]] [[G1473|us]] [[G1510|is]] [[G5228|for]] [[G1473|us.]] ^0940
 
-And Jesus said to him, If you can! All things are possible for one who believes. ^0923
+[[G1063|Indeed,]] [[G3739|if anyone]] [[G4222|gives]] [[G4771|you]] ⟨even⟩ [[G4221|a cup]] [[G5204|of water]] [[G3754|because]] [[G1510|you bear]] [[G3686|the name]] [[G5547|of Christ,]] [[G281|truly]] [[G3004|I tell]] [[G4771|you,]] [[G622|he will never lose]] [[G846|his]] [[G3408|reward.]] ^0941
 
-Immediately the father of the child cried out and said, I believe; help my unbelief! ^0924
+[[G3739|Whoever]] [[G4624|causes]] [[G1520|one]] [[G3778|of these]] [[G3398|little ones]] [[G3588|who]] [[G4100|believe]] [[G1519|in]] [[G1473|Me]] ⟨to stumble⟩, [[G1510|it would be]] [[G2570|better]] [[G846|for him]] [[G1487|to have]] [[G3684|a large]] [[G3458|millstone]] [[G4029|hung]] [[G4012|around]] [[G846|his]] [[G5137|neck]] [[G2532|and]] [[G906|to be thrown]] [[G1519|into]] [[G3588|the]] [[G2281|sea.]] ^0942
 
-And when Jesus saw that a crowd came running together, he rebuked the unclean spirit, saying to it, You mute and deaf spirit, I command you, come out of him and never enter him again. ^0925
+[[G1437|If]] [[G4771|your]] [[G5495|hand]] [[G4624|causes you to fall into sin,]] [[G609|cut it off.]] [[G1510|It is]] [[G2570|better]] [[G4771|for you]] [[G1525|to enter]] [[G2222|life]] [[G2948|crippled]] [[G2228|than]] [[G2192|to have]] [[G1417|two]] [[G5495|hands]] ⟨and⟩ [[G565|go]] [[G1519|into]] [[G1067|hell,]] [[G1519|into]] [[G3588|the]] [[G762|unquenchable]] [[G4442|fire.]] ^0943
 
-And after crying out and convulsing him terribly, it came out, and the boy was like a corpse, so that most of them said, He is dead. ^0926
+[[G3699|where]] [[G846|their]] [[G4663|worm]] ⟨does⟩ [[G3756|not]] [[G5053|die,]] [[G2532|and]] [[G3588|the]] [[G4442|fire]] [[G4570|is not quenched.]] ^0944
 
-But Jesus took him by the hand and lifted him up, and he arose. ^0927
+[[G1437|If]] [[G4771|your]] [[G4228|foot]] [[G4624|causes you to fall into sin,]] [[G609|cut it off.]] [[G1510|It is]] [[G2570|better]] [[G4771|for you]] [[G1525|to enter]] [[G2222|life]] [[G5560|lame]] [[G2228|than]] [[G2192|to have]] [[G1417|two]] [[G4228|feet]] ⟨and⟩ [[G906|be thrown]] [[G1519|into]] [[G1067|hell.]] ^0945
 
-And when he had entered the house, his disciples asked him privately, Why could we not cast it out? ^0928
+[[G3699|where]] [[G846|their]] [[G4663|worm]] ⟨does⟩ [[G3756|not]] [[G5053|die,]] [[G2532|and]] [[G3588|the]] [[G4442|fire]] [[G4570|is not quenched.]] ^0946
 
-And he said to them, This kind cannot be driven out by anything but prayer. ^0929
+[[G2532|And]] [[G1437|if]] [[G4771|your]] [[G3788|eye]] [[G4624|causes you to fall into sin,]] [[G1544|pluck it out.]] [[G1510|It is]] [[G2570|better]] [[G4771|for you]] [[G1525|to enter]] [[G3588|the]] [[G932|kingdom]] [[G2316|of God]] [[G3442|with one eye]] [[G2228|than]] [[G2192|to have]] [[G1417|two]] [[G3788|eyes]] ⟨and⟩ [[G906|be thrown]] [[G1519|into]] [[G1067|hell,]] ^0947
 
-They went on from there and passed through Galilee. And he did not want anyone to know, ^0930
+[[G3699|where]] [[G846|‘their]] [[G4663|worm]] [[G3756|never]] [[G5053|dies,]] [[G2532|and]] [[G3588|the]] [[G4442|fire]] [[G4570|is never quenched.’]] ^0948
 
-for he was teaching his disciples, saying to them, The Son of Man is going to be delivered into the hands of men, and they will kill him. And when he is killed, after three days he will rise. ^0931
+[[G1063|For]] [[G3956|everyone]] [[G233|will be salted]] [[G4442|with fire.]] ^0949
 
-But they did not understand the saying, and were afraid to ask him. ^0932
+[[G217|Salt]] ⟨is⟩ [[G2570|good,]] [[G1161|but]] [[G1437|if]] ⟨it⟩ [[G217|]] [[G358|loses its saltiness,]] [[G1722|with]] [[G5101|what]] [[G741|will you season]] [[G846|it?]] [[G2192|Have]] [[G217|salt]] [[G1722|among]] [[G1438|yourselves,]] [[G2532|and]] [[G1514|be at peace]] [[G1722|with]] [[G240|one another.”]] ^0950
 
-And they came to Capernaum. And when he was in the house he asked them, What were you discussing on the way? ^0933
+[[G2532|Then]] [[G450|Jesus left]] [[G1564|that place]] ⟨and⟩ [[G2064|went]] [[G1519|into]] [[G3588|the]] [[G3725|region]] [[G2449|of Judea,]] [[G4008|beyond]] [[G3588|the]] [[G2446|Jordan.]] [[G3825|Again]] ⟨the⟩ [[G3793|crowds]] [[G4848|came]] [[G4314|to]] [[G846|Him]] [[G2532|and]] [[G1321|He taught]] [[G846|them,]] [[G5613|as]] [[G1486|was His custom.]] ^1001
 
-But they kept silent, for on the way they had argued with one another about who was the greatest. ^0934
+⟨Some⟩ [[G5330|Pharisees]] [[G4334|came]] [[G3985|to test]] [[G846|Him.]] [[G1832|“Is it lawful]] [[G435|for a man]] [[G630|to divorce]] [[G1135|his wife?”]] [[G1905|they inquired.]] ^1002
 
-And he sat down and called the twelve. And he said to them, If anyone would be first, he must be last of all and servant of all. ^0935
+[[G5101|“What]] ⟨did⟩ [[G3475|Moses]] [[G1781|command]] [[G4771|you?”]] [[G611|He replied.]] ^1003
 
-And he took a child and put him in the midst of them, and taking him in his arms, he said to them, ^0936
+[[G2036|They answered,]] [[G3475|“Moses]] [[G2010|permitted]] ⟨a man⟩ [[G1125|to write]] ⟨his wife⟩ [[G975|a certificate]] [[G647|of divorce]] [[G2532|and]] [[G630|send away.”]] ⟨her⟩ ^1004
 
-Whoever receives one such child in my name receives me, and whoever receives me, receives not me but him who sent me. ^0937
+[[G1161|But]] [[G2424|Jesus]] [[G2036|told]] [[G846|them,]] [[G1125|“ wrote]] ⟨Moses⟩ [[G3778|this]] [[G1785|commandment]] [[G4771|for you]] [[G4314|because]] [[G4771|your]] [[G4641|hearts were hard.]] ^1005
 
-John said to him, Teacher, we saw someone casting out demons in your name, and we tried to stop him, because he was not following us. ^0938
+[[G1161|However,]] [[G575|from]] ⟨the⟩ [[G746|beginning]] [[G2937|of creation,]] [[G4160|‘ made]] ⟨God⟩ [[G846|them]] [[G730|male]] [[G2532|and]] [[G2338|female.’]] ^1006
 
-But Jesus said, Do not stop him, for no one who does a mighty work in my name will be able soon afterward to speak evil of me. ^0939
+[[G1752|‘For this reason]] [[G444|a man]] [[G2641|will leave]] [[G846|his]] [[G3962|father]] [[G2532|and]] [[G3384|mother]] [[G2532|and]] [[G4347|be united]] [[G4314|to]] [[G846|his]] [[G1135|wife,]] ^1007
 
-For the one who is not against us is for us. ^0940
+[[G2532|and]] [[G3588|the]] [[G1417|two]] [[G1510|will become]] [[G1520|one]] [[G4561|flesh.’]] [[G5620|So]] [[G1510|they are]] [[G3765|no longer]] [[G1417|two,]] [[G235|but]] [[G1520|one]] [[G4561|flesh.]] ^1008
 
-For truly, I say to you, whoever gives you a cup of water to drink because you belong to Christ will by no means lose his reward. ^0941
+[[G3767|Therefore]] [[G3739|what]] [[G2316|God]] [[G4801|has joined together,]] ⟨let⟩ [[G444|man]] [[G3361|not]] [[G5563|separate.”]] ^1009
 
-Whoever causes one of these little ones who believe in me to sin, it would be better for him if a great millstone were hung around his neck and he were thrown into the sea. ^0942
+[[G2532|When]] ⟨they were⟩ [[G3825|back]] [[G1519|inside]] [[G3588|the]] [[G3614|house,]] [[G3588|the]] [[G3101|disciples]] [[G1905|asked]] ⟨Jesus⟩ [[G846|]] [[G4012|about]] [[G3778|this matter.]] ^1010
 
-And if your hand causes you to sin, cut it off. It is better for you to enter life crippled than with two hands to go to hell, to the unquenchable fire. ^0943
+⟨So⟩ [[G2532|]] [[G3004|He told]] [[G846|them,]] [[G3739|“Whoever]] [[G630|divorces]] [[G846|his]] [[G1135|wife]] [[G2532|and]] [[G1060|marries]] [[G243|another]] ⟨woman⟩ [[G3429|commits adultery]] [[G1909|against]] [[G846|her.]] ^1011
 
-And if your hand causes you to sin, cut it off. It is better for you to enter life crippled than with two hands to go to hell, to the unquenchable fire. ^0944
+[[G2532|And]] [[G1437|if]] [[G846|a woman]] [[G630|divorces]] [[G846|her]] [[G435|husband]] ⟨and⟩ [[G1060|marries]] [[G243|another]] ⟨man⟩, [[G3429|she commits adultery.”]] ^1012
 
-And if your foot causes you to sin, cut it off. It is better for you to enter life lame than with two feet to be thrown into hell. ^0945
+⟨People⟩ [[G4374|were bringing]] ⟨the⟩ [[G3813|little children]] [[G846|to]] ⟨Jesus⟩ [[G2443|for]] [[G680|Him to place His hands]] [[G846|on them.]] [[G1161|But]] [[G3588|the]] [[G3101|disciples]] [[G2008|rebuked]] ⟨those who brought them⟩ [[G846|.]] ^1013
 
-And if your foot causes you to sin, cut it off. It is better for you to enter life lame than with two feet to be thrown into hell. ^0946
+⟨When⟩ [[G2424|Jesus]] [[G3708|saw this,]] [[G23|He was indignant]] [[G2532|and]] [[G2036|told]] [[G846|them,]] [[G863|“Let]] [[G3588|the]] [[G3813|little children]] [[G2064|come]] [[G4314|to]] [[G1473|Me,]] ⟨and⟩ ⟨do⟩ [[G3361|not]] [[G2967|hinder]] [[G846|them!]] [[G1063|For]] [[G3588|the]] [[G932|kingdom]] [[G2316|of God]] [[G1510|belongs]] [[G3588|to]] [[G5108|such]] ⟨as these⟩. ^1014
 
-And if your eye causes you to sin, tear it out. It is better for you to enter the kingdom of God with one eye than with two eyes to be thrown into hell, ^0947
+[[G281|Truly]] [[G3004|I tell]] [[G4771|you,]] [[G3739|whoever]] [[G1209|does not receive]] [[G3588|the]] [[G932|kingdom]] [[G2316|of God]] [[G5613|like]] [[G3813|a little child]] [[G1525|will never enter]] [[G846|it.”]] ^1015
 
-where their worm does not die and the fire is not quenched. ^0948
+[[G2532|And]] [[G1723|He took in His arms,]] ⟨the children⟩ [[G5087|placed]] ⟨His⟩ [[G3588|]] [[G5495|hands]] [[G1909|on]] [[G846|them,]] ⟨and⟩ [[G2127|blessed]] [[G846|them.]] ^1016
 
-For everyone will be salted with fire. ^0949
+[[G2532|As]] ⟨Jesus⟩ [[G1607|started]] [[G1519|on]] [[G846|His]] [[G3598|way,]] ⟨a man⟩ [[G1520|]] [[G4370|ran up]] [[G2532|and]] [[G1120|knelt before]] [[G846|Him.]] [[G18|“Good]] [[G1320|Teacher,”]] [[G1905|he asked,]] [[G5101|“what]] [[G4160|must I do]] [[G2443|to]] [[G2816|inherit]] [[G166|eternal]] [[G2222|life?”]] ^1017
 
-Salt is good, but if the salt has lost its saltiness, how will you make it salty again? Have salt in yourselves, and be at peace with one another. ^0950
+[[G5101|“Why]] [[G3004|do you call]] [[G1473|Me]] [[G18|good?”]] [[G2424|Jesus]] [[G2036|replied.]] [[G3762|“No one]] ⟨is⟩ [[G18|good]] [[G1487|except]] [[G2316|God]] [[G1520|alone.]] ^1018
 
+[[G1492|You know]] [[G3588|the]] [[G1785|commandments:]] [[G3361|‘ not]] ⟨Do⟩ [[G5407|murder,]] ⟨do⟩ [[G3361|not]] [[G3431|commit adultery,]] ⟨do⟩ [[G3361|not]] [[G2813|steal,]] ⟨do⟩ [[G3361|not]] [[G5576|bear false witness,]] ⟨do⟩ [[G3361|not]] [[G650|defraud,]] ⟨and⟩ [[G5091|honor]] [[G4771|your]] [[G3962|father]] [[G2532|and]] [[G3384|mother.’”]] ^1019
 
+[[G1320|“Teacher,”]] [[G5346|he replied,]] [[G5442|“I have kept]] [[G3956|all]] [[G3778|these]] [[G1537|from]] [[G1473|my]] [[G3503|youth.”]] ^1020
 
-And he left there and went to the region of Judea and beyond the Jordan, and crowds gathered to him again. And again, as was his custom, he taught them. ^1001
+[[G2424|Jesus]] [[G1689|looked at]] [[G846|him,]] [[G25|loved]] [[G846|him,]] [[G2532|and]] [[G2036|said]] [[G846|to him,]] [[G1520|“ one thing]] ⟨There is⟩ [[G4771|you]] [[G5302|lack:]] [[G5217|Go,]] [[G4453|sell]] [[G3745|everything]] [[G2192|you have]] [[G2532|and]] [[G1325|give]] [[G3588|to the]] [[G4434|poor,]] [[G2532|and]] [[G2192|you will have]] [[G2344|treasure]] [[G1722|in]] [[G3772|heaven.]] [[G2532|Then]] [[G1204|come,]] [[G190|follow]] [[G1473|Me.]] ^1021
 
-And Pharisees came up and in order to test him asked, Is it lawful for a man to divorce his wife? ^1002
+[[G1161|But]] ⟨the man⟩ [[G4768|was saddened]] [[G1909|by]] ⟨these⟩ [[G3588|]] [[G3056|words]] ⟨and⟩ [[G565|went away]] [[G3076|in sorrow,]] [[G1063|because]] [[G1510|he had]] [[G4183|great]] [[G2933|wealth.]] ^1022
 
-He answered them, What did Moses command you? ^1003
+[[G2532|Then]] [[G2424|Jesus]] [[G4017|looked around]] ⟨and⟩ [[G3004|said to]] [[G846|His]] [[G3101|disciples,]] [[G4459|“How]] [[G1423|hard]] ⟨it is⟩ [[G3588|for the]] [[G5536|rich]] [[G1525|to enter]] [[G3588|the]] [[G932|kingdom]] [[G2316|of God!”]] ^1023
 
-They said, Moses allowed a man to write a certificate of divorce and to send her away. ^1004
+[[G1161|And]] [[G3588|the]] [[G3101|disciples]] [[G2284|were astonished]] [[G1909|at]] [[G846|His]] [[G3056|words.]] [[G1161|But]] [[G2424|Jesus]] [[G3004|said]] [[G846|to them]] [[G3825|again,]] [[G5043|“Children,]] [[G4459|how]] [[G1422|hard]] [[G1510|it is]] [[G1525|to enter]] [[G3588|the]] [[G932|kingdom]] [[G2316|of God!]] ^1024
 
-And Jesus said to them, Because of your hardness of heart he wrote you this commandment. ^1005
+[[G1510|It is]] [[G2123|easier]] ⟨for⟩ [[G2574|a camel]] [[G1330|to pass]] [[G1223|through]] [[G3588|the]] [[G5168|eye]] [[G3588|of a]] [[G4476|needle]] [[G2228|than]] ⟨for⟩ [[G4145|a rich man]] [[G1525|to enter]] [[G3588|the]] [[G932|kingdom]] [[G2316|of God.”]] ^1025
 
-But from the beginning of creation, God made them male and female. ^1006
+[[G1605|They were even more astonished]] ⟨and⟩ [[G3004|said]] [[G4314|to]] [[G1438|one another,]] [[G5101|“Who]] [[G2532|then]] [[G1410|can]] [[G4982|be saved?”]] ^1026
 
-Therefore a man shall leave his father and mother and hold fast to his wife, ^1007
+[[G2424|Jesus]] [[G1689|looked at]] [[G846|them]] ⟨and⟩ [[G3004|said,]] [[G3844|“With]] [[G444|man]] ⟨this is⟩ [[G102|impossible,]] [[G235|but]] [[G3756|not]] [[G3844|with]] [[G2316|God.]] [[G1063|For]] [[G3956|all things]] ⟨are⟩ [[G1415|possible]] [[G3844|with]] [[G2316|God.”]] ^1027
 
-and the two shall become one flesh. So they are no longer two but one flesh. ^1008
+[[G4074|Peter]] [[G756|began]] [[G3004|to say]] [[G846|to Him,]] [[G2400|“Look,]] [[G1473|we]] [[G863|have left]] [[G3956|everything]] [[G2532|and]] [[G190|followed]] [[G4771|You.”]] ^1028
 
-What therefore God has joined together, let not man separate. ^1009
+[[G281|“Truly]] [[G3004|I tell]] [[G4771|you,”]] [[G5346|said]] [[G2424|Jesus,]] [[G3762|“no one]] [[G3739|who]] [[G863|has left]] [[G3614|home]] [[G2228|or]] [[G80|brothers]] [[G2228|or]] [[G79|sisters]] [[G2228|or]] [[G3384|mother]] [[G2228|or]] [[G3962|father]] [[G2228|or]] [[G5043|children]] [[G2228|or]] [[G68|fields]] [[G1752|for My sake]] [[G2532|and]] [[G1752|for]] [[G3588|the]] [[G2098|gospel]] ^1029
 
-And in the house the disciples asked him again about this matter. ^1010
+[[G2983|will fail to receive]] [[G1542|a hundredfold]] [[G1722|in]] [[G3588|the]] [[G3778|present]] [[G2540|age—]] [[G3614|houses]] [[G2532|and]] [[G80|brothers]] [[G2532|and]] [[G79|sisters]] [[G2532|and]] [[G3384|mothers]] [[G2532|and]] [[G5043|children]] [[G2532|and]] [[G68|fields,]] [[G3326|along with]] [[G1375|persecutions—]] [[G2532|and]] ⟨to receive⟩ [[G166|eternal]] [[G2222|life]] [[G1722|in]] [[G3588|the]] [[G165|age]] [[G3588|to]] [[G2064|come.]] ^1030
 
-And he said to them, Whoever divorces his wife and marries another commits adultery against her, ^1011
+[[G1161|But]] [[G4183|many]] ⟨who are⟩ [[G4413|first]] [[G1510|will be]] [[G2078|last,]] [[G2532|and]] [[G3588|the]] [[G2078|last]] ⟨will be⟩ [[G4413|first.”]] ^1031
 
-and if she divorces her husband and marries another, she commits adultery. ^1012
+⟨As⟩ [[G1161|]] [[G1510|they were]] [[G305|going up]] [[G3588|the]] [[G3598|road]] [[G1519|to]] [[G2414|Jerusalem,]] [[G2424|Jesus]] [[G1510|was]] [[G4254|walking ahead of]] [[G846|them.]] ⟨The disciples⟩ [[G2284|were filled with awe,]] [[G1161|but]] [[G3588|those who]] [[G190|followed]] [[G5399|were afraid.]] [[G3825|Again]] ⟨Jesus⟩ [[G3880|took]] [[G3588|the]] [[G1427|Twelve]] ⟨aside⟩ ⟨and⟩ [[G756|began]] [[G3004|to tell]] [[G846|them]] [[G3588|what]] [[G3195|was going]] [[G4819|to happen]] [[G846|to Him:]] ^1032
 
-And they were bringing children to him that he might touch them, and the disciples rebuked them. ^1013
+[[G2400|“Look,]] [[G305|we are going up]] [[G1519|to]] [[G2414|Jerusalem,]] [[G2532|and]] [[G3588|the]] [[G5207|Son]] [[G444|of Man]] [[G3860|will be betrayed]] [[G3588|to the]] [[G749|chief priests]] [[G2532|and]] [[G1122|scribes.]] [[G2632|They will condemn]] [[G846|Him]] [[G2288|to death]] [[G2532|and]] [[G3860|hand Him over]] [[G3588|to the]] [[G1484|Gentiles,]] ^1033
 
-But when Jesus saw it, he was indignant and said to them, Let the children come to me; do not hinder them, for to such belongs the kingdom of God. ^1014
+⟨who⟩ [[G1702|will mock]] [[G846|Him]] [[G2532|and]] [[G1716|spit on]] [[G846|Him]] [[G2532|and]] [[G3146|flog]] ⟨Him⟩ [[G2532|and]] [[G615|kill]] [[G846|Him.]] [[G2532|And]] [[G3326|after]] [[G5140|three]] [[G2250|days]] [[G450|He will rise again.”]] ^1034
 
-Truly, I say to you, whoever does not receive the kingdom of God like a child shall not enter it. ^1015
+[[G2532|Then]] [[G2385|James]] [[G2532|and]] [[G2491|John,]] [[G3588|the]] [[G5207|sons]] [[G2199|of Zebedee,]] [[G4365|came]] [[G846|to]] ⟨Jesus⟩ ⟨and⟩ [[G3004|declared,]] [[G1320|“Teacher,]] [[G2309|we want]] [[G4160|You to do]] [[G1473|for us]] [[G3739|whatever]] [[G154|we ask.”]] ^1035
 
-And he took them in his arms and blessed them, laying his hands on them. ^1016
+[[G5101|“What]] [[G2309|is it you want]] [[G1473|Me]] [[G4160|to do]] [[G4771|for you?”]] [[G2036|He inquired.]] ^1036
 
-And as he was setting out on his journey, a man ran up and knelt before him and asked him, Good Teacher, what must I do to inherit eternal life? ^1017
+[[G2036|They answered,]] [[G1325|“Grant]] [[G2443|that]] [[G1520|one]] [[G4771|of]] ⟨us⟩ [[G2523|may sit]] [[G1537|at]] [[G1188|Your right hand]] [[G2532|and]] ⟨the other⟩ [[G1520|]] [[G1537|at]] [[G710|Your left]] [[G1722|in]] [[G4771|Your]] [[G1391|glory.”]] ^1037
 
-And Jesus said to him, Why do you call me good? No one is good except God alone. ^1018
+[[G1492|“You do not know]] [[G5101|what]] [[G154|you are asking,”]] [[G2424|Jesus]] [[G2036|replied.]] [[G1410|“Can you]] [[G4095|drink]] [[G3588|the]] [[G4221|cup]] [[G1473|I]] [[G4095|will drink,]] ⟨or⟩ [[G2228|]] [[G907|be baptized]] ⟨with⟩ [[G3588|the]] [[G908|baptism]] ⟨I will undergo⟩ [[G907|?”]] ^1038
 
-You know the commandments : Do not murder, Do not commit adultery, Do not steal, Do not bear false witness, Do not defraud, Honor your father and mother. ^1019
+[[G1410|“We can,”]] [[G2036|they answered.]] [[G4095|“You will drink]] [[G3588|the]] [[G4221|cup]] [[G3739|that]] [[G1473|I]] [[G4095|drink,”]] [[G2424|Jesus]] [[G2036|said,]] [[G2532|“and]] [[G907|you will be baptized]] ⟨with⟩ [[G3588|the]] [[G908|baptism]] ⟨I undergo⟩ [[G907|.]] ^1039
 
-And he said to him, Teacher, all these I have kept from my youth. ^1020
+[[G1161|But]] [[G2523|to sit]] [[G1537|at]] [[G1473|My]] [[G1188|right]] [[G2228|or]] ⟨My⟩ [[G2176|left]] [[G1510|is]] [[G3756|not]] [[G1699|Mine]] [[G1325|to grant.]] ⟨These places belong⟩ [[G3739|to those for whom]] [[G2090|they have been prepared.”]] ^1040
 
-And Jesus, looking at him, loved him, and said to him, You lack one thing : go, sell all that you have and give to the poor, and you will have treasure in heaven; and come, follow me. ^1021
+[[G191|On hearing]] ⟨this⟩, [[G3588|the]] [[G1176|ten]] [[G756|became]] [[G23|indignant]] [[G4012|with]] [[G2385|James]] [[G2532|and]] [[G2491|John.]] ^1041
 
-Disheartened by the saying, he went away sorrowful, for he had great possessions. ^1022
+[[G2532|So]] [[G2424|Jesus]] [[G4341|called them together]] ⟨and⟩ [[G3004|said,]] [[G1492|“You know]] [[G3754|that]] [[G3588|those]] [[G1380|regarded as]] [[G757|rulers]] [[G3588|of the]] [[G1484|Gentiles]] [[G2634|exercise lordship over]] [[G846|them,]] [[G2532|and]] [[G846|their]] [[G3173|superiors]] [[G2715|exercise authority over]] [[G846|them.]] ^1042
 
-And Jesus looked around and said to his disciples, How difficult it will be for those who have wealth to enter the kingdom of God! ^1023
+[[G1161|But]] [[G1510|it shall not be]] [[G3779|this way]] [[G1722|among]] [[G4771|you.]] [[G235|Instead,]] [[G3739|whoever]] [[G2309|wants]] [[G1096|to become]] [[G3173|great]] [[G1722|among]] [[G4771|you]] [[G1510|must be]] [[G4771|your]] [[G1249|servant,]] ^1043
 
-And the disciples were amazed at his words. But Jesus said to them again, Children, how difficult it is to enter the kingdom of God! ^1024
+[[G2532|and]] [[G3739|whoever]] [[G2309|wants]] [[G1510|to be]] [[G4413|first]] [[G1510|must be]] ⟨the⟩ [[G1401|slave]] [[G3956|of all.]] ^1044
 
-It is easier for a camel to go through the eye of a needle than for a rich person to enter the kingdom of God. ^1025
+[[G1063|For]] [[G2532|even]] [[G3588|the]] [[G5207|Son]] [[G444|of Man]] [[G2064|did not come]] [[G1247|to be served,]] [[G235|but]] [[G1247|to serve,]] [[G2532|and]] [[G1325|to give]] [[G846|His]] [[G5590|life]] ⟨as⟩ [[G3083|a ransom]] [[G473|for]] [[G4183|many.”]] ^1045
 
-And they were exceedingly astonished, and said to him, Then who can be saved? ^1026
+[[G2532|Next,]] [[G2064|they came]] [[G1519|to]] [[G2410|Jericho.]] [[G2532|And]] [[G846|as]] ⟨Jesus⟩ [[G2532|and]] [[G846|His]] [[G3101|disciples]] [[G1607|were leaving]] [[G2410|Jericho]] [[G2532|with]] [[G2425|a large]] [[G3793|crowd,]] [[G5185|a blind]] [[G4319|beggar]] ⟨named⟩ [[G924|Bartimaeus,]] [[G3588|the]] [[G5207|son]] [[G5090|of Timaeus,]] [[G2521|was sitting]] [[G3844|by]] [[G3588|the]] [[G3598|road.]] ^1046
 
-Jesus looked at them and said, With man it is impossible, but not with God. For all things are possible with God. ^1027
+[[G2532|When]] [[G191|he heard]] [[G3754|that]] [[G1510|it was]] [[G2424|Jesus]] [[G3588|of]] [[G3479|Nazareth,]] [[G756|he began]] [[G2896|to cry out,]] [[G2424|“Jesus,]] [[G5207|Son]] [[G1138|of David,]] [[G1653|have mercy on]] [[G1473|me!”]] ^1047
 
-Peter began to say to him, See, we have left everything and followed you. ^1028
+[[G4183|Many]] ⟨people⟩ [[G2008|admonished]] [[G846|him]] [[G2443|to]] [[G4623|be silent,]] [[G1161|but]] [[G2896|he cried out]] [[G4183|all]] [[G3123|the louder,]] [[G5207|“Son]] [[G1138|of David,]] [[G1653|have mercy on]] [[G1473|me!”]] ^1048
 
-Jesus said, Truly, I say to you, there is no one who has left house or brothers or sisters or mother or father or children or lands, for my sake and for the gospel, ^1029
+[[G2424|Jesus]] [[G2476|stopped]] ⟨and⟩ [[G2036|said,]] [[G5455|“Call]] [[G846|him.”]] [[G2532|So]] [[G5455|they called]] [[G3588|the]] [[G5185|blind]] ⟨man⟩. [[G2293|“Take courage!”]] [[G3004|they said.]] [[G1453|“Get up!]] [[G5455|He is calling for]] [[G4771|you.”]] ^1049
 
-who will not receive a hundredfold now in this time, houses and brothers and sisters and mothers and children and lands, with persecutions, and in the age to come eternal life. ^1030
+[[G577|Throwing off]] [[G846|his]] [[G2440|cloak,]] ⟨Bartimaeus⟩ [[G1530|jumped up]] ⟨and⟩ [[G2064|came]] [[G4314|to]] [[G2424|Jesus.]] ^1050
 
-But many who are first will be last, and the last first. ^1031
+[[G5101|“What]] [[G2309|do you want]] [[G4160|Me to do]] [[G4771|for you?”]] [[G2424|Jesus]] [[G611|asked.]] [[G4462|“Rabboni,”]] [[G2036|said]] [[G3588|the]] [[G5185|blind]] ⟨man⟩, [[G308|“I want to see again.”]] ^1051
 
-And they were on the road, going up to Jerusalem, and Jesus was walking ahead of them. And they were amazed, and those who followed were afraid. And taking the twelve again, he began to tell them what was to happen to him, ^1032
+[[G5217|“Go,”]] [[G2036|said]] [[G2424|Jesus,]] [[G4771|“your]] [[G4102|faith]] [[G4982|has healed]] [[G4771|you.”]] [[G2532|And]] [[G2112|immediately]] [[G308|he received his sight]] [[G2532|and]] [[G190|followed]] ⟨Jesus⟩ [[G846|]] [[G1722|along]] [[G3588|the]] [[G3598|road.]] ^1052
 
-saying, See, we are going up to Jerusalem, and the Son of Man will be delivered over to the chief priests and the scribes, and they will condemn him to death and deliver him over to the Gentiles. ^1033
+[[G3753|As]] [[G1448|they approached]] [[G2414|Jerusalem]] ⟨and came⟩ [[G1519|to]] [[G967|Bethphage]] [[G2532|and]] [[G963|Bethany]] [[G4314|at]] [[G3588|the]] [[G3735|Mount]] [[G1636|of Olives,]] ⟨Jesus⟩ [[G649|sent]] [[G1417|two]] [[G3588|of]] [[G846|His]] [[G3101|disciples]] ^1101
 
-And they will mock him and spit on him, and flog him and kill him. And after three days he will rise. ^1034
+[[G2532|and]] [[G3004|said]] [[G846|to them,]] [[G5217|“Go]] [[G1519|into]] [[G3588|the]] [[G2968|village]] [[G2713|ahead of]] [[G4771|you,]] [[G2532|and]] [[G2112|as soon]] [[G1531|as you enter]] [[G846|it,]] [[G2147|you will find]] [[G4454|a colt]] [[G1210|tied]] ⟨there⟩, [[G1909|on]] [[G3739|which]] [[G3762|no one]] [[G2523|has ever sat.]] [[G3089|Untie]] [[G846|it]] [[G2532|and]] [[G5342|bring]] ⟨it to Me⟩. ^1102
 
-And James and John, the sons of Zebedee, came up to him and said to him, Teacher, we want you to do for us whatever we ask of you. ^1035
+[[G1437|If]] [[G5100|anyone]] [[G2036|asks,]] [[G5101|‘Why]] [[G4160|are you doing]] [[G3778|this?’]] [[G2036|tell]] ⟨him⟩, [[G3588|‘The]] [[G2962|Lord]] [[G5532|needs]] [[G846|it]] [[G2532|and]] [[G649|will return]] [[G846|it]] [[G2112|shortly.’”]] ^1103
 
-And he said to them, What do you want me to do for you? ^1036
+⟨So⟩ [[G2532|]] [[G565|they went]] [[G2532|and]] [[G2147|found]] ⟨the⟩ [[G4454|colt]] [[G1854|outside]] [[G1909|in]] [[G3588|the]] [[G296|street,]] [[G1210|tied]] [[G4314|at]] [[G2374|a doorway.]] [[G3089|They untied]] [[G846|it,]] ^1104
 
-And they said to him, Grant us to sit, one at your right hand and one at your left, in your glory. ^1037
+[[G2532|and]] [[G5100|some]] [[G3588|who were]] [[G2476|standing]] [[G1563|there]] [[G2036|asked,]] [[G5101|“Why]] [[G4160|are you]] [[G3089|untying]] [[G3588|the]] [[G4454|colt?”]] ^1105
 
-Jesus said to them, You do not know what you are asking. Are you able to drink the cup that I drink, or to be baptized with the baptism with which I am baptized? ^1038
+⟨The disciples⟩ [[G2036|answered]] [[G2531|as]] [[G2424|Jesus]] [[G2036|had instructed]] ⟨them⟩, [[G2532|and]] ⟨the people⟩ [[G863|gave them permission.]] ^1106
 
-And they said to him, We are able. And Jesus said to them, The cup that I drink you will drink, and with the baptism with which I am baptized, you will be baptized, ^1039
+[[G5342|They led]] [[G3588|the]] [[G4454|colt]] [[G4314|to]] [[G2424|Jesus]] [[G2532|and]] [[G1911|threw]] [[G846|their]] [[G2440|cloaks]] [[G846|over it,]] [[G2532|and]] [[G2523|He sat]] [[G1909|on]] [[G846|it.]] ^1107
 
-but to sit at my right hand or at my left is not mine to grant, but it is for those for whom it has been prepared. ^1040
+[[G4183|Many]] ⟨in the crowd⟩ [[G4766|spread]] [[G846|their]] [[G2440|cloaks]] [[G1519|on]] [[G3588|the]] [[G3598|road,]] [[G1161|while]] [[G243|others]] ⟨spread⟩ [[G4746|branches]] [[G2875|they had cut]] [[G1537|from]] [[G3588|the]] [[G68|fields.]] ^1108
 
-And when the ten heard it, they began to be indignant at James and John. ^1041
+[[G3588|The]] ⟨ones who⟩ [[G4254|went ahead]] [[G2532|and]] [[G3588|those who]] [[G190|followed]] [[G2896|were shouting:]] [[G5614|“Hosanna!”]] [[G2127|“Blessed is]] [[G3588|He]] ⟨who⟩ [[G2064|comes]] [[G1722|in]] ⟨the⟩ [[G3686|name]] [[G2962|of Lord!”]] ⟨the⟩ ^1109
 
-And Jesus called them to him and said to them, You know that those who are considered rulers of the Gentiles lord it over them, and their great ones exercise authority over them. ^1042
+[[G2127|“Blessed]] ⟨is⟩ [[G3588|the]] [[G2064|coming]] [[G932|kingdom]] [[G1473|of our]] [[G3962|father]] [[G1138|David!”]] [[G5614|“Hosanna]] [[G1722|in]] [[G3588|the]] [[G5310|highest!”]] ^1110
 
-But it shall not be so among you. But whoever would be great among you must be your servant, ^1043
+[[G2532|Then]] ⟨Jesus⟩ [[G1525|entered]] [[G2414|Jerusalem]] ⟨and went⟩ [[G1519|into]] [[G3588|the]] [[G2411|temple courts.]] [[G4017|He looked around at]] [[G3956|everything,]] ⟨but since⟩ [[G3588|]] ⟨it⟩ [[G5610|]] [[G1510|was]] [[G2235|already]] [[G3796|late,]] [[G1831|He went out]] [[G1519|to]] [[G963|Bethany]] [[G3326|with]] [[G3588|the]] [[G1427|Twelve.]] ^1111
 
-and whoever would be first among you must be slave of all. ^1044
+[[G3588|The]] [[G1887|next day,]] ⟨when⟩ [[G846|they]] [[G1831|had left]] [[G963|Bethany,]] ⟨Jesus⟩ [[G3983|was hungry.]] ^1112
 
-For even the Son of Man came not to be served but to serve, and to give his life as a ransom for many. ^1045
+[[G3708|Seeing]] [[G575|in]] [[G3113|the distance]] [[G4808|a fig tree]] [[G2192|in]] [[G5444|leaf,]] [[G2064|He went]] [[G2147|to see]] [[G1487|if]] [[G687|there was]] [[G5100|any]] ⟨fruit⟩ [[G1722|on]] [[G846|it.]] [[G2532|But when]] [[G2064|He reached]] [[G846|it,]] [[G2147|He found]] [[G3762|nothing]] ⟨on it⟩ [[G1487|except]] [[G5444|leaves,]] [[G1063|since]] [[G1510|it was]] [[G3756|not]] [[G3588|the]] [[G2540|season]] [[G4810|for figs.]] ^1113
 
-And they came to Jericho. And as he was leaving Jericho with his disciples and a great crowd, Bartimaeus, a blind beggar, the son of Timaeus, was sitting by the roadside. ^1046
+[[G2532|Then]] [[G2036|He said]] [[G846|to]] ⟨the tree⟩, [[G3367|“ no one]] ⟨May⟩ [[G3371|ever]] [[G5315|eat]] [[G1537|of]] [[G4771|your]] [[G2590|fruit.”]] ⟨again⟩ [[G2532|And]] [[G846|His]] [[G3101|disciples]] [[G191|heard]] ⟨this statement⟩. ^1114
 
-And when he heard that it was Jesus of Nazareth, he began to cry out and say, Jesus, Son of David, have mercy on me! ^1047
+[[G2532|When]] [[G2064|they arrived]] [[G1519|in]] [[G2414|Jerusalem,]] ⟨Jesus⟩ [[G1525|entered]] [[G3588|the]] [[G2411|temple courts]] ⟨and⟩ [[G756|began]] [[G1544|to drive out]] [[G3588|those who]] [[G59|were buying]] [[G2532|and]] [[G4453|selling]] ⟨there⟩ [[G2411|.]] [[G2690|He overturned]] [[G3588|the]] [[G5132|tables]] [[G3588|of the]] [[G2855|money changers]] [[G2532|and]] [[G3588|the]] [[G2515|seats]] [[G3588|of those]] [[G4453|selling]] [[G4058|doves.]] ^1115
 
-And many rebuked him, telling him to be silent. But he cried out all the more, Son of David, have mercy on me! ^1048
+[[G2532|And]] [[G863|He would not allow]] [[G5100|anyone]] [[G1308|to carry]] [[G4632|merchandise]] [[G1223|through]] [[G3588|the]] [[G2411|temple courts.]] ^1116
 
-And Jesus stopped and said, Call him. And they called the blind man, saying to him, Take heart. Get up; he is calling you. ^1049
+[[G2532|Then]] [[G1321|He began to teach]] [[G846|them]] [[G2532|and]] [[G2036|declare,]] [[G1125|“Is it not written:]] [[G1473|‘My]] [[G3624|house]] [[G2564|will be called]] [[G3624|a house]] [[G4335|of prayer]] [[G3956|for all]] [[G3588|the]] [[G1484|nations’?]] [[G1161|But]] [[G4771|you]] [[G4160|have made]] [[G846|it]] [[G4693|‘a den]] [[G3027|of robbers.’”]] ^1117
 
-And throwing off his cloak, he sprang up and came to Jesus. ^1050
+[[G2532|When]] [[G3588|the]] [[G749|chief priests]] [[G2532|and]] [[G1122|scribes]] [[G191|heard]] ⟨this⟩, [[G2212|they looked for]] [[G4459|a way]] [[G622|to kill]] [[G846|Him.]] [[G1063|For]] [[G5399|they were afraid]] [[G846|of Him,]] [[G1063|because]] [[G3588|the]] [[G3956|whole]] [[G3793|crowd]] [[G1605|was astonished]] [[G1909|at]] [[G846|His]] [[G1322|teaching.]] ^1118
 
-And Jesus said to him, What do you want me to do for you? And the blind man said to him, Rabbi, let me recover my sight. ^1051
+[[G2532|And]] [[G3752|when]] [[G3796|evening]] [[G1096|came,]] ⟨Jesus and His disciples⟩ [[G1607|went]] [[G1854|out of]] [[G3588|the]] [[G4172|city.]] ^1119
 
-And Jesus said to him, Go your way; your faith has made you well. And immediately he recovered his sight and followed him on the way. ^1052
+⟨As⟩ [[G2532|]] [[G3899|they were walking back]] [[G4404|in the morning,]] [[G3708|they saw]] [[G3588|the]] [[G4808|fig tree]] [[G3583|withered]] [[G1537|from]] ⟨its⟩ [[G4491|roots.]] ^1120
 
+[[G4074|Peter]] [[G363|remembered]] ⟨it⟩ ⟨and⟩ [[G3004|said,]] [[G2400|“Look,]] [[G4461|Rabbi!]] [[G3588|The]] [[G4808|fig tree]] [[G2672|You cursed]] [[G3583|has withered.”]] ^1121
 
+[[G2192|“Have]] [[G4102|faith]] [[G2316|in God,”]] [[G2424|Jesus]] [[G3004|said]] [[G846|to them.]] ^1122
 
-Now when they drew near to Jerusalem, to Bethphage and Bethany, at the Mount of Olives, Jesus sent two of his disciples ^1101
+[[G281|“Truly]] [[G3004|I tell]] [[G4771|you]] [[G3754|that]] [[G3739|if anyone]] [[G2036|says]] [[G3778|to this]] [[G3735|mountain,]] [[G142|‘Be lifted up]] [[G2532|and]] [[G906|thrown]] [[G1519|into]] [[G3588|the]] [[G2281|sea,’]] [[G2532|and]] [[G1252|has no doubt]] [[G1722|in]] [[G846|his]] [[G2588|heart]] [[G235|but]] [[G4100|believes]] [[G3754|that]] ⟨it⟩ [[G2980|]] [[G1096|will happen,]] [[G1510|it will be done]] [[G846|for him.]] ^1123
 
-and said to them, Go into the village in front of you, and immediately as you enter it you will find a colt tied, on which no one has ever sat. Untie it and bring it. ^1102
+[[G1223|Therefore]] [[G3004|I tell]] [[G4771|you,]] [[G3745|whatever]] [[G154|you ask]] [[G4336|in prayer,]] [[G4100|believe]] [[G3754|that]] [[G2983|you have received]] ⟨it⟩, [[G2532|and]] ⟨it⟩ [[G1510|will be]] [[G4771|yours.]] ^1124
 
-If anyone says to you, Why are you doing this? say, The Lord has need of it and will send it back here immediately. ^1103
+[[G2532|And]] [[G3752|when]] [[G4739|you stand]] [[G4336|to pray,]] [[G1487|if]] [[G2192|you hold]] [[G5100|anything]] [[G2596|against]] ⟨another⟩ [[G5100|,]] [[G863|forgive]] ⟨it⟩, [[G2443|so that]] [[G4771|your]] [[G3962|Father]] [[G1722|in]] [[G3772|heaven]] [[G863|will forgive]] [[G4771|your]] [[G3900|trespasses]] [[G2532|as well.”]] ^1125
 
-And they went away and found a colt tied at a door outside in the street, and they untied it. ^1104
+[[G1161|But]] [[G1487|if]] [[G4771|you]] ⟨do⟩ [[G3756|not]] [[G863|forgive,]] [[G3761|neither]] [[G3962|Father]] ⟨will⟩ [[G4771|your]] [[G3588|who]] ⟨is⟩ [[G1722|in]] [[G3772|heaven]] [[G863|forgive]] [[G4771|your]] [[G3900|trespasses.]] ^1126
 
-And some of those standing there said to them, What are you doing, untying the colt? ^1105
+[[G2064|After their return]] [[G1519|to]] [[G2414|Jerusalem,]] ⟨Jesus⟩ [[G846|]] [[G4043|was walking]] [[G1722|in]] [[G3588|the]] [[G2411|temple courts,]] ⟨and⟩ [[G3588|the]] [[G749|chief priests,]] [[G1122|scribes,]] [[G2532|and]] [[G4245|elders]] [[G2064|came up]] [[G4314|to]] [[G846|Him.]] ^1127
 
-And they told them what Jesus had said, and they let them go. ^1106
+[[G1722|“By]] [[G4169|what]] [[G1849|authority]] [[G4160|are You doing]] [[G3778|these things?”]] [[G2036|they asked.]] [[G2228|“]] ⟨And⟩ [[G5101|who]] [[G1325|gave]] [[G4771|You]] [[G3588|the]] [[G1849|authority]] [[G2443|to]] [[G4160|do]] ⟨them⟩ [[G3778|?”]] ^1128
 
-And they brought the colt to Jesus and threw their cloaks on it, and he sat on it. ^1107
+[[G1905|“I will ask]] [[G4771|you]] [[G1520|one]] [[G3056|question,”]] [[G2424|Jesus]] [[G2036|replied,]] [[G2532|“and]] ⟨if⟩ [[G611|you answer]] [[G1473|Me,]] [[G2046|I will tell]] [[G4771|you]] [[G1722|by]] [[G4169|what]] [[G1849|authority]] [[G4160|I am doing]] [[G3778|these things.]] ^1129
 
-And many spread their cloaks on the road, and others spread leafy branches that they had cut from the fields. ^1108
+[[G3588|The]] [[G908|baptism]] [[G2491|of John,]] [[G1510|was it]] [[G1537|from]] [[G3772|heaven]] [[G2228|or]] [[G1537|from]] [[G444|men?]] [[G611|Answer]] [[G1473|Me!”]] ^1130
 
-And those who went before and those who followed were shouting, Hosanna! Blessed is he who comes in the name of the Lord! ^1109
+[[G1260|They deliberated]] [[G4314|among]] [[G1438|themselves]] [[G5101|what]] [[G2036|they should answer:]] [[G1437|“If]] [[G2036|we say,]] [[G1537|‘From]] [[G3772|heaven,’]] [[G2046|He will ask,]] [[G1223|‘Why]] [[G3767|then]] [[G4100|did you not believe]] [[G846|him?’]] ^1131
 
-Blessed is the coming kingdom of our father David! Hosanna in the highest! ^1110
+[[G235|But]] [[G2036|if we say,]] [[G1537|‘From]] [[G444|men’...”]] [[G5399|they were afraid of]] [[G3588|the]] [[G3793|people,]] [[G1063|for]] [[G537|they all]] [[G2192|held]] [[G3588|that]] [[G2491|John]] [[G3689|truly]] [[G1510|was]] [[G4396|a prophet.]] ^1132
 
-And he entered Jerusalem and went into the temple. And when he had looked around at everything, as it was already late, he went out to Bethany with the twelve. ^1111
+[[G2532|So]] [[G611|they answered]] ⟨Him⟩ [[G2424|,]] [[G1492|“We do not know.”]] [[G2532|And]] [[G2424|Jesus]] [[G3004|replied,]] [[G3761|“Neither]] ⟨will⟩ [[G1473|I]] [[G3004|tell]] [[G4771|you]] [[G1722|by]] [[G4169|what]] [[G1849|authority]] [[G4160|I am doing]] [[G3778|these things.”]] ^1133
 
-On the following day, when they came from Bethany, he was hungry. ^1112
+[[G2532|Then]] ⟨Jesus⟩ [[G756|began]] [[G2980|to speak]] [[G846|to them]] [[G1722|in]] [[G3850|parables:]] [[G444|“A man]] [[G5452|planted]] [[G290|a vineyard.]] [[G4060|He put]] [[G5418|a wall]] ⟨around it⟩, [[G3736|dug]] [[G5276|a wine vat,]] [[G2532|and]] [[G3618|built]] [[G4444|a watchtower.]] [[G2532|Then]] [[G1554|he rented it out]] [[G1092|to tenants]] ⟨some⟩ [[G2532|and]] [[G589|went away on a journey.]] ^1201
 
-And seeing in the distance a fig tree in leaf, he went to see if he could find anything on it. When he came to it, he found nothing but leaves, for it was not the season for figs. ^1113
+[[G2540|At harvest time,]] [[G649|he sent]] [[G1401|a servant]] [[G4314|to]] [[G3588|the]] [[G1092|tenants]] [[G2443|to]] [[G2983|collect]] ⟨his share⟩ [[G575|of]] [[G3588|the]] [[G2590|fruit]] [[G3588|of the]] [[G290|vineyard.]] ^1202
 
-And he said to it, May no one ever eat fruit from you again. And his disciples heard it. ^1114
+[[G2532|But]] [[G2983|they seized]] ⟨the servant⟩ [[G846|,]] [[G1194|beat]] ⟨him⟩, [[G2532|and]] [[G649|sent away]] ⟨him⟩ [[G2756|empty-handed.]] ^1203
 
-And they came to Jerusalem. And he entered the temple and began to drive out those who sold and those who bought in the temple, and he overturned the tables of the money-changers and the seats of those who sold pigeons. ^1115
+[[G2532|Then]] [[G649|he sent]] [[G846|them]] [[G243|another]] [[G1401|servant,]] [[G2548|and]] [[G2775|they struck over the head]] ⟨him⟩ [[G2532|and]] [[G818|treated shamefully.]] ⟨him⟩ ^1204
 
-And he would not allow anyone to carry anything through the temple. ^1116
+[[G649|He sent]] [[G243|still another,]] [[G2548|and this one]] [[G615|they killed.]] ⟨He sent⟩ [[G2532|]] [[G4183|many]] [[G243|others;]] [[G3739|some]] [[G1194|they beat]] [[G1161|and]] ⟨others⟩ [[G3739|]] [[G615|they killed.]] ^1205
 
-And he was teaching them and saying to them, Is it not written, My house shall be called a house of prayer for all the nations? But you have made it a den of robbers. ^1117
+[[G2078|Finally,]] [[G2192|having]] [[G1520|one]] [[G27|beloved]] [[G5207|son,]] [[G649|he sent]] [[G846|him]] [[G4314|to]] [[G846|them.]] [[G1788|‘They will respect]] [[G1473|my]] [[G5207|son,’]] [[G3004|he said.]] ^1206
 
-And the chief priests and the scribes heard it and were seeking a way to destroy him, for they feared him, because all the crowd was astonished at his teaching. ^1118
+[[G1161|But]] ⟨the⟩ [[G1565|]] [[G1092|tenants]] [[G2036|said]] [[G4314|to]] [[G1438|one another,]] [[G3778|‘This]] [[G1510|is]] [[G3588|the]] [[G2818|heir;]] [[G1205|come,]] [[G615|let us kill]] [[G846|him,]] [[G2532|and]] [[G3588|the]] [[G2817|inheritance]] [[G1510|will be]] [[G1473|ours.’]] ^1207
 
-And when evening came they went out of the city. ^1119
+[[G2532|So]] [[G2983|they seized]] ⟨the son⟩, [[G615|killed]] [[G846|him,]] [[G2532|and]] [[G1544|threw]] [[G846|him]] [[G1854|out]] [[G3588|of the]] [[G290|vineyard.]] ^1208
 
-As they passed by in the morning, they saw the fig tree withered away to its roots. ^1120
+[[G5101|What]] [[G3767|then]] ⟨will⟩ [[G3588|the]] [[G2962|owner]] [[G3588|of the]] [[G290|vineyard]] [[G4160|do?]] [[G2064|He will come]] [[G2532|and]] [[G622|kill]] ⟨those⟩ [[G3588|]] [[G1092|tenants]] [[G2532|and]] [[G1325|give]] [[G3588|the]] [[G290|vineyard]] [[G243|to others.]] ^1209
 
-And Peter remembered and said to him, Rabbi, look! The fig tree that you cursed has withered. ^1121
+[[G314|Have you never read]] [[G3778|this]] [[G1124|Scripture:]] [[G3037|‘ stone]] ⟨The⟩ [[G3588|the]] [[G3618|builders]] [[G593|rejected]] [[G1096|has become]] [[G1519|the]] [[G1137|cornerstone.]] ^1210
 
-And Jesus answered them, Have faith in God. ^1122
+[[G3778|This]] [[G1096|is]] [[G3844|from]] ⟨the⟩ [[G2962|Lord,]] [[G2532|and]] [[G1510|it is]] [[G2298|marvelous]] [[G1722|in]] [[G1473|our]] [[G3788|eyes’?”]] ^1211
 
-Truly, I say to you, whoever says to this mountain, Be taken up and thrown into the sea, and does not doubt in his heart, but believes that what he says will come to pass, it will be done for him. ^1123
+[[G2532|At this,]] ⟨the leaders⟩ [[G2212|sought]] [[G2902|to arrest]] ⟨Jesus⟩ [[G846|,]] [[G1063|for]] [[G1097|they knew]] [[G3754|that]] [[G2036|He had spoken]] ⟨this⟩ [[G3588|]] [[G3850|parable]] [[G4314|against]] [[G846|them.]] [[G2532|But]] [[G5399|fearing]] [[G3588|the]] [[G3793|crowd,]] [[G863|they left]] [[G846|Him]] ⟨and⟩ [[G565|went away.]] ^1212
 
-Therefore I tell you, whatever you ask in prayer, believe that you have received it, and it will be yours. ^1124
+[[G2532|Later,]] [[G649|they sent]] [[G5100|some]] [[G3588|of the]] [[G5330|Pharisees]] [[G2532|and]] [[G2265|Herodians]] [[G2443|to]] [[G64|catch]] ⟨Jesus⟩ [[G846|]] [[G3056|in words.]] ⟨His⟩ ^1213
 
-And whenever you stand praying, forgive, if you have anything against anyone, so that your Father also who is in heaven may forgive you your trespasses. ^1125
+[[G1320|“Teacher,”]] [[G3004|they said,]] [[G1492|“we know]] [[G3754|that]] [[G1510|You are]] [[G227|honest]] [[G2532|and]] [[G3199|are swayed]] [[G3762|by no one.]] [[G1063|Indeed,]] [[G991|You are impartial]] ⟨and⟩ [[G235|]] [[G1321|teach]] [[G3588|the]] [[G3598|way]] [[G2316|of God]] [[G1909|in accordance with]] ⟨the⟩ [[G225|truth.]] ⟨Now then,⟩ [[G1832|is it lawful]] [[G1325|to pay]] [[G2778|taxes]] [[G2541|to Caesar]] [[G2228|or]] [[G3756|not?]] [[G1325|Should we pay]] ⟨them⟩ [[G2228|or]] [[G3361|not?”]] ^1214
 
-[But if you do not forgive, neither will your Father who is in heaven forgive your trespasses.] ^1126
+[[G1161|But]] ⟨Jesus⟩ [[G1492|saw through]] [[G846|their]] [[G5272|hypocrisy]] ⟨and⟩ [[G2036|said,]] [[G5101|“Why]] [[G3985|are you testing]] [[G1473|Me?]] [[G5342|Bring]] [[G1473|Me]] [[G1220|a denarius]] [[G2443|to]] [[G3708|inspect.”]] ^1215
 
-And they came again to Jerusalem. And as he was walking in the temple, the chief priests and the scribes and the elders came to him, ^1127
+⟨So⟩ [[G1161|]] [[G5342|they brought]] ⟨it⟩, [[G2532|and]] [[G3004|He asked]] [[G846|them,]] [[G5101|“Whose]] [[G1504|likeness]] ⟨is⟩ [[G3778|this?]] [[G2532|And]] ⟨whose⟩ [[G3588|]] [[G1923|inscription?”]] [[G2541|“Caesar’s,”]] [[G2036|they answered.]] ^1216
 
-and they said to him, By what authority are you doing these things, or who gave you this authority to do them? ^1128
+[[G1161|Then]] [[G2424|Jesus]] [[G2036|told]] [[G846|them,]] [[G591|“Give]] [[G2541|to Caesar]] [[G3588|what is]] [[G2541|Caesar’s,]] [[G2532|and]] [[G2316|to God]] [[G3588|what is]] [[G2316|God’s.”]] [[G2532|And]] [[G2296|they marveled]] [[G1909|at]] [[G846|Him.]] ^1217
 
-Jesus said to them, I will ask you one question; answer me, and I will tell you by what authority I do these things. ^1129
+[[G2532|Then]] ⟨some⟩ [[G4523|Sadducees,]] [[G3748|who]] [[G3004|say]] [[G1510|there is]] [[G3361|no]] [[G386|resurrection,]] [[G2064|came]] [[G2532|and]] [[G1905|questioned]] [[G846|Him:]] ^1218
 
-Was the baptism of John from heaven or from man? Answer me. ^1130
+[[G1320|“Teacher,]] [[G3475|Moses]] [[G1125|wrote]] [[G1473|for us]] [[G3754|that]] [[G1437|if]] [[G5100|a man’s]] [[G80|brother]] [[G599|dies]] [[G2532|and]] [[G2641|leaves]] [[G1135|a wife]] [[G2532|but]] [[G3361|no]] [[G5043|children,]] ⟨the man⟩ [[G80|]] [[G2983|should marry]] [[G3588|the]] [[G1135|widow]] [[G2532|and]] [[G1817|raise up]] [[G4690|offspring]] [[G3588|for]] [[G846|his]] [[G80|brother.]] ^1219
 
-And they discussed it with one another, saying, If we say, From heaven, he will say, Why then did you not believe him? ^1131
+⟨Now⟩ [[G1510|there were]] [[G2033|seven]] [[G80|brothers.]] [[G3588|The]] [[G4413|first]] ⟨one⟩ [[G2983|married]] [[G2532|and]] [[G599|died,]] [[G863|leaving]] [[G3756|no]] [[G4690|children.]] ^1220
 
-But shall we say, From man? — they were afraid of the people, for they all held that John really was a prophet. ^1132
+[[G2532|Then]] [[G3588|the]] [[G1208|second]] ⟨one⟩ [[G2983|married]] ⟨the widow⟩ [[G846|,]] ⟨but⟩ [[G2532|he also died]] ⟨and⟩ [[G2641|left]] [[G3361|no]] [[G4690|children.]] [[G2532|And]] [[G3588|the]] [[G5154|third]] ⟨did⟩ [[G5615|likewise.]] ^1221
 
-So they answered Jesus, We do not know. And Jesus said to them, Neither will I tell you by what authority I do these things. ^1133
+[[G2532|In this way,]] [[G3756|none]] [[G3588|of the]] [[G2033|seven]] [[G863|left]] ⟨any⟩ [[G4690|children.]] [[G2532|And]] [[G2078|last]] [[G3956|of all,]] [[G3588|the]] [[G1135|woman]] [[G599|died.]] ^1222
 
+[[G1722|In]] [[G3588|the]] [[G386|resurrection,]] [[G5101|whose]] [[G1135|wife]] [[G1510|will she be?]] [[G1063|For]] ⟨all⟩ [[G3588|]] [[G2033|seven]] [[G2192|were]] [[G1135|married]] [[G846|to her.”]] ^1223
 
+[[G2424|Jesus]] [[G5346|said]] [[G846|to them,]] [[G4105|“Aren’t you mistaken]] [[G1223|because]] [[G1492|you do not know]] [[G3588|the]] [[G1124|Scriptures]] ⟨or⟩ [[G3366|]] [[G3588|the]] [[G1411|power]] [[G2316|of God?]] ^1224
 
-And he began to speak to them in parables. A man planted a vineyard and put a fence around it and dug a pit for the winepress and built a tower, and leased it to tenants and went into another country. ^1201
+[[G3752|When]] [[G450|the dead rise,]] [[G1060|they will neither marry]] [[G3777|nor]] [[G1061|be given in marriage.]] [[G235|Instead,]] [[G1510|they will be]] [[G5613|like]] ⟨the⟩ [[G32|angels]] [[G1722|in]] [[G3772|heaven.]] ^1225
 
-When the season came, he sent a servant to the tenants to get from them some of the fruit of the vineyard. ^1202
+[[G1161|And]] [[G4012|regarding]] [[G3588|the]] [[G3498|dead]] [[G1453|rising,]] [[G314|have you not read]] [[G1909|about]] [[G3588|the]] ⟨burning⟩ [[G942|bush]] [[G1722|in]] [[G3588|the]] [[G976|book]] [[G3475|of Moses,]] [[G4459|how]] [[G2316|God]] [[G2036|told]] [[G846|him,]] [[G1473|‘I]] ⟨am⟩ [[G3588|the]] [[G2316|God]] [[G11|of Abraham,]] [[G3588|the]] [[G2316|God]] [[G2464|of Isaac,]] [[G2532|and]] [[G3588|the]] [[G2316|God]] [[G2384|of Jacob?]] ^1226
 
-And they took him and beat him and sent him away empty-handed. ^1203
+[[G1510|He is]] [[G3756|not]] ⟨the⟩ [[G2316|God]] [[G3498|of dead,]] ⟨the⟩ [[G235|but]] [[G2198|of living.]] ⟨the⟩ [[G4105|You are badly mistaken!”]] ^1227
 
-Again he sent to them another servant, and they struck him on the head and treated him shamefully. ^1204
+[[G2532|Now]] [[G1520|one]] [[G3588|of the]] [[G1122|scribes]] [[G4334|had come up]] [[G191|and heard]] [[G846|their]] [[G4802|debate.]] [[G3708|Noticing]] [[G2573|how well]] ⟨Jesus⟩ [[G611|had answered]] [[G846|them,]] [[G1905|he asked]] [[G846|Him,]] [[G4169|“Which]] [[G1785|commandment]] [[G1510|is]] ⟨the⟩ [[G4413|most important]] [[G3956|of all?”]] ^1228
 
-And he sent another, and him they killed. And so with many others : some they beat, and some they killed. ^1205
+[[G2424|Jesus]] [[G611|replied,]] [[G1510|“This is]] [[G3754|the]] [[G4413|most important:]] [[G191|‘Hear]] [[G2474|O Israel,]] ⟨the⟩ [[G2962|Lord]] [[G1473|our]] [[G2316|God]] [[G1510|is]] [[G1520|One]] [[G2962|Lord,]] ^1229
 
-He had still one other, a beloved son. Finally he sent him to them, saying, They will respect my son. ^1206
+[[G2532|and]] [[G25|you shall love]] ⟨the⟩ [[G2962|Lord]] [[G4771|your]] [[G2316|God]] [[G1537|with]] [[G3650|all]] [[G4771|your]] [[G2588|heart]] [[G2532|and]] [[G1537|with]] [[G3650|all]] [[G4771|your]] [[G5590|soul]] [[G2532|and]] [[G1537|with]] [[G3650|all]] [[G4771|your]] [[G1271|mind]] [[G2532|and]] [[G1537|with]] [[G3650|all]] [[G4771|your]] [[G2479|strength.]] ^1230
 
-But those tenants said to one another, This is the heir. Come, let us kill him, and the inheritance will be ours. ^1207
+⟨The⟩ [[G1208|second]] ⟨is⟩ [[G3778|this:]] [[G25|‘Love]] [[G4771|your]] [[G4139|neighbor]] [[G5613|as]] [[G4572|yourself.’]] [[G3756|No]] [[G243|other]] [[G1785|commandment]] [[G1510|is]] [[G3173|greater]] [[G3778|than these.”]] ^1231
 
-And they took him and killed him and threw him out of the vineyard. ^1208
+[[G2573|“Right,]] [[G1320|Teacher,”]] [[G3588|the]] [[G1122|scribe]] [[G2036|replied.]] [[G2036|“You have stated]] [[G225|correctly]] [[G3754|that]] ⟨God⟩ [[G1510|is]] [[G1520|One]] [[G2532|and]] [[G1510|there is]] [[G3756|no]] [[G243|other]] [[G4133|but]] [[G846|Him,]] ^1232
 
-What will the owner of the vineyard do? He will come and destroy the tenants and give the vineyard to others. ^1209
+[[G2532|and]] [[G25|to love]] [[G846|Him]] [[G1537|with]] [[G3650|all]] ⟨your⟩ [[G3588|]] [[G2588|heart]] [[G2532|and]] [[G1537|with]] [[G3650|all]] ⟨your⟩ [[G3588|]] [[G4907|understanding]] [[G2532|and]] [[G1537|with]] [[G3650|all]] ⟨your⟩ [[G3588|]] [[G2479|strength,]] [[G2532|and]] [[G25|to love]] ⟨your⟩ [[G3588|]] [[G4139|neighbor]] [[G5613|as]] [[G1438|yourself,]] [[G1510|which is]] [[G4053|more important]] [[G3956|than all]] [[G3646|burnt offerings]] [[G2532|and]] [[G2378|sacrifices.]] ^1233
 
-Have you not read this Scripture : The stone that the builders rejected has become the cornerstone; ^1210
+[[G2532|When]] [[G2424|Jesus]] [[G3708|saw]] [[G3754|that]] ⟨the man⟩ [[G611|had answered]] [[G3562|wisely,]] [[G2036|He said,]] [[G1510|“You are]] [[G3756|not]] [[G3112|far]] [[G575|from]] [[G3588|the]] [[G932|kingdom]] [[G2316|of God.”]] [[G2532|And]] [[G3762|no one]] [[G5111|dared]] [[G1905|to question]] [[G846|Him]] ⟨any⟩ [[G3765|further.]] ^1234
 
-this was the Lord’s doing, and it is marvelous in our eyes? ^1211
+[[G2532|While]] ⟨Jesus⟩ [[G1321|was teaching]] [[G1722|in]] [[G3588|the]] [[G2411|temple courts,]] ⟨He⟩ [[G2424|]] [[G2036|asked,]] [[G4459|“How]] ⟨can⟩ [[G3588|the]] [[G1122|scribes]] [[G3004|say]] [[G3754|that]] [[G3588|the]] [[G5547|Christ]] [[G1510|is]] ⟨the⟩ [[G5207|son]] [[G1138|of David?]] ^1235
 
-And they were seeking to arrest him but feared the people, for they perceived that he had told the parable against them. So they left him and went away. ^1212
+[[G1722|Speaking by]] [[G3588|the]] [[G40|Holy]] [[G4151|Spirit,]] [[G1138|David]] [[G846|himself]] [[G2036|declared:]] [[G2962|‘ Lord]] ⟨The⟩ [[G2036|said]] [[G3588|to]] [[G1473|my]] [[G2962|Lord,]] [[G2521|“Sit]] [[G1537|at]] [[G1473|My]] [[G1188|right hand]] [[G2193|until]] [[G5087|I put]] [[G4771|Your]] [[G2190|enemies]] [[G5270|under]] [[G4771|Your]] [[G4228|feet.]] ^1236
 
-And they sent to him some of the Pharisees and some of the Herodians, to trap him in his talk. ^1213
+[[G1138|David]] [[G846|himself]] [[G3004|calls]] [[G846|Him]] [[G2962|Lord.]] [[G2532|So]] [[G4159|how]] [[G1510|can He be]] ⟨David’s⟩ [[G846|]] [[G5207|son?”]] [[G2532|And]] [[G3588|the]] [[G4183|large]] [[G3793|crowd]] [[G191|listened]] [[G846|to Him]] [[G2234|with delight.]] ^1237
 
-And they came and said to him, Teacher, we know that you are true and do not care about anyone’s opinion. For you are not swayed by appearances, but truly teach the way of God. Is it lawful to pay taxes to Caesar, or not? Should we pay them, or should we not? ^1214
+[[G1722|In]] [[G846|His]] [[G1322|teaching]] ⟨Jesus⟩ [[G2036|also said,]] [[G991|“Watch out]] [[G575|for]] [[G3588|the]] [[G1122|scribes.]] [[G2309|They like]] [[G4043|to walk around]] [[G1722|in]] [[G4749|long robes,]] ⟨to receive⟩ [[G783|greetings]] [[G1722|in]] [[G3588|the]] [[G58|marketplaces,]] ^1238
 
-But, knowing their hypocrisy, he said to them, Why put me to the test? Bring me a denarius and let me look at it. ^1215
+[[G2532|and]] ⟨to have⟩ [[G4410|the chief seats]] [[G1722|in]] [[G3588|the]] [[G4864|synagogues]] [[G2532|and]] ⟨the⟩ [[G4411|places of honor]] [[G1722|at]] [[G1173|banquets.]] ^1239
 
-And they brought one. And he said to them, Whose likeness and inscription is this? They said to him, Caesar’s. ^1216
+[[G3588|They]] [[G2719|defraud]] [[G5503|widows]] ⟨of their⟩ [[G3588|]] [[G3614|houses,]] [[G2532|and]] [[G4392|for a show]] [[G4336|make lengthy prayers.]] [[G3778|These]] ⟨men⟩ [[G2983|will receive]] [[G4053|greater]] [[G2917|condemnation.”]] ^1240
 
-Jesus said to them, Render to Caesar the things that are Caesar’s, and to God the things that are God’s. And they marveled at him. ^1217
+[[G2532|As]] ⟨Jesus⟩ [[G2523|was sitting]] [[G2713|opposite]] [[G3588|the]] [[G1049|treasury,]] [[G2334|He watched]] [[G3588|the]] [[G3793|crowd]] [[G906|placing]] [[G5475|money]] [[G1519|into]] ⟨it⟩ [[G1049|.]] [[G2532|And]] [[G4183|many]] [[G4145|rich]] ⟨people⟩ [[G906|put in]] [[G4183|large amounts.]] ^1241
 
-And Sadducees came to him, who say that there is no resurrection. And they asked him a question, saying, ^1218
+[[G2532|Then]] [[G1520|one]] [[G4434|poor]] [[G5503|widow]] [[G2064|came]] ⟨and⟩ [[G906|put]] ⟨in⟩ [[G1417|two]] [[G3016|small copper coins,]] [[G3739|which]] [[G1510|amounted to]] [[G2835|a small fraction of a denarius.]] ^1242
 
-Teacher, Moses wrote for us that if a man’s brother dies and leaves a wife, but leaves no child, the man must take the widow and raise up offspring for his brother. ^1219
+⟨Jesus⟩ [[G4341|called]] [[G846|His]] [[G3101|disciples]] ⟨to Him⟩ ⟨and⟩ [[G2036|said,]] [[G281|“Truly]] [[G3004|I tell]] [[G4771|you,]] [[G3778|this]] [[G4434|poor]] [[G5503|widow]] [[G906|has put]] [[G4119|more]] [[G3956|than all]] [[G3588|the]] ⟨others⟩ [[G906|]] [[G1519|into]] [[G3588|the]] [[G1049|treasury.]] ^1243
 
-There were seven brothers; the first took a wife, and when he died left no offspring. ^1220
+[[G1063|For]] [[G3956|they all]] [[G906|contributed]] [[G1537|out of]] [[G846|their]] [[G4052|surplus,]] [[G1161|but]] [[G3778|she]] [[G1537|out of]] [[G846|her]] [[G5304|poverty]] [[G906|has put]] ⟨in⟩ [[G3956|all]] [[G2192|she had]] [[G979|to live on.”]] ^1244
 
-And the second took her, and died, leaving no offspring. And the third likewise. ^1221
+[[G2532|As]] ⟨Jesus⟩ [[G846|]] [[G1607|was leaving]] [[G3588|the]] [[G2411|temple,]] [[G1520|one]] [[G3588|of]] [[G846|His]] [[G3101|disciples]] [[G3004|said]] [[G846|to Him,]] [[G1320|“Teacher,]] [[G2400|look at]] ⟨the magnificent⟩ [[G4217|]] [[G3037|stones]] [[G2532|and]] [[G3619|buildings!”]] ^1301
 
-And the seven left no offspring. Last of all the woman also died. ^1222
+[[G991|“Do you see]] ⟨all⟩ [[G3778|these]] [[G3173|great]] [[G3619|buildings?”]] [[G2424|Jesus]] [[G2036|replied.]] [[G3756|“Not]] ⟨one⟩ [[G3037|stone]] [[G5602|here]] [[G863|will be left]] [[G1909|on]] ⟨another⟩ [[G3037|;]] ⟨every one⟩ [[G3739|]] [[G2647|will be toppled.”]] ^1302
 
-In the resurrection, when they rise again, whose wife will she be? For the seven had her as wife. ^1223
+[[G2532|While]] ⟨Jesus⟩ [[G846|]] [[G2521|was sitting]] [[G1519|on]] [[G3588|the]] [[G3735|Mount]] [[G1636|of Olives]] [[G2713|opposite]] [[G3588|the]] [[G2411|temple,]] [[G4074|Peter,]] [[G2385|James,]] [[G2491|John,]] [[G2532|and]] [[G406|Andrew]] [[G1905|asked]] [[G846|Him]] [[G2398|privately,]] ^1303
 
-Jesus said to them, Is this not the reason you are wrong, because you know neither the Scriptures nor the power of God? ^1224
+[[G2036|“Tell]] [[G1473|us,]] [[G4219|when]] ⟨will⟩ [[G3778|all these things]] [[G1510|happen?]] [[G2532|And]] [[G5101|what]] ⟨will be⟩ [[G3588|the]] [[G4592|sign]] [[G3752|that]] ⟨they⟩ [[G3778|]] [[G3195|are about]] [[G4931|to be fulfilled?”]] ^1304
 
-For when they rise from the dead, they neither marry nor are given in marriage, but are like angels in heaven. ^1225
+[[G2424|Jesus]] [[G756|began]] [[G3004|by telling]] [[G846|them,]] [[G991|“See to it]] ⟨that⟩ [[G3361|]] ⟨no one⟩ [[G5100|]] [[G4105|deceives]] [[G4771|you.]] ^1305
 
-And as for the dead being raised, have you not read in the book of Moses, in the passage about the bush, how God spoke to him, saying, I am the God of Abraham, and the God of Isaac, and the God of Jacob? ^1226
+[[G4183|Many]] [[G2064|will come]] [[G1909|in]] [[G1473|My]] [[G3686|name,]] [[G3004|claiming,]] [[G1473|‘I]] [[G1510|am,’]] ⟨He⟩ [[G2532|and]] [[G4105|will deceive]] [[G4183|many.]] ^1306
 
-He is not God of the dead, but of the living. You are quite wrong. ^1227
+[[G3752|When]] [[G191|you hear of]] [[G4171|wars]] [[G2532|and]] [[G189|rumors]] [[G4171|of wars,]] ⟨do⟩ [[G3361|not]] [[G2360|be alarmed.]] ⟨These things⟩ [[G1163|must]] [[G1096|happen,]] [[G235|but]] [[G3588|the]] [[G5056|end]] ⟨is⟩ [[G3768|still to come.]] ^1307
 
-And one of the scribes came up and heard them disputing with one another, and seeing that he answered them well, asked him, Which commandment is the most important of all? ^1228
+[[G1484|Nation]] [[G1453|will rise]] [[G1909|against]] [[G1484|nation,]] [[G2532|and]] [[G932|kingdom]] [[G1909|against]] [[G932|kingdom.]] [[G1510|There will be]] [[G4578|earthquakes]] [[G2596|in various]] [[G5117|places,]] ⟨as well as⟩ [[G1510|]] [[G3042|famines.]] [[G3778|These]] ⟨are⟩ ⟨the⟩ [[G746|beginning]] [[G5604|of birth pains.]] ^1308
 
-Jesus answered, The most important is, Hear, O Israel : The Lord our God, the Lord is one. ^1229
+⟨So⟩ [[G1161|]] [[G991|be on your guard.]] [[G4771|You]] [[G3860|will be handed over]] [[G1519|to]] ⟨the⟩ [[G4892|councils]] [[G2532|and]] [[G1194|beaten]] [[G1519|in]] ⟨the⟩ [[G4864|synagogues.]] [[G1752|On My account,]] [[G2476|you will stand]] [[G1909|before]] [[G2232|governors]] [[G2532|and]] [[G935|kings]] [[G1519|as]] [[G3142|witnesses]] [[G846|to them.]] ^1309
 
-And you shall love the Lord your God with all your heart and with all your soul and with all your mind and with all your strength. ^1230
+[[G2532|And]] [[G3588|the]] [[G2098|gospel]] [[G1163|must]] [[G4412|first]] [[G2784|be proclaimed]] [[G1519|to]] [[G3956|all]] [[G3588|the]] [[G1484|nations.]] ^1310
 
-The second is this : You shall love your neighbor as yourself. There is no other commandment greater than these. ^1231
+[[G2532|But]] [[G3752|when]] [[G71|they arrest]] [[G4771|you]] ⟨and⟩ [[G3860|hand over,]] ⟨you⟩ ⟨do⟩ [[G3361|not]] [[G4305|worry beforehand]] [[G5101|what]] [[G2980|to say.]] [[G235|Instead,]] [[G2980|speak]] [[G3739|whatever]] [[G4771|you]] [[G1325|are given]] [[G1722|at]] [[G1565|that]] [[G5610|time,]] [[G1063|for]] [[G1510|it will not be]] [[G4771|you]] [[G2980|speaking,]] [[G235|but]] [[G3588|the]] [[G40|Holy]] [[G4151|Spirit.]] ^1311
 
-And the scribe said to him, You are right, Teacher. You have truly said that he is one, and there is no other besides him. ^1232
+[[G80|Brother]] [[G3860|will betray]] [[G80|brother]] [[G1519|to]] [[G2288|death,]] [[G2532|and]] [[G3962|a father]] ⟨his⟩ [[G5043|child.]] [[G5043|Children]] [[G1881|will rise]] [[G1909|against]] ⟨their⟩ [[G1118|parents]] [[G2532|and]] [[G2289|have them put to death.]] ^1312
 
-And to love him with all the heart and with all the understanding and with all the strength, and to love one’s neighbor as oneself, is much more than all whole burnt offerings and sacrifices. ^1233
+[[G1510|You will be]] [[G3404|hated]] [[G5259|by]] [[G3956|everyone]] [[G1223|on account of]] [[G1473|My]] [[G3686|name,]] [[G1161|but]] [[G3588|the]] ⟨one who⟩ [[G5278|perseveres]] [[G1519|to]] ⟨the⟩ [[G5056|end]] [[G4982|will be saved.]] ^1313
 
-And when Jesus saw that he answered wisely, he said to him, You are not far from the kingdom of God. And after that no one dared to ask him any more questions. ^1234
+[[G1161|So]] [[G3752|when]] [[G3708|you see]] [[G3588|the]] [[G946|abomination]] [[G3588|of]] [[G2050|desolation]] [[G2476|standing]] [[G3699|where]] [[G1163|it should not be]] [[G3588|( the]] ⟨let⟩ [[G314|reader]] [[G3539|understand),]] [[G5119|then]] ⟨let⟩ [[G3588|those who are]] [[G1722|in]] [[G2449|Judea]] [[G5343|flee]] [[G1519|to]] [[G3588|the]] [[G3735|mountains.]] ^1314
 
-And as Jesus taught in the temple, he said, How can the scribes say that the Christ is the son of David? ^1235
+⟨Let⟩ [[G1161|]] ⟨no one⟩ [[G3588|]] [[G1909|on]] [[G3588|the]] [[G1430|housetop]] [[G2597|go back inside]] [[G142|to retrieve]] [[G5100|anything]] [[G1537|from]] [[G846|his]] [[G3614|house.]] ^1315
 
-David himself, in the Holy Spirit, declared, The Lord said to my Lord, Sit at my right hand, until I put your enemies under your feet. ^1236
+[[G2532|And]] ⟨let⟩ ⟨no one⟩ [[G3588|]] [[G1519|in]] [[G3588|the]] [[G68|field]] [[G1994|return for]] [[G846|his]] [[G2440|cloak.]] ^1316
 
-David himself calls him Lord. So how is he his son? And the great throng heard him gladly. ^1237
+⟨How⟩ [[G1161|]] [[G3759|miserable]] [[G1565|those]] [[G2250|days]] ⟨will be⟩ [[G3588|for]] [[G2192|pregnant]] [[G2532|and]] [[G2337|nursing]] ⟨mothers⟩! ^1317
 
-And in his teaching he said, Beware of the scribes, who like to walk around in long robes and like greetings in the marketplaces ^1238
+[[G4336|Pray]] [[G2443|that]] [[G1096|it will not occur]] [[G5494|in the winter.]] ^1318
 
-and have the best seats in the synagogues and the places of honor at feasts, ^1239
+[[G1063|For]] ⟨in⟩ [[G1565|those]] [[G2250|days]] [[G1510|there will be]] [[G2347|tribulation]] [[G5108|unmatched]] [[G575|from]] ⟨the⟩ [[G746|beginning]] [[G2937|of God’s creation]] [[G2193|until]] [[G3568|now,]] [[G2532|and]] [[G3756|never]] [[G1096|to be seen again.]] ^1319
 
-who devour widows ’ houses and for a pretense make long prayers. They will receive the greater condemnation. ^1240
+[[G1487|If]] ⟨the⟩ [[G2962|Lord]] [[G2856|had not shortened]] [[G3588|those]] [[G2250|days,]] [[G3756|nobody]] [[G4982|would be saved.]] [[G235|But]] [[G1223|for the sake of]] [[G3588|the]] [[G1588|elect,]] [[G3739|whom]] [[G1586|He has chosen,]] [[G2856|He has shortened]] ⟨them⟩ [[G2250|.]] ^1320
 
-And he sat down opposite the treasury and watched the people putting money into the offering box. Many rich people put in large sums. ^1241
+[[G5119|At that time]] [[G1437|if]] [[G5100|anyone]] [[G2036|says]] [[G4771|to you,]] [[G2400|‘Look,]] [[G5602|here]] ⟨is⟩ [[G3588|the]] [[G5547|Christ!’]] ⟨or⟩ [[G1563|‘There]] ⟨He is⟩ [[G2400|!’]] [[G4100|do not believe]] ⟨it⟩. ^1321
 
-And a poor widow came and put in two small copper coins, which make a penny. ^1242
+[[G1063|For]] [[G5580|false Christs]] [[G2532|and]] [[G5578|false prophets]] [[G1453|will appear]] [[G2532|and]] [[G1325|perform]] [[G4592|signs]] [[G2532|and]] [[G5059|wonders]] [[G4314|that]] [[G635|would deceive]] ⟨even⟩ [[G3588|the]] [[G1588|elect,]] [[G1487|if]] ⟨that were⟩ [[G1415|possible.]] ^1322
 
-And he called his disciples to him and said to them, Truly, I say to you, this poor widow has put in more than all those who are contributing to the offering box. ^1243
+⟨So⟩ [[G1161|]] [[G991|be on your guard;]] [[G4302|I have told]] [[G4771|you]] [[G3956|everything]] ⟨in advance⟩. ^1323
 
-For they all contributed out of their abundance, but she out of her poverty has put in everything she had, all she had to live on. ^1244
+[[G235|However,]] [[G3326|after]] [[G3588|the]] [[G2347|tribulation]] [[G1722|of]] [[G1565|those]] [[G2250|days,]] [[G3588|‘The]] [[G2246|sun]] [[G4654|will be darkened,]] [[G2532|and]] [[G3588|the]] [[G4582|moon]] [[G1325|will not give]] [[G846|its]] [[G5338|light,]] ^1324
 
+[[G3588|the]] [[G792|stars]] [[G1510|will]] [[G4098|fall]] [[G1537|from]] [[G3588|the]] [[G3772|sky,]] [[G2532|and]] [[G3588|the]] [[G1411|powers]] [[G1722|of]] [[G3588|the]] [[G3772|heavens]] [[G4531|will be shaken.’]] ^1325
 
+[[G5119|Then]] [[G3708|they will see]] [[G3588|the]] [[G5207|Son]] [[G444|of Man]] [[G2064|coming]] [[G1722|in]] ⟨the⟩ [[G3507|clouds]] [[G3326|with]] [[G4183|great]] [[G1411|power]] [[G2532|and]] [[G1391|glory.]] ^1326
 
-And as he came out of the temple, one of his disciples said to him, Look, Teacher, what wonderful stones and what wonderful buildings! ^1301
+[[G2532|And]] [[G649|He will send out]] [[G3588|the]] [[G32|angels]] [[G1996|to gather]] [[G846|His]] [[G1588|elect]] [[G1537|from]] [[G3588|the]] [[G5064|four]] [[G417|winds,]] [[G575|from]] ⟨the⟩ [[G206|ends]] [[G1093|of earth]] ⟨the⟩ [[G2193|to]] ⟨the⟩ [[G206|ends]] [[G3772|of heaven.]] ^1327
 
-And Jesus said to him, Do you see these great buildings? There will not be left here one stone upon another that will not be thrown down. ^1302
+[[G1161|Now]] [[G3129|learn]] [[G3588|this]] [[G3850|lesson]] [[G575|from]] [[G3588|the]] [[G4808|fig tree:]] [[G3752|As soon as]] [[G846|its]] [[G2798|branches]] [[G1096|become]] [[G527|tender]] [[G2532|and]] [[G1631|sprout]] [[G5444|leaves,]] [[G1097|you know]] [[G3754|that]] [[G2330|summer]] [[G1510|is]] [[G1451|near.]] ^1328
 
-And as he sat on the Mount of Olives opposite the temple, Peter and James and John and Andrew asked him privately, ^1303
+[[G3779|In the same way,]] [[G3752|when]] [[G3708|you see]] [[G3778|these things]] [[G1096|happening,]] [[G4771|you]] [[G1097|know]] [[G3754|that]] [[G1510|He is]] [[G1451|near,]] [[G1909|right at]] ⟨the⟩ [[G2374|door.]] ^1329
 
-Tell us, when will these things be, and what will be the sign when all these things are about to be accomplished? ^1304
+[[G281|Truly]] [[G3004|I tell]] [[G4771|you,]] [[G3778|this]] [[G1074|generation]] [[G3928|will not pass away]] [[G3360|until]] [[G3956|all]] [[G3778|these things]] [[G1096|have happened.]] ^1330
 
-And Jesus began to say to them, See that no one leads you astray. ^1305
+[[G3772|Heaven]] [[G2532|and]] [[G1093|earth]] [[G3928|will pass away,]] [[G1161|but]] [[G1473|My]] [[G3056|words]] [[G3928|will never pass away.]] ^1331
 
-Many will come in my name, saying, I am he! and they will lead many astray. ^1306
+[[G1161|But]] [[G4012|as for]] [[G1565|that]] [[G2250|day]] [[G2228|or]] [[G5610|hour,]] [[G3762|no one]] [[G1492|knows,]] [[G3761|not even]] [[G3588|the]] [[G32|angels]] [[G1722|in]] [[G3772|heaven,]] [[G3761|nor]] [[G3588|the]] [[G5207|Son,]] [[G1487|but only]] [[G3588|the]] [[G3962|Father.]] ^1332
 
-And when you hear of wars and rumors of wars, do not be alarmed. This must take place, but the end is not yet. ^1307
+[[G991|Be on your guard]] ⟨and⟩ [[G69|stay alert!]] [[G1063|For]] [[G1492|you do not know]] [[G4219|when]] [[G3588|the]] [[G2540|appointed time]] [[G1510|will come.]] ^1333
 
-For nation will rise against nation, and kingdom against kingdom. There will be earthquakes in various places; there will be famines. These are but the beginning of the birth pains. ^1308
+⟨It is⟩ [[G5613|like]] [[G444|a man]] [[G590|going on a journey]] ⟨who⟩ [[G863|left]] [[G846|his]] [[G3614|house,]] [[G1325|put]] [[G1538|each]] [[G1401|servant]] [[G1849|in charge]] [[G846|of his]] ⟨own⟩ [[G2041|task,]] [[G2532|and]] [[G1781|instructed]] [[G3588|the]] [[G2377|doorkeeper]] [[G2443|to]] [[G1127|keep watch.]] ^1334
 
-But be on your guard. For they will deliver you over to councils, and you will be beaten in synagogues, and you will stand before governors and kings for my sake, to bear witness before them. ^1309
+[[G3767|Therefore]] [[G1127|keep watch,]] [[G1063|because]] [[G1492|you do not know]] [[G4219|when]] [[G3588|the]] [[G2962|master]] [[G3588|of the]] [[G3614|house]] [[G2064|will return—]] [[G2228|whether]] [[G3796|in the evening,]] [[G3317|at midnight,]] [[G219|when the rooster crows,]] [[G2228|or]] [[G4404|in the morning.]] ^1335
 
-And the gospel must first be proclaimed to all nations. ^1310
+[[G3361|Otherwise,]] [[G2064|he may arrive]] [[G1810|without notice]] ⟨and⟩ [[G2147|find]] [[G4771|you]] [[G2518|sleeping.]] ^1336
 
-And when they bring you to trial and deliver you over, do not be anxious beforehand what you are to say, but say whatever is given you in that hour, for it is not you who speak, but the Holy Spirit. ^1311
+[[G1161|And]] [[G3739|what]] [[G3004|I say]] [[G4771|to you,]] [[G3004|I say]] [[G3956|to everyone:]] [[G1127|Keep watch!”]] ^1337
 
-And brother will deliver brother over to death, and the father his child, and children will rise against parents and have them put to death. ^1312
+[[G1161|Now]] [[G3588|the]] [[G3957|Passover]] [[G2532|and]] [[G3588|the]] ⟨Feast of⟩ [[G106|Unleavened Bread]] [[G1510|were]] [[G1417|two]] [[G2250|days]] [[G3326|away,]] [[G2532|and]] [[G3588|the]] [[G749|chief priests]] [[G2532|and]] [[G1122|scribes]] [[G2212|were looking for]] ⟨a⟩ [[G1388|covert]] [[G4459|way]] [[G2902|to arrest]] ⟨Jesus⟩ [[G846|]] ⟨and⟩ [[G615|kill]] ⟨Him⟩. ^1401
 
-And you will be hated by all for my name’s sake. But the one who endures to the end will be saved. ^1313
+[[G3361|“ not]] ⟨But⟩ [[G1722|during]] [[G3588|the]] [[G1859|feast,”]] [[G2036|they said,]] [[G3361|“or]] [[G1510|there may be]] [[G2351|a riot]] [[G3588|among the]] [[G2992|people.”]] ^1402
 
-But when you see the abomination of desolation standing where he ought not to be ( let the reader understand ), then let those who are in Judea flee to the mountains. ^1314
+[[G2532|While]] ⟨Jesus⟩ [[G846|]] [[G1510|was]] [[G1722|in]] [[G963|Bethany]] [[G2621|reclining at the table]] [[G1722|in]] [[G3588|the]] [[G3614|home]] [[G4613|of Simon]] [[G3588|the]] [[G3015|leper,]] [[G1135|a woman]] [[G2064|came]] ⟨with⟩ [[G2192|]] [[G211|an alabaster jar]] [[G4185|of expensive]] [[G3464|perfume,]] [[G4101|made of pure]] [[G3487|nard.]] [[G4937|She broke open]] [[G3588|the]] [[G211|jar]] ⟨and⟩ [[G2708|poured on]] ⟨it⟩ ⟨Jesus⟩ [[G846|]] [[G2776|head.]] ^1403
 
-Let the one who is on the housetop not go down, nor enter his house, to take anything out, ^1315
+[[G1161|But]] [[G5100|some]] ⟨of⟩ [[G1510|those present]] [[G23|expressed their indignation]] [[G4314|to]] [[G1438|one another:]] [[G1519|“Why]] [[G3778|this]] [[G684|waste]] [[G3588|of]] [[G3464|perfume?]] ^1404
 
-and let the one who is in the field not turn back to take his cloak. ^1316
+⟨It⟩ [[G3464|]] [[G1410|could]] [[G4097|have been sold]] [[G1883|for over]] [[G5145|three hundred]] [[G1220|denarii]] [[G2532|and]] ⟨the money⟩ [[G1325|given]] [[G3588|to the]] [[G4434|poor.”]] [[G2532|And]] [[G1690|they scolded]] [[G846|her.]] ^1405
 
-And alas for women who are pregnant and for those who are nursing infants in those days! ^1317
+[[G1161|But]] [[G2424|Jesus]] [[G2036|said,]] [[G863|“Leave her alone;]] [[G5101|why]] [[G3930|are you bothering]] [[G846|her?]] [[G2038|She has done]] [[G2570|a beautiful]] [[G2041|deed]] [[G1722|to]] [[G1473|Me.]] ^1406
 
-Pray that it may not happen in winter. ^1318
+[[G3588|The]] [[G4434|poor]] [[G2192|you will always have]] [[G3326|with]] [[G1438|you,]] [[G2532|and]] [[G1410|you can]] [[G2095|help]] [[G846|them]] [[G3752|whenever]] [[G2309|you want.]] [[G1161|But]] ⟨you will⟩ [[G3756|not]] [[G3842|always]] [[G2192|have]] [[G1473|Me.]] ^1407
 
-For in those days there will be such tribulation as has not been from the beginning of the creation that God created until now, and never will be. ^1319
+[[G4160|She has done]] [[G3739|what]] [[G2192|she could]] [[G3462|to anoint]] [[G1473|My]] [[G4983|body]] [[G4301|in advance]] [[G1519|of]] ⟨My⟩ [[G3588|]] [[G1780|burial.]] ^1408
 
-And if the Lord had not cut short the days, no human being would be saved. But for the sake of the elect, whom he chose, he shortened the days. ^1320
+[[G1161|And]] [[G281|truly]] [[G3004|I tell]] [[G4771|you,]] [[G3699|wherever]] [[G3588|the]] [[G2098|gospel]] [[G2784|is preached]] [[G1519|in]] [[G3650|all]] [[G3588|the]] [[G2889|world,]] [[G3739|what]] ⟨she⟩ [[G3778|]] [[G4160|has done]] [[G2980|will also be told]] [[G1519|in]] [[G3422|memory]] [[G846|of her.”]] ^1409
 
-And then if anyone says to you, Look, here is the Christ! or Look, there he is! do not believe it. ^1321
+[[G2532|Then]] [[G2455|Judas]] [[G2469|Iscariot,]] [[G1520|one]] [[G3588|of the]] [[G1427|Twelve,]] [[G565|went]] [[G4314|to]] [[G3588|the]] [[G749|chief priests]] [[G2443|to]] [[G3860|betray]] ⟨Jesus⟩ [[G846|]] [[G846|to them.]] ^1410
 
-For false christs and false prophets will arise and perform signs and wonders, to lead astray, if possible, the elect. ^1322
+[[G5463|They were delighted]] [[G191|to hear]] ⟨this⟩, [[G2532|and]] [[G1861|they promised]] [[G1325|to give]] [[G846|him]] [[G694|money.]] [[G2532|So]] ⟨Judas⟩ [[G2212|began to look for]] [[G2122|an opportunity]] [[G3860|to hand Him over.]] ^1411
 
-But be on guard; I have told you all things beforehand. ^1323
+[[G3588|On the]] [[G4413|first]] [[G2250|day]] [[G106|of the Feast of Unleavened]] ⟨Bread⟩, [[G3753|when]] [[G3588|the]] [[G3957|Passover lamb]] [[G2380|was to be sacrificed,]] ⟨Jesus’⟩ [[G846|]] [[G3101|disciples]] [[G3004|asked]] [[G846|Him,]] [[G4226|“Where]] [[G2309|do You want]] [[G2090|us to prepare]] [[G2443|for]] [[G5315|You to eat]] [[G3588|the]] [[G3957|Passover?”]] ^1412
 
-But in those days, after that tribulation, the sun will be darkened, and the moon will not give its light, ^1324
+[[G2532|So]] [[G649|He sent]] [[G1417|two]] [[G3588|of]] [[G846|His]] [[G3101|disciples]] [[G2532|and]] [[G3004|told]] [[G846|them,]] [[G5217|“Go]] [[G1519|into]] [[G3588|the]] [[G4172|city,]] [[G2532|and]] [[G444|a man]] [[G941|carrying]] [[G2765|a pitcher]] [[G5204|of water]] [[G528|will meet]] [[G4771|you.]] [[G190|Follow]] [[G846|him,]] ^1413
 
-and the stars will be falling from heaven, and the powers in the heavens will be shaken. ^1325
+[[G2532|and]] [[G3699|whichever]] ⟨house⟩ [[G1525|he enters,]] [[G2036|say]] [[G3588|to the]] [[G3617|owner,]] [[G3588|‘The]] [[G1320|Teacher]] [[G3004|asks:]] [[G4226|Where]] [[G1510|is]] [[G1473|My]] [[G2646|guest room,]] [[G3699|where]] [[G5315|I may eat]] [[G3588|the]] [[G3957|Passover]] [[G3326|with]] [[G1473|My]] [[G3101|disciples?’]] ^1414
 
-And then they will see the Son of Man coming in clouds with great power and glory. ^1326
+[[G2532|And]] [[G846|he]] [[G1166|will show]] [[G4771|you]] [[G3173|a large]] [[G508|upper room,]] [[G4766|furnished]] ⟨and⟩ [[G2092|ready.]] [[G2090|Make preparations]] [[G1473|for us]] [[G1563|there.”]] ^1415
 
-And then he will send out the angels and gather his elect from the four winds, from the ends of the earth to the ends of heaven. ^1327
+[[G2532|So]] [[G3101|the disciples]] [[G1831|left]] [[G2532|and]] [[G2064|went]] [[G1519|into]] [[G3588|the]] [[G4172|city,]] ⟨where⟩ [[G2532|]] [[G2147|they found]] ⟨everything⟩ [[G2531|as]] ⟨Jesus⟩ [[G2036|had described.]] [[G2532|And]] [[G2090|they prepared]] [[G3588|the]] [[G3957|Passover.]] ^1416
 
-From the fig tree learn its lesson : as soon as its branch becomes tender and puts out its leaves, you know that summer is near. ^1328
+[[G2532|When]] [[G3798|evening]] [[G1096|came,]] ⟨Jesus⟩ [[G2064|arrived]] [[G3326|with]] [[G3588|the]] [[G1427|Twelve.]] ^1417
 
-So also, when you see these things taking place, you know that he is near, at the very gates. ^1329
+[[G2532|And while]] [[G846|they]] [[G345|were reclining]] [[G2532|and]] [[G2068|eating,]] [[G2424|Jesus]] [[G2036|said,]] [[G281|“Truly]] [[G3004|I tell]] [[G4771|you,]] [[G1520|one]] [[G1537|of]] [[G4771|you]] [[G3588|who]] [[G2068|is eating]] [[G3326|with]] [[G1473|Me]] [[G3860|will betray]] [[G1473|Me.”]] ^1418
 
-Truly, I say to you, this generation will not pass away until all these things take place. ^1330
+[[G756|They began]] [[G3076|to be sorrowful]] [[G2532|and]] [[G3004|to ask]] [[G846|Him]] [[G1520|one]] [[G2596|by]] [[G1520|one,]] [[G3385|“Surely not]] [[G1473|I?”]] ^1419
 
-Heaven and earth will pass away, but my words will not pass away. ^1331
+[[G2036|He answered]] [[G1520|“ one of]] ⟨It is⟩ [[G3588|the]] [[G1427|Twelve—]] [[G3588|the]] ⟨one who⟩ [[G1686|is dipping]] ⟨his bread⟩ [[G1519|into]] [[G3588|the]] [[G5165|bowl]] [[G3326|with]] [[G1473|Me.]] ^1420
 
-But concerning that day or that hour, no one knows, not even the angels in heaven, nor the Son, but only the Father. ^1332
+[[G3588|The]] [[G5207|Son]] [[G444|of Man]] [[G5217|will go]] [[G2531|just as]] [[G1125|it is written]] [[G4012|about]] [[G846|Him,]] [[G1161|but]] [[G3759|woe]] [[G1565|to that]] [[G444|man]] [[G1223|by]] [[G3739|whom]] ⟨He⟩ [[G3588|]] [[G3860|is betrayed!]] ⟨It would be⟩ [[G2570|better]] [[G846|for him]] [[G1487|if]] ⟨he⟩ [[G444|]] [[G1080|had not been born.]] ^1421
 
-Be on guard, keep awake. For you do not know when the time will come. ^1333
+[[G2068|While they were eating,]] ⟨Jesus⟩ [[G2983|took]] [[G740|bread,]] [[G2127|spoke a blessing]] ⟨and⟩ [[G2806|broke it,]] [[G2532|and]] [[G1325|gave]] ⟨it⟩ [[G846|to them,]] [[G2036|saying,]] [[G2983|“Take]] ⟨it⟩; [[G3778|this]] [[G1510|is]] [[G1473|My]] [[G4983|body.”]] ^1422
 
-It is like a man going on a journey, when he leaves home and puts his servants in charge, each with his work, and commands the doorkeeper to stay awake. ^1334
+[[G2532|Then]] [[G2983|He took]] [[G4221|the cup,]] [[G2168|gave thanks,]] ⟨and⟩ [[G1325|gave it]] [[G846|to them,]] [[G2532|and]] [[G4095|they all drank]] [[G1537|from]] [[G846|it.]] ^1423
 
-Therefore stay awake — for you do not know when the master of the house will come, in the evening, or at midnight, or when the rooster crows, or in the morning — ^1335
+[[G2036|He said]] [[G846|to them,]] [[G3778|“This]] [[G1510|is]] [[G1473|My]] [[G129|blood]] [[G3588|of the]] [[G1242|covenant,]] [[G3588|which]] [[G1632|is poured out]] [[G5228|for]] [[G4183|many.]] ^1424
 
-lest he come suddenly and find you asleep. ^1336
+[[G281|Truly]] [[G3004|I tell]] [[G4771|you,]] [[G4095|I will no longer drink]] [[G1537|of]] ⟨this⟩ [[G3588|]] [[G1081|fruit]] [[G3588|of the]] [[G288|vine]] [[G2193|until]] [[G1565|that]] [[G2250|day]] [[G3752|when]] [[G4095|I drink]] [[G846|it]] [[G2537|anew]] [[G1722|in]] [[G3588|the]] [[G932|kingdom]] [[G2316|of God.”]] ^1425
 
-And what I say to you I say to all : Stay awake. ^1337
+[[G2532|And]] [[G5214|when they had sung a hymn,]] [[G1831|they went out]] [[G1519|to]] [[G3588|the]] [[G3735|Mount]] [[G1636|of Olives.]] ^1426
 
+[[G2532|Then]] [[G2424|Jesus]] [[G3004|said]] [[G846|to them,]] [[G4624|“You will all fall away,]] [[G3754|for]] [[G1125|it is written:]] [[G3960|‘I will strike]] [[G3588|the]] [[G4166|shepherd,]] [[G2532|and]] [[G3588|the]] [[G4263|sheep]] [[G1287|will be scattered.’]] ^1427
 
+[[G235|But]] [[G3326|after]] [[G1453|I have risen,]] [[G1473|I]] [[G4254|will go ahead of]] [[G4771|you]] [[G1519|into]] [[G1056|Galilee.”]] ^1428
 
-It was now two days before the Passover and the Feast of Unleavened Bread. And the chief priests and the scribes were seeking how to arrest him by stealth and kill him, ^1401
+[[G4074|Peter]] [[G5346|declared,]] [[G2532|“Even]] [[G1487|if]] [[G3956|all]] [[G4624|fall away,]] [[G1473|I]] [[G3756|never.”]] ⟨will⟩ ^1429
 
-for they said, Not during the feast, lest there be an uproar from the people. ^1402
+[[G281|“Truly]] [[G3004|I tell]] [[G4771|you,”]] [[G2424|Jesus]] [[G3004|replied,]] [[G3778|“this]] [[G4594|very]] [[G3571|night]] [[G4250|before]] ⟨the⟩ [[G220|rooster]] [[G5455|crows]] [[G1364|twice,]] [[G533|you will deny]] [[G1473|Me]] [[G5151|three times.”]] ^1430
 
-And while he was at Bethany in the house of Simon the leper, as he was reclining at table, a woman came with an alabaster flask of ointment of pure nard, very costly, and she broke the flask and poured it over his head. ^1403
+[[G1161|But]] ⟨Peter⟩ [[G2980|kept insisting,]] [[G1437|“Even if]] [[G1163|I have]] [[G4880|to die with]] [[G4771|You,]] [[G533|I will never deny]] [[G4771|You.”]] [[G1161|And]] [[G3956|all the others]] [[G2036|said]] [[G5615|the same.]] ^1431
 
-There were some who said to themselves indignantly, Why was the ointment wasted like that? ^1404
+[[G2532|Then]] [[G2064|they came]] [[G1519|to]] [[G5564|a place]] [[G3686|called]] [[G1068|Gethsemane,]] [[G2532|and]] ⟨Jesus⟩ [[G3004|told]] [[G846|His]] [[G3101|disciples,]] [[G2523|“Sit]] [[G5602|here]] [[G2193|while]] [[G4336|I pray.”]] ^1432
 
-For this ointment could have been sold for more than three hundred denarii and given to the poor. And they scolded her. ^1405
+[[G3880|He took]] [[G3326|with]] [[G846|Him]] [[G4074|Peter,]] [[G2385|James,]] [[G2532|and]] [[G2491|John,]] [[G2532|and]] [[G756|began]] [[G1568|to be deeply troubled]] [[G2532|and]] [[G85|distressed.]] ^1433
 
-But Jesus said, Leave her alone. Why do you trouble her? She has done a beautiful thing to me. ^1406
+[[G2532|And]] [[G3004|He told]] [[G846|them,]] [[G1473|“My]] [[G5590|soul]] [[G1510|is]] [[G4036|consumed with sorrow]] [[G2193|to the point of]] [[G2288|death.]] [[G3306|Stay]] [[G5602|here]] [[G2532|and]] [[G1127|keep watch.”]] ^1434
 
-For you always have the poor with you, and whenever you want, you can do good for them. But you will not always have me. ^1407
+[[G4281|Going a little farther,]] [[G4098|He fell]] [[G1909|to]] [[G3588|the]] [[G1093|ground]] [[G2532|and]] [[G4336|prayed]] [[G2443|that,]] [[G1487|if]] [[G1510|it were]] [[G1415|possible,]] [[G3588|the]] [[G5610|hour]] [[G3928|would pass]] [[G575|from]] [[G846|Him.]] ^1435
 
-She has done what she could; she has anointed my body beforehand for burial. ^1408
+[[G5|“Abba,]] [[G3962|Father,”]] [[G2036|He said,]] [[G3956|“all things]] ⟨are⟩ [[G1415|possible]] [[G4771|for You.]] [[G3911|Take]] [[G3778|this]] [[G4221|cup]] [[G575|from]] [[G1473|Me.]] [[G235|Yet]] [[G3756|not]] [[G5101|what]] [[G1473|I]] [[G2309|will,]] [[G235|but]] [[G5101|what]] [[G4771|You.”]] ⟨will⟩ ^1436
 
-And truly, I say to you, wherever the gospel is proclaimed in the whole world, what she has done will be told in memory of her. ^1409
+[[G2532|Then]] ⟨Jesus⟩ [[G2064|returned]] [[G2532|and]] [[G2147|found]] [[G846|them]] [[G2518|sleeping.]] [[G4613|“Simon,]] [[G2518|are you asleep?”]] [[G3004|He asked,]] [[G2480|“Were you not able]] [[G1127|to keep watch]] [[G1520|for one]] [[G5610|hour?]] ^1437
 
-Then Judas Iscariot, who was one of the twelve, went to the chief priests in order to betray him to them. ^1410
+[[G1127|Watch]] [[G2532|and]] [[G4336|pray]] [[G2443|so that]] [[G2064|you will not enter]] [[G1519|into]] [[G3986|temptation.]] [[G3303|For]] [[G3588|the]] [[G4151|spirit]] ⟨is⟩ [[G4289|willing,]] [[G1161|but]] [[G3588|the]] [[G4561|body]] ⟨is⟩ [[G772|weak.”]] ^1438
 
-And when they heard it, they were glad and promised to give him money. And he sought an opportunity to betray him. ^1411
+[[G3825|Again]] [[G565|He went away]] ⟨and⟩ [[G4336|prayed,]] [[G2036|saying]] [[G3588|the]] [[G846|same]] [[G3056|thing.]] ^1439
 
-And on the first day of Unleavened Bread, when they sacrificed the Passover lamb, his disciples said to him, Where will you have us go and prepare for you to eat the Passover? ^1412
+[[G2532|And]] [[G3825|again]] [[G2064|He returned]] ⟨and⟩ [[G2147|found]] [[G846|them]] [[G2518|sleeping,]] [[G1063|for]] [[G846|their]] [[G3788|eyes]] [[G1510|were]] [[G2599|heavy.]] [[G2532|And]] [[G1492|they did not know]] [[G5101|what]] [[G611|to answer]] [[G846|Him.]] ^1440
 
-And he sent two of his disciples and said to them, Go into the city, and a man carrying a jar of water will meet you. Follow him, ^1413
+⟨When⟩ [[G2532|]] ⟨Jesus⟩ [[G2064|returned]] [[G3588|the]] [[G5154|third time,]] [[G3004|He said,]] [[G2518|“Are you still sleeping]] [[G2532|and]] [[G373|resting?]] [[G568|That is enough!]] [[G3588|The]] [[G5610|hour]] [[G2064|has come.]] [[G2400|Look,]] [[G3588|the]] [[G5207|Son]] [[G444|of Man]] [[G3860|is betrayed]] [[G1519|into]] [[G3588|the]] [[G5495|hands]] [[G268|of sinners.]] ^1441
 
-and wherever he enters, say to the master of the house, The Teacher says, Where is my guest room, where I may eat the Passover with my disciples? ^1414
+[[G1453|Rise,]] [[G71|let us go.]] [[G2400|See,]] [[G3860|My betrayer]] [[G1448|is approaching!”]] ^1442
 
-And he will show you a large upper room furnished and ready; there prepare for us. ^1415
+[[G2112|While]] ⟨Jesus⟩ [[G2980|was still speaking,]] [[G2455|Judas,]] [[G1520|one]] [[G3588|of the]] [[G1427|Twelve,]] [[G3854|arrived,]] ⟨accompanied by⟩ [[G3326|]] [[G3793|a crowd]] ⟨armed⟩ [[G3326|with]] [[G3162|swords]] [[G2532|and]] [[G3586|clubs,]] [[G3844|sent from]] [[G3588|the]] [[G749|chief priests,]] [[G1122|scribes,]] [[G2532|and]] [[G4245|elders.]] ^1443
 
-And the disciples set out and went to the city and found it just as he had told them, and they prepared the Passover. ^1416
+[[G1161|Now]] [[G3588|the]] [[G3860|betrayer]] [[G1325|had arranged]] [[G4953|a signal]] [[G846|with them:]] [[G3739|“The One]] [[G5368|I kiss]] [[G1510|is]] ⟨the man⟩ [[G846|;]] [[G2902|arrest]] [[G846|Him]] [[G2532|and]] [[G520|lead away]] ⟨Him⟩ [[G806|securely.”]] ^1444
 
-And when it was evening, he came with the twelve. ^1417
+[[G4334|Going]] [[G2112|directly]] [[G846|to]] ⟨Jesus⟩, [[G3004|he said,]] [[G4461|“Rabbi!”]] [[G2532|and]] [[G2705|kissed]] [[G846|Him.]] ^1445
 
-And as they were reclining at table and eating, Jesus said, Truly, I say to you, one of you will betray me, one who is eating with me. ^1418
+[[G1161|Then]] ⟨the men⟩ [[G1911|seized]] ⟨Jesus⟩ [[G846|]] [[G2532|and]] [[G2902|arrested]] [[G846|Him.]] ^1446
 
-They began to be sorrowful and to say to him one after another, Is it I? ^1419
+[[G1161|And]] [[G1520|one]] [[G3588|of the]] [[G3936|bystanders]] [[G4685|drew]] ⟨his⟩ [[G3588|]] [[G3162|sword]] ⟨and⟩ [[G3817|struck]] [[G3588|the]] [[G1401|servant]] [[G3588|of the]] [[G749|high priest,]] [[G851|cutting off]] [[G846|his]] [[G5621|ear.]] ^1447
 
-He said to them, It is one of the twelve, one who is dipping bread into the dish with me. ^1420
+[[G2424|Jesus]] [[G2036|asked]] ⟨the crowd⟩ [[G846|,]] [[G1831|“Have you come out]] [[G3326|with]] [[G3162|swords]] [[G2532|and]] [[G3586|clubs]] [[G4815|to arrest]] [[G1473|Me]] [[G5613|as]] ⟨you would⟩ [[G1909|]] [[G3027|an outlaw?]] ^1448
 
-For the Son of Man goes as it is written of him, but woe to that man by whom the Son of Man is betrayed! It would have been better for that man if he had not been born. ^1421
+[[G2596|Every]] [[G2250|day]] [[G1510|I was]] [[G4314|with]] [[G4771|you,]] [[G1321|teaching]] [[G1722|in]] [[G3588|the]] [[G2411|temple courts,]] [[G2532|and]] [[G2902|you did not arrest]] [[G1473|Me.]] [[G235|But]] ⟨this has happened⟩ [[G2443|that]] [[G3588|the]] [[G1124|Scriptures]] [[G4137|would be fulfilled.”]] ^1449
 
-And as they were eating, he took bread, and after blessing it broke it and gave it to them, and said, Take; this is my body. ^1422
+[[G2532|Then]] [[G3956|all]] ⟨His disciples⟩ [[G863|deserted]] [[G846|Him]] ⟨and⟩ [[G5343|fled.]] ^1450
 
-And he took a cup, and when he had given thanks he gave it to them, and they all drank of it. ^1423
+[[G5100|One]] [[G3495|young man]] [[G4870|who had been following]] ⟨Jesus⟩ [[G846|]] [[G4016|was wearing]] [[G4616|a linen cloth]] [[G1909|around]] ⟨his body⟩ [[G1131|.]] [[G2902|They caught hold]] [[G846|of him,]] ^1451
 
-And he said to them, This is my blood of the covenant, which is poured out for many. ^1424
+[[G1161|but]] [[G2641|he pulled free]] [[G3588|of the]] [[G4616|linen cloth]] [[G5343|and ran away]] [[G1131|naked.]] ^1452
 
-Truly, I say to you, I will not drink again of the fruit of the vine until that day when I drink it new in the kingdom of God. ^1425
+[[G520|They led]] [[G2424|Jesus]] ⟨away⟩ [[G4314|to]] [[G3588|the]] [[G749|high priest,]] [[G2532|and]] [[G3956|all]] [[G3588|the]] [[G749|chief priests,]] [[G4245|elders,]] [[G2532|and]] [[G1122|scribes]] [[G4905|assembled.]] ^1453
 
-And when they had sung a hymn, they went out to the Mount of Olives. ^1426
+[[G4074|Peter]] [[G190|followed]] [[G846|Him]] [[G575|at]] [[G3113|a distance,]] [[G2193|right]] [[G2080|into]] [[G3588|the]] [[G833|courtyard]] [[G3588|of the]] [[G749|high priest.]] [[G2532|And]] [[G4775|he sat]] [[G3326|with]] [[G3588|the]] [[G5257|officers]] [[G2328|to warm himself]] [[G4314|by]] [[G3588|the]] [[G5457|fire.]] ^1454
 
-And Jesus said to them, You will all fall away, for it is written, I will strike the shepherd, and the sheep will be scattered. ^1427
+[[G1161|Now]] [[G3588|the]] [[G749|chief priests]] [[G2532|and]] [[G3588|the]] [[G3650|whole]] [[G4892|Sanhedrin]] [[G2212|were seeking]] [[G3141|testimony]] [[G2596|against]] [[G2424|Jesus]] [[G1519|to]] [[G2289|put Him to death,]] [[G2532|but]] [[G2147|they did not find]] ⟨any⟩. ^1455
 
-But after I am raised up, I will go before you to Galilee. ^1428
+[[G1063|For]] [[G4183|many]] [[G5576|bore false witness]] [[G2596|against]] ⟨Jesus⟩ [[G846|,]] [[G2532|but]] [[G3588|their]] [[G3141|testimony]] [[G1510|was]] [[G2470|inconsistent.]] ^1456
 
-Peter said to him, Even though they all fall away, I will not. ^1429
+[[G2532|Then]] [[G5100|some]] ⟨men⟩ [[G450|stood up]] ⟨and⟩ [[G5576|testified falsely]] [[G2596|against]] [[G846|Him:]] ^1457
 
-And Jesus said to him, Truly, I tell you, this very night, before the rooster crows twice, you will deny me three times. ^1430
+[[G1473|“We]] [[G191|heard]] [[G846|Him]] [[G3004|say,]] [[G1473|‘I]] [[G2647|will destroy]] [[G3778|this]] [[G5499|man-made]] [[G3485|temple,]] [[G2532|and]] [[G1223|in]] [[G5140|three]] [[G2250|days]] [[G3618|I will build]] [[G243|another]] ⟨that is⟩ [[G886|made without hands.’”]] ^1458
 
-But he said emphatically, If I must die with you, I will not deny you. And they all said the same. ^1431
+[[G2532|But even]] [[G846|their]] [[G3141|testimony]] [[G1510|was]] [[G2470|inconsistent.]] ^1459
 
-And they went to a place called Gethsemane. And he said to his disciples, Sit here while I pray. ^1432
+⟨So⟩ [[G2532|]] [[G3588|the]] [[G749|high priest]] [[G450|stood up]] [[G3319|before them]] ⟨and⟩ [[G1905|questioned]] [[G2424|Jesus,]] [[G611|“Have You no answer?]] [[G5101|What]] ⟨is it⟩ [[G3778|these]] ⟨men⟩ [[G2649|are testifying against]] [[G4771|You?”]] ^1460
 
-And he took with him Peter and James and John, and began to be greatly distressed and troubled. ^1433
+[[G1161|But]] ⟨Jesus⟩ [[G4623|remained silent]] [[G2532|and]] [[G611|made no reply.]] [[G3825|Again]] [[G3588|the]] [[G749|high priest]] [[G1905|questioned]] [[G846|Him,]] [[G1510|“Are]] [[G4771|You]] [[G3588|the]] [[G5547|Christ,]] [[G3588|the]] [[G5207|Son]] [[G3588|of the]] [[G2128|Blessed?”]] ⟨One⟩ ^1461
 
-And he said to them, My soul is very sorrowful, even to death. Remain here and watch. ^1434
+[[G1473|“I]] [[G1510|am,”]] [[G2036|said]] [[G2424|Jesus,]] [[G2532|“and]] [[G3708|you will see]] [[G3588|the]] [[G5207|Son]] [[G444|of Man]] [[G2521|sitting]] [[G1537|at]] ⟨the⟩ [[G1188|right hand]] [[G3588|of]] [[G1411|Power]] [[G2532|and]] [[G2064|coming]] [[G3326|with]] [[G3588|the]] [[G3507|clouds]] [[G3588|of]] [[G3772|heaven.”]] ^1462
 
-And going a little farther, he fell on the ground and prayed that, if it were possible, the hour might pass from him. ^1435
+[[G1161|At this,]] [[G3588|the]] [[G749|high priest]] [[G1284|tore]] [[G846|his]] [[G5509|clothes]] ⟨and⟩ [[G3004|declared,]] [[G5101|“Why]] [[G5532|do we need]] [[G2089|any more]] [[G3144|witnesses?]] ^1463
 
-And he said, Abba, Father, all things are possible for you. Remove this cup from me. Yet not what I will, but what you will. ^1436
+[[G191|You have heard]] [[G3588|the]] [[G988|blasphemy.]] [[G5101|What]] [[G4771|is your]] [[G5316|verdict?”]] [[G1161|And]] [[G3956|they all]] [[G2632|condemned]] [[G846|Him]] [[G1510|as]] [[G1777|deserving]] [[G2288|of death.]] ^1464
 
-And he came and found them sleeping, and he said to Peter, Simon, are you asleep? Could you not watch one hour? ^1437
+[[G2532|Then]] [[G5100|some]] ⟨of them⟩ [[G756|began]] [[G1716|to spit on]] [[G846|Him.]] [[G4028|They blindfolded Him,]] [[G2852|struck Him with their fists,]] [[G2532|and]] [[G3004|said]] [[G846|to Him,]] [[G4395|“Prophesy!”]] [[G2532|And]] [[G3588|the]] [[G5257|officers]] [[G2983|received]] [[G846|Him]] [[G4475|with slaps in His face.]] ^1465
 
-Watch and pray that you may not enter into temptation. The spirit indeed is willing, but the flesh is weak. ^1438
+[[G2532|While]] [[G4074|Peter]] [[G1510|was]] [[G1722|in]] [[G3588|the]] [[G833|courtyard]] [[G2736|below,]] [[G1520|one]] [[G3588|of the]] [[G749|high priest’s]] [[G3814|servant girls]] [[G2064|came down]] ^1466
 
-And again he went away and prayed, saying the same words. ^1439
+[[G2532|and]] [[G3708|saw]] ⟨him⟩ [[G4074|]] [[G2328|warming himself]] ⟨there⟩. [[G1689|She looked at]] ⟨Peter⟩ [[G846|]] ⟨and⟩ [[G3004|said,]] [[G4771|“You]] [[G2532|also]] [[G1510|were]] [[G3326|with]] [[G2424|Jesus]] [[G3588|the]] [[G3479|Nazarene.”]] ^1467
 
-And again he came and found them sleeping, for their eyes were very heavy, and they did not know what to answer him. ^1440
+[[G1161|But]] [[G720|he denied]] ⟨it⟩. [[G1492|“I do not know]] [[G3777|or even]] [[G1987|understand]] [[G5101|what]] [[G4771|you]] [[G3004|are talking about,”]] [[G3004|he said.]] [[G2532|Then]] [[G1831|he went]] [[G1854|out]] [[G1519|to]] [[G3588|the]] [[G4259|gateway,]] [[G2532|and]] [[G220|the rooster]] [[G5455|crowed.]] ^1468
 
-And he came the third time and said to them, Are you still sleeping and taking your rest? It is enough; the hour has come. The Son of Man is betrayed into the hands of sinners. ^1441
+⟨There⟩ [[G2532|]] [[G3588|the]] [[G3814|servant girl]] [[G3708|saw]] [[G846|him]] ⟨and⟩ [[G756|]] [[G3825|again]] [[G3004|said to]] [[G3588|those]] [[G3936|standing nearby,]] [[G3778|“This]] ⟨man⟩ [[G1510|is]] ⟨one⟩ [[G1537|of]] [[G846|them.”]] ^1469
 
-Rise, let us be going; see, my betrayer is at hand. ^1442
+[[G1161|But]] [[G720|he denied]] ⟨it⟩ [[G3825|again.]] [[G3326|After]] [[G3398|a little while,]] [[G3588|those]] [[G3936|standing nearby]] [[G2036|said]] [[G3825|once more]] [[G4074|to Peter,]] [[G230|“Surely]] [[G1510|you are]] [[G1537|one of]] [[G846|them,]] [[G1063|for]] [[G1510|you too are]] [[G1057|a Galilean.”]] ^1470
 
-And immediately, while he was still speaking, Judas came, one of the twelve, and with him a crowd with swords and clubs, from the chief priests and the scribes and the elders. ^1443
+[[G1161|But]] [[G756|he began]] [[G332|to curse]] [[G2532|and]] [[G3660|swear,]] [[G1492|“I do not know]] [[G3778|this]] [[G444|man]] [[G3739|of whom]] [[G3004|you speak!”]] ^1471
 
-Now the betrayer had given them a sign, saying, The one I will kiss is the man. Seize him and lead him away under guard. ^1444
+[[G2532|And]] [[G2112|just then,]] ⟨the⟩ [[G220|rooster]] [[G5455|crowed]] [[G1208|a second time.]] [[G2532|Then]] [[G4074|Peter]] [[G363|remembered]] [[G3588|the]] [[G4487|word]] [[G2424|Jesus]] [[G2036|had spoken]] [[G846|to him:]] [[G4250|“Before]] ⟨the⟩ [[G220|rooster]] [[G5455|crows]] [[G1364|twice,]] [[G533|you will deny]] [[G1473|Me]] [[G5151|three times.”]] [[G2532|And]] [[G1911|he broke down]] ⟨and⟩ [[G2799|wept.]] ^1472
 
-And when he came, he went up to him at once and said, Rabbi! And he kissed him. ^1445
+[[G2112|Early]] [[G4404|in the morning,]] [[G3588|the]] [[G749|chief priests,]] [[G4245|elders,]] [[G1122|scribes,]] [[G2532|and]] [[G3588|the]] [[G3650|whole]] [[G4892|Sanhedrin]] [[G4160|devised]] [[G4824|a plan.]] [[G1210|They bound]] [[G2424|Jesus,]] [[G667|led away,]] ⟨Him⟩ [[G2532|and]] [[G3860|handed over]] ⟨Him⟩ [[G4091|to Pilate.]] ^1501
 
-And they laid hands on him and seized him. ^1446
+[[G2532|So]] [[G4091|Pilate]] [[G1905|questioned]] [[G846|Him,]] [[G1510|“Are]] [[G4771|You]] [[G3588|the]] [[G935|King]] [[G3588|of the]] [[G2453|Jews?”]] [[G4771|“You]] [[G3004|have said so,”]] ⟨Jesus⟩ [[G611|replied.]] ^1502
 
-But one of those who stood by drew his sword and struck the servant of the high priest and cut off his ear. ^1447
+[[G2532|And]] [[G3588|the]] [[G749|chief priests]] [[G2723|began to accuse]] [[G846|Him]] [[G4183|of many things.]] ^1503
 
-And Jesus said to them, Have you come out as against a robber, with swords and clubs to capture me? ^1448
+[[G1161|Then]] [[G4091|Pilate]] [[G1905|questioned]] [[G846|Him]] [[G3825|again,]] [[G611|“Do You not answer?]] [[G2400|Look]] [[G4214|how many charges]] [[G2723|they are bringing against]] [[G4771|You!”]] ^1504
 
-Day after day I was with you in the temple teaching, and you did not seize me. But let the Scriptures be fulfilled. ^1449
+[[G1161|But]] [[G5620|to]] [[G4091|Pilate’s]] [[G2296|amazement,]] [[G2424|Jesus]] [[G611|made no further reply.]] ^1505
 
-And they all left him and fled. ^1450
+[[G1161|Now]] ⟨it was Pilate’s custom⟩ [[G2596|at]] ⟨the⟩ [[G1859|feast]] [[G630|to release]] [[G846|to]] ⟨the people⟩ [[G1520|a]] [[G1198|prisoner]] [[G3868|of their choosing.]] ^1506
 
-And a young man followed him, with nothing but a linen cloth about his body. And they seized him, ^1451
+[[G1161|And]] ⟨a man⟩ [[G3588|]] [[G3004|named]] [[G912|Barabbas]] [[G1510|was]] [[G1210|imprisoned]] [[G3326|with]] [[G3588|the]] [[G4955|rebels]] [[G3748|who]] [[G4160|had committed]] [[G5408|murder]] [[G1722|during]] [[G3588|the]] [[G4714|insurrection.]] ^1507
 
-but he left the linen cloth and ran away naked. ^1452
+⟨So⟩ [[G2532|]] [[G3588|the]] [[G3793|crowd]] [[G305|went up]] ⟨and⟩ [[G756|began]] [[G154|asking]] ⟨Pilate⟩ [[G2531|to keep his custom.]] ^1508
 
-And they led Jesus to the high priest. And all the chief priests and the elders and the scribes came together. ^1453
+[[G2309|“Do you want]] [[G630|me to release]] [[G4771|to you]] [[G3588|the]] [[G935|King]] [[G3588|of the]] [[G2453|Jews?”]] [[G4091|Pilate]] [[G611|asked.]] ^1509
 
-And Peter had followed him at a distance, right into the courtyard of the high priest. And he was sitting with the guards and warming himself at the fire. ^1454
+[[G1063|For]] [[G1097|he knew]] ⟨it was⟩ [[G1223|out of]] [[G5355|envy]] [[G3754|that]] [[G3588|the]] [[G749|chief priests]] [[G3860|had handed over.]] ⟨Jesus⟩ ^1510
 
-Now the chief priests and the whole council were seeking testimony against Jesus to put him to death, but they found none. ^1455
+[[G1161|But]] [[G3588|the]] [[G749|chief priests]] [[G383|stirred up]] [[G3588|the]] [[G3793|crowd]] [[G2443|to]] [[G630|have him release]] [[G912|Barabbas]] [[G846|to them]] [[G3123|instead.]] ^1511
 
-For many bore false witness against him, but their testimony did not agree. ^1456
+⟨So⟩ [[G1161|]] [[G4091|Pilate]] [[G611|asked]] [[G846|them]] [[G3825|again,]] [[G5101|“What]] [[G3767|then]] [[G2309|do you want]] [[G4160|me to do]] [[G3739|with the]] ⟨One⟩ [[G3004|you call]] [[G3588|the]] [[G935|King]] [[G3588|of the]] [[G2453|Jews?”]] ^1512
 
-And some stood up and bore false witness against him, saying, ^1457
+[[G1161|And]] [[G2896|they shouted]] [[G3825|back,]] [[G4717|“Crucify]] [[G846|Him!”]] ^1513
 
-We heard him say, I will destroy this temple that is made with hands, and in three days I will build another, not made with hands. ^1458
+[[G1063|“Why?”]] [[G2036|asked]] [[G4091|Pilate.]] [[G5101|“What]] [[G4160|has He done]] [[G2556|wrong?”]] [[G1161|But]] [[G2896|they shouted]] [[G4057|all the louder,]] [[G4717|“Crucify]] [[G846|Him!”]] ^1514
 
-Yet even about this their testimony did not agree. ^1459
+[[G1161|And]] [[G1014|wishing]] [[G4160|to]] [[G2425|satisfy]] [[G3588|the]] [[G3793|crowd,]] [[G4091|Pilate]] [[G630|released]] [[G912|Barabbas]] [[G846|to them.]] [[G2532|But]] ⟨he had⟩ [[G2424|Jesus]] [[G5417|flogged,]] ⟨and⟩ [[G3860|handed Him over]] [[G2443|to]] [[G4717|be crucified.]] ^1515
 
-And the high priest stood up in the midst and asked Jesus, Have you no answer to make? What is it that these men testify against you? ^1460
+[[G1161|Then]] [[G3588|the]] [[G4757|soldiers]] [[G520|led away]] ⟨Jesus⟩ [[G2080|into]] [[G3588|the]] [[G833|palace]] [[G3739|(that]] [[G1510|is,]] ⟨the⟩ [[G4232|Praetorium)]] [[G2532|and]] [[G4779|called]] [[G3588|the]] [[G3650|whole]] [[G4686|company]] ⟨together⟩. ^1516
 
-But he remained silent and made no answer. Again the high priest asked him, Are you the Christ, the Son of the Blessed? ^1461
+[[G1737|They dressed]] [[G846|Him]] [[G4209|in a purple robe,]] [[G4120|twisted together]] [[G4735|a crown]] [[G174|of thorns,]] ⟨and⟩ [[G4060|set on]] ⟨it⟩ [[G846|His]] ⟨head⟩. ^1517
 
-And Jesus said, I am, and you will see the Son of Man seated at the right hand of Power, and coming with the clouds of heaven. ^1462
+[[G2532|And]] [[G756|they began]] [[G782|to salute]] [[G846|Him:]] [[G5463|“Hail,]] [[G935|King]] [[G3588|of the]] [[G2453|Jews!”]] ^1518
 
-And the high priest tore his garments and said, What further witnesses do we need? ^1463
+[[G5180|They kept striking]] [[G846|His]] [[G2776|head]] [[G2563|with a staff]] [[G2532|and]] [[G1716|spitting on]] [[G846|Him.]] [[G2532|And]] [[G5087|they knelt down]] ⟨and⟩ [[G4352|bowed]] [[G846|before Him.]] ^1519
 
-You have heard his blasphemy. What is your decision? And they all condemned him as deserving death. ^1464
+[[G2532|After]] [[G1702|they had mocked]] [[G846|Him,]] [[G1562|they removed]] [[G3588|the]] [[G4209|purple]] ⟨robe⟩ [[G2532|and]] [[G1746|put]] [[G846|His]] [[G2398|own]] [[G2440|clothes]] ⟨back⟩ [[G846|on Him.]] [[G2532|Then]] [[G1806|they led Him out]] [[G2443|to]] [[G4717|crucify]] [[G846|Him.]] ^1520
 
-And some began to spit on him and to cover his face and to strike him, saying to him, Prophesy! And the guards received him with blows. ^1465
+⟨Now⟩ [[G5100|]] [[G4613|Simon]] [[G2956|of Cyrene,]] [[G3588|the]] [[G3962|father]] [[G223|of Alexander]] [[G2532|and]] [[G4504|Rufus,]] [[G3855|was passing by]] [[G2064|on his way in]] [[G575|from]] [[G68|the country,]] [[G2532|and]] ⟨the soldiers⟩ [[G29|forced]] ⟨him⟩ [[G2443|to]] [[G142|carry]] [[G3588|the]] [[G4716|cross]] [[G846|of]] ⟨Jesus⟩. ^1521
 
-And as Peter was below in the courtyard, one of the servant girls of the high priest came, ^1466
+[[G5342|They brought]] ⟨Jesus⟩ [[G846|]] [[G1909|to]] [[G5117|a place]] ⟨called⟩ [[G1115|Golgotha,]] [[G3739|which]] [[G3177|means]] ⟨The⟩ [[G5117|Place]] [[G2898|of the Skull.]] ^1522
 
-and seeing Peter warming himself, she looked at him and said, You also were with the Nazarene, Jesus. ^1467
+[[G2532|There]] [[G1325|they offered]] [[G846|Him]] [[G3631|wine]] [[G4669|mixed with myrrh,]] [[G1161|but]] [[G3739|He]] [[G2983|did not take]] ⟨it⟩. ^1523
 
-But he denied it, saying, I neither know nor understand what you mean. And he went out into the gateway and the rooster crowed. ^1468
+[[G2532|And]] [[G4717|they crucified]] [[G846|Him.]] [[G1266|They also divided]] [[G846|His]] [[G2440|garments]] [[G906|by casting]] [[G2819|lots]] [[G1909|to decide]] [[G5101|what]] ⟨each of them⟩ [[G5101|]] [[G142|would take.]] ^1524
 
-And the servant girl saw him and began again to say to the bystanders, This man is one of them. ^1469
+[[G1510|It was]] ⟨the⟩ [[G5154|third]] [[G5610|hour]] [[G2532|when]] [[G4717|they crucified]] [[G846|Him.]] ^1525
 
-But again he denied it. And after a little while the bystanders again said to Peter, Certainly you are one of them, for you are a Galilean. ^1470
+[[G2532|And]] [[G3588|the]] [[G156|charge]] [[G1923|inscribed]] [[G846|against Him]] [[G1924|read:]] [[G3588|The]] [[G935|King]] [[G3588|of the]] [[G2453|Jews.]] ^1526
 
-But he began to invoke a curse on himself and to swear, I do not know this man of whom you speak. ^1471
+⟨Along⟩ [[G2532|]] [[G4862|with]] ⟨Jesus⟩ [[G846|,]] [[G4717|they crucified]] [[G1417|two]] [[G3027|robbers,]] [[G1520|one]] [[G1537|on]] ⟨His⟩ [[G1188|right]] [[G2532|and]] [[G1520|one]] [[G1537|on]] [[G846|His]] [[G2176|left.]] ^1527
 
-And immediately the rooster crowed a second time. And Peter remembered how Jesus had said to him, Before the rooster crows twice, you will deny me three times. And he broke down and wept. ^1472
+[[G2532|And]] [[G3588|the]] [[G1124|Scripture]] [[G4137|was fulfilled]] [[G3588|that]] [[G3004|says,]] [[G2532|and]] [[G3049|he was reckoned]] [[G3326|with]] ⟨the⟩ [[G459|lawless.]] ^1528
 
+[[G3588|Those who]] [[G3899|passed by]] [[G987|heaped abuse on]] [[G846|Him,]] [[G2795|shaking]] [[G846|their]] [[G2776|heads]] [[G2532|and]] [[G3004|saying,]] [[G3758|“Aha!]] [[G2647|You who are going to destroy]] [[G3588|the]] [[G3485|temple]] [[G2532|and]] [[G3618|rebuild]] ⟨it⟩ [[G1722|in]] [[G5140|three]] [[G2250|days,]] ^1529
 
+[[G2597|come down]] [[G575|from]] [[G3588|the]] [[G4716|cross]] ⟨and⟩ [[G4982|save]] [[G4572|Yourself!”]] ^1530
 
-And as soon as it was morning, the chief priests held a consultation with the elders and scribes and the whole council. And they bound Jesus and led him away and delivered him over to Pilate. ^1501
+[[G3668|In the same way,]] [[G3588|the]] [[G749|chief priests]] [[G3326|and]] [[G1122|scribes]] [[G1702|mocked]] ⟨Him⟩ [[G4314|among]] [[G240|themselves,]] [[G2036|saying,]] [[G4982|“He saved]] ⟨who⟩ [[G243|others]] [[G1410|cannot]] ⟨even⟩ [[G4982|save]] [[G1438|Himself!]] ^1531
 
-And Pilate asked him, Are you the King of the Jews? And he answered him, You have said so. ^1502
+⟨Let⟩ [[G3588|the]] [[G5547|Christ,]] [[G3588|the]] [[G935|King]] [[G2474|of Israel,]] [[G2597|descend]] [[G3568|now]] [[G575|from]] [[G3588|the]] [[G4716|cross,]] [[G2443|so that]] [[G3708|we may see]] [[G2532|and]] [[G4100|believe!”]] [[G2532|And even]] [[G3588|those who]] [[G4957|were crucified]] [[G4862|with]] [[G846|Him]] [[G3679|berated]] [[G846|Him.]] ^1532
 
-And the chief priests accused him of many things. ^1503
+[[G1623|From sixth]] ⟨the⟩ [[G5610|hour]] [[G2193|until]] ⟨the⟩ [[G1766|ninth]] [[G5610|hour]] [[G4655|darkness]] [[G1096|came]] [[G1909|over]] [[G3650|all]] [[G3588|the]] [[G1093|land.]] ^1533
 
-And Pilate again asked him, Have you no answer to make? See how many charges they bring against you. ^1504
+[[G3588|At the]] [[G1766|ninth]] [[G5610|hour,]] [[G2424|Jesus]] [[G994|cried out]] [[G5456|in a loud voice,]] [[G1682|“Eloi,]] [[G1682|Eloi,]] [[G2982|lema]] [[G4518|sabachthani?”]] [[G3739|which]] [[G3177|means,]] [[G1473|“My]] [[G2316|God,]] [[G1473|My]] [[G2316|God,]] [[G1519|why]] [[G1459|have You forsaken]] [[G1473|Me?”]] ^1534
 
-But Jesus made no further answer, so that Pilate was amazed. ^1505
+[[G2532|When]] [[G5100|some]] [[G3588|of those]] [[G3936|standing nearby]] [[G191|heard]] ⟨this⟩, [[G2036|they said,]] [[G2400|“Look,]] [[G5455|He is calling]] [[G2243|Elijah.”]] ^1535
 
-Now at the feast he used to release for them one prisoner for whom they asked. ^1506
+[[G1161|And]] [[G5100|someone]] [[G5143|ran]] [[G2532|and]] [[G1072|filled]] [[G4699|a sponge]] [[G3690|with vinegar.]] [[G4060|He put on]] ⟨it⟩ [[G2563|a stick]] ⟨and⟩ [[G4222|offered it to to drink.]] ⟨Jesus⟩ [[G863|“Wait!”]] [[G3004|he said.]] [[G3708|“Let us see]] [[G1487|if]] [[G2243|Elijah]] [[G2064|comes]] [[G2507|to take Him down.”]] ^1536
 
-And among the rebels in prison, who had committed murder in the insurrection, there was a man called Barabbas. ^1507
+[[G1161|But]] [[G2424|Jesus]] [[G863|let out]] [[G5456|a loud cry]] ⟨and⟩ [[G1606|breathed His last.]] ^1537
 
-And the crowd came up and began to ask Pilate to do as he usually did for them. ^1508
+[[G2532|And]] [[G3588|the]] [[G2665|veil]] [[G3588|of the]] [[G3485|temple]] [[G4977|was torn]] [[G1519|in]] [[G1417|two]] [[G575|from]] [[G509|top]] [[G2193|to]] [[G2736|bottom.]] ^1538
 
-And he answered them, saying, Do you want me to release for you the King of the Jews? ^1509
+[[G1161|When]] [[G3588|the]] [[G2760|centurion]] [[G3936|standing there]] [[G1727|in front of]] ⟨Jesus⟩ [[G846|]] [[G3708|saw]] ⟨how⟩ [[G3779|]] [[G1606|He had breathed His last,]] [[G2036|he said,]] [[G230|“Truly]] [[G3778|this]] [[G444|man]] [[G1510|was]] ⟨the⟩ [[G5207|Son]] [[G2316|of God!”]] ^1539
 
-For he perceived that it was out of envy that the chief priests had delivered him up. ^1510
+[[G1161|And]] [[G1510|there were]] [[G2532|also]] [[G1135|women]] [[G2334|watching]] [[G575|from]] [[G3113|a distance.]] [[G1722|Among]] [[G3739|them]] ⟨were⟩ [[G2532|]] [[G3137|Mary]] [[G3094|Magdalene,]] [[G3137|Mary]] [[G3588|the]] [[G3384|mother]] [[G2385|of James]] [[G3588|the]] [[G3398|younger]] [[G2532|and]] [[G2500|of Joseph,]] [[G2532|and]] [[G4539|Salome.]] ^1540
 
-But the chief priests stirred up the crowd to have him release for them Barabbas instead. ^1511
+⟨These women⟩ [[G3739|]] [[G190|had followed]] ⟨Jesus⟩ [[G846|]] [[G2532|and]] [[G1247|ministered]] [[G846|to Him]] [[G3753|while]] [[G1510|He was]] [[G1722|in]] [[G1056|Galilee,]] [[G2532|and]] ⟨there were⟩ [[G4183|many]] [[G243|other]] ⟨women⟩ [[G3588|who]] [[G4872|had come up]] [[G1519|to]] [[G2414|Jerusalem]] [[G846|with Him.]] ^1541
 
-And Pilate again said to them, Then what shall I do with the man you call the King of the Jews? ^1512
+[[G2532|Now]] [[G1096|it was]] [[G2235|already]] [[G3798|evening.]] [[G1893|Since]] [[G1510|it was]] [[G3904|Preparation Day]] [[G3739|(that]] [[G1510|is,]] ⟨the day⟩ [[G4315|before the Sabbath),]] ^1542
 
-And they cried out again, Crucify him. ^1513
+[[G2501|Joseph]] [[G575|of]] [[G707|Arimathea,]] ⟨a⟩ [[G2158|prominent]] [[G1010|Council member]] [[G3739|who]] [[G846|himself]] [[G1510|was]] [[G4327|waiting for]] [[G3588|the]] [[G932|kingdom]] [[G2316|of God,]] [[G5111|boldly]] [[G2064|went]] [[G4314|to]] [[G4091|Pilate]] [[G154|to ask for]] [[G3588|the]] [[G4983|body]] [[G2424|of Jesus.]] ^1543
 
-And Pilate said to them, Why, what evil has he done? But they shouted all the more, Crucify him. ^1514
+[[G4091|Pilate]] [[G2296|was surprised]] ⟨to hear⟩ [[G1487|that]] ⟨Jesus⟩ [[G2348|was already dead,]] [[G2532|so]] [[G4341|he summoned]] [[G3588|the]] [[G2760|centurion]] [[G1905|to ask]] [[G1487|if]] ⟨this was so⟩ [[G599|.]] ^1544
 
-So Pilate, wishing to satisfy the crowd, released for them Barabbas, and having scourged Jesus, he delivered him to be crucified. ^1515
+[[G1097|When had confirmed]] ⟨Pilate⟩ ⟨it⟩ [[G575|with]] [[G3588|the]] [[G2760|centurion,]] [[G1433|he granted]] [[G3588|the]] [[G4430|body]] [[G2501|to Joseph.]] ^1545
 
-And the soldiers led him away inside the palace (that is, the governor’s headquarters ), and they called together the whole battalion. ^1516
+⟨Joseph⟩ [[G59|bought]] [[G4616|a linen cloth,]] [[G2507|took down]] ⟨the body of Jesus⟩ [[G846|,]] [[G1750|wrapped in]] ⟨it⟩ [[G3588|the]] [[G4616|cloth,]] [[G2532|and]] [[G5087|laid]] ⟨it⟩ [[G846|]] [[G1722|in]] [[G3419|a tomb]] [[G3739|that]] [[G1510|had been]] [[G2998|cut]] [[G1537|out of]] ⟨the⟩ [[G4073|rock.]] [[G2532|Then]] [[G4351|he rolled]] [[G3037|a stone]] [[G1909|against]] [[G3588|the]] [[G2374|entrance]] [[G3588|to the]] [[G3419|tomb.]] ^1546
 
-And they clothed him in a purple cloak, and twisting together a crown of thorns, they put it on him. ^1517
+[[G3137|Mary]] [[G3094|Magdalene]] [[G2532|and]] [[G3137|Mary]] [[G3588|the]] ⟨mother⟩ [[G2500|of Joseph]] [[G2334|saw]] [[G4225|where]] ⟨His body⟩ [[G5087|was laid.]] ^1547
 
-And they began to salute him, Hail, King of the Jews! ^1518
+[[G2532|When]] [[G3588|the]] [[G4521|Sabbath]] [[G1230|was over,]] [[G3137|Mary]] [[G3094|Magdalene,]] [[G3137|Mary]] [[G3588|the]] ⟨mother⟩ [[G2385|of James,]] [[G2532|and]] [[G4539|Salome]] [[G59|bought]] [[G759|spices]] [[G2443|so]] [[G2064|they could go]] ⟨and⟩ [[G218|anoint]] ⟨Jesus’ body⟩ [[G846|.]] ^1601
 
-And they were striking his head with a reed and spitting on him and kneeling down in homage to him. ^1519
+[[G3029|Very]] [[G4404|early]] [[G3588|on the]] [[G1520|first]] ⟨day⟩ [[G3588|of the]] [[G4521|week,]] [[G2246|just after sunrise,]] [[G2064|they went]] [[G1909|to]] [[G3588|the]] [[G3419|tomb.]] ^1602
 
-And when they had mocked him, they stripped him of the purple cloak and put his own clothes on him. And they led him out to crucify him. ^1520
+[[G2036|They were asking]] [[G1438|one another,]] [[G5101|“Who]] [[G617|will roll away]] [[G3588|the]] [[G3037|stone]] [[G1537|from]] [[G3588|the]] [[G2374|entrance]] [[G3588|of the]] [[G3419|tomb?”]] ^1603
 
-And they compelled a passerby, Simon of Cyrene, who was coming in from the country, the father of Alexander and Rufus, to carry his cross. ^1521
+[[G2532|But]] [[G308|when they looked up,]] [[G2334|they saw]] [[G3754|that]] [[G3588|the]] [[G3037|stone]] [[G617|had been rolled away,]] [[G1063|even though]] [[G1510|it was]] [[G4970|extremely]] [[G3173|large.]] ^1604
 
-And they brought him to the place called Golgotha ( which means Place of a Skull ). ^1522
+[[G2532|When]] [[G1525|they entered]] [[G3588|the]] [[G3419|tomb,]] [[G3708|they saw]] [[G3495|a young man]] [[G4016|dressed in]] [[G3022|a white]] [[G4749|robe]] [[G2521|sitting]] [[G1722|on]] [[G3588|the]] [[G1188|right side,]] [[G2532|and]] [[G1568|they were alarmed.]] ^1605
 
-And they offered him wine mixed with myrrh, but he did not take it. ^1523
+[[G1161|But]] [[G3004|he said]] [[G846|to them,]] [[G3361|“ not]] ⟨Do⟩ [[G1568|be alarmed.]] [[G2212|You are looking for]] [[G2424|Jesus]] [[G3588|the]] [[G3479|Nazarene,]] [[G3588|who]] [[G4717|was crucified.]] [[G1453|He has risen!]] [[G1510|He is]] [[G3756|not]] [[G5602|here!]] [[G2400|See]] [[G3588|the]] [[G5117|place]] [[G3699|where]] [[G5087|they laid]] [[G846|Him.]] ^1606
 
-And they crucified him and divided his garments among them, casting lots for them, to decide what each should take. ^1524
+[[G235|But]] [[G5217|go,]] [[G2036|tell]] [[G846|His]] [[G3101|disciples]] [[G2532|and]] [[G4074|Peter,]] [[G4254|‘He is going ahead of]] [[G4771|you]] [[G1519|into]] [[G1056|Galilee.]] [[G1563|There]] [[G3708|you will see]] [[G846|Him,]] [[G2531|just as]] [[G2036|He told]] [[G4771|you.’”]] ^1607
 
-And it was the third hour when they crucified him. ^1525
+[[G2532|So]] [[G1831|they left]] [[G3588|the]] [[G3419|tomb]] [[G5343|and ran away,]] [[G2192|overwhelmed]] [[G5156|with shock]] [[G2532|and]] [[G1611|amazement.]] [[G2532|And]] [[G5399|in their fear]] [[G2036|they did not say]] ⟨a word to anyone⟩ [[G3762|.]] ^1608
 
-And the inscription of the charge against him read, The King of the Jews. ^1526
+[[G450|After had risen,]] ⟨Jesus⟩ [[G4404|early]] ⟨on the⟩ [[G4413|first]] ⟨day⟩ [[G4521|of the week,]] [[G5316|He appeared]] [[G4412|first]] [[G3137|to Mary]] [[G3094|Magdalene,]] [[G3844|from]] [[G3739|whom]] [[G1544|He had driven out]] [[G2033|seven]] [[G1140|demons.]] ^1609
 
-And with him they crucified two robbers, one on his right and one on his left. ^1527
+[[G1565|She]] [[G4198|went]] ⟨and⟩ [[G518|told]] [[G3588|those]] [[G1096|who had been]] [[G3326|with]] [[G846|Him,]] [[G3996|who were mourning]] ⟨now⟩ [[G2532|and]] [[G2799|weeping.]] ^1610
 
-And with him they crucified two robbers, one on his right and one on his left. ^1528
+[[G2548|And when they]] [[G191|heard]] [[G3754|that]] ⟨Jesus⟩ [[G2198|was alive]] [[G2532|and]] [[G2300|she had seen Him,]] [[G569|they did not believe]] ⟨it⟩. ^1611
 
-And those who passed by derided him, wagging their heads and saying, Aha! You who would destroy the temple and rebuild it in three days, ^1529
+[[G3326|After]] ⟨this⟩ [[G3778|,]] ⟨Jesus⟩ [[G5319|appeared]] [[G1722|in]] [[G2087|a different]] [[G3444|form]] [[G1417|to two]] [[G1537|of]] [[G846|them]] [[G4043|as they walked]] [[G4198|along]] [[G1519|in]] ⟨the⟩ [[G68|country.]] ^1612
 
-save yourself, and come down from the cross! ^1530
+[[G2548|And they]] [[G565|went back]] [[G518|and reported]] ⟨it⟩ [[G3588|to the]] [[G3062|rest,]] [[G4100|but they did not believe]] [[G1565|them]] [[G3761|either.]] ^1613
 
-So also the chief priests with the scribes mocked him to one another, saying, He saved others; he cannot save himself. ^1531
+[[G5305|Later]] [[G345|as they were eating,]] ⟨Jesus⟩ [[G5319|appeared]] [[G3588|to the]] [[G1733|eleven]] [[G2532|and]] [[G3679|rebuked them]] [[G846|for their]] [[G570|unbelief]] [[G2532|and]] [[G4641|hardness of heart,]] [[G3754|because]] [[G4100|they did not believe]] [[G3588|those]] [[G2300|who had seen]] [[G846|Him]] [[G1453|after He had risen.]] ^1614
 
-Let the Christ, the King of Israel, come down now from the cross that we may see and believe. Those who were crucified with him also reviled him. ^1532
+[[G2532|And]] [[G2036|He said]] [[G846|to them,]] [[G4198|“Go]] [[G1519|into]] [[G537|all]] [[G3588|the]] [[G2889|world]] ⟨and⟩ [[G2784|preach]] [[G3588|the]] [[G2098|gospel]] [[G3956|to every]] [[G2937|creature.]] ^1615
 
-And when the sixth hour had come, there was darkness over the whole land until the ninth hour. ^1533
+[[G3588|Whoever]] [[G4100|believes]] [[G2532|and]] [[G907|is baptized]] [[G4982|will be saved,]] [[G1161|but]] [[G3588|whoever]] [[G569|does not believe]] [[G2632|will be condemned.]] ^1616
 
-And at the ninth hour Jesus cried with a loud voice, Eloi, Eloi, lema sabachthani? which means, My God, my God, why have you forsaken me? ^1534
+[[G1161|And]] [[G3778|these]] [[G4592|signs]] [[G5023|will accompany]] [[G3588|those]] [[G4100|who believe:]] [[G1722|In]] [[G1473|My]] [[G3686|name]] [[G1544|they will drive out]] [[G1140|demons;]] [[G2980|they will speak]] [[G2537|in new]] [[G1100|tongues;]] ^1617
 
-And some of the bystanders hearing it said, Behold, he is calling Elijah. ^1535
+[[G142|they will pick up]] [[G3789|snakes]] [[G1722|with]] [[G3588|their]] [[G5495|hands,]] [[G2579|and if]] [[G4095|they drink]] [[G5100|any]] [[G2286|deadly poison,]] [[G984|it will not harm]] [[G846|them;]] [[G2007|they will lay]] ⟨their⟩ [[G5495|hands]] [[G1909|on]] ⟨the⟩ [[G732|sick,]] [[G2532|and]] [[G2192|they will be made]] [[G2573|well.”]] ^1618
 
-And someone ran and filled a sponge with sour wine, put it on a reed and gave it to him to drink, saying, Wait, let us see whether Elijah will come to take him down. ^1536
+[[G3326|After]] [[G3588|the]] [[G2962|Lord]] [[G2424|Jesus]] [[G2980|had spoken]] [[G846|to them,]] [[G353|He was taken up]] [[G1519|into]] [[G3772|heaven]] [[G2532|and]] [[G2523|sat down]] [[G1537|at]] ⟨the⟩ [[G1188|right hand]] [[G2316|of God.]] ^1619
 
-And Jesus uttered a loud cry and breathed his last. ^1537
-
-And the curtain of the temple was torn in two, from top to bottom. ^1538
-
-And when the centurion, who stood facing him, saw that in this way he breathed his last, he said, Truly this man was the Son of God! ^1539
-
-There were also women looking on from a distance, among whom were Mary Magdalene, and Mary the mother of James the younger and of Joses, and Salome. ^1540
-
-When he was in Galilee, they followed him and ministered to him, and there were also many other women who came up with him to Jerusalem. ^1541
-
-And when evening had come, since it was the day of Preparation, that is, the day before the Sabbath, ^1542
-
-Joseph of Arimathea, a respected member of the council, who was also himself looking for the kingdom of God, took courage and went to Pilate and asked for the body of Jesus. ^1543
-
-Pilate was surprised to hear that he should have already died. And summoning the centurion, he asked him whether he was already dead. ^1544
-
-And when he learned from the centurion that he was dead, he granted the corpse to Joseph. ^1545
-
-And Joseph bought a linen shroud, and taking him down, wrapped him in the linen shroud and laid him in a tomb that had been cut out of the rock. And he rolled a stone against the entrance of the tomb. ^1546
-
-Mary Magdalene and Mary the mother of Joses saw where he was laid. ^1547
-
-
-
-, When the Sabbath was past, Mary Magdalene, Mary the mother of James, and Salome bought spices, so that they might go and anoint him. ^1601
-
-And very early on the first day of the week, when the sun had risen, they went to the tomb. ^1602
-
-And they were saying to one another, Who will roll away the stone for us from the entrance of the tomb? ^1603
-
-And looking up, they saw that the stone had been rolled back — it was very large. ^1604
-
-And entering the tomb, they saw a young man sitting on the right side, dressed in a white robe, and they were alarmed. ^1605
-
-And he said to them, Do not be alarmed. You seek Jesus of Nazareth, who was crucified. He has risen; he is not here. See the place where they laid him. ^1606
-
-But go, tell his disciples and Peter that he is going before you to Galilee. There you will see him, just as he told you. ^1607
-
-And they went out and fled from the tomb, for trembling and astonishment had seized them, and they said nothing to anyone, for they were afraid. ^1608
-
-[[ Now when he rose early on the first day of the week, he appeared first to Mary Magdalene, from whom he had cast out seven demons. ^1609
-
-She went and told those who had been with him, as they mourned and wept. ^1610
-
-But when they heard that he was alive and had been seen by her, they would not believe it. ^1611
-
-After these things he appeared in another form to two of them, as they were walking into the country. ^1612
-
-And they went back and told the rest, but they did not believe them. ^1613
-
-Afterward he appeared to the eleven themselves as they were reclining at table, and he rebuked them for their unbelief and hardness of heart, because they had not believed those who saw him after he had risen. ^1614
-
-And he said to them, Go into all the world and proclaim the gospel to the whole creation. ^1615
-
-Whoever believes and is baptized will be saved, but whoever does not believe will be condemned. ^1616
-
-And these signs will accompany those who believe : in my name they will cast out demons; they will speak in new tongues; ^1617
-
-they will pick up serpents with their hands; and if they drink any deadly poison, it will not hurt them; they will lay their hands on the sick, and they will recover. ^1618
-
-So then the Lord Jesus, after he had spoken to them, was taken up into heaven and sat down at the right hand of God. ^1619
-
-And they went out and preached everywhere, while the Lord worked with them and confirmed the message by accompanying signs .]] ^1620
-
-
+[[G1161|And]] [[G1565|they]] [[G1831|went out]] ⟨and⟩ [[G2784|preached]] [[G3837|everywhere,]] ⟨and⟩ [[G3588|the]] [[G2962|Lord]] [[G4903|worked through]] ⟨them⟩, [[G950|confirming]] ⟨His⟩ [[G3588|]] [[G3056|word]] [[G1223|by]] [[G3588|the]] [[G4592|signs]] [[G1872|that accompanied]] ⟨it⟩. ^1620

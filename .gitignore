@@ -1,11 +1,16 @@
 # Ignore the personal Obsidian settings folder:
 .obsidian/*
-# Keep the plugins folder:
+# Keep the plugins and css snippets folders:
 !.obsidian/plugins
-# But ignore everything in it:
+!.obsidian/snippets
+
+# But ignore everything in them:
 .obsidian/plugins/*
-# Except this one plugin:
-!.obsidian/plugins/bibleref
+.obsidian/snippets/*
+
+# Except this one plugin and one css snippet:
+!.obsidian/plugins/ebenezer-plugin
+!.obsidian/snippets/ebenezer-babel-wikilink-hiding
 
 # Easy catch-all directory for personal study, tests, etc
 git_ignore/

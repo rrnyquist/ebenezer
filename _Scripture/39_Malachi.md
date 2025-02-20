@@ -1,119 +1,109 @@
+⟨This is⟩ [[H4853|an oracle,]] [[H1697|the word]] [[H3068|of the LORD]] [[H413|to]] [[H3478|Israel]] [[H3027|through]] [[H4401|Malachi:]] ^0101
 
+[[H157|“I have loved you,”]] [[H559|says]] [[H3068|the LORD.]] [[H559|But you ask,]] [[H4100|“How]] [[H157|have You loved us?”]] [[H3808|“Was not]] [[H6215|Esau]] [[H3290|Jacob’s]] [[H251|brother?”]] [[H5002|declares]] [[H3068|the LORD.]] [[H3290|“Yet Jacob]] [[H157|I have loved,]] ^0102
 
-The oracle of the word of the Lord to Israel by Malachi. ^0101
+[[H853|but]] [[H6215|Esau]] [[H8130|I have hated,]] [[H7760|and I have made]] [[H2022|his mountains]] [[H8077|a wasteland]] [[H5159|and left his inheritance]] [[H4057|to the desert]] [[H8568|jackals.”]] ^0103
 
-I have loved you, says the Lord. But you say, How have you loved us? Is not Esau Jacob’s brother? declares the Lord. Yet I have loved Jacob ^0102
+[[H3588|Though]] [[H123|Edom]] [[H559|may say,]] [[H7567|“We have been devastated,]] [[H7725|but we will rebuild]] [[H2723|the ruins,”]] [[H3541|this is what]] [[H3068|the LORD]] [[H6635|of Hosts]] [[H559|says:]] [[H1992|“They]] [[H1129|may build,]] [[H589|but I]] [[H2040|will demolish.]] [[H7121|They will be called]] [[H1366|the Land]] [[H7564|of Wickedness,]] [[H5971|and a people]] [[H834|toward whom]] [[H3068|the LORD]] [[H2194|is indignant]] [[H5704|forever.]] ^0104
 
-but Esau I have hated. I have laid waste his hill country and left his heritage to jackals of the desert. ^0103
+[[H7200|You will see this]] [[H5869|with your own eyes,]] [[H859|and you yourselves]] [[H559|will say,]] [[H3068|‘The LORD]] [[H1431|is great—]] [[H5921|even beyond]] [[H1366|the borders]] [[H3478|of Israel.’”]] ^0105
 
-If Edom says, We are shattered but we will rebuild the ruins, the Lord of hosts says, They may build, but I will tear down, and they will be called the wicked country, and the people with whom the Lord is angry forever. ^0104
+[[H1121|“A son]] [[H3513|honors]] [[H1|his father,]] [[H5650|and a servant]] [[H113|his master.]] [[H518|But if]] [[H589|I]] [[H1|am a father,]] [[H346|where]] [[H3519|is My honor?]] [[H518|And if]] [[H589|I]] [[H113|am a master,]] [[H346|where]] [[H4172|is your fear of Me?”]] [[H559|says]] [[H3068|the LORD]] [[H6635|of Hosts]] [[H3548|to you  priests]] [[H959|who despise]] [[H8034|My name.]] [[H559|Yet you ask,]] [[H4100|“How]] [[H959|have we despised]] [[H8034|Your name?”]] ^0106
 
-Your own eyes shall see this, and you shall say, Great is the Lord beyond the border of Israel! ^0105
+[[H5066|“By presenting]] [[H1351|defiled]] [[H3899|food]] [[H5921|on]] [[H4196|My altar.”]] [[H559|You ask,]] [[H4100|“How]] [[H1351|have we defiled You?”]] [[H559|“By saying that]] [[H7979|the table]] [[H3068|of the LORD]] [[H959|is contemptible.”]] ^0107
 
-A son honors his father, and a servant his master. If then I am a father, where is my honor? And if I am a master, where is my fear? says the Lord of hosts to you, O priests, who despise my name. But you say, How have we despised your name? ^0106
+[[H3588|“When]] [[H5066|you offer]] [[H5787|blind animals]] [[H2076|for sacrifice,]] [[H369|is it not]] [[H7451|wrong?]] [[H3588|And when]] [[H5066|you present]] [[H6455|the lame]] [[H2470|and sick]] ⟨ones⟩, [[H369|is it not]] [[H7451|wrong?]] [[H7126|Why not offer them]] [[H6346|to your governor!]] [[H7521|Would he be pleased]] [[H176|with you or]] [[H5375|show you favor?”]] [[H559|asks]] [[H3068|the LORD]] [[H6635|of Hosts.]] ^0108
 
-By offering polluted food upon my altar. But you say, How have we polluted you? By saying that the Lord ’s table may be despised. ^0107
+[[H6258|“But now]] ⟨ask⟩ [[H410|for God’s]] [[H2470|favor.]] [[H2603|Will He be gracious to us?]] [[H2063|Since this]] [[H1961|has come]] [[H4480|from]] [[H3027|your hands,]] [[H5375|will He show you favor?”]] [[H559|asks]] [[H3068|the LORD]] [[H6635|of Hosts.]] ^0109
 
-When you offer blind animals in sacrifice, is that not evil? And when you offer those that are lame or sick, is that not evil? Present that to your governor; will he accept you or show you favor? says the Lord of hosts. ^0108
+[[H4310|“Oh,]] [[H1571|that one]] [[H5462|of you  would shut]] [[H1817|the temple doors,]] [[H3808|so that you would no]] [[H215|longer kindle]] [[H2600|useless]] [[H4196|fires on My altar!]] [[H369|I take no]] [[H2656|pleasure]] [[H559|in you,”  says]] [[H3068|the LORD]] [[H6635|of Hosts,]] [[H7521|“and I will accept]] [[H3808|no]] [[H4503|offering]] [[H3027|from your hands.”]] ^0110
 
-And now entreat the favor of God, that he may be gracious to us. With such a gift from your hand, will he show favor to any of you? says the Lord of hosts. ^0109
+[[H3588|“For]] [[H8034|My name]] [[H1419|will be great]] [[H1471|among the nations,]] [[H4217|from the rising]] [[H5704|to]] [[H3996|the setting]] [[H8121|of the sun.]] [[H3605|In every]] [[H4725|place,]] [[H6999|incense]] [[H2889|and pure]] [[H4503|offerings]] ⟨will be⟩ [[H5066|presented]] [[H8034|in My name,]] [[H3588|because]] [[H8034|My name]] [[H1419|will be great]] [[H1471|among the nations,”]] [[H559|says]] [[H3068|the LORD]] [[H6635|of Hosts.]] ^0111
 
-Oh that there were one among you who would shut the doors, that you might not kindle fire on my altar in vain! I have no pleasure in you, says the Lord of hosts, and I will not accept an offering from your hand. ^0110
+[[H859|“But you]] [[H2490|profane]] [[H853|it]] [[H559|when you say,]] [[H7979|‘The table]] [[H136|of the LORD]] [[H1931|is]] [[H1351|defiled,]] [[H5108|and its fruit,]] [[H400|its food,]] [[H959|is contemptible.’]] ^0112
 
-For from the rising of the sun to its setting my name will be great among the nations, and in every place incense will be offered to my name, and a pure offering. For my name will be great among the nations, says the Lord of hosts. ^0111
+[[H559|You also say:]] [[H2009|‘Look,]] [[H4972|what a nuisance!’]] [[H5301|And you turn up your nose at]] [[H853|it,”]] [[H559|says]] [[H3068|the LORD]] [[H6635|of Hosts.]] [[H935|“You bring]] [[H4503|as an offering]] ⟨animals that are⟩ [[H1497|stolen,]] [[H6455|lame,]] [[H2470|or sick!]] [[H7521|Should I accept]] [[H853|this]] [[H3027|from your hands?”]] [[H559|asks]] [[H3068|the LORD.]] ^0113
 
-But you profane it when you say that the Lord’s table is polluted, and its fruit, that is, its food may be despised. ^0112
+[[H779|“But cursed]] ⟨is⟩ [[H5230|the deceiver]] [[H3426|who has]] [[H2145|an acceptable male]] [[H5739|in his flock]] [[H5087|and vows to give it,]] [[H2076|but sacrifices]] [[H7843|a defective]] [[H136|animal to the Lord.]] [[H3588|For]] [[H589|I]] [[H1419|am a great]] [[H4428|King,”]] [[H559|says]] [[H3068|the LORD]] [[H6635|of Hosts,]] [[H8034|“and My name]] ⟨is to be⟩ [[H3372|feared]] [[H1471|among the nations.”]] ^0114
 
-But you say, What a weariness this is, and you snort at it, says the Lord of hosts. You bring what has been taken by violence or is lame or sick, and this you bring as your offering! Shall I accept that from your hand? says the Lord. ^0113
+[[H6258|And now]] [[H2063|this]] [[H4687|decree]] [[H413|is for you,]] [[H3548|O priests:]] ^0201
 
-Cursed be the cheat who has a male in his flock, and vows it, and yet sacrifices to the Lord what is blemished. For I am a great King, says the Lord of hosts, and my name will be feared among the nations. ^0114
+[[H518|“If]] [[H3808|you do not]] [[H8085|listen,]] [[H518|and if]] [[H3808|you do not]] [[H7760|take]] ⟨it⟩ [[H5921|to]] [[H3820|heart]] [[H5414|to honor]] [[H8034|My name,”]] [[H559|says]] [[H3068|the LORD]] [[H6635|of Hosts,]] [[H7971|“I will send]] [[H3994|a curse among you,]] [[H779|and I will curse]] [[H1293|your blessings.]] [[H1571|Yes,]] [[H779|I have already begun to curse them,]] [[H3588|because]] [[H369|you are not]] [[H7760|taking]] [[H5921|it to]] [[H3820|heart.]] ^0202
 
+[[H2005|Behold,]] [[H1605|I will rebuke]] [[H2233|your  descendants,]] [[H2219|and I will spread]] [[H6569|dung]] [[H5921|on]] [[H6440|your faces,]] [[H6569|the waste]] [[H2282|from your feasts,]] [[H5375|and you will be carried off]] [[H413|with it.”]] ^0203
 
+[[H3045|Then you will know]] [[H3588|that]] [[H7971|I have sent]] [[H413|you]] [[H2063|this]] [[H4687|commandment,]] [[H1285|that My covenant]] [[H854|with]] [[H3878|Levi]] [[H1961|may continue,”]] [[H559|says]] [[H3068|the LORD]] [[H6635|of Hosts.]] ^0204
 
-And now, O priests, this command is for you. ^0201
+[[H1285|“My covenant]] [[H854|with him]] [[H1961|was]] ⟨one⟩ [[H2416|of life]] [[H7965|and peace,]] [[H5414|and I gave them]] [[H4172|to him;  it called for reverence,]] [[H3372|and he revered Me]] [[H2865|and stood in awe]] [[H8034|of My name.]] ^0205
 
-If you will not listen, if you will not take it to heart to give honor to my name, says the Lord of hosts, then I will send the curse upon you and I will curse your blessings. Indeed, I have already cursed them, because you do not lay it to heart. ^0202
+[[H571|TRUE]] [[H8451|instruction]] [[H1961|was]] [[H6310|in his mouth,]] [[H3808|and nothing]] [[H5766|FALSE]] [[H4672|was found]] [[H8193|on his lips.]] [[H1980|He walked]] [[H854|with Me]] [[H7965|in peace]] [[H4334|and uprightness,]] [[H7725|and he turned]] [[H7227|many]] [[H5771|from iniquity.]] ^0206
 
-Behold, I will rebuke your offspring, and spread dung on your faces, the dung of your offerings, and you shall be taken away with it. ^0203
+[[H3588|For]] [[H8193|the lips]] [[H3548|of a priest]] [[H8104|should preserve]] [[H1847|knowledge,]] [[H1245|and people should seek]] [[H8451|instruction]] [[H6310|from his mouth,]] [[H3588|because]] [[H1931|he]] [[H4397|is the messenger]] [[H3068|of the LORD]] [[H6635|of Hosts.”]] ^0207
 
-So shall you know that I have sent this command to you, that my covenant with Levi may stand, says the Lord of hosts. ^0204
+[[H859|“But you]] [[H5493|have departed]] [[H4480|from]] [[H1870|the way,]] [[H8451|and your instruction]] [[H7227|has caused many]] [[H3782|to stumble.]] [[H7843|You have violated]] [[H1285|the covenant]] [[H3878|of Levi,”]] [[H559|says]] [[H3068|the LORD]] [[H6635|of Hosts.]] ^0208
 
-My covenant with him was one of life and peace, and I gave them to him. It was a covenant of fear, and he feared me. He stood in awe of my name. ^0205
+[[H589|“So I]] [[H1571|in turn]] [[H5414|have made]] [[H959|you despised]] [[H8217|and humiliated]] [[H3605|before all]] [[H5971|the people,]] [[H6310|because]] [[H369|you have not]] [[H8104|kept]] [[H1870|My ways,]] [[H5375|but have shown partiality]] [[H8451|in matters of the law.”]] ^0209
 
-True instruction was in his mouth, and no wrong was found on his lips. He walked with me in peace and uprightness, and he turned many from iniquity. ^0206
+[[H3808|Do we not]] [[H3605|all]] [[H259|have one]] [[H1|Father?]] [[H3808|Did not]] [[H259|one]] [[H410|God]] [[H1254|create us?]] [[H4069|Why then]] [[H898|do we break faith]] [[H376|with one]] [[H251|another]] [[H2490|so as to profane]] [[H1285|the covenant]] [[H1|of our fathers?]] ^0210
 
-For the lips of a priest should guard knowledge, and people should seek instruction from his mouth, for he is the messenger of the Lord of hosts. ^0207
+[[H3063|Judah]] [[H898|has broken faith;]] [[H8441|an abomination]] [[H6213|has been committed]] [[H3478|in Israel]] [[H3389|and in Jerusalem.]] [[H3588|For]] [[H3063|Judah]] [[H2490|has profaned]] [[H3068|the LORD's]] [[H157|beloved]] [[H6944|sanctuary]] [[H1166|by marrying]] [[H1323|the daughter]] [[H5236|of a foreign]] [[H410|god.]] ^0211
 
-But you have turned aside from the way. You have caused many to stumble by your instruction. You have corrupted the covenant of Levi, says the Lord of hosts, ^0208
+⟨As⟩ [[H376|for the man]] [[H834|who]] [[H6213|does this,]] [[H3068|may the LORD]] [[H3772|cut off]] [[H168|from the tents]] [[H3290|of Jacob]] ⟨everyone who is⟩ [[H5782|awake]] [[H6030|and aware—]] [[H5066|even if he brings]] [[H4503|an offering]] [[H3068|to the LORD]] [[H6635|of Hosts.]] ^0212
 
-and so I make you despised and abased before all the people, inasmuch as you do not keep my ways but show partiality in your instruction. ^0209
+[[H2063|And this]] [[H8145|is another]] [[H6213|thing you do:]] [[H3680|You cover]] [[H4196|the altar]] [[H3068|of the LORD]] [[H1832|with tears,]] [[H1065|with weeping]] [[H603|and groaning,]] [[H369|because He no]] [[H5750|longer]] [[H6437|regards]] [[H4503|your offerings]] [[H3947|or receives them]] [[H7522|gladly]] [[H3027|from your hands.]] ^0213
 
-Have we not all one Father? Has not one God created us? Why then are we faithless to one another, profaning the covenant of our fathers? ^0210
+[[H559|Yet you ask,]] [[H5921|“Why?”]] [[H5921|It is because]] [[H3068|the LORD]] [[H5749|has been a witness]] [[H996|between you]] [[H996|and]] [[H802|the wife]] [[H5271|of your youth,]] [[H834|against whom]] [[H859|you]] [[H898|have broken faith,]] [[H1931|though she is]] [[H2278|your companion]] [[H802|and your wife]] [[H1285|by covenant.]] ^0214
 
-Judah has been faithless, and abomination has been committed in Israel and in Jerusalem. For Judah has profaned the sanctuary of the Lord, which he loves, and has married the daughter of a foreign god. ^0211
+[[H3808|Has not]] ⟨the LORD⟩ [[H6213|made them]] [[H259|one,]] [[H7605|having a portion]] [[H7307|of the Spirit?]] [[H4100|And why]] [[H259|one?]] [[H1245|Because He seeks]] [[H430|godly]] [[H2233|offspring.]] [[H8104|Therefore guard yourselves]] [[H7307|in your spirit]] [[H408|and do not]] [[H898|break faith]] [[H802|with the wife]] [[H5271|of your youth.]] ^0215
 
-May the Lord cut off from the tents of Jacob any descendant of the man who does this, who brings an offering to the Lord of hosts! ^0212
+[[H3588|“For]] [[H8130|I hate]] [[H7971|divorce,”]] [[H559|says]] [[H3068|the LORD,]] [[H430|the God]] [[H3478|of Israel,]] [[H3680|“and covers himself]] ⟨I hate when a man⟩ [[H3830|and his garment]] [[H5921|with]] [[H2555|violence,”]] [[H559|says]] [[H3068|the LORD]] [[H6635|of Hosts.]] [[H8104|Therefore guard yourselves]] [[H7307|in your spirit]] [[H3808|and do not]] [[H898|break faith.]] ^0216
 
-And this second thing you do. You cover the Lord ’s altar with tears, with weeping and groaning because he no longer regards the offering or accepts it with favor from your hand. ^0213
+[[H3021|You have wearied]] [[H3068|the LORD]] [[H1697|with your words;]] [[H559|yet you ask,]] [[H4100|“How]] [[H3021|have we wearied Him?”]] [[H559|By saying,]] [[H3605|“All]] [[H6213|who do]] [[H7451|evil]] ⟨are⟩ [[H2896|good]] [[H5869|in the sight]] [[H3068|of the LORD,]] [[H1931|and in them  He]] [[H2654|delights,”]] [[H176|or,]] [[H346|“Where]] [[H430|is the God]] [[H4941|of justice?”]] ^0217
 
-But you say, Why does he not? Because the Lord was witness between you and the wife of your youth, to whom you have been faithless, though she is your companion and your wife by covenant. ^0214
+[[H2005|“Behold,]] [[H7971|I will send]] [[H4397|My messenger,]] [[H6437|who will prepare]] [[H1870|the way]] [[H6440|before Me.]] [[H113|Then the Lord]] [[H834|whom]] [[H859|you]] [[H1245|seek]] [[H6597|will suddenly]] [[H935|come]] [[H413|to]] [[H1964|His temple—]] [[H4397|the Messenger]] [[H1285|of the covenant,]] [[H834|in whom]] [[H2655|you delight—]] [[H2009|see,]] [[H935|He is coming,”]] [[H559|says]] [[H3068|the LORD]] [[H6635|of Hosts.]] ^0301
 
-Did he not make them one, with a portion of the Spirit in their union? And what was the one God seeking? Godly offspring. So guard yourselves in your spirit, and let none of you be faithless to the wife of your youth. ^0215
+[[H4310|But who]] [[H3557|can endure]] [[H3117|the day]] [[H935|of His coming?]] [[H4310|And who]] [[H5975|can stand]] [[H7200|when He appears?]] [[H3588|For]] [[H1931|He]] [[H6884|will be like a refiner’s]] [[H784|fire,]] ⟨like⟩ [[H3526|a launderer's]] [[H1287|soap.]] ^0302
 
-For the man who does not love his wife but divorces her, says the Lord, the God of Israel, covers his garment with violence, says the Lord of hosts. So guard yourselves in your spirit, and do not be faithless. ^0216
+[[H3427|And He will sit]] [[H6884|as a refiner]] [[H2891|and purifier]] [[H3701|of silver;]] [[H2891|He will purify]] [[H1121|the sons]] [[H3878|of Levi]] [[H2212|and refine]] [[H2091|them like gold]] [[H3701|and silver.]] [[H5066|Then they will present]] [[H4503|offerings]] [[H3068|to the LORD]] [[H6666|in righteousness.]] ^0303
 
-You have wearied the Lord with your words. But you say, How have we wearied him? By saying, Everyone who does evil is good in the sight of the Lord, and he delights in them. Or by asking, Where is the God of justice? ^0217
+[[H4503|Then the offerings]] [[H3063|of Judah]] [[H3389|and Jerusalem]] [[H6149|will please]] [[H3068|the LORD,]] [[H3117|as in days]] [[H5769|of old]] [[H8141|and years]] [[H6931|gone by.]] ^0304
 
+[[H7126|“Then I will draw near]] [[H413|to you]] [[H4941|for judgment.]] [[H1961|And I will be]] [[H4116|a swift]] [[H5707|witness]] [[H3784|against sorcerers]] [[H5003|and adulterers]] [[H7650|and]] [[H8267|perjurers,]] [[H6231|against oppressors]] [[H490|of the widowed]] [[H3490|and fatherless,]] [[H7939|and against those who defraud laborers]] [[H7916|of their wages]] [[H5186|and deny justice]] [[H1616|to the foreigner]] [[H3808|but do not]] [[H3372|fear Me,]] [[H559|says]] [[H3068|the LORD]] [[H6635|of Hosts.]] ^0305
 
+[[H3588|“Because]] [[H589|I,]] [[H3068|the LORD,]] [[H3808|do not]] [[H8138|change,]] [[H859|you]] [[H1121|descendants]] [[H3290|of Jacob]] [[H3808|have not]] [[H3615|been destroyed.]] ^0306
 
-Behold, I send my messenger, and he will prepare the way before me. And the Lord whom you seek will suddenly come to his temple; and the messenger of the covenant in whom you delight, behold, he is coming, says the Lord of hosts. ^0301
+[[H3117|Yet from the days]] [[H1|of your fathers,]] [[H5493|you have turned away]] [[H2706|from My statutes]] [[H3808|and have not]] [[H8104|kept them.]] [[H7725|Return]] [[H413|to Me,]] [[H7725|and I will return]] [[H413|to you,”]] [[H559|says]] [[H3068|the LORD]] [[H6635|of Hosts.]] [[H559|But you ask,]] [[H4100|“How]] [[H7725|can we return?”]] ^0307
 
-But who can endure the day of his coming, and who can stand when he appears? For he is like a refiner’s fire and like fullers ’ soap. ^0302
+[[H120|“Will a man]] [[H6906|rob]] [[H430|God?]] [[H3588|Yet]] [[H859|you]] [[H6906|are robbing]] [[H853|Me!”]] [[H559|You ask,]] [[H4100|“How]] [[H6906|do we rob You?”]] [[H4643|“In tithes]] [[H8641|and offerings.]] ^0308
 
-He will sit as a refiner and purifier of silver, and he will purify the sons of Levi and refine them like gold and silver, and they will bring offerings in righteousness to the Lord. ^0303
+[[H859|You]] [[H779|are cursed]] [[H3994|with a curse,]] [[H859|yet you—]] [[H3605|the whole]] [[H1471|nation—]] [[H6906|are still robbing Me.]] ^0309
 
-Then the offering of Judah and Jerusalem will be pleasing to the Lord as in the days of old and as in former years. ^0304
+[[H935|Bring]] [[H3605|the full]] [[H4643|tithe]] [[H413|into]] [[H1004|the storehouse,]] [[H1961|so that there may be]] [[H2964|food]] [[H1004|in My house.]] [[H974|Test Me]] [[H2063|in this,”]] [[H559|says]] [[H3068|the LORD]] [[H6635|of Hosts.]] [[H518|“See if]] [[H3808|I will not]] [[H6605|open]] [[H699|the floodgates]] [[H8064|of heaven]] [[H7324|and pour out]] [[H1293|for you  blessing]] [[H1097|without]] [[H1767|measure.]] ^0310
 
-Then I will draw near to you for judgment. I will be a swift witness against the sorcerers, against the adulterers, against those who swear falsely, against those who oppress the hired worker in his wages, the widow and the fatherless, against those who thrust aside the sojourner, and do not fear me, says the Lord of hosts. ^0305
+[[H1605|I will rebuke]] [[H398|the devourer]] [[H3808|for you,  so that it will not]] [[H7843|destroy]] [[H6529|the fruits]] [[H127|of your land,]] [[H1612|and the vine]] [[H7704|in your field]] [[H3808|will not]] [[H7921|fail to produce fruit,”]] [[H559|says]] [[H3068|the LORD]] [[H6635|of Hosts.]] ^0311
 
-For I the Lord do not change; therefore you, O children of Jacob, are not consumed. ^0306
+[[H3605|“Then all]] [[H1471|the nations]] [[H833|will call you blessed,]] [[H3588|for]] [[H859|you]] [[H1961|will be]] [[H776|a land]] [[H2656|of delight,”]] [[H559|says]] [[H3068|the LORD]] [[H6635|of Hosts.]] ^0312
 
-From the days of your fathers you have turned aside from my statutes and have not kept them. Return to me, and I will return to you, says the Lord of hosts. But you say, How shall we return? ^0307
+[[H1697|“Your words]] [[H5921|against Me]] [[H2388|have been harsh,”]] [[H559|says]] [[H3068|the LORD.]] [[H559|“Yet you ask,]] [[H4100|‘What]] [[H1696|have we spoken]] [[H5921|against You?’]] ^0313
 
-Will man rob God? Yet you are robbing me. But you say, How have we robbed you? In your tithes and contributions. ^0308
+[[H559|You have said,]] [[H7723|‘It is futile]] [[H5647|to serve]] [[H430|God.]] [[H4100|What]] [[H1215|have we gained]] [[H8104|by keeping]] [[H4931|His requirements]] [[H1980|and walking]] [[H6941|mournfully]] [[H6440|before]] [[H3069|the LORD]] [[H6635|of Hosts?]] ^0314
 
-You are cursed with a curse, for you are robbing me, the whole nation of you. ^0309
+[[H6258|So now]] [[H587|we]] [[H2086|call the arrogant]] [[H833|blessed.]] [[H1571|Not only]] [[H6213|do evildoers]] [[H1129|prosper,]] [[H1571|they even]] [[H974|test]] [[H430|God]] [[H4422|and escape.’”]] ^0315
 
-Bring the full tithe into the storehouse, that there may be food in my house. And thereby put me to the test, says the Lord of hosts, if I will not open the windows of heaven for you and pour down for you a blessing until there is no more need. ^0310
+[[H227|At that time,]] [[H3372|those who feared]] [[H3068|the LORD]] [[H1696|spoke]] [[H376|to one]] [[H7453|another,]] [[H3068|and the LORD]] [[H7181|listened]] [[H8085|and heard]] ⟨them⟩. [[H5612|So a scroll]] [[H2146|of remembrance]] [[H3789|was written]] [[H6440|before Him]] [[H3372|regarding those who feared]] [[H3068|the LORD]] [[H2803|and honored]] [[H8034|His name.]] ^0316
 
-I will rebuke the devourer for you, so that it will not destroy the fruits of your soil, and your vine in the field shall not fail to bear, says the Lord of hosts. ^0311
+[[H1961|“They will be Mine,”]] [[H559|says]] [[H3068|the LORD]] [[H6635|of Hosts,]] [[H3117|“on the day]] [[H834|when]] [[H589|I]] [[H6213|prepare]] [[H5459|My treasured possession.]] [[H2550|And I will spare]] [[H5921|them]] [[H834|as]] [[H376|a man]] [[H2550|spares]] [[H1121|his own son]] [[H5647|who serves]] [[H853|him.]] ^0317
 
-Then all nations will call you blessed, for you will be a land of delight, says the Lord of hosts. ^0312
+[[H7725|So you will again]] [[H7200|distinguish]] [[H996|between]] [[H6662|the righteous]] [[H7563|and the wicked,]] [[H996|between]] [[H5647|those who serve]] [[H430|God]] [[H834|and those who]] [[H3808|do not.”]] ^0318
 
-Your words have been hard against me, says the Lord. But you say, How have we spoken against you? ^0313
+[[H3588|“For]] [[H2009|behold,]] [[H3117|the day]] [[H935|is coming,]] [[H1197|burning]] [[H8574|like a furnace,]] [[H3605|when all]] [[H2086|the arrogant]] [[H3605|and every]] [[H6213|evildoer]] [[H1961|will be]] [[H7179|stubble;]] [[H3117|the day]] [[H935|is coming]] [[H3857|when I will set them ablaze,”]] [[H559|says]] [[H3069|the LORD]] [[H6635|of Hosts.]] [[H3808|“Not]] [[H8328|a root]] [[H6057|or branch]] [[H5800|will be left]] [[H1992|to them.”]] ^0401
 
-You have said, It is vain to serve God. What is the profit of our keeping his charge or of walking as in mourning before the Lord of hosts? ^0314
+[[H3373|“But for you who fear]] [[H8034|My name,]] [[H8121|the sun]] [[H6666|of righteousness]] [[H2224|will rise]] [[H4832|with healing]] [[H3671|in its wings,]] [[H3318|and you will go out]] [[H6335|and leap]] [[H5695|like calves]] [[H4770|from the stall.]] ^0402
 
-And now we call the arrogant blessed. Evildoers not only prosper but they put God to the test and they escape. ^0315
+[[H6072|Then you will trample]] [[H7563|the wicked,]] [[H3588|for]] [[H1961|they will be]] [[H665|ashes]] [[H8478|under]] [[H3709|the soles]] [[H7272|of your feet]] [[H3117|on the day]] [[H589|I]] [[H6213|am preparing,”]] [[H559|says]] [[H3068|the LORD]] [[H6635|of Hosts.]] ^0403
 
-Then those who feared the Lord spoke with one another. The Lord paid attention and heard them, and a book of remembrance was written before him of those who feared the Lord and esteemed his name. ^0316
+[[H2142|“Remember]] [[H8451|the Law]] [[H4872|of Moses]] [[H5650|My servant,]] [[H2706|the statutes]] [[H4941|and ordinances]] [[H6680|I commanded]] [[H853|him]] [[H5921|for]] [[H3605|all]] [[H3478|Israel]] [[H2722|at Horeb.]] ^0404
 
-They shall be mine, says the Lord of hosts, in the day when I make up my treasured possession, and I will spare them as a man spares his son who serves him. ^0317
+[[H2009|Behold,]] [[H595|I]] [[H7971|will send]] [[H452|you  Elijah]] [[H5030|the prophet]] [[H6440|before]] [[H935|the coming]] [[H1419|of the great]] [[H3372|and dreadful]] [[H3117|Day]] [[H3068|of the LORD.]] ^0405
 
-Then once more you shall see the distinction between the righteous and the wicked, between one who serves God and one who does not serve him. ^0318
-
-
-
-For behold, the day is coming, burning like an oven, when all the arrogant and all evildoers will be stubble. The day that is coming shall set them ablaze, says the Lord of hosts, so that it will leave them neither root nor branch. ^0401
-
-But for you who fear my name, the sun of righteousness shall rise with healing in its wings. You shall go out leaping like calves from the stall. ^0402
-
-And you shall tread down the wicked, for they will be ashes under the soles of your feet, on the day when I act, says the Lord of hosts. ^0403
-
-Remember the law of my servant Moses, the statutes and rules that I commanded him at Horeb for all Israel. ^0404
-
-Behold, I will send you Elijah the prophet before the great and awesome day of the Lord comes. ^0405
-
-And he will turn the hearts of fathers to their children and the hearts of children to their fathers, lest I come and strike the land with a decree of utter destruction. ^0406
-
-
+[[H7725|And he will turn]] [[H3820|the hearts]] [[H1|of the fathers]] [[H5921|to]] [[H1121|their children,]] [[H3820|and the hearts]] [[H1121|of the children]] [[H5921|to]] [[H1|their fathers.]] [[H6435|Otherwise,]] [[H935|I will come]] [[H5221|and strike]] [[H776|the land]] [[H2764|with a curse.”]] ^0406

@@ -1,839 +1,811 @@
+⟨These are⟩ [[H1697|the words]] [[H5166|of Nehemiah]] [[H1121|son]] [[H2446|of Hacaliah:]] [[H2320|In the month]] [[H3691|of Chislev,]] [[H6242|in the twentieth]] [[H8141|year,]] [[H589|while I]] [[H1961|was]] [[H1002|in the citadel]] [[H7800|of Susa,]] ^0101
 
+[[H2607|Hanani,]] [[H259|one]] [[H251|of my brothers,]] [[H935|arrived]] [[H376|with men]] [[H3063|from Judah.]] [[H7592|So I questioned them]] [[H5921|about]] [[H6413|the remnant]] [[H3064|of the Jews]] [[H834|who]] [[H7604|had survived]] [[H7628|the exile,]] [[H5921|and also about]] [[H3389|Jerusalem.]] ^0102
 
-The words of Nehemiah the son of Hacaliah. Now it happened in the month of Chislev, in the twentieth year, as I was in Susa the citadel, ^0101
+[[H559|And they told]] [[H7604|me,  “The remnant]] [[H834|who]] [[H7604|survived]] [[H7628|the exile]] ⟨are⟩ [[H8033|there]] [[H4082|in the province,]] [[H1419|in great]] [[H7451|trouble]] [[H2781|and disgrace.]] [[H2346|The wall]] [[H3389|of Jerusalem]] ⟨is⟩ [[H6555|broken down,]] [[H8179|and its gates]] ⟨are burned⟩ [[H3341|]] [[H784|with fire.”]] ^0103
 
-that Hanani, one of my brothers, came with certain men from Judah. And I asked them concerning the Jews who escaped, who had survived the exile, and concerning Jerusalem. ^0102
+[[H8085|When I heard]] [[H428|these]] [[H1697|words,]] [[H3427|I sat down]] [[H1058|and wept.]] [[H56|I mourned]] [[H3117|for days,]] [[H6684|fasting]] [[H6419|and praying]] [[H6440|before]] [[H430|the God]] [[H8064|of heaven.]] ^0104
 
-And they said to me, The remnant there in the province who had survived the exile is in great trouble and shame. The wall of Jerusalem is broken down, and its gates are destroyed by fire. ^0103
+[[H559|Then I said:]] [[H577|“I pray,]] [[H3069|O LORD]] [[H430|God]] [[H8064|of heaven,]] [[H1419|the great]] [[H3372|and awesome]] [[H410|God]] [[H8104|who keeps]] [[H1285|His covenant]] [[H2617|of loving devotion]] [[H157|with those who love Him]] [[H8104|and keep]] [[H4687|His commandments,]] ^0105
 
-As soon as I heard these words I sat down and wept and mourned for days, and I continued fasting and praying before the God of heaven. ^0104
+[[H5869|may Your eyes]] [[H1961|be]] [[H6605|open]] [[H241|and Your ears]] [[H7183|be attentive]] [[H8085|to hear]] [[H8605|the prayer]] [[H834|that]] [[H595|I,]] [[H5650|Your servant,]] [[H3117|now]] [[H6419|pray]] [[H6440|before You]] [[H3119|day]] [[H3915|and night]] [[H5921|for]] [[H5650|Your servants,]] [[H1121|the Israelites.]] [[H3034|I confess]] [[H2403|the sins]] [[H1121|we Israelites]] [[H2398|have committed]] [[H589|against You.  Both I]] [[H1|and my fathers]] [[H1004|house]] [[H2398|have sinned.]] ^0106
 
-And I said, O Lord God of heaven, the great and awesome God who keeps covenant and steadfast love with those who love him and keep his commandments, ^0105
+[[H2254|We have behaved corruptly]] [[H3808|against You  and have not]] [[H8104|kept]] [[H4687|the commandments,]] [[H2706|statutes,]] [[H4941|and ordinances]] [[H834|that]] [[H6680|You gave]] [[H5650|Your servant]] [[H4872|Moses.]] ^0107
 
-let your ear be attentive and your eyes open, to hear the prayer of your servant that I now pray before you day and night for the people of Israel your servants, confessing the sins of the people of Israel, which we have sinned against you. Even I and my father’s house have sinned. ^0106
+[[H2142|Remember,]] [[H4994|I pray,]] [[H1697|the word]] [[H834|that]] [[H6680|You commanded]] [[H5650|Your servant]] [[H4872|Moses]] [[H559|when You said,]] [[H859|‘If you]] [[H4603|are unfaithful,]] [[H589|I]] [[H6327|will scatter]] [[H853|you]] [[H5971|among the nations,]] ^0108
 
-We have acted very corruptly against you and have not kept the commandments, the statutes, and the rules that you commanded your servant Moses. ^0107
+[[H7725|but you return]] ⟨if⟩ [[H413|to Me]] [[H8104|to keep]] [[H6213|and practice]] [[H4687|My commandments,]] [[H518|then even if]] [[H5080|your exiles]] [[H1961|have been]] [[H7097|banished to the ends]] [[H8064|of the earth,]] [[H6908|I will gather them]] [[H8033|from there]] [[H935|and bring]] [[H413|them to]] [[H4725|the place]] [[H977|I have chosen]] [[H7931|as a dwelling]] [[H853|for]] [[H8034|My Name.’]] ^0109
 
-Remember the word that you commanded your servant Moses, saying, If you are unfaithful, I will scatter you among the peoples, ^0108
+[[H1992|They]] [[H5650|are Your servants]] [[H5971|and Your people.]] [[H6299|You redeemed]] [[H834|them]] [[H1419|by Your great]] [[H3581|power]] [[H2389|and mighty]] [[H3027|hand.]] ^0110
 
-but if you return to me and keep my commandments and do them, though your outcasts are in the uttermost parts of heaven, from there I will gather them and bring them to the place that I have chosen, to make my name dwell there. ^0109
+[[H136|O Lord,]] [[H241|may Your ear]] [[H1961|be]] [[H7183|attentive]] [[H413|to]] [[H8605|the prayer]] [[H5650|of Your servant]] [[H413|and to]] [[H8605|the prayers]] [[H5650|of Your servants]] [[H2655|who delight]] [[H3372|in reverence]] [[H8034|of Your name.]] [[H5650|Give Your servant]] [[H6743|success]] [[H3117|this day,]] [[H4994|I pray,]] [[H5414|and grant him]] [[H7356|mercy]] [[H6440|in the sight]] [[H2088|of this]] [[H376|man.]] [[H589|(For I]] [[H1961|was]] [[H4945|the cupbearer]] [[H4428|to the king.)]] ^0111
 
-They are your servants and your people, whom you have redeemed by your great power and by your strong hand. ^0110
+[[H2320|Now in the month]] [[H5212|of Nisan,]] [[H6242|in the twentieth]] [[H8141|year]] [[H4428|of King]] [[H783|Artaxerxes,]] [[H3196|when wine]] [[H6440|was set before him,]] [[H5375|I took]] [[H3196|the wine]] [[H5414|and gave]] [[H4428|it to the king.]] [[H3808|I had never]] [[H1961|been]] [[H7451|sad]] [[H6440|in his presence,]] ^0201
 
-O Lord, let your ear be attentive to the prayer of your servant, and to the prayer of your servants who delight to fear your name, and give success to your servant today, and grant him mercy in the sight of this man. Now I was cupbearer to the king. ^0111
+[[H4428|so the king]] [[H559|said]] [[H4069|to me,  “Why]] ⟨is⟩ [[H6440|your face]] [[H7451|sad,]] [[H859|though you]] ⟨are⟩ [[H369|not]] [[H2470|ill?]] [[H2088|This]] [[H369|could only be]] [[H7455|sadness]] [[H3820|of the heart.”]] [[H3372|I was overwhelmed with fear]] ^0202
 
+[[H559|and replied]] [[H4428|to the king,]] [[H4428|“May the king]] [[H2421|live forever!]] [[H4069|Why]] [[H3808|should I not]] [[H7489|be sad]] [[H834|when]] [[H5892|the city]] [[H1004|where]] [[H1|my fathers]] [[H6913|are buried]] [[H2717|lies in ruins,]] [[H8179|and its gates]] [[H398|have been destroyed]] [[H784|by fire?”]] ^0203
 
+[[H4100|“What]] [[H859|is your]] [[H1245|request?”]] [[H559|replied]] [[H4428|the king.]] [[H6419|So I prayed]] [[H413|to]] [[H430|the God]] [[H8064|of heaven]] ^0204
 
-In the month of Nisan, in the twentieth year of King Artaxerxes, when wine was before him, I took up the wine and gave it to the king. Now I had not been sad in his presence. ^0201
+[[H559|and answered]] [[H4428|the king,]] [[H518|“If]] [[H2895|it pleases]] [[H4428|the king,]] [[H518|and if]] [[H5650|your servant]] [[H3190|has found favor]] [[H6440|in your sight,]] [[H834|I ask that]] [[H7971|you send me]] [[H413|to]] [[H3063|Judah,]] [[H413|to]] [[H5892|the city]] [[H1|where my fathers]] [[H6913|are buried,]] [[H1129|so that I may rebuild it.”]] ^0205
 
-And the king said to me, Why is your face sad, seeing you are not sick? This is nothing but sadness of the heart. Then I was very much afraid. ^0202
+[[H4428|Then the king,]] [[H7694|with the queen]] [[H3427|seated]] [[H681|beside him,]] [[H559|asked]] [[H5704|me,  “How long]] [[H4109|will your journey]] [[H1961|take,]] [[H4970|and when]] [[H7725|will you return?”]] [[H3190|So it pleased]] [[H4428|the king]] [[H7971|to send me,]] [[H5414|and I set]] [[H2165|a time.]] ^0206
 
-I said to the king, Let the king live forever! Why should not my face be sad, when the city, the place of my fathers ’ graves, lies in ruins, and its gates have been destroyed by fire? ^0203
+[[H559|I also said]] [[H4428|to]] ⟨him⟩, [[H518|“If]] [[H2895|it pleases]] [[H4428|the king,]] [[H107|may letters]] [[H5414|be given]] [[H5921|to me  for]] [[H6346|the governors]] [[H5676|west]] [[H5104|of the Euphrates,]] [[H834|so that]] [[H5674|they will grant me safe passage]] [[H5704|until]] [[H935|I reach]] [[H3063|Judah.]] ^0207
 
-Then the king said to me, What are you requesting? So I prayed to the God of heaven. ^0204
+[[H107|And may I have a letter]] [[H413|to]] [[H623|Asaph,]] [[H8104|keeper]] [[H834|of the king’s]] [[H6508|forest,]] [[H834|so that]] [[H5414|he will give]] [[H6086|me  timber]] [[H7136|to make beams]] [[H853|for]] [[H8179|the gates]] [[H1002|of the citadel]] [[H1004|to the temple,]] [[H5892|for the city]] [[H2346|wall,]] [[H1004|and for the house]] [[H935|I will occupy.”]] [[H2896|And because the gracious]] [[H3027|hand]] [[H430|of my God]] [[H5921|was upon me,]] [[H4428|the king]] [[H5414|granted]] ^0208
 
-And I said to the king, If it pleases the king, and if your servant has found favor in your sight, that you send me to Judah, to the city of my fathers ’ graves, that I may rebuild it. ^0205
+[[H935|Then I went]] [[H413|to]] [[H6346|the governors]] [[H5676|west]] [[H5104|of the Euphrates]] [[H5414|and gave]] [[H4428|them  the king's]] [[H107|letters.]] [[H4428|The king]] [[H7971|had also sent]] [[H2428|army]] [[H8269|officers]] [[H6571|and cavalry]] [[H5973|with me.]] ^0209
 
-And the king said to me ( the queen sitting beside him ), How long will you be gone, and when will you return? So it pleased the king to send me when I had given him a time. ^0206
+[[H5571|But when Sanballat]] [[H2772|the Horonite]] [[H2900|and Tobiah]] [[H5984|the Ammonite]] [[H5650|official]] [[H8085|heard about this,]] [[H1419|they were deeply]] [[H7489|disturbed]] [[H834|that]] [[H120|someone]] [[H935|had come]] [[H1245|to seek]] [[H2896|the well-being]] [[H1121|of the Israelites.]] ^0210
 
-And I said to the king, If it pleases the king, let letters be given me to the governors of the province Beyond the River, that they may let me pass through until I come to Judah, ^0207
+[[H935|After I arrived]] [[H413|in]] [[H3389|Jerusalem]] [[H1961|and had been]] [[H8033|there]] [[H7969|three]] [[H3117|days,]] ^0211
 
-and a letter to Asaph, the keeper of the king’s forest, that he may give me timber to make beams for the gates of the fortress of the temple, and for the wall of the city, and for the house that I shall occupy. And the king granted me what I asked, for the good hand of my God was upon me. ^0208
+[[H589|I]] [[H6965|set out]] [[H3915|at night]] [[H5973|with]] [[H4592|a few]] [[H376|men.]] [[H3808|I did not]] [[H5046|tell]] [[H120|anyone]] [[H4100|what]] [[H430|my God]] [[H5414|had laid]] [[H413|on]] [[H3820|my heart]] [[H6213|to do]] [[H3389|for Jerusalem.]] [[H3588|The only]] [[H929|animal]] [[H5973|with me]] [[H929|was the one]] [[H834|on which]] [[H589|I]] [[H7392|was riding.]] ^0212
 
-Then I came to the governors of the province Beyond the River and gave them the king’s letters. Now the king had sent with me officers of the army and horsemen. ^0209
+[[H3318|So I went out]] [[H3915|at night]] [[H1516|through the Valley]] [[H8179|Gate]] [[H413|toward]] [[H5869|the Well]] [[H8577|of the Serpent]] [[H830|and the Dung]] [[H8179|Gate,]] [[H7663|and I inspected]] [[H2346|the walls]] [[H3389|of Jerusalem]] [[H834|that]] [[H6555|had been broken down]] [[H8179|and the gates]] [[H398|that had been destroyed]] [[H784|by fire.]] ^0213
 
-But when Sanballat the Horonite and Tobiah the Ammonite servant heard this, it displeased them greatly that someone had come to seek the welfare of the people of Israel. ^0210
+[[H5674|Then I went on]] [[H413|to]] [[H5869|the Fountain]] [[H8179|Gate]] [[H4428|and the King’s]] [[H1295|Pool,]] [[H369|but no]] ⟨there was⟩ [[H4725|room]] [[H929|for the animal]] [[H8478|under me]] [[H5674|to get through;]] ^0214
 
-So I went to Jerusalem and was there three days. ^0211
+[[H1961|so I]] [[H5927|went up]] [[H5158|the valley]] [[H3915|by night]] [[H1961|and]] [[H7663|inspected]] [[H2346|the wall.]] [[H7725|Then I headed back]] [[H935|and reentered]] [[H1516|through the Valley]] [[H8179|Gate.]] ^0215
 
-Then I arose in the night, I and a few men with me. And I told no one what my God had put into my heart to do for Jerusalem. There was no animal with me but the one on which I rode. ^0212
+[[H5461|The officials]] [[H3808|did not]] [[H3045|know]] [[H575|where]] [[H1980|I had gone]] [[H4100|or what]] [[H589|I]] [[H6213|was doing,]] [[H3808|for I had not]] [[H5704|yet]] [[H5046|told]] [[H3064|the Jews]] [[H3548|or priests]] [[H2715|or nobles]] [[H5461|or officials]] [[H3499|or any others]] [[H6213|who would be doing]] [[H4399|the work.]] ^0216
 
-I went out by night by the Valley Gate to the Dragon Spring and to the Dung Gate, and I inspected the walls of Jerusalem that were broken down and its gates that had been destroyed by fire. ^0213
+[[H559|Then I said]] [[H413|to them,]] [[H859|“You]] [[H7200|see]] [[H7451|the trouble]] [[H587|we are in.]] [[H3389|Jerusalem]] [[H2717|lies in ruins,]] [[H8179|and its gates]] [[H3341|have been burned down.]] [[H1980|Come,]] [[H1129|let us rebuild]] [[H2346|the wall]] [[H3389|of Jerusalem,]] [[H3808|so that we will no]] [[H5750|longer]] [[H1961|be]] [[H2781|a disgrace.”]] ^0217
 
-Then I went on to the Fountain Gate and to the King’s Pool, but there was no room for the animal that was under me to pass. ^0214
+[[H5046|I also told]] [[H834|them  about]] [[H2896|the gracious]] [[H3027|hand]] [[H430|of my God]] [[H5921|upon me,]] [[H637|and]] [[H834|what]] [[H4428|the king]] [[H559|had said]] [[H6965|to me.  “Let us start]] [[H1129|rebuilding,”]] [[H559|they replied,]] [[H2388|and they set]] [[H3027|their hands]] [[H2896|to good]] ⟨this⟩ ⟨work⟩. ^0218
 
-Then I went up in the night by the valley and inspected the wall, and I turned back and entered by the Valley Gate, and so returned. ^0215
+[[H5571|When Sanballat]] [[H2772|the Horonite,]] [[H2900|Tobiah]] [[H5984|the Ammonite]] [[H5650|official,]] [[H1654|and Geshem]] [[H6163|the Arab]] [[H8085|heard about this,]] [[H3932|they mocked]] [[H959|us  and ridiculed us,]] [[H559|saying,]] [[H4100|“What]] [[H2088|is this]] [[H859|you are]] [[H6213|doing?]] [[H859|Are you]] [[H4775|rebelling]] [[H5921|against]] [[H4428|the king?]] ^0219
 
-And the officials did not know where I had gone or what I was doing, and I had not yet told the Jews, the priests, the nobles, the officials, and the rest who were to do the work. ^0216
+[[H7725|So I answered]] [[H853|them]] [[H559|and said,]] [[H430|“The God]] [[H8064|of heaven]] [[H1931|is the One]] [[H6743|who will grant us success.]] [[H587|We,]] [[H5650|His servants,]] [[H6965|will start]] [[H1129|rebuilding,]] [[H369|but you  have no]] [[H2506|portion,]] [[H6666|right,]] [[H2146|or claim]] [[H3389|in Jerusalem.”]] ^0220
 
-Then I said to them, You see the trouble we are in, how Jerusalem lies in ruins with its gates burned. Come, let us build the wall of Jerusalem, that we may no longer suffer derision. ^0217
+[[H6629|At the Sheep]] [[H8179|Gate,]] [[H475|Eliashib]] [[H1419|the high]] [[H3548|priest]] [[H251|and his fellow]] [[H3548|priests]] [[H6965|began]] [[H1129|rebuilding.]] [[H1992|They]] [[H6942|dedicated it]] [[H5975|and installed]] [[H1817|its doors.]] [[H5704|After building as far as]] [[H4026|the Tower]] [[H3968|of the Hundred]] [[H4026|and the Tower]] [[H2606|of Hananel,]] [[H6942|they dedicated]] ⟨the wall⟩. ^0301
 
-And I told them of the hand of my God that had been upon me for good, and also of the words that the king had spoken to me. And they said, Let us rise up and build. So they strengthened their hands for the good work. ^0218
+[[H3405|The men of Jericho]] [[H1129|built]] [[H5921|next to]] [[H3027|Eliashib,]] [[H2139|and Zaccur]] [[H1121|son]] [[H566|of Imri]] [[H1129|built]] [[H5921|next]] [[H3027|to them.]] ^0302
 
-But when Sanballat the Horonite and Tobiah the Ammonite servant and Geshem the Arab heard of it, they jeered at us and despised us and said, What is this thing that you are doing? Are you rebelling against the king? ^0219
+[[H1709|The Fish]] [[H8179|Gate]] [[H1129|was rebuilt]] [[H1121|by the sons]] [[H5570|of Hassenaah.]] [[H1992|They]] [[H7136|laid its beams]] [[H5975|and installed]] [[H1817|its doors,]] [[H4514|bolts,]] [[H1280|and bars.]] ^0303
 
-Then I replied to them, The God of heaven will make us prosper, and we his servants will arise and build, but you have no portion or right or claim in Jerusalem. ^0220
+[[H5921|Next to]] [[H3027|them,]] [[H4822|Meremoth]] [[H1121|son]] [[H223|of Uriah,]] [[H1121|the son]] [[H6976|of Hakkoz,]] [[H2388|made repairs;]] [[H5921|next]] [[H3027|to him,]] [[H4918|Meshullam]] [[H1121|son]] [[H1296|of Berechiah,]] [[H1121|the son]] [[H4898|of Meshezabel,]] [[H2388|made repairs;]] [[H5921|and next]] [[H3027|to him,]] [[H6659|Zadok]] [[H1121|son]] [[H1195|of Baana]] [[H2388|made repairs as well.]] ^0304
 
+[[H5921|Next]] [[H3027|to them,]] [[H8621|the Tekoites]] [[H2388|made repairs,]] [[H117|but their nobles]] [[H3808|did not]] [[H935|put]] [[H6677|their shoulders]] [[H5656|to the work]] [[H113|under their supervisors.]] ^0305
 
+[[H8179|The Jeshanah Gate]] [[H2388|was repaired]] [[H3111|by Joiada]] [[H1121|son]] [[H6454|of Paseah]] [[H4918|and Meshullam]] [[H1121|son]] [[H1152|of Besodeiah.]] [[H1992|They]] [[H7136|laid its beams]] [[H5975|and installed]] [[H1817|its doors,]] [[H4514|bolts,]] [[H1280|and bars.]] ^0306
 
-Then Eliashib the high priest rose up with his brothers the priests, and they built the Sheep Gate. They consecrated it and set its doors. They consecrated it as far as the Tower of the Hundred, as far as the Tower of Hananel. ^0301
+[[H5921|Next]] [[H3027|to them,]] [[H2388|repairs were made]] [[H4424|by Melatiah]] [[H1393|the Gibeonite,]] [[H3036|Jadon]] [[H4824|the Meronothite,]] [[H376|and the men]] [[H1391|of Gibeon]] [[H4709|and Mizpah,]] [[H3678|who were under the authority]] [[H6346|of the governor]] [[H5676|of the region west]] [[H5104|of the Euphrates.]] ^0307
 
-And next to him the men of Jericho built. And next to them Zaccur the son of Imri built. ^0302
+[[H5921|Next]] [[H3027|to them,]] [[H5816|Uzziel]] [[H1121|son]] [[H2736|of Harhaiah,]] [[H6884|one of the goldsmiths,]] [[H2388|made repairs,]] [[H5921|and next]] [[H3027|to him,]] [[H2608|Hananiah]] [[H1121|son]] [[H7546|of the perfumer]] [[H2388|made repairs.]] [[H5800|They fortified]] [[H3389|Jerusalem]] [[H5704|as]] [[H7342|far as the Broad]] [[H2346|Wall.]] ^0308
 
-The sons of Hassenaah built the Fish Gate. They laid its beams and set its doors, its bolts, and its bars. ^0303
+[[H5921|Next]] [[H3027|to them,]] [[H7509|Rephaiah]] [[H1121|son]] [[H2354|of Hur,]] [[H8269|ruler]] [[H2677|of a half-district]] [[H3389|of Jerusalem,]] [[H2388|made repairs;]] ^0309
 
-And next to them Meremoth the son of Uriah, son of Hakkoz repaired. And next to them Meshullam the son of Berechiah, son of Meshezabel repaired. And next to them Zadok the son of Baana repaired. ^0304
+[[H5921|next]] [[H3027|to them,]] [[H3042|Jedaiah]] [[H1121|son]] [[H2739|of Harumaph]] [[H2388|made repairs]] [[H5048|across from]] [[H1004|his house;]] [[H5921|and next]] [[H3027|to him,]] [[H2407|Hattush]] [[H1121|son]] [[H2813|of Hashabneiah]] [[H2388|made repairs.]] ^0310
 
-And next to them the Tekoites repaired, but their nobles would not stoop to serve their Lord. ^0305
+[[H4441|Malchijah]] [[H1121|son]] [[H2766|of Harim]] [[H2815|and Hasshub]] [[H1121|son]] [[H6355|of Pahath-moab]] [[H2388|made repairs]] [[H8145|to another]] [[H4060|section,]] [[H4026|as well as to the Tower]] [[H8574|of the Ovens.]] ^0311
 
-Joiada the son of Paseah and Meshullam the son of Besodeiah repaired the Gate of Yeshanah. They laid its beams and set its doors, its bolts, and its bars. ^0306
+[[H5921|And next]] [[H3027|to them,]] [[H7967|Shallum]] [[H1121|son]] [[H3873|of Hallohesh,]] [[H8269|ruler]] [[H2677|of a half-district]] [[H3389|of Jerusalem,]] [[H2388|made repairs,]] [[H1931|with the help of]] [[H1323|his daughters.]] ^0312
 
-And next to them repaired Melatiah the Gibeonite and Jadon the Meronothite, the men of Gibeon and of Mizpah, the seat of the governor of the province Beyond the River. ^0307
+[[H1516|The Valley]] [[H8179|Gate]] [[H2388|was repaired]] [[H2586|by Hanun]] [[H3427|and the residents]] [[H2182|of Zanoah.]] [[H1992|They]] [[H1129|rebuilt it,]] [[H5975|installed]] [[H1817|its doors,]] [[H4514|bolts,]] [[H1280|and bars,]] [[H505|and a thousand]] ⟨repaired⟩ [[H520|cubits]] [[H2346|of the wall]] [[H5704|as far as]] [[H830|the Dung]] [[H8179|Gate.]] ^0313
 
-Next to them Uzziel the son of Harhaiah, goldsmiths, repaired. Next to him Hananiah, one of the perfumers, repaired, and they restored Jerusalem as far as the Broad Wall. ^0308
+[[H830|The Dung]] [[H8179|Gate]] [[H2388|was repaired]] [[H4441|by Malchijah]] [[H1121|son]] [[H7394|of Rechab,]] [[H8269|ruler]] [[H6418|of the district]] [[H1021|of  Beth-haccherem,]] [[H1931|He]] [[H1129|rebuilt it]] [[H5975|and installed]] [[H1817|its doors,]] [[H4514|bolts,]] [[H1280|and bars.]] ^0314
 
-Next to them Rephaiah the son of Hur, ruler of half the district of Jerusalem, repaired. ^0309
+[[H5869|The Fountain]] [[H8179|Gate]] [[H2388|was repaired]] [[H7968|by Shallun]] [[H1121|son]] [[H3626|of Col-hozeh,]] [[H8269|ruler]] [[H6418|of the district]] [[H4709|of Mizpah.]] [[H1931|He]] [[H1129|rebuilt it,]] [[H2926|roofed it,]] [[H5975|and installed]] [[H1817|its doors,]] [[H4514|bolts,]] [[H1280|and bars.]] [[H2346|He also repaired the wall]] [[H1295|of the Pool]] [[H7975|of Shelah]] [[H4428|near the kings]] [[H1588|garden,]] [[H5704|as]] [[H4609|far as the stairs]] [[H3381|that descend]] [[H5892|from the City]] [[H1732|of David.]] ^0315
 
-Next to them Jedaiah the son of Harumaph repaired opposite his house. And next to him Hattush the son of Hashabneiah repaired. ^0310
+[[H310|Beyond him,]] [[H5166|Nehemiah]] [[H1121|son]] [[H5802|of Azbuk,]] [[H8269|ruler]] [[H2677|of a half-district]] [[H6418|of]] [[H1049|Beth-zur,]] [[H2388|made repairs]] [[H5704|up to]] [[H5048|a point opposite]] [[H6913|the tombs]] [[H1732|of David,]] [[H5704|as]] [[H6213|far as the artificial]] [[H1295|pool]] [[H1004|and the House]] [[H1368|of the Mighty.]] ^0316
 
-Malchijah the son of Harim and Hasshub the son of Pahath-moab repaired another section and the Tower of the Ovens. ^0311
+[[H310|Next to him,]] [[H3881|the Levites]] [[H2388|made repairs]] [[H7348|under Rehum]] [[H1121|son]] [[H1137|of Bani,]] [[H5921|and next]] [[H3027|to him,]] [[H2811|Hashabiah,]] [[H8269|ruler]] [[H2677|of a half-district]] [[H7084|of Keilah,]] [[H2388|made repairs]] [[H6418|for his district.]] ^0317
 
-Next to him Shallum the son of Hallohesh, ruler of half the district of Jerusalem, repaired, he and his daughters. ^0312
+[[H310|Next to them,]] [[H251|their countrymen]] [[H2388|made repairs]] [[H942|under Binnui]] [[H1121|son]] [[H2582|of Henadad,]] [[H8269|ruler]] [[H2677|of the other half-district]] [[H7084|of Keilah.]] ^0318
 
-Hanun and the inhabitants of Zanoah repaired the Valley Gate. They rebuilt it and set its doors, its bolts, and its bars, and repaired a thousand cubits of the wall, as far as the Dung Gate. ^0313
+[[H5921|And next to]] [[H3027|him,]] [[H5829|Ezer]] [[H1121|son]] [[H3442|of Jeshua,]] [[H8269|ruler]] [[H4709|of Mizpah,]] [[H2388|made repairs]] [[H8145|to another]] [[H4060|section]] [[H5048|opposite]] [[H5927|the Ascent]] [[H5402|to the Armory,]] [[H4740|near the angle]] ⟨in the wall⟩. ^0319
 
-Malchijah the son of Rechab, ruler of the district of Beth-haccherem, repaired the Dung Gate. He rebuilt it and set its doors, its bolts, and its bars. ^0314
+[[H310|Next to him,]] [[H1263|Baruch]] [[H1121|son]] [[H2079|of Zabbai]] [[H2734|diligently]] [[H2388|repaired]] [[H8145|another]] [[H4060|section,]] [[H4480|from]] [[H4740|the angle]] [[H5704|to]] [[H6607|from the doorway]] [[H1004|of the house]] [[H475|of Eliashib]] [[H1419|the high]] [[H3548|priest.]] ^0320
 
-And Shallum the son of Col-hozeh, ruler of the district of Mizpah, repaired the Fountain Gate. He rebuilt it and covered it and set its doors, its bolts, and its bars. And he built the wall of the Pool of Shelah of the king’s garden, as far as the stairs that go down from the city of David. ^0315
+[[H310|Next to him,]] [[H4822|Meremoth]] [[H1121|son]] [[H223|of Uriah,]] [[H1121|the son]] [[H6976|of Hakkoz,]] [[H2388|made repairs]] [[H8145|to another]] [[H4060|section,]] [[H6607|from the doorway]] [[H1004|of the house]] [[H475|of Eliashib]] [[H5704|to]] [[H8503|the end]] [[H475|of]] ⟨it⟩. ^0321
 
-After him Nehemiah the son of Azbuk, ruler of half the district of Beth-zur, repaired to a point opposite the tombs of David, as far as the artificial pool, and as far as the house of the mighty men. ^0316
+[[H310|And next to him,]] [[H3548|the priests]] [[H3603|from the surrounding area]] [[H2388|made repairs.]] ^0322
 
-After him the Levites repaired : Rehum the son of Bani. Next to him Hashabiah, ruler of half the district of Keilah, repaired for his district. ^0317
+[[H310|Beyond them,]] [[H1144|Benjamin]] [[H2815|and Hasshub]] [[H2388|made repairs]] [[H5048|in front]] [[H1004|of their house,]] [[H310|and next to them,]] [[H5838|Azariah]] [[H1121|son]] [[H4641|of Maaseiah,]] [[H1121|the son]] [[H6055|of Ananiah,]] [[H2388|made repairs]] [[H681|beside]] [[H1004|his house.]] ^0323
 
-After him their brothers repaired : Bavvai the son of Henadad, ruler of half the district of Keilah. ^0318
+[[H310|After him,]] [[H1131|Binnui]] [[H1121|son]] [[H2582|of Henadad]] [[H2388|repaired]] [[H8145|another]] [[H4060|section,]] [[H1004|from the house]] [[H5838|of Azariah]] [[H5704|to]] [[H4740|the angle]] [[H6438|and the corner,]] ^0324
 
-Next to him Ezer the son of Jeshua, ruler of Mizpah, repaired another section opposite the ascent to the armory at the buttress. ^0319
+[[H6420|and Palal]] [[H1121|son]] [[H186|of Uzai]] ⟨made repairs⟩ [[H5048|opposite]] [[H4740|the angle]] [[H4026|and the tower]] [[H3318|that juts out]] [[H5945|from the upper]] [[H1004|palace]] [[H4428|of the king]] [[H2691|near the courtyard]] [[H4307|of the guard.]] [[H310|Next to him,]] [[H6305|Pedaiah]] [[H1121|son]] [[H6551|of Parosh]] ^0325
 
-After him Baruch the son of Zabbai repaired another section from the buttress to the door of the house of Eliashib the high priest. ^0320
+[[H5411|and the temple servants]] [[H3427|living]] [[H6077|on Ophel]] ⟨the hill of⟩ [[H5048|made repairs opposite]] [[H4325|the Water]] [[H8179|Gate]] [[H4217|toward the east]] [[H4026|and the tower]] [[H3318|that juts out.]] ^0326
 
-After him Meremoth the son of Uriah, son of Hakkoz repaired another section from the door of the house of Eliashib to the end of the house of Eliashib. ^0321
+[[H310|And next to them,]] [[H8621|the Tekoites]] [[H2388|made repairs]] [[H8145|to another]] [[H4060|section,]] [[H5048|from a point opposite]] [[H1419|the great]] [[H4026|tower]] [[H3318|that juts out]] [[H5704|to]] [[H2346|the wall]] [[H6077|of Ophel.]] ^0327
 
-After him the priests, the men of the surrounding area, repaired. ^0322
+[[H5921|Above]] [[H5483|the Horse]] [[H8179|Gate,]] [[H376|each]] [[H3548|of the priests]] [[H2388|made repairs]] [[H5048|in front]] [[H1004|of his house.]] ⟨own⟩ ^0328
 
-After them Benjamin and Hasshub repaired opposite their house. After them Azariah the son of Maaseiah, son of Ananiah repaired beside his own house. ^0323
+[[H310|Next to them,]] [[H6659|Zadok]] [[H1121|son]] [[H564|of Immer]] [[H2388|made repairs]] [[H5048|opposite]] [[H1004|his house,]] [[H310|and next to him,]] [[H8098|Shemaiah]] [[H1121|son]] [[H7935|of Shecaniah,]] [[H8104|the guard]] [[H4217|of the East]] [[H8179|Gate,]] [[H2388|made repairs.]] ^0329
 
-After him Binnui the son of Henadad repaired another section, from the house of Azariah to the buttress ^0324
+[[H310|Next to him,]] [[H2608|Hananiah]] [[H1121|son]] [[H8018|of Shelemiah,]] [[H2586|as well as Hanun]] [[H8345|the sixth]] [[H1121|son]] [[H6764|of Zalaph,]] [[H2388|made repairs]] [[H8145|to another]] [[H4060|section.]] [[H310|Next to them,]] [[H4918|Meshullam]] [[H1121|son]] [[H1296|of Berechiah]] [[H2388|made repairs]] [[H5048|opposite]] [[H5393|his own quarters.]] ^0330
 
-and to the corner. Palal the son of Uzai repaired opposite the buttress and the tower projecting from the upper house of the king at the court of the guard. After him Pedaiah the son of Parosh ^0325
+[[H310|Next to him,]] [[H4441|Malchijah,]] [[H1121|one of the goldsmiths,]] [[H2388|made repairs]] [[H5704|as far as]] [[H1004|the house]] [[H5411|of the temple servants]] [[H7402|and the merchants,]] [[H5048|opposite]] [[H4663|the Inspection]] [[H8179|Gate,]] [[H5704|and as]] [[H5944|far as the upper room]] [[H6438|above the corner.]] ^0331
 
-and the temple servants living on Ophel repaired to a point opposite the Water Gate on the east and the projecting tower. ^0326
+[[H996|And between]] [[H5944|the upper room]] [[H6438|above the corner]] [[H6629|and the Sheep]] [[H8179|Gate,]] [[H6884|the goldsmiths]] [[H7402|and merchants]] [[H2388|made repairs.]] ^0332
 
-After him the Tekoites repaired another section opposite the great projecting tower as far as the wall of Ophel. ^0327
+[[H1961|Now]] [[H834|when]] [[H5571|Sanballat]] [[H8085|heard]] [[H3588|that]] [[H587|we]] [[H1129|were rebuilding]] [[H2346|the wall,]] [[H2734|he became furious]] [[H3707|and was filled with indignation.]] [[H3932|He ridiculed]] [[H3064|the Jews]] ^0401
 
-Above the Horse Gate the priests repaired, each one opposite his own house. ^0328
+[[H6440|before]] [[H251|his associates]] [[H2426|and the army]] [[H8111|of Samaria,]] [[H559|saying,]] [[H4100|“What]] [[H537|are these feeble]] [[H3064|Jews]] [[H6213|doing?]] [[H5800|Can they restore by themselves?]] ⟨the wall⟩ [[H2076|Will they offer sacrifices?]] [[H3615|Will they complete it]] [[H3117|in a day?]] [[H1992|Can they bring these]] [[H8313|burnt]] [[H68|stones]] [[H2421|back to life]] [[H6194|from the mounds]] [[H6083|of rubble?”]] ^0402
 
-After them Zadok the son of Immer repaired opposite his own house. After him Shemaiah the son of Shecaniah, the keeper of the East Gate, repaired. ^0329
+[[H2900|Then Tobiah]] [[H5984|the Ammonite,]] [[H681|who was beside him,]] [[H559|said,]] [[H518|“If]] [[H1571|even]] [[H7776|a fox]] [[H5927|were to climb up on]] [[H834|what]] [[H1992|they]] [[H1129|are building,]] [[H6555|it would break down]] [[H2346|their wall]] [[H68|of stones!”]] ^0403
 
-After him Hananiah the son of Shelemiah and Hanun the sixth son of Zalaph repaired another section. After him Meshullam the son of Berechiah repaired opposite his chamber. ^0330
+[[H8085|Hear us,]] [[H430|O God,]] [[H3588|for]] [[H1961|we are]] [[H939|despised.]] [[H7725|Turn]] [[H2781|their scorn]] [[H413|back upon]] [[H7218|their own heads,]] [[H5414|and let them be taken]] [[H961|as plunder]] [[H776|to a land]] [[H7633|of captivity.]] ^0404
 
-After him Malchijah, one of the goldsmiths, repaired as far as the house of the temple servants and of the merchants, opposite the Muster Gate, and to the upper chamber of the corner. ^0331
+[[H408|Do not]] [[H3680|cover up]] [[H5771|their iniquity]] [[H2403|or let their sin]] [[H4229|be blotted out]] [[H6440|from Your sight,]] [[H3588|for]] [[H3707|they have provoked]] [[H1129|the builders.]] ^0405
 
-And between the upper chamber of the corner and the Sheep Gate the goldsmiths and the merchants repaired. ^0332
+[[H1129|So we rebuilt]] [[H2346|the wall]] [[H3605|until all]] ⟨of it⟩ [[H2346|]] [[H7194|was joined together]] [[H5704|up to]] [[H2677|half its]] ⟨height⟩, [[H5971|for the people]] [[H1961|had]] [[H3820|a mind]] [[H6213|to work.]] ^0406
 
+[[H834|When]] [[H5571|Sanballat]] [[H2900|and Tobiah,]] [[H6163|together with the Arabs,]] [[H5984|Ammonites,]] [[H796|and Ashdodites,]] [[H8085|heard]] [[H3588|that]] [[H724|the repair]] [[H2346|to the walls]] [[H3389|of Jerusalem]] [[H5927|was progressing]] [[H3588|and that]] [[H6555|the gaps]] [[H5640|were being closed,]] [[H2734|they were furious,]] ^0407
 
+[[H3605|and all of them]] [[H7194|conspired]] [[H935|to come]] [[H3898|and fight]] [[H3389|against Jerusalem]] [[H6213|and create]] [[H8442|a hindrance.]] ^0408
 
-Now when Sanballat heard that we were building the wall, he was angry and greatly enraged, and he jeered at the Jews. ^0401
+[[H6419|So we prayed]] [[H413|to]] [[H430|our God]] [[H5975|and posted]] [[H4929|a guard]] [[H5921|against them]] [[H3119|day]] [[H3915|and night.]] ^0409
 
-And he said in the presence of his brothers and of the army of Samaria, What are these feeble Jews doing? Will they restore it for themselves? Will they sacrifice? Will they finish up in a day? Will they revive the stones out of the heaps of rubbish, and burned ones at that? ^0402
+[[H3063|Meanwhile, the people of Judah]] [[H559|said:]] [[H3581|“The strength]] [[H5449|of the laborer]] [[H3782|fails,]] [[H7235|and there is so much]] [[H6083|rubble]] [[H587|that we]] [[H3808|will never]] [[H3201|be able]] [[H1129|to rebuild]] [[H2346|the wall.”]] ^0410
 
-Tobiah the Ammonite was beside him, and he said, Yes, what they are building — if a fox goes up on it he will break down their stone wall! ^0403
+[[H6862|And our enemies]] [[H559|said,]] [[H5704|“Before]] [[H3045|they know]] ⟨or⟩ [[H3808|]] [[H7200|see]] ⟨a thing⟩ [[H3808|,]] [[H935|we will come]] [[H413|into]] [[H8432|their midst,]] [[H2026|kill them,]] [[H7673|and put an end]] [[H4399|to the work.”]] ^0411
 
-Hear, O our God, for we are despised. Turn back their taunt on their own heads and give them up to be plundered in a land where they are captives. ^0404
+[[H1961|At that time]] [[H3064|the Jews]] [[H3427|who lived]] [[H681|nearby]] [[H935|came]] [[H559|and told]] [[H6235|us  ten]] [[H6471|times]] ⟨over⟩, [[H3605|“Wherever]] [[H7725|you turn,]] [[H5921|they will attack us.”]] ^0412
 
-Do not cover their guilt, and let not their sin be blotted out from your sight, for they have provoked you to anger in the presence of the builders. ^0405
+[[H5975|So I stationed]] ⟨men⟩ [[H310|behind]] [[H8482|the lowest]] [[H4725|sections]] [[H2346|of the wall,]] [[H6708|at the vulnerable areas.]] [[H5975|I stationed]] [[H5971|them]] [[H4940|by families]] [[H5973|with]] [[H2719|their swords,]] [[H7420|spears,]] [[H7198|and bows.]] ^0413
 
-So we built the wall. And all the wall was joined together to half its height, for the people had a mind to work. ^0406
+[[H7200|After I had made an inspection,]] [[H6965|I stood up]] [[H559|and said]] [[H413|to]] [[H2715|the nobles,]] [[H5461|the officials,]] [[H3499|and the rest]] [[H5971|of the people,]] [[H408|“Do not]] [[H3372|be afraid]] [[H6440|of them.]] [[H2142|Remember]] [[H136|the Lord,]] [[H1419|who is great]] [[H3372|and awesome,]] [[H3898|and fight]] [[H5921|for]] [[H251|your brothers,]] [[H1121|your sons]] [[H1323|and your daughters,]] [[H802|your wives]] [[H1004|and your homes.]] ^0414
 
-But when Sanballat and Tobiah and the Arabs and the Ammonites and the Ashdodites heard that the repairing of the walls of Jerusalem was going forward and that the breaches were beginning to be closed, they were very angry. ^0407
+[[H834|When]] [[H341|our enemies]] [[H8085|heard]] [[H3588|that]] [[H3045|we were aware]] [[H6098|of their scheme]] [[H430|and that God]] [[H6565|had frustrated it,]] [[H3605|each]] [[H7725|of us returned]] [[H413|to]] [[H4399|his own work]] [[H413|on]] [[H2346|the wall.]] ^0415
 
-And they all plotted together to come and fight against Jerusalem and to cause confusion in it. ^0408
+[[H1961|And]] [[H4480|from]] [[H1931|that]] [[H3117|day on,]] [[H2677|half]] [[H5288|of my men]] [[H6213|did]] [[H4399|the work]] [[H2677|while the other half]] [[H2388|held]] [[H7420|spears,]] [[H4043|shields,]] [[H7198|bows,]] [[H8302|and armor.]] [[H8269|The officers]] ⟨stationed themselves⟩ [[H310|behind]] [[H3605|all]] [[H1004|the people]] [[H3063|of Judah]] ^0416
 
-And we prayed to our God and set a guard as a protection against them day and night. ^0409
+[[H1129|who were rebuilding]] [[H2346|the wall.]] [[H5375|The laborers who carried]] [[H5447|materials]] [[H6213|worked]] [[H259|with one]] [[H3027|hand]] [[H2388|and held]] [[H7973|a weapon]] [[H259|with the other.]] ^0417
 
-In Judah it was said, The strength of those who bear the burdens is failing. There is too much rubble. By ourselves we will not be able to rebuild the wall. ^0410
+[[H376|And each]] [[H1129|of the builders]] [[H1129|worked]] [[H2719|with his sword]] [[H631|strapped]] [[H5921|at]] [[H4975|his side.]] [[H8628|But the trumpeter]] [[H681|stayed beside me.]] ^0418
 
-And our enemies said, They will not know or see till we come among them and kill them and stop the work. ^0411
+[[H559|Then I said]] [[H413|to]] [[H2715|the nobles,]] [[H5461|the officials,]] [[H3499|and the rest]] [[H5971|of the people:]] [[H4399|“The work]] ⟨is⟩ [[H7235|great]] [[H7342|and extensive,]] [[H587|and we]] [[H6504|are spread out]] [[H7350|far]] [[H376|from one]] [[H251|another]] [[H5921|along]] [[H2346|the wall.]] ^0419
 
-At that time the Jews who lived near them came from all directions and said to us ten times, You must return to us. ^0412
+[[H4725|Wherever]] [[H8085|you hear]] [[H6963|the sound]] [[H7782|of the trumpet,]] [[H6908|rally]] [[H413|to]] [[H8033|us there.]] [[H430|Our God]] [[H3898|will fight for us!”]] ^0420
 
-So in the lowest parts of the space behind the wall, in open places, I stationed the people by their clans, with their swords, their spears, and their bows. ^0413
+[[H587|So we]] [[H6213|continued]] [[H4399|the work,]] [[H2677|while half of]] ⟨the men⟩ [[H2388|held]] [[H7420|spears]] [[H5927|from the break]] [[H7837|of dawn]] [[H5704|until]] [[H3556|the stars]] [[H3318|came out.]] ^0421
 
-And I looked and arose and said to the nobles and to the officials and to the rest of the people, Do not be afraid of them. Remember the Lord, who is great and awesome, and fight for your brothers, your sons, your daughters, your wives, and your homes. ^0414
+[[H1931|At that]] [[H6256|time]] [[H1571|I also]] [[H559|said]] [[H5971|to the people,]] [[H376|“Let every man]] [[H5288|and his servant]] [[H3885|spend the night]] [[H8432|inside]] [[H3389|Jerusalem,]] [[H1961|so that they can stand]] [[H4929|guard]] [[H3915|by night]] [[H4399|and work]] [[H3117|by day.”]] ^0422
 
-When our enemies heard that it was known to us and that God had frustrated their plan, we all returned to the wall, each to his work. ^0415
+[[H589|So neither I]] [[H251|nor brothers]] [[H5288|nor my men]] [[H376|nor the guards]] [[H310|with me]] [[H6584|changed out of]] [[H899|our clothes;]] [[H7973|each carried his weapon,]] ⟨even to go⟩ [[H4325|for water.]] ^0423
 
-From that day on, half of my servants worked on construction, and half held the spears, shields, bows, and coats of mail. And the leaders stood behind the whole house of Judah, ^0416
+[[H1961|About this time there was]] [[H1419|a great]] [[H6818|outcry]] [[H5971|from the people]] [[H802|and their wives]] [[H413|against]] [[H251|their fellow]] [[H3064|Jews.]] ^0501
 
-who were building on the wall. Those who carried burdens were loaded in such a way that each labored on the work with one hand and held his weapon with the other. ^0417
+[[H834|Some]] [[H559|were saying,]] [[H587|“We]] ⟨and⟩ [[H1121|our sons]] [[H1323|and daughters]] [[H7227|are numerous.]] [[H3947|We must get]] [[H1715|grain]] [[H398|to eat]] [[H2421|and live.”]] ^0502
 
-And each of the builders had his sword strapped at his side while he built. The man who sounded the trumpet was beside me. ^0418
+[[H834|Others]] [[H559|were saying,]] [[H587|“We]] [[H6148|are mortgaging]] [[H7704|our fields,]] [[H3754|our vineyards,]] [[H1004|and our homes]] [[H3947|to get]] [[H1715|grain]] [[H7458|during the famine.”]] ^0503
 
-And I said to the nobles and to the officials and to the rest of the people, The work is great and widely spread, and we are separated on the wall, far from one another. ^0419
+[[H834|Still others]] [[H559|were saying,]] [[H3867|“We have borrowed]] [[H3701|money]] ⟨to pay⟩ [[H4428|the king's]] [[H4060|tax]] ⟨on⟩ [[H7704|our fields]] [[H3754|and vineyards.]] ^0504
 
-In the place where you hear the sound of the trumpet, rally to us there. Our God will fight for us. ^0420
+[[H1121|We and our children]] [[H251|are just like our countrymen]] [[H1121|and their children,]] [[H587|yet we]] [[H3533|are subjecting]] [[H1121|our sons]] [[H1323|and daughters]] [[H5650|to slavery.]] [[H3426|Some of]] [[H1323|our daughters]] [[H3533|are already enslaved,]] [[H369|but we are powerless]] ⟨to redeem them⟩ [[H7704|because our fields]] [[H3754|and vineyards]] [[H312|belong to others.”]] ^0505
 
-So we labored at the work, and half of them held the spears from the break of dawn until the stars came out. ^0421
+[[H834|When]] [[H8085|I heard]] [[H2201|their outcry]] [[H428|and these]] [[H1697|complaints,]] [[H3966|I became extremely]] [[H2734|angry,]] ^0506
 
-I also said to the people at that time, Let every man and his servant pass the night within Jerusalem, that they may be a guard for us by night and may labor by day. ^0422
+[[H3820|and after serious]] [[H4427|thought]] [[H7378|I rebuked]] [[H2715|the nobles]] [[H5461|and officials,]] [[H559|saying,]] [[H859|“You]] [[H5383|are exacting]] [[H5378|usury]] [[H251|from your own brothers!”]] [[H5414|So I called]] [[H1419|a large]] [[H6952|assembly]] [[H5921|against them]] ^0507
 
-So neither I nor my brothers nor my servants nor the men of the guard who followed me, none of us took off our clothes; each kept his weapon at his right hand. ^0423
+[[H559|and said,]] [[H587|“We]] [[H1767|have done our best]] [[H7069|to buy back]] [[H3064|our Jewish]] [[H251|brothers]] [[H4376|who were sold]] [[H1471|to foreigners,]] [[H859|but now you]] [[H4376|are selling]] [[H251|your own brothers,]] [[H4376|that they may be sold back]] [[H2790|to us!”  But they remained silent,]] [[H4672|for they could find]] [[H3808|nothing]] [[H1696|to say.]] ^0508
 
+[[H559|So I continued,]] [[H834|“What]] [[H859|you]] [[H6213|are doing]] [[H3808|is not]] [[H2896|right.]] [[H3808|Shouldn’t]] [[H1980|you walk]] [[H3374|in the fear]] [[H430|of our God]] [[H2781|to avoid the reproach]] [[H1471|of our foreign]] [[H341|enemies?]] ^0509
 
+[[H589|I,]] [[H1571|as well as]] [[H251|my brothers]] [[H5288|and my servants,]] [[H5383|have been lending]] ⟨the people⟩ [[H3701|money]] [[H1715|and grain.]] [[H4994|Please,]] [[H5800|let us stop]] [[H2088|this]] [[H4855|usury.]] ^0510
 
-Now there arose a great outcry of the people and of their wives against their Jewish brothers. ^0501
+[[H4994|Please]] [[H7725|restore]] [[H3117|to them  immediately]] [[H7704|their fields,]] [[H3754|vineyards,]] [[H2132|olive groves,]] [[H1004|and houses,]] [[H3967|along with the percentage]] [[H3701|of the money,]] [[H1715|grain,]] [[H8492|new wine,]] [[H3323|and olive oil]] [[H834|that]] [[H859|you]] [[H5383|have been assessing]] ^0511
 
-For there were those who said, With our sons and our daughters, we are many. So let us get grain, that we may eat and keep alive. ^0502
+[[H7725|“We will restore,”]] ⟨it⟩ [[H559|they replied,]] [[H1245|“and will require]] [[H3808|nothing]] [[H1992|more from them.]] [[H6213|We will do]] [[H834|as]] [[H859|you]] [[H559|say.”]] [[H7121|So I summoned]] [[H3548|the priests]] [[H7650|and required an oath that they]] ⟨of the nobles and officials⟩ [[H6213|would do]] [[H1697|what they had promised.]] ^0512
 
-There were also those who said, We are mortgaging our fields, our vineyards, and our houses to get grain because of the famine. ^0503
+[[H1571|I also]] [[H5287|shook out]] [[H2684|the folds of my robe]] [[H559|and said,]] [[H430|“May God]] [[H3602|likewise]] [[H5287|shake]] [[H1004|out of his House]] [[H3018|and possession]] [[H3605|every]] [[H376|man]] [[H834|who]] [[H3808|does not]] [[H6965|keep]] [[H2088|this]] [[H1697|promise.]] [[H1961|May be]] ⟨such a man⟩ [[H5287|shaken out]] [[H7386|and have nothing!”]] [[H3605|The whole]] [[H6951|assembly]] [[H559|said,]] [[H543|“Amen,”]] [[H1984|and they praised]] [[H3069|the LORD.]] [[H5971|And the people]] [[H6213|did]] [[H1697|as they had promised.]] ^0513
 
-And there were those who said, We have borrowed money for the king’s tax on our fields and our vineyards. ^0504
+[[H1571|Furthermore,]] [[H3117|from the day]] [[H4428|King]] [[H783|Artaxerxes]] [[H6680|appointed]] [[H1961|me to be]] [[H6346|their governor]] [[H776|in the land]] [[H3063|of Judah,]] [[H6242|from his twentieth]] [[H8141|year]] [[H5704|until]] [[H7970|his thirty-second]] [[H8141|year]] [[H8147|(12]] [[H8141|years total),]] [[H589|neither I]] [[H251|nor my brothers]] [[H398|ate]] [[H3899|the food]] [[H6346|allotted to the governor.]] ^0514
 
-Now our flesh is as the flesh of our brothers, our children are as their children. Yet we are forcing our sons and our daughters to be slaves, and some of our daughters have already been enslaved, but it is not in our power to help it, for other men have our fields and our vineyards. ^0505
+[[H6346|The governors]] [[H6440|before me]] [[H3513|had heavily burdened]] [[H5971|the people,]] [[H3947|taking]] [[H1992|from them]] [[H3899|bread]] [[H3196|and wine]] [[H310|plus]] [[H705|forty]] [[H8255|shekels]] [[H3701|of silver.]] [[H5288|Their servants]] [[H1571|also]] [[H7980|oppressed]] [[H5971|the people,]] [[H589|but I]] [[H3808|did not]] [[H6213|do]] [[H3651|this]] [[H6440|because]] [[H3374|of my fear]] [[H430|of God.]] ^0515
 
-I was very angry when I heard their outcry and these words. ^0506
+[[H1571|Instead,]] [[H2388|I devoted myself]] [[H4399|to the construction]] [[H2063|of the]] [[H2346|wall,]] [[H3605|and all]] [[H5288|my servants]] [[H6908|were gathered]] [[H8033|there]] [[H5921|for]] [[H4399|the work;]] [[H3808|we did not]] [[H7069|acquire]] [[H7704|any land.]] ^0516
 
-I took counsel with myself, and I brought charges against the nobles and the officials. I said to them, You are exacting interest, each from his brother. And I held a great assembly against them ^0507
+[[H3967|There were 150]] [[H3064|Jews]] [[H5461|and officials]] [[H5921|at]] [[H7979|my table,]] [[H935|besides the guests]] [[H4480|from]] [[H5439|the surrounding]] [[H1471|nations]] ^0517
 
-and said to them, We, as far as we are able, have bought back our Jewish brothers who have been sold to the nations, but you even sell your brothers that they may be sold to us! They were silent and could not find a word to say. ^0508
+[[H259|Each]] [[H3117|day,]] [[H259|one]] [[H7794|ox,]] [[H8337|six]] [[H1305|choice]] [[H6629|sheep,]] [[H6833|and some fowl]] [[H6213|were prepared for me,]] [[H996|and once every]] [[H6235|ten]] [[H3117|days]] [[H7235|an abundance]] [[H3605|of all kinds]] [[H3196|of wine was provided.]] [[H3808|But I did not]] [[H1245|demand]] [[H3899|the food]] [[H6346|allotted to the governor,]] [[H3588|because]] [[H5656|the burden]] [[H5921|on]] [[H2088|the]] [[H5971|people]] [[H3513|was so heavy.]] ^0518
 
-So I said, The thing that you are doing is not good. Ought you not to walk in the fear of our God to prevent the taunts of the nations our enemies? ^0509
+[[H2142|Remember]] [[H2896|me  favorably,]] [[H430|O my God,]] [[H3605|for all]] [[H834|that]] [[H6213|I have done]] [[H5921|for]] [[H2088|this]] [[H5971|people.]] ^0519
 
-Moreover, I and my brothers and my servants are lending them money and grain. Let us abandon this exacting of interest. ^0510
+[[H834|When]] [[H5571|Sanballat,]] [[H2900|Tobiah,]] [[H1654|Geshem]] [[H6163|the Arab,]] [[H3499|and the rest]] [[H341|of our enemies]] [[H8085|heard]] [[H3588|that]] [[H1129|I had rebuilt]] [[H2346|the wall]] [[H3808|and not]] [[H6556|a gap]] [[H3498|was left—]] [[H1571|though]] [[H5704|to]] [[H1931|that]] [[H6256|time]] [[H3808|I had not yet]] [[H5975|installed]] [[H1817|the doors]] [[H8179|in the gates—]] ^0601
 
-Return to them this very day their fields, their vineyards, their olive orchards, and their houses, and the percentage of money, grain, wine, and oil that you have been exacting from them. ^0511
+[[H5571|Sanballat]] [[H1654|and Geshem]] [[H7971|sent]] [[H559|me this message:]] [[H1980|“Come,]] [[H3259|let us meet]] [[H3162|together]] [[H3715|in the villages]] ⟨one of⟩ [[H1237|on the plain]] [[H207|of Ono.”]] [[H1992|But they]] [[H2803|were planning]] [[H6213|to harm]] [[H7451|me.]] ^0602
 
-Then they said, We will restore these and require nothing from them. We will do as you say. And I called the priests and made them swear to do as they had promised. ^0512
+[[H7971|So I sent]] [[H4397|messengers]] [[H5921|to them,]] [[H559|saying,]] [[H589|“I]] [[H6213|am doing]] [[H1419|a great]] [[H4399|work]] [[H3808|and cannot]] [[H3381|come down.]] [[H4100|Why]] [[H4399|should the work]] [[H7673|stop]] [[H834|while]] [[H7503|I leave it]] [[H3381|to go down]] [[H413|to you?”]] ^0603
 
-I also shook out the fold of my garment and said, So may God shake out every man from his house and from his labor who does not keep this promise. So may he be shaken out and emptied. And all the assembly said Amen and praised the Lord. And the people did as they had promised. ^0513
+[[H702|Four]] [[H6471|times]] [[H7971|they sent]] [[H2088|me the same]] [[H1697|message,]] [[H7725|and each time I gave]] [[H2088|the same]] [[H1697|reply.]] ^0604
 
-Moreover, from the time that I was appointed to be their governor in the land of Judah, from the twentieth year to the thirty-second year of Artaxerxes the king, twelve years, neither I nor my brothers ate the food allowance of the governor. ^0514
+[[H2549|The fifth]] [[H6471|time,]] [[H5571|Sanballat]] [[H7971|sent]] [[H2088|me this]] [[H1697|same message]] [[H5288|by his young servant,]] [[H3027|who had in his hand]] [[H6605|an unsealed]] [[H107|letter]] ^0605
 
-The former governors who were before me laid heavy burdens on the people and took from them for their daily ration forty shekels of silver. Even their servants lorded it over the people. But I did not do so, because of the fear of God. ^0515
+[[H3789|that read:]] [[H8085|“It is reported]] [[H1471|among the nations—]] [[H1654|and Geshem]] [[H559|agrees—]] [[H859|that you]] [[H3064|and the Jews]] [[H2803|are plotting]] [[H4775|to revolt,]] ⟨and⟩ [[H5921|this is why]] [[H859|you]] [[H1129|are building]] [[H2346|the wall.]] [[H428|According to these]] [[H1697|reports,]] [[H859|you]] [[H1933|are to become]] [[H4428|their  king,]] ^0606
 
-I also persevered in the work on this wall, and we acquired no land, and all my servants were gathered there for the work. ^0516
+[[H1571|and you have even]] [[H5975|appointed]] [[H5030|prophets]] [[H3389|in Jerusalem]] [[H7121|to proclaim]] [[H5921|on your behalf:]] [[H4428|‘There is a king]] [[H3063|in Judah.’]] [[H6258|Soon]] [[H428|these]] [[H1697|rumors]] [[H8085|will reach the ears]] [[H4428|of the king.]] [[H6258|So]] [[H1980|come,]] [[H3289|let us confer]] [[H3162|together.”]] ^0607
 
-Moreover, there were at my table 150 men, Jews and officials, besides those who came to us from the nations that were around us. ^0517
+[[H7971|Then I sent]] [[H413|him]] [[H559|this reply:]] [[H1961|“There is]] [[H3808|nothing]] [[H428|to these]] [[H1697|rumors]] [[H859|you]] [[H559|are spreading;]] [[H859|you]] [[H908|are inventing them]] [[H3820|in your own mind.”]] ^0608
 
-Now what was prepared at my expense for each day was one ox and six choice sheep and birds, and every ten days all kinds of wine in abundance. Yet for all this I did not demand the food allowance of the governor, because the service was too heavy on this people. ^0518
+[[H3588|For]] [[H3605|they were all]] ⟨trying⟩ [[H3372|to frighten]] [[H853|us,]] [[H559|saying,]] [[H3027|“Their hands]] [[H7503|will be weakened]] [[H4480|in]] [[H4399|the work,]] [[H3808|and it will never]] [[H6213|be finished.”]] [[H6258|But now, my God,]] [[H2388|strengthen]] [[H3027|my hands.]] ^0609
 
-Remember for my good, O my God, all that I have done for this people. ^0519
+[[H589|Later, I]] [[H935|went]] [[H1004|to the house]] [[H8098|of Shemaiah]] [[H1121|son]] [[H1806|of Delaiah,]] [[H1121|the son]] [[H4105|of Mehetabel,]] [[H1931|who]] [[H6113|was confined]] [[H559|to his house. He said:]] [[H3259|“Let us meet]] [[H413|at]] [[H1004|the house]] [[H430|of God]] [[H413|inside]] [[H1964|the temple.]] [[H5462|Let us shut]] [[H1964|the temple]] [[H1817|doors]] [[H3588|because]] [[H935|they are coming]] [[H2026|to kill you]] [[H3915|by night]] [[H935|they are coming]] [[H2026|to kill you!]] ^0610
 
+[[H559|But I replied,]] [[H376|“Should a man]] [[H3644|like me]] [[H1272|run away?]] [[H4310|Should]] [[H3644|one like me]] [[H935|go]] [[H413|into]] [[H1964|the temple]] [[H2425|to save his own life?]] [[H3808|I will not]] [[H935|go!”]] ^0611
 
+[[H5234|I realized]] [[H430|that God]] [[H3808|had not]] [[H7971|sent him,]] [[H1696|but that he had uttered]] ⟨this⟩ [[H5016|prophecy]] [[H5921|against me]] [[H3588|because]] [[H2900|Tobiah]] [[H5571|and Sanballat]] [[H7936|had hired him.]] ^0612
 
-Now when Sanballat and Tobiah and Geshem the Arab and the rest of our enemies heard that I had built the wall and that there was no breach left in it ( although up to that time I had not set up the doors in the gates ), ^0601
+[[H1931|He]] [[H7936|had been hired]] [[H4616|to]] [[H3372|intimidate me]] [[H2398|so that I would sin]] [[H6213|by doing]] [[H3651|as he suggested,]] [[H1961|so they could give me]] [[H7451|a bad]] [[H8034|name]] [[H4616|in order to]] [[H2778|discredit me.]] ^0613
 
-Sanballat and Geshem sent to me, saying, Come and let us meet together at Hakkephirim in the plain of Ono. But they intended to do me harm. ^0602
+[[H430|O my God,]] [[H2142|remember]] [[H2900|Tobiah]] [[H5571|and Sanballat]] [[H4639|for what they have done,]] [[H1571|and also]] [[H5129|Noadiah]] [[H5031|the prophetess]] [[H3499|and the other]] [[H5030|prophets]] [[H834|who]] [[H3372|tried to intimidate me.]] ^0614
 
-And I sent messengers to them, saying, I am doing a great work and I cannot come down. Why should the work stop while I leave it and come down to you? ^0603
+[[H2346|So the wall]] [[H7999|was completed]] [[H2572|in fifty-two]] [[H3117|days,]] [[H6242|on the twenty-fifth]] [[H435|of Elul.]] ^0615
 
-And they sent to me four times in this way, and I answered them in the same manner. ^0604
+[[H834|When]] [[H3605|all]] [[H341|our enemies]] [[H8085|heard about this,]] [[H3605|all]] [[H5439|the surrounding]] [[H1471|nations]] [[H834|feared]] [[H5307|and were disheartened,]] [[H3045|for they realized]] [[H3588|that]] [[H2063|this]] [[H4399|task]] [[H6213|had been accomplished]] [[H854|by]] [[H430|our God.]] ^0616
 
-In the same way Sanballat for the fifth time sent his servant to me with an open letter in his hand. ^0605
+[[H1571|Also]] [[H1992|in those]] [[H3117|days,]] [[H2715|the nobles]] [[H3063|of Judah]] [[H7235|sent many]] [[H107|letters]] [[H5921|to]] [[H2900|Tobiah,]] [[H2900|and Tobiah’s]] [[H834|letters]] [[H935|came back]] [[H413|to them.]] ^0617
 
-In it was written, It is reported among the nations, and Geshem also says it, that you and the Jews intend to rebel; that is why you are building the wall. And according to these reports you wish to become their king. ^0606
+[[H3588|For]] [[H7227|many]] [[H3063|in Judah]] [[H1167|were bound]] [[H7621|by oath]] [[H3588|to him,  since]] [[H1931|he]] [[H2860|was a son-in-law]] [[H7935|of Shecaniah]] [[H1121|son]] [[H733|of Arah,]] [[H1121|and his son]] [[H3076|Jehohanan]] [[H3947|had married]] [[H1323|the daughter]] [[H4918|of Meshullam]] [[H1121|son]] [[H1296|of Berechiah.]] ^0618
 
-And you have also set up prophets to proclaim concerning you in Jerusalem, There is a king in Judah. And now the king will hear of these reports. So now come and let us take counsel together. ^0607
+[[H1571|Moreover,]] [[H1961|these nobles kept]] [[H559|reporting]] [[H6440|to me]] [[H2896|Tobiah’s good deeds,]] [[H3318|and they relayed]] [[H1697|my words]] [[H2900|to him.  And Tobiah]] [[H7971|sent]] [[H107|letters]] [[H3372|to intimidate me.]] ^0619
 
-Then I sent to him, saying, No such things as you say have been done, for you are inventing them out of your own mind. ^0608
+[[H834|When]] [[H2346|the wall]] [[H1129|had been rebuilt]] [[H1817|and I had set the doors]] [[H5975|in place,]] [[H7778|the gatekeepers,]] [[H7891|singers,]] [[H3881|and Levites]] [[H6485|were appointed.]] ^0701
 
-For they all wanted to frighten us, thinking, Their hands will drop from the work, and it will not be done. But now, O God, strengthen my hands. ^0609
+[[H251|Then I put my brother]] [[H2607|Hanani]] [[H6680|in charge]] [[H5921|of]] [[H3389|Jerusalem,]] [[H2608|along with Hananiah]] [[H8269|the commander]] [[H1002|of the fortress,]] [[H3588|because]] [[H1931|he]] [[H571|was a faithful]] [[H376|man]] [[H3372|who feared]] [[H430|God]] [[H7227|more than most.]] ^0702
 
-Now when I went into the house of Shemaiah the son of Delaiah, son of Mehetabel, who was confined to his home, he said, Let us meet together in the house of God, within the temple. Let us close the doors of the temple, for they are coming to kill you. They are coming to kill you by night. ^0610
+[[H559|And  I told]] [[H3808|them,  “Do not]] [[H6605|open]] [[H8179|the gates]] [[H3389|of Jerusalem]] [[H5704|until]] [[H8121|the sun]] [[H2527|is hot.]] [[H5704|While]] [[H1992|the guards]] [[H5975|are on duty,]] [[H1817|keep the doors]] [[H1479|shut]] [[H270|and securely fastened.]] [[H5975|And appoint]] [[H3427|the residents]] [[H3389|of Jerusalem]] [[H4931|as guards,]] [[H376|some]] [[H4929|at their posts]] [[H376|and some]] [[H5048|at]] [[H1004|their own homes.]] ^0703
 
-But I said, Should such a man as I run away? And what man such as I could go into the temple and live? I will not go in. ^0611
+[[H5892|Now the city]] [[H1419|was large]] [[H7342|and spacious,]] [[H4592|but there were few]] [[H5971|people]] [[H8432|in it,]] [[H1004|and the houses]] [[H369|had not yet]] [[H1129|been rebuilt.]] ^0704
 
-And I understood and saw that God had not sent him, but he had pronounced the prophecy against me because Tobiah and Sanballat had hired him. ^0612
+[[H430|Then my God]] [[H5414|put]] [[H413|into]] [[H3820|my heart]] [[H6908|to assemble]] [[H2715|the nobles,]] [[H5461|the officials,]] [[H5971|and the people]] [[H3187|to be enrolled by genealogy.]] [[H4672|I found]] [[H3188|the genealogical]] [[H5612|register]] [[H5927|of those who had first returned,]] [[H4672|and I found]] [[H3789|the following written]] ^0705
 
-For this purpose he was hired, that I should be afraid and act in this way and sin, and so they could give me a bad name in order to taunt me. ^0613
+[[H428|These]] [[H1121|are the people]] [[H4082|of the province]] [[H5927|who came up]] [[H7628|from the captivity]] [[H1473|of the exiles]] [[H1540|carried away]] [[H894|to Babylon]] [[H5019|by Nebuchadnezzar]] ⟨its⟩ [[H4428|king.]] [[H7725|They returned]] [[H3389|to Jerusalem]] [[H3063|and Judah,]] [[H376|each]] [[H5892|to his own town,]] ^0706
 
-Remember Tobiah and Sanballat, O my God, according to these things that they did, and also the prophetess Noadiah and the rest of the prophets who wanted to make me afraid. ^0614
+[[H935|accompanied]] [[H5973|by]] [[H2216|Zerubbabel,]] [[H3442|Jeshua,]] [[H5166|Nehemiah,]] [[H5838|Azariah,]] [[H7485|Raamiah,]] [[H5167|Nahamani,]] [[H4782|Mordecai,]] [[H1114|Bilshan,]] [[H4559|Mispereth,]] [[H902|Bigvai,]] [[H5149|Nehum,]] [[H1196|and Baanah.]] ⟨This is⟩ [[H4557|the count]] [[H376|of the men]] [[H3478|of Israel:]] ^0707
 
-So the wall was finished on the twenty-fifth day of the month Elul, in fifty-two days. ^0615
+[[H1121|the descendants]] [[H6551|of Parosh,]] [[H505|2,172;]] ^0708
 
-And when all our enemies heard of it, all the nations around us were afraid and fell greatly in their own esteem, for they perceived that this work had been accomplished with the help of our God. ^0616
+[[H1121|the descendants]] [[H8203|of Shephatiah,]] [[H7969|372;]] ^0709
 
-Moreover, in those days the nobles of Judah sent many letters to Tobiah, and Tobiah’s letters came to them. ^0617
+[[H1121|the descendants]] [[H733|of Arah,]] [[H8337|652;]] ^0710
 
-For many in Judah were bound by oath to him, because he was the son-in-law of Shecaniah the son of Arah : and his son Jehohanan had taken the daughter of Meshullam the son of Berechiah as his wife. ^0618
+[[H1121|the descendants]] [[H6355|of  Pahath-moab]] [[H1121|(through the line]] [[H3442|of Jeshua]] [[H3097|and Joab),]] [[H505|2,818;]] ^0711
 
-Also they spoke of his good deeds in my presence and reported my words to him. And Tobiah sent letters to make me afraid. ^0619
+[[H1121|the descendants]] [[H5867|of Elam,]] [[H505|1,254;]] ^0712
 
+[[H1121|the descendants]] [[H2240|of Zattu,]] [[H8083|845;]] ^0713
 
+[[H1121|the descendants]] [[H2140|of Zaccai,]] [[H7651|760;]] ^0714
 
-Now when the wall had been built and I had set up the doors, and the gatekeepers, the singers, and the Levites had been appointed, ^0701
+[[H1121|the descendants]] [[H1131|of Binnui,]] [[H8337|648;]] ^0715
 
-I gave my brother Hanani and Hananiah the governor of the castle charge over Jerusalem, for he was a more faithful and God-fearing man than many. ^0702
+[[H1121|the descendants]] [[H893|of Bebai,]] [[H8337|628;]] ^0716
 
-And I said to them, Let not the gates of Jerusalem be opened until the sun is hot. And while they are still standing guard, let them shut and bar the doors. Appoint guards from among the inhabitants of Jerusalem, some at their guard posts and some in front of their own homes. ^0703
+[[H1121|the descendants]] [[H5803|of Azgad,]] [[H505|2,322;]] ^0717
 
-The city was wide and large, but the people within it were few, and no houses had been rebuilt. ^0704
+[[H1121|the descendants]] [[H140|of Adonikam,]] [[H8337|667;]] ^0718
 
-Then my God put it into my heart to assemble the nobles and the officials and the people to be enrolled by genealogy. And I found the book of the genealogy of those who came up at the first, and I found written in it: ^0705
+[[H1121|the descendants]] [[H902|of Bigvai,]] [[H505|2,067;]] ^0719
 
-These were the people of the province who came up out of the captivity of those exiles whom Nebuchadnezzar the king of Babylon had carried into exile. They returned to Jerusalem and Judah, each to his town. ^0706
+[[H1121|the descendants]] [[H5720|of Adin,]] [[H8337|655;]] ^0720
 
-They came with Zerubbabel, Jeshua, Nehemiah, Azariah, Raamiah, Nahamani, Mordecai, Bilshan, Mispereth, Bigvai, Nehum, Baanah. The number of the men of the people of Israel : ^0707
+[[H1121|the descendants]] [[H333|of Ater]] [[H2396|(through Hezekiah),]] [[H8673|98;]] ^0721
 
-the sons of Parosh, 2,172. ^0708
+[[H1121|the descendants]] [[H2828|of Hashum,]] [[H7969|328;]] ^0722
 
-The sons of Shephatiah, 372. ^0709
+[[H1121|the descendants]] [[H1209|of Bezai,]] [[H7969|324;]] ^0723
 
-The sons of Arah, 652. ^0710
+[[H1121|the descendants]] [[H2756|of Hariph,]] [[H3967|112;]] ^0724
 
-The sons of Pahath-moab, namely the sons of Jeshua and Joab, 2,818. ^0711
+[[H1121|the descendants]] [[H1391|of Gibeon,]] [[H8673|95;]] ^0725
 
-The sons of Elam, 1,254. ^0712
+[[H582|the men]] [[H1035|of  Bethlehem]] [[H5199|and Netophah,]] [[H3967|188,]] ^0726
 
-The sons of Zattu, 845. ^0713
+[[H376|the men]] [[H6068|of Anathoth,]] [[H3967|128;]] ^0727
 
-The sons of Zaccai, 760. ^0714
+[[H376|the men]] [[H1041|of Beth-azmaveth,]] ⟨the family of⟩ [[H705|42;]] ^0728
 
-The sons of Binnui, 648. ^0715
+[[H376|the men]] [[H7157|of  Kiriath-jearim,]] [[H3716|Chephirah,]] [[H881|and Beeroth,]] [[H7651|743;]] ^0729
 
-The sons of Bebai, 628. ^0716
+[[H376|the men]] [[H7414|of Ramah]] [[H1387|and Geba,]] [[H8337|621;]] ^0730
 
-The sons of Azgad, 2,322. ^0717
+[[H376|the men]] [[H4363|of Michmas,]] [[H3967|122;]] ^0731
 
-The sons of Adonikam, 667. ^0718
+[[H376|the men]] [[H1008|of  Bethel]] [[H5857|and Ai,]] [[H3967|123;]] ^0732
 
-The sons of Bigvai, 2,067. ^0719
+[[H376|the men]] [[H312|of the other]] [[H5015|Nebo,]] [[H2572|52;]] ^0733
 
-The sons of Adin, 655. ^0720
+[[H1121|the descendants]] [[H312|of the other]] [[H5867|Elam,]] [[H505|1,254;]] ^0734
 
-The sons of Ater, namely of Hezekiah, 98. ^0721
+[[H1121|the descendants]] [[H2766|of Harim,]] [[H7969|320;]] ^0735
 
-The sons of Hashum, 328. ^0722
+[[H1121|the descendants]] [[H3405|of Jericho,]] [[H7969|345;]] ^0736
 
-The sons of Bezai, 324. ^0723
+[[H1121|the descendants]] [[H3850|of Lod,]] [[H2307|Hadid,]] [[H207|and Ono,]] [[H7651|721;]] ^0737
 
-The sons of Hariph, 112. ^0724
+[[H1121|and the descendants]] [[H5570|of Senaah,]] [[H7969|3,930]] ^0738
 
-The sons of Gibeon, 95. ^0725
+[[H3548|The priests:]] [[H1121|the descendants]] [[H3048|of Jedaiah]] [[H1004|(through the house]] [[H3442|of Jeshua),]] [[H8672|973;]] ^0739
 
-The men of Bethlehem and Netophah, 188. ^0726
+[[H1121|the descendants]] [[H564|of Immer,]] [[H505|1,052;]] ^0740
 
-The men of Anathoth, 128. ^0727
+[[H1121|the descendants]] [[H6583|of Pashhur,]] [[H505|1,247;]] ^0741
 
-The men of Beth-azmaveth, 42. ^0728
+[[H1121|the descendants]] [[H2766|of Harim,]] [[H505|1,017]] ^0742
 
-The men of Kiriath-jearim, Chephirah, and Beeroth, 743. ^0729
+[[H3881|The Levites:]] [[H1121|the descendants]] [[H3442|of Jeshua]] [[H6934|(through Kadmiel,]] [[H1121|through the line]] [[H1937|of Hodevah),]] [[H7657|74]] ^0743
 
-The men of Ramah and Geba, 621. ^0730
+[[H7891|The singers:]] [[H1121|the descendants]] [[H623|of Asaph,]] [[H3967|148]] ^0744
 
-The men of Michmas, 122. ^0731
+[[H7778|The gatekeepers:]] [[H1121|the descendants]] [[H7967|of Shallum,]] [[H1121|the descendants]] [[H333|of Ater,]] [[H1121|the descendants]] [[H2929|of Talmon,]] [[H1121|the descendants]] [[H6126|of Akkub,]] [[H1121|the descendants]] [[H2410|of Hatita,]] [[H1121|and the descendants]] [[H7630|of Shobai,]] [[H3967|138]] ⟨in all⟩. ^0745
 
-The men of Bethel and Ai, 123. ^0732
+[[H5411|The temple servants:]] [[H1121|the descendants]] [[H6727|of Ziha,]] [[H1121|the descendants]] [[H2817|of Hasupha,]] [[H1121|the descendants]] [[H2884|of Tabbaoth,]] ^0746
 
-The men of the other Nebo, 52. ^0733
+[[H1121|the descendants]] [[H7026|of Keros,]] [[H1121|the descendants]] [[H5517|of Sia,]] [[H1121|the descendants]] [[H6303|of Padon,]] ^0747
 
-The sons of the other Elam, 1,254. ^0734
+[[H1121|the descendants]] [[H3838|of Lebanah,]] [[H1121|the descendants]] [[H2286|of Hagabah,]] [[H1121|the descendants]] [[H8014|of Shalmai,]] ^0748
 
-The sons of Harim, 320. ^0735
+[[H1121|the descendants]] [[H2605|of Hanan,]] [[H1121|the descendants]] [[H1435|of Giddel,]] [[H1121|the descendants]] [[H1515|of Gahar,]] ^0749
 
-The sons of Jericho, 345. ^0736
+[[H1121|the descendants]] [[H7211|of Reaiah,]] [[H1121|the descendants]] [[H7526|of Rezin,]] [[H1121|the descendants]] [[H5353|of Nekoda,]] ^0750
 
-The sons of Lod, Hadid, and Ono, 721. ^0737
+[[H1121|the descendants]] [[H1502|of Gazzam,]] [[H1121|the descendants]] [[H5798|of Uzza,]] [[H1121|the descendants]] [[H6454|of Paseah,]] ^0751
 
-The sons of Senaah, 3,930. ^0738
+[[H1121|the descendants]] [[H1153|of Besai,]] [[H1121|the descendants]] [[H4586|of Meunim,]] [[H1121|the descendants]] [[H5300|of  Nephishesim,]] ^0752
 
-The priests : the sons of Jedaiah, namely the house of Jeshua, 973. ^0739
+[[H1121|the descendants]] [[H1227|of Bakbuk,]] [[H1121|the descendants]] [[H2709|of Hakupha,]] [[H1121|the descendants]] [[H2744|of Harhur,]] ^0753
 
-The sons of Immer, 1,052. ^0740
+[[H1121|the descendants]] [[H1213|of Bazlith,]] [[H1121|the descendants]] [[H4240|of Mehida,]] [[H1121|the descendants]] [[H2797|of Harsha,]] ^0754
 
-The sons of Pashhur, 1,247. ^0741
+[[H1121|the descendants]] [[H1302|of Barkos,]] [[H1121|the descendants]] [[H5516|of Sisera,]] [[H1121|the descendants]] [[H8547|of Temah,]] ^0755
 
-The sons of Harim, 1,017. ^0742
+[[H1121|the descendants]] [[H5335|of Neziah,]] [[H1121|the descendants]] [[H2412|of Hatipha.]] ^0756
 
-The Levites : the sons of Jeshua, namely of Kadmiel of the sons of Hodevah, 74. ^0743
+[[H1121|The descendants]] [[H5650|of the servants]] [[H8010|of Solomon:]] [[H1121|the descendants]] [[H5479|of Sotai,]] [[H1121|the descendants]] [[H5618|of Sophereth,]] [[H1121|the descendants]] [[H6514|of Perida,]] ^0757
 
-The singers : the sons of Asaph, 148. ^0744
+[[H1121|the descendants]] [[H3279|of Jaala,]] [[H1121|the descendants]] [[H1874|of Darkon,]] [[H1121|the descendants]] [[H1435|of Giddel,]] ^0758
 
-The gatekeepers : the sons of Shallum, the sons of Ater, the sons of Talmon, the sons of Akkub, the sons of Hatita, the sons of Shobai, 138. ^0745
+[[H1121|the descendants]] [[H8203|of Shephatiah,]] [[H1121|the descendants]] [[H2411|of Hattil,]] [[H1121|the descendants]] [[H6380|of  Pochereth-hazzebaim,]] [[H1121|the descendants]] [[H526|of Amon.]] ^0759
 
-The temple servants : the sons of Ziha, the sons of Hasupha, the sons of Tabbaoth, ^0746
+[[H5411|The temple servants]] [[H1121|and descendants]] [[H5650|of the servants]] [[H8010|of Solomon]] ⟨numbered⟩ [[H7969|392]] [[H3605|in all.]] ^0760
 
-the sons of Keros, the sons of Sia, the sons of Padon, ^0747
+[[H428|The following]] [[H5927|came up]] [[H8528|from Tel-melah,]] [[H8521|Tel-harsha,]] [[H3743|Cherub,]] [[H114|Addon,]] [[H564|and Immer,]] [[H3808|but could not]] [[H5046|prove]] [[H1004|that their families]] [[H2233|were descended]] [[H3478|from Israel:]] ^0761
 
-the sons of Lebana, the sons of Hagaba, the sons of Shalmai, ^0748
+[[H1121|the descendants]] [[H1806|of Delaiah,]] [[H1121|the descendants]] [[H2900|of Tobiah,]] [[H1121|and the descendants]] [[H5353|of Nekoda,]] [[H8337|642]] ⟨in all⟩. ^0762
 
-the sons of Hanan, the sons of Giddel, the sons of Gahar, ^0749
+[[H4480|And from]] [[H3548|among the priests:]] [[H1121|the descendants]] [[H2252|of Hobaiah,]] [[H1121|the descendants]] [[H6976|of Hakkoz,]] [[H1121|and the descendants]] [[H1271|of Barzillai]] [[H834|(who]] [[H3947|had married]] [[H1323|a daughter]] [[H1271|of Barzillai]] [[H1569|the Gileadite]] [[H7121|and was called]] [[H5921|by]] [[H8034|their name).]] ^0763
 
-the sons of Reaiah, the sons of Rezin, the sons of Nekoda, ^0750
+[[H428|These]] ⟨men⟩ [[H1245|searched for]] [[H3791|their family records,]] [[H3808|but they could not]] [[H4672|find them]] [[H1351|and so were excluded]] [[H4480|from]] [[H3550|the priesthood]] ⟨as unclean⟩. ^0764
 
-the sons of Gazzam, the sons of Uzza, the sons of Paseah, ^0751
+[[H8660|The governor]] [[H559|ordered]] [[H3808|them not]] [[H398|to eat]] [[H6944|the most holy things]] [[H5704|until]] [[H5975|there was]] [[H3548|a priest]] [[H224|to consult the Urim]] [[H8550|and Thummim.]] ^0765
 
-the sons of Besai, the sons of Meunim, the sons of Nephushesim, ^0752
+[[H3605|The whole]] [[H6951|assembly]] ⟨numbered⟩ [[H259|]] [[H702|42,360 {},]] ^0766
 
-the sons of Bakbuk, the sons of Hakupha, the sons of Harhur, ^0753
+[[H905|in addition to]] [[H7651|their 7,337]] [[H5650|menservants]] [[H519|and maidservants,]] [[H3967|as well as their 245]] [[H7891|male and female singers.]] ^0767
 
-the sons of Bazlith, the sons of Mehida, the sons of Harsha, ^0754
+ ^0768
 
-the sons of Barkos, the sons of Sisera, the sons of Temah, ^0755
+[[H702|435]] [[H1581|camels,]] [[H8337|and 6,720]] [[H2543|donkeys.]] ^0769
 
-the sons of Neziah, the sons of Hatipha. ^0756
+[[H7117|Some of]] [[H7218|the heads]] [[H1|of the families]] [[H5414|contributed]] [[H4399|to the project.]] [[H8660|The governor]] [[H5414|gave]] [[H214|to the treasury]] [[H505|1,000]] [[H1871|darics]] [[H2091|of gold,]] [[H2572|50]] [[H4219|bowls,]] [[H7970|and 530]] [[H3548|priestly]] [[H3801|garments.]] ^0770
 
-The sons of Solomon’s servants : the sons of Sotai, the sons of Sophereth, the sons of Perida, ^0757
+[[H7218|And some of the heads]] [[H1|of the families]] [[H5414|gave]] [[H214|to the treasury]] [[H4399|for the project]] [[H8147|20,000]] [[H1871|darics]] [[H2091|of gold]] [[H505|and 2,200]] [[H4488|minas]] [[H3701|of silver.]] ^0771
 
-the sons of Jaala, the sons of Darkon, the sons of Giddel, ^0758
+[[H7611|The rest]] [[H5971|of the people]] [[H5414|gave]] ⟨a total of⟩ [[H8147|20,000]] [[H1871|darics]] [[H2091|of gold,]] [[H505|2,000]] [[H4488|minas]] [[H3701|of silver,]] [[H8346|and 67]] [[H3548|priestly]] [[H3801|garments.]] ^0772
 
-the sons of Shephatiah, the sons of Hattil, the sons of Pochereth-hazzebaim, the sons of Amon. ^0759
+[[H3548|So the priests,]] [[H3881|Levites,]] [[H7778|gatekeepers,]] [[H7891|singers,]] [[H5411|and temple servants,]] [[H4480|along with some]] [[H5971|of the people]] [[H3605|and the rest of]] [[H3478|the Israelites,]] [[H3427|settled]] [[H5892|in their own towns.]] [[H7637|And by the seventh]] [[H2320|month]] [[H1121|the Israelites]] [[H5892|had settled in their towns.]] ^0773
 
-All the temple servants and the sons of Solomon’s servants were 392. ^0760
+[[H3605|At that time all]] [[H5971|the people]] [[H622|gathered]] [[H376|together]] [[H413|at]] [[H7339|the square]] [[H6440|before]] [[H4325|the Water]] [[H8179|Gate,]] [[H559|and they asked]] [[H5830|Ezra]] [[H5608|the scribe]] [[H935|to bring]] [[H5612|the Book]] [[H8451|of the Law]] [[H4872|of Moses]] [[H834|that]] [[H3068|the LORD]] [[H6680|had commanded]] [[H3478|Israel.]] ^0801
 
-The following were those who came up from Tel-melah, Tel-harsha, Cherub, Addon, and Immer, but they could not prove their fathers ’ houses nor their descent, whether they belonged to Israel : ^0761
+[[H259|On the first]] [[H3117|day]] [[H7637|of the seventh]] [[H2320|month,]] [[H5830|Ezra]] [[H3548|the priest]] [[H935|brought]] [[H8451|the Law]] [[H6440|before]] [[H6951|the assembly]] [[H376|of men]] [[H5704|and]] [[H802|women]] [[H3605|and all]] [[H8085|who could listen]] [[H995|and understand.]] ^0802
 
-the sons of Delaiah, the sons of Tobiah, the sons of Nekoda, 642. ^0762
+[[H7121|So read]] ⟨Ezra⟩ [[H4480|it aloud  from]] [[H216|daybreak]] [[H5704|until]] [[H4276|noon]] [[H6440|as he faced]] [[H7339|the square]] [[H6440|before]] [[H4325|the Water]] [[H8179|Gate,]] [[H5048|in front of]] [[H376|the men]] [[H802|and women]] [[H995|and those who could understand.]] [[H3605|And all]] [[H5971|the people]] [[H241|listened attentively to]] [[H5612|the Book]] [[H8451|of the Law.]] ^0803
 
-Also, of the priests : the sons of Hobaiah, the sons of Hakkoz, the sons of Barzillai (who had taken a wife of the daughters of Barzillai the Gileadite and was called by their name ). ^0763
+[[H5830|Ezra]] [[H5608|the scribe]] [[H5975|stood]] [[H5921|on]] [[H6086|a high wooden]] [[H4026|platform]] [[H6213|built]] [[H1697|for this occasion.]] [[H681|At his]] [[H3225|right side]] [[H5975|stood]] [[H4993|Mattithiah,]] [[H8087|Shema,]] [[H6043|Anaiah,]] [[H223|Uriah,]] [[H2518|Hilkiah,]] [[H4641|and Maaseiah,]] [[H8040|and at his left]] [[H6305|were Pedaiah,]] [[H4332|Mishael,]] [[H4441|Malchijah,]] [[H2828|Hashum,]] [[H2806|Hash-baddanah,]] [[H2148|Zechariah,]] [[H4918|and Meshullam.]] ^0804
 
-These sought their registration among those enrolled in the genealogies, but it was not found there, so they were excluded from the priesthood as unclean. ^0764
+[[H5830|Ezra]] [[H6605|opened]] [[H5612|the book]] [[H5869|in full view]] [[H3605|of all]] [[H5971|the people,]] [[H3588|since]] [[H1961|he was]] [[H5921|standing above]] [[H3605|them all,]] [[H6605|and as he opened it,]] [[H3605|all]] [[H5971|the people]] [[H5975|stood up.]] ^0805
 
-The governor told them that they were not to partake of the most holy food until a priest with Urim and Thummim should arise. ^0765
+[[H5830|Then Ezra]] [[H1288|blessed]] [[H3068|the LORD,]] [[H1419|the great]] [[H430|God,]] [[H3027|and with their hands]] [[H4607|uplifted,]] [[H3605|all]] [[H5971|the people]] [[H6030|said,]] [[H543|“Amen,]] [[H543|Amen!”]] [[H6915|Then they bowed down]] [[H7812|and worshiped]] [[H3068|the LORD]] [[H639|with their faces]] [[H776|to the ground.]] ^0806
 
-The whole assembly together was 42,360, ^0766
+[[H3881|The Levites—]] [[H3442|Jeshua,]] [[H1137|Bani,]] [[H8274|Sherebiah,]] [[H3226|Jamin,]] [[H6126|Akkub,]] [[H7678|Shabbethai,]] [[H1941|Hodiah,]] [[H4641|Maaseiah,]] [[H7042|Kelita,]] [[H5838|Azariah,]] [[H3107|Jozabad,]] [[H2605|Hanan,]] [[H6411|and Pelaiah—]] [[H995|explained]] [[H8451|the law]] [[H5971|to the people]] [[H5921|as they stood in]] [[H5975|their places.]] ^0807
 
-besides their male and female servants, of whom there were 7,337. And they had 245 singers, male and female. ^0767
+[[H7121|So they read]] [[H5612|from the Book]] [[H8451|of the Law]] [[H430|of God,]] [[H6567|explaining it]] [[H7760|and giving]] [[H7922|insight,]] [[H995|so that the people could understand]] [[H4744|what was being read.]] ^0808
 
-Their horses were 736, their mules 245, ^0768
+[[H5166|Nehemiah]] [[H8660|the governor,]] [[H5830|Ezra]] [[H3548|the priest]] [[H5608|and scribe,]] [[H3881|and the Levites]] [[H995|who were instructing]] [[H5971|the people]] [[H559|said]] [[H3605|to all of them,]] [[H1931|“This]] [[H3117|day]] [[H6918|is holy]] [[H3068|to the LORD]] [[H430|your God.]] [[H408|Do not]] [[H56|mourn]] [[H1058|or weep.”]] [[H3588|For]] [[H3605|all]] [[H5971|the people]] [[H1058|were weeping]] [[H8085|as they heard]] [[H1697|the words]] [[H8451|of the Law.]] ^0809
 
-their camels 435, and their donkeys 6,720. ^0769
+[[H559|Then told]] ⟨Nehemiah⟩ [[H1980|them,  “Go]] [[H398|and eat]] [[H4924|what is rich,]] [[H8354|drink]] [[H4477|what is sweet,]] [[H7971|and send out]] [[H4490|portions]] [[H369|to those who have nothing]] [[H3559|prepared,]] [[H3588|since]] [[H3117|today]] [[H6918|is holy]] [[H136|to our Lord.]] [[H408|Do not]] [[H6087|grieve,]] [[H3588|for]] [[H2304|the joy]] [[H3068|of the LORD]] [[H1931|is]] [[H4581|your strength.]] ^0810
 
-Now some of the heads of fathers ’ houses gave to the work. The governor gave to the treasury 1,000 darics of gold, 50 basins, 30 priests ’ garments and 500 minas of silver. ^0770
+[[H3881|And the Levites]] [[H2814|calmed]] [[H3605|all]] [[H5971|the people,]] [[H559|saying,]] [[H2013|“Be still,]] [[H3588|since]] [[H3117|today]] [[H6918|is holy.]] [[H408|Do not]] [[H6087|grieve.”]] ^0811
 
-And some of the heads of fathers ’ houses gave into the treasury of the work 20,000 darics of gold and 2,200 minas of silver. ^0771
+[[H3605|Then all]] [[H5971|the people]] [[H398|began to eat]] [[H8354|and drink,]] [[H7971|to send out]] [[H4490|portions,]] [[H6213|and]] [[H8057|to rejoice]] [[H1419|greatly,]] [[H3588|because]] [[H995|they understood]] [[H1697|the words]] [[H834|that]] [[H3045|had been made known]] ^0812
 
-And what the rest of the people gave was 20,000 darics of gold, 2,000 minas of silver, and 67 priests ’ garments. ^0772
+[[H8145|On the second]] [[H3117|day]] ⟨of the month⟩, [[H7218|the heads]] [[H3605|of all]] [[H1|the families,]] [[H3548|along with the priests]] [[H3881|and Levites,]] [[H622|gathered]] [[H413|around]] [[H5830|Ezra]] [[H5608|the scribe]] [[H7919|to study]] [[H1697|the words]] [[H8451|of the Law.]] ^0813
 
-So the priests, the Levites, the gatekeepers, the singers, some of the people, the temple servants, and all Israel, lived in their towns. And when the seventh month had come, the people of Israel were in their towns. ^0773
+[[H4672|And they found]] [[H3789|written]] [[H8451|in the Law,]] [[H834|which]] [[H3068|the LORD]] [[H6680|had commanded]] [[H3027|through]] [[H4872|Moses,]] [[H834|that]] [[H1121|the Israelites]] [[H3427|were to dwell]] [[H5521|in booths]] [[H2282|during the feast]] [[H7637|of the seventh]] [[H2320|month.]] ^0814
 
+[[H8085|So they proclaimed]] [[H6963|this message]] [[H5674|and spread]] ⟨it⟩ [[H3605|throughout]] [[H5892|their towns]] [[H3389|and in Jerusalem,]] [[H559|saying,]] [[H3318|“Go out]] [[H2022|to the hill country]] [[H935|and bring back]] [[H5929|branches]] [[H2132|of olive,]] [[H8081|wild olive,]] [[H1918|myrtle,]] [[H8558|palm,]] [[H5687|and other leafy]] [[H6086|trees,]] [[H6213|to make]] [[H5521|booths,]] [[H3789|as it is written.”]] ^0815
 
+[[H5971|And the people]] [[H3318|went out,]] [[H935|brought back]] ⟨branches⟩, [[H6213|and made]] [[H5521|booths]] [[H5921|on]] [[H376|their own]] [[H1406|rooftops,]] [[H2691|in their courtyards,]] [[H2691|in the court]] [[H1004|of the house]] [[H430|of God,]] [[H7339|and in the squares]] [[H4325|by the Water]] [[H8179|Gate]] ⟨and⟩ [[H7339|]] [[H8179|by the Gate]] [[H669|of Ephraim.]] ^0816
 
-And all the people gathered as one man into the square before the Water Gate. And they told Ezra the scribe to bring the Book of the Law of Moses that the Lord had commanded Israel. ^0801
+[[H3605|The whole]] [[H6951|assembly]] [[H7725|who had returned]] [[H4480|from]] [[H7628|exile]] [[H6213|made]] [[H5521|booths]] [[H3427|and lived]] [[H5521|in them.]] [[H3117|From the days]] [[H3442|of Joshua]] [[H1121|son]] [[H5126|of Nun]] [[H5704|until]] [[H1931|that]] [[H3117|day,]] [[H1121|they]] [[H3808|had not]] [[H6213|celebrated]] [[H3651|like this.]] [[H1419|And there was great]] [[H8057|rejoicing.]] ^0817
 
-So Ezra the priest brought the Law before the assembly, both men and women and all who could understand what they heard, on the first day of the seventh month. ^0802
+[[H3117|Day]] [[H3117|after day,]] [[H4480|from]] [[H7223|the first]] [[H3117|day]] [[H5704|to]] [[H314|the last,]] [[H7121|Ezra read]] [[H5612|from the Book]] [[H8451|of the Law]] [[H430|of God.]] [[H6213|The Israelites kept]] [[H2282|the feast]] [[H7651|for seven]] [[H3117|days,]] [[H8066|and on the eighth]] [[H3117|day]] [[H6116|they held an assembly,]] [[H4941|according to the ordinance.]] ^0818
 
-And he read from it facing the square before the Water Gate from early morning until midday, in the presence of the men and the women and those who could understand. And the ears of all the people were attentive to the Book of the Law. ^0803
+[[H6242|On the twenty-fourth]] [[H3117|day]] [[H2088|of the same]] [[H2320|month,]] [[H1121|the Israelites]] [[H622|gathered together,]] [[H6685|fasting]] [[H8242|and wearing sackcloth,]] [[H127|with dust]] [[H5921|on their heads.]] ^0901
 
-And Ezra the scribe stood on a wooden platform that they had made for the purpose. And beside him stood Mattithiah, Shema, Anaiah, Uriah, Hilkiah, and Maaseiah on his right hand, and Pedaiah, Mishael, Malchijah, Hashum, Hashbaddanah, Zechariah, and Meshullam on his left hand. ^0804
+[[H3478|Those of Israelite]] [[H2233|descent]] [[H914|separated themselves]] [[H3605|from all]] [[H1121|the foreigners,]] [[H5975|and they stood]] [[H3034|and confessed]] [[H2403|their sins]] [[H5771|and the iniquities]] [[H1|of their fathers.]] ^0902
 
-And Ezra opened the book in the sight of all the people, for he was above all the people, and as he opened it all the people stood. ^0805
+[[H6965|While they stood]] [[H5921|in]] [[H5977|their places,]] [[H7121|they read]] [[H5612|from the Book]] [[H8451|of the Law]] [[H3068|of the LORD]] [[H430|their God]] [[H7243|for a quarter]] [[H3117|of the day,]] [[H7243|and they spent another quarter of the day]] [[H3034|in confession]] [[H7812|and worship]] [[H3068|of the LORD]] [[H430|their God.]] ^0903
 
-And Ezra blessed the Lord, the great God, and all the people answered, Amen, Amen, lifting up their hands. And they bowed their heads and worshiped the Lord with their faces to the ground. ^0806
+[[H3881|And the Levites—]] [[H3442|Jeshua,]] [[H1137|Bani,]] [[H6934|Kadmiel,]] [[H7645|Shebaniah,]] [[H1138|Bunni,]] [[H8274|Sherebiah,]] [[H1137|Bani,]] [[H3662|and Chenani—]] [[H6965|stood]] [[H5921|on]] [[H4608|the raised platform]] [[H2199|and cried out]] [[H1419|in a loud]] [[H6963|voice]] [[H413|to]] [[H3068|the LORD]] [[H430|their God.]] ^0904
 
-Also Jeshua, Bani, Sherebiah, Jamin, Akkub, Shabbethai, Hodiah, Maaseiah, Kelita, Azariah, Jozabad, Hanan, Pelaiah, the Levites, helped the people to understand the Law, while the people remained in their places. ^0807
+[[H3881|Then the Levites—]] [[H3442|Jeshua,]] [[H6934|Kadmiel,]] [[H1137|Bani,]] [[H2813|Hashabneiah,]] [[H8274|Sherebiah,]] [[H1941|Hodiah,]] [[H7645|Shebaniah,]] [[H6611|and Pethahiah—]] [[H559|said:]] [[H6965|“Stand up]] ⟨and⟩ [[H1288|bless]] [[H3068|the LORD]] [[H430|your God]] [[H4480|from]] [[H5769|everlasting]] [[H5704|to]] [[H5769|everlasting:]] [[H1288|‘Blessed be]] [[H3519|Your glorious]] [[H8034|name,]] [[H7311|and may it be exalted]] [[H5921|above]] [[H3605|all]] [[H1293|blessing]] [[H8416|and praise.]] ^0905
 
-They read from the book, from the Law of God, clearly, and they gave the sense, so that the people understood the reading. ^0808
+[[H859|You]] [[H905|alone]] [[H3068|are the LORD.]] [[H859|You]] [[H6213|created]] [[H8064|the heavens,]] [[H8064|the highest heavens]] [[H3605|with all]] [[H6635|their host,]] [[H776|the earth]] [[H3605|and all]] [[H834|that]] [[H5921|is on it,]] [[H3220|the seas]] [[H3605|and all]] [[H834|that is]] [[H2421|in them.  You give life]] [[H3605|to all things,]] [[H8064|and the heavenly]] [[H6635|host]] [[H7812|worships You.]] ^0906
 
-And Nehemiah, who was the governor, and Ezra the priest and scribe, and the Levites who taught the people said to all the people, This day is holy to the Lord your God; do not mourn or weep. For all the people wept as they heard the words of the Law. ^0809
+[[H859|You]] [[H3068|are the LORD,]] [[H430|the God]] [[H834|who]] [[H977|chose]] [[H87|Abram,]] [[H3318|who brought him]] [[H218|out of Ur]] [[H3778|of the Chaldeans]] [[H7760|and gave him]] [[H8034|the name]] [[H85|Abraham.]] ^0907
 
-Then he said to them, Go your way. Eat the fat and drink sweet wine and send portions to anyone who has nothing ready, for this day is holy to our Lord. And do not be grieved, for the joy of the Lord is your strength. ^0810
+[[H4672|You found]] [[H3824|his heart]] [[H539|faithful]] [[H6440|before You,]] [[H3772|and made]] [[H1285|a covenant]] [[H5973|with him]] [[H5414|to give]] [[H776|the land]] [[H3669|of the Canaanites]] [[H2850|and Hittites,]] [[H567|of the Amorites]] [[H6522|and Perizzites,]] [[H2983|of the Jebusites]] [[H1622|and Girgashites,]] [[H5414|to give it]] [[H2233|to his descendants.]] [[H6965|You have kept]] [[H1697|Your promise,]] [[H3588|because]] [[H859|You]] [[H6662|are righteous.]] ^0908
 
-So the Levites calmed all the people, saying, Be quiet, for this day is holy; do not be grieved. ^0811
+[[H7200|You saw]] [[H6040|the oppression]] [[H1|of our fathers]] [[H4714|in Egypt;]] [[H8085|You heard]] [[H2201|their cry]] [[H5921|at]] [[H5488|the Red]] [[H3220|Sea.]] ^0909
 
-And all the people went their way to eat and drink and to send portions and to make great rejoicing, because they had understood the words that were declared to them. ^0812
+[[H5414|You performed]] [[H226|signs]] [[H4159|and wonders]] [[H6547|against Pharaoh,]] [[H3605|all]] [[H5650|his officials,]] [[H3605|and all]] [[H5971|the people]] [[H776|of his land,]] [[H3588|for]] [[H3045|You knew]] [[H3588|that]] [[H2102|they had acted with arrogance]] [[H5921|against]] ⟨our fathers⟩. [[H6213|You made]] [[H8034|a name for Yourself]] [[H2088|that endures to this]] [[H3117|day.]] ^0910
 
-On the second day the heads of fathers ’ houses of all the people, with the priests and the Levites, came together to Ezra the scribe in order to study the words of the Law. ^0813
+[[H1234|You divided]] [[H3220|the sea]] [[H6440|before them,]] [[H5674|and they crossed]] [[H8432|through]] [[H3220|it]] [[H3004|on dry ground.]] [[H7993|You hurled]] [[H7291|their pursuers]] [[H4688|into the depths]] [[H3644|like]] [[H68|a stone]] [[H4325|into raging waters.]] ^0911
 
-And they found it written in the Law that the Lord had commanded by Moses that the people of Israel should dwell in booths during the feast of the seventh month, ^0814
+[[H5148|You led]] [[H5982|them with a pillar]] [[H6051|of cloud]] [[H3119|by day,]] [[H5982|and a pillar]] [[H784|of fire]] [[H3915|by night,]] [[H215|to light]] [[H1870|for them the way]] [[H834|which]] [[H1980|they should travel.]] ^0912
 
-and that they should proclaim it and publish it in all their towns and in Jerusalem, Go out to the hills and bring branches of olive, wild olive, myrtle, palm, and other leafy trees to make booths, as it is written. ^0815
+[[H3381|You came down]] [[H5921|on]] [[H2022|Mount]] [[H5514|Sinai,]] [[H1696|and spoke]] [[H5973|to them]] [[H8064|from heaven.]] [[H5414|You gave]] [[H3477|them  just]] [[H4941|ordinances,]] [[H571|TRUE]] [[H8451|laws,]] [[H2896|and good]] [[H2706|statutes]] [[H4687|and commandments.]] ^0913
 
-So the people went out and brought them and made booths for themselves, each on his roof, and in their courts and in the courts of the house of God, and in the square at the Water Gate and in the square at the Gate of Ephraim. ^0816
+[[H3045|You revealed]] [[H6944|to them  Your holy]] [[H7676|Sabbath,]] [[H6680|and gave]] [[H4687|them  commandments]] [[H2706|and statutes]] [[H8451|and laws]] [[H3027|through]] [[H5650|Your servant]] [[H4872|Moses.]] ^0914
 
-And all the assembly of those who had returned from the captivity made booths and lived in the booths, for from the days of Jeshua the son of Nun to that day the people of Israel had not done so. And there was very great rejoicing. ^0817
+[[H7458|In their hunger]] [[H5414|You provided]] [[H3899|bread]] [[H8064|from heaven;]] [[H6772|in their thirst]] [[H3318|You brought]] [[H4325|water]] [[H5553|from the rock.]] [[H559|You told]] [[H935|them to go in]] [[H3423|and possess]] [[H776|the land]] [[H834|which]] [[H5375|You had sworn]] [[H5414|to give]] ^0915
 
-And day by day, from the first day to the last day, he read from the Book of the Law of God. They kept the feast seven days, and on the eighth day there was a solemn assembly, according to the rule. ^0818
+[[H1992|But they]] [[H1|and our fathers]] [[H2102|became arrogant]] [[H7185|and stiff-necked]] [[H3808|and did not]] [[H8085|obey]] [[H4687|Your commandments.]] ^0916
 
+[[H3985|They refused]] [[H8085|to listen]] [[H3808|and failed]] [[H2142|to remember]] [[H6381|the wonders]] [[H6213|You performed]] [[H5973|among them.]] [[H7185|They stiffened]] [[H6203|their necks]] [[H5414|and appointed]] [[H7218|a leader]] [[H7725|to return them]] [[H5659|to their bondage.]] [[H859|But You]] [[H5547|are a forgiving]] [[H433|God,]] [[H2587|gracious]] [[H7349|and compassionate,]] [[H750|slow]] [[H639|to anger]] [[H7227|and rich]] [[H2617|in loving devotion,]] [[H3808|and You did not]] [[H5800|forsake them.]] ^0917
 
+[[H637|Even]] [[H3588|after]] [[H6213|they had cast]] [[H4541|for themselves  an image]] [[H5695|of a calf]] [[H559|and said,]] [[H2088|“This]] [[H430|is your God]] [[H834|who]] [[H5927|brought you up]] [[H4714|out of Egypt,”]] [[H6213|and they had committed]] [[H1419|terrible]] [[H5007|blasphemies,]] ^0918
 
-Now on the twenty-fourth day of this month the people of Israel were assembled with fasting and in sackcloth, and with earth on their heads. ^0901
+[[H859|You,]] [[H7227|because of Your great]] [[H7356|compassion,]] [[H3808|did not]] [[H5800|forsake them]] [[H4057|in the wilderness.]] [[H3119|By day]] [[H5982|the pillar]] [[H6051|of cloud]] [[H3808|never]] [[H5493|turned away]] [[H5148|from guiding them]] [[H1870|on their path;]] [[H3915|and by the night]] [[H5982|the pillar]] [[H784|of fire]] [[H215|illuminated]] [[H1870|the way]] [[H1980|they should go.]] ^0919
 
-And the Israelites separated themselves from all foreigners and stood and confessed their sins and the iniquities of their fathers. ^0902
+[[H5414|You gave]] [[H2896|Your good]] [[H7307|Spirit]] [[H7919|to instruct them.]] [[H3808|You did not]] [[H4513|withhold]] [[H4478|Your manna]] [[H6310|from their mouths,]] [[H5414|and You gave]] [[H4325|them water]] [[H6772|for their thirst.]] ^0920
 
-And they stood up in their place and read from the Book of the Law of the Lord their God for a quarter of the day; for another quarter of it they made confession and worshiped the Lord their God. ^0903
+[[H705|For forty]] [[H8141|years]] [[H3557|You sustained them]] [[H4057|in the wilderness,]] ⟨so that⟩ [[H2637|they lacked]] [[H3808|nothing.]] [[H8008|Their clothes]] [[H3808|did not]] [[H1086|wear out,]] [[H7272|and their feet]] [[H3808|did not]] [[H1216|swell.]] ^0921
 
-On the stairs of the Levites stood Jeshua, Bani, Kadmiel, Shebaniah, Bunni, Sherebiah, Bani, and Chenani; and they cried with a loud voice to the Lord their God. ^0904
+[[H5414|You gave]] [[H4467|them kingdoms]] [[H5971|and peoples]] [[H2505|and allotted]] [[H6285|to them every corner of the land.]] [[H3423|So they took]] [[H776|the land]] [[H5511|of Sihon]] [[H4428|king]] [[H2809|of Heshbon]] [[H776|and]] [[H5747|of Og]] [[H4428|king]] [[H1316|of Bashan.]] ^0922
 
-Then the Levites, Jeshua, Kadmiel, Bani, Hashabneiah, Sherebiah, Hodiah, Shebaniah, and Pethahiah, said, Stand up and bless the Lord your God from everlasting to everlasting. Blessed be your glorious name, which is exalted above all blessing and praise. ^0905
+[[H7235|You multiplied]] [[H1121|their descendants]] [[H3556|like the stars]] [[H8064|of heaven]] [[H935|and brought]] [[H413|them to]] [[H776|the land]] [[H559|You had told]] [[H1|their fathers]] [[H935|to enter]] [[H3423|and possess.]] ^0923
 
-You are the Lord, you alone. You have made heaven, the heaven of heavens, with all their host, the earth and all that is on it, the seas and all that is in them; and you preserve all of them; and the host of heaven worships you. ^0906
+[[H1121|So their descendants]] [[H935|went in]] [[H3423|and possessed]] [[H776|the land.]] [[H3665|You subdued]] [[H6440|before them]] [[H3669|the Canaanites]] [[H3427|dwelling]] [[H776|in the land;]] [[H4428|You handed their kings]] [[H5971|and peoples]] [[H5414|over to]] [[H3027|them,]] [[H6213|to do]] [[H7522|with them  as they wished.]] ^0924
 
-You are the Lord, the God who chose Abram and brought him out of Ur of the Chaldeans and gave him the name Abraham. ^0907
+[[H3920|They captured]] [[H5892|fortified cities]] [[H8082|and fertile]] [[H127|land]] [[H3423|and took]] [[H1004|houses]] [[H4392|full]] [[H3605|of all]] [[H2898|goods,]] [[H953|wells]] ⟨already⟩ [[H2672|dug,]] [[H3754|vineyards,]] [[H2132|olive groves,]] [[H3978|and fruit]] [[H6086|trees]] [[H7230|in abundance.]] [[H398|So they ate]] [[H7646|and were filled;]] [[H8080|they grew fat]] [[H5727|and delighted]] [[H1419|in Your great]] [[H2898|goodness.]] ^0925
 
-You found his heart faithful before you, and made with him the covenant to give to his offspring the land of the Canaanite, the Hittite, the Amorite, the Perizzite, the Jebusite, and the Girgashite. And you have kept your promise, for you are righteous. ^0908
+[[H4784|But they were disobedient]] [[H4775|and rebelled]] [[H7993|against You;  they flung]] [[H8451|Your law]] [[H310|behind]] [[H1458|their backs.]] [[H2026|They killed]] [[H5030|Your prophets]] [[H834|who]] [[H5749|had admonished]] [[H7725|them  to turn back]] [[H413|to You.]] [[H6213|They committed]] [[H1419|terrible]] [[H5007|blasphemies.]] ^0926
 
-And you saw the affliction of our fathers in Egypt and heard their cry at the Red Sea, ^0909
+[[H5414|So You delivered them]] [[H3027|into the hands]] [[H6862|of their enemies,]] [[H3334|who oppressed]] [[H6256|them.  And in their time]] [[H6869|of distress,]] [[H6817|they cried out]] [[H413|to You,]] [[H859|and You]] [[H8085|heard them]] [[H8064|from heaven.]] [[H7227|In Your abundant]] [[H7356|compassion]] [[H5414|You gave]] [[H3467|them deliverers,]] [[H3467|who rescued them]] [[H3027|from the hands]] [[H6862|of their enemies.]] ^0927
 
-and performed signs and wonders against Pharaoh and all his servants and all the people of his land, for you knew that they acted arrogantly against our fathers. And you made a name for yourself, as it is to this day. ^0910
+[[H5117|But as soon as they had rest,]] [[H7725|they again]] [[H6213|did]] [[H7451|evil]] [[H6440|in Your sight.]] [[H5800|So You abandoned them]] [[H3027|to the hands]] [[H341|of their enemies,]] [[H7287|who had dominion]] [[H2199|over them.  When they cried out]] [[H7725|to You again,]] [[H859|You]] [[H8085|heard]] [[H8064|from heaven,]] [[H5337|And You delivered them]] [[H7227|many]] [[H6256|times]] [[H7356|in Your compassion.]] ^0928
 
-And you divided the sea before them, so that they went through the midst of the sea on dry land, and you cast their pursuers into the depths, as a stone into mighty waters. ^0911
+[[H5749|You admonished]] [[H7725|them  to turn back]] [[H413|to]] [[H8451|Your law,]] [[H1992|but they]] [[H2102|were arrogant]] [[H8085|and disobeyed]] [[H4687|Your commandments.]] [[H2398|They sinned]] [[H4941|against  Your ordinances,]] [[H120|by which a man]] [[H2421|will live]] [[H6213|if he practices]] [[H834|them.]] [[H5637|They stubbornly]] [[H5414|shrugged]] [[H3802|their shoulders;]] [[H7185|they stiffened]] [[H6203|their necks]] [[H3808|and would not]] [[H8085|obey.]] ^0929
 
-By a pillar of cloud you led them in the day, and by a pillar of fire in the night to light for them the way in which they should go. ^0912
+[[H4900|Yet You were patient]] [[H5921|with]] [[H7227|them for many]] [[H8141|years,]] [[H7307|and Your Spirit]] [[H5749|admonished]] [[H3027|them  through]] [[H5030|Your prophets,]] [[H3808|but they would not]] [[H238|listen;]] [[H5414|so You gave them]] [[H3027|into the hands]] [[H5971|of the people]] [[H776|of the land.]] ^0930
 
-You came down on Mount Sinai and spoke with them from heaven and gave them right rules and true laws, good statutes and commandments, ^0913
+[[H7227|But in Your great]] [[H7356|compassion,]] [[H3808|You did not]] [[H6213|put an end to them;]] [[H3808|nor]] [[H5800|did You forsake them,]] [[H3588|for]] [[H859|You]] [[H2587|are a gracious]] [[H7349|and compassionate]] [[H410|God.]] ^0931
 
-and you made known to them your holy Sabbath and commanded them commandments and statutes and a law by Moses your servant. ^0914
+[[H6258|So now,]] [[H430|our God,]] [[H1419|the great]] [[H1368|and mighty]] [[H3372|and awesome]] [[H410|God]] [[H8104|who keeps]] [[H2617|His gracious]] [[H1285|covenant,]] [[H408|do not]] [[H4591|view lightly]] [[H3605|all]] [[H8513|the hardships]] [[H834|that]] [[H4672|has come upon us,]] [[H4428|and upon our kings]] [[H8269|and leaders,]] [[H3548|our priests]] [[H5030|and prophets,]] [[H1|our ancestors]] [[H3605|and all]] [[H5971|Your people,]] [[H3117|from the days]] [[H4428|of the kings]] [[H804|of Assyria]] [[H5704|until today.]] ^0932
 
-You gave them bread from heaven for their hunger and brought water for them out of the rock for their thirst, and you told them to go in to possess the land that you had sworn to give them. ^0915
+[[H859|You]] [[H6662|are just]] [[H5921|in]] [[H3605|all]] [[H935|that has befallen]] [[H5921|us,]] [[H3588|because]] [[H6213|You have acted]] [[H571|faithfully,]] [[H587|while we]] [[H7561|have acted wickedly.]] ^0933
 
-But they and our fathers acted presumptuously and stiffened their neck and did not obey your commandments. ^0916
+[[H4428|Our kings]] [[H8269|and leaders]] [[H3548|and priests]] [[H1|and fathers]] [[H3808|did not]] [[H6213|obey]] [[H8451|Your law]] [[H7181|or listen]] [[H413|to]] [[H4687|Your commandments]] [[H5715|and warnings]] [[H834|that]] [[H5749|You gave]] ^0934
 
-They refused to obey and were not mindful of the wonders that you performed among them, but they stiffened their neck and appointed a leader to return to their slavery in Egypt. But you are a God ready to forgive, gracious and merciful, slow to anger and abounding in steadfast love, and did not forsake them. ^0917
+[[H1992|For even while]] [[H4438|they were in their kingdom,]] [[H7227|with the abundant]] [[H2898|goodness]] [[H5414|You had given]] [[H7342|them,  and in the spacious]] [[H8082|and fertile]] [[H776|land]] [[H5414|You set]] [[H6440|before them,]] [[H3808|they would not]] [[H5647|serve You]] [[H7725|or turn]] [[H7451|from their wicked]] [[H4611|ways.]] ^0935
 
-Even when they had made for themselves a golden calf and said, This is your God who brought you up out of Egypt, and had committed great blasphemies, ^0918
+[[H2009|So here]] [[H587|we]] ⟨are⟩ [[H3117|today,]] [[H5650|slaves]] [[H776|in the land]] [[H5414|You gave]] [[H1|our fathers]] [[H398|to enjoy]] [[H6529|its fruit]] [[H2898|and its goodness.]] [[H2009|And here]] [[H587|we]] ⟨are⟩ [[H5650|as slaves!]] ^0936
 
-you in your great mercies did not forsake them in the wilderness. The pillar of cloud to lead them in the way did not depart from them by day, nor the pillar of fire by night to light for them the way by which they should go. ^0919
+[[H7235|Its abundant]] [[H8393|harvest]] [[H4428|goes to the kings]] [[H5414|You have set]] [[H5921|over us]] [[H2403|because of our sins.]] [[H4910|And they rule]] [[H5921|over]] [[H1472|our bodies]] [[H929|and our livestock]] [[H7522|as they please.]] [[H587|We]] [[H1419|are in great]] [[H6869|distress.’]] ^0937
 
-You gave your good Spirit to instruct them and did not withhold your manna from their mouth and gave them water for their thirst. ^0920
+[[H3605|In view of all]] [[H2063|this,]] [[H587|we]] [[H3772|make]] [[H548|a binding agreement,]] [[H3789|putting it in writing]] [[H5921|and]] [[H2856|sealing it with]] ⟨the names of⟩ [[H8269|our leaders,]] [[H3881|Levites,]] [[H3548|and priests.”]] ^0938
 
-Forty years you sustained them in the wilderness, and they lacked nothing. Their clothes did not wear out and their feet did not swell. ^0921
+[[H5921|Now]] [[H2856|those who sealed]] ⟨the document were⟩: [[H5166|Nehemiah]] [[H8660|the governor,]] [[H1121|son]] [[H2446|of Hacaliah,]] [[H6667|and also Zedekiah,]] ^1001
 
-And you gave them kingdoms and peoples and allotted to them every corner. So they took possession of the land of Sihon king of Heshbon and the land of Og king of Bashan. ^0922
+[[H8304|Seraiah,]] [[H5838|Azariah,]] [[H3414|Jeremiah,]] ^1002
 
-You multiplied their children as the stars of heaven, and you brought them into the land that you had told their fathers to enter and possess. ^0923
+[[H6583|Pashhur,]] [[H568|Amariah,]] [[H4441|Malchijah,]] ^1003
 
-So the descendants went in and possessed the land, and you subdued before them the inhabitants of the land, the Canaanites, and gave them into their hand, with their kings and the peoples of the land, that they might do with them as they would. ^0924
+[[H2407|Hattush,]] [[H7645|Shebaniah,]] [[H4409|Malluch,]] ^1004
 
-And they captured fortified cities and a rich land, and took possession of houses full of all good things, cisterns already hewn, vineyards, olive orchards and fruit trees in abundance. So they ate and were filled and became fat and delighted themselves in your great goodness. ^0925
+[[H2766|Harim,]] [[H4822|Meremoth,]] [[H5662|Obadiah,]] ^1005
 
-Nevertheless, they were disobedient and rebelled against you and cast your law behind their back and killed your prophets, who had warned them in order to turn them back to you, and they committed great blasphemies. ^0926
+[[H1840|Daniel,]] [[H1599|Ginnethon,]] [[H1263|Baruch,]] ^1006
 
-Therefore you gave them into the hand of their enemies, who made them suffer. And in the time of their suffering they cried out to you and you heard them from heaven, and according to your great mercies you gave them saviors who saved them from the hand of their enemies. ^0927
+[[H4918|Meshullam,]] [[H29|Abijah,]] [[H4326|Mijamin,]] ^1007
 
-But after they had rest they did evil again before you, and you abandoned them to the hand of their enemies, so that they had dominion over them. Yet when they turned and cried to you, you heard from heaven, and many times you delivered them according to your mercies. ^0928
+[[H4590|Maaziah,]] [[H1084|Bilgai,]] [[H8098|and Shemaiah.]] [[H428|These]] ⟨were⟩ [[H3548|the priests.]] ^1008
 
-And you warned them in order to turn them back to your law. Yet they acted presumptuously and did not obey your commandments, but sinned against your rules, which if a person does them, he shall live by them, and they turned a stubborn shoulder and stiffened their neck and would not obey. ^0929
+[[H3881|The Levites:]] [[H3442|Jeshua]] [[H1121|son]] [[H245|of Azaniah,]] [[H1131|Binnui]] [[H1121|of the sons]] [[H2582|of Henadad,]] [[H6934|Kadmiel,]] ^1009
 
-Many years you bore with them and warned them by your Spirit through your prophets. Yet they would not give ear. Therefore you gave them into the hand of the peoples of the lands. ^0930
+[[H251|and their associates:]] [[H7645|Shebaniah,]] [[H1940|Hodiah,]] [[H7042|Kelita,]] [[H6411|Pelaiah,]] [[H2605|Hanan,]] ^1010
 
-Nevertheless, in your great mercies you did not make an end of them or forsake them, for you are a gracious and merciful God. ^0931
+[[H4316|Mica,]] [[H7340|Rehob,]] [[H2811|Hashabiah,]] ^1011
 
-Now, therefore, our God, the great, the mighty, and the awesome God, who keeps covenant and steadfast love, let not all the hardship seem little to you that has come upon us, upon our kings, our princes, our priests, our prophets, our fathers, and all your people, since the time of the kings of Assyria until this day. ^0932
+[[H2139|Zaccur,]] [[H8274|Sherebiah,]] [[H7645|Shebaniah,]] ^1012
 
-Yet you have been righteous in all that has come upon us, for you have dealt faithfully and we have acted wickedly. ^0933
+[[H1940|Hodiah,]] [[H1137|Bani,]] [[H1148|and Beninu.]] ^1013
 
-Our kings, our princes, our priests, and our fathers have not kept your law or paid attention to your commandments and your warnings that you gave them. ^0934
+[[H7218|The leaders]] [[H5971|of the people:]] [[H6551|Parosh,]] [[H6355|Pahath-moab,]] [[H5867|Elam,]] [[H2240|Zattu,]] [[H1137|Bani,]] ^1014
 
-Even in their own kingdom, and amid your great goodness that you gave them, and in the large and rich land that you set before them, they did not serve you or turn from their wicked works. ^0935
+[[H1138|Bunni,]] [[H5803|Azgad,]] [[H893|Bebai,]] ^1015
 
-Behold, we are slaves this day; in the land that you gave to our fathers to enjoy its fruit and its good gifts, behold, we are slaves. ^0936
+[[H138|Adonijah,]] [[H902|Bigvai,]] [[H5720|Adin,]] ^1016
 
-And its rich yield goes to the kings whom you have set over us because of our sins. They rule over our bodies and over our livestock as they please, and we are in great distress. ^0937
+[[H333|Ater,]] [[H2396|Hezekiah,]] [[H5809|Azzur,]] ^1017
 
-Because of all this we make a firm covenant in writing; on the sealed document are the names of our princes, our Levites, and our priests. ^0938
+[[H1940|Hodiah,]] [[H2828|Hashum,]] [[H1209|Bezai,]] ^1018
 
+[[H2756|Hariph,]] [[H6068|Anathoth,]] [[H5109|Nebai,]] ^1019
 
+[[H4047|Magpiash,]] [[H4918|Meshullam,]] [[H2387|Hezir,]] ^1020
 
-On the seals are the names of Nehemiah the governor, the son of Hacaliah, Zedekiah, ^1001
+[[H4898|Meshezabel,]] [[H6659|Zadok,]] [[H3037|Jaddua,]] ^1021
 
-Seraiah, Azariah, Jeremiah, ^1002
+[[H6410|Pelatiah,]] [[H2605|Hanan,]] [[H6043|Anaiah,]] ^1022
 
-Pashhur, Amariah, Malchijah, ^1003
+[[H1954|Hoshea,]] [[H2608|Hananiah,]] [[H2815|Hasshub,]] ^1023
 
-Hattush, Shebaniah, Malluch, ^1004
+[[H3873|Hallohesh,]] [[H6401|Pilha,]] [[H7733|Shobek,]] ^1024
 
-Harim, Meremoth, Obadiah, ^1005
+[[H7348|Rehum,]] [[H2812|Hashabnah,]] [[H4641|Maaseiah,]] ^1025
 
-Daniel, Ginnethon, Baruch, ^1006
+[[H281|Ahijah,]] [[H2605|Hanan,]] [[H6052|Anan,]] ^1026
 
-Meshullam, Abijah, Mijamin, ^1007
+[[H4409|Malluch,]] [[H2766|Harim,]] ⟨and⟩ [[H1196|Baanah.]] ^1027
 
-Maaziah, Bilgai, Shemaiah; these are the priests. ^1008
+[[H7605|“The rest]] [[H5971|of the people—]] [[H3548|the priests,]] [[H3881|Levites,]] [[H7778|gatekeepers,]] [[H7891|singers,]] [[H5411|and temple servants,]] [[H3605|and all]] [[H914|who had separated themselves]] [[H5971|from the people]] [[H776|of the land]] [[H413|to]] [[H8451|obey the law]] [[H430|of God—]] [[H802|along with their wives]] [[H3605|and all]] [[H1121|their sons]] [[H1323|and daughters]] [[H995|who were able to understand,]] ^1028
 
-And the Levites : Jeshua the son of Azaniah, Binnui of the sons of Henadad, Kadmiel; ^1009
+[[H2388|hereby join]] [[H5921|with]] [[H117|their noble]] [[H251|brothers]] [[H935|and commit]] [[H7621|themselves with a sworn]] [[H423|oath]] [[H1980|to follow]] [[H8451|the Law]] [[H430|of God]] [[H5414|given]] [[H3027|through]] ⟨His⟩ [[H430|]] [[H5650|servant]] [[H4872|Moses]] [[H8104|and to carefully]] [[H6213|obey]] [[H3605|all]] [[H4687|the commandments,]] [[H4941|ordinances,]] [[H2706|and statutes]] [[H3068|of the LORD]] [[H136|our Lord.]] ^1029
 
-and their brothers, Shebaniah, Hodiah, Kelita, Pelaiah, Hanan, ^1010
+[[H3808|We will not]] [[H5414|give]] [[H1323|our daughters]] ⟨in marriage⟩ [[H5971|to the people]] [[H776|of the land,]] [[H3808|and we will not]] [[H3947|take]] [[H1323|their daughters]] [[H1121|for our sons.]] ^1030
 
-Mica, Rehob, Hashabiah, ^1011
+[[H5971|When the people]] [[H776|of the land]] [[H935|bring]] [[H4728|merchandise]] [[H3605|or any]] [[H7668|kind of grain]] [[H4376|to sell]] [[H7676|on the Sabbath]] [[H3117|day,]] [[H3808|we will not]] [[H3947|buy]] [[H1992|from them]] [[H7676|on a Sabbath day]] [[H6944|or holy]] [[H3117|day.]] [[H7637|Every seventh]] [[H8141|year]] [[H5203|we will let the fields lie fallow,]] [[H3605|and will cancel every]] [[H4855|debt.]] ^1031
 
-Zaccur, Sherebiah, Shebaniah, ^1012
+[[H5975|We also place]] [[H5921|ourselves]] [[H5921|under]] [[H4687|the obligation]] [[H5414|to contribute]] [[H7992|a third]] [[H8255|of a shekel]] [[H8141|yearly]] [[H5656|for the service]] [[H1004|of the house]] [[H430|of our God:]] ^1032
 
-Hodiah, Bani, Beninu. ^1013
+[[H3899|for the showbread,]] [[H8548|for the regular]] [[H4503|grain offerings]] [[H5930|and burnt offerings,]] [[H7676|for the Sabbath offerings,]] [[H2320|for the New Moon]] [[H4150|and appointed feasts,]] [[H6944|for the holy offerings,]] [[H2403|for the sin offerings]] [[H3722|to make atonement]] [[H5921|for]] [[H3478|Israel,]] [[H3605|and for all]] [[H4399|the duties]] [[H1004|of the house]] [[H430|of our God.]] ^1033
 
-The chiefs of the people : Parosh, Pahath-moab, Elam, Zattu, Bani, ^1014
+[[H5307|We have cast]] [[H1486|lots]] [[H3548|among the priests,]] [[H3881|Levites,]] [[H5971|and people]] [[H5921|for]] [[H7133|the donation]] [[H6086|of wood]] [[H1|by our families]] [[H2163|at the appointed]] [[H6256|times]] [[H8141|each year.]] [[H935|They are to bring it]] [[H1004|to the house]] [[H430|of our God]] [[H1197|to burn]] [[H5921|on]] [[H4196|the altar]] [[H3068|of the LORD]] [[H430|our God,]] [[H3789|as it is written]] [[H8451|in the Law.]] ^1034
 
-Bunni, Azgad, Bebai, ^1015
+[[H935|We will also bring]] [[H1061|the firstfruits]] [[H127|of our land]] [[H3605|and of every]] [[H6529|fruit]] [[H6086|tree]] [[H1004|to the house]] [[H3068|of the LORD]] [[H8141|year]] [[H8141|by year.]] ^1035
 
-Adonijah, Bigvai, Adin, ^1016
+[[H853|And]] [[H935|we will bring]] [[H1060|the firstborn]] [[H1121|of our sons]] [[H929|and our livestock,]] [[H3789|as written]] ⟨it is⟩ [[H8451|in the Law,]] [[H1060|and will bring the firstborn]] [[H1241|of our herds]] [[H6629|and flocks]] [[H1004|to the house]] [[H430|of our God,]] [[H3548|to the priests]] [[H8334|who minister]] [[H1004|in the house]] [[H430|of our God.]] ^1036
 
-Ater, Hezekiah, Azzur, ^1017
+[[H853|Moreover,]] [[H935|we will bring]] [[H3548|to the priests]] [[H413|at]] [[H3957|the storerooms]] [[H1004|of the house]] [[H430|of our God]] [[H7225|the firstfruits]] [[H6182|of our dough,]] [[H8641|of our grain offerings,]] [[H6529|of the fruit]] [[H3605|of all our]] [[H6086|trees,]] [[H8492|and of our new wine]] [[H3323|and oil.]] [[H4643|A tenth]] [[H127|of our produce]] [[H3881|belongs to the Levites,]] [[H3881|for]] ⟨they⟩ [[H6237|should receive tithes]] [[H3605|in all]] [[H5892|the towns]] [[H5656|where we labor.]] ^1037
 
-Hodiah, Hashum, Bezai, ^1018
+[[H3548|A priest]] [[H1121|descended]] [[H175|from Aaron]] [[H1961|is to accompany]] [[H3881|the Levites]] [[H3881|when they]] [[H6237|collect the tenth,]] [[H3881|and the Levites]] [[H5927|are to bring]] [[H4643|a tenth]] [[H4643|of these tithes]] [[H413|to]] [[H3957|the storerooms]] [[H1004|of the treasury]] [[H1004|in the house]] [[H430|of our God.]] ^1038
 
-Hariph, Anathoth, Nebai, ^1019
+[[H3588|For]] [[H1121|the Israelites]] [[H1121|and the Levites]] [[H935|are to bring]] [[H8641|the contributions]] [[H1715|of grain,]] [[H8492|new wine,]] [[H3323|and oil]] [[H413|to]] [[H3957|the storerooms]] [[H8033|where]] [[H3627|the articles]] [[H4720|of the sanctuary]] ⟨are kept⟩ [[H8334|and where the ministering]] [[H3548|priests,]] [[H7778|the gatekeepers,]] [[H7891|and the singers]] ⟨stay⟩. [[H3808|Thus we will not]] [[H5800|neglect]] [[H1004|the house]] [[H430|of our God.]] ^1039
 
-Magpiash, Meshullam, Hezir, ^1020
+[[H8269|Now the leaders]] [[H5971|of the people]] [[H3427|settled]] [[H3389|in Jerusalem,]] [[H7605|and the rest]] [[H5971|of the people]] [[H5307|cast]] [[H1486|lots]] [[H935|to bring]] [[H259|one]] [[H4480|out]] [[H6235|of ten]] [[H3427|to live]] [[H6944|in the holy]] [[H5892|city]] [[H3389|of Jerusalem,]] [[H8672|while]] [[H3027|the remaining nine]] ⟨were to dwell⟩ [[H5892|in cities.]] ⟨their own⟩ ^1101
 
-Meshezabel, Zadok, Jaddua, ^1021
+[[H5971|And the people]] [[H1288|blessed]] [[H3605|all]] [[H376|the men]] [[H5068|who volunteered]] [[H3427|to live]] [[H3389|in Jerusalem.]] ^1102
 
-Pelatiah, Hanan, Anaiah, ^1022
+[[H428|These]] [[H7218|are the heads]] [[H4082|of the provinces]] [[H834|who]] [[H3427|settled]] [[H3389|in Jerusalem]] [[H5892|(but in the villages]] [[H3063|of Judah]] [[H376|each]] [[H3427|lived]] [[H272|on his own property]] [[H5892|in their towns—]] [[H3478|the Israelites,]] [[H3548|priests,]] [[H3881|Levites,]] [[H5411|temple servants,]] [[H1121|and descendants]] [[H8010|of Solomon’s]] [[H5650|servants—]] ^1103
 
-Hoshea, Hananiah, Hasshub, ^1023
+[[H1121|while some of the descendants]] [[H3063|of Judah]] [[H1144|and Benjamin]] [[H3427|settled]] [[H3389|in Jerusalem.)]] [[H1121|From the descendants]] [[H3063|of Judah:]] [[H6265|Athaiah]] [[H1121|son]] [[H5818|of Uzziah,]] [[H1121|the son]] [[H2148|of Zechariah,]] [[H1121|the son]] [[H568|of Amariah,]] [[H1121|the son]] [[H8203|of Shephatiah,]] [[H1121|the son]] [[H4111|of Mahalalel,]] [[H1121|a descendant]] [[H6557|of Perez;]] ^1104
 
-Hallohesh, Pilha, Shobek, ^1024
+[[H4641|and Maaseiah]] [[H1121|son]] [[H1263|of Baruch,]] [[H1121|the son]] [[H3626|of Col-hozeh,]] [[H1121|the son]] [[H2382|of Hazaiah,]] [[H1121|the son]] [[H5718|of Adaiah,]] [[H1121|the son]] [[H3114|of Joiarib,]] [[H1121|the son]] [[H2148|of Zechariah,]] [[H1121|a descendant]] [[H8023|of Shelah.]] ^1105
 
-Rehum, Hashabnah, Maaseiah, ^1025
+[[H1121|The descendants]] [[H6557|of Perez]] [[H3427|who settled]] [[H3389|in Jerusalem]] [[H3605|totaled]] [[H702|468]] [[H582|men]] [[H2428|of valor.]] ^1106
 
-Ahiah, Hanan, Anan, ^1026
+[[H428|From]] [[H1121|the descendants]] [[H1144|of Benjamin:]] [[H5543|Sallu]] [[H1121|son]] [[H4918|of Meshullam,]] [[H1121|the son]] [[H3133|of Joed,]] [[H1121|the son]] [[H6305|of Pedaiah,]] [[H1121|the son]] [[H6964|of Kolaiah,]] [[H1121|the son]] [[H4641|of Maaseiah,]] [[H1121|the son]] [[H384|of Ithiel,]] [[H1121|the son]] [[H3470|of Jeshaiah,]] ^1107
 
-Malluch, Harim, Baanah. ^1027
+[[H310|and his followers]] [[H1373|Gabbai]] [[H5543|and Sallai—]] [[H8672|928 men.]] ^1108
 
-The rest of the people, the priests, the Levites, the gatekeepers, the singers, the temple servants, and all who have separated themselves from the peoples of the lands to the Law of God, their wives, their sons, their daughters, all who have knowledge and understanding, ^1028
+[[H3100|Joel]] [[H1121|son]] [[H2147|of Zichri]] [[H6496|was the officer]] [[H5921|over them,]] [[H3063|and Judah]] [[H1121|son]] [[H5574|of Hassenuah]] ⟨was⟩ [[H5921|over]] [[H5892|the city's]] [[H4932|second district.]] ^1109
 
-join with their brothers, their nobles, and enter into a curse and an oath to walk in God’s Law that was given by Moses the servant of God, and to observe and do all the commandments of the Lord our Lord and his rules and his statutes. ^1029
+[[H4480|From]] [[H3548|the priests:]] [[H3048|Jedaiah]] [[H1121|son]] [[H3114|of Joiarib,]] [[H3199|Jachin,]] ^1110
 
-We will not give our daughters to the peoples of the land or take their daughters for our sons. ^1030
+[[H8304|Seraiah]] [[H1121|son]] [[H2518|of Hilkiah,]] [[H1121|the son]] [[H4918|of Meshullam,]] [[H1121|the son]] [[H6659|of Zadok,]] [[H1121|the son]] [[H4812|of Meraioth,]] [[H1121|the son]] [[H285|of Ahitub,]] [[H5057|the chief official]] [[H1004|of the house]] [[H430|of God,]] ^1111
 
-And if the peoples of the land bring in goods or any grain on the Sabbath day to sell, we will not buy from them on the Sabbath or on a holy day. And we will forego the crops of the seventh year and the exaction of every debt. ^1031
+[[H251|and their associates]] [[H6213|who did]] [[H4399|the work]] [[H1004|at the temple—]] [[H8083|822 men;]] [[H5718|Adaiah]] [[H1121|son]] [[H3395|of Jeroham,]] [[H1121|the son]] [[H6421|of Pelaliah,]] [[H1121|the son]] [[H557|of Amzi,]] [[H1121|the son]] [[H2148|of Zechariah,]] [[H1121|the son]] [[H6583|of Pashhur,]] [[H1121|the son]] [[H4441|of Malchijah]] ^1112
 
-We also take on ourselves the obligation to give yearly a third part of a shekel for the service of the house of our God : ^1032
+[[H251|and his associates,]] [[H7218|the leaders]] [[H1|of families—]] [[H3967|242 men;]] [[H6023|and Amashai]] [[H1121|son]] [[H5832|of Azarel,]] [[H1121|the son]] [[H273|of Ahzai,]] [[H1121|the son]] [[H4919|of Meshillemoth,]] [[H1121|the son]] [[H564|of Immer,]] ^1113
 
-for the showbread, the regular grain offering, the regular burnt offering, the Sabbaths, the new moons, the appointed feasts, the holy things, and the sin offerings to make atonement for Israel, and for all the work of the house of our God. ^1033
+[[H251|and his associates—]] [[H3967|128]] [[H1368|mighty warriors.]] [[H2068|Zabdiel]] [[H1121|son of Haggedolim]] [[H6496|was their overseer.]] ^1114
 
-We, the priests, the Levites, and the people, have likewise cast lots for the wood offering, to bring it into the house of our God, according to our fathers ’ houses, at times appointed, year by year, to burn on the altar of the Lord our God, as it is written in the Law. ^1034
+[[H4480|From]] [[H3881|the Levites:]] [[H8098|Shemaiah]] [[H1121|son]] [[H2815|of Hasshub,]] [[H1121|the son]] [[H5840|of Azrikam,]] [[H1121|the son]] [[H2811|of Hashabiah,]] [[H1121|the son]] [[H1138|of Bunni;]] ^1115
 
-We obligate ourselves to bring the firstfruits of our ground and the firstfruits of all fruit of every tree, year by year, to the house of the Lord; ^1035
+[[H7678|Shabbethai]] [[H3107|and Jozabad,]] [[H7218|two leaders]] [[H3881|of the Levites,]] [[H5921|who supervised]] [[H4399|the work]] [[H2435|outside]] [[H1004|the house]] [[H430|of God;]] ^1116
 
-also to bring to the house of our God, to the priests who minister in the house of our God, the firstborn of our sons and of our cattle, as it is written in the Law, and the firstborn of our herds and of our flocks; ^1036
+[[H4983|Mattaniah]] [[H1121|son]] [[H4318|of Mica,]] [[H1121|the son]] [[H2067|of Zabdi,]] [[H1121|the son]] [[H623|of Asaph,]] [[H7218|who led]] [[H3034|in thanksgiving]] [[H8605|and prayer;]] [[H1229|Bakbukiah,]] [[H4932|second]] [[H251|among his associates;]] [[H5653|and Abda]] [[H1121|son]] [[H8051|of Shammua,]] [[H1121|the son]] [[H1559|of Galal,]] [[H1121|the son]] [[H3038|of Jeduthun.]] ^1117
 
-and to bring the first of our dough, and our contributions, the fruit of every tree, the wine and the oil, to the priests, to the chambers of the house of our God; and to bring to the Levites the tithes from our ground, for it is the Levites who collect the tithes in all our towns where we labor. ^1037
+[[H3881|The Levites]] [[H6944|in the holy]] [[H5892|city]] [[H3605|totaled]] [[H3967|284]] ^1118
 
-And the priest, the son of Aaron, shall be with the Levites when the Levites receive the tithes. And the Levites shall bring up the tithe of the tithes to the house of our God, to the chambers of the storehouse. ^1038
+[[H7778|And the gatekeepers:]] [[H6126|Akkub,]] [[H2929|Talmon,]] [[H251|and their associates,]] [[H8104|who kept watch]] [[H8179|at the gates—]] [[H3967|172 men.]] ^1119
 
-For the people of Israel and the sons of Levi shall bring the contribution of grain, wine, and oil to the chambers, where the vessels of the sanctuary are, as well as the priests who minister, and the gatekeepers and the singers. We will not neglect the house of our God. ^1039
+[[H7605|The rest]] [[H3478|of the Israelites,]] [[H3548|with the priests]] [[H3881|and Levites,]] ⟨were⟩ [[H3605|in all]] [[H5892|the villages]] [[H3063|of Judah,]] [[H376|each]] [[H5159|on his own inheritance.]] ^1120
 
+[[H5411|The temple servants]] [[H3427|lived]] [[H6077|on the hill of Ophel,]] [[H6727|with Ziha]] [[H1658|and Gishpa]] [[H5921|over]] ⟨them⟩ [[H5411|.]] ^1121
 
+[[H6496|Now the overseer]] [[H3881|of the Levites]] [[H3389|in Jerusalem]] [[H5813|was Uzzi]] [[H1121|son]] [[H1137|of Bani,]] [[H1121|the son]] [[H2811|of Hashabiah,]] [[H1121|the son]] [[H4983|of Mattaniah,]] [[H1121|the son]] [[H4316|of Mica.]] ⟨He was⟩ [[H623|one of Asaph's]] [[H1121|descendants,]] [[H7891|who were the singers]] [[H5048|in charge]] [[H4399|of the service]] [[H1004|of the house]] [[H430|of God.]] ^1122
 
-Now the leaders of the people lived in Jerusalem. And the rest of the people cast lots to bring one out of ten to live in Jerusalem the holy city, while nine out of ten remained in the other towns. ^1101
+[[H3588|For]] ⟨there was⟩ [[H4687|a command]] [[H4428|from the king]] [[H5921|concerning]] ⟨the singers⟩, [[H548|an ordinance]] [[H5921|regulating]] ⟨their⟩ [[H7891|]] [[H3117|daily]] [[H1697|activities.]] ^1123
 
-And the people blessed all the men who willingly offered to live in Jerusalem. ^1102
+[[H6611|Pethahiah]] [[H1121|son]] [[H4898|of Meshezabel,]] [[H1121|a descendant]] [[H2226|of Zerah]] [[H1121|son]] [[H3063|of Judah,]] [[H4428|was the king’s]] [[H3027|agent]] [[H3605|in every]] [[H1697|matter]] [[H5971|concerning the people.]] ^1124
 
-These are the chiefs of the province who lived in Jerusalem; but in the towns of Judah everyone lived on his property in their towns : Israel, the priests, the Levites, the temple servants, and the descendants of Solomon’s servants. ^1103
+[[H413|As for]] [[H2691|the villages]] [[H7704|with their fields,]] [[H1121|some of the people]] [[H3063|of Judah]] [[H3427|lived]] [[H7153|in Kiriath-arba,]] [[H1769|Dibon,]] [[H3343|and Jekabzeel,]] [[H2691|and their villages;]] ^1125
 
-And in Jerusalem lived certain of the sons of Judah and of the sons of Benjamin. Of the sons of Judah : Athaiah the son of Uzziah, son of Zechariah, son of Amariah, son of Shephatiah, son of Mahalalel, of the sons of Perez; ^1104
+[[H3442|in Jeshua,]] [[H4137|Moladah,]] [[H1046|and  Beth-pelet;]] ^1126
 
-and Maaseiah the son of Baruch, son of Col-hozeh, son of Hazaiah, son of Adaiah, son of Joiarib, son of Zechariah, son of the Shilonite. ^1105
+[[H2705|in Hazar-shual,]] [[H884|in Beersheba]] [[H1323|and its villages;]] ^1127
 
-All the sons of Perez who lived in Jerusalem were 468 valiant men. ^1106
+[[H6860|in Ziklag,]] [[H4368|in Meconah]] [[H1323|and its villages;]] ^1128
 
-And these are the sons of Benjamin : Sallu the son of Meshullam, son of Joed, son of Pedaiah, son of Kolaiah, son of Maaseiah, son of Ithiel, son of Jeshaiah, ^1107
+[[H5884|in En-rimmon,]] [[H6881|Zorah,]] [[H3412|Jarmuth,]] ^1129
 
-and his brothers, men of valor, 928. ^1108
+[[H2182|Zanoah,]] [[H5725|and Adullam,]] [[H2691|with their villages;]] [[H3923|in Lachish]] [[H7704|with its fields]] [[H5825|and Azekah]] [[H1323|and its villages.]] [[H2583|So they settled]] [[H884|from  Beersheba]] [[H5704|all the way to]] [[H1516|the Valley]] [[H2011|of Hinnom.]] ^1130
 
-Joel the son of Zichri was their overseer; and Judah the son of Hassenuah was second over the city. ^1109
+[[H1121|The descendants]] [[H1144|of Benjamin]] [[H1387|from Geba]] ⟨lived⟩ [[H4363|in Michmash,]] [[H5857|Aija,]] [[H1008|and Bethel]] [[H1323|and its villages,]] ^1131
 
-Of the priests : Jedaiah the son of Joiarib, Jachin, ^1110
+[[H6068|Anathoth,]] [[H5011|Nob,]] [[H6055|Ananiah,]] ^1132
 
-Seraiah the son of Hilkiah, son of Meshullam, son of Zadok, son of Meraioth, son of Ahitub, ruler of the house of God, ^1111
+[[H2674|Hazor,]] [[H7414|Ramah,]] [[H1664|Gittaim,]] ^1133
 
-and their brothers who did the work of the house, 822; and Adaiah the son of Jeroham, son of Pelaliah, son of Amzi, son of Zechariah, son of Pashhur, son of Malchijah, ^1112
+[[H2307|Hadid,]] [[H6650|Zeboim,]] [[H5041|Neballat,]] ^1134
 
-and his brothers, heads of fathers ’ houses, 242; and Amashsai, the son of Azarel, son of Ahzai, son of Meshillemoth, son of Immer, ^1113
+[[H3850|Lod,]] [[H207|Ono,]] [[H1516|and in the Valley]] [[H2791|of the Craftsmen.]] ^1135
 
-and their brothers, mighty men of valor, 128; their overseer was Zabdiel the son of Haggedolim. ^1114
+[[H4480|And some]] [[H4256|divisions]] [[H3881|of the Levites]] [[H3063|of Judah]] [[H1144|settled in Benjamin.]] ^1136
 
-And of the Levites : Shemaiah the son of Hasshub, son of Azrikam, son of Hashabiah, son of Bunni; ^1115
+[[H428|Now these]] [[H3548|are the priests]] [[H3881|and Levites]] [[H834|who]] [[H5927|went up]] [[H5973|with]] [[H2216|Zerubbabel]] [[H1121|son]] [[H7597|of Shealtiel]] [[H3442|and with Jeshua:]] [[H8304|Seraiah,]] [[H3414|Jeremiah,]] [[H5830|Ezra,]] ^1201
 
-and Shabbethai and Jozabad, of the chiefs of the Levites, who were over the outside work of the house of God; ^1116
+[[H568|Amariah,]] [[H4409|Malluch,]] [[H2407|Hattush,]] ^1202
 
-and Mattaniah the son of Mica, son of Zabdi, son of Asaph, who was the leader of the praise, who gave thanks, and Bakbukiah, the second among his brothers; and Abda the son of Shammua, son of Galal, son of Jeduthun. ^1117
+[[H7935|Shecaniah,]] [[H7348|Rehum,]] [[H4822|Meremoth,]] ^1203
 
-All the Levites in the holy city were 284. ^1118
+[[H5714|Iddo,]] [[H1599|Ginnethon,]] [[H29|Abijah,]] ^1204
 
-The gatekeepers, Akkub, Talmon and their brothers, who kept watch at the gates, were 172. ^1119
+[[H4326|Mijamin,]] [[H4573|Maadiah,]] [[H1083|Bilgah,]] ^1205
 
-And the rest of Israel, and of the priests and the Levites, were in all the towns of Judah, every one in his inheritance. ^1120
+[[H8098|Shemaiah,]] [[H3114|Joiarib,]] [[H3048|Jedaiah,]] ^1206
 
-But the temple servants lived on Ophel; and Ziha and Gishpa were over the temple servants. ^1121
+[[H5543|Sallu,]] [[H5987|Amok,]] [[H2518|Hilkiah,]] ⟨and⟩ [[H3048|Jedaiah.]] [[H428|These]] [[H7218|were the leaders]] [[H3548|of the priests]] [[H251|and their associates]] [[H3117|in the days]] [[H3442|of Jeshua.]] ^1207
 
-The overseer of the Levites in Jerusalem was Uzzi the son of Bani, son of Hashabiah, son of Mattaniah, son of Mica, of the sons of Asaph, the singers, over the work of the house of God. ^1122
+[[H3881|The Levites]] ⟨were⟩ [[H3442|Jeshua,]] [[H1131|Binnui,]] [[H6934|Kadmiel,]] [[H8274|Sherebiah,]] [[H3063|Judah,]] [[H4983|and Mattaniah,]] [[H1931|who,]] [[H251|with his associates,]] [[H5921|led]] [[H1960|the songs of thanksgiving.]] ^1208
 
-For there was a command from the king concerning them, and a fixed provision for the singers, as every day required. ^1123
+[[H1229|Bakbukiah]] [[H6042|and Unni,]] [[H251|their associates,]] ⟨stood⟩ [[H5048|across from them]] [[H4931|in the services.]] ^1209
 
-And Pethahiah the son of Meshezabel, of the sons of Zerah the son of Judah, was at the king’s side in all matters concerning the people. ^1124
+[[H3442|Jeshua]] [[H3205|was the father of]] [[H3113|Joiakim,]] [[H3113|Joiakim]] [[H3205|was the father of]] [[H475|Eliashib,]] [[H475|Eliashib]] [[H3111|was the father of Joiada,]] ^1210
 
-And as for the villages, with their fields, some of the people of Judah lived in Kiriath-arba and its villages, and in Dibon and its villages, and in Jekabzeel and its villages, ^1125
+[[H3111|Joiada]] [[H3205|was the father of]] [[H3129|Jonathan,]] [[H3129|and Jonathan]] [[H3205|was the father of]] [[H3037|Jaddua.]] ^1211
 
-and in Jeshua and in Moladah and Beth-pelet, ^1126
+[[H3117|In the days]] [[H3113|of Joiakim,]] [[H1961|these were]] [[H7218|the heads]] [[H3548|of the priestly]] [[H1|families:]] [[H8304|of Seraiah,]] ⟨the family of⟩ [[H4811|Meraiah;]] [[H3414|of Jeremiah,]] [[H2608|Hananiah;]] ^1212
 
-in Hazar-shual, in Beersheba and its villages, ^1127
+[[H5830|of Ezra,]] [[H4918|Meshullam;]] [[H568|of Amariah,]] [[H3076|Jehohanan;]] ^1213
 
-in Ziklag, in Meconah and its villages, ^1128
+[[H4409|of Melichu,]] [[H3129|Jonathan;]] [[H7645|of Shebaniah,]] [[H3130|Joseph;]] ^1214
 
-in En-rimmon, in Zorah, in Jarmuth, ^1129
+[[H2766|of Harim,]] [[H5733|Adna;]] [[H4812|of Meraioth,]] [[H2517|Helkai;]] ^1215
 
-Zanoah, Adullam, and their villages, Lachish and its fields, and Azekah and its villages. So they encamped from Beersheba to the Valley of Hinnom. ^1130
+[[H5714|of Iddo,]] [[H2148|Zechariah;]] [[H1599|of Ginnethon,]] [[H4918|Meshullam;]] ^1216
 
-The people of Benjamin also lived from Geba onward, at Michmash, Aija, Bethel and its villages, ^1131
+[[H29|of Abijah,]] [[H2147|Zichri;]] [[H4509|of Minjamin]] [[H4153|and of Moadiah,]] [[H6408|Piltai;]] ^1217
 
-Anathoth, Nob, Ananiah, ^1132
+[[H1083|of Bilgah,]] [[H8051|Shammua;]] [[H8098|of Shemaiah,]] [[H3083|Jonathan;]] ^1218
 
-Hazor, Ramah, Gittaim, ^1133
+[[H3114|of Joiarib,]] [[H4982|Mattenai;]] [[H3048|of Jedaiah,]] [[H5813|Uzzi;]] ^1219
 
-Hadid, Zeboim, Neballat, ^1134
+[[H5543|of Sallu,]] [[H7040|Kallai;]] [[H5987|of Amok,]] [[H5677|Eber;]] ^1220
 
-Lod, and Ono, the valley of craftsmen. ^1135
+[[H2518|of Hilkiah,]] [[H2811|Hashabiah;]] ⟨and⟩ [[H3048|of Jedaiah,]] [[H5417|Nethanel;]] ^1221
 
-And certain divisions of the Levites in Judah were assigned to Benjamin. ^1136
+[[H3117|In the days]] [[H475|of Eliashib,]] [[H3111|Joiada,]] [[H3110|Johanan,]] [[H3037|and Jaddua,]] [[H7218|the heads]] [[H1|of the families]] [[H3881|of the Levites]] [[H3548|and priests]] [[H3789|were recorded]] [[H5921|during]] [[H4438|the reign of]] [[H1867|Darius]] [[H6542|the Persian.]] ^1222
 
+[[H1121|As for the descendants]] [[H3878|of Levi,]] [[H1|the family]] [[H7218|heads]] [[H5704|up to]] [[H3117|the days]] [[H3110|of Johanan]] [[H1121|son]] [[H475|of Eliashib]] [[H3789|were recorded]] [[H5921|in]] [[H5612|the Book]] [[H1697|of the Chronicles.]] ^1223
 
+[[H7218|The leaders]] [[H3881|of the Levites]] ⟨were⟩ [[H2811|Hashabiah,]] [[H8274|Sherebiah,]] [[H3442|and Jeshua]] [[H1121|son]] [[H6934|of Kadmiel,]] [[H251|along with their associates,]] ⟨who stood⟩ [[H5048|across from them]] [[H1984|to give praise]] [[H3034|and thanksgiving]] [[H4929|as one section]] [[H5980|alternated with]] [[H4929|the other,]] [[H4687|as prescribed]] [[H1732|by David]] [[H376|the man]] [[H430|of God.]] ^1224
 
-These are the priests and the Levites who came up with Zerubbabel the son of Shealtiel, and Jeshua : Seraiah, Jeremiah, Ezra, ^1201
+[[H4983|Mattaniah,]] [[H1229|Bakbukiah,]] [[H5662|Obadiah,]] [[H4918|Meshullam,]] [[H2929|Talmon,]] ⟨and⟩ [[H6126|Akkub]] ⟨were⟩ [[H7778|gatekeepers]] [[H8104|who guarded]] [[H624|the storerooms]] [[H8179|at the gates.]] ^1225
 
-Amariah, Malluch, Hattush, ^1202
+[[H428|They]] ⟨served⟩ [[H3117|in the days]] [[H3113|of Joiakim]] [[H1121|son]] [[H3442|of Jeshua,]] [[H1121|the son]] [[H3136|of Jozadak,]] [[H3117|and in the days]] [[H5166|of Nehemiah]] [[H6346|the governor]] [[H5830|and Ezra]] [[H3548|the priest]] [[H5608|and scribe.]] ^1226
 
-Shecaniah, Rehum, Meremoth, ^1203
+[[H2598|At the dedication]] [[H2346|of the wall]] [[H3389|of Jerusalem,]] [[H3881|the Levites]] [[H1245|were sought out]] [[H3605|from all]] [[H4725|their homes]] [[H935|and brought]] [[H3389|to Jerusalem]] [[H6213|to celebrate]] [[H8057|the joyous]] [[H2598|dedication]] [[H8426|with thanksgiving]] [[H7892|and singing,]] [[H4700|accompanied by cymbals,]] [[H5035|harps,]] [[H3658|and lyres.]] ^1227
 
-Iddo, Ginnethoi, Abijah, ^1204
+[[H7891|The singers were also]] [[H622|assembled]] [[H4480|from]] [[H3603|the region]] [[H5439|around]] [[H3389|Jerusalem,]] [[H4480|from]] [[H2691|the villages]] [[H5200|of the Netophathites,]] ^1228
 
-Mijamin, Maadiah, Bilgah, ^1205
+[[H1004|from Beth-gilgal,]] [[H7704|and from the fields]] [[H1387|of Geba]] [[H5820|and Azmaveth,]] [[H3588|for]] ⟨they⟩ [[H7891|]] [[H1129|had built]] [[H2691|villages]] [[H1992|for themselves]] [[H5439|all around]] [[H3389|Jerusalem.]] ^1229
 
-Shemaiah, Joiarib, Jedaiah, ^1206
+[[H3548|After the priests]] [[H3881|and Levites]] [[H2891|had purified themselves,]] [[H2891|they purified]] [[H5971|the people,]] [[H8179|the gates,]] [[H2346|and the wall.]] ^1230
 
-Sallu, Amok, Hilkiah, Jedaiah. These were the chiefs of the priests and of their brothers in the days of Jeshua. ^1207
+[[H8269|Then I brought the leaders]] [[H3063|of Judah]] [[H5927|up]] [[H2346|on the wall,]] [[H5975|and I appointed]] [[H8147|two]] [[H1419|great]] [[H8426|thanksgiving]] ⟨choirs⟩. [[H8418|One was to proceed]] [[H5921|along]] [[H2346|the top of the wall]] [[H3225|to the right,]] [[H830|toward the Dung]] [[H8179|Gate.]] ^1231
 
-And the Levites : Jeshua, Binnui, Kadmiel, Sherebiah, Judah, and Mattaniah, who with his brothers was in charge of the songs of thanksgiving. ^1208
+[[H1955|Hoshaiah]] [[H2677|and half]] [[H8269|the leaders]] [[H3063|of Judah]] [[H1980|followed,]] ^1232
 
-And Bakbukiah and Unni and their brothers stood opposite them in the service. ^1209
+[[H5838|along with Azariah,]] [[H5830|Ezra,]] [[H4918|Meshullam,]] ^1233
 
-And Jeshua was the father of Joiakim, Joiakim the father of Eliashib, Eliashib the father of Joiada, ^1210
+[[H3063|Judah,]] [[H1144|Benjamin,]] [[H8098|Shemaiah,]] [[H3414|Jeremiah,]] ^1234
 
-Joiada the father of Jonathan, and Jonathan the father of Jaddua. ^1211
+[[H3548|and some of the priests]] [[H2689|with trumpets,]] [[H2148|and also Zechariah]] [[H1121|son]] [[H3129|of Jonathan,]] [[H1121|the son]] [[H8098|of Shemaiah,]] [[H1121|the son]] [[H4983|of Mattaniah,]] [[H1121|the son]] [[H4320|of Micaiah,]] [[H1121|the son]] [[H2139|of Zaccur,]] [[H1121|the son]] [[H623|of Asaph,]] ^1235
 
-And in the days of Joiakim were priests, heads of fathers ’ houses: of Seraiah, Meraiah; of Jeremiah, Hananiah; ^1212
+[[H251|and his associates—]] [[H8098|Shemaiah,]] [[H5832|Azarel,]] [[H4450|Milalai,]] [[H1562|Gilalai,]] [[H4597|Maai,]] [[H5417|Nethanel,]] [[H3063|Judah,]] [[H2607|and Hanani—]] [[H7892|with the musical]] [[H3627|instruments]] ⟨prescribed by⟩ [[H1732|David]] [[H376|the man]] [[H430|of God.]] [[H5830|Ezra]] [[H5608|the scribe]] [[H6440|led the procession.]] ^1236
 
-of Ezra, Meshullam; of Amariah, Jehohanan; ^1213
+[[H5921|At]] [[H5869|the Fountain]] [[H8179|Gate]] [[H5927|they climbed]] [[H4609|the steps]] [[H5892|of the City]] [[H1732|of David]] [[H4608|on the ascent]] [[H2346|to the wall]] [[H5921|and passed above]] [[H1004|the house]] [[H1732|of David]] [[H5704|to]] [[H4325|the Water]] [[H8179|Gate]] [[H4217|on the east.]] ^1237
 
-of Malluchi, Jonathan; of Shebaniah, Joseph; ^1214
+[[H8145|The second]] [[H8426|thanksgiving]] ⟨choir⟩ [[H1980|proceeded]] [[H4136|to the left,]] [[H589|and I]] [[H310|followed]] [[H2677|it with half]] [[H5971|the people]] [[H5921|along the top]] [[H2346|of the wall,]] [[H5921|past]] [[H4026|the Tower]] [[H8574|of the Ovens]] [[H5704|to]] [[H7342|the Broad]] [[H2346|Wall,]] ^1238
 
-of Harim, Adna; of Meraioth, Helkai; ^1215
+[[H5921|over]] [[H8179|the Gate]] [[H669|of Ephraim,]] [[H3466|the Jeshanah Gate,]] [[H1709|the Fish]] [[H8179|Gate,]] [[H4026|the Tower]] [[H2606|of Hananel,]] [[H4026|and the Tower]] [[H3968|of the Hundred,]] [[H5704|as far]] [[H6629|as the Sheep]] [[H8179|Gate.]] [[H5975|And they stopped]] [[H8179|at the Gate]] [[H4307|of the Guard.]] ^1239
 
-of Iddo, Zechariah; of Ginnethon, Meshullam; ^1216
+[[H8147|The two]] [[H8426|thanksgiving]] ⟨choirs⟩ [[H5975|then stood]] [[H1004|in the house]] [[H430|of God,]] [[H589|as did I,]] [[H2677|along with the half]] [[H5461|of the officials]] [[H5973|accompanying me,]] ^1240
 
-of Abijah, Zichri; of Miniamin, of Moadiah, Piltai; ^1217
+[[H3548|as well as the priests]] [[H2689|with their trumpets—]] [[H471|Eliakim,]] [[H4641|Maaseiah,]] [[H4509|Miniamin,]] [[H4320|Micaiah,]] [[H454|Elioenai,]] [[H2148|Zechariah,]] [[H2608|and Hananiah—]] ^1241
 
-of Bilgah, Shammua; of Shemaiah, Jehonathan; ^1218
+[[H4641|and also Maaseiah,]] [[H8098|Shemaiah,]] [[H499|Eleazar,]] [[H5813|Uzzi,]] [[H3076|Jehohanan,]] [[H4441|Malchijah,]] [[H5867|Elam,]] [[H5829|and Ezer.]] [[H7891|Then the choirs]] [[H8085|sang out]] [[H6496|under the direction]] [[H3156|of Jezrahiah.]] ^1242
 
-of Joiarib, Mattenai; of Jedaiah, Uzzi; ^1219
+[[H1931|On that]] [[H3117|day]] [[H2076|they offered]] [[H1419|great]] [[H2077|sacrifices,]] [[H8055|rejoicing]] [[H3588|because]] [[H430|God]] [[H1419|had given them great]] [[H8055|joy.]] [[H802|The women]] [[H3206|and children]] [[H1571|also]] [[H8055|rejoiced,]] [[H8057|so that the joy]] [[H3389|of Jerusalem]] [[H8085|was heard]] [[H7350|from afar.]] ^1243
 
-of Sallai, Kallai; of Amok, Eber; ^1220
+[[H1931|And on that same]] [[H3117|day]] [[H376|men]] [[H6485|were appointed]] [[H5921|over]] [[H5393|the rooms]] [[H214|that housed the supplies,]] [[H8641|contributions,]] [[H7225|firstfruits,]] [[H4643|and tithes.]] [[H4521|The portions by]] ⟨specified⟩ [[H8451|the Law]] [[H3548|for the priests]] [[H3881|and Levites]] [[H3664|were gathered]] [[H7704|into from the fields]] ⟨these storerooms⟩ [[H5892|of the villages,]] [[H3588|because]] [[H3063|Judah]] [[H8057|rejoiced]] [[H5921|over]] [[H3548|the priests]] [[H3881|and Levites]] [[H5975|who were serving.]] ^1244
 
-of Hilkiah, Hashabiah; of Jedaiah, Nethanel. ^1221
+[[H8104|They performed]] [[H4931|the service]] [[H430|of their God]] [[H4931|and the service]] [[H2893|of purification,]] [[H7891|along with the singers]] [[H7778|and gatekeepers,]] [[H1732|as David]] [[H1121|and his son]] [[H8010|Solomon]] [[H4687|had prescribed.]] ^1245
 
-In the days of Eliashib, Joiada, Johanan, and Jaddua, the Levites were recorded as heads of fathers ’ houses; so too were the priests in the reign of Darius the Persian. ^1222
+[[H3588|For]] [[H6924|long ago,]] [[H3117|in the days]] [[H1732|of David]] [[H623|and Asaph,]] [[H7218|there were directors]] [[H7891|for the singers]] [[H7892|and for the songs]] [[H8416|of praise]] [[H3034|and thanksgiving]] [[H430|to God.]] ^1246
 
-As for the sons of Levi, their heads of fathers ’ houses were written in the Book of the Chronicles until the days of Johanan the son of Eliashib. ^1223
+[[H3117|So in the days]] [[H2216|of Zerubbabel]] [[H5166|and Nehemiah,]] [[H3605|all]] [[H3478|Israel]] [[H5414|contributed]] [[H4521|the daily portions]] [[H7891|for the singers]] [[H7778|and gatekeepers.]] [[H6942|They also set aside]] [[H3117|daily]] [[H1697|portions]] [[H3881|for the Levites,]] [[H3881|and the Levites]] [[H6942|set aside]] [[H1121|daily portions for the descendants]] [[H175|of Aaron.]] ^1247
 
-And the chiefs of the Levites : Hashabiah, Sherebiah, and Jeshua the son of Kadmiel, with their brothers who stood opposite them, to praise and to give thanks, according to the commandment of David the man of God, watch by watch. ^1224
+[[H1931|At that]] [[H3117|time]] [[H5612|the Book]] [[H4872|of Moses]] [[H7121|was read aloud]] [[H241|in the hearing]] [[H5971|of the people,]] [[H4672|and in it  they found]] [[H3789|the passage stating]] [[H834|that]] [[H3808|no]] [[H5984|Ammonite]] [[H4125|or Moabite]] [[H5704|should ever]] [[H935|enter]] [[H6951|the assembly]] [[H430|of God,]] ^1301
 
-Mattaniah, Bakbukiah, Obadiah, Meshullam, Talmon, and Akkub were gatekeepers standing guard at the storehouses of the gates. ^1225
+[[H3588|because]] [[H3808|they had not]] [[H6923|met]] [[H1121|the Israelites]] [[H3899|with food]] [[H4325|and water,]] [[H7936|but had hired]] [[H1109|Balaam]] [[H7043|to call down a curse]] [[H5921|against them]] [[H430|(although our God]] [[H2015|had turned]] [[H7045|the curse]] [[H1293|into a blessing).]] ^1302
 
-These were in the days of Joiakim the son of Jeshua son of Jozadak, and in the days of Nehemiah the governor and of Ezra, the priest and scribe. ^1226
+[[H1961|As soon as]] ⟨the people⟩ [[H8085|heard]] [[H8451|this law,]] [[H914|they excluded]] [[H3478|from Israel]] [[H3605|all]] [[H6154|of foreign descent.]] ^1303
 
-And at the dedication of the wall of Jerusalem they sought the Levites in all their places, to bring them to Jerusalem to celebrate the dedication with gladness, with thanksgivings and with singing, with cymbals, harps, and lyres. ^1227
+[[H6440|Now before]] [[H2088|this,]] [[H475|Eliashib]] [[H3548|the priest,]] [[H7138|a relative]] [[H2900|of Tobiah,]] [[H5414|had been put in charge of]] [[H3957|the storerooms]] [[H1004|of the house]] [[H430|of our God]] ^1304
 
-And the sons of the singers gathered together from the district surrounding Jerusalem and from the villages of the Netophathites; ^1228
+[[H6213|and had prepared]] [[H1419|for a large]] ⟨Tobiah⟩ [[H3957|room]] [[H8033|where]] [[H6440|they had previously]] [[H5414|stored]] [[H4503|the grain offerings,]] [[H3828|the incense,]] [[H3627|the articles,]] ⟨temple⟩ [[H4643|and the tithes]] [[H1715|of grain,]] [[H8492|new wine,]] [[H3323|and oil]] [[H4687|prescribed]] [[H3881|for the Levites,]] [[H7891|singers,]] [[H7778|and gatekeepers,]] [[H8641|along with the contributions]] [[H3548|for the priests.]] ^1305
 
-also from Beth-gilgal and from the region of Geba and Azmaveth, for the singers had built for themselves villages around Jerusalem. ^1229
+[[H3605|While all]] [[H2088|this]] [[H1961|was happening,]] [[H3808|I was not]] [[H3389|in Jerusalem,]] [[H3588|because]] [[H935|I had returned]] [[H413|to]] [[H4428|King]] [[H783|Artaxerxes]] [[H894|of Babylon]] [[H7970|in the thirty-second]] [[H8141|year]] [[H4428|of his reign.]] [[H7093|Some time later]] [[H7592|I obtained leave]] [[H4480|from]] [[H4428|the king]] ^1306
 
-And the priests and the Levites purified themselves, and they purified the people and the gates and the wall. ^1230
+[[H935|to return]] [[H3389|to Jerusalem.]] [[H995|Then I discovered]] [[H7451|the evil]] [[H834|that]] [[H475|Eliashib]] [[H6213|had done]] [[H2900|on behalf of Tobiah]] [[H6213|by providing]] [[H5393|him a room]] [[H2691|in the courts]] [[H1004|of the house]] [[H430|of God.]] ^1307
 
-Then I brought the leaders of Judah up onto the wall and appointed two great choirs that gave thanks. One went to the south on the wall to the Dung Gate. ^1231
+[[H3966|And I was greatly]] [[H7489|displeased]] [[H7993|and threw]] [[H3605|all]] [[H2900|of Tobiah’s]] [[H1004|household]] [[H3627|goods]] [[H2351|out]] [[H4480|of]] [[H3957|the room.]] ^1308
 
-And after them went Hoshaiah and half of the leaders of Judah, ^1232
+[[H559|Then I ordered]] [[H3957|that the rooms]] [[H2891|be purified,]] [[H3627|and I had the articles]] [[H1004|of the house]] [[H430|of God]] [[H7725|restored]] [[H8033|to them,]] [[H4503|along with the grain offerings]] [[H3828|and incense.]] ^1309
 
-and Azariah, Ezra, Meshullam, ^1233
+[[H3045|I also learned]] [[H3588|that]] [[H4521|because the portions]] [[H3881|for the Levites]] [[H3808|had not]] [[H5414|been given them,]] [[H376|all]] [[H3881|the Levites]] [[H7891|and singers]] [[H6213|responsible for performing]] [[H4399|the service]] [[H1272|had gone back]] [[H7704|to their own fields.]] ^1310
 
-Judah, Benjamin, Shemaiah, and Jeremiah, ^1234
+[[H7378|So I rebuked]] [[H5461|the officials]] [[H559|and asked,]] [[H4069|“Why]] [[H1004|has the house]] [[H430|of God]] [[H5800|been neglected?”]] [[H6908|Then I gathered the Levites and singers together]] [[H5975|and stationed]] [[H5921|them at]] [[H5977|their posts,]] ^1311
 
-and certain of the priests ’ sons with trumpets : Zechariah the son of Jonathan, son of Shemaiah, son of Mattaniah, son of Micaiah, son of Zaccur, son of Asaph; ^1235
+[[H3605|and all]] [[H3063|Judah]] [[H935|brought]] [[H4643|a tenth]] [[H1715|of the grain,]] [[H8492|new wine,]] [[H3323|and oil]] [[H214|into the storerooms.]] ^1312
 
-and his relatives, Shemaiah, Azarel, Milalai, Gilalai, Maai, Nethanel, Judah, and Hanani, with the musical instruments of David the man of God. And Ezra the scribe went before them. ^1236
+[[H686|I appointed as treasurers]] [[H5921|over]] [[H214|the storerooms]] [[H8018|Shelemiah]] [[H3548|the priest,]] [[H6659|Zadok]] [[H5608|the scribe,]] [[H6305|and Pedaiah]] [[H4480|of]] [[H3881|the Levites,]] [[H2605|with Hanan]] [[H1121|son]] [[H2139|of Zaccur,]] [[H1121|the son]] [[H4983|of Mattaniah,]] [[H5921|to assist]] [[H3027|them,]] [[H3588|because]] [[H2803|they were considered]] [[H539|trustworthy.]] [[H5921|They were responsible for]] [[H2505|distributing the supplies]] [[H251|to their fellow]] ⟨Levites⟩. ^1313
 
-At the Fountain Gate they went up straight before them by the stairs of the city of David, at the ascent of the wall, above the house of David, to the Water Gate on the east. ^1237
+[[H2142|Remember]] [[H5921|me for]] [[H2063|this,]] [[H430|O my God,]] [[H408|and do not]] [[H4229|blot out]] [[H2617|my deeds of loving devotion]] [[H1004|for the house]] [[H430|of my God]] [[H4929|and for its services.]] ^1314
 
-The other choir of those who gave thanks went to the north, and I followed them with half of the people, on the wall, above the Tower of the Ovens, to the Broad Wall, ^1238
+[[H1992|In those]] [[H3117|days]] [[H7200|I saw]] [[H3063|people in Judah]] [[H1869|treading]] [[H1660|wine presses]] [[H7676|on the Sabbath]] [[H935|and bringing in]] [[H6194|grain]] [[H6006|and loading it]] [[H5921|on]] [[H2543|donkeys,]] [[H637|along with]] [[H3196|wine,]] [[H6025|grapes,]] [[H8384|and figs.]] [[H3605|All kinds]] [[H4853|of goods]] [[H935|were being brought]] [[H3389|into Jerusalem]] [[H7676|on the Sabbath]] [[H3117|day.]] [[H5749|So I warned them]] [[H4376|against selling]] [[H6718|food]] [[H3117|on that day.]] ^1315
 
-and above the Gate of Ephraim, and by the Gate of Yeshanah, and by the Fish Gate and the Tower of Hananel and the Tower of the Hundred, to the Sheep Gate; and they came to a halt at the Gate of the Guard. ^1239
+[[H6876|Additionally, Tyre]] ⟨men of⟩ [[H3427|who lived]] [[H935|there  were importing]] [[H1709|fish]] [[H3605|and all kinds]] [[H4377|of merchandise]] [[H4376|and selling them]] [[H7676|on the Sabbath]] [[H1121|to the people]] [[H3063|of Judah]] [[H3389|in Jerusalem.]] ^1316
 
-So both choirs of those who gave thanks stood in the house of God, and I and half of the officials with me; ^1240
+[[H7378|Then I rebuked]] [[H2715|the nobles]] [[H3063|of Judah]] [[H559|and asked,]] [[H4100|“What]] [[H2088|is this]] [[H7451|evil]] [[H859|you]] [[H6213|are doing—]] [[H2490|profaning]] [[H7676|the Sabbath]] [[H3117|day?]] ^1317
 
-and the priests Eliakim, Maaseiah, Miniamin, Micaiah, Elioenai, Zechariah, and Hananiah, with trumpets; ^1241
+[[H3808|Did not]] [[H1|your forefathers]] [[H6213|do]] [[H3541|the same things,]] [[H430|so that our God]] [[H935|brought]] [[H3605|all]] [[H2063|this]] [[H7451|disaster]] [[H5921|on us]] [[H5921|and on]] [[H2063|this]] [[H5892|city?]] [[H859|And now]] [[H935|you are rekindling]] [[H2740|His wrath]] [[H5921|against]] [[H3478|Israel]] [[H2490|by profaning]] [[H7676|the Sabbath!”]] ^1318
 
-and Maaseiah, Shemaiah, Eleazar, Uzzi, Jehohanan, Malchijah, Elam, and Ezer. And the singers sang with Jezrahiah as their leader. ^1242
+[[H834|When]] [[H6751|the evening shadows]] [[H8179|began to fall on the gates]] [[H3389|of Jerusalem,]] [[H6440|just before]] [[H7676|the Sabbath,]] [[H559|I ordered]] [[H1817|that the gates]] [[H5462|be shut]] [[H3808|and not]] [[H6605|opened]] [[H5704|until]] [[H310|after]] [[H7676|the Sabbath.]] [[H5975|I posted]] [[H5288|some of my servants]] [[H5921|at]] [[H8179|the gates,]] [[H3808|so that no]] [[H4853|goods]] [[H935|could enter]] [[H7676|on the Sabbath]] [[H3117|day.]] ^1319
 
-And they offered great sacrifices that day and rejoiced, for God had made them rejoice with great joy; the women and children also rejoiced. And the joy of Jerusalem was heard far away. ^1243
+[[H6471|Once]] [[H8147|or twice,]] [[H7402|the merchants]] [[H4376|and those who sell]] [[H3605|all kinds]] [[H4465|of goods]] [[H3885|camped]] [[H2351|outside]] [[H3389|Jerusalem,]] ^1320
 
-On that day men were appointed over the storerooms, the contributions, the firstfruits, and the tithes, to gather into them the portions required by the Law for the priests and for the Levites according to the fields of the towns, for Judah rejoiced over the priests and the Levites who ministered. ^1244
+[[H5749|but I warned them,]] [[H4069|“Why]] [[H859|are you]] [[H3885|camping]] [[H5048|in front of]] [[H2346|the wall?]] [[H518|If]] [[H8138|you do it again,]] [[H3027|I will lay hands]] [[H7971|on you.”]] [[H4480|From]] [[H1931|that]] [[H6256|time on,]] [[H3808|they did not]] [[H935|return]] [[H7676|on the Sabbath.]] ^1321
 
-And they performed the service of their God and the service of purification, as did the singers and the gatekeepers, according to the command of David and his son Solomon. ^1245
+[[H559|Then I instructed]] [[H3881|the Levites]] [[H2891|to purify themselves]] [[H8104|and guard]] [[H8179|the gates]] [[H7676|in order to keep the Sabbath]] [[H3117|day]] [[H6942|holy.]] [[H2142|Remember]] [[H2063|me for this]] [[H1571|as well,]] [[H430|O my God,]] [[H5921|and me]] ⟨show⟩ [[H2347|mercy]] [[H7230|according to Your abundant]] [[H2617|loving devotion.]] ^1322
 
-For long ago in the days of David and Asaph there were directors of the singers, and there were songs of praise and thanksgiving to God. ^1246
+[[H1992|In those]] [[H3117|days]] [[H1571|I also]] [[H7200|saw]] [[H3064|Jews]] [[H3427|who had married]] [[H802|women]] [[H796|from Ashdod,]] [[H5984|Ammon,]] [[H4125|and Moab.]] ^1323
 
-And all Israel in the days of Zerubbabel and in the days of Nehemiah gave the daily portions for the singers and the gatekeepers; and they set apart that which was for the Levites; and the Levites set apart that which was for the sons of Aaron. ^1247
+[[H2677|Half]] [[H1121|of their children]] [[H1696|spoke]] [[H797|the language of Ashdod]] [[H3956|or of]] [[H5971|the other peoples,]] [[H369|but could not]] [[H1696|speak]] [[H3066|Hebrew.]] ^1324
 
+[[H7378|I rebuked them]] [[H7043|and called down curses on them.]] [[H5221|I beat]] [[H1992|some of]] [[H376|these men]] [[H4803|and pulled out their hair.]] [[H7650|Then I made them take an oath]] [[H430|before God]] ⟨and said⟩: [[H518|“You must not]] [[H1323|give your daughters]] [[H5414|in marriage]] [[H1121|to their sons]] [[H5375|or take]] [[H1323|their daughters]] [[H1121|as wives for your sons]] ^1325
 
+[[H3808|Did not]] [[H4428|King]] [[H8010|Solomon]] [[H3478|of Israel]] [[H2398|sin]] [[H5921|in]] [[H428|matters like this?]] [[H1961|There was]] [[H3808|not]] [[H4428|a king]] [[H3644|like him]] [[H7227|among many]] [[H1471|nations.]] [[H1961|He was]] [[H157|loved]] [[H430|by his God,]] [[H430|and God]] [[H5414|made]] [[H4428|him king]] [[H5921|over]] [[H3605|all]] [[H3478|Israel,]] [[H1571|yet]] [[H5237|foreign]] [[H802|women]] [[H2398|drew him into sin.]] ^1326
 
-On that day they read from the Book of Moses in the hearing of the people. And in it was found written that no Ammonite or Moabite should ever enter the assembly of God, ^1301
+[[H8085|Why should we now hear]] [[H6213|that you too are doing]] [[H3605|all]] [[H2063|this]] [[H1419|terrible]] [[H7451|evil]] [[H4603|and acting unfaithfully]] [[H430|against our God]] [[H3427|by marrying]] [[H5237|foreign]] [[H802|women?”]] ^1327
 
-for they did not meet the people of Israel with bread and water, but hired Balaam against them to curse them—yet our God turned the curse into a blessing. ^1302
+[[H1121|Even one of the sons]] [[H3111|of Jehoiada]] [[H1121|son]] [[H475|of Eliashib]] [[H1419|the high]] [[H3548|priest]] [[H2860|had become a son-in-law]] [[H5571|to Sanballat]] [[H2772|the Horonite.]] [[H1272|Therefore I drove him away]] [[H5921|from me.]] ^1328
 
-As soon as the people heard the law, they separated from Israel all those of foreign descent. ^1303
+[[H2142|Remember]] [[H1992|them,]] [[H430|O my God,]] [[H5921|because]] [[H1352|they have defiled]] [[H3550|the priesthood]] [[H1285|and the covenant]] [[H3550|of the priesthood]] [[H3881|and of the Levites.]] ^1329
 
-Now before this, Eliashib the priest, who was appointed over the chambers of the house of our God, and who was related to Tobiah, ^1304
+[[H2891|Thus I purified]] ⟨the priests and Levites⟩ [[H3605|from everything]] [[H5236|foreign,]] [[H5975|and I assigned]] [[H4399|specific]] [[H4931|duties]] [[H376|to each]] [[H3548|of the priests]] [[H3881|and Levites.]] ^1330
 
-prepared for Tobiah a large chamber where they had previously put the grain offering, the frankincense, the vessels, and the tithes of grain, wine, and oil, which were given by commandment to the Levites, singers, and gatekeepers, and the contributions for the priests. ^1305
-
-While this was taking place, I was not in Jerusalem, for in the thirty-second year of Artaxerxes king of Babylon I went to the king. And after some time I asked leave of the king ^1306
-
-and came to Jerusalem, and I then discovered the evil that Eliashib had done for Tobiah, preparing for him a chamber in the courts of the house of God. ^1307
-
-And I was very angry, and I threw all the household furniture of Tobiah out of the chamber. ^1308
-
-Then I gave orders, and they cleansed the chambers, and I brought back there the vessels of the house of God, with the grain offering and the frankincense. ^1309
-
-I also found out that the portions of the Levites had not been given to them, so that the Levites and the singers, who did the work, had fled each to his field. ^1310
-
-So I confronted the officials and said, Why is the house of God forsaken? And I gathered them together and set them in their stations. ^1311
-
-Then all Judah brought the tithe of the grain, wine, and oil into the storehouses. ^1312
-
-And I appointed as treasurers over the storehouses Shelemiah the priest, Zadok the scribe, and Pedaiah of the Levites, and as their assistant Hanan the son of Zaccur, son of Mattaniah, for they were considered reliable, and their duty was to distribute to their brothers. ^1313
-
-Remember me, O my God, concerning this, and do not wipe out my good deeds that I have done for the house of my God and for his service. ^1314
-
-In those days I saw in Judah people treading winepresses on the Sabbath, and bringing in heaps of grain and loading them on donkeys, and also wine, grapes, figs, and all kinds of loads, which they brought into Jerusalem on the Sabbath day. And I warned them on the day when they sold food. ^1315
-
-Tyrians also, who lived in the city, brought in fish and all kinds of goods and sold them on the Sabbath to the people of Judah, in Jerusalem itself! ^1316
-
-Then I confronted the nobles of Judah and said to them, What is this evil thing that you are doing, profaning the Sabbath day? ^1317
-
-Did not your fathers act in this way, and did not our God bring all this disaster on us and on this city? Now you are bringing more wrath on Israel by profaning the Sabbath. ^1318
-
-As soon as it began to grow dark at the gates of Jerusalem before the Sabbath, I commanded that the doors should be shut and gave orders that they should not be opened until after the Sabbath. And I stationed some of my servants at the gates, that no load might be brought in on the Sabbath day. ^1319
-
-Then the merchants and sellers of all kinds of wares lodged outside Jerusalem once or twice. ^1320
-
-But I warned them and said to them, Why do you lodge outside the wall? If you do so again, I will lay hands on you. From that time on they did not come on the Sabbath. ^1321
-
-Then I commanded the Levites that they should purify themselves and come and guard the gates, to keep the Sabbath day holy. Remember this also in my favor, O my God, and spare me according to the greatness of your steadfast love. ^1322
-
-In those days also I saw the Jews who had married women of Ashdod, Ammon, and Moab. ^1323
-
-And half of their children spoke the language of Ashdod, and they could not speak the language of Judah, but only the language of each people. ^1324
-
-And I confronted them and cursed them and beat some of them and pulled out their hair. And I made them take an oath in the name of God, saying, You shall not give your daughters to their sons, or take their daughters for your sons or for yourselves. ^1325
-
-Did not Solomon king of Israel sin on account of such women? Among the many nations there was no king like him, and he was beloved by his God, and God made him king over all Israel. Nevertheless, foreign women made even him to sin. ^1326
-
-Shall we then listen to you and do all this great evil and act treacherously against our God by marrying foreign women? ^1327
-
-And one of the sons of Jehoiada, the son of Eliashib the high priest, was the son-in-law of Sanballat the Horonite. Therefore I chased him from me. ^1328
-
-Remember them, O my God, because they have desecrated the priesthood and the covenant of the priesthood and the Levites. ^1329
-
-Thus I cleansed them from everything foreign, and I established the duties of the priests and Levites, each in his work; ^1330
-
-and I provided for the wood offering at appointed times, and for the firstfruits. Remember me, O my God, for good. ^1331
-
-
+[[H7133|I also arranged for contributions]] [[H6086|of wood]] [[H2163|at the appointed]] [[H6256|times,]] [[H1061|and for the firstfruits.]] [[H2142|Remember me,]] [[H430|O my God,]] [[H2896|with favor.]] ^1331

@@ -1,2649 +1,2575 @@
+[[H259|On the first]] [[H8145|day of the second]] [[H2320|month]] [[H8145|of the second]] [[H8141|year]] [[H3318|after had come out]] ⟨the Israelites⟩ [[H776|of the land]] [[H4714|of Egypt,]] [[H3068|the LORD]] [[H1696|spoke]] [[H413|to]] [[H4872|Moses]] [[H168|in the Tent]] [[H4150|of Meeting]] [[H4057|in the Wilderness]] [[H5514|of Sinai.]] [[H559|He told him,]] ^0101
 
+[[H5375|“Take a census]] [[H3605|of the entire]] [[H5712|congregation]] [[H1121|of the sons]] [[H3478|of Israel]] [[H4940|by their clans]] [[H1|and families,]] [[H4557|listing]] [[H8034|the name]] [[H3605|of every]] [[H2145|man,]] [[H1538|one by one.]] ^0102
 
-The Lord spoke to Moses in the wilderness of Sinai, in the tent of meeting, on the first day of the second month, in the second year after they had come out of the land of Egypt, saying, ^0101
+[[H859|You]] [[H175|and Aaron]] [[H6485|are to register]] [[H853|those]] [[H6242|who are twenty]] [[H1121|years of age]] [[H4605|or older]] [[H6635|by their divisions—]] [[H3605|everyone]] [[H3318|who can serve]] [[H3478|in Israel’s]] [[H6635|army.]] ^0103
 
-Take a census of all the congregation of the people of Israel, by clans, by fathers ’ houses, according to the number of names, every male, head by head. ^0102
+[[H376|And one man]] [[H4294|from each tribe,]] [[H7218|the head]] [[H1|of each family,]] [[H1961|must be there]] [[H854|with you.]] ^0104
 
-From twenty years old and upward, all in Israel who are able to go to war, you and Aaron shall list them, company by company. ^0103
+[[H428|These]] [[H8034|are the names]] [[H376|of the men]] [[H834|who]] [[H5975|are to assist]] [[H854|you:]] [[H7205|From Reuben,]] ⟨the tribe of⟩ [[H468|Elizur]] [[H1121|son]] [[H7707|of Shedeur;]] ^0105
 
-And there shall be with you a man from each tribe, each man being the head of the house of his fathers. ^0104
+[[H8095|from Simeon,]] [[H8017|Shelumiel]] [[H1121|son]] [[H6701|of Zurishaddai;]] ^0106
 
-And these are the names of the men who shall assist you. From Reuben, Elizur the son of Shedeur; ^0105
+[[H3063|from Judah,]] [[H5177|Nahshon]] [[H1121|son]] [[H5992|of Amminadab;]] ^0107
 
-from Simeon, Shelumiel the son of Zurishaddai; ^0106
+[[H3485|from Issachar,]] [[H5417|Nethanel]] [[H1121|son]] [[H6686|of Zuar;]] ^0108
 
-from Judah, Nahshon the son of Amminadab; ^0107
+[[H2074|from Zebulun,]] [[H446|Eliab]] [[H1121|son]] [[H2497|of Helon;]] ^0109
 
-from Issachar, Nethanel the son of Zuar; ^0108
+[[H1121|from the sons]] [[H3130|of Joseph:]] [[H669|from Ephraim,]] [[H476|Elishama]] [[H1121|son]] [[H5989|of Ammihud,]] [[H4519|and from Manasseh,]] [[H1583|Gamaliel]] [[H1121|son]] [[H6301|of Pedahzur;]] ^0110
 
-from Zebulun, Eliab the son of Helon; ^0109
+[[H1144|from Benjamin,]] [[H27|Abidan]] [[H1121|son]] [[H1441|of Gideoni;]] ^0111
 
-from the sons of Joseph, from Ephraim, Elishama the son of Ammihud, and from Manasseh, Gamaliel the son of Pedahzur; ^0110
+[[H1835|from Dan,]] [[H295|Ahiezer]] [[H1121|son]] [[H5996|of Ammishaddai;]] ^0112
 
-from Benjamin, Abidan the son of Gideoni; ^0111
+[[H836|from Asher,]] [[H6295|Pagiel]] [[H1121|son]] [[H5918|of Ocran;]] ^0113
 
-from Dan, Ahiezer the son of Ammishaddai; ^0112
+[[H1410|from Gad,]] [[H460|Eliasaph]] [[H1121|son]] [[H1845|of Deuel;]] ^0114
 
-from Asher, Pagiel the son of Ochran; ^0113
+⟨and⟩ [[H5321|from Naphtali,]] [[H299|Ahira]] [[H1121|son]] [[H5881|of Enan.”]] ^0115
 
-from Gad, Eliasaph the son of Deuel; ^0114
+[[H428|These men]] [[H7148|were appointed]] [[H5712|from the congregation;]] [[H1992|they]] ⟨were⟩ [[H5387|the leaders]] [[H4294|of the tribes]] [[H1|of their fathers,]] [[H7218|the heads]] [[H505|of the clans]] [[H3478|of Israel.]] ^0116
 
-from Naphtali, Ahira the son of Enan. ^0115
+[[H4872|So Moses]] [[H175|and Aaron]] [[H3947|took]] [[H428|these men]] [[H834|who]] [[H5344|had been designated]] [[H8034|by name,]] ^0117
 
-These were the ones chosen from the congregation, the chiefs of their ancestral tribes, the heads of the clans of Israel. ^0116
+[[H853|and]] [[H259|on the first]] [[H8145|day of the second]] [[H2320|month]] [[H6950|they assembled]] [[H3605|the whole]] [[H5712|congregation]] [[H3205|and recorded their ancestry]] [[H5921|by]] [[H4940|clans]] [[H1|and families,]] [[H4557|counting]] [[H1538|one by one]] [[H8034|the names]] [[H6242|of those twenty]] [[H1121|years of age]] [[H4605|or older,]] ^0118
 
-Moses and Aaron took these men who had been named, ^0117
+[[H834|just as]] [[H3068|the LORD]] [[H6680|had commanded]] [[H4872|Moses.]] [[H6485|So numbered]] ⟨Moses⟩ [[H4057|them in the Wilderness]] [[H5514|of Sinai:]] ^0119
 
-and on the first day of the second month, they assembled the whole congregation together, who registered themselves by clans, by fathers ’ houses, according to the number of names from twenty years old and upward, head by head, ^0118
+[[H1121|From the sons]] [[H7205|of Reuben,]] [[H1060|the firstborn]] [[H3478|of Israel,]] [[H8435|according to the records]] [[H4940|of their clans]] [[H1|and families,]] [[H4557|counting]] [[H1538|one]] [[H8034|by one the names]] [[H3605|of every]] [[H2145|male]] [[H6242|twenty]] [[H1121|years of age]] [[H4605|or older,]] [[H3605|everyone]] [[H3318|who could serve]] [[H6635|in the army,]] ^0120
 
-as the Lord commanded Moses. So he listed them in the wilderness of Sinai. ^0119
+[[H6485|those registered]] [[H4294|to the tribe]] [[H7205|of Reuben]] [[H8337|numbered 46,500.]] ^0121
 
-The people of Reuben, Israel’s firstborn, their generations, by their clans, by their fathers ’ houses, according to the number of names, head by head, every male from twenty years old and upward, all who were able to go to war : ^0120
+[[H1121|From the sons]] [[H8095|of Simeon,]] [[H8435|according to the records]] [[H4940|of their clans]] [[H1|and families,]] [[H4557|counting]] [[H1538|one]] [[H8034|by one the names]] [[H3605|of every]] [[H2145|male]] [[H6242|twenty]] [[H1121|years of age]] [[H4605|or older]] [[H3318|who could serve]] [[H6635|in the army,]] ^0122
 
-those listed of the tribe of Reuben were 46,500. ^0121
+[[H6485|those registered]] [[H4294|to the tribe]] [[H8095|of Simeon]] [[H8672|numbered 59,300.]] ^0123
 
-Of the people of Simeon, their generations, by their clans, by their fathers ’ houses, those of them who were listed, according to the number of names, head by head, every male from twenty years old and upward, all who were able to go to war : ^0122
+[[H1121|From the sons]] [[H1410|of Gad,]] [[H8435|according to the records]] [[H4940|of their clans]] [[H1|and families,]] [[H4557|counting]] [[H8034|the names]] [[H6242|of those twenty]] [[H1121|years of age]] [[H4605|or older]] [[H3318|who could serve]] [[H6635|in the army,]] ^0124
 
-those listed of the tribe of Simeon were 59,300. ^0123
+[[H6485|those registered]] [[H4294|to the tribe]] [[H1410|of Gad]] [[H2568|numbered 45,650.]] ^0125
 
-Of the people of Gad, their generations, by their clans, by their fathers ’ houses, according to the number of the names, from twenty years old and upward, all who were able to go to war : ^0124
+[[H1121|From the sons]] [[H3063|of Judah,]] [[H8435|according to the records]] [[H4940|of their clans]] [[H1|and families,]] [[H4557|counting]] [[H8034|the names]] [[H6242|of those twenty]] [[H1121|years of age]] [[H4605|or older]] [[H3318|who could serve]] [[H6635|in the army,]] ^0126
 
-those listed of the tribe of Gad were 45,650. ^0125
+[[H6485|those registered]] [[H4294|to the tribe]] [[H3063|of Judah]] [[H702|numbered 74,600.]] ^0127
 
-Of the people of Judah, their generations, by their clans, by their fathers ’ houses, according to the number of names, from twenty years old and upward, every man able to go to war : ^0126
+[[H1121|From the sons]] [[H3485|of Issachar,]] [[H8435|according to the records]] [[H4940|of their clans]] [[H1|and families,]] [[H4557|counting]] [[H8034|the names]] [[H6242|of those twenty]] [[H1121|years of age]] [[H4605|or older]] [[H3318|who could serve]] [[H6635|in the army,]] ^0128
 
-those listed of the tribe of Judah were 74,600. ^0127
+[[H6485|those registered]] [[H4294|to the tribe]] [[H3485|of Issachar]] [[H702|numbered 54,400.]] ^0129
 
-Of the people of Issachar, their generations, by their clans, by their fathers ’ houses, according to the number of names, from twenty years old and upward, every man able to go to war : ^0128
+[[H1121|From the sons]] [[H2074|of Zebulun,]] [[H8435|according to the records]] [[H4940|of their clans]] [[H1|and families,]] [[H4557|counting]] [[H8034|the names]] [[H6242|of those twenty]] [[H1121|years of age]] [[H4605|or older]] [[H3318|who could serve]] [[H6635|in the army,]] ^0130
 
-those listed of the tribe of Issachar were 54,400. ^0129
+[[H6485|those registered]] [[H4294|to the tribe]] [[H2074|of Zebulun]] [[H7651|numbered 57,400.]] ^0131
 
-Of the people of Zebulun, their generations, by their clans, by their fathers ’ houses, according to the number of names, from twenty years old and upward, every man able to go to war : ^0130
+[[H1121|From the sons]] [[H3130|of Joseph:]] [[H1121|From the sons]] [[H669|of Ephraim,]] [[H8435|according to the records]] [[H4940|of their clans]] [[H1|and families,]] [[H4557|counting]] [[H8034|the names]] [[H6242|of those twenty]] [[H1121|years of age]] [[H4605|or older]] [[H3318|who could serve]] [[H6635|in the army,]] ^0132
 
-those listed of the tribe of Zebulun were 57,400. ^0131
+[[H6485|those registered]] [[H4294|to the tribe]] [[H669|of Ephraim]] [[H705|numbered 40,500.]] ^0133
 
-Of the people of Joseph, namely, of the people of Ephraim, their generations, by their clans, by their fathers ’ houses, according to the number of names, from twenty years old and upward, every man able to go to war : ^0132
+[[H1121|And from the sons]] [[H4519|of Manasseh,]] [[H8435|according to the records]] [[H4940|of their clans]] [[H1|and families,]] [[H4557|counting]] [[H8034|the names]] [[H6242|of those twenty]] [[H1121|years of age]] [[H4605|or older]] [[H3318|who could serve]] [[H6635|in the army,]] ^0134
 
-those listed of the tribe of Ephraim were 40,500. ^0133
+[[H6485|those registered]] [[H4294|to the tribe]] [[H4519|of Manasseh]] [[H8147|numbered 32,200.]] ^0135
 
-Of the people of Manasseh, their generations, by their clans, by their fathers ’ houses, according to the number of names, from twenty years old and upward, every man able to go to war : ^0134
+[[H1121|From the sons]] [[H1144|of Benjamin,]] [[H8435|according to the records]] [[H4940|of their clans]] [[H1|and families,]] [[H4557|counting]] [[H8034|the names]] [[H6242|of those twenty]] [[H1121|years of age]] [[H4605|or older]] [[H3318|who could serve]] [[H6635|in the army,]] ^0136
 
-those listed of the tribe of Manasseh were 32,200. ^0135
+[[H6485|those registered]] [[H4294|to the tribe]] [[H1144|of Benjamin]] [[H2568|numbered 35,400.]] ^0137
 
-Of the people of Benjamin, their generations, by their clans, by their fathers ’ houses, according to the number of names, from twenty years old and upward, every man able to go to war : ^0136
+[[H1121|From the sons]] [[H1835|of Dan,]] [[H8435|according to the records]] [[H4940|of their clans]] [[H1|and families,]] [[H4557|counting]] [[H8034|the names]] [[H6242|of those twenty]] [[H1121|years of age]] [[H4605|or older]] [[H3318|who could serve]] [[H6635|in the army,]] ^0138
 
-those listed of the tribe of Benjamin were 35,400. ^0137
+[[H6485|those registered]] [[H4294|to the tribe]] [[H1835|of Dan]] [[H8147|numbered 62,700.]] ^0139
 
-Of the people of Dan, their generations, by their clans, by their fathers ’ houses, according to the number of names, from twenty years old and upward, every man able to go to war : ^0138
+[[H1121|From the sons]] [[H836|of Asher,]] [[H8435|according to the records]] [[H4940|of their clans]] [[H1|and families,]] [[H4557|counting]] [[H8034|the names]] [[H6242|of those twenty]] [[H1121|years of age]] [[H4605|or older]] [[H3318|who could serve]] [[H6635|in the army,]] ^0140
 
-those listed of the tribe of Dan were 62,700. ^0139
+[[H6485|those registered]] [[H4294|to the tribe]] [[H836|of Asher]] [[H259|numbered 41,500.]] ^0141
 
-Of the people of Asher, their generations, by their clans, by their fathers ’ houses, according to the number of names, from twenty years old and upward, every man able to go to war : ^0140
+[[H1121|From the sons]] [[H5321|of Naphtali,]] [[H8435|according to the records]] [[H4940|of their clans]] [[H1|and families,]] [[H4557|counting]] [[H8034|the names]] [[H6242|of those twenty]] [[H1121|years of age]] [[H4605|or older]] [[H3318|who could serve]] [[H6635|in the army,]] ^0142
 
-those listed of the tribe of Asher were 41,500. ^0141
+[[H6485|those registered]] [[H4294|to the tribe]] [[H5321|of Naphtali]] [[H7969|numbered 53,400.]] ^0143
 
-Of the people of Naphtali, their generations, by their clans, by their fathers ’ houses, according to the number of names, from twenty years old and upward, every man able to go to war : ^0142
+[[H428|These]] [[H834|were the men]] [[H6485|numbered]] [[H4872|by Moses]] [[H175|and Aaron,]] [[H8147|with the assistance of the twelve]] [[H5387|leaders]] [[H3478|of Israel;]] [[H259|each one]] [[H1|representing his family.]] ^0144
 
-those listed of the tribe of Naphtali were 53,400. ^0143
+[[H3605|So all]] [[H1121|the Israelites]] [[H6242|twenty]] [[H1121|years of age]] [[H4605|or older]] [[H3318|who could serve]] [[H3478|in Israel’s]] [[H6635|army]] [[H1961|were]] [[H6485|registered]] [[H1|according to their families.]] ^0145
 
-These are those who were listed, whom Moses and Aaron listed with the help of the chiefs of Israel, twelve men, each representing his fathers ’ house. ^0144
+[[H1961|And]] [[H3605|the total of]] [[H6485|those registered]] [[H8337|numbered 603,550.]] ^0146
 
-So all those listed of the people of Israel, by their fathers ’ houses, from twenty years old and upward, every man able to go to war in Israel — ^0145
+[[H3881|The Levites, however,]] [[H3808|were not]] [[H6485|registered]] [[H8432|with]] [[H4294|the tribe]] [[H1|of their fathers.]] ^0147
 
-all those listed were 603,550. ^0146
+[[H3068|For the LORD]] [[H1696|had said to]] [[H4872|Moses:]] ^0148
 
-But the Levites were not listed along with them by their ancestral tribe. ^0147
+[[H3808|“Do not]] [[H6485|register]] [[H4294|the tribe]] [[H3881|of Levi]] [[H7218|in the census]] [[H8432|with]] [[H1121|the other Israelites.]] ^0149
 
-For the Lord spoke to Moses, saying, ^0148
+[[H859|Instead,]] [[H6485|you are to appoint]] [[H3881|the Levites]] [[H5921|over]] [[H4908|the tabernacle]] [[H5715|of the testimony,]] [[H3605|all]] [[H3627|its furnishings,]] [[H3605|and everything in it.]] [[H1992|They]] [[H5375|shall carry]] [[H4908|the tabernacle]] [[H3605|and all]] [[H3627|its articles,]] [[H8334|care for it,]] [[H2583|and camp]] [[H5439|around]] [[H4908|it.]] ^0150
 
-Only the tribe of Levi you shall not list, and you shall not take a census of them among the people of Israel. ^0149
+[[H4908|Whenever the tabernacle]] [[H5265|is to move,]] [[H3881|the Levites]] [[H3381|are to take it down,]] [[H4908|and whenever it]] [[H2583|is to be pitched,]] [[H3881|the Levites]] [[H6965|are to set it up.]] [[H2114|Any outsider]] [[H7126|who goes near it]] [[H4191|must be put to death.]] ^0151
 
-But appoint the Levites over the tabernacle of the testimony, and over all its furnishings, and over all that belongs to it. They are to carry the tabernacle and all its furnishings, and they shall take care of it and shall camp around the tabernacle. ^0150
+[[H1121|The Israelites]] [[H2583|are to camp]] [[H6635|by their divisions,]] [[H376|each man]] [[H5921|in]] [[H4264|his own camp]] [[H5921|and under]] [[H1714|his own banner.]] ⟨family⟩ ^0152
 
-When the tabernacle is to set out, the Levites shall take it down, and when the tabernacle is to be pitched, the Levites shall set it up. And if any outsider comes near, he shall be put to death. ^0151
+[[H3881|But the Levites]] [[H2583|are to camp]] [[H5439|around]] [[H4908|the tabernacle]] [[H5715|of the Testimony]] [[H8104|and watch over it,]] [[H3808|so that no]] [[H7110|wrath]] [[H1961|shall fall]] [[H5921|on]] [[H1121|the Israelite]] [[H5712|congregation.]] [[H3881|So the Levites]] [[H4931|are responsible]] [[H4908|for the tabernacle]] [[H5715|of the Testimony.”]] ^0153
 
-The people of Israel shall pitch their tents by their companies, each man in his own camp and each man by his own standard. ^0152
+[[H1121|Thus the Israelites]] [[H6213|did]] [[H3605|everything]] [[H834|just as]] [[H3068|the LORD]] [[H6680|had commanded]] [[H4872|Moses.]] ^0154
 
-But the Levites shall camp around the tabernacle of the testimony, so that there may be no wrath on the congregation of the people of Israel. And the Levites shall keep guard over the tabernacle of the testimony. ^0153
+[[H3068|Then the LORD]] [[H1696|said]] [[H413|to]] [[H4872|Moses]] [[H175|and Aaron:]] ^0201
 
-Thus did the people of Israel; they did according to all that the Lord commanded Moses. ^0154
+[[H1121|“The Israelites]] [[H2583|are to camp]] [[H5921|under]] [[H1714|their respective banners]] [[H226|beside the flags]] [[H1|of their families,]] [[H5439|around]] [[H168|the Tent]] [[H4150|of Meeting]] [[H5048|at a distance from it.]] ^0202
 
+[[H6924|On the east side,]] [[H4217|toward the sunrise,]] [[H6635|the divisions]] [[H3063|of Judah]] [[H2583|are to camp]] [[H1714|under their banner:]] [[H5387|The leader]] [[H1121|of the sons]] [[H3063|of Judah]] [[H5177|is Nahshon]] [[H1121|son]] [[H5992|of Amminadab,]] ^0203
 
+[[H6635|and his division]] [[H6485|numbers]] [[H702|74,600]] ^0204
 
-The Lord spoke to Moses and Aaron, saying, ^0201
+[[H4294|The tribe]] [[H3485|of Issachar]] [[H2583|will camp]] [[H5921|next to it.]] [[H5387|The leader]] [[H1121|of the Issacharites]] [[H5417|is Nethanel]] [[H1121|son]] [[H6686|of Zuar,]] ^0205
 
-The people of Israel shall camp each by his own standard, with the banners of their fathers ’ houses. They shall camp facing the tent of meeting on every side. ^0202
+[[H6635|and his division]] [[H6485|numbers]] [[H702|54,400]] ^0206
 
-Those to camp on the east side toward the sunrise shall be of the standard of the camp of Judah by their companies, the chief of the people of Judah being Nahshon the son of Amminadab, ^0203
+⟨Next will be⟩ [[H4294|the tribe]] [[H2074|of Zebulun.]] [[H5387|The leader]] [[H1121|of the Zebulunites]] [[H446|is Eliab]] [[H1121|son]] [[H2497|of Helon,]] ^0207
 
-his company as listed being 74,600. ^0204
+[[H6635|and his division]] [[H6485|numbers]] [[H7651|57,400]] ^0208
 
-Those to camp next to him shall be the tribe of Issachar, the chief of the people of Issachar being Nethanel the son of Zuar, ^0205
+[[H3605|The total]] [[H6485|number of men]] [[H6635|in the divisions]] [[H4264|of the camp]] [[H3063|of Judah]] [[H3967|is 186,400;]] [[H5265|they shall set out]] [[H7223|first.]] ^0209
 
-his company as listed being 54,400. ^0206
+[[H8486|On the south side,]] [[H6635|the divisions]] [[H7205|of Reuben]] [[H4264|are to camp]] [[H1714|under their banner:]] [[H5387|The leader]] [[H1121|of the Reubenites]] [[H468|is Elizur]] [[H1121|son]] [[H7707|of Shedeur,]] ^0210
 
-Then the tribe of Zebulun, the chief of the people of Zebulun being Eliab the son of Helon, ^0207
+[[H6635|and his division]] [[H6485|numbers]] [[H8337|46,500]] ^0211
 
-his company as listed being 57,400. ^0208
+[[H4294|The tribe]] [[H8095|of Simeon]] [[H2583|will camp]] [[H5921|next to it.]] [[H5387|The leader]] [[H1121|of the Simeonites]] [[H8017|is Shelumiel]] [[H1121|son]] [[H6701|of Zurishaddai,]] ^0212
 
-All those listed of the camp of Judah, by their companies, were 186,400. They shall set out first on the march. ^0209
+[[H6635|and his division]] [[H6485|numbers]] [[H8672|59,300]] ^0213
 
-On the south side shall be the standard of the camp of Reuben by their companies, the chief of the people of Reuben being Elizur the son of Shedeur, ^0210
+⟨Next will be⟩ [[H4294|the tribe]] [[H1410|of Gad.]] [[H5387|The leader]] [[H1121|of the Gadites]] [[H460|is Eliasaph]] [[H1121|son]] [[H7467|of Deuel,]] ^0214
 
-his company as listed being 46,500. ^0211
+[[H6635|and his division]] [[H6485|numbers]] [[H2568|45,650]] ^0215
 
-And those to camp next to him shall be the tribe of Simeon, the chief of the people of Simeon being Shelumiel the son of Zurishaddai, ^0212
+[[H3605|The total]] [[H6485|number of men]] [[H6635|in the divisions]] [[H4264|of the camp]] [[H7205|of Reuben]] [[H3967|is 151,450;]] [[H5265|they shall set out]] [[H8145|second.]] ^0216
 
-his company as listed being 59,300. ^0213
+[[H8432|In the middle]] [[H4264|of the camps,]] [[H168|the Tent]] [[H4150|of Meeting]] [[H5265|is to travel]] [[H4264|with the camp]] [[H3881|of the Levites.]] [[H5265|They are to set out]] [[H834|in the order]] [[H2583|they encamped,]] [[H376|each]] [[H5921|in]] [[H3027|his own place]] [[H1714|under his banner.]] ^0217
 
-Then the tribe of Gad, the chief of the people of Gad being Eliasaph the son of Reuel, ^0214
+[[H3220|On the west side,]] [[H6635|the divisions]] [[H669|of Ephraim]] [[H4264|are to camp]] [[H1714|under their banner:]] [[H5387|The leader]] [[H1121|of the Ephraimites]] [[H476|is Elishama]] [[H1121|son]] [[H5989|of Ammihud,]] ^0218
 
-his company as listed being 45,650. ^0215
+[[H6635|and his division]] [[H6485|numbers]] [[H705|40,500]] ^0219
 
-All those listed of the camp of Reuben, by their companies, were 151,450. They shall set out second. ^0216
+[[H4294|The tribe]] [[H4519|of Manasseh]] [[H5921|will be next to it.]] [[H5387|The leader]] [[H1121|of the Manassites]] [[H1583|is Gamaliel]] [[H1121|son]] [[H6301|of Pedahzur,]] ^0220
 
-Then the tent of meeting shall set out, with the camp of the Levites in the midst of the camps; as they camp, so shall they set out, each in position, standard by standard. ^0217
+[[H6635|and his division]] [[H6485|numbers]] [[H8147|32,200]] ^0221
 
-On the west side shall be the standard of the camp of Ephraim by their companies, the chief of the people of Ephraim being Elishama the son of Ammihud, ^0218
+⟨Next will be⟩ [[H4294|the tribe]] [[H1144|of Benjamin.]] [[H5387|The leader]] [[H1121|of the Benjamites]] [[H27|is Abidan]] [[H1121|son]] [[H1441|of Gideoni,]] ^0222
 
-his company as listed being 40,500. ^0219
+[[H6635|and his division]] [[H6485|numbers]] [[H2568|35,400]] ^0223
 
-And next to him shall be the tribe of Manasseh, the chief of the people of Manasseh being Gamaliel the son of Pedahzur, ^0220
+[[H3605|The total]] [[H6485|number of men]] [[H6635|in the divisions]] [[H4264|of the camp]] [[H669|of Ephraim]] ⟨is⟩ [[H3967|108,100;]] [[H5265|they shall set out]] [[H7992|third.]] ^0224
 
-his company as listed being 32,200. ^0221
+[[H6828|On the north side,]] [[H6635|the divisions]] [[H1835|of Dan]] [[H4264|are to camp]] [[H1714|under their banner:]] [[H5387|The leader]] [[H1121|of the Danites]] [[H295|is Ahiezer]] [[H1121|son]] [[H5996|of Ammishaddai,]] ^0225
 
-Then the tribe of Benjamin, the chief of the people of Benjamin being Abidan the son of Gideoni, ^0222
+[[H6635|and his division]] [[H6485|numbers]] [[H8147|62,700]] ^0226
 
-his company as listed being 35,400. ^0223
+[[H4294|The tribe]] [[H836|of Asher]] [[H2583|will camp]] [[H5921|next to it.]] [[H5387|The leader]] [[H1121|of the Asherites]] [[H6295|is Pagiel]] [[H1121|son]] [[H5918|of Ocran,]] ^0227
 
-All those listed of the camp of Ephraim, by their companies, were 108,100. They shall set out third on the march. ^0224
+[[H6635|and his division]] [[H6485|numbers]] [[H259|41,500]] ^0228
 
-On the north side shall be the standard of the camp of Dan by their companies, the chief of the people of Dan being Ahiezer the son of Ammishaddai, ^0225
+⟨Next will be⟩ [[H4294|the tribe]] [[H5321|of Naphtali.]] [[H5387|The leader]] [[H1121|of the Naphtalites]] [[H299|is Ahira]] [[H1121|son]] [[H5881|of Enan,]] ^0229
 
-his company as listed being 62,700. ^0226
+[[H6635|and his division]] [[H6485|numbers]] [[H7969|53,400]] ^0230
 
-And those to camp next to him shall be the tribe of Asher, the chief of the people of Asher being Pagiel the son of Ochran, ^0227
+[[H3605|The total]] [[H6485|number of men]] [[H4264|in the camp]] [[H1835|of Dan]] [[H3967|is 157,600;]] [[H5265|they shall set out]] [[H314|last,]] [[H1714|with their banners.”]] ^0231
 
-his company as listed being 41,500. ^0228
+[[H428|These]] [[H1121|are the Israelites,]] [[H6485|registered]] [[H1|according to their families.]] [[H3605|The total]] [[H6485|of those numbered]] [[H4264|in the camps,]] [[H6635|by their divisions,]] [[H8337|was 603,550.]] ^0232
 
-Then the tribe of Naphtali, the chief of the people of Naphtali being Ahira the son of Enan, ^0229
+[[H3881|But the Levites]] [[H3808|were not]] [[H6485|counted]] [[H8432|among]] [[H1121|the other Israelites,]] [[H834|as]] [[H3069|the LORD]] [[H6680|had commanded]] [[H4872|Moses.]] ^0233
 
-his company as listed being 53,400. ^0230
+[[H1121|So the Israelites]] [[H6213|did]] [[H3605|everything]] [[H3068|the LORD]] [[H6680|commanded]] [[H4872|Moses;]] [[H2583|they camped]] [[H1714|by their banners]] [[H3651|in this way]] [[H5265|and set out]] [[H3651|in the same way,]] [[H376|each man]] [[H4940|with his clan]] [[H5921|and]] [[H1|his family.]] ^0234
 
-All those listed of the camp of Dan were 157,600. They shall set out last, standard by standard. ^0231
+[[H428|This]] [[H8435|is the account]] [[H175|of Aaron]] [[H4872|and Moses]] [[H3117|at the time]] [[H3068|the LORD]] [[H1696|spoke]] [[H854|to]] [[H4872|Moses]] [[H2022|on Mount]] [[H5514|Sinai.]] ^0301
 
-These are the people of Israel as listed by their fathers ’ houses. All those listed in the camps by their companies were 603,550. ^0232
+[[H428|These]] [[H8034|are the names]] [[H1121|of the sons]] [[H175|of Aaron:]] [[H5070|Nadab]] [[H1060|the firstborn;]] [[H30|then Abihu,]] [[H499|Eleazar,]] [[H385|and Ithamar.]] ^0302
 
-But the Levites were not listed among the people of Israel, as the Lord commanded Moses. ^0233
+[[H428|These]] ⟨were⟩ [[H175|Aaron’s]] [[H1121|sons,]] [[H4886|the anointed]] [[H3548|priests,]] [[H834|who]] [[H4390|were ordained]] [[H3547|to serve as priests.]] ^0303
 
-Thus did the people of Israel. According to all that the Lord commanded Moses, so they camped by their standards, and so they set out, each one in his clan, according to his fathers ’ house. ^0234
+[[H5070|Nadab]] [[H30|and Abihu, however,]] [[H4191|died]] [[H6440|in the presence]] [[H3068|of the LORD]] [[H7126|when they offered]] [[H2114|strange]] [[H784|fire]] [[H6440|before]] [[H3068|the LORD]] [[H4057|in the Wilderness]] [[H5514|of Sinai.]] [[H1961|And since they had]] [[H3808|no]] [[H1121|sons,]] [[H499|only Eleazar]] [[H385|and Ithamar]] [[H3547|served as priests]] [[H5921|during]] [[H6440|the lifetime]] [[H1|of their father]] [[H175|Aaron.]] ^0304
 
+[[H3068|Then the LORD]] [[H1696|said]] [[H413|to]] [[H4872|Moses,]] ^0305
 
+[[H7126|“Bring]] [[H4294|the tribe]] [[H3881|of Levi]] [[H5975|and present]] [[H6440|them to]] [[H175|Aaron]] [[H3548|the priest]] [[H8334|to assist him.]] ^0306
 
-These are the generations of Aaron and Moses at the time when the Lord spoke with Moses on Mount Sinai. ^0301
+[[H8104|They are to perform]] [[H4931|duties for him]] [[H3605|and for the whole]] [[H5712|congregation]] [[H6440|before]] [[H168|the Tent]] [[H4150|of Meeting,]] [[H5647|attending]] [[H5656|to the service]] [[H4908|of the tabernacle.]] ^0307
 
-These are the names of the sons of Aaron : Nadab the firstborn, and Abihu, Eleazar, and Ithamar. ^0302
+[[H8104|They shall take care of]] [[H3605|all]] [[H3627|the furnishings]] [[H168|of the Tent]] [[H4150|of Meeting]] [[H853|and]] [[H4931|fulfill obligations]] [[H1121|for the Israelites]] [[H5647|by attending]] [[H5656|to the service]] [[H4908|of the tabernacle.]] ^0308
 
-These are the names of the sons of Aaron, the anointed priests, whom he ordained to serve as priests. ^0303
+[[H5414|Assign]] [[H3881|the Levites]] [[H175|to Aaron]] [[H1121|and his sons;]] [[H1992|they]] [[H5414|have been given exclusively]] [[H854|to him  from among]] [[H1121|the Israelites.]] ^0309
 
-But Nadab and Abihu died before the Lord when they offered unauthorized fire before the Lord in the wilderness of Sinai, and they had no children. So Eleazar and Ithamar served as priests in the lifetime of Aaron their father. ^0304
+[[H853|So]] [[H6485|you shall appoint]] [[H175|Aaron]] [[H1121|and his sons]] [[H8104|to carry out]] [[H3550|the duties of the priesthood;]] [[H2114|but any layman]] [[H7126|who approaches]] ⟨the tabernacle⟩ [[H4191|must be put to death.”]] ^0310
 
-And the Lord spoke to Moses, saying, ^0305
+[[H3069|Again the LORD]] [[H1696|spoke]] [[H413|to]] [[H4872|Moses,]] [[H559|saying,]] ^0311
 
-Bring the tribe of Levi near, and set them before Aaron the priest, that they may minister to him. ^0306
+[[H2009|“Behold,]] [[H589|I]] [[H3947|have taken]] [[H3881|the Levites]] [[H8432|from among]] [[H1121|the children]] [[H3478|of Israel]] [[H8478|in place of]] [[H3605|every]] [[H6363|firstborn]] [[H1121|Israelite]] [[H7358|from the womb.]] [[H3881|The Levites]] [[H1961|belong]] ^0312
 
-They shall keep guard over him and over the whole congregation before the tent of meeting, as they minister at the tabernacle. ^0307
+[[H3588|because]] [[H3605|all]] [[H1060|the firstborn]] ⟨are⟩ [[H3117|Mine.  On the day]] [[H5221|I struck down]] [[H3605|every]] [[H1060|firstborn]] [[H776|in the land]] [[H4714|of Egypt,]] [[H6942|I consecrated]] [[H3605|to Myself  all]] [[H1060|the firstborn]] [[H3478|in Israel,]] [[H120|both man]] [[H5704|and]] [[H929|beast.]] [[H1961|They are Mine;]] [[H589|I]] [[H3068|am the LORD.”]] ^0313
 
-They shall guard all the furnishings of the tent of meeting, and keep guard over the people of Israel as they minister at the tabernacle. ^0308
+[[H3068|Then the LORD]] [[H1696|spoke]] [[H413|to]] [[H4872|Moses]] [[H4057|in the Wilderness]] [[H5514|of Sinai,]] [[H559|saying,]] ^0314
 
-And you shall give the Levites to Aaron and his sons; they are wholly given to him from among the people of Israel. ^0309
+[[H6485|“Register]] [[H1121|the Levites]] [[H1|by their families]] [[H4940|and clans.]] [[H6485|You are to count]] [[H3605|every]] [[H2145|male]] [[H1121|a month old]] [[H4605|or more.”]] ^0315
 
-And you shall appoint Aaron and his sons, and they shall guard their priesthood. But if any outsider comes near, he shall be put to death. ^0310
+[[H4872|So Moses]] [[H6485|numbered]] [[H853|them]] [[H5921|according to]] [[H6310|the word]] [[H3068|of the LORD,]] [[H834|as]] [[H6680|he had been commanded.]] ^0316
 
-And the Lord spoke to Moses, saying, ^0311
+[[H428|These]] [[H1961|were]] [[H1121|the sons]] [[H3881|of Levi]] [[H8034|by name:]] [[H1648|Gershon,]] [[H6955|Kohath,]] [[H4847|and Merari.]] ^0317
 
-Behold, I have taken the Levites from among the people of Israel instead of every firstborn who opens the womb among the people of Israel. The Levites shall be mine, ^0312
+[[H428|These]] [[H8034|were the names]] [[H1121|of the sons]] [[H1648|of Gershon]] [[H4940|by their clans:]] [[H3845|Libni]] [[H8096|and Shimei.]] ^0318
 
-for all the firstborn are mine. On the day that I struck down all the firstborn in the land of Egypt, I consecrated for my own all the firstborn in Israel, both of man and of beast. They shall be mine: I am the Lord. ^0313
+[[H1121|The sons]] [[H6955|of Kohath]] [[H4940|by their clans]] [[H6019|were Amram,]] [[H3324|Izhar,]] [[H2275|Hebron,]] [[H5816|and Uzziel.]] ^0319
 
-And the Lord spoke to Moses in the wilderness of Sinai, saying, ^0314
+[[H1121|And the sons]] [[H4847|of Merari]] [[H4940|by their clans]] [[H4249|were Mahli]] [[H4187|and Mushi.]] [[H428|These]] [[H1992|were]] [[H4940|the clans]] [[H3881|of the Levites,]] [[H1|according to their families.]] ^0320
 
-List the sons of Levi, by fathers ’ houses and by clans; every male from a month old and upward you shall list. ^0315
+[[H1648|From Gershon came]] [[H3846|the Libnite]] [[H4940|clan]] [[H8097|and the Shimeite]] [[H4940|clan;]] [[H428|these]] [[H1649|were the Gershonite]] [[H4940|clans.]] ^0321
 
-So Moses listed them according to the word of the Lord, as he was commanded. ^0316
+[[H6485|The number]] [[H3605|of all]] [[H2145|the males]] [[H1121|a month old]] [[H4605|or more]] [[H6485|was]] [[H7651|7,500]] ^0322
 
-And these were the sons of Levi by their names : Gershon and Kohath and Merari. ^0317
+[[H1649|The Gershonite]] [[H4940|clans]] [[H2583|were to camp]] [[H3220|on the west,]] [[H310|behind]] [[H4908|the tabernacle,]] ^0323
 
-And these are the names of the sons of Gershon by their clans : Libni and Shimei. ^0318
+[[H5387|and the leader]] [[H1004|of the families]] [[H1649|of the Gershonites]] [[H460|was Eliasaph]] [[H1121|son]] [[H3815|of Lael.]] ^0324
 
-And the sons of Kohath by their clans : Amram, Izhar, Hebron, and Uzziel. ^0319
+[[H4931|The duties]] [[H1121|of the Gershonites]] [[H168|at the Tent]] [[H4150|of Meeting]] ⟨were⟩ [[H4908|the tabernacle]] [[H168|and tent,]] [[H4372|its covering,]] [[H4539|the curtain]] [[H6607|for the entrance]] [[H168|to the Tent]] [[H4150|of Meeting,]] ^0325
 
-And the sons of Merari by their clans : Mahli and Mushi. These are the clans of the Levites, by their fathers ’ houses. ^0320
+[[H7050|the curtains]] [[H2691|of the courtyard,]] [[H4539|the curtain]] [[H6607|for the entrance]] [[H2691|to the courtyard]] [[H834|that]] [[H5921|surrounds]] [[H4908|the tabernacle]] [[H4196|and altar,]] [[H4340|and the cords—]] [[H3605|all]] [[H5656|the service]] ⟨for these items⟩. ^0326
 
-To Gershon belonged the clan of the Libnites and the clan of the Shimeites; these were the clans of the Gershonites. ^0321
+[[H6955|From Kohath came]] [[H4940|the clans]] [[H6020|of the Amramites,]] [[H3325|the Izharites,]] [[H2276|the Hebronites,]] [[H5817|and the Uzzielites;]] [[H428|these]] [[H4940|were the clans]] [[H6956|of the Kohathites.]] ^0327
 
-Their listing according to the number of all the males from a month old and upward was 7,500. ^0322
+[[H4557|The number]] [[H3605|of all]] [[H2145|the males]] [[H1121|a month old]] [[H4605|or more]] [[H8083|was 8,600.]] [[H8104|They were responsible for]] [[H4931|the duties]] [[H6944|of the sanctuary.]] ^0328
 
-The clans of the Gershonites were to camp behind the tabernacle on the west, ^0323
+[[H4940|The clans]] [[H1121|of the Kohathites]] [[H2583|were to camp]] [[H5921|on]] [[H8486|the south]] [[H3409|side]] [[H4908|of the tabernacle,]] ^0329
 
-with Eliasaph, the son of Lael as chief of the fathers ’ house of the Gershonites. ^0324
+[[H5387|and the leader]] [[H1004|of the families]] [[H6956|of the Kohathites]] [[H469|was Elizaphan]] [[H1121|son]] [[H5816|of Uzziel.]] ^0330
 
-And the guard duty of the sons of Gershon in the tent of meeting involved the tabernacle, the tent with its covering, the screen for the entrance of the tent of meeting, ^0325
+[[H4931|Their duties]] ⟨were⟩ [[H727|the ark,]] [[H7979|the table,]] [[H4501|the lampstand,]] [[H4196|the altars,]] [[H3627|the articles]] [[H6944|of the sanctuary]] [[H8334|used with them,]] [[H4539|and the curtain—]] [[H3605|all]] [[H5656|the service]] ⟨for these items⟩. ^0331
 
-the hangings of the court, the screen for the door of the court that is around the tabernacle and the altar, and its cords — all the service connected with these. ^0326
+[[H5387|The chief]] [[H5387|of the leaders]] [[H3881|of the Levites]] [[H499|was Eleazar]] [[H1121|son]] [[H175|of Aaron]] [[H3548|the priest;]] [[H6486|he oversaw]] [[H8104|those responsible for]] [[H4931|the duties]] [[H6944|of the sanctuary.]] ^0332
 
-To Kohath belonged the clan of the Amramites and the clan of the Izharites and the clan of the Hebronites and the clan of the Uzzielites; these are the clans of the Kohathites. ^0327
+[[H4847|From Merari came]] [[H4940|the clans]] [[H4250|of the Mahlites]] [[H4188|and Mushites;]] [[H428|these]] [[H4847|were the Merarite]] [[H4940|clans.]] ^0333
 
-According to the number of all the males, from a month old and upward, there were 8,600, keeping guard over the sanctuary. ^0328
+[[H6485|The number]] [[H3605|of all]] [[H2145|the males]] [[H1121|one month old]] [[H4605|or more]] [[H8337|was 6,200.]] ^0334
 
-The clans of the sons of Kohath were to camp on the south side of the tabernacle, ^0329
+[[H5387|The leader]] [[H1004|of the families]] [[H4847|of the Merarites]] [[H6700|was Zuriel]] [[H1121|son]] [[H32|of Abihail;]] [[H2583|they were to camp]] [[H5921|on]] [[H6828|the north]] [[H3409|side]] [[H4908|of the tabernacle.]] ^0335
 
-with Elizaphan the son of Uzziel as chief of the fathers ’ house of the clans of the Kohathites. ^0330
+[[H4931|The duties]] [[H6486|assigned]] [[H1121|to the sons]] [[H4847|of Merari]] [[H4908|were the tabernacle’s]] [[H7175|frames,]] [[H1280|crossbars,]] [[H5982|posts,]] [[H134|bases,]] [[H3605|all]] [[H3627|its equipment,]] [[H3605|and all]] [[H5656|the service of these]] ⟨items⟩, ^0336
 
-And their guard duty involved the ark, the table, the lampstand, the altars, the vessels of the sanctuary with which the priests minister, and the screen; all the service connected with these. ^0331
+[[H5982|as well as the posts]] [[H5439|of the surrounding]] [[H2691|courtyard]] [[H134|with their bases,]] [[H3489|tent pegs,]] [[H4340|and ropes.]] ^0337
 
-And Eleazar the son of Aaron the priest was to be chief over the chiefs of the Levites, and to have oversight of those who kept guard over the sanctuary. ^0332
+[[H4872|Moses,]] [[H175|Aaron,]] [[H1121|and]] ⟨Aaron's sons⟩ [[H2583|were to camp]] [[H6924|to the east]] [[H4908|of the tabernacle,]] [[H4217|toward the sunrise,]] [[H6440|before]] [[H168|the Tent]] [[H4150|of Meeting.]] [[H8104|They were to perform]] [[H4931|the duties]] [[H4720|of the sanctuary]] [[H4931|as a service]] [[H1121|on behalf of the Israelites;]] [[H2114|but any outsider]] [[H7126|who approached]] ⟨the sanctuary⟩ [[H4191|was to be put to death.]] ^0338
 
-To Merari belonged the clan of the Mahlites and the clan of the Mushites : these are the clans of Merari. ^0333
+[[H3605|The total]] [[H6485|number]] [[H3881|of Levites]] [[H834|that]] [[H4872|Moses]] [[H175|and Aaron]] [[H6485|registered]] [[H4940|by their clans]] [[H5921|at]] [[H3068|the LORD’s]] [[H6310|command,]] [[H3605|including all]] [[H2145|the males]] [[H1121|a month old]] [[H4605|or more,]] [[H8147|was 22,000.]] ^0339
 
-Their listing according to the number of all the males from a month old and upward was 6,200. ^0334
+[[H3068|Then the LORD]] [[H559|said]] [[H4872|to Moses,]] [[H6485|“Number]] [[H3605|every]] [[H1060|firstborn]] [[H2145|male]] [[H1121|of the Israelites]] [[H1121|a month old]] [[H4605|or more,]] [[H5375|and list]] [[H8034|their names.]] ^0340
 
-And the chief of the fathers ’ house of the clans of Merari was Zuriel the son of Abihail. They were to camp on the north side of the tabernacle. ^0335
+[[H3947|You are to take]] [[H3881|the Levites]] [[H589|for Me—  I]] [[H3068|am the LORD—]] [[H8478|in place of]] [[H3605|all]] [[H1060|the firstborn]] [[H3478|of Israel,]] [[H929|and the livestock]] [[H3881|of the Levites]] [[H8478|in place of]] [[H3605|all]] [[H1060|the firstborn]] [[H929|of the livestock]] [[H1121|of the Israelites.”]] ^0341
 
-And the appointed guard duty of the sons of Merari involved the frames of the tabernacle, the bars, the pillars, the bases, and all their accessories; all the service connected with these; ^0336
+[[H4872|So Moses]] [[H6485|numbered]] [[H3605|all]] [[H1060|the firstborn]] [[H1121|of the Israelites,]] [[H834|as]] [[H3068|the LORD]] [[H6680|had commanded]] [[H853|him.]] ^0342
 
-also the pillars around the court, with their bases and pegs and cords. ^0337
+[[H3605|The total]] [[H6485|number]] [[H1060|of the firstborn]] [[H2145|males]] [[H1121|a month old]] [[H4605|or more,]] [[H4557|listed]] [[H8034|by name,]] [[H1961|was]] [[H8147|22,273]] ^0343
 
-Those who were to camp before the tabernacle on the east, before the tent of meeting toward the sunrise, were Moses and Aaron and his sons, guarding the sanctuary itself, to protect the people of Israel. And any outsider who came near was to be put to death. ^0338
+[[H3068|Again the LORD]] [[H1696|spoke]] [[H413|to]] [[H4872|Moses,]] [[H559|saying,]] ^0344
 
-All those listed among the Levites, whom Moses and Aaron listed at the commandment of the Lord, by clans, all the males from a month old and upward, were 22,000. ^0339
+[[H3947|“Take]] [[H3881|the Levites]] [[H8478|in place]] [[H3605|of all]] [[H1060|the firstborn]] [[H3478|of Israel,]] [[H929|and the cattle]] [[H3881|of the Levites]] [[H8478|in place of]] [[H929|their cattle.]] [[H3881|The Levites]] [[H1961|belong to Me;]] [[H589|I]] [[H3068|am the LORD.]] ^0345
 
-And the Lord said to Moses, List all the firstborn males of the people of Israel, from a month old and upward, taking the number of their names. ^0340
+[[H6302|To redeem]] [[H7969|the 273]] [[H1060|firstborn]] [[H1121|Israelites]] [[H5736|who outnumber]] [[H3881|the Levites,]] ^0346
 
-And you shall take the Levites for me—I am the Lord — instead of all the firstborn among the people of Israel, and the cattle of the Levites instead of all the firstborn among the cattle of the people of Israel. ^0341
+[[H3947|you are to collect]] [[H2568|five]] [[H8255|shekels]] [[H1538|for each one,]] [[H6944|according to the sanctuary]] [[H8255|shekel]] [[H6242|of twenty]] [[H1626|gerahs.]] ^0347
 
-So Moses listed all the firstborn among the people of Israel, as the Lord commanded him. ^0342
+[[H5414|Give]] [[H3701|the money]] [[H175|to Aaron]] [[H1121|and his sons]] [[H6302|as the redemption price]] [[H5736|for the excess]] ^0348
 
-And all the firstborn males, according to the number of names, from a month old and upward as listed were 22,273. ^0343
+[[H4872|So Moses]] [[H3947|collected]] [[H6306|the redemption]] [[H3701|money]] [[H5736|from those in excess]] [[H5921|of]] [[H6302|the number redeemed]] [[H3881|by the Levites.]] ^0349
 
-And the Lord spoke to Moses, saying, ^0344
+[[H3947|He collected]] [[H3701|the money]] [[H1060|from the firstborn]] [[H1121|of the Israelites,]] [[H2568|1,365]] [[H8255|shekels,]] [[H6944|according to the sanctuary shekel.]] ^0350
 
-Take the Levites instead of all the firstborn among the people of Israel, and the cattle of the Levites instead of their cattle. The Levites shall be mine: I am the Lord. ^0345
+[[H4872|And Moses]] [[H5414|gave]] [[H6302|the redemption]] [[H3701|money]] [[H175|to Aaron]] [[H1121|and his sons]] [[H5921|in obedience to]] [[H6310|the word]] [[H3068|of the LORD,]] [[H834|just as]] [[H3068|the LORD]] [[H6680|had commanded]] ⟨him⟩ [[H4872|.]] ^0351
 
-And as the redemption price for the 273 of the firstborn of the people of Israel, over and above the number of the male Levites, ^0346
+[[H3068|Then the LORD]] [[H1696|said]] [[H413|to]] [[H4872|Moses]] [[H175|and Aaron,]] ^0401
 
-you shall take five shekels per head; you shall take them according to the shekel of the sanctuary (the shekel of twenty gerahs ), ^0347
+[[H5375|“Take a census]] [[H6955|of the Kohathites]] [[H8432|among]] [[H3881|the Levites]] [[H4940|by their clans]] [[H1|and families,]] ^0402
 
-and give the money to Aaron and his sons as the redemption price for those who are over. ^0348
+[[H7970|men from thirty]] [[H5704|to]] [[H2572|fifty]] [[H1121|years old—]] [[H3605|everyone]] [[H935|who is qualified]] [[H6635|to serve]] [[H4399|in the work]] [[H168|at the Tent]] [[H4150|of Meeting.]] ^0403
 
-So Moses took the redemption money from those who were over and above those redeemed by the Levites. ^0349
+[[H2063|This]] [[H5656|service]] [[H1121|of the Kohathites]] [[H168|at the Tent]] [[H4150|of Meeting]] [[H6944|regards the most]] [[H6944|holy things.]] ^0404
 
-From the firstborn of the people of Israel he took the money, 1,365 shekels, by the shekel of the sanctuary. ^0350
+[[H4264|Whenever the camp]] [[H5265|sets out,]] [[H175|Aaron]] [[H1121|and his sons]] [[H935|are to go in,]] [[H3381|take down]] [[H6532|the veil]] [[H4539|of the curtain,]] [[H3680|and cover]] [[H727|the Ark]] [[H5715|of the Testimony]] ^0405
 
-And Moses gave the redemption money to Aaron and his sons, according to the word of the Lord, as the Lord commanded Moses. ^0351
+[[H5414|They are to place]] [[H5921|over]] [[H3681|this a covering]] [[H8476|of fine leather,]] [[H6566|spread]] [[H3632|a solid]] [[H8504|blue]] [[H899|cloth]] [[H4605|over it,]] [[H7760|and insert]] [[H905|its poles.]] ^0406
 
+[[H5921|Over]] [[H7979|the table]] [[H6440|of the Presence]] [[H6566|they are to spread]] [[H8504|a blue]] [[H899|cloth]] [[H5414|and place]] [[H7086|the plates]] [[H3709|and cups]] [[H5921|on it,]] [[H853|along with]] [[H4518|the bowls]] [[H7184|and pitchers]] [[H5262|for the drink offering.]] [[H8548|The regular]] [[H3899|bread]] [[H1961|offering is to remain]] [[H5921|on it.]] ^0407
 
+[[H6566|And they shall spread]] [[H8438|a scarlet]] [[H899|cloth]] [[H5921|over them,]] [[H3680|cover]] [[H853|them]] [[H4372|with]] [[H8476|fine leather,]] [[H7760|and insert]] [[H905|the poles.]] ^0408
 
-The Lord spoke to Moses and Aaron, saying, ^0401
+[[H3947|They are to take]] [[H8504|a blue]] [[H899|cloth]] [[H3680|and cover]] [[H4501|the lampstand]] [[H3974|used for light,]] [[H853|together]] [[H5216|with its lamps,]] [[H4457|wick trimmers,]] [[H4289|and trays,]] [[H3627|as well as the jars]] [[H8081|of oil]] [[H834|with which]] [[H8334|to service it.]] ^0409
 
-Take a census of the sons of Kohath from among the sons of Levi, by their clans and their fathers ’ houses, ^0402
+[[H5414|Then they shall place]] [[H853|it]] [[H3605|with all]] [[H3627|its utensils]] [[H413|inside]] [[H4372|a covering]] [[H8476|of fine leather]] [[H5414|and put]] ⟨it⟩ [[H5921|on]] [[H4132|the carrying frame.]] ^0410
 
-from thirty years old up to fifty years old, all who can come on duty, to do the work in the tent of meeting. ^0403
+[[H5921|Over]] [[H2091|the gold]] [[H4196|altar]] [[H6566|they are to spread]] [[H8504|a blue]] [[H899|cloth,]] [[H3680|cover]] [[H853|it]] [[H4372|with]] [[H8476|fine leather,]] [[H7760|and insert]] [[H905|the poles.]] ^0411
 
-This is the service of the sons of Kohath in the tent of meeting : the most holy things. ^0404
+[[H3947|They are to take]] [[H3605|all]] [[H3627|the utensils]] [[H8335|for serving]] [[H6944|in the sanctuary,]] [[H5414|place]] [[H413|them in]] [[H8504|a blue]] [[H899|cloth,]] [[H3680|cover]] [[H853|them]] [[H4372|with]] [[H8476|fine leather,]] [[H5414|and put]] [[H5921|them on]] [[H4132|a carrying frame.]] ^0412
 
-When the camp is to set out, Aaron and his sons shall go in and take down the veil of the screen and cover the ark of the testimony with it. ^0405
+[[H1878|Then they shall remove the ashes]] [[H4196|from the bronze altar,]] [[H6566|spread]] [[H713|a purple]] [[H899|cloth]] [[H5921|over it,]] ^0413
 
-Then they shall put on it a covering of goatskin and spread on top of that a cloth all of blue, and shall put in its poles. ^0406
+[[H5414|and place]] [[H5921|on it]] [[H3605|all]] [[H3627|the vessels]] [[H8334|used to serve]] [[H5921|there:]] [[H4289|the firepans,]] [[H4207|meat forks,]] [[H3257|shovels,]] [[H4219|and basins—]] [[H3605|all]] [[H3627|the equipment]] [[H4196|of the altar.]] [[H6566|They are to spread]] [[H5921|over it]] [[H3681|a covering]] [[H8476|of fine leather]] [[H7760|and insert]] [[H905|the poles.]] ^0414
 
-And over the table of the bread of the Presence they shall spread a cloth of blue and put on it the plates, the dishes for incense, the bowls, and the flagons for the drink offering; the regular showbread also shall be on it. ^0407
+[[H175|When Aaron]] [[H1121|and his sons]] [[H3615|have finished]] [[H3680|covering]] [[H6944|the holy objects]] [[H3605|and all]] [[H3627|their equipment,]] [[H4264|as soon as the camp]] [[H5265|is ready to move,]] [[H1121|the Kohathites]] [[H935|shall come]] [[H5375|and do the carrying.]] [[H3808|But they must not]] [[H5060|touch]] [[H6944|the holy objects,]] [[H4191|or they will die.]] [[H428|These]] [[H4853|are the transportation duties]] [[H1121|of the Kohathites]] [[H168|regarding the Tent]] [[H4150|of Meeting.]] ^0415
 
-Then they shall spread over them a cloth of scarlet and cover the same with a covering of goatskin, and shall put in its poles. ^0408
+[[H499|Eleazar]] [[H1121|son]] [[H175|of Aaron]] [[H3548|the priest]] [[H6486|shall oversee]] [[H8081|the oil]] [[H3974|for the light,]] [[H5561|the fragrant]] [[H7004|incense,]] [[H8548|the daily]] [[H4503|grain offering,]] [[H4888|and the anointing]] [[H8081|oil.]] [[H6486|He has oversight]] [[H3605|of the entire]] [[H4908|tabernacle]] [[H3605|and everything]] [[H6944|in it,  including the holy objects]] [[H3627|and their utensils.]] ^0416
 
-And they shall take a cloth of blue and cover the lampstand for the light, with its lamps, its tongs, its trays, and all the vessels for oil with which it is supplied. ^0409
+[[H3069|Then the LORD]] [[H1696|said]] [[H413|to]] [[H4872|Moses]] [[H175|and Aaron,]] ^0417
 
-And they shall put it with all its utensils in a covering of goatskin and put it on the carrying frame. ^0410
+[[H408|“Do not]] [[H6956|allow the Kohathite]] [[H7626|tribal]] [[H4940|clans]] [[H3772|to be cut off]] [[H8432|from among]] [[H3881|the Levites.]] ^0418
 
-And over the golden altar they shall spread a cloth of blue and cover it with a covering of goatskin, and shall put in its poles. ^0411
+[[H2421|In order that they may live]] [[H3808|and not]] [[H4191|die]] [[H5066|when they come near]] [[H6944|the most]] [[H6944|holy things,]] [[H6213|do]] [[H2063|this]] [[H175|for them:  Aaron]] [[H1121|and his sons]] [[H935|are to go in]] [[H7760|and assign]] [[H376|each man]] [[H5656|his task]] [[H4853|and what he is to carry.]] ^0419
 
-And they shall take all the vessels of the service that are used in the sanctuary and put them in a cloth of blue and cover them with a covering of goatskin and put them on the carrying frame. ^0412
+[[H3808|But are not]] ⟨the Kohathites⟩ [[H935|to go in]] [[H7200|and look]] [[H6944|at the holy objects,]] [[H1104|even for a moment,]] [[H4191|or they will die.”]] ^0420
 
-And they shall take away the ashes from the altar and spread a purple cloth over it. ^0413
+[[H3068|And the LORD]] [[H1696|said]] [[H413|to]] [[H4872|Moses,]] ^0421
 
-And they shall put on it all the utensils of the altar, which are used for the service there, the fire pans, the forks, the shovels, and the basins, all the utensils of the altar; and they shall spread on it a covering of goatskin, and shall put in its poles. ^0414
+[[H5375|“Take a census]] [[H1121|of the Gershonites]] [[H1571|as well,]] [[H1|by their families]] [[H4940|and their clans,]] ^0422
 
-And when Aaron and his sons have finished covering the sanctuary and all the furnishings of the sanctuary, as the camp sets out, after that the sons of Kohath shall come to carry these, but they must not touch the holy things, lest they die. These are the things of the tent of meeting that the sons of Kohath are to carry. ^0415
+[[H7970|from thirty]] [[H5704|to]] [[H2572|fifty]] [[H1121|years old,]] [[H6485|counting]] [[H3605|everyone]] [[H935|who comes]] [[H6633|to serve]] [[H5656|in the work]] [[H168|at the Tent]] [[H4150|of Meeting.]] ^0423
 
-And Eleazar the son of Aaron the priest shall have charge of the oil for the light, the fragrant incense, the regular grain offering, and the anointing oil, with the oversight of the whole tabernacle and all that is in it, of the sanctuary and its vessels. ^0416
+[[H2063|This]] [[H5656|is the service]] [[H1649|of the Gershonite]] [[H4940|clans]] [[H5647|regarding work]] [[H4853|and transport:]] ^0424
 
-The Lord spoke to Moses and Aaron, saying, ^0417
+[[H5375|They are to carry]] [[H3407|the curtains]] [[H4908|of the tabernacle,]] [[H168|the Tent]] [[H4150|of Meeting]] [[H4372|with the covering]] [[H8476|of fine leather]] [[H5921|over]] [[H4605|it,]] [[H4539|the curtains]] [[H6607|for the entrance]] [[H168|to the Tent]] [[H4150|of Meeting,]] ^0425
 
-Let not the tribe of the clans of the Kohathites be destroyed from among the Levites, ^0418
+[[H7050|the curtains]] [[H2691|of the courtyard,]] [[H853|and]] [[H4539|the curtains]] [[H6607|for the entrance]] [[H8179|at the gate]] [[H2691|of the courtyard]] [[H834|that]] [[H5921|surrounds]] [[H4908|the tabernacle]] [[H4196|and altar,]] [[H4340|along with their ropes]] [[H3605|and all]] [[H3627|the equipment]] [[H5656|for their service.]] ⟨The Gershonites⟩ [[H5647|will do]] [[H3605|all]] [[H834|that]] [[H6213|needs to be done]] ^0426
 
-but deal thus with them, that they may live and not die when they come near to the most holy things : Aaron and his sons shall go in and appoint them each to his task and to his burden, ^0419
+[[H3605|All]] [[H5656|the service]] [[H1121|of the Gershonites—]] [[H3605|all]] [[H4853|their transport duties]] [[H3605|and]] [[H5656|other work—]] [[H5921|is to be done at]] [[H6310|the direction]] [[H175|of Aaron]] [[H1121|and his sons;]] [[H6485|you are to assign]] [[H5921|to]] [[H3605|them all]] [[H4931|that they are responsible]] [[H4853|to carry.]] ^0427
 
-but they shall not go in to look on the holy things even for a moment, lest they die. ^0420
+[[H2063|This]] [[H5656|is the service]] [[H1121|of the Gershonite]] [[H4940|clans]] [[H168|at the Tent]] [[H4150|of Meeting,]] [[H4931|and their duties]] [[H3027|shall be under the direction]] [[H385|of Ithamar]] [[H1121|son]] [[H175|of Aaron]] [[H3548|the priest.]] ^0428
 
-The Lord spoke to Moses, saying, ^0421
+[[H1121|As for the sons]] [[H4847|of Merari,]] [[H6485|you are to register]] [[H4940|them by their clans]] [[H1|and families,]] ^0429
 
-Take a census of the sons of Gershon also, by their fathers ’ houses and by their clans. ^0422
+[[H7970|from thirty]] [[H5704|to]] [[H2572|fifty]] [[H1121|years old,]] [[H6485|counting]] [[H3605|everyone]] [[H935|who comes]] [[H6635|to serve]] [[H5656|in the work]] [[H168|of the Tent]] [[H4150|of Meeting.]] ^0430
 
-From thirty years old up to fifty years old, you shall list them, all who can come to do duty, to do service in the tent of meeting. ^0423
+[[H2063|This]] [[H4931|is the duty]] [[H3605|for all]] [[H5656|their service]] [[H168|at the Tent]] [[H4150|of Meeting:]] [[H4853|to carry]] [[H7175|the frames]] [[H4908|of the tabernacle]] [[H1280|with its crossbars,]] [[H5982|posts,]] [[H134|and bases,]] ^0431
 
-This is the service of the clans of the Gershonites, in serving and bearing burdens : ^0424
+[[H5982|the posts]] [[H5439|of the surrounding]] [[H2691|courtyard]] [[H134|with their bases,]] [[H3489|tent pegs,]] [[H4340|and ropes,]] [[H3605|including all]] [[H3627|their equipment]] [[H3605|everything]] [[H5656|related to their use.]] [[H6485|You shall assign]] [[H8034|by name]] [[H3627|the items]] [[H4931|that they are responsible]] [[H4853|to carry.]] ^0432
 
-they shall carry the curtains of the tabernacle and the tent of meeting with its covering and the covering of goatskin that is on top of it and the screen for the entrance of the tent of meeting ^0425
+[[H2063|This]] [[H5656|is the service]] [[H1121|of the Merarite]] [[H4940|clans]] [[H3605|according to all]] [[H5656|their work]] [[H168|at the Tent]] [[H4150|of Meeting,]] [[H3027|under the direction]] [[H385|of Ithamar]] [[H1121|son]] [[H175|of Aaron]] [[H3548|the priest.”]] ^0433
 
-and the hangings of the court and the screen for the entrance of the gate of the court that is around the tabernacle and the altar, and their cords and all the equipment for their service. And they shall do all that needs to be done with regard to them. ^0426
+[[H4872|So Moses,]] [[H175|Aaron,]] [[H5387|and the leaders]] [[H5712|of the congregation]] [[H6485|numbered]] [[H1121|the Kohathites]] [[H4940|by their clans]] [[H1|and families,]] ^0434
 
-All the service of the sons of the Gershonites shall be at the command of Aaron and his sons, in all that they are to carry and in all that they have to do. And you shall assign to their charge all that they are to carry. ^0427
+[[H3605|everyone]] [[H7970|from thirty]] [[H5704|to]] [[H2572|fifty]] [[H1121|years old]] [[H935|who came]] [[H6635|to serve]] [[H5656|in the work]] [[H168|at the Tent]] [[H4150|of Meeting.]] ^0435
 
-This is the service of the clans of the sons of the Gershonites in the tent of meeting, and their guard duty is to be under the direction of Ithamar the son of Aaron the priest. ^0428
+[[H1961|And those]] [[H6485|numbered]] [[H4940|by their clans]] [[H505|totaled 2,750.]] ^0436
 
-As for the sons of Merari, you shall list them by their clans and their fathers ’ houses. ^0429
+[[H428|These]] [[H6485|were counted]] [[H6956|from the Kohathite]] [[H4940|clans,]] [[H3605|everyone]] [[H5647|who could serve]] [[H168|at the Tent]] [[H4150|of Meeting.]] [[H4872|Moses]] [[H175|and Aaron]] [[H6485|numbered]] [[H834|them]] [[H5921|according to]] [[H6310|the command]] [[H3068|of the LORD]] [[H3027|through]] [[H4872|Moses.]] ^0437
 
-From thirty years old up to fifty years old, you shall list them, everyone who can come on duty, to do the service of the tent of meeting. ^0430
+[[H1121|Then the Gershonites]] [[H6485|were numbered]] [[H4940|by their clans]] [[H1|and families,]] ^0438
 
-And this is what they are charged to carry, as the whole of their service in the tent of meeting : the frames of the tabernacle, with its bars, pillars, and bases, ^0431
+[[H3605|everyone]] [[H7970|from thirty]] [[H5704|to]] [[H2572|fifty]] [[H1121|years old]] [[H935|who came]] [[H6635|to serve]] [[H5656|in the work]] [[H168|at the Tent]] [[H4150|of Meeting.]] ^0439
 
-and the pillars around the court with their bases, pegs, and cords, with all their equipment and all their accessories. And you shall list by name the objects that they are required to carry. ^0432
+[[H1961|And those]] [[H6485|numbered]] [[H4940|by their clans]] [[H1|and families]] [[H505|totaled 2,630.]] ^0440
 
-This is the service of the clans of the sons of Merari, the whole of their service in the tent of meeting, under the direction of Ithamar the son of Aaron the priest. ^0433
+[[H428|These]] [[H6485|were counted]] [[H1648|from the Gershonite]] [[H4940|clans]] [[H5647|who served]] [[H168|at the Tent]] [[H4150|of Meeting,]] [[H834|whom]] [[H4872|Moses]] [[H175|and Aaron]] [[H6485|counted]] [[H5921|at]] [[H3068|the LORD’s]] [[H6310|command.]] ^0441
 
-And Moses and Aaron and the chiefs of the congregation listed the sons of the Kohathites, by their clans and their fathers ’ houses, ^0434
+[[H4847|And the Merarites]] [[H6485|were counted]] [[H4940|by their clans]] [[H1|and their families,]] ^0442
 
-from thirty years old up to fifty years old, everyone who could come on duty, for service in the tent of meeting; ^0435
+[[H3605|everyone]] [[H7970|from thirty]] [[H5704|to]] [[H2572|fifty]] [[H1121|years old]] [[H935|who came]] [[H6635|to serve]] [[H5656|in the work]] [[H168|at the Tent]] [[H4150|of Meeting.]] ^0443
 
-and those listed by clans were 2,750. ^0436
+[[H6485|The men registered]] [[H4940|by their clans]] [[H7969|numbered 3,200.]] ^0444
 
-This was the list of the clans of the Kohathites, all who served in the tent of meeting, whom Moses and Aaron listed according to the commandment of the Lord by Moses. ^0437
+[[H428|These]] [[H6485|were counted]] [[H4847|from the Merarite]] [[H4940|clans,]] [[H834|whom]] [[H4872|Moses]] [[H175|and Aaron]] [[H6485|numbered]] [[H5921|at]] [[H3068|the LORD’s]] [[H6310|command]] [[H3027|through]] [[H4872|Moses.]] ^0445
 
-Those listed of the sons of Gershon, by their clans and their fathers ’ houses, ^0438
+[[H4872|So Moses,]] [[H175|Aaron,]] [[H5387|and the leaders]] [[H3478|of Israel]] [[H6485|counted]] [[H4940|by their clans]] [[H1|and families]] [[H3605|all]] [[H3881|the Levites]] ^0446
 
-from thirty years old up to fifty years old, everyone who could come on duty for service in the tent of meeting — ^0439
+[[H7970|from thirty]] [[H5704|to]] [[H2572|fifty]] [[H1121|years old]] [[H935|who came]] [[H5647|to do]] [[H5656|the work]] [[H5656|of serving]] [[H4853|and carrying]] [[H168|the Tent]] [[H4150|of Meeting.]] ^0447
 
-those listed by their clans and their fathers ’ houses were 2,630. ^0440
+[[H1961|And]] [[H6485|the number of men]] [[H8083|was 8,580.]] ^0448
 
-This was the list of the clans of the sons of Gershon, all who served in the tent of meeting, whom Moses and Aaron listed according to the commandment of the Lord. ^0441
+[[H5921|At]] [[H3068|the LORD’s]] [[H6310|command]] [[H6485|they were registered]] [[H3027|through]] [[H4872|Moses]] [[H376|and each one]] [[H6485|was assigned]] [[H5656|his work]] [[H4853|and burden,]] [[H834|as]] [[H3068|the LORD]] [[H6680|had commanded]] [[H4872|Moses.]] ^0449
 
-Those listed of the clans of the sons of Merari, by their clans and their fathers ’ houses, ^0442
+[[H3068|Then the LORD]] [[H1696|said]] [[H4872|to Moses,]] ^0501
 
-from thirty years old up to fifty years old, everyone who could come on duty, for service in the tent of meeting — ^0443
+[[H6680|“Command]] [[H1121|the Israelites]] [[H7971|to send away]] [[H4480|from]] [[H4264|the camp]] [[H3605|anyone]] [[H6879|with a skin disease,]] [[H3605|anyone]] [[H2100|who has a bodily discharge,]] [[H3605|and anyone]] [[H2931|who is defiled]] [[H5315|by a dead body.]] ^0502
 
-those listed by clans were 3,200. ^0444
+[[H7971|You must send away]] [[H2145|male]] [[H5704|and]] [[H5347|female alike;]] [[H7971|send them]] [[H2351|outside]] [[H4264|the camp,]] [[H3808|so that they will not]] [[H2930|defile]] [[H4264|their camp]] [[H834|where]] [[H589|I]] [[H7931|dwell]] [[H8432|among them.”]] ^0503
 
-This was the list of the clans of the sons of Merari, whom Moses and Aaron listed according to the commandment of the Lord by Moses. ^0445
+[[H1121|The Israelites]] [[H6213|did]] [[H3651|this,]] [[H7971|sending]] ⟨such people⟩ [[H853|]] [[H2351|outside]] [[H4264|the camp.]] ⟨They⟩ [[H1121|]] [[H6213|did]] [[H834|just as]] [[H3068|the LORD]] [[H1696|had instructed]] [[H4872|Moses.]] ^0504
 
-All those who were listed of the Levites, whom Moses and Aaron and the chiefs of Israel listed, by their clans and their fathers ’ houses, ^0446
+[[H3068|And the LORD]] [[H1696|said]] [[H413|to]] [[H4872|Moses,]] ^0505
 
-from thirty years old up to fifty years old, everyone who could come to do the service of ministry and the service of bearing burdens in the tent of meeting, ^0447
+[[H1696|“Tell]] [[H1121|the Israelites that]] [[H3588|when]] [[H376|a man]] [[H176|or]] [[H802|woman]] [[H4603|acts]] [[H4604|unfaithfully]] [[H3068|against the LORD]] [[H6213|by committing]] [[H3605|any]] [[H2403|sin]] [[H120|against another,]] [[H1931|that]] [[H5315|person]] [[H816|is guilty]] ^0506
 
-those listed were 8,580. ^0448
+[[H3034|and must confess]] [[H2403|the sin]] [[H6213|he has committed.]] [[H7725|He must pay full compensation,]] [[H3254|add]] [[H2549|a fifth]] [[H5921|to its value,]] [[H5414|and give all this]] [[H834|to the one]] [[H816|he has wronged.]] ^0507
 
-According to the commandment of the Lord through Moses they were listed, each one with his task of serving or carrying. Thus they were listed by him, as the Lord commanded Moses. ^0449
+[[H518|But if]] [[H376|the man]] [[H369|has no]] [[H1350|relative]] [[H7725|to compensate,]] [[H7725|the restitution]] [[H3068|belongs to the LORD]] [[H3548|and must be given to the priest]] [[H905|along with]] [[H352|the ram]] [[H3725|of atonement,]] [[H834|by which]] [[H3722|the atonement is made]] [[H5921|for him.]] ^0508
 
+[[H3605|Every]] [[H6944|sacred]] [[H8641|contribution]] [[H1121|the Israelites]] [[H7126|bring]] [[H3548|to the priest]] [[H1961|shall belong]] ^0509
 
+[[H376|Each man’s]] [[H6944|sacred gifts]] [[H834|are his own, whatever]] ⟨but⟩ ⟨he⟩ [[H376|]] [[H5414|gives]] [[H3548|to the priest]] [[H1961|will belong to]] ^0510
 
-The Lord spoke to Moses, saying, ^0501
+[[H3068|Then the LORD]] [[H1696|said]] [[H413|to]] [[H4872|Moses,]] ^0511
 
-Command the people of Israel that they put out of the camp everyone who is leprous or has a discharge and everyone who is unclean through contact with the dead. ^0502
+[[H1696|“Speak]] [[H413|to]] [[H1121|the Israelites]] [[H559|and tell them that]] [[H3588|if]] [[H376|any man’s]] [[H802|wife]] [[H7847|goes astray]] [[H4603|and is unfaithful]] [[H4604|to him]] ^0512
 
-You shall put out both male and female, putting them outside the camp, that they may not defile their camp, in the midst of which I dwell. ^0503
+[[H7901|by sleeping with]] [[H376|another man,]] [[H5956|and it is concealed]] [[H5869|from]] [[H376|her husband]] [[H1931|and her]] [[H2930|impurity]] [[H5641|is undetected]] [[H369|(since there is no]] [[H5707|witness against her]] [[H1931|and she]] [[H3808|was not]] [[H8610|caught in the act),]] ^0513
 
-And the people of Israel did so, and put them outside the camp; as the Lord said to Moses, so the people of Israel did. ^0504
+[[H7307|and if a feeling]] [[H7068|of jealousy]] [[H5674|comes over]] ⟨her husband⟩ [[H5921|]] [[H7065|and he suspects]] [[H802|his wife]] [[H1931|who]] [[H2930|has defiled herself—]] [[H176|or]] [[H7307|if a feeling]] [[H7068|of jealousy]] [[H5674|comes over]] [[H5921|him]] [[H7065|and he suspects]] [[H802|her]] [[H1931|even though she]] [[H3808|has not]] [[H2930|defiled herself—]] ^0514
 
-And the Lord spoke to Moses, saying, ^0505
+[[H376|then]] ⟨he⟩ [[H935|is to bring]] [[H802|his wife]] [[H413|to]] [[H3548|the priest.]] [[H935|He must also bring]] [[H5921|for her]] [[H7133|an offering]] [[H6224|of a tenth]] [[H374|of an ephah]] [[H8184|of barley]] [[H7058|flour.]] [[H3808|He is not]] [[H3332|to pour]] [[H8081|oil]] [[H5921|over]] [[H5414|it or put]] [[H3828|frankincense]] [[H5921|on it,]] [[H3588|because]] [[H1931|it]] [[H4503|is a grain offering]] [[H7068|for jealousy,]] [[H4503|an offering]] [[H2146|of memorial]] [[H2142|as a reminder]] [[H5771|of iniquity.]] ^0515
 
-Speak to the people of Israel, When a man or woman commits any of the sins that people commit by breaking faith with the Lord, and that person realizes his guilt, ^0506
+[[H3548|The priest]] [[H7126|is to bring forward]] ⟨the wife⟩ [[H5975|and have her stand]] [[H6440|before]] [[H3069|the LORD.]] ^0516
 
-he shall confess his sin that he has committed. And he shall make full restitution for his wrong, adding a fifth to it and giving it to him to whom he did the wrong. ^0507
+[[H3548|Then]] ⟨he⟩ [[H3947|is to take]] ⟨some⟩ [[H6918|holy]] [[H4325|water]] [[H2789|in a clay]] [[H3627|jar]] [[H5414|and put]] [[H4480|some of]] [[H6083|the dust]] [[H4908|from the tabernacle]] [[H7172|floor]] [[H413|into]] [[H4325|the water.]] ^0517
 
-But if the man has no next of kin to whom restitution may be made for the wrong, the restitution for wrong shall go to the Lord for the priest, in addition to the ram of atonement with which atonement is made for him. ^0508
+[[H3548|After the priest]] [[H802|has the woman]] [[H5975|stand]] [[H6440|before]] [[H3068|the LORD,]] [[H6544|he is to let down]] [[H802|her]] [[H7218|hair]] [[H5414|and place]] [[H5921|in]] [[H3709|her hands]] [[H4503|the grain offering]] [[H2146|of memorial,]] [[H1931|which]] [[H4503|is the grain offering]] [[H7068|for jealousy.]] [[H3548|The priest]] [[H1961|is]] [[H3027|to hold]] [[H4751|the bitter]] [[H4325|water]] [[H779|that brings a curse.]] ^0518
 
-And every contribution, all the holy donations of the people of Israel, which they bring to the priest, shall be his. ^0509
+[[H3548|And]] ⟨he⟩ [[H7650|is to require the woman to take an oath]] [[H559|and say]] [[H413|to]] [[H802|her,]] [[H518|‘If]] [[H3808|no other]] [[H376|man]] [[H7901|has slept with you]] [[H518|and]] [[H3808|you have not]] [[H7847|gone astray]] [[H2932|and become defiled]] [[H8478|while under]] [[H376|your husband’s authority,]] [[H5352|may you be immune]] [[H428|to this]] [[H4751|bitter]] [[H4325|water]] [[H779|that brings a curse.]] ^0519
 
-Each one shall keep his holy donations : whatever anyone gives to the priest shall be his. ^0510
+[[H3588|But if]] [[H859|you]] [[H7847|have gone astray]] [[H8478|while under]] [[H376|your husband’s authority]] [[H3588|and]] [[H2930|defiled yourself]] [[H376|with a man]] [[H1107|other than]] [[H376|your husband]] [[H5414|who has slept]] [[H7903|with you’—]] ^0520
 
-And the Lord spoke to Moses, saying, ^0511
+[[H3548|then the priest]] [[H802|shall have the woman]] [[H7650|swear]] [[H7621|under the oath]] [[H423|of the curse—]] [[H3068|‘May the LORD]] [[H5414|make]] [[H853|you]] [[H423|an attested]] [[H7621|curse]] [[H8432|among]] [[H5971|your people]] [[H3068|if]] ⟨He⟩ [[H5414|makes]] [[H3409|your thigh]] [[H5307|shrivel]] [[H990|and your belly]] [[H6638|swell.]] ^0521
 
-Speak to the people of Israel, If any man’s wife goes astray and breaks faith with him, ^0512
+[[H428|May this]] [[H4325|water]] [[H779|that brings a curse]] [[H935|enter]] [[H4578|your stomach]] [[H990|and cause your belly]] [[H6638|to swell]] [[H3409|and your thigh]] [[H5307|to shrivel.’]] [[H802|Then the woman]] [[H559|is to say,]] [[H543|‘Amen,]] [[H543|Amen.’]] ^0522
 
-if a man lies with her sexually, and it is hidden from the eyes of her husband, and she is undetected though she has defiled herself, and there is no witness against her, since she was not taken in the act, ^0513
+[[H3548|And the priest]] [[H3789|shall write]] [[H428|these]] [[H423|curses]] [[H5612|on a scroll]] [[H4229|and wash them off]] [[H413|into]] [[H4751|the bitter]] [[H4325|water.]] ^0523
 
-and if the spirit of jealousy comes over him and he is jealous of his wife who has defiled herself, or if the spirit of jealousy comes over him and he is jealous of his wife, though she has not defiled herself, ^0514
+[[H802|He is to have the woman]] [[H8248|drink]] [[H4751|the bitter]] [[H4325|water]] [[H779|that brings a curse,]] [[H4325|and it]] [[H935|will enter]] [[H4751|her  and cause her bitter]] [[H779|suffering.]] ^0524
 
-then the man shall bring his wife to the priest and bring the offering required of her, a tenth of an ephah of barley flour. He shall pour no oil on it and put no frankincense on it, for it is a grain offering of jealousy, a grain offering of remembrance, bringing iniquity to remembrance. ^0515
+[[H3548|The priest]] [[H3947|shall take]] [[H802|from]] ⟨her⟩ [[H3027|hand]] [[H4503|the grain offering]] [[H7068|for jealousy,]] [[H5130|wave]] ⟨it⟩ [[H4503|]] [[H6440|before]] [[H3068|the LORD,]] [[H7126|and bring]] [[H413|it to]] [[H4196|the altar.]] ^0525
 
-And the priest shall bring her near and set her before the Lord. ^0516
+[[H3548|The priest is then]] [[H7061|to take a handful]] [[H4480|of]] [[H4503|the grain offering]] [[H234|as a memorial portion]] [[H6999|and burn]] [[H4196|it on the altar;]] [[H310|after that]] [[H802|he is to have the woman]] [[H8248|drink]] [[H4325|the water.]] ^0526
 
-And the priest shall take holy water in an earthenware vessel and take some of the dust that is on the floor of the tabernacle and put it into the water. ^0517
+[[H8248|When he has made her drink]] [[H4325|the water,]] [[H518|if]] [[H2930|she has defiled]] [[H4603|herself and been unfaithful]] [[H376|to her husband,]] [[H4325|then the water]] [[H779|that brings a curse]] [[H935|will enter]] [[H4751|her  and cause bitter suffering;]] [[H990|her belly]] [[H6638|will swell,]] [[H3409|her thigh]] [[H5307|will shrivel,]] [[H1961|and she will become]] [[H423|accursed]] [[H7130|among]] [[H5971|her people.]] ^0527
 
-And the priest shall set the woman before the Lord and unbind the hair of the woman’s head and place in her hands the grain offering of remembrance, which is the grain offering of jealousy. And in his hand the priest shall have the water of bitterness that brings the curse. ^0518
+[[H518|But if]] [[H802|the woman]] [[H3808|has not]] [[H2930|defiled herself]] [[H2889|and is clean,]] [[H1931|she]] [[H5352|will be unaffected]] [[H2232|and able to conceive]] [[H2233|children.]] ^0528
 
-Then the priest shall make her take an oath, saying, If no man has lain with you, and if you have not turned aside to uncleanness while you were under your husband’s authority, be free from this water of bitterness that brings the curse. ^0519
+[[H2063|This]] [[H8451|is the law]] [[H7068|of jealousy]] [[H834|when]] [[H802|a wife]] [[H7847|goes astray]] [[H2930|and defiles herself]] [[H8478|while under]] [[H376|her husband’s authority,]] ^0529
 
-But if you have gone astray, though you are under your husband’s authority, and if you have defiled yourself, and some man other than your husband has lain with you, ^0520
+[[H176|or]] [[H834|when]] [[H7307|a feeling]] [[H7068|of jealousy]] [[H5674|comes over]] [[H376|a husband]] [[H7065|and he suspects]] [[H802|his wife.]] [[H802|He is to have the woman]] [[H5975|stand]] [[H6440|before]] [[H3068|the LORD,]] [[H3548|and the priest]] [[H6213|is to apply]] [[H2063|to her  this]] [[H3605|entire]] [[H8451|ritual.]] ^0530
 
-then (let the priest make the woman take the oath of the curse, and say to the woman ) the Lord make you a curse and an oath among your people, when the Lord makes your thigh fall away and your body swell. ^0521
+[[H376|The husband]] [[H5352|will be free]] [[H5771|from guilt,]] [[H1931|but the]] [[H802|woman]] [[H5375|shall bear]] [[H853|her]] [[H5771|iniquity.”]] ^0531
 
-May this water that brings the curse pass into your bowels and make your womb swell and your thigh fall away. And the woman shall say, Amen, Amen. ^0522
+[[H3068|Again the LORD]] [[H1696|said]] [[H4872|to Moses,]] ^0601
 
-Then the priest shall write these curses in a book and wash them off into the water of bitterness. ^0523
+[[H1696|“Speak]] [[H413|to]] [[H1121|the Israelites]] [[H559|and tell]] [[H413|them:]] [[H3588|If]] [[H376|a man]] [[H176|or]] [[H802|woman]] [[H6381|makes a special]] [[H5087|vow,]] [[H5088|the vow]] [[H5139|of a Nazirite,]] [[H5144|to separate himself]] [[H3069|to the LORD,]] ^0602
 
-And he shall make the woman drink the water of bitterness that brings the curse, and the water that brings the curse shall enter into her and cause bitter pain. ^0524
+[[H5144|he is to abstain]] [[H3196|from wine]] [[H7941|and strong drink.]] [[H3808|He must not]] [[H8354|drink]] [[H2558|vinegar]] [[H3196|made from wine]] ⟨or⟩ [[H7941|strong drink,]] [[H3808|and he must not]] [[H8354|drink]] [[H3605|any]] [[H6025|grape]] [[H4952|juice]] [[H398|or eat]] [[H3892|fresh]] [[H6025|grapes]] [[H3002|or raisins.]] ^0603
 
-And the priest shall take the grain offering of jealousy out of the woman’s hand and shall wave the grain offering before the Lord and bring it to the altar. ^0525
+[[H3605|All]] [[H3117|the days]] [[H5145|of his separation,]] [[H3808|he is not]] [[H398|to eat]] [[H6213|anything that comes from]] [[H1612|the grapevine,]] [[H2785|not even the seeds]] [[H5704|or]] [[H2085|skins.]] ^0604
 
-And the priest shall take a handful of the grain offering, as its memorial portion, and burn it on the altar, and afterward shall make the woman drink the water. ^0526
+[[H3605|For the entire]] [[H3117|period]] [[H5088|of his vow]] [[H5145|of separation,]] [[H3808|no]] [[H8593|razor]] [[H5674|shall pass]] [[H5921|over]] [[H7218|his head.]] [[H1961|He must be]] [[H6918|holy]] [[H5704|until]] [[H3117|the time]] [[H834|of]] [[H5144|his separation]] [[H3068|to the LORD]] [[H4390|is complete;]] [[H8181|he must let the hair]] [[H7218|of his head]] [[H1431|grow]] [[H6545|long.]] ^0605
 
-And when he has made her drink the water, then, if she has defiled herself and has broken faith with her husband, the water that brings the curse shall enter into her and cause bitter pain, and her womb shall swell, and her thigh shall fall away, and the woman shall become a curse among her people. ^0527
+[[H3605|Throughout]] [[H3117|the days]] [[H5144|of his separation]] [[H3068|to the LORD,]] [[H3808|he must not]] [[H935|go]] [[H5921|near]] [[H4191|a dead]] [[H5315|body.]] ^0606
 
-But if the woman has not defiled herself and is clean, then she shall be free and shall conceive children. ^0528
+[[H1|Even if his father]] [[H517|or mother]] [[H251|or brother]] [[H269|or sister]] [[H4194|should die,]] [[H3808|he is not]] [[H2930|to defile himself,]] [[H3588|because]] [[H5145|the crown of consecration]] [[H430|to his God]] [[H5921|is upon]] [[H7218|his head.]] ^0607
 
-This is the law in cases of jealousy, when a wife, though under her husband’s authority, goes astray and defiles herself, ^0529
+[[H3605|Throughout the time]] [[H5145|of his separation,]] [[H1931|he]] [[H6918|is holy]] [[H3068|to the LORD.]] ^0608
 
-or when the spirit of jealousy comes over a man and he is jealous of his wife. Then he shall set the woman before the Lord, and the priest shall carry out for her all this law. ^0530
+[[H3588|If]] [[H6621|someone suddenly]] [[H4191|dies]] [[H5921|in his presence]] [[H2930|and defiles]] [[H7218|his consecrated head]] [[H5145|of hair,]] [[H1548|he must shave]] [[H7218|his head]] [[H3117|on the day]] [[H2893|of his cleansing—]] [[H7637|the seventh]] [[H3117|day.]] ^0609
 
-The man shall be free from iniquity, but the woman shall bear her iniquity. ^0531
+[[H8066|On the eighth]] [[H3117|day]] [[H935|he must bring]] [[H8147|two]] [[H8449|turtledoves]] [[H176|or]] [[H8147|two]] [[H1121|young]] [[H3123|pigeons]] [[H413|to]] [[H3548|the priest]] [[H413|at]] [[H6607|the entrance]] [[H168|to the Tent]] [[H4150|of Meeting.]] ^0610
 
+[[H3548|And the priest]] [[H6213|is to offer]] [[H259|one]] [[H2403|as a sin offering]] [[H259|and the other]] [[H5930|as a burnt offering]] [[H3722|to make atonement]] [[H5921|for him,]] [[H834|because]] [[H2398|he has sinned]] [[H5921|by being in the presence]] [[H5315|of the dead body.]] [[H1931|On that]] [[H3117|day]] [[H6942|he must consecrate]] [[H7218|his head again.]] ^0611
 
+[[H5144|He must rededicate]] [[H3117|his time]] [[H5145|of separation]] [[H3068|to the LORD]] [[H935|and bring]] [[H1121|a year-old]] [[H3532|male lamb]] [[H817|as a guilt offering.]] [[H7223|But the preceding]] [[H3117|days]] [[H5307|shall not be counted,]] [[H3588|because]] [[H5145|his separation]] [[H2930|was defiled.]] ^0612
 
-And the Lord spoke to Moses, saying, ^0601
+[[H2063|This]] [[H8451|is the law]] [[H5139|of the Nazirite]] [[H3117|when]] [[H3117|his time]] [[H5145|of separation]] [[H4390|is complete:]] [[H935|He must be brought]] [[H413|to]] [[H6607|the entrance]] [[H168|to the Tent]] [[H4150|of Meeting,]] ^0613
 
-Speak to the people of Israel and say to them, When either a man or a woman makes a special vow, the vow of a Nazirite, to separate himself to the Lord, ^0602
+[[H7126|and he is to present]] [[H7133|an offering]] [[H3068|to the LORD]] [[H259|of an]] [[H8549|unblemished]] [[H1121|year-old]] [[H3532|male lamb]] [[H5930|as a burnt offering,]] [[H259|an]] [[H8549|unblemished]] [[H1323|year-old]] [[H3535|female lamb]] [[H2403|as a sin offering,]] [[H259|and an]] [[H8549|unblemished]] [[H352|ram]] [[H8002|as a peace offering—]] ^0614
 
-he shall separate himself from wine and strong drink. He shall drink no vinegar made from wine or strong drink and shall not drink any juice of grapes or eat grapes, fresh or dried. ^0603
+[[H4503|together with their grain offerings]] [[H5262|and drink offerings—]] [[H5536|and a basket]] [[H4682|of unleavened]] [[H2471|cakes]] [[H5560|made from fine flour]] [[H1101|mixed]] [[H8081|with oil]] [[H4682|and unleavened]] [[H7550|wafers]] [[H4886|coated]] [[H8081|with oil.]] ^0615
 
-All the days of his separation he shall eat nothing that is produced by the grapevine, not even the seeds or the skins. ^0604
+[[H3548|The priest]] [[H7126|is to present all these]] [[H6440|before]] [[H3068|the LORD]] [[H6213|and make]] [[H2403|the sin offering]] [[H853|and]] [[H5930|the burnt offering.]] ^0616
 
-All the days of his vow of separation, no razor shall touch his head. Until the time is completed for which he separates himself to the Lord, he shall be holy. He shall let the locks of hair of his head grow long. ^0605
+[[H6213|He shall also offer]] [[H352|the ram]] [[H8002|as a peace offering]] [[H3068|to the LORD,]] [[H5921|along with]] [[H5536|the basket]] [[H4682|of unleavened bread.]] [[H3548|And the priest]] [[H6213|is to offer]] [[H4503|the accompanying grain offering]] [[H5262|and drink offering.]] ^0617
 
-All the days that he separates himself to the Lord he shall not go near a dead body. ^0606
+[[H6607|Then at the entrance]] [[H168|to the Tent]] [[H4150|of Meeting,]] [[H5139|the Nazirite]] [[H1548|is to shave]] [[H5145|his consecrated]] [[H7218|head,]] [[H3947|take]] [[H8181|the hair,]] [[H5414|and put]] [[H5921|it on]] [[H784|the fire]] [[H8478|under]] [[H8002|the peace offering.]] ^0618
 
-Not even for his father or for his mother, for brother or sister, if they die, shall he make himself unclean, because his separation to God is on his head. ^0607
+[[H3548|And the priest]] [[H3947|is to take]] [[H1311|the boiled]] [[H2220|shoulder]] [[H4480|from]] [[H352|the ram,]] [[H259|one]] [[H4682|unleavened]] [[H2471|cake]] [[H4480|from]] [[H5536|the basket,]] [[H259|and one]] [[H4682|unleavened]] [[H7550|wafer,]] [[H5414|and put]] [[H5921|them into]] [[H3709|the hands]] [[H5139|of the Nazirite]] [[H310|who has just]] [[H1548|shaved]] ⟨the hair of⟩ [[H5145|his consecration.]] ^0619
 
-All the days of his separation he is holy to the Lord. ^0608
+[[H3548|The priest]] [[H5130|shall then wave]] [[H853|them]] [[H8573|as a wave offering]] [[H6440|before]] [[H3068|the LORD.]] [[H1931|This]] [[H6944|is a holy]] [[H3548|portion for the priest,]] [[H5921|in addition to]] [[H2373|the breast]] [[H8573|of the wave offering]] [[H7785|and the thigh]] [[H8641|that was presented.]] [[H310|After that,]] [[H5139|the Nazirite]] [[H8354|may drink]] [[H3196|wine.]] ^0620
 
-And if any man dies very suddenly beside him and he defiles his consecrated head, then he shall shave his head on the day of his cleansing; on the seventh day he shall shave it. ^0609
+[[H2063|This]] ⟨is⟩ [[H8451|the law]] [[H5139|of the Nazirite]] [[H834|who]] [[H5087|vows]] [[H7133|his offering]] [[H3068|to the LORD]] [[H5921|for]] [[H5145|his separation,]] [[H905|in addition to]] [[H834|whatever else]] [[H5381|he can afford;]] [[H6213|he must fulfill]] [[H834|whatever]] [[H5088|vow]] [[H5087|he makes,]] [[H5921|according to]] [[H8451|the ritual]] [[H5145|of his separation.”]] ^0621
 
-On the eighth day he shall bring two turtledoves or two pigeons to the priest to the entrance of the tent of meeting, ^0610
+[[H3068|Then the LORD]] [[H1696|said]] [[H413|to]] [[H4872|Moses,]] ^0622
 
-and the priest shall offer one for a sin offering and the other for a burnt offering, and make atonement for him, because he sinned by reason of the dead body. And he shall consecrate his head that same day ^0611
+[[H1696|“Tell]] [[H175|Aaron]] [[H1121|and his sons:]] [[H1288|This is how you are to bless]] [[H1121|the Israelites.]] [[H559|Say to them:]] ^0623
 
-and separate himself to the Lord for the days of his separation and bring a male lamb a year old for a guilt offering. But the previous period shall be void, because his separation was defiled. ^0612
+[[H3068|‘May the LORD]] [[H1288|bless you]] [[H8104|and keep you;]] ^0624
 
-And this is the law for the Nazirite, when the time of his separation has been completed : he shall be brought to the entrance of the tent of meeting, ^0613
+[[H3068|may the LORD]] [[H6440|cause His face]] [[H215|to shine]] [[H413|upon you]] [[H2603|and be gracious to you;]] ^0625
 
-and he shall bring his gift to the Lord, one male lamb a year old without blemish for a burnt offering, and one ewe lamb a year old without blemish as a sin offering, and one ram without blemish as a peace offering, ^0614
+[[H3068|may the LORD]] [[H5375|lift up]] [[H6440|His countenance]] [[H413|toward you]] [[H7760|and give]] [[H7965|you  peace.’]] ^0626
 
-and a basket of unleavened bread, loaves of fine flour mixed with oil, and unleavened wafers smeared with oil, and their grain offering and their drink offerings. ^0615
+[[H7760|So they shall put]] [[H8034|My name]] [[H5921|on]] [[H1121|the Israelites,]] [[H589|and I]] [[H1288|will bless them.”]] ^0627
 
-And the priest shall bring them before the Lord and offer his sin offering and his burnt offering, ^0616
+[[H3117|On the day]] [[H4872|Moses]] [[H3615|finished]] [[H6965|setting up]] [[H4908|the tabernacle,]] [[H4886|he anointed]] [[H6942|and consecrated]] [[H853|it]] [[H3605|and all]] [[H3627|its furnishings,]] [[H4196|along with the altar]] [[H3605|and all]] [[H3627|its utensils.]] ^0701
 
-and he shall offer the ram as a sacrifice of peace offering to the Lord, with the basket of unleavened bread. The priest shall offer also its grain offering and its drink offering. ^0617
+[[H5387|And the leaders]] [[H3478|of Israel,]] [[H7218|the heads]] [[H1|of their families,]] [[H7126|presented an offering.]] [[H1992|These]] ⟨men⟩ [[H4294|were the tribal]] [[H5387|leaders]] [[H5975|who had supervised]] [[H6485|the registration.]] ^0702
 
-And the Nazirite shall shave his consecrated head at the entrance of the tent of meeting and shall take the hair from his consecrated head and put it on the fire that is under the sacrifice of the peace offering. ^0618
+[[H935|They brought]] [[H7133|as their offering]] [[H6440|before]] [[H3068|the LORD]] [[H8337|six]] [[H6632|covered]] [[H5699|carts]] [[H8147|and twelve]] [[H1241|oxen—]] [[H7794|an ox]] [[H259|from each]] ⟨leader⟩ [[H5699|and a cart]] [[H5921|from]] [[H8147|every two]] [[H5387|leaders—]] [[H7126|and presented]] [[H853|them]] [[H6440|before]] [[H4908|the tabernacle.]] ^0703
 
-And the priest shall take the shoulder of the ram, when it is boiled, and one unleavened loaf out of the basket and one unleavened wafer, and shall put them on the hands of the Nazirite, after he has shaved the hair of his consecration, ^0619
+[[H3068|And the LORD]] [[H559|said]] [[H413|to]] [[H4872|Moses,]] ^0704
 
-and the priest shall wave them for a wave offering before the Lord. They are a holy portion for the priest, together with the breast that is waved and the thigh that is contributed. And after that the Nazirite may drink wine. ^0620
+[[H3947|“Accept these]] ⟨gifts⟩ [[H853|from them,]] [[H1961|that they may be]] [[H5647|used]] [[H5656|in the work]] [[H168|of the Tent]] [[H4150|of Meeting.]] [[H5414|And give]] [[H853|them]] [[H413|to]] [[H3881|the Levites,]] [[H376|to every man]] [[H6310|according to]] [[H5656|his service.”]] ^0705
 
-This is the law of the Nazirite. But if he vows an offering to the Lord above his Nazirite vow, as he can afford, in exact accordance with the vow that he takes, then he shall do in addition to the law of the Nazirite. ^0621
+[[H4872|So Moses]] [[H3947|took]] [[H5699|the carts]] [[H1241|and oxen]] [[H5414|and gave]] [[H413|them to]] [[H3881|the Levites.]] ^0706
 
-The Lord spoke to Moses, saying, ^0622
+[[H5414|He gave]] [[H1121|the Gershonites]] [[H8147|two]] [[H5699|carts]] [[H702|and four]] [[H1241|oxen,]] [[H5656|as their service]] [[H6310|required,]] ^0707
 
-Speak to Aaron and his sons, saying, Thus you shall bless the people of Israel : you shall say to them, ^0623
+[[H853|and]] [[H5414|he gave]] [[H1121|the Merarites]] [[H702|four]] [[H5699|carts]] [[H8083|and eight]] [[H1241|oxen,]] [[H5656|as their service]] [[H6310|required,]] [[H3027|all under the direction]] [[H385|of Ithamar]] [[H1121|son]] [[H175|of Aaron]] [[H3548|the priest.]] ^0708
 
-The Lord bless you and keep you; ^0624
+[[H3808|But he did not]] [[H5414|give]] [[H1121|any to the Kohathites,]] [[H3588|since]] [[H5375|they were to carry]] [[H5921|on their]] [[H3802|shoulders]] [[H6944|the holy objects]] [[H5656|for which they were responsible.]] ^0709
 
-the Lord make his face to shine upon you and be gracious to you; ^0625
+[[H3117|When]] ⟨the altar⟩ [[H4886|was anointed,]] [[H5387|the leaders]] [[H7126|approached]] [[H7133|with their offerings]] [[H2598|for dedication]] ⟨its⟩ ⟨and⟩ [[H5387|]] [[H7126|presented them]] [[H6440|before]] [[H4196|the altar.]] ^0710
 
-the Lord lift up his countenance upon you and give you peace. ^0626
+[[H559|And the LORD said]] [[H413|to]] [[H4872|Moses,]] [[H3117|“Each day]] [[H259|one]] [[H5387|leader]] [[H7126|is to present]] [[H7133|his offering]] [[H2598|for the dedication]] [[H4196|of the altar.”]] ^0711
 
-So shall they put my name upon the people of Israel, and I will bless them. ^0627
+[[H7223|On the first]] [[H3117|day]] [[H5177|Nahshon]] [[H1121|son]] [[H5992|of Amminadab]] [[H4294|from the tribe]] [[H3063|of Judah]] [[H7126|drew near]] [[H7133|with his offering.]] ^0712
 
+[[H7133|His offering]] [[H259|was one]] [[H3701|silver]] [[H7086|platter]] [[H4948|weighing]] [[H7970|a hundred and thirty]] ⟨shekels⟩, [[H259|and one]] [[H3701|silver]] [[H4219|basin]] [[H7657|weighing seventy]] [[H8255|shekels,]] [[H6944|both according to the sanctuary]] [[H8255|shekel]] ⟨and⟩ [[H8147|]] [[H4392|filled with]] [[H5560|fine flour]] [[H1101|mixed]] [[H8081|with oil]] [[H4503|for a grain offering;]] ^0713
 
+[[H259|one]] [[H2091|gold]] [[H3709|dish]] [[H6235|weighing ten]] ⟨shekels⟩, [[H4392|filled with]] [[H7004|incense;]] ^0714
 
-On the day when Moses had finished setting up the tabernacle and had anointed and consecrated it with all its furnishings and had anointed and consecrated the altar with all its utensils, ^0701
+[[H259|one]] [[H1121|young]] [[H6499|bull,]] [[H259|one]] [[H352|ram,]] [[H259|and one]] [[H3532|male lamb]] [[H1121|a year old,]] [[H5930|for a burnt offering;]] ^0715
 
-the chiefs of Israel, heads of their fathers ’ houses, who were the chiefs of the tribes, who were over those who were listed, approached ^0702
+[[H259|one]] [[H8163|male goat]] [[H2403|for a sin offering;]] ^0716
 
-and brought their offerings before the Lord, six wagons and twelve oxen, a wagon for every two of the chiefs, and for each one an ox. They brought them before the tabernacle. ^0703
+[[H8002|and a peace offering]] [[H8147|of two]] [[H1241|oxen,]] [[H2568|five]] [[H352|rams,]] [[H2568|five]] [[H6260|male goats,]] [[H2568|and five]] [[H3532|male lambs]] [[H1121|a year old.]] [[H2088|This]] [[H7133|was the offering]] [[H5177|of Nahshon]] [[H1121|son]] [[H5992|of Amminadab.]] ^0717
 
-Then the Lord said to Moses, ^0704
+[[H8145|On the second]] [[H3117|day]] [[H5417|Nethanel]] [[H1121|son]] [[H6686|of Zuar,]] [[H5387|the leader]] [[H3485|of Issachar,]] [[H7126|drew near.]] ^0718
 
-Accept these from them, that they may be used in the service of the tent of meeting, and give them to the Levites, to each man according to his service. ^0705
+[[H7133|The offering]] [[H7126|he presented]] [[H259|was one]] [[H3701|silver]] [[H7086|platter]] [[H4948|weighing]] [[H7970|a hundred and thirty]] ⟨shekels⟩, [[H259|and one]] [[H3701|silver]] [[H4219|basin]] [[H7657|weighing seventy,]] [[H6944|both according to the sanctuary]] [[H8255|shekel]] ⟨and⟩ [[H8147|]] [[H4392|filled with]] [[H5560|fine flour]] [[H1101|mixed]] [[H8081|with oil]] [[H4503|for a grain offering;]] ^0719
 
-So Moses took the wagons and the oxen and gave them to the Levites. ^0706
+[[H259|one]] [[H2091|gold]] [[H3709|dish]] [[H6235|weighing ten]] ⟨shekels⟩, [[H4392|filled with]] [[H7004|incense;]] ^0720
 
-Two wagons and four oxen he gave to the sons of Gershon, according to their service. ^0707
+[[H259|one]] [[H1121|young]] [[H6499|bull,]] [[H259|one]] [[H352|ram,]] [[H259|and one]] [[H3532|male lamb]] [[H1121|a year old,]] [[H5930|for a burnt offering;]] ^0721
 
-And four wagons and eight oxen he gave to the sons of Merari, according to their service, under the direction of Ithamar the son of Aaron the priest. ^0708
+[[H259|one]] [[H8163|male goat]] [[H2403|for a sin offering;]] ^0722
 
-But to the sons of Kohath he gave none, because they were charged with the service of the holy things that had to be carried on the shoulder. ^0709
+[[H8002|and a peace offering]] [[H8147|of two]] [[H1241|oxen,]] [[H2568|five]] [[H352|rams,]] [[H2568|five]] [[H6260|male goats,]] [[H2568|and five]] [[H3532|male lambs]] [[H1121|a year old.]] [[H2088|This]] [[H7133|was the offering]] [[H5417|of Nethanel]] [[H1121|son]] [[H6686|of Zuar.]] ^0723
 
-And the chiefs offered offerings for the dedication of the altar on the day it was anointed; and the chiefs offered their offering before the altar. ^0710
+[[H7992|On the third]] [[H3117|day]] [[H446|Eliab]] [[H1121|son]] [[H2497|of Helon,]] [[H5387|the leader]] [[H1121|of the Zebulunites,]] ⟨drew near⟩ [[H2074|.]] ^0724
 
-And the Lord said to Moses, They shall offer their offerings, one chief each day, for the dedication of the altar. ^0711
+[[H7133|His offering]] [[H259|was one]] [[H3701|silver]] [[H7086|platter]] [[H4948|weighing]] [[H7970|a hundred and thirty]] ⟨shekels⟩, [[H259|and one]] [[H3701|silver]] [[H4219|basin]] [[H7657|weighing seventy,]] [[H6944|both according to the sanctuary]] [[H8255|shekel]] ⟨and⟩ [[H8147|]] [[H4392|filled with]] [[H5560|fine flour]] [[H1101|mixed]] [[H8081|with oil]] [[H4503|for a grain offering;]] ^0725
 
-He who offered his offering the first day was Nahshon the son of Amminadab, of the tribe of Judah. ^0712
+[[H259|one]] [[H2091|gold]] [[H3709|dish]] [[H6235|weighing ten]] ⟨shekels⟩, [[H4392|filled with]] [[H7004|incense;]] ^0726
 
-And his offering was one silver plate whose weight was 130 shekels, one silver basin of 70 shekels, according to the shekel of the sanctuary, both of them full of fine flour mixed with oil for a grain offering; ^0713
+[[H259|one]] [[H1121|young]] [[H6499|bull,]] [[H259|one]] [[H352|ram,]] [[H259|and one]] [[H3532|male lamb]] [[H1121|a year old,]] [[H5930|for a burnt offering;]] ^0727
 
-one golden dish of 10 shekels, full of incense; ^0714
+[[H259|one]] [[H8163|male goat]] [[H2403|for a sin offering;]] ^0728
 
-one bull from the herd, one ram, one male lamb a year old, for a burnt offering; ^0715
+[[H8002|and a peace offering]] [[H8147|of two]] [[H1241|oxen,]] [[H2568|five]] [[H352|rams,]] [[H2568|five]] [[H6260|male goats,]] [[H2568|and five]] [[H3532|male lambs]] [[H1121|a year old.]] [[H2088|This]] [[H7133|was the offering]] [[H446|of Eliab]] [[H1121|son]] [[H2497|of Helon.]] ^0729
 
-one male goat for a sin offering; ^0716
+[[H7243|On the fourth]] [[H3117|day]] [[H468|Elizur]] [[H1121|son]] [[H7707|of Shedeur,]] [[H5387|the leader]] [[H1121|of the Reubenites,]] ⟨drew near⟩ [[H7205|.]] ^0730
 
-and for the sacrifice of peace offerings, two oxen, five rams, five male goats, and five male lambs a year old. This was the offering of Nahshon the son of Amminadab. ^0717
+[[H7133|His offering]] [[H259|was one]] [[H3701|silver]] [[H7086|platter]] [[H4948|weighing]] [[H7970|a hundred and thirty]] ⟨shekels⟩, [[H259|and one]] [[H3701|silver]] [[H4219|basin]] [[H7657|weighing seventy,]] [[H6944|both according to the sanctuary]] [[H8255|shekel]] ⟨and⟩ [[H8147|]] [[H4392|filled with]] [[H5560|fine flour]] [[H1101|mixed]] [[H8081|with oil]] [[H4503|for a grain offering;]] ^0731
 
-On the second day Nethanel the son of Zuar, the chief of Issachar, made an offering. ^0718
+[[H259|one]] [[H2091|gold]] [[H3709|dish]] [[H6235|weighing ten]] ⟨shekels⟩, [[H4392|filled with]] [[H7004|incense;]] ^0732
 
-He offered for his offering one silver plate whose weight was 130 shekels, one silver basin of 70 shekels, according to the shekel of the sanctuary, both of them full of fine flour mixed with oil for a grain offering; ^0719
+[[H259|one]] [[H1121|young]] [[H6499|bull,]] [[H259|one]] [[H352|ram,]] [[H259|and one]] [[H3532|male lamb]] [[H1121|a year old,]] [[H5930|for a burnt offering;]] ^0733
 
-one golden dish of 10 shekels, full of incense; ^0720
+[[H259|one]] [[H8163|male goat]] [[H2403|for a sin offering;]] ^0734
 
-one bull from the herd, one ram, one male lamb a year old, for a burnt offering; ^0721
+[[H8002|and a peace offering]] [[H8147|of two]] [[H1241|oxen,]] [[H2568|five]] [[H352|rams,]] [[H2568|five]] [[H6260|male goats,]] [[H2568|and five]] [[H3532|male lambs]] [[H1121|a year old.]] [[H2088|This]] [[H7133|was the offering]] [[H468|of Elizur]] [[H1121|son]] [[H7707|of Shedeur.]] ^0735
 
-one male goat for a sin offering; ^0722
+[[H2549|On the fifth]] [[H3117|day]] [[H8017|Shelumiel]] [[H1121|son]] [[H6701|of Zurishaddai,]] [[H5387|the leader]] [[H1121|of the Simeonites,]] ⟨drew near⟩ [[H8095|.]] ^0736
 
-and for the sacrifice of peace offerings, two oxen, five rams, five male goats, and five male lambs a year old. This was the offering of Nethanel the son of Zuar. ^0723
+[[H7133|His offering]] [[H259|was one]] [[H3701|silver]] [[H7086|platter]] [[H4948|weighing]] [[H7970|a hundred and thirty]] ⟨shekels⟩, [[H259|and one]] [[H3701|silver]] [[H4219|basin]] [[H7657|weighing seventy,]] [[H6944|both according to the sanctuary]] [[H8255|shekel]] ⟨and⟩ [[H8147|]] [[H4392|filled with]] [[H5560|fine flour]] [[H1101|mixed]] [[H8081|with oil]] [[H4503|for a grain offering;]] ^0737
 
-On the third day Eliab the son of Helon, the chief of the people of Zebulun : ^0724
+[[H259|one]] [[H2091|gold]] [[H3709|dish]] [[H6235|weighing ten]] ⟨shekels⟩, [[H4392|filled with]] [[H7004|incense;]] ^0738
 
-his offering was one silver plate whose weight was 130 shekels, one silver basin of 70 shekels, according to the shekel of the sanctuary, both of them full of fine flour mixed with oil for a grain offering; ^0725
+[[H259|one]] [[H1121|young]] [[H6499|bull,]] [[H259|one]] [[H352|ram,]] [[H259|and one]] [[H3532|male lamb]] [[H1121|a year old,]] [[H5930|for a burnt offering;]] ^0739
 
-one golden dish of 10 shekels, full of incense; ^0726
+[[H259|one]] [[H8163|male goat]] [[H2403|for a sin offering;]] ^0740
 
-one bull from the herd, one ram, one male lamb a year old, for a burnt offering; ^0727
+[[H8002|and a peace offering]] [[H8147|of two]] [[H1241|oxen,]] [[H2568|five]] [[H352|rams,]] [[H2568|five]] [[H6260|male goats,]] [[H2568|and five]] [[H3532|male lambs]] [[H1121|a year old.]] [[H2088|This]] [[H7133|was the offering]] [[H8017|of Shelumiel]] [[H1121|son]] [[H6701|of Zurishaddai.]] ^0741
 
-one male goat for a sin offering; ^0728
+[[H8345|On the sixth]] [[H3117|day]] [[H460|Eliasaph]] [[H1121|son]] [[H1845|of Deuel,]] [[H5387|the leader]] [[H1121|of the Gadites,]] ⟨drew near⟩ [[H1410|.]] ^0742
 
-and for the sacrifice of peace offerings, two oxen, five rams, five male goats, and five male lambs a year old. This was the offering of Eliab the son of Helon. ^0729
+[[H7133|His offering]] [[H259|was one]] [[H3701|silver]] [[H7086|platter]] [[H4948|weighing]] [[H7970|a hundred and thirty]] ⟨shekels⟩, [[H259|and one]] [[H3701|silver]] [[H4219|basin]] [[H7657|weighing seventy,]] [[H6944|both according to the sanctuary]] [[H8255|shekel]] ⟨and⟩ [[H8147|]] [[H4392|filled with]] [[H5560|fine flour]] [[H1101|mixed]] [[H8081|with oil]] [[H4503|for a grain offering;]] ^0743
 
-On the fourth day Elizur the son of Shedeur, the chief of the people of Reuben : ^0730
+[[H259|one]] [[H2091|gold]] [[H3709|dish]] [[H6235|weighing ten]] ⟨shekels⟩, [[H4392|filled with]] [[H7004|incense;]] ^0744
 
-his offering was one silver plate whose weight was 130 shekels, one silver basin of 70 shekels, according to the shekel of the sanctuary, both of them full of fine flour mixed with oil for a grain offering; ^0731
+[[H259|one]] [[H1121|young]] [[H6499|bull,]] [[H259|one]] [[H352|ram,]] [[H259|and one]] [[H3532|male lamb]] [[H1121|a year old,]] [[H5930|for a burnt offering;]] ^0745
 
-one golden dish of 10 shekels, full of incense; ^0732
+[[H259|one]] [[H8163|male goat]] [[H2403|for a sin offering;]] ^0746
 
-one bull from the herd, one ram, one male lamb a year old, for a burnt offering; ^0733
+[[H8002|and a peace offering]] [[H8147|of two]] [[H1241|oxen,]] [[H2568|five]] [[H352|rams,]] [[H2568|five]] [[H6260|male goats,]] [[H2568|and five]] [[H3532|male lambs]] [[H1121|a year old.]] [[H2088|This]] [[H7133|was the offering]] [[H460|of Eliasaph]] [[H1121|son]] [[H1845|of Deuel.]] ^0747
 
-one male goat for a sin offering; ^0734
+[[H7637|On the seventh]] [[H3117|day]] [[H476|Elishama]] [[H1121|son]] [[H5989|of Ammihud,]] [[H5387|the leader]] [[H1121|of the Ephraimites,]] ⟨drew near⟩ [[H669|.]] ^0748
 
-and for the sacrifice of peace offerings, two oxen, five rams, five male goats, and five male lambs a year old. This was the offering of Elizur the son of Shedeur. ^0735
+[[H7133|His offering]] [[H259|was one]] [[H3701|silver]] [[H7086|platter]] [[H4948|weighing]] [[H7970|a hundred and thirty]] ⟨shekels⟩, [[H259|and one]] [[H3701|silver]] [[H4219|basin]] [[H7657|weighing seventy,]] [[H6944|both according to the sanctuary]] [[H8255|shekel]] ⟨and⟩ [[H8147|]] [[H4392|filled with]] [[H5560|fine flour]] [[H1101|mixed]] [[H8081|with oil]] [[H4503|for a grain offering;]] ^0749
 
-On the fifth day Shelumiel the son of Zurishaddai, the chief of the people of Simeon : ^0736
+[[H259|one]] [[H2091|gold]] [[H3709|dish]] [[H6235|weighing ten]] ⟨shekels⟩, [[H4392|filled with]] [[H7004|incense;]] ^0750
 
-his offering was one silver plate whose weight was 130 shekels, one silver basin of 70 shekels, according to the shekel of the sanctuary, both of them full of fine flour mixed with oil for a grain offering; ^0737
+[[H259|one]] [[H1121|young]] [[H6499|bull,]] [[H259|one]] [[H352|ram,]] [[H259|and one]] [[H3532|male lamb]] [[H1121|a year old,]] [[H5930|for a burnt offering;]] ^0751
 
-one golden dish of 10 shekels, full of incense; ^0738
+[[H259|one]] [[H8163|male goat]] [[H2403|for a sin offering;]] ^0752
 
-one bull from the herd, one ram, one male lamb a year old, for a burnt offering; ^0739
+[[H8002|and a peace offering]] [[H8147|of two]] [[H1241|oxen,]] [[H2568|five]] [[H352|rams,]] [[H2568|five]] [[H6260|male goats,]] [[H2568|and five]] [[H3532|male lambs]] [[H1121|a year old.]] [[H2088|This]] [[H7133|was the offering]] [[H476|of Elishama]] [[H1121|son]] [[H5989|of Ammihud.]] ^0753
 
-one male goat for a sin offering; ^0740
+[[H8066|On the eighth]] [[H3117|day]] [[H1583|Gamaliel]] [[H1121|son]] [[H6301|of Pedahzur,]] [[H5387|the leader]] [[H1121|of the Manassites,]] ⟨drew near⟩ [[H4519|.]] ^0754
 
-and for the sacrifice of peace offerings, two oxen, five rams, five male goats, and five male lambs a year old. This was the offering of Shelumiel the son of Zurishaddai. ^0741
+[[H7133|His offering]] [[H259|was one]] [[H3701|silver]] [[H7086|platter]] [[H4948|weighing]] [[H7970|a hundred and thirty]] ⟨shekels⟩, [[H259|and one]] [[H3701|silver]] [[H4219|basin]] [[H7657|weighing seventy,]] [[H6944|both according to the sanctuary]] [[H8255|shekel]] ⟨and⟩ [[H8147|]] [[H4392|filled with]] [[H5560|fine flour]] [[H1101|mixed]] [[H8081|with oil]] [[H4503|for a grain offering;]] ^0755
 
-On the sixth day Eliasaph the son of Deuel, the chief of the people of Gad : ^0742
+[[H259|one]] [[H2091|gold]] [[H3709|dish]] [[H6235|weighing ten]] ⟨shekels⟩, [[H4392|filled with]] [[H7004|incense;]] ^0756
 
-his offering was one silver plate whose weight was 130 shekels, one silver basin of 70 shekels, according to the shekel of the sanctuary, both of them full of fine flour mixed with oil for a grain offering; ^0743
+[[H259|one]] [[H1121|young]] [[H6499|bull,]] [[H259|one]] [[H352|ram,]] [[H259|and one]] [[H3532|male lamb]] [[H1121|a year old,]] [[H5930|for a burnt offering;]] ^0757
 
-one golden dish of 10 shekels, full of incense; ^0744
+[[H259|one]] [[H8163|male goat]] [[H2403|for a sin offering;]] ^0758
 
-one bull from the herd, one ram, one male lamb a year old, for a burnt offering; ^0745
+[[H8002|and a peace offering]] [[H8147|of two]] [[H1241|oxen,]] [[H2568|five]] [[H352|rams,]] [[H2568|five]] [[H6260|male goats,]] [[H2568|and five]] [[H3532|male lambs]] [[H1121|a year old.]] [[H2088|This]] [[H7133|was the offering]] [[H1583|of Gamaliel]] [[H1121|son]] [[H6301|of Pedahzur.]] ^0759
 
-one male goat for a sin offering; ^0746
+[[H8671|On the ninth]] [[H3117|day]] [[H27|Abidan]] [[H1121|son]] [[H1441|of Gideoni,]] [[H5387|the leader]] [[H1121|of the Benjamites,]] ⟨drew near⟩ [[H1144|.]] ^0760
 
-and for the sacrifice of peace offerings, two oxen, five rams, five male goats, and five male lambs a year old. This was the offering of Eliasaph the son of Deuel. ^0747
+[[H7133|His offering]] [[H259|was one]] [[H3701|silver]] [[H7086|platter]] [[H4948|weighing]] [[H7970|a hundred and thirty]] ⟨shekels⟩, [[H259|and one]] [[H3701|silver]] [[H4219|basin]] [[H7657|weighing seventy,]] [[H6944|both according to the sanctuary]] [[H8255|shekel]] ⟨and⟩ [[H8147|]] [[H4392|filled with]] [[H5560|fine flour]] [[H1101|mixed]] [[H8081|with oil]] [[H4503|for a grain offering;]] ^0761
 
-On the seventh day Elishama the son of Ammihud, the chief of the people of Ephraim : ^0748
+[[H259|one]] [[H2091|gold]] [[H3709|dish]] [[H6235|weighing ten]] ⟨shekels⟩, [[H4392|filled with]] [[H7004|incense;]] ^0762
 
-his offering was one silver plate whose weight was 130 shekels, one silver basin of 70 shekels, according to the shekel of the sanctuary, both of them full of fine flour mixed with oil for a grain offering; ^0749
+[[H259|one]] [[H1121|young]] [[H6499|bull,]] [[H259|one]] [[H352|ram,]] [[H259|and one]] [[H3532|male lamb]] [[H1121|a year old,]] [[H5930|for a burnt offering;]] ^0763
 
-one golden dish of 10 shekels, full of incense; ^0750
+[[H259|one]] [[H8163|male goat]] [[H2403|for a sin offering;]] ^0764
 
-one bull from the herd, one ram, one male lamb a year old, for a burnt offering; ^0751
+[[H8002|and a peace offering]] [[H8147|of two]] [[H1241|oxen,]] [[H2568|five]] [[H352|rams,]] [[H2568|five]] [[H6260|male goats,]] [[H2568|and five]] [[H3532|male lambs]] [[H1121|a year old.]] [[H2088|This]] [[H7133|was the offering]] [[H27|of Abidan]] [[H1121|son]] [[H1441|of Gideoni.]] ^0765
 
-one male goat for a sin offering; ^0752
+[[H6224|On the tenth]] [[H3117|day]] [[H295|Ahiezer]] [[H1121|son]] [[H5996|of Ammishaddai,]] [[H5387|the leader]] [[H1121|of the Danites,]] ⟨drew near⟩ [[H1835|.]] ^0766
 
-and for the sacrifice of peace offerings, two oxen, five rams, five male goats, and five male lambs a year old. This was the offering of Elishama the son of Ammihud. ^0753
+[[H7133|His offering]] [[H259|was one]] [[H3701|silver]] [[H7086|platter]] [[H4948|weighing]] [[H7970|a hundred and thirty]] ⟨shekels⟩, [[H259|and one]] [[H3701|silver]] [[H4219|basin]] [[H7657|weighing seventy,]] [[H6944|both according to the sanctuary]] [[H8255|shekel]] ⟨and⟩ [[H8147|]] [[H4392|filled with]] [[H5560|fine flour]] [[H1101|mixed]] [[H8081|with oil]] [[H4503|for a grain offering;]] ^0767
 
-On the eighth day Gamaliel the son of Pedahzur, the chief of the people of Manasseh : ^0754
+[[H259|one]] [[H2091|gold]] [[H3709|dish]] [[H6235|weighing ten]] ⟨shekels⟩, [[H4392|filled with]] [[H7004|incense;]] ^0768
 
-his offering was one silver plate whose weight was 130 shekels, one silver basin of 70 shekels, according to the shekel of the sanctuary, both of them full of fine flour mixed with oil for a grain offering; ^0755
+[[H259|one]] [[H1121|young]] [[H6499|bull,]] [[H259|one]] [[H352|ram,]] [[H259|and one]] [[H3532|male lamb]] [[H1121|a year old,]] [[H5930|for a burnt offering;]] ^0769
 
-one golden dish of 10 shekels, full of incense; ^0756
+[[H259|one]] [[H8163|male goat]] [[H2403|for a sin offering;]] ^0770
 
-one bull from the herd, one ram, one male lamb a year old, for a burnt offering; ^0757
+[[H8002|and a peace offering]] [[H8147|of two]] [[H1241|oxen,]] [[H2568|five]] [[H352|rams,]] [[H2568|five]] [[H6260|male goats,]] [[H2568|and five]] [[H3532|male lambs]] [[H1121|a year old.]] [[H2088|This]] [[H7133|was the offering]] [[H295|of Ahiezer]] [[H1121|son]] [[H5996|of Ammishaddai.]] ^0771
 
-one male goat for a sin offering; ^0758
+[[H6249|On the eleventh]] [[H3117|day]] [[H6295|Pagiel]] [[H1121|son]] [[H5918|of Ocran,]] [[H5387|the leader]] [[H1121|of the Asherites,]] ⟨drew near⟩ [[H836|.]] ^0772
 
-and for the sacrifice of peace offerings, two oxen, five rams, five male goats, and five male lambs a year old. This was the offering of Gamaliel the son of Pedahzur. ^0759
+[[H7133|His offering]] [[H259|was one]] [[H3701|silver]] [[H7086|platter]] [[H4948|weighing]] [[H7970|a hundred and thirty]] ⟨shekels⟩, [[H259|and one]] [[H3701|silver]] [[H4219|basin]] [[H7657|weighing seventy,]] [[H6944|both according to the sanctuary]] [[H8255|shekel]] ⟨and⟩ [[H8147|]] [[H4392|filled with]] [[H5560|fine flour]] [[H1101|mixed]] [[H8081|with oil]] [[H4503|for a grain offering;]] ^0773
 
-On the ninth day Abidan the son of Gideoni, the chief of the people of Benjamin : ^0760
+[[H259|one]] [[H2091|gold]] [[H3709|dish]] [[H6235|weighing ten]] ⟨shekels⟩, [[H4392|filled with]] [[H7004|incense;]] ^0774
 
-his offering was one silver plate whose weight was 130 shekels, one silver basin of 70 shekels, according to the shekel of the sanctuary, both of them full of fine flour mixed with oil for a grain offering; ^0761
+[[H259|one]] [[H1121|young]] [[H6499|bull,]] [[H259|one]] [[H352|ram,]] [[H259|and one]] [[H3532|male lamb]] [[H1121|a year old,]] [[H5930|for a burnt offering;]] ^0775
 
-one golden dish of 10 shekels, full of incense; ^0762
+[[H259|one]] [[H8163|male goat]] [[H2403|for a sin offering;]] ^0776
 
-one bull from the herd, one ram, one male lamb a year old, for a burnt offering; ^0763
+[[H8002|and a peace offering]] [[H8147|of two]] [[H1241|oxen,]] [[H2568|five]] [[H352|rams,]] [[H2568|five]] [[H6260|male goats,]] [[H2568|and five]] [[H3532|male lambs]] [[H1121|a year old.]] [[H2088|This]] [[H7133|was the offering]] [[H6295|of Pagiel]] [[H1121|son]] [[H5918|of Ocran.]] ^0777
 
-one male goat for a sin offering; ^0764
+[[H8147|On the twelfth]] [[H3117|day]] [[H299|Ahira]] [[H1121|son]] [[H5881|of Enan,]] [[H5387|the leader]] [[H1121|of the Naphtalites,]] ⟨drew near⟩ [[H5321|.]] ^0778
 
-and for the sacrifice of peace offerings, two oxen, five rams, five male goats, and five male lambs a year old. This was the offering of Abidan the son of Gideoni. ^0765
+[[H7133|His offering]] [[H259|was one]] [[H3701|silver]] [[H7086|platter]] [[H4948|weighing]] [[H7970|a hundred and thirty]] ⟨shekels⟩, [[H259|and one]] [[H3701|silver]] [[H4219|basin]] [[H7657|weighing seventy,]] [[H6944|both according to the sanctuary]] [[H8255|shekel]] ⟨and⟩ [[H8147|]] [[H4392|filled with]] [[H5560|fine flour]] [[H1101|mixed]] [[H8081|with oil]] [[H4503|for a grain offering;]] ^0779
 
-On the tenth day Ahiezer the son of Ammishaddai, the chief of the people of Dan : ^0766
+[[H259|one]] [[H2091|gold]] [[H3709|dish]] [[H6235|weighing ten]] ⟨shekels⟩, [[H4392|filled with]] [[H7004|incense;]] ^0780
 
-his offering was one silver plate whose weight was 130 shekels, one silver basin of 70 shekels, according to the shekel of the sanctuary, both of them full of fine flour mixed with oil for a grain offering; ^0767
+[[H259|one]] [[H1121|young]] [[H6499|bull,]] [[H259|one]] [[H352|ram,]] [[H259|and one]] [[H3532|male lamb]] [[H1121|a year old,]] [[H5930|for a burnt offering;]] ^0781
 
-one golden dish of 10 shekels, full of incense; ^0768
+[[H259|one]] [[H8163|male goat]] [[H2403|for a sin offering;]] ^0782
 
-one bull from the herd, one ram, one male lamb a year old, for a burnt offering; ^0769
+[[H8002|and a peace offering]] [[H8147|of two]] [[H1241|oxen,]] [[H2568|five]] [[H352|rams,]] [[H2568|five]] [[H6260|male goats,]] [[H2568|and five]] [[H3532|male lambs]] [[H1121|a year old.]] [[H2088|This]] [[H7133|was the offering]] [[H299|of Ahira]] [[H1121|son]] [[H5881|of Enan.]] ^0783
 
-one male goat for a sin offering; ^0770
+[[H2063|This]] ⟨was the offering⟩ [[H5387|from the leaders]] [[H3478|of Israel]] [[H2598|for the dedication]] [[H4196|of the altar]] [[H4886|when it was anointed:]] [[H8147|twelve]] [[H3701|silver]] [[H7086|platters,]] [[H8147|twelve]] [[H3701|silver]] [[H4219|basins,]] [[H8147|and twelve]] [[H2091|gold]] [[H3709|dishes.]] ^0784
 
-and for the sacrifice of peace offerings, two oxen, five rams, five male goats, and five male lambs a year old. This was the offering of Ahiezer the son of Ammishaddai. ^0771
+[[H259|Each]] [[H3701|silver]] [[H7086|platter]] [[H7970|weighed a hundred and thirty shekels,]] [[H259|and each]] [[H4219|basin]] [[H7657|seventy shekels.]] [[H3605|The total weight]] [[H3701|of the silver]] [[H3627|articles]] ⟨was⟩ [[H505|two thousand]] [[H702|four]] [[H3967|hundred]] ⟨shekels⟩, [[H6944|according to the sanctuary]] [[H8255|shekel.]] ^0785
 
-On the eleventh day Pagiel the son of Ochran, the chief of the people of Asher : ^0772
+[[H8147|The twelve]] [[H2091|gold]] [[H3709|dishes]] [[H4392|filled with]] [[H7004|incense]] ⟨weighed⟩ [[H6235|ten]] ⟨shekels⟩ [[H6235|each,]] [[H6944|according to the sanctuary]] [[H8255|shekel.]] [[H3605|The total]] [[H2091|weight of the gold]] [[H3709|dishes]] ⟨was⟩ [[H3967|a hundred]] [[H6242|and twenty]] ⟨shekels⟩. ^0786
 
-his offering was one silver plate whose weight was 130 shekels, one silver basin of 70 shekels, according to the shekel of the sanctuary, both of them full of fine flour mixed with oil for a grain offering; ^0773
+[[H3605|All]] [[H1241|the livestock]] [[H5930|for the burnt offering]] [[H8147|totaled twelve]] [[H6499|bulls,]] [[H8147|twelve]] [[H352|rams,]] [[H8147|and twelve]] [[H3532|male lambs]] [[H1121|a year old—]] [[H4503|along with their grain offerings—]] [[H8147|and twelve]] [[H8163|male goats]] [[H2403|for the sin offering.]] ^0787
 
-one golden dish of 10 shekels, full of incense; ^0774
+[[H3605|All]] [[H1241|the livestock]] [[H2077|sacrificed]] [[H8002|for the peace offerings]] [[H6242|totaled twenty-four]] [[H6499|bulls,]] [[H8346|sixty]] [[H352|rams,]] [[H8346|sixty]] [[H6260|male goats,]] [[H8346|and sixty]] [[H3532|male lambs]] [[H1121|a year old.]] [[H2063|This]] [[H2598|was the dedication offering]] [[H4196|for the altar]] [[H310|after]] [[H4886|it was anointed.]] ^0788
 
-one bull from the herd, one ram, one male lamb a year old, for a burnt offering; ^0775
+[[H4872|When Moses]] [[H935|entered]] [[H168|the Tent]] [[H4150|of Meeting]] [[H1696|to speak]] [[H854|with the LORD,]] [[H8085|he heard]] [[H6963|the voice]] [[H1696|speaking]] [[H413|to him]] [[H996|from between]] [[H8147|the two]] [[H3742|cherubim]] [[H5921|above]] [[H3727|the mercy seat]] [[H5921|on]] [[H727|the Ark]] [[H5715|of the Testimony.]] [[H1696|Thus spoke]] ⟨the LORD⟩ [[H413|to him.]] ^0789
 
-one male goat for a sin offering; ^0776
+[[H3068|Then the LORD]] [[H1696|said]] [[H413|to]] [[H4872|Moses,]] ^0801
 
-and for the sacrifice of peace offerings, two oxen, five rams, five male goats, and five male lambs a year old. This was the offering of Pagiel the son of Ochran. ^0777
+[[H1696|“Speak]] [[H413|to]] [[H175|Aaron]] [[H559|and tell him:]] [[H5927|When you set up]] [[H7651|the seven]] [[H5216|lamps,]] [[H215|they are to light]] ⟨the area⟩ [[H413|in]] [[H4136|front]] [[H4501|of the lampstand.”]] ^0802
 
-On the twelfth day Ahira the son of Enan, the chief of the people of Naphtali : ^0778
+[[H175|And Aaron]] [[H6213|did]] [[H3651|so;]] [[H5927|he set up]] [[H5216|the lamps]] [[H6440|facing]] [[H413|toward]] [[H4136|the front]] [[H4501|of the lampstand,]] [[H834|just as]] [[H3068|the LORD]] [[H6680|had commanded]] [[H4872|Moses.]] ^0803
 
-his offering was one silver plate whose weight was 130 shekels, one silver basin of 70 shekels, according to the shekel of the sanctuary, both of them full of fine flour mixed with oil for a grain offering; ^0779
+[[H2088|This is how]] [[H4501|the lampstand]] [[H4639|was constructed:]] [[H4749|it was made of hammered]] [[H2091|gold]] [[H5704|from]] [[H3409|its base]] [[H5704|to]] [[H6525|its blossoms,]] [[H6213|fashioned]] [[H4758|according to the pattern]] [[H3068|the LORD]] [[H7200|had shown]] [[H4872|Moses.]] ^0804
 
-one golden dish of 10 shekels, full of incense; ^0780
+[[H3068|Again the LORD]] [[H1696|spoke]] [[H413|to]] [[H4872|Moses,]] [[H559|saying,]] ^0805
 
-one bull from the herd, one ram, one male lamb a year old, for a burnt offering; ^0781
+[[H3947|“Take]] [[H3881|the Levites]] [[H8432|from among]] [[H1121|the Israelites]] [[H2891|and make them ceremonially clean.]] ^0806
 
-one male goat for a sin offering; ^0782
+[[H3541|This is what]] [[H6213|you must do]] [[H2891|to cleanse them:]] [[H5137|Sprinkle]] [[H5921|them]] [[H4325|with the water]] [[H2403|of purification.]] [[H5674|Have them shave]] [[H3605|their whole]] [[H1320|bodies]] [[H3526|and wash]] [[H899|their clothes,]] [[H2891|and so purify themselves.]] ^0807
 
-and for the sacrifice of peace offerings, two oxen, five rams, five male goats, and five male lambs a year old. This was the offering of Ahira the son of Enan. ^0783
+[[H3947|Then have them take]] [[H6499|a young bull]] [[H4503|with its grain offering]] [[H5560|of fine flour]] [[H1101|mixed]] [[H8081|with oil,]] [[H3947|and you are to take]] [[H8145|a second]] [[H6499|young bull]] [[H2403|for a sin offering.]] ^0808
 
-This was the dedication offering for the altar on the day when it was anointed, from the chiefs of Israel : twelve silver plates, twelve silver basins, twelve golden dishes, ^0784
+[[H7126|Bring]] [[H3881|the Levites]] [[H6440|before]] [[H168|the Tent]] [[H4150|of Meeting]] [[H6950|and assemble]] [[H3605|the entire]] [[H5712|congregation]] [[H1121|of the Israelites.]] ^0809
 
-each silver plate weighing 130 shekels and each basin 70, all the silver of the vessels 2,400 shekels according to the shekel of the sanctuary, ^0785
+[[H7126|You are to present]] [[H3881|the Levites]] [[H6440|before]] [[H3069|the LORD]] [[H1121|and have the Israelites]] [[H5564|lay]] [[H3027|their hands]] [[H5921|upon]] ⟨them⟩ [[H3881|.]] ^0810
 
-the twelve golden dishes, full of incense, weighing 10 shekels apiece according to the shekel of the sanctuary, all the gold of the dishes being 120 shekels; ^0786
+[[H175|Aaron]] [[H5130|is to present]] [[H3881|the Levites]] [[H6440|before]] [[H3068|the LORD]] [[H8573|as a wave offering]] [[H1121|from the sons]] [[H3478|of Israel,]] [[H5647|so that they may perform]] [[H5656|the service]] [[H3068|of the LORD.]] ^0811
 
-all the cattle for the burnt offering twelve bulls, twelve rams, twelve male lambs a year old, with their grain offering; and twelve male goats for a sin offering; ^0787
+[[H3881|And the Levites]] [[H5564|are to lay]] [[H3027|their hands]] [[H5921|on]] [[H7218|the heads]] [[H6499|of the bulls,]] [[H6213|and offer]] [[H3068|to the LORD]] [[H259|one]] [[H2403|as a sin offering]] [[H259|and the other]] [[H5930|as a burnt offering,]] [[H3722|to make atonement]] [[H5921|for]] [[H3881|the Levites.]] ^0812
 
-and all the cattle for the sacrifice of peace offerings twenty-four bulls, the rams sixty, the male goats sixty, the male lambs a year old sixty. This was the dedication offering for the altar after it was anointed. ^0788
+[[H3881|You are to have the Levites]] [[H5975|stand]] [[H6440|before]] [[H175|Aaron]] [[H1121|and his sons]] [[H5130|and then present]] [[H3068|them before the LORD]] [[H8573|as a wave offering.]] ^0813
 
-And when Moses went into the tent of meeting to speak with the Lord, he heard the voice speaking to him from above the mercy seat that was on the ark of the testimony, from between the two cherubim; and it spoke to him. ^0789
+[[H914|In this way you shall separate]] [[H3881|the Levites]] [[H8432|from]] [[H1121|the rest of the Israelites,]] [[H3881|and the Levites]] [[H1961|will belong]] ^0814
 
+[[H310|After]] [[H2891|you have cleansed]] [[H853|them]] [[H5130|and presented]] [[H8573|them as a wave offering,]] ⟨they⟩ [[H3881|]] [[H935|may come]] [[H5647|to serve]] [[H168|at the Tent]] [[H4150|of Meeting.]] ^0815
 
+[[H3588|For]] ⟨the Levites⟩ [[H1992|]] [[H5414|have been wholly given]] [[H8432|to Me  from among]] [[H1121|the sons]] [[H3478|of Israel.]] [[H3947|I have taken]] [[H853|them for Myself]] [[H8478|in place of]] [[H3605|all]] [[H6363|who come first]] [[H7358|from the womb,]] [[H1060|the firstborn]] [[H3605|of all]] [[H1121|the sons]] [[H3478|of Israel.]] ^0816
 
-Now the Lord spoke to Moses, saying, ^0801
+[[H3588|For]] [[H3605|every]] [[H1060|firstborn]] [[H1121|among the sons]] [[H3478|of Israel]] [[H120|is Mine,  both man]] [[H929|and beast.]] [[H6942|I set them apart]] [[H3117|for Myself  on the day]] [[H5221|I struck down]] [[H3605|all]] [[H1060|the firstborn]] [[H776|in the land]] [[H4714|of Egypt.]] ^0817
 
-Speak to Aaron and say to him, When you set up the lamps, the seven lamps shall give light in front of the lampstand. ^0802
+[[H3947|But I have taken]] [[H3881|the Levites]] [[H8478|in place of]] [[H3605|all]] [[H1060|the firstborn]] [[H1121|among the sons]] [[H3478|of Israel.]] ^0818
 
-And Aaron did so : he set up its lamps in front of the lampstand, as the Lord commanded Moses. ^0803
+[[H5414|And I have given]] [[H3881|the Levites]] [[H5414|as a gift]] [[H175|to Aaron]] ⟨and⟩ [[H1121|his sons]] [[H8432|from among]] [[H3478|the Israelites,]] [[H5647|to perform]] [[H5656|the service]] [[H1121|for the Israelites]] [[H168|at the Tent]] [[H4150|of Meeting]] [[H3722|and to make atonement]] [[H1121|on their]] [[H5921|behalf,]] [[H3808|so that no]] [[H5063|plague]] [[H1961|will come]] [[H1121|against the Israelites]] [[H1121|when they]] [[H5066|approach]] [[H6944|the sanctuary.]] ^0819
 
-And this was the workmanship of the lampstand, hammered work of gold. From its base to its flowers, it was hammered work; according to the pattern that the Lord had shown Moses, so he made the lampstand. ^0804
+[[H4872|Moses,]] [[H175|Aaron,]] [[H3605|and the entire]] [[H5712|congregation]] [[H3478|of Israel]] [[H6213|did]] [[H3881|to the Levites]] [[H3605|everything]] [[H834|that]] [[H3068|the LORD]] [[H6680|had commanded]] [[H4872|Moses]] ⟨they⟩ [[H1121|]] [[H6213|should do.]] ^0820
 
-And the Lord spoke to Moses, saying, ^0805
+[[H3881|The Levites]] [[H2398|purified]] [[H3526|themselves and washed]] [[H899|their clothes,]] [[H175|and Aaron]] [[H5130|presented]] [[H853|them]] [[H8573|as a wave offering]] [[H6440|before]] [[H3068|the LORD.]] [[H175|Aaron]] [[H3722|also made atonement]] [[H5921|for them]] [[H2891|to cleanse them.]] ^0821
 
-Take the Levites from among the people of Israel and cleanse them. ^0806
+[[H310|After]] [[H3651|that,]] [[H3881|the Levites]] [[H935|came]] [[H5647|to perform]] [[H5656|their service]] [[H168|at the Tent]] [[H4150|of Meeting]] [[H6440|in the presence]] [[H175|of Aaron]] [[H1121|and his sons.]] [[H3651|So]] [[H6213|they did]] [[H3881|to the Levites]] [[H834|just as]] [[H3068|the LORD]] [[H6680|had commanded]] [[H4872|Moses.]] ^0822
 
-Thus you shall do to them to cleanse them : sprinkle the water of purification upon them, and let them go with a razor over all their body, and wash their clothes and cleanse themselves. ^0807
+[[H3068|And the LORD]] [[H1696|said]] [[H413|to]] [[H4872|Moses,]] ^0823
 
-Then let them take a bull from the herd and its grain offering of fine flour mixed with oil, and you shall take another bull from the herd for a sin offering. ^0808
+[[H2063|“This]] [[H834|applies]] [[H3881|to the Levites:]] [[H2568|Men twenty-five]] [[H1121|years of age]] [[H4605|or older]] [[H935|shall enter]] [[H6633|to perform]] [[H6635|the service]] [[H5656|in the work]] [[H168|at the Tent]] [[H4150|of Meeting.]] ^0824
 
-And you shall bring the Levites before the tent of meeting and assemble the whole congregation of the people of Israel. ^0809
+[[H1121|But at the age]] [[H2572|of fifty,]] [[H7725|they must retire]] [[H6635|from performing]] [[H5656|the work]] [[H3808|and no]] [[H5750|longer]] [[H5647|serve.]] ^0825
 
-When you bring the Levites before the Lord, the people of Israel shall lay their hands on the Levites, ^0810
+[[H8334|After that, they may assist]] [[H251|their brothers]] [[H8104|in fulfilling]] [[H4931|their duties]] [[H168|at the Tent]] [[H4150|of Meeting,]] [[H3808|but they themselves are not]] [[H5647|to do]] [[H5656|the work.]] [[H3602|This is how]] [[H6213|you are to assign]] [[H4931|responsibilities]] [[H3881|to the Levites.”]] ^0826
 
-and Aaron shall offer the Levites before the Lord as a wave offering from the people of Israel, that they may do the service of the Lord. ^0811
+[[H7223|In the first]] [[H2320|month]] [[H8145|of the second]] [[H8141|year]] [[H3318|after had come out]] ⟨Israel⟩ [[H776|of the land]] [[H4714|of Egypt,]] [[H3068|the LORD]] [[H1696|spoke]] [[H4872|to Moses]] [[H4057|in the Wilderness]] [[H5514|of Sinai:]] ^0901
 
-Then the Levites shall lay their hands on the heads of the bulls, and you shall offer the one for a sin offering and the other for a burnt offering to the Lord to make atonement for the Levites. ^0812
+[[H1121|“The Israelites]] [[H6213|are to observe]] [[H6453|the Passover]] [[H4150|at its appointed time.]] ^0902
 
-And you shall set the Levites before Aaron and his sons, and shall offer them as a wave offering to the Lord. ^0813
+[[H6213|You are to observe]] [[H853|it]] [[H4150|at the appointed time,]] [[H996|at]] [[H6153|twilight]] [[H702|on the fourteenth]] [[H3117|day]] [[H2088|of this]] [[H2320|month,]] [[H3605|in accordance with]] [[H2708|its statutes]] [[H4941|and ordinances.”]] ^0903
 
-Thus you shall separate the Levites from among the people of Israel, and the Levites shall be mine. ^0814
+[[H4872|So Moses]] [[H1696|told]] [[H1121|the Israelites]] [[H6213|to observe]] [[H6453|the Passover,]] ^0904
 
-And after that the Levites shall go in to serve at the tent of meeting, when you have cleansed them and offered them as a wave offering. ^0815
+[[H6213|and they]] ⟨did so⟩ [[H4057|in the Wilderness]] [[H5514|of Sinai,]] [[H996|at]] [[H6153|twilight]] [[H702|on the fourteenth]] [[H3117|day]] [[H7223|of the first]] [[H2320|month.]] [[H1121|The Israelites]] [[H6213|did]] [[H3605|everything]] [[H834|just as]] [[H3068|the LORD]] [[H6680|had commanded]] [[H4872|Moses.]] ^0905
 
-For they are wholly given to me from among the people of Israel. Instead of all who open the womb, the firstborn of all the people of Israel, I have taken them for myself. ^0816
+[[H1961|But there were]] [[H582|some men]] [[H834|who]] [[H1961|were]] [[H2931|unclean]] [[H120|due to a dead body,]] [[H3201|so they could]] [[H3808|not]] [[H6213|observe]] [[H6453|the Passover]] [[H1931|on that]] [[H3117|day.]] [[H7126|And they came]] [[H6440|before]] [[H4872|Moses]] [[H175|and Aaron]] [[H1931|that same]] [[H3117|day]] ^0906
 
-For all the firstborn among the people of Israel are mine, both of man and of beast. On the day that I struck down all the firstborn in the land of Egypt I consecrated them for myself, ^0817
+[[H559|and said]] [[H413|to]] ⟨Moses⟩, [[H587|“We]] [[H2931|are unclean]] [[H120|because of a dead body,]] [[H4100|but why]] [[H1639|should we be excluded]] [[H1115|from]] [[H7126|presenting]] [[H3068|the LORD’s]] [[H7133|offering]] [[H8432|with]] [[H1121|the other Israelites]] [[H4150|at the appointed time?”]] ^0907
 
-and I have taken the Levites instead of all the firstborn among the people of Israel. ^0818
+[[H5975|“Wait here]] [[H8085|until I hear]] [[H4100|what]] [[H3068|the LORD]] [[H6680|commands concerning you,”]] [[H4872|Moses]] [[H559|replied.]] ^0908
 
-And I have given the Levites as a gift to Aaron and his sons from among the people of Israel, to do the service for the people of Israel at the tent of meeting and to make atonement for the people of Israel, that there may be no plague among the people of Israel when the people of Israel come near the sanctuary. ^0819
+[[H3068|Then the LORD]] [[H1696|said]] [[H413|to]] [[H4872|Moses,]] ^0909
 
-Thus did Moses and Aaron and all the congregation of the people of Israel to the Levites. According to all that the Lord commanded Moses concerning the Levites, the people of Israel did to them. ^0820
+[[H1696|“Tell]] [[H1121|the Israelites:]] [[H3588|When]] [[H376|any one]] [[H176|of you or]] [[H1755|your descendants]] [[H1961|is]] [[H2931|unclean]] [[H5315|because of a dead body,]] [[H176|or]] [[H7350|is away]] [[H1870|on a journey,]] [[H6213|he may still observe]] [[H6453|the Passover]] [[H3068|to the LORD.]] ^0910
 
-And the Levites purified themselves from sin and washed their clothes, and Aaron offered them as a wave offering before the Lord, and Aaron made atonement for them to cleanse them. ^0821
+[[H6213|Such people are to observe]] [[H853|it]] [[H996|at]] [[H6153|twilight]] [[H702|on the fourteenth]] [[H3117|day]] [[H8145|of the second]] [[H2320|month.]] [[H398|They are to eat]] ⟨the lamb⟩, [[H5921|together with]] [[H4682|unleavened bread]] [[H4844|and bitter herbs;]] ^0911
 
-And after that the Levites went in to do their service in the tent of meeting before Aaron and his sons; as the Lord had commanded Moses concerning the Levites, so they did to them. ^0822
+[[H3808|they may not]] [[H7604|leave]] [[H4480|any of]] [[H5704|it until]] [[H1242|morning]] [[H7665|or break]] [[H6106|any of its bones.]] [[H6213|They must observe]] [[H6453|the Passover]] [[H3605|according to all]] [[H2708|its statutes.]] ^0912
 
-And the Lord spoke to Moses, saying, ^0823
+[[H376|But the man]] [[H834|who]] [[H2889|is ceremonially clean,]] [[H1961|is]] [[H3808|not]] [[H1870|on a journey,]] [[H2308|and still fails]] [[H6213|to observe]] [[H6453|the Passover,]] [[H3772|is to be cut off]] [[H5971|from his people,]] [[H3588|because]] [[H3808|he did not]] [[H7126|present]] [[H3068|the LORD’s]] [[H7133|offering]] [[H4150|at its appointed time.]] [[H1931|That]] [[H376|man]] [[H5375|will bear]] [[H2399|the consequences of his sin.]] ^0913
 
-This applies to the Levites : from twenty-five years old and upward they shall come to do duty in the service of the tent of meeting. ^0824
+[[H3588|If]] [[H1616|a foreigner]] [[H1481|dwelling]] [[H854|among you]] [[H6213|wants to observe]] [[H6453|the Passover]] [[H3068|to the LORD,]] [[H6213|he is to do]] [[H3651|so]] [[H6453|according to the Passover]] [[H2708|statute]] [[H4941|and its ordinances.]] [[H1961|You are to apply]] [[H259|the same]] [[H2708|statute]] [[H1616|to both the foreigner]] [[H249|and the native]] [[H776|of the land.”]] ^0914
 
-And from the age of fifty years they shall withdraw from the duty of the service and serve no more. ^0825
+[[H3117|On the day that]] [[H4908|the tabernacle,]] [[H168|the Tent]] [[H5715|of the Testimony,]] [[H6965|was set up,]] [[H6051|the cloud]] [[H3680|covered]] ⟨it⟩ [[H4908|]] [[H4758|and appeared]] [[H784|like fire]] [[H5921|above]] [[H4908|the tabernacle]] [[H6153|from evening]] [[H5704|until]] [[H1242|morning.]] ^0915
 
-They minister to their brothers in the tent of meeting by keeping guard, but they shall do no service. Thus shall you do to the Levites in assigning their duties. ^0826
+[[H1961|It remained]] [[H3651|that way]] [[H8548|continually;]] [[H6051|the cloud]] [[H3680|would cover]] ⟨the tabernacle⟩ ⟨by day⟩, [[H3915|and at night]] [[H4758|it would appear]] [[H784|like fire.]] ^0916
 
+[[H6310|Whenever]] [[H6051|the cloud]] [[H5927|was taken up]] [[H5921|from above]] [[H168|the Tent,]] [[H1121|the Israelites]] [[H5265|would set out,]] [[H4725|and wherever]] [[H6051|the cloud]] [[H7931|settled,]] [[H8033|there]] [[H1121|the Israelites]] [[H2583|would camp.]] ^0917
 
+[[H5921|At]] [[H3068|the LORD’s]] [[H6310|command]] [[H1121|the Israelites]] [[H5265|set out,]] [[H5921|and at]] [[H3068|the LORD’s]] [[H6310|command]] [[H2583|they camped.]] [[H3605|As long as]] [[H6051|the cloud]] [[H7931|remained]] [[H5921|over]] [[H4908|the tabernacle,]] [[H2583|they camped.]] ^0918
 
-And the Lord spoke to Moses in the wilderness of Sinai, in the first month of the second year after they had come out of the land of Egypt, saying, ^0901
+[[H6051|Even when the cloud]] [[H748|lingered]] [[H5921|over]] [[H4908|the tabernacle]] [[H7227|for many]] [[H3117|days,]] [[H1121|the Israelites]] [[H8104|kept]] [[H3068|the LORD’s]] [[H4931|charge]] [[H3808|and did not]] [[H5265|set out.]] ^0919
 
-Let the people of Israel keep the Passover at its appointed time. ^0902
+[[H3426|Sometimes]] [[H6051|the cloud]] [[H1961|remained]] [[H5921|over]] [[H4908|the tabernacle]] [[H4557|for only a few]] [[H3117|days,]] [[H2583|and they would camp]] [[H5921|at]] [[H3068|the LORD’s]] [[H6310|command]] [[H5265|and set out]] [[H5921|at]] [[H3068|the LORD’s]] [[H6310|command.]] ^0920
 
-On the fourteenth day of this month, at twilight, you shall keep it at its appointed time; according to all its statutes and all its rules you shall keep it. ^0903
+[[H3426|Sometimes]] [[H6051|the cloud]] [[H1961|remained]] [[H6153|only from evening]] [[H5704|until]] [[H1242|morning,]] [[H6051|and when]] ⟨it⟩ [[H5927|lifted]] [[H1242|in the morning,]] [[H5265|they would set out.]] [[H176|Whether]] ⟨it was⟩ [[H3119|by day]] [[H3915|or by night,]] [[H6051|when the cloud]] [[H5927|was taken up,]] [[H5265|they would set out.]] ^0921
 
-So Moses told the people of Israel that they should keep the Passover. ^0904
+[[H176|Whether]] ⟨the cloud⟩ [[H748|lingered]] [[H3117|for two days,]] [[H2320|a month,]] [[H176|or longer,]] [[H1121|the Israelites]] [[H2583|camped]] [[H3808|and did not]] [[H5265|set out]] [[H6051|as long as the cloud]] [[H7931|remained]] [[H5921|over]] [[H4908|the tabernacle;]] [[H5927|but when it was lifted,]] [[H5265|they would set out.]] ^0922
 
-And they kept the Passover in the first month, on the fourteenth day of the month, at twilight, in the wilderness of Sinai; according to all that the Lord commanded Moses, so the people of Israel did. ^0905
+[[H2583|They camped]] [[H5921|at]] [[H3068|the LORD’s]] [[H6310|command,]] [[H5265|and they set out]] [[H5921|at]] [[H3068|the LORD’s]] [[H6310|command;]] [[H8104|they carried out]] [[H3068|the LORD’s]] [[H4931|charge]] [[H5921|according to]] [[H3068|His]] [[H6310|command]] [[H3027|through]] [[H4872|Moses.]] ^0923
 
-And there were certain men who were unclean through touching a dead body, so that they could not keep the Passover on that day, and they came before Moses and Aaron on that day. ^0906
+[[H3068|Then the LORD]] [[H1696|said]] [[H413|to]] [[H4872|Moses,]] ^1001
 
-And those men said to him, We are unclean through touching a dead body. Why are we kept from bringing the Lord ’s offering at its appointed time among the people of Israel? ^0907
+[[H6213|“Make]] [[H8147|two]] [[H2689|trumpets]] [[H4749|of hammered]] [[H3701|silver]] [[H1961|to be used]] [[H4744|for calling]] [[H5712|the congregation]] [[H4264|and for having the camps]] [[H4550|set out.]] ^1002
 
-And Moses said to them, Wait, that I may hear what the Lord will command concerning you. ^0908
+[[H8628|When both are sounded,]] [[H3605|the whole]] [[H5712|congregation]] [[H3259|is to assemble]] [[H413|before]] [[H413|you at]] [[H6607|the entrance]] [[H168|to the Tent]] [[H4150|of Meeting.]] ^1003
 
-The Lord spoke to Moses, saying, ^0909
+[[H518|But if]] ⟨only⟩ [[H259|one]] [[H8628|is sounded,]] [[H5387|then the leaders,]] [[H7218|the heads]] [[H505|of the clans]] [[H3478|of Israel,]] [[H3259|are to gather]] [[H413|before you.]] ^1004
 
-Speak to the people of Israel, saying, If any one of you or of your descendants is unclean through touching a dead body, or is on a long journey, he shall still keep the Passover to the Lord. ^0910
+[[H8628|When you sound]] [[H8643|short blasts,]] [[H4264|the camps]] [[H2583|that lie]] [[H6924|on the east side]] [[H5265|are to set out.]] ^1005
 
-In the second month on the fourteenth day at twilight they shall keep it. They shall eat it with unleavened bread and bitter herbs. ^0911
+[[H8628|When you sound]] [[H8643|the short blasts]] [[H8145|a second time,]] [[H4264|the camps]] [[H2583|that lie]] [[H8486|on the south side]] [[H5265|are to set out.]] [[H8643|The blasts]] [[H8628|are to signal them]] [[H4550|to set out.]] ^1006
 
-They shall leave none of it until the morning, nor break any of its bones; according to all the statute for the Passover they shall keep it. ^0912
+[[H6950|To convene]] [[H6951|the assembly,]] [[H8628|you are to sound long blasts,]] [[H3808|not]] [[H7321|short ones.]] ^1007
 
-But if anyone who is clean and is not on a journey fails to keep the Passover, that person shall be cut off from his people because he did not bring the Lord ’s offering at its appointed time; that man shall bear his sin. ^0913
+[[H1121|The sons]] [[H175|of Aaron,]] [[H3548|the priests,]] [[H8628|are to sound]] [[H2689|the trumpets.]] [[H1961|This shall be]] [[H5769|a perpetual]] [[H2708|statute]] [[H1755|for you the generations to come.]] ⟨and⟩ ^1008
 
-And if a stranger sojourns among you and would keep the Passover to the Lord, according to the statute of the Passover and according to its rule, so shall he do. You shall have one statute, both for the sojourner and for the native. ^0914
+[[H3588|When]] [[H935|you enter]] [[H4421|into battle]] [[H776|in your land]] [[H5921|against]] [[H6862|an adversary]] [[H6887|who attacks]] [[H853|you,]] [[H7321|sound short blasts]] [[H2689|on the trumpets,]] [[H2142|and you will be remembered]] [[H6440|before]] [[H3068|the LORD]] [[H430|your God]] [[H3467|and delivered]] [[H341|from your enemies.]] ^1009
 
-On the day that the tabernacle was set up, the cloud covered the tabernacle, the tent of the testimony. And at evening it was over the tabernacle like the appearance of fire until morning. ^0915
+[[H8057|And on your joyous]] [[H3117|occasions,]] [[H4150|your appointed feasts,]] [[H7218|and the beginning]] [[H2320|of each month,]] [[H8628|you are to blow]] [[H2689|the trumpets]] [[H5921|over]] [[H5930|your burnt offerings]] [[H8002|and fellowship]] [[H2077|offerings,]] [[H1961|and they will serve]] [[H2146|as a reminder]] [[H6440|for you before]] [[H430|your God.]] [[H589|I]] [[H3068|am the LORD]] [[H430|your God.”]] ^1010
 
-So it was always : the cloud covered it by day and the appearance of fire by night. ^0916
+[[H6242|On the twentieth]] [[H2320|day]] [[H8145|of the second]] [[H2320|month]] [[H8145|of the second]] [[H8141|year,]] [[H6051|the cloud]] [[H5927|was lifted]] [[H5921|from above]] [[H4908|the tabernacle]] [[H5715|of the Testimony,]] ^1011
 
-And whenever the cloud lifted from over the tent, after that the people of Israel set out, and in the place where the cloud settled down, there the people of Israel camped. ^0917
+[[H1121|and the Israelites]] [[H5265|set out]] [[H4057|from the Wilderness]] [[H5514|of Sinai,]] [[H4550|traveling from place to place]] [[H6051|until the cloud]] [[H7931|settled]] [[H4057|in the Wilderness]] [[H6290|of Paran.]] ^1012
 
-At the command of the Lord the people of Israel set out, and at the command of the Lord they camped. As long as the cloud rested over the tabernacle, they remained in camp. ^0918
+[[H5265|They set out,]] [[H7223|this first time,]] [[H5921|according to]] [[H3068|the LORD’s]] [[H6310|command]] [[H3027|through]] [[H4872|Moses.]] ^1013
 
-Even when the cloud continued over the tabernacle many days, the people of Israel kept the charge of the Lord and did not set out. ^0919
+[[H7223|First,]] [[H6635|the divisions]] [[H4264|of the camp]] [[H1121|of Judah]] [[H5265|set out]] [[H1714|under their banner,]] [[H5177|with Nahshon]] [[H1121|son]] [[H5992|of Amminadab]] [[H5921|in command.]] ^1014
 
-Sometimes the cloud was a few days over the tabernacle, and according to the command of the Lord they remained in camp; then according to the command of the Lord they set out. ^0920
+[[H5417|Nethanel]] [[H1121|son]] [[H6686|of Zuar]] [[H5921|was over]] [[H6635|the division]] [[H4294|of the tribe]] [[H3485|of Issachar,]] ^1015
 
-And sometimes the cloud remained from evening until morning. And when the cloud lifted in the morning, they set out, or if it continued for a day and a night, when the cloud lifted they set out. ^0921
+[[H446|and Eliab]] [[H1121|son]] [[H2497|of Helon]] [[H5921|was over]] [[H6635|the division]] [[H4294|of the tribe]] [[H2074|of Zebulun.]] ^1016
 
-Whether it was two days, or a month, or a longer time, that the cloud continued over the tabernacle, abiding there, the people of Israel remained in camp and did not set out, but when it lifted they set out. ^0922
+[[H4908|Then the tabernacle]] [[H3381|was taken down,]] [[H1121|and the Gershonites]] [[H1121|and the Merarites]] [[H5265|set out,]] [[H5375|transporting]] ⟨it⟩ [[H4908|.]] ^1017
 
-At the command of the Lord they camped, and at the command of the Lord they set out. They kept the charge of the Lord, at the command of the Lord by Moses. ^0923
+[[H6635|Then the divisions]] [[H4264|of the camp]] [[H7205|of Reuben]] [[H5265|set out,]] [[H1714|under their banner,]] [[H468|with Elizur]] [[H1121|son]] [[H7707|of Shedeur]] [[H5921|in command.]] ^1018
 
+[[H8017|Shelumiel]] [[H1121|son]] [[H6701|of Zurishaddai]] [[H5921|was over]] [[H6635|the division]] [[H4294|of the tribe]] [[H8095|of Simeon,]] ^1019
 
+[[H460|and Eliasaph]] [[H1121|son]] [[H1845|of Deuel]] [[H5921|was over]] [[H6635|the division]] [[H4294|of the tribe]] [[H1121|of Gad.]] ^1020
 
-The Lord spoke to Moses, saying, ^1001
+[[H6956|Then the Kohathites]] [[H5265|set out,]] [[H5375|transporting]] [[H4720|the holy objects;]] [[H4908|the tabernacle]] [[H6965|was to be set up]] [[H5704|before]] [[H935|their arrival.]] ^1021
 
-Make two silver trumpets. Of hammered work you shall make them, and you shall use them for summoning the congregation and for breaking camp. ^1002
+[[H6635|Next, the divisions]] [[H4264|of the camp]] [[H1121|of Ephraim]] [[H5265|set out,]] [[H1714|under their banner,]] [[H476|with Elishama]] [[H1121|son]] [[H5989|of Ammihud]] [[H5921|in command.]] ^1022
 
-And when both are blown, all the congregation shall gather themselves to you at the entrance of the tent of meeting. ^1003
+[[H1583|Gamaliel]] [[H1121|son]] [[H6301|of Pedahzur]] [[H5921|was over]] [[H6635|the division]] [[H4294|of the tribe]] [[H1121|of Manasseh,]] ^1023
 
-But if they blow only one, then the chiefs, the heads of the tribes of Israel, shall gather themselves to you. ^1004
+[[H27|and Abidan]] [[H1121|son]] [[H1441|of Gideoni]] [[H5921|was over]] [[H6635|the division]] [[H4294|of the tribe]] [[H1144|of Benjamin.]] ^1024
 
-When you blow an alarm, the camps that are on the east side shall set out. ^1005
+[[H6635|Finally, the divisions]] [[H4264|of the camp]] [[H1121|of Dan]] [[H5265|set out,]] [[H1714|under their banner,]] [[H622|serving as the rear guard]] [[H3605|for all]] [[H4264|units,]] [[H295|with Ahiezer]] [[H1121|son]] [[H5996|of Ammishaddai]] [[H5921|in command.]] ^1025
 
-And when you blow an alarm the second time, the camps that are on the south side shall set out. An alarm is to be blown whenever they are to set out. ^1006
+[[H6295|Pagiel]] [[H1121|son]] [[H5918|of Ocran]] [[H5921|was over]] [[H6635|the division]] [[H4294|of the tribe]] [[H1121|of Asher,]] ^1026
 
-But when the assembly is to be gathered together, you shall blow a long blast, but you shall not sound an alarm. ^1007
+[[H299|and Ahira]] [[H1121|son]] [[H5881|of Enan]] [[H5921|was over]] [[H6635|the division]] [[H4294|of the tribe]] [[H1121|of Naphtali.]] ^1027
 
-And the sons of Aaron, the priests, shall blow the trumpets. The trumpets shall be to you for a perpetual statute throughout your generations. ^1008
+[[H428|This]] [[H4550|was the order of march]] [[H1121|for the Israelite]] [[H6635|divisions]] [[H5265|as they set out.]] ^1028
 
-And when you go to war in your land against the adversary who oppresses you, then you shall sound an alarm with the trumpets, that you may be remembered before the Lord your God, and you shall be saved from your enemies. ^1009
+[[H4872|Then Moses]] [[H559|said]] [[H2246|to Hobab,]] [[H1121|son]] [[H4872|of]] ⟨his⟩ [[H2859|father-in-law]] [[H7467|Reuel]] [[H4084|the Midianite,]] [[H587|“We are]] [[H5265|setting out]] [[H413|for]] [[H4725|the place]] [[H834|of which]] [[H3068|the LORD]] [[H559|said:]] [[H5414|‘I will give it to you.’]] [[H1980|Come]] [[H854|with us,]] [[H3190|and we will treat you well,]] [[H3588|for]] [[H3068|the LORD]] [[H1696|has promised]] [[H2896|good]] [[H5921|things to]] [[H3478|Israel.]] ^1029
 
-On the day of your gladness also, and at your appointed feasts and at the beginnings of your months, you shall blow the trumpets over your burnt offerings and over the sacrifices of your peace offerings. They shall be a reminder of you before your God : I am the Lord your God. ^1010
+[[H3808|“I will not]] [[H1980|go,”]] ⟨Hobab⟩ [[H559|replied.]] [[H3588|“Instead,]] [[H1980|I am going back]] [[H413|to]] [[H776|my own land]] [[H4138|and my own people.”]] ^1030
 
-In the second year, in the second month, on the twentieth day of the month, the cloud lifted from over the tabernacle of the testimony, ^1011
+[[H4994|“Please]] [[H408|do not]] [[H5800|leave us,”]] [[H559|Moses said,]] [[H3588|“since]] [[H3045|you know]] [[H2583|where we should camp]] [[H4057|in the wilderness,]] [[H1961|and you can serve]] [[H5869|as our eyes.]] ^1031
 
-and the people of Israel set out by stages from the wilderness of Sinai. And the cloud settled down in the wilderness of Paran. ^1012
+[[H3588|If]] [[H1980|you come]] [[H5973|with us,]] [[H3190|we will share]] [[H834|with you  whatever]] [[H2896|good things]] [[H3068|the LORD]] [[H5973|gives us.”]] ^1032
 
-They set out for the first time at the command of the Lord by Moses. ^1013
+[[H5265|So they set out]] [[H7969|on a three-day]] [[H1870|journey]] [[H2022|from the mountain]] [[H3068|of the LORD,]] [[H727|with the ark]] [[H1285|of the covenant]] [[H3068|of the LORD]] [[H5265|traveling]] [[H6440|ahead of them]] [[H7969|for those three]] [[H3117|days]] [[H8446|to seek]] [[H4496|a resting place]] ^1033
 
-The standard of the camp of the people of Judah set out first by their companies, and over their company was Nahshon the son of Amminadab. ^1014
+[[H6051|And the cloud]] [[H3068|of the LORD]] [[H5921|was over]] [[H3119|them by day]] [[H5265|when they set out]] [[H4480|from]] [[H4264|the camp.]] ^1034
 
-And over the company of the tribe of the people of Issachar was Nethanel the son of Zuar. ^1015
+[[H1961|Whenever]] [[H727|the ark]] [[H5265|set out,]] [[H4872|Moses]] [[H559|would say,]] [[H6965|“Rise up,]] [[H3068|O LORD!]] [[H341|May Your enemies]] [[H6327|be scattered;]] [[H8130|may those who hate You]] [[H5127|flee]] [[H6440|before You.”]] ^1035
 
-And over the company of the tribe of the people of Zebulun was Eliab the son of Helon. ^1016
+[[H5117|And when it came to rest,]] [[H559|he would say:]] [[H7725|“Return,]] [[H3068|O LORD,]] [[H7233|to the countless]] [[H505|thousands]] [[H3478|of Israel.”]] ^1036
 
-And when the tabernacle was taken down, the sons of Gershon and the sons of Merari, who carried the tabernacle, set out. ^1017
+[[H1961|Soon]] [[H5971|the people]] [[H596|began to complain]] [[H7451|about their hardship]] [[H241|in the hearing]] [[H3068|of the LORD,]] [[H3068|and when He]] [[H8085|heard]] ⟨them⟩, [[H639|His anger]] [[H2734|was kindled,]] [[H784|and fire]] [[H3068|from the LORD]] [[H1197|blazed]] [[H398|among them  and consumed]] [[H7097|the outskirts]] [[H4264|of the camp.]] ^1101
 
-And the standard of the camp of Reuben set out by their companies, and over their company was Elizur the son of Shedeur. ^1018
+[[H5971|And the people]] [[H6817|cried out]] [[H413|to]] [[H4872|Moses,]] [[H4872|and he]] [[H6419|prayed]] [[H413|to]] [[H3068|the LORD,]] [[H784|and the fire]] [[H8257|died down.]] ^1102
 
-And over the company of the tribe of the people of Simeon was Shelumiel the son of Zurishaddai. ^1019
+[[H1931|So that]] [[H4725|place]] [[H7121|was called]] [[H8404|Taberah,]] [[H3588|because]] [[H784|the fire]] [[H3068|of the LORD]] [[H1197|had burned]] ^1103
 
-And over the company of the tribe of the people of Gad was Eliasaph the son of Deuel. ^1020
+[[H628|Meanwhile, the rabble]] [[H7130|among them]] [[H183|had a strong craving for other food,]] [[H1571|and]] [[H7725|again]] [[H1121|the Israelites]] [[H1058|wept]] [[H559|and said,]] [[H4310|“Who]] [[H398|will feed]] [[H1320|us meat?]] ^1104
 
-Then the Kohathites set out, carrying the holy things, and the tabernacle was set up before their arrival. ^1021
+[[H2142|We remember]] [[H1710|the fish]] [[H398|we ate]] [[H2600|freely]] [[H4714|in Egypt,]] [[H7180|along with the cucumbers,]] [[H20|melons,]] [[H2682|leeks,]] [[H1211|onions,]] [[H7762|and garlic.]] ^1105
 
-And the standard of the camp of the people of Ephraim set out by their companies, and over their company was Elishama the son of Ammihud. ^1022
+[[H6258|But now]] [[H5315|our appetite]] [[H3002|is gone;]] [[H369|there is nothing]] [[H5869|to see]] [[H1115|but]] [[H4478|this manna!”]] ^1106
 
-And over the company of the tribe of the people of Manasseh was Gamaliel the son of Pedahzur. ^1023
+[[H4478|Now the manna]] [[H1407|resembled coriander]] [[H2233|seed,]] [[H5869|and its appearance]] [[H5869|was like that]] [[H916|of gum resin.]] ^1107
 
-And over the company of the tribe of the people of Benjamin was Abidan the son of Gideoni. ^1024
+[[H5971|The people]] [[H7751|walked around]] [[H3950|and gathered it,]] [[H2912|ground it]] [[H7347|on a handmill]] [[H176|or]] [[H1743|crushed it]] [[H4085|in a mortar,]] [[H1310|then boiled]] [[H6517|it in a cooking pot]] [[H6213|or shaped it into]] [[H5692|cakes.]] [[H2940|It tasted]] [[H3955|like pastry]] [[H8081|baked with fine oil.]] ^1108
 
-Then the standard of the camp of the people of Dan, acting as the rear guard of all the camps, set out by their companies, and over their company was Ahiezer the son of Ammishaddai. ^1025
+[[H2919|When the dew]] [[H3381|fell]] [[H5921|on]] [[H4264|the camp]] [[H3915|at night,]] [[H4478|the manna]] [[H3381|would fall]] [[H5921|with it.]] ^1109
 
-And over the company of the tribe of the people of Asher was Pagiel the son of Ochran. ^1026
+[[H4872|Then Moses]] [[H8085|heard]] [[H5971|the people]] [[H4940|of family]] [[H376|after family]] [[H1058|weeping]] [[H6607|at the entrance]] [[H168|of their tents,]] [[H639|and the anger]] [[H3069|of the LORD]] [[H2734|was kindled]] [[H3966|greatly,]] [[H4872|and Moses]] [[H5869|also was displeased.]] ^1110
 
-And over the company of the tribe of the people of Naphtali was Ahira the son of Enan. ^1027
+[[H4872|So Moses]] [[H559|asked]] [[H3068|the LORD,]] [[H4100|“Why]] [[H7489|have You brought this trouble]] [[H5650|on Your servant?]] [[H4100|Why]] [[H3808|have I not]] [[H4672|found]] [[H2580|favor]] [[H5869|in Your sight,]] [[H7760|that You have laid]] [[H5921|upon me]] [[H4853|the burden]] [[H3605|of all]] [[H2088|these]] [[H5971|people?]] ^1111
 
-This was the order of march of the people of Israel by their companies, when they set out. ^1028
+[[H595|Did I]] [[H2029|conceive]] [[H3605|all]] [[H2088|these]] [[H5971|people?]] [[H595|Did I]] [[H3205|give them birth,]] [[H3588|so that]] [[H559|You should tell]] [[H413|me,]] [[H5375|‘Carry them]] [[H2436|in your bosom,]] [[H834|as]] [[H539|a nurse]] [[H5375|carries]] [[H3243|a nursing infant,’]] [[H5921|to]] [[H127|the land]] [[H834|that]] [[H7650|You swore to give]] [[H1|their fathers?]] ^1112
 
-And Moses said to Hobab the son of Reuel the Midianite, Moses ’ father-in-law, We are setting out for the place of which the Lord said, I will give it to you. Come with us, and we will do good to you, for the Lord has promised good to Israel. ^1029
+[[H370|Where]] [[H1320|can I get meat]] [[H5414|for]] [[H3605|all]] [[H2088|these]] [[H5971|people?]] [[H3588|For]] [[H1058|they keep crying out]] [[H5921|to me,]] [[H5414|‘Give]] [[H1320|us meat]] [[H398|to eat!’]] ^1113
 
-But he said to him, I will not go. I will depart to my own land and to my kindred. ^1030
+[[H595|I]] [[H3808|cannot]] [[H5375|carry]] [[H3605|all]] [[H2088|these]] [[H5971|people]] [[H905|by myself;]] ⟨it is⟩ [[H3515|too burdensome]] [[H4480|for me.]] ^1114
 
-And he said, Please do not leave us, for you know where we should camp in the wilderness, and you will serve as eyes for us. ^1031
+[[H518|If]] [[H3602|this is how]] [[H859|You]] [[H6213|are going to treat]] [[H4994|me,  please]] [[H2026|kill me right now—]] [[H518|if]] [[H4672|I have found]] [[H2580|favor]] [[H5869|in Your eyes—]] [[H408|and let me not]] [[H7200|see]] [[H7451|my own wretchedness.”]] ^1115
 
-And if you do go with us, whatever good the Lord will do to us, the same will we do to you. ^1032
+[[H3068|Then the LORD]] [[H559|said]] [[H4872|to Moses,]] [[H622|“Bring]] [[H7657|Me  seventy]] [[H2205|of the elders]] [[H3478|of Israel]] [[H3045|known to you]] [[H2205|as leaders]] [[H7860|and officers]] [[H5971|of the people.]] [[H3947|Bring]] [[H853|them]] [[H413|to]] [[H168|the Tent]] [[H4150|of Meeting]] [[H3320|and have them stand]] [[H8033|there]] [[H5973|with you.]] ^1116
 
-So they set out from the mount of the Lord three days ’ journey. And the ark of the covenant of the Lord went before them three days ’ journey, to seek out a resting place for them. ^1033
+[[H3381|And I will come down]] [[H1696|and speak]] [[H5973|with you]] [[H8033|there,]] [[H680|and I will take]] [[H4480|some of]] [[H7307|the Spirit]] [[H834|who]] [[H5921|is on]] [[H7760|you and put]] ⟨that Spirit⟩ [[H5921|upon them.]] [[H5375|They will help you bear]] [[H4853|the burden]] [[H5971|of the people,]] [[H859|so that you]] [[H3808|do not]] [[H5375|have to bear it]] [[H905|by yourself.]] ^1117
 
-And the cloud of the Lord was over them by day, whenever they set out from the camp. ^1034
+[[H413|And]] [[H559|say]] [[H5971|to the people:]] [[H6942|Consecrate yourselves]] [[H4279|for tomorrow,]] [[H398|and you will eat]] [[H1320|meat,]] [[H3588|because]] [[H1058|you have cried out]] [[H241|in the hearing]] [[H3068|of the LORD,]] [[H559|saying,]] [[H4310|‘Who]] [[H398|will feed]] [[H1320|us meat?]] [[H3588|For]] [[H2895|we were better off]] [[H4714|in Egypt.’]] [[H3068|Therefore the LORD]] [[H5414|will give]] [[H1320|you meat,]] [[H398|and you will eat.]] ^1118
 
-And whenever the ark set out, Moses said, Arise, O Lord, and let your enemies be scattered, and let those who hate you flee before you. ^1035
+[[H398|You will eat it]] [[H3808|not]] [[H259|for one]] [[H3117|or two days,]] [[H3808|nor]] [[H2568|for five]] [[H6235|or ten]] [[H6242|or twenty]] [[H3117|days,]] ^1119
 
-And when it rested, he said, Return, O Lord, to the ten thousand thousands of Israel. ^1036
+[[H5704|but for]] [[H2320|a whole month—]] [[H5704|until]] [[H3318|it comes out]] [[H639|of your nostrils]] [[H1961|and makes]] [[H2214|you  nauseous—]] [[H3282|because]] [[H3988|you have despised]] [[H3068|the LORD]] [[H834|who]] [[H7130|is among you,]] [[H1058|and cried out]] [[H6440|before Him]] [[H559|saying,]] [[H4100|‘Why]] [[H2088|did we ever]] [[H3318|leave]] [[H4714|Egypt?’”]] ^1120
 
+[[H4872|But Moses]] [[H559|replied,]] [[H595|“Here I am]] [[H7130|among]] [[H8337|600,000]] [[H5971|men]] [[H7273|on foot,]] [[H859|yet You]] [[H559|say,]] [[H5414|‘I will give]] [[H1320|them meat,]] [[H398|and they will eat]] [[H2320|for a month.’]] ^1121
 
+[[H6629|If flocks]] [[H1241|and herds]] [[H7819|were slaughtered for them,]] [[H4672|would they have enough?]] [[H518|Or if]] [[H3605|all]] [[H1709|the fish]] [[H3220|in the sea]] [[H622|were caught for them,]] [[H4672|would they have enough?”]] ^1122
 
-And the people complained in the hearing of the Lord about their misfortunes, and when the Lord heard it, his anger was kindled, and the fire of the Lord burned among them and consumed some outlying parts of the camp. ^1101
+[[H3068|The LORD]] [[H559|answered]] [[H4872|Moses,]] [[H3068|“Is the LORD’s]] [[H3027|arm]] [[H7114|too short?]] [[H6258|Now]] [[H7200|you will see]] [[H518|whether or]] [[H3808|not]] [[H1697|My word]] [[H7136|shall come to pass.”]] ^1123
 
-Then the people cried out to Moses, and Moses prayed to the Lord, and the fire died down. ^1102
+[[H4872|So Moses]] [[H3318|went out]] [[H1696|and relayed]] [[H413|to]] [[H5971|the people]] [[H1697|the words]] [[H3068|of the LORD,]] [[H622|and he gathered]] [[H7657|seventy]] [[H2205|of the elders]] [[H5971|of the people]] [[H5975|and had them stand]] [[H5439|around]] [[H168|the tent.]] ^1124
 
-So the name of that place was called Taberah, because the fire of the Lord burned among them. ^1103
+[[H3068|Then the LORD]] [[H3381|came down]] [[H6051|in the cloud]] [[H1696|and spoke]] [[H413|to him,]] [[H680|and He took]] [[H4480|some of]] [[H7307|the Spirit]] [[H834|that]] [[H5921|was on]] ⟨Moses⟩ [[H5414|and placed]] [[H5921|that Spirit on]] [[H7657|the seventy]] [[H2205|elders.]] [[H7307|As the Spirit]] [[H5117|rested]] [[H5921|on them,]] [[H5012|they prophesied—]] [[H3808|but they never]] [[H3254|did so again.]] ^1125
 
-Now the rabble that was among them had a strong craving. And the people of Israel also wept again and said, Oh that we had meat to eat! ^1104
+[[H8147|Two]] [[H376|men,]] [[H7604|however, had remained]] [[H4264|in the camp—]] [[H259|one]] [[H8034|named]] [[H419|Eldad]] [[H8145|and the other]] [[H4312|Medad—]] [[H7307|and the Spirit]] [[H5117|rested]] [[H5921|on them.]] [[H1992|They]] [[H3789|were among those listed,]] [[H3808|but they had not]] [[H3318|gone out]] [[H168|to the tent,]] [[H5012|and they prophesied]] [[H4264|in the camp.]] ^1126
 
-We remember the fish we ate in Egypt that cost nothing, the cucumbers, the melons, the leeks, the onions, and the garlic. ^1105
+[[H5288|A young man]] [[H7323|ran]] [[H5046|and reported]] [[H4872|to Moses,]] [[H419|“Eldad]] [[H4312|and Medad]] [[H5012|are prophesying]] [[H4264|in the camp.”]] ^1127
 
-But now our strength is dried up, and there is nothing at all but this manna to look at. ^1106
+[[H3091|Joshua]] [[H1121|son]] [[H5126|of Nun,]] [[H8334|the attendant]] [[H4872|to Moses]] [[H979|since youth,]] [[H6030|spoke up]] [[H559|and said,]] [[H4872|“Moses,]] [[H113|my lord,]] [[H3607|stop them!”]] ^1128
 
-Now the manna was like coriander seed, and its appearance like that of bdellium. ^1107
+[[H4872|But Moses]] [[H559|replied,]] [[H859|“Are you]] [[H7065|jealous]] [[H4310|on my account?]] [[H5414|I wish that]] [[H3605|all]] [[H3068|the LORD’s]] [[H5971|people]] [[H5030|were prophets]] [[H3588|and that]] [[H3068|the LORD]] [[H5414|would place]] [[H7307|His Spirit]] [[H5921|on them!”]] ^1129
 
-The people went about and gathered it and ground it in handmills or beat it in mortars and boiled it in pots and made cakes of it. And the taste of it was like the taste of cakes baked with oil. ^1108
+[[H4872|Then Moses]] [[H622|returned]] [[H413|to]] [[H4264|the camp,]] [[H2205|along with the elders]] [[H3478|of Israel.]] ^1130
 
-When the dew fell upon the camp in the night, the manna fell with it. ^1109
+[[H7307|Now a wind]] [[H4480|sent by]] [[H3068|the LORD]] [[H5265|came up,]] [[H1468|drove in]] [[H7958|quail]] [[H853|from]] [[H3220|the sea,]] [[H5203|and dropped]] [[H5921|them near]] [[H4264|the camp,]] [[H520|about two cubits]] [[H5921|deep]] [[H3117|for a day’s]] [[H1870|journey]] [[H3541|in every direction]] [[H5439|around]] [[H4264|the camp.]] ^1131
 
-Moses heard the people weeping throughout their clans, everyone at the door of his tent. And the anger of the Lord blazed hotly, and Moses was displeased. ^1110
+[[H3605|All]] [[H1931|that]] [[H3117|day]] [[H3915|and night,]] [[H3605|and all]] [[H4283|the next]] [[H3117|day,]] [[H5971|the people]] [[H6965|stayed up]] [[H622|gathering]] [[H7958|the quail.]] [[H622|No one gathered]] [[H4591|less than]] [[H6235|ten]] [[H2563|homers,]] [[H7849|and they spread them out]] [[H5439|all around]] [[H4264|the camp.]] ^1132
 
-Moses said to the Lord, Why have you dealt ill with your servant? And why have I not found favor in your sight, that you lay the burden of all this people on me? ^1111
+[[H5750|But while]] [[H1320|the meat]] [[H996|was still between]] [[H8127|their teeth,]] [[H2962|before]] [[H3772|it was chewed,]] [[H3068|the LORD’s]] [[H639|anger]] [[H2734|burned]] [[H5971|against the people,]] [[H3068|and the LORD]] [[H5221|struck]] [[H5971|them]] [[H7227|with a severe]] [[H4347|plague.]] ^1133
 
-Did I conceive all this people? Did I give them birth, that you should say to me, Carry them in your bosom, as a nurse carries a nursing child, to the land that you swore to give their fathers? ^1112
+[[H7121|So they called]] [[H1931|that]] [[H4725|place]] [[H6914|Kibroth-hattaavah,]] [[H3588|because]] [[H8033|there]] [[H6912|they buried]] [[H5971|the people]] [[H183|who had craved other food.]] ^1134
 
-Where am I to get meat to give to all this people? For they weep before me and say, Give us meat, that we may eat. ^1113
+[[H6914|From  Kibroth-hattaavah]] [[H5971|the people]] [[H5265|moved on]] [[H2698|to Hazeroth,]] [[H1961|where they remained for some time.]] ^1135
 
-I am not able to carry all this people alone; the burden is too heavy for me. ^1114
+[[H4813|Then Miriam]] [[H175|and Aaron]] [[H1696|criticized]] [[H4872|Moses]] [[H5921|because of]] [[H3569|the Cushite]] [[H802|woman]] [[H3947|he had married,]] [[H3588|for]] [[H3947|he had taken]] [[H3569|a Cushite]] [[H802|wife.]] ^1201
 
-If you will treat me like this, kill me at once, if I find favor in your sight, that I may not see my wretchedness. ^1115
+[[H3068|“Does the LORD]] [[H1696|speak]] [[H7535|only]] [[H4872|through Moses?”]] [[H559|they said.]] [[H3808|“Does He not]] [[H1571|also]] [[H1696|speak]] [[H3068|through us?”  And the LORD]] [[H8085|heard this.]] ^1202
 
-Then the Lord said to Moses, Gather for me seventy men of the elders of Israel, whom you know to be the elders of the people and officers over them, and bring them to the tent of meeting, and let them take their stand there with you. ^1116
+[[H4872|Now Moses]] [[H3966|was a very]] [[H6035|humble]] [[H376|man,]] [[H3605|more so than any]] [[H120|man]] [[H5921|on]] [[H6440|the face]] [[H127|of the earth.]] ^1203
 
-And I will come down and talk with you there. And I will take some of the Spirit that is on you and put it on them, and they shall bear the burden of the people with you, so that you may not bear it yourself alone. ^1117
+[[H6597|And suddenly]] [[H3068|the LORD]] [[H559|said]] [[H413|to]] [[H4872|Moses,]] [[H175|Aaron,]] [[H4813|and Miriam,]] [[H7969|“You three,]] [[H3318|come out]] [[H413|to]] [[H168|the Tent]] [[H4150|of Meeting.”]] [[H7969|So the three]] [[H3318|went out,]] ^1204
 
-And say to the people, Consecrate yourselves for tomorrow, and you shall eat meat, for you have wept in the hearing of the Lord, saying, Who will give us meat to eat? For it was better for us in Egypt. Therefore the Lord will give you meat, and you shall eat. ^1118
+[[H3068|and the LORD]] [[H3381|came down]] [[H5982|in a pillar]] [[H6051|of cloud,]] [[H5975|stood]] [[H6607|at the entrance]] [[H168|to the Tent,]] [[H7121|and summoned]] [[H175|Aaron]] [[H4813|and Miriam.]] [[H8147|When both]] [[H3318|of them had stepped forward,]] ^1205
 
-You shall not eat just one day, or two days, or five days, or ten days, or twenty days, ^1119
+[[H559|He said,]] [[H8085|“Hear]] [[H4994|now]] [[H1697|My words:]] [[H518|If]] [[H1961|there is]] [[H5030|a prophet]] ⟨among you⟩, ⟨I⟩ [[H3068|, the LORD,]] [[H3045|will reveal Myself]] [[H413|to him]] [[H4759|in a vision,]] [[H1696|I will speak]] [[H2472|to him  in a dream;]] ^1206
 
-but a whole month, until it comes out at your nostrils and becomes loathsome to you, because you have rejected the Lord who is among you and have wept before him, saying, Why did we come out of Egypt? ^1120
+[[H3808|not]] [[H3651|so]] [[H5650|with My servant]] [[H4872|Moses;]] [[H1931|he]] [[H539|is faithful]] [[H3605|in all]] [[H1004|My house.]] ^1207
 
-But Moses said, The people among whom I am number six hundred thousand on foot, and you have said, I will give them meat, that they may eat a whole month! ^1121
+[[H1696|I speak]] [[H6310|with him  face]] [[H413|to]] [[H6310|face,]] [[H4758|clearly]] [[H3808|and not]] [[H2420|in riddles;]] [[H5027|he sees]] [[H8544|the form]] [[H3068|of the LORD.]] [[H4069|Why then]] [[H3372|were you unafraid]] [[H1696|to speak]] [[H5650|against My servant]] [[H4872|Moses?”]] ^1208
 
-Shall flocks and herds be slaughtered for them, and be enough for them? Or shall all the fish of the sea be gathered together for them, and be enough for them? ^1122
+[[H639|So the anger]] [[H3069|of the LORD]] [[H2734|burned]] [[H1980|against them,  and He departed.]] ^1209
 
-And the Lord said to Moses, Is the Lord ’s hand shortened? Now you shall see whether my word will come true for you or not. ^1123
+[[H6051|As the cloud]] [[H5493|lifted]] [[H5921|from above]] [[H168|the Tent,]] [[H2009|suddenly]] [[H4813|Miriam]] ⟨became⟩ [[H6879|leprous,]] ⟨white⟩ [[H7950|as snow.]] [[H175|Aaron]] [[H6437|turned]] [[H413|toward]] [[H4813|her,]] [[H2009|saw that]] [[H6879|she leprous,]] ⟨was⟩ ^1210
 
-So Moses went out and told the people the words of the Lord. And he gathered seventy men of the elders of the people and placed them around the tent. ^1124
+[[H559|and said]] [[H413|to]] [[H4872|Moses,]] [[H113|“My lord,]] [[H4994|please]] [[H408|do not]] [[H7896|hold]] [[H5921|against us]] [[H2403|this sin]] [[H2973|we have so foolishly]] [[H2398|committed.]] ^1211
 
-Then the Lord came down in the cloud and spoke to him, and took some of the Spirit that was on him and put it on the seventy elders. And as soon as the Spirit rested on them, they prophesied. But they did not continue doing it. ^1125
+[[H4994|Please]] [[H408|do not]] [[H1961|let her be]] [[H4191|like a stillborn infant]] [[H834|whose]] [[H1320|flesh]] [[H2677|is half]] [[H398|consumed]] [[H3318|when he comes out]] [[H517|of his mother’s]] [[H7358|womb.”]] ^1212
 
-Now two men remained in the camp, one named Eldad, and the other named Medad, and the Spirit rested on them. They were among those registered, but they had not gone out to the tent, and so they prophesied in the camp. ^1126
+[[H4872|So Moses]] [[H6817|cried out]] [[H413|to]] [[H3068|the LORD,]] [[H410|“O God,]] [[H4994|please]] [[H7495|heal her!”]] ^1213
 
-And a young man ran and told Moses, Eldad and Medad are prophesying in the camp. ^1127
+[[H3068|But the LORD]] [[H559|answered]] [[H4872|Moses,]] [[H1|“If her father]] [[H3417|had but]] [[H3417|spit]] [[H6440|in her face,]] [[H3808|would she not]] [[H3637|have been in disgrace]] [[H7651|for seven]] [[H3117|days?]] [[H5462|Let her be confined]] [[H2351|outside]] [[H4264|the camp]] [[H7651|for seven]] [[H3117|days;]] [[H310|after that]] [[H622|she may be brought back in.”]] ^1214
 
-And Joshua the son of Nun, the assistant of Moses from his youth, said, My lord Moses, stop them. ^1128
+[[H4813|So Miriam]] [[H5462|was confined]] [[H2351|outside]] [[H4264|the camp]] [[H7651|for seven]] [[H3117|days,]] [[H5971|and the people]] [[H3808|did not]] [[H5265|move on]] [[H5704|until]] ⟨she⟩ [[H4813|]] [[H622|was brought in again.]] ^1215
 
-But Moses said to him, Are you jealous for my sake? Would that all the Lord ’s people were prophets, that the Lord would put his Spirit on them! ^1129
+[[H310|After that,]] [[H5971|the people]] [[H5265|set out]] [[H2698|from Hazeroth]] [[H2583|and camped]] [[H4057|in the Wilderness]] [[H6290|of Paran.]] ^1216
 
-And Moses and the elders of Israel returned to the camp. ^1130
+[[H3068|And the LORD]] [[H1696|said]] [[H413|to]] [[H4872|Moses,]] ^1301
 
-Then a wind from the Lord sprang up, and it brought quail from the sea and let them fall beside the camp, about a day’s journey on this side and a day’s journey on the other side, around the camp, and about two cubits above the ground. ^1131
+[[H7971|“Send]] [[H376|men]] [[H8446|to spy]] [[H776|out the land]] [[H3667|of Canaan,]] [[H834|which]] [[H589|I]] [[H5414|am giving]] [[H1121|to the Israelites.]] [[H3605|From each]] [[H1|of their fathers']] [[H4294|tribes]] [[H7971|send]] [[H259|one]] [[H376|man]] [[H5387|who is a leader]] ^1302
 
-And the people rose all that day and all night and all the next day, and gathered the quail. Those who gathered least gathered ten homers. And they spread them out for themselves all around the camp. ^1132
+[[H5921|So at]] [[H6310|the command]] [[H3068|of the LORD,]] [[H4872|Moses]] [[H7971|sent]] [[H853|them out]] [[H4057|from the wilderness]] [[H6290|of Paran.]] [[H3605|All]] [[H376|the men]] [[H7218|were leaders]] [[H3478|of the Israelites,]] ^1303
 
-While the meat was yet between their teeth, before it was consumed, the anger of the Lord was kindled against the people, and the Lord struck down the people with a very great plague. ^1133
+[[H428|and these]] [[H8034|were their names:]] [[H4294|From the tribe]] [[H7205|of Reuben,]] [[H8051|Shammua]] [[H1121|son]] [[H2139|of Zaccur;]] ^1304
 
-Therefore the name of that place was called Kibroth-hattaavah, because there they buried the people who had the craving. ^1134
+[[H4294|from the tribe]] [[H8095|of Simeon,]] [[H8202|Shaphat]] [[H1121|son]] [[H2753|of Hori;]] ^1305
 
-From Kibroth-hattaavah the people journeyed to Hazeroth, and they remained at Hazeroth. ^1135
+[[H4294|from the tribe]] [[H3063|of Judah,]] [[H3612|Caleb]] [[H1121|son]] [[H3312|of Jephunneh;]] ^1306
 
+[[H4294|from the tribe]] [[H3485|of Issachar,]] [[H3008|Igal]] [[H1121|son]] [[H3130|of Joseph;]] ^1307
 
+[[H4294|from the tribe]] [[H669|of Ephraim,]] [[H1954|Hoshea]] [[H1121|son]] [[H5126|of Nun;]] ^1308
 
-Miriam and Aaron spoke against Moses because of the Cushite woman whom he had married, for he had married a Cushite woman. ^1201
+[[H4294|from the tribe]] [[H1144|of Benjamin,]] [[H6406|Palti]] [[H1121|son]] [[H7505|of Raphu;]] ^1309
 
-And they said, Has the Lord indeed spoken only through Moses? Has he not spoken through us also? And the Lord heard it. ^1202
+[[H4294|from the tribe]] [[H2074|of Zebulun,]] [[H1427|Gaddiel]] [[H1121|son]] [[H5476|of Sodi;]] ^1310
 
-Now the man Moses was very meek, more than all people who were on the face of the earth. ^1203
+[[H4294|from the tribe]] [[H4519|of Manasseh]] [[H4294|(a tribe]] [[H3130|of Joseph),]] [[H1426|Gaddi]] [[H1121|son]] [[H5485|of Susi;]] ^1311
 
-And suddenly the Lord said to Moses and to Aaron and Miriam, Come out, you three, to the tent of meeting. And the three of them came out. ^1204
+[[H4294|from the tribe]] [[H1835|of Dan,]] [[H5988|Ammiel]] [[H1121|son]] [[H1582|of Gemalli;]] ^1312
 
-And the Lord came down in a pillar of cloud and stood at the entrance of the tent and called Aaron and Miriam, and they both came forward. ^1205
+[[H4294|from the tribe]] [[H836|of Asher,]] [[H5639|Sethur]] [[H1121|son]] [[H4317|of Michael;]] ^1313
 
-And he said, Hear my words : If there is a prophet among you, I the Lord make myself known to him in a vision; I speak with him in a dream. ^1206
+[[H4294|from the tribe]] [[H5321|of Naphtali,]] [[H5147|Nahbi]] [[H1121|son]] [[H2058|of Vophsi;]] ^1314
 
-Not so with my servant Moses. He is faithful in all my house. ^1207
+⟨and⟩ [[H4294|from the tribe]] [[H1410|of Gad,]] [[H1345|Geuel]] [[H1121|son]] [[H4352|of Machi.]] ^1315
 
-With him I speak mouth to mouth, clearly, and not in riddles, and he beholds the form of the Lord. Why then were you not afraid to speak against my servant Moses? ^1208
+[[H428|These]] [[H8034|were the names]] [[H376|of the men]] [[H4872|Moses]] [[H7971|sent]] [[H8446|to spy out]] [[H776|the land;]] [[H4872|and Moses]] [[H7121|gave]] [[H1954|to Hoshea]] [[H1121|son]] [[H5126|of Nun]] ⟨the name⟩ [[H3091|Joshua.]] ^1316
 
-And the anger of the Lord was kindled against them, and he departed. ^1209
+[[H4872|When Moses]] [[H7971|sent]] [[H853|them]] [[H8446|to spy out]] [[H776|the land]] [[H3667|of Canaan,]] [[H559|he told]] [[H413|them,]] [[H5927|“Go up]] [[H5045|through the Negev,]] [[H5927|and]] [[H2022|into the hill country.]] ^1317
 
-When the cloud removed from over the tent, behold, Miriam was leprous, like snow. And Aaron turned toward Miriam, and behold, she was leprous. ^1210
+[[H7200|See]] [[H4100|what]] [[H776|the land]] [[H1931|is like]] [[H853|and]] [[H5971|whether its people]] [[H2389|are strong]] [[H7504|or weak,]] [[H4592|few]] [[H518|or]] [[H7227|many.]] ^1318
 
-And Aaron said to Moses, Oh, my lord, do not punish us because we have done foolishly and have sinned. ^1211
+[[H776|Is the land]] [[H834|where]] [[H1931|they]] [[H3427|live]] [[H2896|good]] [[H518|or]] [[H7451|bad?]] [[H5892|Are the cities]] [[H834|where]] [[H1931|they]] [[H3427|dwell]] [[H4264|open camps]] [[H518|or]] [[H4013|fortifications?]] ^1319
 
-Let her not be as one dead, whose flesh is half eaten away when he comes out of his mother’s womb. ^1212
+[[H776|Is the soil]] [[H8082|fertile]] [[H518|or]] [[H7330|unproductive?]] [[H3426|Are there]] [[H6086|trees]] [[H518|in it  or]] [[H369|not?]] [[H2388|Be courageous,]] [[H3947|and bring back]] [[H6529|some of the fruit]] [[H776|of the land.”]] [[H3117|(It was the season]] [[H1061|for the first ripe]] [[H6025|grapes.)]] ^1320
 
-And Moses cried to the Lord, O God, please heal her—please. ^1213
+[[H5927|So they went up]] [[H8446|and spied out]] [[H776|the land]] [[H4057|from the wilderness]] [[H6790|of Zin]] [[H5704|as]] [[H7340|far as Rehob,]] [[H2574|toward Lebo-hamath.]] ^1321
 
-But the Lord said to Moses, If her father had but spit in her face, should she not be shamed seven days? Let her be shut outside the camp seven days, and after that she may be brought in again. ^1214
+[[H5927|They went up]] [[H5045|through the Negev]] [[H935|and came]] [[H5704|to]] [[H2275|Hebron,]] [[H8033|where]] [[H289|Ahiman,]] [[H8344|Sheshai,]] [[H8526|and Talmai,]] [[H3211|the descendants]] [[H6061|of Anak,]] [[H2275|dwelled.]] [[H1129|It had been built]] [[H7651|seven]] [[H8141|years]] [[H6440|before]] [[H6814|Zoan]] [[H4714|in Egypt.]] ^1322
 
-So Miriam was shut outside the camp seven days, and the people did not set out on the march till Miriam was brought in again. ^1215
+[[H935|When they came]] [[H5704|to]] [[H5158|the Valley]] [[H812|of Eshcol,]] [[H3772|they cut down]] [[H2156|a branch]] [[H259|with a single]] [[H811|cluster]] [[H6025|of grapes,]] [[H5375|which they carried]] [[H4132|on a pole]] [[H8147|between two men.]] [[H4480|They also took some]] [[H7416|pomegranates]] [[H8384|and figs.]] ^1323
 
-After that the people set out from Hazeroth, and camped in the wilderness of Paran. ^1216
+[[H5921|Because of]] [[H811|the cluster]] [[H1121|of grapes the Israelites]] [[H3772|cut]] [[H8033|there,]] [[H1931|that]] [[H4725|place]] [[H7121|was called]] [[H5158|the Valley]] [[H812|of Eshcol.]] ^1324
 
+[[H7093|After]] [[H705|forty]] [[H3117|days]] ⟨the men⟩ [[H7725|returned]] [[H8446|from spying out]] [[H776|the land,]] ^1325
 
+[[H1980|and they went back]] [[H413|to]] [[H4872|Moses,]] [[H175|Aaron,]] [[H3605|and the whole]] [[H5712|congregation]] [[H3478|of Israel]] [[H413|in]] [[H4057|the Wilderness]] [[H6290|of Paran]] [[H6946|at Kadesh.]] [[H7725|They brought back]] [[H1697|a report]] [[H3605|for all]] [[H5712|the congregation]] [[H7200|and showed]] [[H6529|them the fruit]] [[H776|of the land.]] ^1326
 
-The Lord spoke to Moses, saying, ^1301
+[[H5608|And they gave this account]] [[H935|to:  “We went]] ⟨Moses⟩ [[H413|into]] [[H776|the land]] [[H834|to which]] [[H7971|you sent us,]] [[H1571|and indeed,]] [[H1931|it]] [[H2100|is flowing]] [[H2461|with milk]] [[H1706|and honey.]] [[H2088|Here is]] [[H6529|some of its fruit!]] ^1327
 
-Send men to spy out the land of Canaan, which I am giving to the people of Israel. From each tribe of their fathers you shall send a man, every one a chief among them. ^1302
+[[H657|Nevertheless,]] [[H5971|the people]] [[H3427|living]] [[H776|in the land]] [[H5794|are strong,]] [[H5892|and the cities]] [[H1419|are large]] [[H3966|and fortified.]] [[H1571|We even]] [[H7200|saw]] [[H3211|the descendants]] [[H6061|of Anak]] [[H8033|there.]] ^1328
 
-So Moses sent them from the wilderness of Paran, according to the command of the Lord, all of them men who were heads of the people of Israel. ^1303
+[[H6002|The Amalekites]] [[H3427|live]] [[H776|in the land]] [[H5045|of the Negev;]] [[H2850|the Hittites,]] [[H2983|Jebusites,]] [[H567|and Amorites]] [[H3427|live]] [[H2022|in the hill country;]] [[H3669|and the Canaanites]] [[H3427|live]] [[H5921|by]] [[H3220|the sea]] [[H5921|and along]] [[H3383|the Jordan.”]] ^1329
 
-And these were their names : From the tribe of Reuben, Shammua the son of Zaccur; ^1304
+[[H3612|Then Caleb]] [[H2013|quieted]] [[H5971|the people]] [[H413|before]] [[H4872|Moses]] [[H559|and said,]] [[H5927|“We must go up]] [[H3423|and take possession of]] ⟨the land⟩ [[H853|,]] [[H3588|for]] [[H3201|we can certainly conquer]] [[H3201|it!”]] ^1330
 
-from the tribe of Simeon, Shaphat the son of Hori; ^1305
+[[H376|But the men]] [[H834|who]] [[H5927|had gone up]] [[H5973|with him]] [[H559|replied,]] [[H3808|“We cannot]] [[H5927|go up]] [[H413|against]] [[H5971|the people,]] [[H3588|for]] [[H1931|they]] [[H2389|are stronger]] [[H4480|than we are!”]] ^1331
 
-from the tribe of Judah, Caleb the son of Jephunneh; ^1306
+[[H3318|So they gave]] [[H1121|the Israelites]] [[H1681|a bad report]] [[H776|about the land]] [[H8446|they had spied out:]] [[H776|“The land]] [[H5674|we explored]] [[H398|devours]] [[H3427|its inhabitants,]] [[H3605|and all]] [[H5971|the people]] [[H7200|we saw]] [[H8432|there]] [[H4060|are great in stature.]] ^1332
 
-from the tribe of Issachar, Igal the son of Joseph; ^1307
+[[H7200|We even saw]] [[H5303|the Nephilim]] [[H8033|there—]] [[H1121|the descendants]] [[H6061|of Anak]] [[H4480|that come from]] [[H5303|the Nephilim!]] [[H1961|We seemed]] [[H2284|like grasshoppers]] [[H5869|in our own sight,]] [[H1961|and we must have seemed]] [[H3651|the same to them!”]] ^1333
 
-from the tribe of Ephraim, Hoshea the son of Nun; ^1308
+[[H3605|Then the whole]] [[H5712|congregation]] [[H5375|lifted]] [[H6963|up their voices]] [[H5414|and cried out,]] [[H1931|and that]] [[H3915|night]] [[H5971|the people]] [[H1058|wept.]] ^1401
 
-from the tribe of Benjamin, Palti the son of Raphu; ^1309
+[[H3605|All]] [[H1121|the Israelites]] [[H3885|grumbled]] [[H5921|against]] [[H4872|Moses]] [[H175|and Aaron,]] [[H3605|and the whole]] [[H5712|congregation]] [[H559|said]] [[H413|to them,]] [[H3863|“If only]] [[H4191|we had died]] [[H776|in the land]] [[H4714|of Egypt,]] [[H176|or]] [[H3863|if only]] [[H4191|we had died]] [[H2088|in this]] [[H4057|wilderness!]] ^1402
 
-from the tribe of Zebulun, Gaddiel the son of Sodi; ^1310
+[[H4100|Why]] [[H3068|is the LORD]] [[H935|bringing]] [[H413|us into]] [[H2063|this]] [[H776|land]] [[H5307|to fall]] [[H2719|by the sword?]] [[H802|Our wives]] [[H2945|and children]] [[H1961|will become]] [[H957|plunder.]] [[H3808|Would it not]] [[H2896|be better]] [[H7725|for us to go back]] [[H4714|to Egypt?”]] ^1403
 
-from the tribe of Joseph (that is, from the tribe of Manasseh ), Gaddi the son of Susi; ^1311
+[[H559|So they said]] [[H413|to]] [[H376|one]] [[H251|another,]] [[H5414|“Let us appoint]] [[H7218|a leader]] [[H7725|and return]] [[H4714|to Egypt.”]] ^1404
 
-from the tribe of Dan, Ammiel the son of Gemalli; ^1312
+[[H4872|Then Moses]] [[H175|and Aaron]] [[H5307|fell]] [[H6440|facedown]] [[H6440|before]] [[H3605|the entire]] [[H6951|assembled]] [[H5712|congregation]] [[H3478|of Israel.]] ^1405
 
-from the tribe of Asher, Sethur the son of Michael; ^1313
+[[H3091|Joshua]] [[H1121|son]] [[H5126|of Nun]] [[H3612|and Caleb]] [[H1121|son]] [[H3312|of Jephunneh,]] [[H4480|who were]] [[H8446|among those who had spied out]] [[H776|the land,]] [[H7167|tore]] [[H899|their clothes]] ^1406
 
-from the tribe of Naphtali, Nahbi the son of Vophsi; ^1314
+[[H559|and said]] [[H413|to]] [[H3605|the whole]] [[H5712|congregation]] [[H3478|of Israel,]] [[H776|“The land]] [[H5674|we passed through]] [[H8446|and explored]] ⟨is⟩ [[H3966|an exceedingly]] [[H2896|good]] [[H776|land.]] ^1407
 
-from the tribe of Gad, Geuel the son of Machi. ^1315
+[[H518|If]] [[H3068|the LORD]] [[H2654|is pleased with us,]] [[H935|He will bring]] [[H413|us into]] [[H2063|this]] [[H776|land,]] [[H776|a land]] [[H2100|flowing]] [[H2461|with milk]] [[H1706|and honey,]] [[H5414|and He will give it to us.]] ^1408
 
-These were the names of the men whom Moses sent to spy out the land. And Moses called Hoshea the son of Nun Joshua. ^1316
+[[H389|Only]] [[H408|do not]] [[H4775|rebel]] [[H3068|against the LORD,]] [[H408|and do not]] [[H3372|be afraid]] [[H5971|of the people]] [[H776|of the land,]] [[H3588|for]] [[H3899|they will be like bread for us.]] [[H6738|Their protection]] [[H5493|has been removed,]] [[H3068|and the LORD]] [[H854|is with us.]] [[H408|Do not]] [[H3372|be afraid of them!”]] ^1409
 
-Moses sent them to spy out the land of Canaan and said to them, Go up into the Negeb and go up into the hill country, ^1317
+[[H3605|But the entire]] [[H5712|congregation]] [[H559|threatened]] [[H7275|to stone]] ⟨Joshua and Caleb⟩ [[H68|.]] [[H3519|Then the glory]] [[H3068|of the LORD]] [[H7200|appeared]] [[H413|to]] [[H3605|all]] [[H1121|the Israelites]] [[H168|at the Tent]] [[H4150|of Meeting.]] ^1410
 
-and see what the land is, and whether the people who dwell in it are strong or weak, whether they are few or many, ^1318
+[[H3068|And the LORD]] [[H559|said]] [[H413|to]] [[H4872|Moses,]] [[H5704|“How long]] [[H2088|will this]] [[H5971|people]] [[H5006|treat Me with contempt?]] [[H5704|How long]] [[H3808|will they refuse]] [[H539|to believe]] [[H3605|in Me,  despite all]] [[H226|the signs]] [[H6213|I have performed]] [[H7130|among them?]] ^1411
 
-and whether the land that they dwell in is good or bad, and whether the cities that they dwell in are camps or strongholds, ^1319
+[[H5221|I will strike]] [[H1698|them with a plague]] [[H3423|and destroy them—]] [[H6213|and I will make]] [[H853|you]] [[H1471|into a nation]] [[H1419|greater]] [[H6099|and mightier]] [[H4480|than they are.”]] ^1412
 
-and whether the land is rich or poor, and whether there are trees in it or not. Be of good courage and bring some of the fruit of the land. Now the time was the season of the first ripe grapes. ^1320
+[[H4872|But Moses]] [[H559|said]] [[H413|to]] [[H3068|the LORD,]] [[H4713|“The Egyptians]] [[H8085|will hear]] [[H3588|of it,]] [[H3581|for by Your strength]] [[H5927|You brought]] [[H2088|this]] [[H5971|people]] [[H7130|from among them.]] ^1413
 
-So they went up and spied out the land from the wilderness of Zin to Rehob, near Lebo-hamath. ^1321
+[[H559|And they will tell it]] [[H413|to]] [[H3427|the inhabitants]] [[H2063|of this]] [[H776|land.]] [[H8085|They have already heard]] [[H3588|that]] [[H859|You,]] [[H3068|O LORD,]] [[H7130|are in the midst]] [[H2088|of this]] [[H5971|people,]] [[H834|that]] [[H859|You,]] [[H3068|O LORD,]] [[H7200|have been seen]] [[H5869|face]] [[H5869|to face,]] ⟨that⟩ [[H6051|Your cloud]] [[H5975|stands]] [[H5921|over them,]] [[H859|and You]] ⟨that⟩ [[H1980|go]] [[H6440|before]] [[H5982|them in a pillar]] [[H6051|of cloud]] [[H3119|by day]] [[H5982|and a pillar]] [[H784|of fire]] [[H3915|by night.]] ^1414
 
-They went up into the Negeb and came to Hebron. Ahiman, Sheshai, and Talmai, the descendants of Anak, were there. ( Hebron was built seven years before Zoan in Egypt .) ^1322
+[[H4191|If You kill]] [[H2088|this]] [[H5971|people]] [[H259|as one]] [[H376|man,]] [[H1471|the nations]] [[H834|who]] [[H8085|have heard]] [[H8088|of Your fame]] [[H559|will say,]] ^1415
 
-And they came to the Valley of Eshcol and cut down from there a branch with a single cluster of grapes, and they carried it on a pole between two of them; they also brought some pomegranates and figs. ^1323
+[[H3068|‘Because the LORD]] [[H3201|was unable]] [[H935|to bring]] [[H2088|this]] [[H5971|people]] [[H413|into]] [[H776|the land]] [[H7650|He swore to give them,]] [[H7819|He has slaughtered]] [[H4057|them in the wilderness.’]] ^1416
 
-That place was called the Valley of Eshcol, because of the cluster that the people of Israel cut down from there. ^1324
+[[H6258|So now]] [[H4994|I pray,]] [[H3581|may the power]] [[H136|of the Lord]] [[H1431|be magnified,]] [[H834|just as]] [[H1696|You have declared:]] ^1417
 
-At the end of forty days they returned from spying out the land. ^1325
+[[H3068|‘The LORD]] [[H750|is slow]] [[H639|to anger]] [[H7227|and abounding]] [[H2617|in loving devotion,]] [[H5375|forgiving]] [[H5771|wrongdoing]] [[H6588|and rebellion.]] [[H3808|But He will by no means]] [[H5352|leave the guilty unpunished;]] [[H6485|He visits]] [[H5771|the iniquity]] [[H1|of the fathers]] [[H5921|upon]] [[H1121|their children]] [[H5921|to]] [[H8029|the third]] [[H7256|and fourth generation.’]] ^1418
 
-And they came to Moses and Aaron and to all the congregation of the people of Israel in the wilderness of Paran, at Kadesh. They brought back word to them and to all the congregation, and showed them the fruit of the land. ^1326
+[[H5545|Pardon,]] [[H4994|I pray,]] [[H5771|the iniquity]] [[H2088|of this]] [[H5971|people,]] [[H1433|in keeping with the greatness]] [[H2617|of Your loving devotion,]] [[H834|just as]] [[H5375|You have forgiven]] ⟨them⟩ [[H5971|]] [[H5704|ever]] [[H2008|since]] ⟨they left⟩ [[H4714|Egypt.”]] ^1419
 
-And they told him, We came to the land to which you sent us. It flows with milk and honey, and this is its fruit. ^1327
+[[H5545|“I have pardoned them]] [[H1697|as you requested,”]] [[H3068|the LORD]] [[H559|replied.]] ^1420
 
-However, the people who dwell in the land are strong, and the cities are fortified and very large. And besides, we saw the descendants of Anak there. ^1328
+[[H199|“Yet]] [[H589|as surely as I]] [[H2416|live]] [[H3605|and as surely as the whole]] [[H776|earth]] [[H4390|is filled]] [[H3519|with the glory]] [[H3068|of the LORD,]] ^1421
 
-The Amalekites dwell in the land of the Negeb. The Hittites, the Jebusites, and the Amorites dwell in the hill country. And the Canaanites dwell by the sea, and along the Jordan. ^1329
+⟨not one⟩ [[H3605|]] [[H582|of the men]] [[H7200|who have seen]] [[H3519|My glory]] [[H226|and the signs]] [[H6213|I performed]] [[H4714|in Egypt]] [[H4057|and in the wilderness—]] [[H5254|yet have tested]] [[H853|Me]] [[H8085|and disobeyed]] [[H6963|Me]] [[H2088|these]] [[H6235|ten]] [[H6471|times—]] ^1422
 
-But Caleb quieted the people before Moses and said, Let us go up at once and occupy it, for we are well able to overcome it. ^1330
+[[H518|not one]] [[H7200|will ever see]] [[H776|the land]] [[H7650|I swore]] [[H1|to give their fathers.]] [[H3605|None]] [[H5006|of those who have treated Me with contempt]] [[H7200|will see it.]] ^1423
 
-Then the men who had gone up with him said, We are not able to go up against the people, for they are stronger than we are. ^1331
+[[H6118|But because]] [[H5650|My servant]] [[H3612|Caleb]] [[H1961|has]] [[H312|a different]] [[H7307|spirit]] [[H310|and has followed Me]] [[H4390|wholeheartedly,]] [[H935|I will bring]] [[H413|him into]] [[H776|the land]] [[H935|he has entered,]] [[H2233|and his descendants]] [[H3423|will inherit it.]] ^1424
 
-So they brought to the people of Israel a bad report of the land that they had spied out, saying, The land, through which we have gone to spy it out, is a land that devours its inhabitants, and all the people that we saw in it are of great height. ^1332
+[[H6003|Now since the Amalekites]] [[H3669|and Canaanites]] [[H3427|are living]] [[H6010|in the valleys,]] [[H6437|turn back]] [[H4279|tomorrow]] [[H5265|and head for]] [[H4057|the wilderness]] [[H1870|along the route to]] [[H5488|the Red]] [[H3220|Sea.”]] ^1425
 
-And there we saw the Nephilim (the sons of Anak, who come from the Nephilim ), and we seemed to ourselves like grasshoppers, and so we seemed to them. ^1333
+[[H3068|Then the LORD]] [[H1696|said]] [[H413|to]] [[H4872|Moses]] [[H175|and Aaron,]] ^1426
 
+[[H5704|“How long]] [[H2063|will this]] [[H7451|wicked]] [[H5712|congregation]] [[H3885|grumble]] [[H5921|against]] [[H853|Me?]] [[H8085|I have heard]] [[H8519|the complaints]] [[H834|that]] [[H1121|the Israelites]] ⟨are making⟩ [[H5921|against Me.]] ^1427
 
+[[H559|So tell them:]] [[H589|As surely as I]] [[H2416|live,]] [[H5002|declares]] [[H3068|the LORD,]] [[H6213|I will do]] [[H518|to you  exactly]] [[H834|as]] [[H241|I heard]] [[H1696|you say.]] ^1428
 
-Then all the congregation raised a loud cry, and the people wept that night. ^1401
+[[H6297|Your bodies]] [[H5307|will fall]] [[H2088|in this]] [[H4057|wilderness—]] [[H3605|all]] [[H6485|who were numbered]] [[H4557|in the census,]] [[H3605|everyone]] [[H6242|twenty]] [[H1121|years of age]] [[H4605|or older—]] [[H834|because]] [[H3885|you have grumbled]] [[H5921|against Me.]] ^1429
 
-And all the people of Israel grumbled against Moses and Aaron. The whole congregation said to them, Would that we had died in the land of Egypt! Or would that we had died in this wilderness! ^1402
+[[H518|Surely none]] [[H859|of you]] [[H935|will enter]] [[H776|the land]] [[H834|in which]] [[H5375|I swore]] [[H7931|to settle you,]] [[H3588|except]] [[H3612|Caleb]] [[H1121|son]] [[H3312|of Jephunneh]] [[H3091|and Joshua]] [[H1121|son]] [[H5126|of Nun.]] ^1430
 
-Why is the Lord bringing us into this land, to fall by the sword? Our wives and our little ones will become a prey. Would it not be better for us to go back to Egypt? ^1403
+[[H2945|But I will bring your children,]] [[H834|whom]] [[H559|you said]] [[H1961|would become]] [[H957|plunder,]] [[H935|into]] [[H776|the land]] [[H3988|you have rejected—]] [[H3045|and they will enjoy it.]] ^1431
 
-And they said to one another, Let us choose a leader and go back to Egypt. ^1404
+[[H859|But as for you,]] [[H6297|your bodies]] [[H5307|will fall]] [[H2088|in this]] [[H4057|wilderness.]] ^1432
 
-Then Moses and Aaron fell on their faces before all the assembly of the congregation of the people of Israel. ^1405
+[[H1121|Your children]] [[H1961|will be]] [[H7462|shepherds]] [[H4057|in the wilderness]] [[H705|for forty]] [[H8141|years,]] [[H5375|and they will suffer]] ⟨for⟩ [[H2184|your unfaithfulness]] [[H5704|until]] [[H8552|the last]] [[H6297|of your bodies]] [[H4057|lie scattered in the wilderness.]] ^1433
 
-And Joshua the son of Nun and Caleb the son of Jephunneh, who were among those who had spied out the land, tore their clothes ^1406
+[[H4557|In keeping with the]] [[H705|forty]] [[H3117|of days]] [[H8446|you spied]] [[H776|out the land,]] [[H5375|you shall bear]] [[H5771|your guilt]] [[H705|forty]] [[H8141|years—]] [[H8141|a year]] [[H8141|for each day—]] [[H3045|and you will experience]] [[H8569|My alienation.]] ^1434
 
-and said to all the congregation of the people of Israel, The land, which we passed through to spy it out, is an exceedingly good land. ^1407
+[[H589|I,]] [[H3068|the LORD,]] [[H1696|have spoken,]] [[H518|and I will surely]] [[H6213|do]] [[H2063|these things]] [[H3605|to this entire]] [[H7451|wicked]] [[H5712|congregation,]] [[H3259|which has conspired]] [[H5921|against Me.]] [[H8552|They will meet their end]] [[H4057|in the wilderness,]] [[H8033|and there]] [[H4191|they will die.”]] ^1435
 
-If the Lord delights in us, he will bring us into this land and give it to us, a land that flows with milk and honey. ^1408
+[[H376|So the men]] [[H4872|Moses]] [[H7971|had sent]] [[H8446|to spy]] [[H776|out the land,]] [[H834|and who]] [[H7725|had returned]] [[H3605|and made all]] [[H5712|the congregation]] [[H3885|grumble]] [[H5921|against him]] [[H3318|by bringing]] [[H1681|a bad report]] [[H5921|about]] [[H776|the land—]] ^1436
 
-Only do not rebel against the Lord. And do not fear the people of the land, for they are bread for us. Their protection is removed from them, and the Lord is with us; do not fear them. ^1409
+[[H3318|those men who had spread]] [[H7451|the bad]] [[H1681|report]] [[H776|about the land]] [[H4191|were struck down]] [[H4046|by a plague]] [[H6440|before]] [[H3069|the LORD.]] ^1437
 
-Then all the congregation said to stone them with stones. But the glory of the Lord appeared at the tent of meeting to all the people of Israel. ^1410
+[[H4480|Of]] [[H1992|those]] [[H376|men]] [[H1980|who had gone]] [[H8446|to spy]] [[H776|out the land,]] [[H3091|only Joshua]] [[H1121|son]] [[H5126|of Nun]] [[H3612|and Caleb]] [[H1121|son]] [[H3312|of Jephunneh]] [[H2421|remained alive.]] ^1438
 
-And the Lord said to Moses, How long will this people despise me? And how long will they not believe in me, in spite of all the signs that I have done among them? ^1411
+[[H4872|And when Moses]] [[H1696|relayed]] [[H428|these]] [[H1697|words]] [[H413|to]] [[H3605|all]] [[H1121|the Israelites,]] [[H5971|the people]] [[H56|mourned]] [[H3966|greatly.]] ^1439
 
-I will strike them with the pestilence and disinherit them, and I will make of you a nation greater and mightier than they. ^1412
+[[H1242|Early the next morning]] [[H7925|they got up]] [[H5927|and went up]] [[H413|toward]] [[H7218|the ridge]] [[H2022|of the hill country.]] [[H2005|“We have indeed]] [[H2398|sinned,”]] [[H559|they said,]] [[H5927|“but we will go]] [[H413|to]] [[H4725|the place]] [[H3068|the LORD]] [[H559|has promised.”]] ^1440
 
-But Moses said to the Lord, Then the Egyptians will hear of it, for you brought up this people in your might from among them, ^1413
+[[H4872|But Moses]] [[H559|said,]] [[H4100|“Why]] [[H859|are you]] [[H5674|transgressing]] [[H6310|the commandment]] [[H3068|of the LORD?]] [[H1931|This]] [[H3808|will not]] [[H6743|succeed!]] ^1441
 
-and they will tell the inhabitants of this land. They have heard that you, O Lord, are in the midst of this people. For you, O Lord, are seen face to face, and your cloud stands over them and you go before them, in a pillar of cloud by day and in a pillar of fire by night. ^1414
+[[H408|Do not]] [[H5927|go up,]] [[H3808|lest]] [[H5062|you be struck down]] [[H6440|by]] [[H341|your enemies,]] [[H3588|because]] [[H3068|the LORD]] [[H369|is not]] [[H7130|among you.]] ^1442
 
-Now if you kill this people as one man, then the nations who have heard your fame will say, ^1415
+[[H3588|For]] [[H8033|there]] [[H6003|the Amalekites]] [[H3669|and Canaanites]] [[H6440|will face you,]] [[H5307|and you will fall]] [[H2719|by the sword.]] [[H3588|Because]] [[H7725|you have turned]] [[H310|away]] [[H3068|from the LORD,]] ⟨He⟩ [[H3068|]] [[H3808|will not]] [[H1961|be]] [[H5973|with you.”]] ^1443
 
-It is because the Lord was not able to bring this people into the land that he swore to give to them that he has killed them in the wilderness. ^1416
+[[H6075|But they dared]] [[H5927|to go up]] [[H413|to]] [[H7218|the ridge]] [[H2022|of the hill country,]] [[H3808|though neither]] [[H4872|Moses]] ⟨nor⟩ [[H727|the ark]] [[H1285|of the covenant]] [[H3068|of the LORD]] [[H4185|moved]] [[H7130|from]] [[H4264|the camp.]] ^1444
 
-And now, please let the power of the Lord be great as you have promised, saying, ^1417
+[[H6003|Then the Amalekites]] [[H3669|and Canaanites]] [[H3427|who lived]] [[H1931|in that]] [[H2022|part of the hill country]] [[H3381|came down,]] [[H5221|attacked them,]] [[H3807|and routed them]] [[H5704|all the way]] [[H2767|to Hormah.]] ^1445
 
-The Lord is slow to anger and abounding in steadfast love, forgiving iniquity and transgression, but he will by no means clear the guilty, visiting the iniquity of the fathers on the children, to the third and the fourth generation. ^1418
+[[H3068|Then the LORD]] [[H1696|instructed]] [[H4872|Moses,]] ^1501
 
-Please pardon the iniquity of this people, according to the greatness of your steadfast love, just as you have forgiven this people, from Egypt until now. ^1419
+[[H1696|“Speak]] [[H413|to]] [[H1121|the Israelites]] [[H559|and tell them:]] [[H3588|After]] [[H935|you enter]] [[H776|the land]] [[H589|I]] [[H5414|am giving]] [[H4186|you  to settle]] ^1502
 
-Then the Lord said, I have pardoned, according to your word. ^1420
+[[H6213|and you present]] [[H801|an offering made by fire]] [[H3068|to the LORD]] [[H4480|from]] [[H1241|the herd]] [[H176|or]] [[H6629|flock]] [[H6213|to produce]] [[H5207|a pleasing]] [[H7381|aroma]] [[H3068|to the LORD—]] [[H5930|either a burnt offering]] [[H176|or]] [[H2077|a sacrifice]] [[H6381|to fulfill]] [[H5088|a vow]] [[H176|or]] [[H5071|as a freewill]] [[H176|or]] [[H4150|festival offering—]] ^1503
 
-But truly, as I live, and as all the earth shall be filled with the glory of the Lord, ^1421
+[[H7126|then the one presenting]] [[H7133|his offering]] [[H3068|to the LORD]] [[H7126|shall also present]] [[H4503|a grain offering]] [[H6241|of a tenth of an ephah]] [[H5560|of fine flour]] [[H1101|mixed]] [[H7243|with a quarter]] [[H1969|hin]] [[H8081|of oil.]] ^1504
 
-none of the men who have seen my glory and my signs that I did in Egypt and in the wilderness, and yet have put me to the test these ten times and have not obeyed my voice, ^1422
+[[H5921|With]] [[H5930|the burnt offering]] [[H176|or]] [[H2077|sacrifice]] [[H259|of each]] [[H3532|lamb,]] [[H6213|prepare]] [[H7243|a quarter]] [[H1969|hin]] [[H3196|of wine]] [[H5262|as a drink offering.]] ^1505
 
-shall see the land that I swore to give to their fathers. And none of those who despised me shall see it. ^1423
+[[H352|With a ram]] [[H6213|you are to prepare]] [[H4503|a grain offering]] [[H8147|of two-tenths]] ⟨of an ephah⟩ [[H5560|of fine flour]] [[H1101|mixed]] [[H7992|with a third]] [[H1969|of a hin]] [[H8081|of oil,]] ^1506
 
-But my servant Caleb, because he has a different spirit and has followed me fully, I will bring into the land into which he went, and his descendants shall possess it. ^1424
+⟨and⟩ [[H7126|]] [[H7992|a third]] [[H1969|of a hin]] [[H3196|of wine]] [[H5262|as a drink offering,]] [[H5207|a pleasing]] [[H7381|aroma]] [[H3068|to the LORD.]] ^1507
 
-Now, since the Amalekites and the Canaanites dwell in the valleys, turn tomorrow and set out for the wilderness by the way to the Red Sea. ^1425
+[[H3588|When]] [[H6213|you prepare]] [[H1121|a young]] [[H1241|bull]] [[H5930|as a burnt offering]] [[H176|or]] [[H2077|sacrifice]] [[H6381|to fulfill]] [[H5088|a vow]] [[H176|or]] [[H8002|as a peace offering]] [[H3068|to the LORD,]] ^1508
 
-And the Lord spoke to Moses and to Aaron, saying, ^1426
+[[H7126|present]] [[H5921|with]] [[H1241|the bull]] [[H4503|a grain offering]] [[H7969|of three-tenths]] ⟨of an ephah⟩ [[H5560|of fine flour]] [[H1101|mixed]] [[H2677|with half]] [[H1969|a hin]] [[H8081|of oil.]] ^1509
 
-How long shall this wicked congregation grumble against me? I have heard the grumblings of the people of Israel, which they grumble against me. ^1427
+[[H7126|Also present]] [[H2677|half]] [[H1969|a hin]] [[H3196|of wine]] [[H5262|as a drink offering.]] [[H801|It is an offering made by fire,]] [[H5207|a pleasing]] [[H7381|aroma]] [[H3068|to the LORD.]] ^1510
 
-Say to them, As I live, declares the Lord, what you have said in my hearing I will do to you: ^1428
+[[H3602|This]] [[H6213|is to be done]] [[H259|for each]] [[H7794|bull,]] [[H352|ram,]] [[H7716|lamb,]] [[H176|or]] [[H5795|goat.]] ^1511
 
-your dead bodies shall fall in this wilderness, and of all your number, listed in the census from twenty years old and upward, who have grumbled against me, ^1429
+[[H3602|This is how]] [[H6213|you must prepare]] [[H259|each one,]] [[H834|no matter how]] [[H4557|many.]] ^1512
 
-not one shall come into the land where I swore that I would make you dwell, except Caleb the son of Jephunneh and Joshua the son of Nun. ^1430
+[[H3605|Everyone]] [[H249|who is native-born]] [[H6213|shall prepare]] [[H428|these]] [[H3602|things in this way]] [[H7126|when he presents]] [[H801|an offering made by fire]] [[H5207|as a pleasing]] [[H7381|aroma]] [[H3068|to the LORD.]] ^1513
 
-But your little ones, who you said would become a prey, I will bring in, and they shall know the land that you have rejected. ^1431
+[[H1755|And for the generations to come,]] [[H3588|if]] [[H1616|a foreigner]] [[H1481|residing]] [[H854|with]] [[H176|you or]] [[H834|someone else]] [[H8432|among you]] [[H6213|wants to prepare]] [[H801|an offering made by fire]] [[H5207|as a pleasing]] [[H7381|aroma]] [[H3068|to the LORD,]] [[H6213|he is to do]] [[H834|exactly as]] [[H6213|you do.]] ^1514
 
-But as for you, your dead bodies shall fall in this wilderness. ^1432
+[[H6951|The assembly]] [[H259|is to have the same]] [[H2708|statute]] [[H1616|for both you]] [[H1481|and the foreign resident;]] [[H5769|it is a permanent]] [[H2708|statute]] [[H1755|for the generations to come.]] [[H1616|You and the foreigner]] [[H1961|shall be]] [[H6440|the same before]] [[H3068|the LORD.]] ^1515
 
-And your children shall be shepherds in the wilderness forty years and shall suffer for your faithlessness, until the last of your dead bodies lies in the wilderness. ^1433
+[[H259|The same]] [[H8451|law]] [[H259|and the same]] [[H4941|ordinance]] [[H1961|will apply]] [[H1616|both to you  and the foreigner]] [[H1481|residing]] [[H854|with you.”]] ^1516
 
-According to the number of the days in which you spied out the land, forty days, a year for each day, you shall bear your iniquity forty years, and you shall know my displeasure. ^1434
+[[H3068|Then the LORD]] [[H1696|said]] [[H4872|to Moses,]] ^1517
 
-I, the Lord, have spoken. Surely this will I do to all this wicked congregation who are gathered together against me: in this wilderness they shall come to a full end, and there they shall die. ^1435
+[[H1696|“Speak]] [[H413|to]] [[H1121|the Israelites]] [[H559|and tell them:]] [[H935|When you enter]] [[H776|the land]] [[H834|to which]] [[H589|I]] [[H935|am bringing you]] ^1518
 
-And the men whom Moses sent to spy out the land, who returned and made all the congregation grumble against him by bringing up a bad report about the land — ^1436
+[[H398|and you eat]] [[H3899|the food]] [[H776|of the land,]] [[H7311|you shall lift]] [[H8641|up an offering]] [[H3068|to the LORD.]] ^1519
 
-the men who brought up a bad report of the land — died by plague before the Lord. ^1437
+[[H7225|From the first]] [[H6182|of your dough,]] [[H7311|you are to lift]] [[H2471|up a cake]] [[H8641|as a contribution;]] [[H7311|offer]] [[H853|it]] [[H3651|just like]] [[H8641|an offering]] [[H1637|from the threshing floor.]] ^1520
 
-Of those men who went to spy out the land, only Joshua the son of Nun and Caleb the son of Jephunneh remained alive. ^1438
+[[H1755|Throughout your generations,]] [[H5414|you are to give]] [[H3068|the LORD]] [[H8641|an offering]] [[H7225|from the first]] [[H6182|of your dough.]] ^1521
 
-When Moses told these words to all the people of Israel, the people mourned greatly. ^1439
+[[H3588|Now if]] [[H7686|you sin unintentionally]] [[H3808|and do not]] [[H6213|obey]] [[H3605|all]] [[H428|these]] [[H4687|commandments]] [[H834|that]] [[H3068|the LORD]] [[H1696|has spoken]] [[H413|to]] [[H4872|Moses—]] ^1522
 
-And they rose early in the morning and went up to the heights of the hill country, saying, Here we are. We will go up to the place that the Lord has promised, for we have sinned. ^1440
+[[H3605|all]] [[H834|that]] [[H3068|the LORD]] [[H6680|has commanded]] [[H3027|you through]] [[H4872|Moses]] [[H4480|from]] [[H3117|the day]] [[H3068|the LORD]] [[H6680|gave them]] [[H1973|and continuing through]] [[H1755|the generations to come—]] ^1523
 
-But Moses said, Why now are you transgressing the command of the Lord, when that will not succeed? ^1441
+[[H518|and if]] [[H6213|it was done]] [[H7684|unintentionally]] [[H5869|without the knowledge]] [[H5712|of the congregation,]] [[H3605|then the whole]] [[H5712|congregation]] [[H6213|is to prepare]] [[H259|one]] [[H6499|young bull]] [[H5930|as a burnt offering,]] [[H5207|a pleasing]] [[H7381|aroma]] [[H3068|to the LORD,]] [[H4503|with its grain offering]] [[H5262|and drink offering]] [[H4941|according to the regulation,]] [[H259|and one]] [[H8163|male goat]] [[H2403|as a sin offering.]] ^1524
 
-Do not go up, for the Lord is not among you, lest you be struck down before your enemies. ^1442
+[[H3548|The priest]] [[H3722|is to make atonement]] [[H5921|for]] [[H3605|the entire]] [[H5712|congregation]] [[H3478|of Israel,]] [[H5545|so that they may be forgiven;]] [[H3588|for]] [[H1931|the sin]] [[H7684|was unintentional,]] [[H1992|and they]] [[H935|have brought]] [[H3068|to the LORD]] [[H7133|an offering]] [[H801|made by fire]] [[H2403|and a sin offering,]] ⟨presented⟩ [[H6440|before]] [[H3068|the LORD]] [[H5921|for]] [[H7684|their unintentional sin.]] ^1525
 
-For there the Amalekites and the Canaanites are facing you, and you shall fall by the sword. Because you have turned back from following the Lord, the Lord will not be with you. ^1443
+[[H3605|The entire]] [[H5712|congregation]] [[H3478|of Israel]] [[H1616|and the foreigners]] [[H1481|residing]] [[H8432|among them]] [[H5545|will be forgiven,]] [[H3588|since]] [[H3605|it happened to all]] [[H5971|the people]] [[H7684|unintentionally.]] ^1526
 
-But they presumed to go up to the heights of the hill country, although neither the ark of the covenant of the Lord nor Moses departed out of the camp. ^1444
+[[H518|Also, if]] [[H259|one]] [[H5315|person]] [[H2398|sins unintentionally,]] [[H7126|he is to present]] [[H1323|a year-old]] [[H5795|female goat]] [[H2403|as a sin offering.]] ^1527
 
-Then the Amalekites and the Canaanites who lived in that hill country came down and defeated them and pursued them, even to Hormah. ^1445
+[[H3548|And the priest]] [[H3722|shall make atonement]] [[H6440|before]] [[H3068|the LORD]] [[H5921|on behalf of]] [[H5315|the person]] [[H7683|who erred]] [[H7684|by sinning unintentionally;]] [[H3722|and when atonement has been made]] [[H5921|for him,]] [[H5545|he will be forgiven.]] ^1528
 
+[[H1961|You  shall have]] [[H259|the same]] [[H8451|law]] [[H6213|for the one who acts]] [[H7684|in error,]] [[H1121|whether he is an Israelite]] [[H1616|or a foreigner]] [[H1481|residing]] [[H8432|among you.]] ^1529
 
+[[H5315|But the person]] [[H834|who]] [[H3027|sins defiantly,]] [[H4480|whether]] [[H249|a native]] [[H4480|or]] [[H1616|foreigner,]] [[H1442|blasphemes]] [[H3068|the LORD.]] [[H1931|That]] [[H5315|person]] [[H3772|shall be cut off]] [[H7130|from]] [[H5971|his people.]] ^1530
 
-The Lord spoke to Moses, saying, ^1501
+[[H5315|He]] [[H3772|shall certainly be cut off,]] [[H3588|because]] [[H959|he has despised]] [[H1697|the word]] [[H3068|of the LORD]] [[H853|and]] [[H6565|broken]] [[H4687|His commandment;]] [[H5771|his guilt remains on him.”]] ^1531
 
-Speak to the people of Israel and say to them, When you come into the land you are to inhabit, which I am giving you, ^1502
+[[H1121|While the Israelites]] [[H1961|were]] [[H4057|in the wilderness,]] [[H376|a man]] [[H4672|was found]] [[H7197|gathering]] [[H6086|wood]] [[H7676|on the Sabbath]] [[H3117|day.]] ^1532
 
-and you offer to the Lord from the herd or from the flock a food offering or a burnt offering or a sacrifice, to fulfill a vow or as a freewill offering or at your appointed feasts, to make a pleasing aroma to the Lord, ^1503
+[[H4672|Those who found]] ⟨the man⟩ [[H853|]] [[H7197|gathering]] [[H6086|wood]] [[H7126|brought]] [[H413|him to]] [[H4872|Moses,]] [[H175|Aaron,]] [[H3605|and the entire]] [[H5712|congregation,]] ^1533
 
-then he who brings his offering shall offer to the Lord a grain offering of a tenth of an ephah of fine flour, mixed with a quarter of a hin of oil; ^1504
+[[H3588|and because]] [[H3808|it had not been]] [[H6567|declared]] [[H4100|what]] [[H6213|should be done]] [[H3240|to  him,  they placed]] [[H4929|him in custody.]] ^1534
 
-and you shall offer with the burnt offering, or for the sacrifice, a quarter of a hin of wine for the drink offering for each lamb. ^1505
+[[H3069|And the LORD]] [[H559|said]] [[H413|to]] [[H4872|Moses,]] [[H376|“The man]] [[H4191|must surely be put to death.]] [[H3605|The entire]] [[H5712|congregation]] [[H7275|is to stone]] [[H853|him]] [[H2351|outside]] [[H4264|the camp.”]] ^1535
 
-Or for a ram, you shall offer for a grain offering two tenths of an ephah of fine flour mixed with a third of a hin of oil. ^1506
+[[H3605|So the whole]] [[H5712|congregation]] [[H3318|took]] ⟨the man⟩ [[H853|]] [[H2351|outside]] [[H4264|the camp]] [[H7275|and stoned]] [[H4191|him to death,]] [[H834|as]] [[H3068|the LORD]] [[H6680|had commanded]] [[H4872|Moses.]] ^1536
 
-And for the drink offering you shall offer a third of a hin of wine, a pleasing aroma to the Lord. ^1507
+[[H3068|Later, the LORD]] [[H559|said]] [[H413|to]] [[H4872|Moses,]] ^1537
 
-And when you offer a bull as a burnt offering or sacrifice, to fulfill a vow or for peace offerings to the Lord, ^1508
+[[H1696|“Speak]] [[H413|to]] [[H1121|the Israelites]] [[H559|and tell]] [[H413|them that]] [[H1755|throughout the generations to come]] [[H6213|they are to make]] [[H6734|for themselves  tassels]] [[H5921|for]] [[H3671|the corners]] [[H899|of their garments,]] [[H5414|with]] [[H8504|a blue]] [[H6616|cord]] [[H5921|on]] [[H6734|each tassel.]] ^1538
 
-then one shall offer with the bull a grain offering of three tenths of an ephah of fine flour, mixed with half a hin of oil. ^1509
+[[H1961|These will serve]] [[H6734|as tassels]] [[H7200|for you to look at,]] [[H2142|so that you may remember]] [[H3605|all]] [[H4687|the commandments]] [[H3068|of the LORD,]] [[H6213|that you may obey]] [[H853|them]] [[H3808|and not]] [[H2181|prostitute yourselves]] [[H8446|by following]] [[H3824|your own heart]] [[H5869|and your own eyes.]] ^1539
 
-And you shall offer for the drink offering half a hin of wine, as a food offering, a pleasing aroma to the Lord. ^1510
+[[H4616|Then]] [[H2142|you will remember]] [[H6213|and obey]] [[H3605|all]] [[H4687|My commandments,]] [[H1961|and you will be]] [[H6918|holy]] [[H430|to your God.]] ^1540
 
-Thus it shall be done for each bull or ram, or for each lamb or young goat. ^1511
+[[H589|I]] [[H3068|am the LORD]] [[H430|your God]] [[H834|who]] [[H3318|brought you out]] [[H776|of the land]] [[H4714|of Egypt]] [[H1961|to be]] [[H430|your God.]] [[H589|I]] [[H3068|am the LORD]] [[H430|your God.”]] ^1541
 
-As many as you offer, so shall you do with each one, as many as there are. ^1512
+[[H7141|Now Korah]] [[H1121|son]] [[H3324|of Izhar,]] [[H1121|the son]] [[H6955|of Kohath]] [[H1121|son]] [[H3878|of Levi,]] [[H7205|along with some Reubenites—]] [[H1885|Dathan]] [[H48|and Abiram,]] [[H1121|sons]] [[H446|of Eliab,]] [[H203|and On]] [[H1121|son]] [[H6431|of Peleth—]] [[H3947|conducted]] ^1601
 
-Every native Israelite shall do these things in this way, in offering a food offering, with a pleasing aroma to the Lord. ^1513
+[[H6965|a rebellion]] [[H6440|against]] [[H4872|Moses,]] [[H2572|along with 250]] [[H582|men]] [[H3478|of Israel]] [[H8034|renowned]] [[H5387|as leaders]] [[H5712|of the congregation]] [[H7148|and representatives]] [[H4150|in the assembly.]] ^1602
 
-And if a stranger is sojourning with you, or anyone is living permanently among you, and he wishes to offer a food offering, with a pleasing aroma to the Lord, he shall do as you do. ^1514
+[[H6950|They came together]] [[H5921|against]] [[H4872|Moses]] [[H5921|and]] [[H175|Aaron]] [[H559|and told them,]] [[H7227|“You have gone too far!]] [[H3605|Everyone]] [[H3605|in the entire]] [[H5712|congregation]] [[H6918|is holy,]] [[H3068|and the LORD]] [[H8432|is in their midst.]] [[H4069|Why]] [[H5375|then do you exalt]] [[H5921|yourselves above]] [[H6951|the assembly]] [[H3068|of the LORD?”]] ^1603
 
-For the assembly, there shall be one statute for you and for the stranger who sojourns with you, a statute forever throughout your generations. You and the sojourner shall be alike before the Lord. ^1515
+[[H4872|When Moses]] [[H8085|heard this,]] [[H5307|he fell]] [[H5921|facedown.]] ^1604
 
-One law and one rule shall be for you and for the stranger who sojourns with you. ^1516
+[[H1696|Then he said]] [[H413|to]] [[H7141|Korah]] [[H3605|and all]] [[H5712|his followers,]] [[H1242|“Tomorrow morning]] [[H3068|the LORD]] [[H3045|will reveal]] [[H834|who belongs]] [[H853|to Him  and]] [[H6918|who is holy,]] [[H7126|and He will bring that person near]] [[H413|to Himself.]] [[H834|The one]] [[H977|He chooses]] [[H7126|He will bring near]] [[H413|to Himself.]] ^1605
 
-The Lord spoke to Moses, saying, ^1517
+[[H7141|You, Korah,]] [[H3605|and all]] [[H5712|your followers]] [[H6213|are to do]] [[H2063|as follows:]] [[H3947|Take]] [[H4289|censers,]] ^1606
 
-Speak to the people of Israel and say to them, When you come into the land to which I bring you ^1518
+[[H4279|and tomorrow]] [[H5414|you are to place]] [[H784|fire]] [[H7004|and incense]] [[H2004|in them]] [[H6440|in the presence]] [[H3068|of the LORD.]] [[H376|Then the man]] [[H3068|the LORD]] [[H977|chooses]] [[H1961|will be]] [[H1931|the one]] [[H6918|who is holy.]] [[H1121|It is you sons]] [[H3878|of Levi]] [[H7227|who have gone too far!”]] ^1607
 
-and when you eat of the bread of the land, you shall present a contribution to the Lord. ^1519
+[[H4872|Moses]] [[H559|also said]] [[H413|to]] [[H7141|Korah,]] [[H4994|“Now]] [[H8085|listen,]] [[H1121|you sons]] [[H3878|of Levi!]] ^1608
 
-Of the first of your dough you shall present a loaf as a contribution; like a contribution from the threshing floor, so shall you present it. ^1520
+[[H4592|Is it not enough]] [[H4480|for]] [[H3588|you that]] [[H430|the God]] [[H3478|of Israel]] [[H914|has separated you]] [[H5712|from the congregation]] [[H3478|of Israel]] [[H7126|and brought you near]] [[H413|to Himself]] [[H5647|to perform]] [[H5656|the work]] [[H3068|at the LORD’s]] [[H4908|tabernacle]] [[H5975|and to stand]] [[H6440|before]] [[H5712|the congregation]] [[H8334|to minister to them?]] ^1609
 
-Some of the first of your dough you shall give to the Lord as a contribution throughout your generations. ^1521
+[[H7126|He has brought you near,]] ⟨you⟩ [[H3605|and all]] [[H251|your fellow]] [[H1121|Levites,]] [[H1245|but you are seeking]] [[H3550|the priesthood]] [[H1571|as well.]] ^1610
 
-But if you sin unintentionally, and do not observe all these commandments that the Lord has spoken to Moses, ^1522
+[[H3651|Therefore,]] [[H859|it is you]] [[H3605|and all]] [[H5712|your followers]] [[H3259|who have conspired]] [[H5921|against]] [[H3068|the LORD!]] [[H175|As for Aaron,]] [[H4100|who]] [[H1931|is he]] [[H3588|that]] [[H3885|you should grumble]] [[H5921|against him?”]] ^1611
 
-all that the Lord has commanded you by Moses, from the day that the Lord gave commandment, and onward throughout your generations, ^1523
+[[H4872|Then Moses]] [[H7971|summoned]] [[H1885|Dathan]] [[H48|and Abiram,]] [[H1121|the sons]] [[H446|of Eliab,]] [[H559|but they said,]] [[H3808|“We will not]] [[H5927|come!]] ^1612
 
-then if it was done unintentionally without the knowledge of the congregation, all the congregation shall offer one bull from the herd for a burnt offering, a pleasing aroma to the Lord, with its grain offering and its drink offering, according to the rule, and one male goat for a sin offering. ^1524
+[[H4592|Is it not enough]] [[H3588|that]] [[H5927|you have brought us up]] [[H776|out of a land]] [[H2100|flowing]] [[H2461|with milk]] [[H1706|and honey]] [[H4191|to kill]] [[H4057|us in the wilderness?]] [[H1571|Must you also]] [[H8323|appoint yourself as ruler]] [[H5921|over us?]] ^1613
 
-And the priest shall make atonement for all the congregation of the people of Israel, and they shall be forgiven, because it was a mistake, and they have brought their offering, a food offering to the Lord, and their sin offering before the Lord for their mistake. ^1525
+[[H637|Moreover,]] [[H3808|you have not]] [[H935|brought us]] [[H413|into]] [[H776|a land]] [[H2100|flowing]] [[H2461|with milk]] [[H1706|and honey]] [[H5414|or given]] [[H5159|us an inheritance]] [[H7704|of fields]] [[H3754|and vineyards.]] [[H5365|Will you gouge out]] [[H5869|the eyes]] [[H1992|of these]] [[H376|men?]] [[H3808|No, we will not]] [[H5927|come!”]] ^1614
 
-And all the congregation of the people of Israel shall be forgiven, and the stranger who sojourns among them, because the whole population was involved in the mistake. ^1526
+[[H4872|Then Moses]] [[H3966|became very]] [[H2734|angry]] [[H559|and said]] [[H413|to]] [[H3068|the LORD,]] [[H408|“Do not]] [[H6437|regard]] [[H4503|their offering.]] [[H3808|I have not]] [[H5375|taken]] [[H259|one]] [[H2543|donkey]] [[H1992|from them]] [[H7489|or mistreated]] [[H259|a single]] [[H1992|one of them.”]] ^1615
 
-If one person sins unintentionally, he shall offer a female goat a year old for a sin offering. ^1527
+[[H4872|So Moses]] [[H559|told]] [[H7141|Korah,]] [[H859|“You]] [[H3605|and all]] [[H5712|your followers]] [[H1961|are to appear]] [[H6440|before]] [[H3068|the LORD]] [[H4279|tomorrow—]] [[H859|you]] [[H1992|and they]] [[H175|and Aaron.]] ^1616
 
-And the priest shall make atonement before the Lord for the person who makes a mistake, when he sins unintentionally, to make atonement for him, and he shall be forgiven. ^1528
+[[H376|Each man]] [[H3947|is to take]] [[H4289|his censer,]] [[H5414|place]] [[H7004|incense]] [[H5921|in it,]] [[H7126|and present]] ⟨it⟩ [[H4289|]] [[H6440|before]] [[H3068|the LORD—]] [[H2572|250]] [[H4289|censers]] ⟨in all⟩. [[H859|You]] [[H175|and Aaron]] [[H4289|are to present your censers as well.”]] ^1617
 
-You shall have one law for him who does anything unintentionally, for him who is native among the people of Israel and for the stranger who sojourns among them. ^1529
+[[H376|So each man]] [[H3947|took]] [[H4289|his censer,]] [[H5414|put]] [[H784|fire]] [[H7004|and incense]] [[H5921|in it,]] [[H5975|and stood]] [[H4872|with Moses]] [[H175|and Aaron]] [[H6607|at the entrance]] [[H168|to the Tent]] [[H4150|of Meeting.]] ^1618
 
-But the person who does anything with a high hand, whether he is native or a sojourner, reviles the Lord, and that person shall be cut off from among his people. ^1530
+[[H7141|When Korah]] [[H6950|had gathered]] [[H3605|his whole]] [[H5712|assembly]] [[H5921|against]] [[H413|them at]] [[H6607|the entrance]] [[H168|to the Tent]] [[H4150|of Meeting,]] [[H3519|the glory]] [[H3068|of the LORD]] [[H7200|appeared]] [[H413|to]] [[H3605|the whole]] [[H5712|congregation.]] ^1619
 
-Because he has despised the word of the Lord and has broken his commandment, that person shall be utterly cut off; his iniquity shall be on him. ^1531
+[[H3068|And the LORD]] [[H1696|said]] [[H413|to]] [[H4872|Moses]] [[H175|and Aaron,]] ^1620
 
-While the people of Israel were in the wilderness, they found a man gathering sticks on the Sabbath day. ^1532
+[[H914|“Separate yourselves]] [[H8432|from]] [[H2063|this]] [[H5712|congregation]] [[H3615|so that I may consume]] [[H853|them]] [[H7281|in an instant.”]] ^1621
 
-And those who found him gathering sticks brought him to Moses and Aaron and to all the congregation. ^1533
+[[H5307|But Moses and Aaron fell]] [[H5921|facedown]] [[H559|and said,]] [[H410|“O God,]] [[H430|the God]] [[H7307|of the spirits]] [[H3605|of all]] [[H1320|flesh,]] [[H259|when one]] [[H376|man]] [[H2398|sins,]] [[H7107|will You vent Your wrath]] [[H5921|on]] [[H3605|the whole]] [[H5712|congregation?”]] ^1622
 
-They put him in custody, because it had not been made clear what should be done to him. ^1534
+[[H3068|Then the LORD]] [[H1696|said]] [[H413|to]] [[H4872|Moses,]] ^1623
 
-And the Lord said to Moses, The man shall be put to death; all the congregation shall stone him with stones outside the camp. ^1535
+[[H1696|“Tell]] [[H5712|the congregation]] [[H5927|to move away]] [[H5439|from]] [[H4908|the dwellings]] [[H7141|of Korah,]] [[H1885|Dathan,]] [[H48|and Abiram.”]] ^1624
 
-And all the congregation brought him outside the camp and stoned him to death with stones, as the Lord commanded Moses. ^1536
+[[H4872|So Moses]] [[H6965|got up]] [[H1980|and went]] [[H413|to]] [[H1885|Dathan]] [[H48|and Abiram,]] [[H2205|and the elders]] [[H3478|of Israel]] [[H1980|followed]] [[H310|him.]] ^1625
 
-The Lord said to Moses, ^1537
+[[H1696|And he warned]] [[H5712|the congregation,]] [[H5493|“Move away]] [[H4994|now]] [[H5921|from]] [[H168|the tents]] [[H428|of these]] [[H7563|wicked]] [[H376|men.]] [[H408|Do not]] [[H5060|touch]] [[H3605|anything]] [[H834|that belongs to them,]] [[H6435|or]] [[H5595|you will be swept away]] [[H3605|because of all]] [[H2403|their sins.”]] ^1626
 
-Speak to the people of Israel, and tell them to make tassels on the corners of their garments throughout their generations, and to put a cord of blue on the tassel of each corner. ^1538
+[[H5927|So they moved away]] [[H5921|from]] [[H4908|the dwellings]] [[H7141|of Korah,]] [[H1885|Dathan,]] [[H48|and Abiram.]] [[H5439|Meanwhile,]] [[H1885|Dathan]] [[H48|and Abiram]] [[H3318|had come out]] [[H5324|and stood]] [[H6607|at the entrance]] [[H168|of their tents]] [[H802|with their wives]] [[H1121|and children]] [[H2945|and infants.]] ^1627
 
-And it shall be a tassel for you to look at and remember all the commandments of the Lord, to do them, not to follow after your own heart and your own eyes, which you are inclined to whore after. ^1539
+[[H4872|Then Moses]] [[H559|said,]] [[H2063|“This is how]] [[H3045|you will know]] [[H3588|that]] [[H3068|the LORD]] [[H7971|has sent me]] [[H6213|to do]] [[H3605|all]] [[H428|these]] [[H4639|things,]] [[H3588|for]] [[H3808|it was not]] [[H3820|my own doing:]] ^1628
 
-So you shall remember and do all my commandments, and be holy to your God. ^1540
+[[H518|If]] [[H428|these]] [[H4191|men die]] [[H4194|a natural death,]] [[H6485|or if they suffer]] [[H6486|the fate]] [[H3605|of all]] [[H120|men,]] [[H3068|then the LORD]] [[H3808|has not]] [[H7971|sent me.]] ^1629
 
-I am the Lord your God, who brought you out of the land of Egypt to be your God : I am the Lord your God. ^1541
+[[H518|But if]] [[H3068|the LORD]] [[H1254|brings about]] [[H1278|something unprecedented,]] [[H127|and the earth]] [[H6475|opens]] [[H6310|its mouth]] [[H1104|and swallows]] [[H853|them]] [[H853|and]] [[H3605|all]] [[H834|that]] [[H3381|belongs to them  so that they go down]] [[H2416|alive]] [[H7585|into Sheol,]] [[H3045|then you will know]] [[H3588|that]] [[H428|these]] [[H376|men]] [[H5006|have treated]] [[H3068|the LORD]] ⟨with contempt⟩. ^1630
 
+[[H3615|As soon as had finished]] ⟨Moses⟩ [[H1696|saying]] [[H3605|all]] [[H428|this,]] [[H127|the ground]] [[H8478|beneath them]] [[H1234|split open,]] ^1631
 
+[[H776|and the earth]] [[H6605|opened]] [[H6310|its mouth]] [[H1104|and swallowed]] [[H853|them]] [[H853|and]] [[H1004|their households,]] [[H3605|all]] [[H7141|Korah’s]] [[H120|men]] [[H3605|and all]] [[H7399|their possessions.]] ^1632
 
-Now Korah the son of Izhar, son of Kohath, son of Levi, and Dathan and Abiram the sons of Eliab, and On the son of Peleth, sons of Reuben, took men. ^1601
+[[H1992|They]] [[H3381|went down]] [[H2416|alive]] [[H7585|into Sheol]] [[H3605|with all]] [[H834|they owned.]] [[H776|The earth]] [[H3680|closed]] [[H5921|over them,]] [[H6|and they vanished]] [[H8432|from]] [[H6951|the assembly.]] ^1633
 
-And they rose up before Moses, with a number of the people of Israel, 250 chiefs of the congregation, chosen from the assembly, well-known men. ^1602
+[[H6963|At their cries,]] [[H3605|all]] [[H3478|the people of Israel]] [[H834|who]] ⟨were⟩ [[H5439|around them]] [[H5127|fled,]] [[H559|saying,]] [[H776|“The earth]] [[H6435|may]] [[H1104|swallow us too!”]] ^1634
 
-They assembled themselves together against Moses and against Aaron and said to them, You have gone too far! For all in the congregation are holy, every one of them, and the Lord is among them. Why then do you exalt yourselves above the assembly of the Lord? ^1603
+[[H784|And fire]] [[H3318|came forth]] [[H3068|from the LORD]] [[H398|and consumed]] [[H2572|the 250]] [[H376|men]] [[H7126|who were offering]] [[H7004|the incense.]] ^1635
 
-When Moses heard it, he fell on his face, ^1604
+[[H3068|Then the LORD]] [[H1696|said]] [[H413|to]] [[H4872|Moses,]] ^1636
 
-and he said to Korah and all his company, In the morning the Lord will show who is his, and who is holy, and will bring him near to him. The one whom he chooses he will bring near to him. ^1605
+[[H559|“Tell]] [[H499|Eleazar]] [[H1121|son]] [[H175|of Aaron]] [[H3548|the priest]] [[H7311|to remove]] [[H4289|the censers]] [[H996|from]] [[H8316|the flames,]] [[H3588|because]] [[H6942|they are holy,]] [[H2219|and to scatter]] [[H784|the coals]] [[H1973|far away.]] ^1637
 
-Do this : take censers, Korah and all his company; ^1606
+[[H4289|As for the censers]] [[H428|of those]] [[H2400|who sinned]] [[H5315|at the cost of their own lives,]] [[H7555|hammer them into]] [[H6341|sheets]] [[H6826|to overlay]] [[H4196|the altar,]] [[H3588|for]] [[H7126|these were presented]] [[H6440|before]] [[H3068|the LORD,]] [[H6942|and so have become holy.]] [[H1961|They will serve as]] [[H226|a sign]] [[H1121|to the Israelites.”]] ^1638
 
-put fire in them and put incense on them before the Lord tomorrow, and the man whom the Lord chooses shall be the holy one. You have gone too far, sons of Levi! ^1607
+[[H499|So Eleazar]] [[H3548|the priest]] [[H3947|took]] [[H5178|the bronze]] [[H4289|censers]] [[H7126|brought]] [[H8313|by those who had been burned up,]] [[H7554|and he had them hammered out]] [[H6826|to overlay]] [[H4196|the altar,]] ^1639
 
-And Moses said to Korah, Hear now, you sons of Levi : ^1608
+[[H834|just as]] [[H3068|the LORD]] [[H1696|commanded]] [[H3027|him through]] [[H4872|Moses.]] [[H2146|This was to be a reminder]] [[H1121|for the Israelites]] [[H4616|that]] [[H3808|no]] [[H2114|outsider]] [[H3808|who is not]] [[H2233|a descendant]] [[H175|of Aaron]] [[H7126|should approach]] [[H6999|to offer]] [[H7004|incense]] [[H6440|before]] [[H3068|the LORD,]] [[H1961|lest he become]] [[H7141|like Korah]] [[H5712|and his followers.]] ^1640
 
-is it too small a thing for you that the God of Israel has separated you from the congregation of Israel, to bring you near to himself, to do service in the tabernacle of the Lord and to stand before the congregation to minister to them, ^1609
+[[H4283|The next day]] [[H3605|the entire]] [[H5712|congregation]] [[H3478|of Israel]] [[H3885|grumbled]] [[H5921|against]] [[H4872|Moses]] [[H175|and Aaron,]] [[H559|saying,]] [[H859|“You]] [[H4191|have killed]] [[H3068|the LORD’s]] [[H5971|people!”]] ^1641
 
-and that he has brought you near him, and all your brothers the sons of Levi with you? And would you seek the priesthood also? ^1610
+[[H1961|But]] [[H5712|when the congregation]] [[H6950|gathered]] [[H5921|against them,]] [[H4872|Moses]] [[H175|and Aaron]] [[H6437|turned]] [[H413|toward]] [[H168|the Tent]] [[H4150|of Meeting,]] [[H6051|and suddenly the cloud]] [[H3680|covered it]] [[H3519|and the glory]] [[H3068|of the LORD]] [[H7200|appeared.]] ^1642
 
-Therefore it is against the Lord that you and all your company have gathered together. What is Aaron that you grumble against him? ^1611
+[[H4872|Then Moses]] [[H175|and Aaron]] [[H935|went]] [[H413|to]] [[H6440|the front]] [[H168|of the Tent]] [[H4150|of Meeting,]] ^1643
 
-And Moses sent to call Dathan and Abiram the sons of Eliab, and they said, We will not come up. ^1612
+[[H3068|and the LORD]] [[H1696|said]] [[H413|to]] [[H4872|Moses,]] ^1644
 
-Is it a small thing that you have brought us up out of a land flowing with milk and honey, to kill us in the wilderness, that you must also make yourself a prince over us? ^1613
+[[H7426|“Get away]] [[H8432|from]] [[H2063|this]] [[H5712|congregation]] [[H3615|so that I may consume]] [[H853|them]] [[H7281|in an instant.”]] [[H5307|And they fell]] [[H5921|facedown.]] ^1645
 
-Moreover, you have not brought us into a land flowing with milk and honey, nor given us inheritance of fields and vineyards. Will you put out the eyes of these men? We will not come up. ^1614
+[[H4872|Moses]] [[H559|said to]] [[H175|Aaron,]] [[H3947|“Take]] [[H4289|your censer,]] [[H5414|place]] [[H784|fire]] [[H5921|from]] [[H4196|the altar]] [[H5921|in it,]] [[H7004|and add incense.]] [[H1980|Go]] [[H4120|quickly]] [[H413|to]] [[H5712|the congregation]] [[H3722|and make atonement]] [[H5921|for them,]] [[H3588|because]] [[H7110|wrath]] [[H3318|has come]] [[H6440|out from]] [[H3068|the LORD;]] [[H5063|the plague]] [[H2490|has begun.]] ^1646
 
-And Moses was very angry and said to the Lord, Do not respect their offering. I have not taken one donkey from them, and I have not harmed one of them. ^1615
+[[H175|So Aaron]] [[H3947|took]] ⟨the censer⟩ [[H834|as]] [[H4872|Moses]] [[H1696|had ordered]] [[H7323|and ran]] [[H413|into]] [[H8432|the middle]] [[H6951|of the assembly.]] [[H5063|And seeing that the plague]] [[H2490|had begun]] [[H5971|among the people,]] [[H7004|he offered the incense]] [[H3722|and made atonement]] [[H5921|for]] [[H5971|the people.]] ^1647
 
-And Moses said to Korah, Be present, you and all your company, before the Lord, you and they, and Aaron, tomorrow. ^1616
+[[H5975|He stood]] [[H996|between]] [[H2416|the living]] [[H4191|and the dead,]] [[H4046|and the plague]] [[H6113|was halted.]] ^1648
 
-And let every one of you take his censer and put incense on it, and every one of you bring before the Lord his censer, 250 censers; you also, and Aaron, each his censer. ^1617
+[[H4191|But those who died]] [[H4046|from the plague]] [[H702|numbered 14,700,]] [[H905|in addition to]] [[H4191|those who had died]] [[H5921|on account]] [[H7141|of Korah.]] ^1649
 
-So every man took his censer and put fire in them and laid incense on them and stood at the entrance of the tent of meeting with Moses and Aaron. ^1618
+[[H175|Then Aaron]] [[H7725|returned]] [[H413|to]] [[H4872|Moses]] [[H413|at]] [[H6607|the entrance]] [[H168|to the Tent]] [[H4150|of Meeting,]] [[H4046|since the plague]] [[H6113|had been halted.]] ^1650
 
-Then Korah assembled all the congregation against them at the entrance of the tent of meeting. And the glory of the Lord appeared to all the congregation. ^1619
+[[H3068|And the LORD]] [[H1696|said to]] [[H4872|Moses,]] ^1701
 
-And the Lord spoke to Moses and to Aaron, saying, ^1620
+[[H1696|“Speak]] [[H413|to]] [[H1121|the Israelites]] [[H3947|and take]] [[H853|from them]] [[H8147|twelve]] [[H4294|staffs,]] ⟨one⟩ [[H4294|]] [[H5387|from the leader]] [[H3605|of each]] [[H1|tribe.]] [[H3789|Write]] [[H376|each]] [[H8034|man’s name]] [[H5921|on]] [[H4294|his staff,]] ^1702
 
-Separate yourselves from among this congregation, that I may consume them in a moment. ^1621
+[[H853|and]] [[H3789|write]] [[H175|Aaron’s]] [[H8034|name]] [[H5921|on]] [[H4294|the staff]] [[H3878|of Levi,]] [[H3588|because]] [[H259|there must be one]] [[H4294|staff]] [[H7218|for the head]] [[H1|of each tribe.]] ^1703
 
-And they fell on their faces and said, O God, the God of the spirits of all flesh, shall one man sin, and will you be angry with all the congregation? ^1622
+[[H3240|Place]] ⟨the staffs⟩ [[H168|in the Tent]] [[H4150|of Meeting]] [[H6440|in front]] [[H5715|of the Testimony,]] [[H834|where]] [[H3259|I meet with you.]] ^1704
 
-And the Lord spoke to Moses, saying, ^1623
+[[H4294|The staff]] [[H376|belonging to the man]] [[H977|I choose]] [[H6524|will sprout,]] [[H7918|and I will rid]] [[H5921|Myself]] [[H8519|of the constant grumbling]] [[H1121|of the Israelites]] [[H5921|against you.”]] ^1705
 
-Say to the congregation, Get away from the dwelling of Korah, Dathan, and Abiram. ^1624
+[[H4872|So Moses]] [[H1696|spoke]] [[H413|to]] [[H1121|the Israelites,]] [[H3605|and each]] [[H5387|of their leaders]] [[H5414|gave]] [[H259|him a]] [[H4294|staff—]] [[H4294|one]] [[H259|for each]] [[H5387|of the leaders]] [[H1|of their tribes,]] [[H8147|twelve]] [[H4294|staffs in all.]] [[H175|And Aaron’s]] [[H4294|staff]] [[H8432|was among]] ⟨them⟩ [[H4294|.]] ^1706
 
-Then Moses rose and went to Dathan and Abiram, and the elders of Israel followed him. ^1625
+[[H4872|Then Moses]] [[H3240|placed]] [[H4294|the staffs]] [[H6440|before]] [[H3068|the LORD]] [[H168|in the Tent]] [[H5715|of the Testimony.]] ^1707
 
-And he spoke to the congregation, saying, Depart, please, from the tents of these wicked men, and touch nothing of theirs, lest you be swept away with all their sins. ^1626
+[[H4283|The next day]] [[H4872|Moses]] [[H935|entered]] [[H168|the Tent]] [[H5715|of the Testimony]] [[H2009|and saw]] [[H175|that Aaron’s]] [[H4294|staff,]] [[H1004|representing the house]] [[H3878|of Levi,]] [[H6524|had sprouted,]] [[H3318|put forth]] [[H6525|buds,]] [[H6692|blossomed,]] [[H1580|and produced]] [[H8247|almonds!]] ^1708
 
-So they got away from the dwelling of Korah, Dathan, and Abiram. And Dathan and Abiram came out and stood at the door of their tents, together with their wives, their sons, and their little ones. ^1627
+[[H4872|Then Moses]] [[H3318|brought out]] [[H3605|all]] [[H4294|the staffs]] [[H3069|from the LORD's]] [[H6440|presence]] [[H413|to]] [[H3605|all]] [[H1121|the Israelites.]] [[H7200|They saw them,]] [[H376|and each man]] [[H3947|took]] [[H4294|his own staff.]] ^1709
 
-And Moses said, Hereby you shall know that the Lord has sent me to do all these works, and that it has not been of my own accord. ^1628
+[[H3068|The LORD]] [[H559|said]] [[H413|to]] [[H4872|Moses,]] [[H175|“Put Aaron’s]] [[H4294|staff]] [[H7725|back]] [[H6440|in front]] [[H5715|of the Testimony,]] [[H4931|to be kept]] [[H226|as a sign]] [[H1121|for the rebellious,]] [[H3615|so that you may put an end]] [[H8519|to their grumbling]] [[H5921|against Me,]] [[H3808|lest]] [[H4191|they die.”]] ^1710
 
-If these men die as all men die, or if they are visited by the fate of all mankind, then the Lord has not sent me. ^1629
+[[H4872|So Moses]] [[H6213|did]] [[H834|as]] [[H3068|the LORD]] [[H6680|had commanded him.]] ^1711
 
-But if the Lord creates something new, and the ground opens its mouth and swallows them up with all that belongs to them, and they go down alive into Sheol, then you shall know that these men have despised the Lord. ^1630
+[[H1121|Then the Israelites]] [[H559|declared]] [[H413|to]] [[H4872|Moses,]] [[H2005|“Look,]] [[H1478|we are perishing!]] [[H6|We are lost;]] [[H3605|we are all]] [[H6|lost!]] ^1712
 
-And as soon as he had finished speaking all these words, the ground under them split apart. ^1631
+[[H3605|Anyone]] [[H7131|who comes near]] [[H4908|the tabernacle]] [[H3068|of the LORD]] [[H4191|will die.]] [[H8552|Are we all]] [[H1478|going to perish?”]] ^1713
 
-And the earth opened its mouth and swallowed them up, with their households and all the people who belonged to Korah and all their goods. ^1632
+[[H3068|The LORD]] [[H559|said]] [[H413|to]] [[H175|Aaron,]] [[H859|“You,]] [[H1121|your sons,]] [[H1|and your father’s]] [[H1004|house]] [[H5375|must bear]] [[H5771|the iniquity]] [[H4720|against the sanctuary.]] [[H859|And you]] [[H1121|and your sons]] ⟨alone⟩ [[H854|]] [[H5375|must bear]] [[H5771|the iniquity]] [[H3550|against the priesthood.]] ^1801
 
-So they and all that belonged to them went down alive into Sheol, and the earth closed over them, and they perished from the midst of the assembly. ^1633
+[[H7126|But bring]] [[H854|with you]] [[H1571|also]] [[H251|your brothers]] [[H4294|from the tribe]] [[H3878|of Levi,]] [[H7626|the tribe]] [[H1|of your father,]] [[H3867|that they may join]] [[H5921|you]] [[H8334|and assist]] [[H859|you]] [[H1121|and your sons]] [[H6440|before]] [[H168|the Tent]] [[H5715|of the Testimony.]] ^1802
 
-And all Israel who were around them fled at their cry, for they said, Lest the earth swallow us up! ^1634
+[[H8104|And they shall attend]] [[H4931|to your duties]] [[H4931|and all the duties]] [[H168|of the Tent;]] [[H413|but]] [[H3808|they must not]] [[H7126|come near]] [[H3627|to the furnishings]] [[H6944|of the sanctuary]] [[H4196|or the altar,]] [[H3808|or]] [[H1571|both]] [[H1992|they]] [[H1571|and]] [[H859|you]] [[H4191|will die.]] ^1803
 
-And fire came out from the Lord and consumed the 250 men offering the incense. ^1635
+[[H3867|They are to join]] [[H5921|you]] [[H8104|and attend]] [[H4931|to the obligations]] [[H168|of the Tent]] [[H4150|of Meeting,]] [[H3605|doing all]] [[H5656|the work]] [[H168|at the Tent;]] [[H3808|but no]] [[H2114|outsider]] [[H7126|may come near]] [[H413|you.]] ^1804
 
-Then the Lord spoke to Moses, saying, ^1636
+[[H8104|So you shall attend]] [[H4931|to the obligations]] [[H6944|of the sanctuary]] ⟨and⟩ [[H4931|]] [[H4196|of the altar,]] [[H7110|that wrath]] [[H3808|may not]] [[H1961|fall]] [[H5921|on]] [[H1121|the Israelites]] [[H5750|again.]] ^1805
 
-Tell Eleazar the son of Aaron the priest to take up the censers out of the blaze. Then scatter the fire far and wide, for they have become holy. ^1637
+[[H2009|Behold,]] [[H589|I Myself]] [[H3947|have selected]] [[H251|your fellow]] [[H3881|Levites]] [[H8432|from]] [[H1121|the Israelites]] [[H4979|as a gift]] [[H5414|to you,  dedicated]] [[H3068|to the LORD]] [[H5647|to perform]] [[H5656|the service]] [[H168|for the Tent]] [[H4150|of Meeting.]] ^1806
 
-As for the censers of these men who have sinned at the cost of their lives, let them be made into hammered plates as a covering for the altar, for they offered them before the Lord, and they became holy. Thus they shall be a sign to the people of Israel. ^1638
+[[H859|But only you]] [[H1121|and your sons]] [[H8104|shall attend]] [[H3550|to your priesthood]] [[H3605|for everything]] [[H1697|concerning]] [[H4196|the altar,]] [[H1004|and for what is inside]] [[H6532|the veil,]] [[H5647|and you are to perform that service.]] [[H5414|I am giving]] [[H5656|you the work]] [[H3550|of the priesthood]] [[H4979|as a gift,]] [[H2114|but any outsider]] [[H7126|who comes near]] ⟨the sanctuary⟩ [[H4191|must be put to death.”]] ^1807
 
-So Eleazar the priest took the bronze censers, which those who were burned had offered, and they were hammered out as a covering for the altar, ^1639
+[[H3068|Then the LORD]] [[H1696|said]] [[H413|to]] [[H175|Aaron,]] [[H2009|“Behold,]] [[H589|I]] [[H5414|have put]] [[H4931|you in charge]] [[H8641|of My offerings.]] [[H3605|As for all]] [[H6918|the sacred offerings]] [[H1121|of the Israelites,]] [[H5414|I have given them]] [[H1121|to you  and your sons]] [[H4888|as a portion]] [[H5769|and a permanent]] [[H2706|statute.]] ^1808
 
-to be a reminder to the people of Israel, so that no outsider, who is not of the descendants of Aaron, should draw near to burn incense before the Lord, lest he become like Korah and his company —as the Lord said to him through Moses. ^1640
+[[H4480|A portion of]] [[H6944|the most holy offerings]] ⟨reserved⟩ [[H784|from the fire]] [[H1961|will be yours.]] [[H3605|From all]] [[H7133|the offerings]] [[H834|that]] [[H7725|they give Me,]] [[H4503|whether grain offerings,]] [[H2403|sin offerings,]] [[H817|or guilt offerings,]] [[H6944|it shall be most holy]] [[H1121|to you and your sons.]] ^1809
 
-But on the next day all the congregation of the people of Israel grumbled against Moses and against Aaron, saying, You have killed the people of the Lord. ^1641
+[[H398|You are to eat]] [[H6944|it as most holy.]] [[H3605|Every]] [[H2145|male]] [[H398|may eat it;]] [[H1961|it shall be]] [[H6944|holy]] ^1810
 
-And when the congregation had assembled against Moses and against Aaron, they turned toward the tent of meeting. And behold, the cloud covered it, and the glory of the Lord appeared. ^1642
+[[H2088|And this]] [[H8641|is yours as well:  the offering]] [[H4976|of their gifts,]] [[H3605|along with all]] [[H8573|the wave offerings]] [[H1121|of the Israelites.]] [[H5414|I have given this]] [[H1121|to you  and your sons]] [[H1323|and daughters]] [[H5769|as a permanent]] [[H2706|statute.]] [[H3605|Every]] [[H2889|ceremonially clean person]] [[H1004|in your household]] [[H398|may eat it.]] ^1811
 
-And Moses and Aaron came to the front of the tent of meeting, ^1643
+[[H5414|I give you]] [[H3605|all]] [[H2459|the freshest]] [[H3323|olive oil]] [[H3605|and all]] [[H2459|the finest]] [[H8492|new wine]] [[H1715|and grain]] [[H834|that]] [[H5414|the Israelites give]] [[H3068|to the LORD]] [[H7225|as their firstfruits.]] ^1812
 
-and the Lord spoke to Moses, saying, ^1644
+[[H1061|The firstfruits]] [[H3605|of all]] [[H834|that]] [[H776|is in their land,]] [[H834|which]] [[H935|they bring]] [[H3068|to the LORD,]] [[H1961|belong]] [[H3605|to you.  Every]] [[H2889|ceremonially clean person]] [[H1004|in your household]] [[H398|may eat them.]] ^1813
 
-Get away from the midst of this congregation, that I may consume them in a moment. And they fell on their faces. ^1645
+[[H3605|Every]] [[H2764|devoted thing]] [[H3478|in Israel]] [[H1961|belongs to you.]] ^1814
 
-And Moses said to Aaron, Take your censer, and put fire on it from off the altar and lay incense on it and carry it quickly to the congregation and make atonement for them, for wrath has gone out from the Lord; the plague has begun. ^1646
+[[H6363|The firstborn]] [[H3605|of every]] [[H1320|womb,]] [[H834|whether]] [[H120|man]] [[H929|or beast,]] [[H7126|that is offered]] [[H3068|to the LORD]] [[H1961|belongs to you.]] [[H389|But]] [[H6299|you must surely redeem]] [[H1060|every firstborn]] [[H120|son]] ⟨and⟩ [[H6299|]] [[H1060|every firstborn male]] [[H2931|of unclean]] [[H929|animals.]] ^1815
 
-So Aaron took it as Moses said and ran into the midst of the assembly. And behold, the plague had already begun among the people. And he put on the incense and made atonement for the people. ^1647
+[[H6299|You are to pay the redemption price]] [[H1121|for a month-old male]] [[H6187|according to your valuation:]] [[H2568|five]] [[H8255|shekels]] [[H3701|of silver,]] [[H6944|according to the sanctuary]] [[H8255|shekel,]] [[H1931|which]] [[H6242|is twenty]] [[H1626|gerahs.]] ^1816
 
-And he stood between the dead and the living, and the plague was stopped. ^1648
+[[H389|But]] [[H3808|you must not]] [[H6299|redeem]] [[H1060|the firstborn]] [[H7794|of an ox,]] [[H3775|a sheep,]] [[H176|or]] [[H5795|a goat;]] [[H1992|they]] [[H6944|are holy.]] [[H2236|You are to sprinkle]] [[H1818|their blood]] [[H5921|on]] [[H4196|the altar]] [[H6999|and burn]] [[H2459|their fat]] [[H801|as an offering made by fire,]] [[H5207|a pleasing]] [[H7381|aroma]] [[H3068|to the LORD.]] ^1817
 
-Now those who died in the plague were 14,700, besides those who died in the affair of Korah. ^1649
+[[H1320|And their meat]] [[H1961|belongs to you,]] [[H2373|just as the breast]] [[H3225|and right]] [[H7785|thigh]] [[H8573|of the wave offering]] [[H1961|belong to you.]] ^1818
 
-And Aaron returned to Moses at the entrance of the tent of meeting, when the plague was stopped. ^1650
+[[H3605|All]] [[H6944|the holy]] [[H8641|offerings]] [[H834|that]] [[H3478|the Israelites]] [[H7311|present]] [[H3068|to the LORD]] [[H5414|I give]] [[H1121|to you  and to your sons]] [[H1323|and daughters]] [[H5769|as a permanent]] [[H2706|statute.]] [[H1931|It]] [[H5769|is a permanent]] [[H1285|covenant]] [[H4417|of salt]] [[H6440|before]] [[H3068|the LORD]] [[H2233|for you and your offspring.”]] ^1819
 
+[[H3068|Then the LORD]] [[H559|said]] [[H175|to Aaron,]] [[H3808|“You will have no]] [[H5157|inheritance]] [[H776|in their land,]] [[H3808|nor]] [[H1961|will you have]] [[H2506|any portion]] [[H8432|among them.]] [[H589|I]] [[H2506|am your portion]] [[H5159|and your inheritance]] [[H8432|among]] [[H1121|the Israelites.]] ^1820
 
+[[H2009|Behold,]] [[H5414|I have given]] [[H1121|to the Levites]] [[H3605|all]] [[H4643|the tithes]] [[H3478|in Israel]] [[H5159|as an inheritance]] [[H2500|in return for]] [[H5656|the work]] [[H1992|they]] [[H5647|do,]] [[H5656|the service]] [[H168|of the Tent]] [[H4150|of Meeting.]] ^1821
 
-The Lord spoke to Moses, saying, ^1701
+[[H3808|No]] [[H5750|longer]] [[H1121|may the Israelites]] [[H413|come]] [[H7126|near]] [[H168|the Tent]] [[H4150|of Meeting,]] [[H5375|or they will incur]] [[H2399|guilt]] [[H4191|and die.]] ^1822
 
-Speak to the people of Israel, and get from them staffs, one for each fathers ’ house, from all their chiefs according to their fathers ’ houses, twelve staffs. Write each man’s name on his staff, ^1702
+[[H3881|The Levites]] [[H5647|are to perform]] [[H5656|the work]] [[H168|of the Tent]] [[H4150|of Meeting,]] [[H1992|and they]] [[H5375|must bear]] [[H5771|their iniquity.]] [[H5769|This is a permanent]] [[H2708|statute]] [[H1755|for the generations to come.]] [[H3808|The Levites will not]] [[H5157|receive an inheritance]] [[H8432|among]] [[H1121|the Israelites.]] ^1823
 
-and write Aaron’s name on the staff of Levi. For there shall be one staff for the head of each fathers ’ house. ^1703
+[[H3588|For]] [[H5414|I have given]] [[H3881|the Levites]] [[H5159|as their inheritance]] [[H4643|the tenth]] [[H834|that]] [[H1121|the Israelites]] [[H7311|present]] [[H3068|to the LORD]] [[H8641|as a contribution.]] [[H5921|That is why]] [[H559|I told]] [[H3808|them that they would not]] [[H5157|receive an inheritance]] [[H8432|among]] [[H1121|the Israelites.”]] ^1824
 
-Then you shall deposit them in the tent of meeting before the testimony, where I meet with you. ^1704
+[[H3068|And the LORD]] [[H1696|instructed]] [[H4872|Moses,]] ^1825
 
-And the staff of the man whom I choose shall sprout. Thus I will make to cease from me the grumblings of the people of Israel, which they grumble against you. ^1705
+[[H1696|“Speak]] [[H413|to]] [[H3881|the Levites]] [[H559|and tell them:]] [[H3588|When]] [[H3947|you receive]] [[H4480|from]] [[H1121|the Israelites]] [[H4643|the tithe]] [[H834|that]] [[H5414|I have given]] [[H5159|you  as your inheritance,]] [[H7311|you must present]] [[H4480|part of]] [[H8641|it as an offering]] [[H3068|to the LORD—]] [[H4643|a tenth]] [[H4643|of the tenth.]] ^1826
 
-Moses spoke to the people of Israel. And all their chiefs gave him staffs, one for each chief, according to their fathers ’ houses, twelve staffs. And the staff of Aaron was among their staffs. ^1706
+[[H8641|Your offering]] [[H2803|will be reckoned]] [[H1715|to you  as grain]] [[H4480|from]] [[H1637|the threshing floor]] [[H4395|or juice]] [[H4480|from]] [[H3342|the winepress.]] ^1827
 
-And Moses deposited the staffs before the Lord in the tent of the testimony. ^1707
+[[H3651|So]] [[H859|you]] [[H7311|are to present]] [[H8641|an offering]] [[H3068|to the LORD]] [[H3605|from every]] [[H4643|tenth]] [[H3947|you receive]] [[H1121|from the Israelites,]] [[H4480|and from it]] [[H5414|give]] [[H3068|the LORD’s]] [[H8641|offering]] [[H175|to Aaron]] [[H3548|the priest.]] ^1828
 
-On the next day Moses went into the tent of the testimony, and behold, the staff of Aaron for the house of Levi had sprouted and put forth buds and produced blossoms, and it bore ripe almonds. ^1708
+[[H7311|You must present]] [[H8641|the offering]] [[H3068|due the LORD]] [[H3605|from]] [[H3605|all]] [[H2459|the best]] [[H3605|of every]] [[H4979|gift,]] [[H4720|the holiest part]] [[H4480|of it.]] ^1829
 
-Then Moses brought out all the staffs from before the Lord to all the people of Israel. And they looked, and each man took his staff. ^1709
+[[H559|Therefore say]] [[H413|to]] ⟨the Levites⟩: [[H7311|Once you have presented]] [[H2459|the best part,]] [[H2803|it will be reckoned]] ⟨to you⟩ [[H3881|]] [[H8393|as the produce]] [[H1637|of the threshing floor]] [[H3342|or the winepress.]] ^1830
 
-And the Lord said to Moses, Put back the staff of Aaron before the testimony, to be kept as a sign for the rebels, that you may make an end of their grumblings against me, lest they die. ^1710
+[[H859|And you]] [[H1004|and your households]] [[H398|may eat anywhere;]] ⟨the rest of it⟩ [[H1931|it]] [[H7939|is the compensation]] [[H2500|for]] [[H5656|your work]] [[H168|at the Tent]] [[H4150|of Meeting.]] ^1831
 
-Thus did Moses; as the Lord commanded him, so he did. ^1711
+[[H7311|Once you have presented]] [[H2459|the best part]] [[H4480|of it,]] [[H3808|you will not]] [[H5375|incur]] [[H2399|guilt]] [[H5921|because of it.]] [[H853|But]] [[H3808|you must not]] [[H2490|defile]] [[H6918|the sacred offerings]] [[H1121|of the Israelites,]] [[H3808|lest]] [[H4191|you die.”]] ^1832
 
-And the people of Israel said to Moses, Behold, we perish, we are undone, we are all undone. ^1712
+[[H3068|Then the LORD]] [[H1696|said]] [[H413|to]] [[H4872|Moses]] [[H175|and Aaron,]] ^1901
 
-Everyone who comes near, who comes near to the tabernacle of the Lord, shall die. Are we all to perish? ^1713
+[[H2063|“This]] [[H2708|is the statute]] [[H8451|of the law]] [[H834|that]] [[H3068|the LORD]] [[H6680|has commanded:]] [[H1696|Instruct]] [[H1121|the Israelites]] [[H3947|to bring]] [[H413|you]] [[H8549|an unblemished]] [[H122|red]] [[H6510|heifer]] [[H834|that]] [[H369|has no]] [[H3971|defect]] [[H3808|and has never]] [[H5927|been placed]] [[H5923|under a yoke.]] ^1902
 
+[[H5414|Give]] [[H413|it to]] [[H499|Eleazar]] [[H3548|the priest,]] [[H3318|and he will have it brought]] [[H2351|outside]] [[H4264|the camp]] [[H7819|and slaughtered]] [[H6440|in his presence.]] ^1903
 
+[[H499|Eleazar]] [[H3548|the priest]] [[H3947|is to take]] [[H1818|some of its blood]] [[H676|with his finger]] [[H5137|and sprinkle]] ⟨it⟩ [[H1818|]] [[H7651|seven]] [[H6471|times]] [[H413|toward]] [[H6440|the front]] [[H168|of the Tent]] [[H4150|of Meeting.]] ^1904
 
-So the Lord said to Aaron, You and your sons and your father’s house with you shall bear iniquity connected with the sanctuary, and you and your sons with you shall bear iniquity connected with your priesthood. ^1801
+[[H6510|Then the heifer]] [[H8313|must be burned]] [[H5869|in his sight.]] [[H5785|Its hide,]] [[H1320|its flesh,]] [[H1818|and its blood]] [[H8313|are to be burned,]] [[H5921|along with]] [[H6569|its dung.]] ^1905
 
-And with you bring your brothers also, the tribe of Levi, the tribe of your father, that they may join you and minister to you while you and your sons with you are before the tent of the testimony. ^1802
+[[H3548|The priest]] [[H3947|is to take]] [[H730|cedar]] [[H6086|wood,]] [[H231|hyssop,]] [[H8144|and scarlet wool]] [[H7993|and throw]] [[H413|them]] [[H8432|onto]] [[H8316|the burning]] [[H6510|heifer.]] ^1906
 
-They shall keep guard over you and over the whole tent, but shall not come near to the vessels of the sanctuary or to the altar lest they, and you, die. ^1803
+[[H3548|Then the priest]] [[H3526|must wash]] [[H899|his clothes]] [[H7364|and bathe]] [[H1320|his body]] [[H4325|in water;]] [[H310|after that]] [[H935|he may enter]] [[H4264|the camp,]] [[H3548|but he]] [[H2930|will be ceremonially unclean]] [[H5704|until]] [[H6153|evening.]] ^1907
 
-They shall join you and keep guard over the tent of meeting for all the service of the tent, and no outsider shall come near you. ^1804
+[[H8313|The one who burned]] ⟨the heifer⟩ [[H853|]] [[H3526|must also wash]] [[H899|his clothes]] [[H7364|and bathe]] [[H1320|his body]] [[H4325|in water,]] [[H2930|and he too will be unclean]] [[H5704|until]] [[H6153|evening.]] ^1908
 
-And you shall keep guard over the sanctuary and over the altar, that there may never again be wrath on the people of Israel. ^1805
+[[H376|Then a man]] [[H2889|who is clean]] [[H622|is to gather up]] [[H665|the ashes]] [[H6510|of the heifer]] [[H3240|and store]] ⟨them⟩ [[H2889|in a ceremonially clean]] [[H4725|place]] [[H2351|outside]] [[H4264|the camp.]] [[H1961|They must be]] [[H4931|kept]] [[H5712|by the congregation]] [[H3478|of Israel]] [[H4325|for preparing the water]] [[H5079|of purification;]] [[H1931|this]] ⟨is⟩ [[H2403|for purification from sin.]] ^1909
 
-And behold, I have taken your brothers the Levites from among the people of Israel. They are a gift to you, given to the Lord, to do the service of the tent of meeting. ^1806
+[[H622|The man who has gathered up]] [[H665|the ashes]] [[H6510|of the heifer]] [[H3526|must also wash]] [[H899|his clothes,]] [[H2930|and he will be unclean]] [[H5704|until]] [[H6153|evening.]] [[H1961|This]] [[H5769|is a permanent]] [[H2708|statute]] [[H1121|for the Israelites]] [[H1616|and for the foreigner]] [[H1481|residing]] [[H8432|among them.]] ^1910
 
-And you and your sons with you shall guard your priesthood for all that concerns the altar and that is within the veil; and you shall serve. I give your priesthood as a gift, and any outsider who comes near shall be put to death. ^1807
+[[H5060|Whoever touches]] [[H3605|any]] [[H4191|dead]] [[H5315|body]] [[H2930|will be unclean]] [[H7651|for seven]] [[H3117|days.]] ^1911
 
-Then the Lord spoke to Aaron, Behold, I have given you charge of the contributions made to me, all the consecrated things of the people of Israel. I have given them to you as a portion and to your sons as a perpetual due. ^1808
+[[H1931|He]] [[H2398|must purify himself with the water]] [[H7992|on the third]] [[H3117|day]] [[H7637|and the seventh]] [[H3117|day;]] [[H2891|then he will be clean.]] [[H518|But if]] [[H3808|he does not]] [[H2398|purify]] [[H7992|himself on the third]] [[H7637|and seventh]] [[H3117|days,]] [[H3808|he will not]] [[H2891|be clean.]] ^1912
 
-This shall be yours of the most holy things, reserved from the fire : every offering of theirs, every grain offering of theirs and every sin offering of theirs and every guilt offering of theirs, which they render to me, shall be most holy to you and to your sons. ^1809
+[[H3605|Anyone]] [[H5060|who touches]] [[H4191|a corpse,]] [[H5315|the body]] [[H120|of a person]] [[H834|who]] [[H4191|has died,]] [[H3808|and does not]] [[H2398|purify]] [[H853|himself,]] [[H2930|defiles]] [[H4908|the tabernacle]] [[H3069|of the LORD.]] [[H1931|That]] [[H5315|person]] [[H3772|must be cut off]] [[H3478|from Israel.]] [[H1961|He remains]] [[H2931|unclean,]] [[H3588|because]] [[H4325|the water]] [[H5079|of purification]] [[H3808|has not]] [[H2236|been sprinkled]] [[H5921|on him,]] [[H2932|and his uncleanness]] [[H5750|is still on him.]] ^1913
 
-In a most holy place shall you eat it. Every male may eat it; it is holy to you. ^1810
+[[H2063|This]] [[H8451|is the law]] [[H3588|when]] [[H120|a person]] [[H4191|dies]] [[H168|in a tent:]] [[H3605|Everyone]] [[H935|who enters]] [[H168|the tent]] [[H3605|and everyone]] [[H168|already in the tent]] [[H2930|will be unclean]] [[H7651|for seven]] [[H3117|days,]] ^1914
 
-This also is yours: the contribution of their gift, all the wave offerings of the people of Israel. I have given them to you, and to your sons and daughters with you, as a perpetual due. Everyone who is clean in your house may eat it. ^1811
+[[H3605|and any]] [[H6605|open]] [[H3627|container]] [[H369|without]] [[H6781|a lid]] [[H6616|fastened]] [[H5921|on it]] [[H2931|is unclean.]] ^1915
 
-All the best of the oil and all the best of the wine and of the grain, the firstfruits of what they give to the Lord, I give to you. ^1812
+[[H3605|Anyone]] [[H5921|in]] [[H6440|the open field]] [[H834|who]] [[H5060|touches]] [[H2491|someone who has been killed]] [[H2719|by the sword]] [[H176|or]] [[H4191|has died of natural causes,]] [[H176|or]] [[H120|anyone who touches a human]] [[H6106|bone]] [[H176|or]] [[H6913|a grave,]] [[H2930|will be unclean]] [[H7651|for seven]] [[H3117|days.]] ^1916
 
-The first ripe fruits of all that is in their land, which they bring to the Lord, shall be yours. Everyone who is clean in your house may eat it. ^1813
+⟨For the purification⟩ [[H2931|of the unclean person,]] [[H3947|take]] [[H6083|some of the ashes]] [[H8316|of the burnt purification]] [[H2403|offering,]] [[H5414|put]] [[H413|them in]] [[H3627|a jar,]] [[H2416|and pour fresh running]] [[H4325|water]] [[H5921|over them.]] ^1917
 
-Every devoted thing in Israel shall be yours. ^1814
+[[H376|Then a man]] [[H2889|who is ceremonially clean]] [[H3947|is to take]] [[H231|some hyssop,]] [[H2881|dip]] [[H4325|it in the water,]] [[H5137|and sprinkle]] [[H168|the tent,]] [[H3605|all]] [[H3627|the furnishings,]] [[H5315|and the people]] [[H834|who]] [[H1961|were]] [[H8033|there.]] [[H5060|He is also to sprinkle the one who touched]] [[H6106|the bone,]] [[H6913|grave,]] [[H4191|corpse,]] [[H176|or]] [[H2491|person who had been killed.]] ^1918
 
-Everything that opens the womb of all flesh, whether man or beast, which they offer to the Lord, shall be yours. Nevertheless, the firstborn of man you shall redeem, and the firstborn of unclean animals you shall redeem. ^1815
+[[H2889|The man who is clean]] [[H5137|is to sprinkle]] [[H2931|the unclean person]] [[H7992|on the third]] [[H3117|day]] [[H7637|and the seventh]] [[H3117|day.]] [[H2398|After he purifies]] [[H7637|the unclean person on the seventh]] [[H3117|day,]] ⟨the one being cleansed⟩ [[H3526|must wash]] [[H899|his clothes]] [[H7364|and bathe]] [[H4325|in water,]] [[H2891|and he will be clean]] [[H6153|by evening.]] ^1919
 
-And their redemption price (at a month old you shall redeem them) you shall fix at five shekels in silver, according to the shekel of the sanctuary, which is twenty gerahs. ^1816
+[[H376|But if a person]] [[H834|who]] [[H2930|is unclean]] [[H3808|does not]] [[H2398|purify]] [[H1931|himself,]] ⟨he⟩ [[H5315|]] [[H3772|will be cut off]] [[H8432|from]] [[H6951|the assembly,]] [[H3588|because]] [[H2930|he has defiled]] [[H4720|the sanctuary]] [[H3068|of the LORD.]] [[H4325|The water]] [[H5079|of]] ⟨purification⟩ [[H3808|has not]] [[H2236|been sprinkled]] [[H5921|on him;]] [[H1931|he]] [[H2931|is unclean.]] ^1920
 
-But the firstborn of a cow, or the firstborn of a sheep, or the firstborn of a goat, you shall not redeem; they are holy. You shall sprinkle their blood on the altar and shall burn their fat as a food offering, with a pleasing aroma to the Lord. ^1817
+[[H1961|This]] [[H5769|is a permanent]] [[H2708|statute for]] ⟨the people⟩: [[H5137|The one who sprinkles]] [[H4325|the water]] [[H5079|of]] ⟨purification⟩ [[H3526|must wash]] [[H899|his clothes,]] [[H5060|and whoever touches]] [[H4325|the water]] [[H5079|of]] ⟨purification⟩ [[H2930|will be unclean]] [[H5704|until]] [[H6153|evening.]] ^1921
 
-But their flesh shall be yours, as the breast that is waved and as the right thigh are yours. ^1818
+[[H3605|Anything]] [[H2931|the unclean]] [[H5060|person touches]] [[H2930|will become unclean,]] [[H5315|and anyone]] [[H5060|who touches it]] [[H2930|will be unclean]] [[H5704|until]] [[H6153|evening.”]] ^1922
 
-All the holy contributions that the people of Israel present to the Lord I give to you, and to your sons and daughters with you, as a perpetual due. It is a covenant of salt forever before the Lord for you and for your offspring with you. ^1819
+[[H7223|In the first]] [[H2320|month,]] [[H3605|the whole]] [[H5712|congregation]] [[H3478|of Israel]] [[H935|entered]] [[H4057|the Wilderness]] [[H6790|of Zin]] ⟨and⟩ [[H5971|]] [[H3427|stayed]] [[H6946|in Kadesh.]] [[H8033|There]] [[H4813|Miriam]] [[H4191|died]] [[H6912|and was buried.]] ^2001
 
-And the Lord said to Aaron, You shall have no inheritance in their land, neither shall you have any portion among them. I am your portion and your inheritance among the people of Israel. ^1820
+[[H1961|Now there was]] [[H3808|no]] [[H4325|water]] [[H5712|for the congregation,]] [[H6950|so they gathered]] [[H5921|against]] [[H4872|Moses]] [[H175|and Aaron.]] ^2002
 
-To the Levites I have given every tithe in Israel for an inheritance, in return for their service that they do, their service in the tent of meeting, ^1821
+[[H5971|The people]] [[H7378|quarreled]] [[H5973|with]] [[H4872|Moses]] [[H559|and said,]] [[H3863|“If only]] [[H1478|we had perished]] [[H251|when our brothers]] [[H1478|fell dead]] [[H6440|before]] [[H3068|the LORD.]] ^2003
 
-so that the people of Israel do not come near the tent of meeting, lest they bear sin and die. ^1822
+[[H4100|Why]] [[H935|have you brought]] [[H3068|the LORD’s]] [[H6951|assembly]] [[H413|into]] [[H2088|this]] [[H4057|wilderness]] [[H587|for us]] [[H1165|and our livestock]] [[H4191|to die]] [[H8033|here?]] ^2004
 
-But the Levites shall do the service of the tent of meeting, and they shall bear their iniquity. It shall be a perpetual statute throughout your generations, and among the people of Israel they shall have no inheritance. ^1823
+[[H4100|Why]] [[H5927|have you led us up]] [[H4714|out of Egypt]] [[H935|to bring]] [[H413|us to]] [[H2088|this]] [[H7451|wretched]] [[H4725|place?]] [[H3808|It is not]] [[H4725|a place]] [[H2233|of grain,]] [[H8384|figs,]] [[H1612|vines,]] [[H7416|and pomegranates,]] [[H369|and there is no]] [[H4325|water]] [[H8354|to drink!”]] ^2005
 
-For the tithe of the people of Israel, which they present as a contribution to the Lord, I have given to the Levites for an inheritance. Therefore I have said of them that they shall have no inheritance among the people of Israel. ^1824
+[[H4872|Then Moses]] [[H175|and Aaron]] [[H935|went]] [[H6440|from the presence]] [[H6951|of the assembly]] [[H413|to]] [[H6607|the entrance]] [[H168|of the Tent]] [[H4150|of Meeting.]] [[H5307|They fell facedown,]] [[H3519|and the glory]] [[H3068|of the LORD]] [[H7200|appeared]] [[H413|to them.]] ^2006
 
-And the Lord spoke to Moses, saying, ^1825
+[[H3068|And the LORD]] [[H1696|said]] [[H413|to]] [[H4872|Moses,]] ^2007
 
-Moreover, you shall speak and say to the Levites, When you take from the people of Israel the tithe that I have given you from them for your inheritance, then you shall present a contribution from it to the Lord, a tithe of the tithe. ^1826
+[[H3947|“Take]] [[H4294|the staff]] [[H6950|and assemble]] [[H5712|the congregation.]] [[H859|You]] [[H251|and your brother]] [[H175|Aaron]] [[H1696|are to speak]] [[H413|to]] [[H5553|the rock]] [[H5869|while they watch,]] [[H5414|and it will pour out]] [[H4325|its water.]] [[H3318|You will bring out]] [[H4325|water]] [[H4480|from]] [[H5553|the rock]] [[H8248|and provide drink]] [[H5712|for the congregation]] [[H1165|and their livestock.]] ^2008
 
-And your contribution shall be counted to you as though it were the grain of the threshing floor, and as the fullness of the winepress. ^1827
+[[H4872|So Moses]] [[H3947|took]] [[H4294|the staff]] [[H3068|from the LORD’s]] [[H6440|presence,]] [[H834|just as]] [[H6680|He had commanded.]] ^2009
 
-So you shall also present a contribution to the Lord from all your tithes, which you receive from the people of Israel. And from it you shall give the Lord ’s contribution to Aaron the priest. ^1828
+[[H4872|Then Moses]] [[H175|and Aaron]] [[H6950|gathered]] [[H6951|the assembly]] [[H413|in]] [[H6440|front]] [[H5553|of the rock,]] [[H559|and Moses said to them,]] [[H8085|“Listen]] [[H4994|now,]] [[H4784|you rebels,]] [[H4325|must we bring you water]] [[H3318|out]] [[H4480|of]] [[H2088|this]] [[H5553|rock?”]] ^2010
 
-Out of all the gifts to you, you shall present every contribution due to the Lord; from each its best part is to be dedicated. ^1829
+[[H4872|Then Moses]] [[H7311|raised]] [[H3027|his hand]] [[H5221|and struck]] [[H5553|the rock]] [[H6471|twice]] [[H4294|with his staff,]] [[H7227|so that a great amount of]] [[H4325|water]] [[H3318|gushed out,]] [[H5712|and the congregation]] [[H1165|and their livestock]] [[H8354|were able to drink.]] ^2011
 
-Therefore you shall say to them, When you have offered from it the best of it, then the rest shall be counted to the Levites as produce of the threshing floor, and as produce of the winepress. ^1830
+[[H3068|But the LORD]] [[H559|said]] [[H413|to]] [[H4872|Moses]] [[H175|and Aaron,]] [[H3282|“Because]] [[H3808|you did not]] [[H539|trust]] [[H6942|Me  to show My holiness]] [[H5869|in the sight]] [[H1121|of the Israelites,]] [[H3808|you will not]] [[H935|bring]] [[H2088|this]] [[H6951|assembly]] [[H413|into]] [[H776|the land]] [[H5414|I have given them.”]] ^2012
 
-And you may eat it in any place, you and your households, for it is your reward in return for your service in the tent of meeting. ^1831
+[[H1992|These]] [[H4325|were the waters]] [[H4809|of Meribah,]] [[H834|where]] [[H1121|the Israelites]] [[H7378|quarreled]] [[H854|with]] [[H3069|the LORD,]] [[H6942|and He showed His holiness]] ^2013
 
-And you shall bear no sin by reason of it, when you have contributed the best of it. But you shall not profane the holy things of the people of Israel, lest you die. ^1832
+[[H6946|From Kadesh]] [[H4872|Moses]] [[H7971|sent]] [[H4397|messengers]] [[H413|to]] ⟨tell⟩ [[H4428|the king]] [[H123|of Edom,]] [[H3541|“This is what]] [[H251|your brother]] [[H3478|Israel]] [[H559|says:]] [[H859|You]] [[H3045|know]] [[H3605|all]] [[H8513|the hardship]] [[H834|that]] [[H4672|has befallen us,]] ^2014
 
+[[H1|how our fathers]] [[H3381|went down]] [[H4714|to Egypt,]] [[H3427|where we lived]] [[H7227|many]] [[H3117|years.]] [[H4713|The Egyptians]] [[H1|mistreated us and our fathers,]] ^2015
 
+[[H6817|and when we cried out]] [[H413|to]] [[H3068|the LORD,]] [[H8085|He heard]] [[H6963|our voice,]] [[H7971|sent]] [[H4397|an angel,]] [[H3318|and brought us]] [[H4714|out of Egypt.]] [[H2009|Now look,]] [[H587|we]] [[H6946|are in Kadesh,]] [[H5892|a city]] [[H7097|on the edge]] [[H1366|of your territory.]] ^2016
 
-Now the Lord spoke to Moses and to Aaron, saying, ^1901
+[[H4994|Please]] [[H5674|let us pass]] [[H776|through your land.]] [[H3808|We will not]] [[H5674|cut]] [[H7704|through any field]] [[H3754|or vineyard,]] ⟨or⟩ [[H3808|]] [[H8354|drink]] [[H4325|water]] [[H875|from any well.]] [[H1980|We will stay on]] [[H4428|the King’s]] [[H1870|Highway;]] [[H3808|we will not]] [[H5186|turn]] [[H3225|to the right]] [[H8040|or to the left]] [[H5704|until]] [[H5674|we have passed through]] [[H1366|your territory.]] ^2017
 
-This is the statute of the law that the Lord has commanded : Tell the people of Israel to bring you a red heifer without defect, in which there is no blemish, and on which a yoke has never come. ^1902
+[[H123|But Edom]] [[H559|answered,]] [[H3808|“You may not]] [[H5674|travel]] [[H6435|through our land,]] [[H3318|or we will come out]] [[H7125|and confront]] [[H2719|you with the sword.”]] ^2018
 
-And you shall give it to Eleazar the priest, and it shall be taken outside the camp and slaughtered before him. ^1903
+[[H5927|“We will stay]] [[H4546|on the main road,”]] [[H1121|the Israelites]] [[H559|replied,]] [[H518|“and if]] [[H589|we]] [[H4735|or our herds]] [[H8354|drink]] [[H4325|your water,]] [[H5414|we will pay]] [[H4377|for it.]] [[H369|There will be no]] [[H1697|problem;]] [[H7535|only]] [[H5674|let us pass through]] [[H7272|on foot.”]] ^2019
 
-And Eleazar the priest shall take some of its blood with his finger, and sprinkle some of its blood toward the front of the tent of meeting seven times. ^1904
+[[H123|But Edom]] [[H559|insisted,]] [[H3808|“You may not]] [[H5674|pass through.”]] [[H3318|And they came out]] [[H7125|to confront]] ⟨the Israelites⟩ [[H3515|with a large]] [[H5971|army]] [[H2389|and a strong]] [[H3027|hand.]] ^2020
 
-And the heifer shall be burned in his sight. Its skin, its flesh, and its blood, with its dung, shall be burned. ^1905
+[[H123|So Edom]] [[H3985|refused]] [[H5414|to allow]] [[H3478|Israel]] [[H5674|to pass]] [[H1366|through their territory,]] [[H3478|and Israel]] [[H5186|turned away]] [[H5921|from them.]] ^2021
 
-And the priest shall take cedarwood and hyssop and scarlet yarn, and throw them into the fire burning the heifer. ^1906
+[[H5265|After they had set out]] [[H6946|from Kadesh,]] [[H3605|the entire]] [[H5712|congregation]] [[H3478|of Israel]] [[H935|came]] [[H2022|to Mount]] [[H2023|Hor.]] ^2022
 
-Then the priest shall wash his clothes and bathe his body in water, and afterward he may come into the camp. But the priest shall be unclean until evening. ^1907
+[[H2022|And at Mount]] [[H2023|Hor,]] [[H5921|near]] [[H1366|the border]] [[H776|of the land]] [[H123|of Edom,]] [[H3068|the LORD]] [[H559|said]] [[H413|to]] [[H4872|Moses]] [[H175|and Aaron,]] ^2023
 
-The one who burns the heifer shall wash his clothes in water and bathe his body in water and shall be unclean until evening. ^1908
+[[H175|“Aaron]] [[H622|will be gathered]] [[H413|to]] [[H5971|his people;]] [[H3808|he will not]] [[H935|enter]] [[H776|the land]] [[H5414|I have given]] [[H1121|the Israelites,]] [[H5921|because]] [[H4784|both of you rebelled]] [[H6310|against My command]] [[H4325|at the waters]] [[H4809|of Meribah.]] ^2024
 
-And a man who is clean shall gather up the ashes of the heifer and deposit them outside the camp in a clean place. And they shall be kept for the water for impurity for the congregation of the people of Israel; it is a sin offering. ^1909
+[[H3947|Take]] [[H175|Aaron]] [[H1121|and his son]] [[H499|Eleazar]] [[H5927|and bring them up]] [[H2022|Mount]] [[H2023|Hor.]] ^2025
 
-And the one who gathers the ashes of the heifer shall wash his clothes and be unclean until evening. And this shall be a perpetual statute for the people of Israel, and for the stranger who sojourns among them. ^1910
+[[H6584|Remove]] [[H175|Aaron’s]] [[H899|priestly garments]] [[H3847|and put them on]] [[H1121|his son]] [[H499|Eleazar.]] [[H175|Aaron]] [[H622|will be gathered]] ⟨to his people⟩ [[H4191|and will die]] [[H8033|there.”]] ^2026
 
-Whoever touches the dead body of any person shall be unclean seven days. ^1911
+[[H4872|So Moses]] [[H6213|did]] [[H834|as]] [[H3068|the LORD]] [[H6680|had commanded,]] [[H5927|and they climbed]] [[H2022|Mount]] [[H2023|Hor]] [[H5869|in the sight]] [[H3605|of the whole]] [[H5712|congregation.]] ^2027
 
-He shall cleanse himself with the water on the third day and on the seventh day, and so be clean. But if he does not cleanse himself on the third day and on the seventh day, he will not become clean. ^1912
+[[H4872|After Moses]] [[H6584|had removed]] [[H175|Aaron’s]] [[H899|garments]] [[H3847|and put them on]] [[H1121|his son]] [[H499|Eleazar,]] [[H175|Aaron]] [[H4191|died]] [[H8033|there]] [[H7218|on top]] [[H2022|of the mountain.]] [[H4872|Then Moses]] [[H499|and Eleazar]] [[H3381|came down]] [[H4480|from]] [[H2022|the mountain.]] ^2028
 
-Whoever touches a dead person, the body of anyone who has died, and does not cleanse himself, defiles the tabernacle of the Lord, and that person shall be cut off from Israel; because the water for impurity was not thrown on him, he shall be unclean. His uncleanness is still on him. ^1913
+[[H3605|When all the]] [[H5712|congregation]] [[H7200|saw]] [[H3588|that]] [[H175|Aaron]] [[H1478|had died,]] [[H3605|the entire]] [[H1004|house]] [[H3478|of Israel]] [[H1058|mourned]] [[H175|for him]] [[H7970|thirty]] [[H3117|days.]] ^2029
 
-This is the law when someone dies in a tent : everyone who comes into the tent and everyone who is in the tent shall be unclean seven days. ^1914
+[[H3669|When the Canaanite]] [[H4428|king]] [[H6166|of Arad,]] [[H3427|who lived]] [[H5045|in the Negev,]] [[H8085|heard]] [[H3588|that]] [[H3478|Israel]] [[H935|was coming]] [[H1870|along the road]] [[H871|to Atharim,]] [[H3898|he attacked]] [[H3478|Israel]] [[H7617|and captured]] [[H4480|some]] [[H7628|prisoners.]] ^2101
 
-And every open vessel that has no cover fastened on it is unclean. ^1915
+[[H3478|So Israel]] [[H5087|made]] [[H5088|a vow]] [[H3068|to the LORD:]] [[H518|“If]] [[H5414|You will deliver]] [[H2088|this]] [[H5971|people]] [[H3027|into our hands,]] [[H2763|we will completely destroy]] [[H5892|their cities.”]] ^2102
 
-Whoever in the open field touches someone who was killed with a sword or who died naturally, or touches a human bone or a grave, shall be unclean seven days. ^1916
+[[H3068|And the LORD]] [[H8085|heard]] [[H3478|Israel’s]] [[H6963|plea]] [[H5414|and delivered up]] [[H3669|the Canaanites.]] [[H2763|Israel completely destroyed]] [[H853|them]] [[H5892|and their cities;]] [[H7121|so they named]] [[H4725|the place]] [[H2767|Hormah.]] ^2103
 
-For the unclean they shall take some ashes of the burnt sin offering, and fresh water shall be added in a vessel. ^1917
+[[H5265|Then they set out]] [[H2022|from Mount]] [[H2023|Hor]] [[H1870|along the route]] [[H5488|to the Red]] [[H3220|Sea,]] [[H5437|in order to bypass]] [[H776|the land]] [[H123|of Edom.]] [[H5971|But the people]] [[H7114|grew impatient]] [[H1870|on the journey]] ^2104
 
-Then a clean person shall take hyssop and dip it in the water and sprinkle it on the tent and on all the furnishings and on the persons who were there and on whoever touched the bone, or the slain or the dead or the grave. ^1918
+[[H1696|and spoke]] [[H430|against God]] [[H4872|and against Moses:]] [[H4100|“Why]] [[H5927|have you led us up]] [[H4714|out of Egypt]] [[H4191|to die]] [[H4057|in the wilderness?]] [[H369|There is no]] [[H3899|bread]] [[H4325|or water,]] [[H5315|and we]] [[H6973|detest]] [[H7052|this wretched]] [[H3899|food!”]] ^2105
 
-And the clean person shall sprinkle it on the unclean on the third day and on the seventh day. Thus on the seventh day he shall cleanse him, and he shall wash his clothes and bathe himself in water, and at evening he shall be clean. ^1919
+[[H3068|So the LORD]] [[H7971|sent]] [[H5175|poisonous snakes]] [[H5971|among the people,]] [[H7227|and many]] [[H3478|of the Israelites]] [[H5391|were bitten]] [[H4191|and died.]] ^2106
 
-If the man who is unclean does not cleanse himself, that person shall be cut off from the midst of the assembly, since he has defiled the sanctuary of the Lord. Because the water for impurity has not been thrown on him, he is unclean. ^1920
+[[H5971|Then the people]] [[H935|came]] [[H413|to]] [[H4872|Moses]] [[H559|and said,]] [[H2398|“We have sinned]] [[H3588|by]] [[H1696|speaking]] [[H3068|against the LORD]] [[H6419|and against you.  Intercede]] [[H413|with]] [[H3068|the LORD]] [[H5175|to take the snakes]] [[H5493|away]] [[H5921|from us.”]] [[H4872|So Moses]] [[H6419|interceded]] [[H1157|for]] [[H5971|the people.]] ^2107
 
-And it shall be a statute forever for them. The one who sprinkles the water for impurity shall wash his clothes, and the one who touches the water for impurity shall be unclean until evening. ^1921
+[[H3068|Then the LORD]] [[H559|said]] [[H413|to]] [[H4872|Moses,]] [[H6213|“Make]] [[H8314|a snake]] [[H7760|and mount]] [[H853|it]] [[H5921|on]] [[H5251|a pole.]] [[H3605|When anyone]] [[H5391|who is bitten]] [[H7200|looks at it,]] [[H2425|he will live.”]] ^2108
 
-And whatever the unclean person touches shall be unclean, and anyone who touches it shall be unclean until evening. ^1922
+[[H4872|So Moses]] [[H6213|made]] [[H5178|a bronze]] [[H5175|snake]] [[H7760|and mounted]] [[H5921|it on]] [[H5251|a pole.]] [[H518|If]] [[H376|anyone who]] [[H5391|was bitten]] [[H5027|looked]] [[H413|at]] [[H5178|the bronze]] [[H5175|serpent,]] [[H2425|he would recover.]] ^2109
 
+[[H1121|Then the Israelites]] [[H5265|set out]] [[H2583|and camped]] [[H88|at Oboth.]] ^2110
 
+[[H5265|They journeyed]] [[H88|from Oboth]] [[H2583|and camped]] [[H5863|at Iye-abarim]] [[H4057|in the wilderness]] [[H5921|opposite]] [[H4124|Moab]] [[H4217|to the east.]] ^2111
 
-And the people of Israel, the whole congregation, came into the wilderness of Zin in the first month, and the people stayed in Kadesh. And Miriam died there and was buried there. ^2001
+[[H8033|From there]] [[H5265|they set]] [[H2583|out and camped]] [[H2218|at Zered]] [[H5158|Valley.]] ^2112
 
-Now there was no water for the congregation. And they assembled themselves together against Moses and against Aaron. ^2002
+[[H8033|From there]] [[H5265|they moved on]] [[H2583|and camped]] [[H5676|on the other side]] [[H769|of the Arnon,]] [[H4057|in the wilderness]] [[H3318|that extends]] [[H567|into the Amorite]] [[H1366|territory.]] [[H3588|Now]] [[H769|the Arnon]] [[H1366|is the border]] [[H996|between]] [[H4124|the Moabites]] [[H996|and]] [[H567|the Amorites.]] ^2113
 
-And the people quarreled with Moses and said, Would that we had perished when our brothers perished before the Lord! ^2003
+[[H5921|Therefore]] [[H559|it is stated]] [[H5612|in the Book]] [[H4421|of the Wars]] [[H3068|of the LORD:]] [[H2052|“Waheb]] [[H5492|in Suphah]] [[H5158|and the wadis]] [[H769|of the Arnon,]] ^2114
 
-Why have you brought the assembly of the Lord into this wilderness, that we should die here, both we and our cattle? ^2004
+[[H793|even the slopes]] [[H5158|of the wadis]] [[H834|that]] [[H5186|extend]] [[H3427|to the site]] [[H6144|of Ar]] [[H8172|and lie]] [[H1366|along the border]] [[H4124|of Moab.”]] ^2115
 
-And why have you made us come up out of Egypt to bring us to this evil place? It is no place for grain or figs or vines or pomegranates, and there is no water to drink. ^2005
+[[H8033|From there]] ⟨they went on⟩ [[H876|to Beer,]] [[H875|the well]] [[H834|where]] [[H3068|the LORD]] [[H559|said]] [[H4872|to Moses,]] [[H622|“Gather]] [[H5971|the people]] [[H5414|so that I may give]] [[H4325|them water.”]] ^2116
 
-Then Moses and Aaron went from the presence of the assembly to the entrance of the tent of meeting and fell on their faces. And the glory of the Lord appeared to them, ^2006
+[[H227|Then]] [[H3478|Israel]] [[H7891|sang]] [[H2063|this]] [[H7892|song:]] [[H5927|“Spring up,]] [[H875|O well,]] [[H6030|all of you sing]] ^2117
 
-and the Lord spoke to Moses, saying, ^2007
+[[H8269|The princes]] [[H2658|dug]] [[H875|the well;]] [[H5081|the nobles]] [[H5971|of the people]] [[H3738|hollowed it out]] [[H2710|with their scepters]] [[H4938|and with their staffs.”]] [[H4057|From the wilderness]] ⟨the Israelites went on⟩ [[H4980|to Mattanah,]] ^2118
 
-Take the staff, and assemble the congregation, you and Aaron your brother, and tell the rock before their eyes to yield its water. So you shall bring water out of the rock for them and give drink to the congregation and their cattle. ^2008
+[[H4980|and from Mattanah]] [[H5160|to Nahaliel,]] [[H5160|and from Nahaliel]] [[H1120|to Bamoth,]] ^2119
 
-And Moses took the staff from before the Lord, as he commanded him. ^2009
+[[H1120|and from Bamoth]] [[H1516|to the valley]] ⟨in⟩ [[H7704|]] [[H4124|Moab]] [[H7218|where the top]] [[H6449|of Pisgah]] [[H8259|overlooks]] [[H3452|the wasteland.]] ^2120
 
-Then Moses and Aaron gathered the assembly together before the rock, and he said to them, Hear now, you rebels : shall we bring water for you out of this rock? ^2010
+[[H3478|Then Israel]] [[H7971|sent]] [[H4397|messengers]] [[H413|to]] [[H5511|Sihon]] [[H4428|king]] [[H567|of the Amorites,]] [[H559|saying,]] ^2121
 
-And Moses lifted up his hand and struck the rock with his staff twice, and water came out abundantly, and the congregation drank, and their livestock. ^2011
+[[H5674|“Let us pass]] [[H776|through your land.]] [[H3808|We will not]] [[H5186|cut through]] [[H7704|any field]] [[H3754|or vineyard,]] ⟨or⟩ [[H3808|]] [[H8354|drink]] [[H4325|water]] [[H875|from any well.]] [[H1980|We will stay on]] [[H4428|the King’s]] [[H1870|Highway]] [[H5704|until]] [[H5674|we have passed through]] [[H1366|your territory.”]] ^2122
 
-And the Lord said to Moses and Aaron, Because you did not believe in me, to uphold me as holy in the eyes of the people of Israel, therefore you shall not bring this assembly into the land that I have given them. ^2012
+[[H5511|But Sihon]] [[H3808|would not]] [[H5414|let]] [[H3478|Israel]] [[H5674|pass]] [[H1366|through his territory.]] [[H5511|Instead, he]] [[H622|gathered]] [[H3605|his whole]] [[H5971|army]] [[H3318|and went out]] [[H7125|to confront]] [[H3478|Israel]] [[H4057|in the wilderness.]] [[H935|When he came]] [[H3096|to Jahaz,]] [[H3898|he fought]] [[H3478|against Israel.]] ^2123
 
-These are the waters of Meribah, where the people of Israel quarreled with the Lord, and through them he showed himself holy. ^2013
+[[H3478|And Israel]] [[H5221|put him]] [[H2719|to the sword]] [[H3423|and took possession of]] [[H776|his land,]] [[H769|from the Arnon]] [[H5704|to]] [[H2999|the Jabbok—]] [[H5704|but only up to]] [[H1366|the border]] [[H1121|of the Ammonites,]] [[H3588|because]] [[H5794|it was fortified.]] ^2124
 
-Moses sent messengers from Kadesh to the king of Edom : Thus says your brother Israel : You know all the hardship that we have met : ^2014
+[[H3478|Israel]] [[H3947|captured]] [[H3605|all]] [[H5892|the cities]] [[H567|of the Amorites]] [[H3427|and occupied]] ⟨them⟩ [[H3605|,]] [[H2809|including Heshbon]] [[H3605|and all]] [[H1323|its villages.]] ^2125
 
-how our fathers went down to Egypt, and we lived in Egypt a long time. And the Egyptians dealt harshly with us and our fathers. ^2015
+[[H2809|Heshbon]] [[H5892|was the city]] [[H5511|of Sihon]] [[H4428|king]] [[H567|of the Amorites,]] [[H1931|who]] [[H3898|had fought]] [[H7223|against the former]] [[H4428|king]] [[H4124|of Moab]] [[H3947|and taken]] [[H3605|all]] [[H776|his land]] [[H5704|as]] [[H769|far as the Arnon.]] ^2126
 
-And when we cried to the Lord, he heard our voice and sent an angel and brought us out of Egypt. And here we are in Kadesh, a city on the edge of your territory. ^2016
+[[H5921|That is why]] [[H4911|the poets]] [[H559|say:]] [[H935|“Come]] [[H2809|to Heshbon,]] [[H1129|let it be rebuilt;]] [[H5892|let the city]] [[H5511|of Sihon]] [[H3559|be restored.]] ^2127
 
-Please let us pass through your land. We will not pass through field or vineyard, or drink water from a well. We will go along the King’s Highway. We will not turn aside to the right hand or to the left until we have passed through your territory. ^2017
+[[H3588|For]] [[H784|a fire]] [[H3318|went out]] [[H2809|from Heshbon,]] [[H3852|a blaze]] [[H7151|from the city]] [[H5511|of Sihon.]] [[H398|It consumed]] [[H6144|Ar]] [[H4124|of Moab,]] [[H1167|the rulers]] [[H769|of Arnon’s]] [[H1116|heights.]] ^2128
 
-But Edom said to him, You shall not pass through, lest I come out with the sword against you. ^2018
+[[H188|Woe to you,]] [[H4124|O Moab!]] [[H6|You are destroyed,]] [[H5971|O people]] [[H3645|of Chemosh!]] [[H5414|He gave up]] [[H1121|his sons]] [[H6412|as refugees,]] [[H1323|and his daughters]] [[H7628|into captivity]] [[H5511|to Sihon]] [[H4428|king]] [[H567|of the Amorites.]] ^2129
 
-And the people of Israel said to him, We will go up by the highway, and if we drink of your water, I and my livestock, then I will pay for it. Let me only pass through on foot, nothing more. ^2019
+[[H3384|But we have overthrown them;]] [[H2809|Heshbon]] [[H6|is destroyed]] [[H5704|as far as]] [[H1769|Dibon.]] [[H8074|We demolished them]] [[H5704|as]] [[H5302|far as Nophah,]] [[H834|which]] [[H5704|reaches to]] [[H4311|Medeba.”]] ^2130
 
-But he said, You shall not pass through. And Edom came out against them with a large army and with a strong force. ^2020
+[[H3478|So Israel]] [[H3427|lived]] [[H776|in the land]] [[H567|of the Amorites.]] ^2131
 
-Thus Edom refused to give Israel passage through his territory, so Israel turned away from him. ^2021
+[[H4872|After Moses]] [[H7971|had sent]] [[H7270|spies]] [[H3270|to Jazer,]] [[H3920|Israel captured]] [[H1323|its villages]] [[H3423|and drove out]] [[H567|the Amorites]] [[H834|who]] [[H8033|were there.]] ^2132
 
-And they journeyed from Kadesh, and the people of Israel, the whole congregation, came to Mount Hor. ^2022
+[[H6437|Then they turned]] [[H5927|and went up]] [[H1870|the road]] [[H1316|to Bashan,]] [[H5747|and Og]] [[H4428|king]] [[H1316|of Bashan]] [[H3318|marched out]] [[H7125|against]] [[H1931|them]] [[H3605|with his whole]] [[H5971|army]] [[H4421|to do battle]] [[H154|at Edrei.]] ^2133
 
-And the Lord said to Moses and Aaron at Mount Hor, on the border of the land of Edom, ^2023
+[[H3068|But the LORD]] [[H559|said]] [[H413|to]] [[H4872|Moses,]] [[H408|“Do not]] [[H3372|fear him,]] [[H3588|for]] [[H3027|I have handed him over]] [[H853|to you,]] [[H3605|with all]] [[H5971|his people]] [[H776|and his land.]] [[H6213|Do]] [[H834|to him as]] [[H6213|you did]] [[H5511|to Sihon]] [[H4428|king]] [[H567|of the Amorites,]] [[H834|who]] [[H3427|lived]] [[H2809|in Heshbon.]] ^2134
 
-Let Aaron be gathered to his people, for he shall not enter the land that I have given to the people of Israel, because you rebelled against my command at the waters of Meribah. ^2024
+[[H5221|So they struck down]] ⟨Og⟩, [[H853|along with]] [[H1121|his sons]] [[H3605|and his whole]] [[H5971|army,]] [[H5704|until]] [[H1115|no]] [[H7604|remnant was left.]] [[H3423|And they took possession of]] [[H776|his land.]] ^2135
 
-Take Aaron and Eleazar his son and bring them up to Mount Hor. ^2025
+[[H1121|Then the Israelites]] [[H5265|traveled on]] [[H2583|and camped]] [[H6160|in the plains]] [[H4124|of Moab]] [[H3383|near the Jordan,]] [[H5676|across from]] [[H3405|Jericho.]] ^2201
 
-And strip Aaron of his garments and put them on Eleazar his son. And Aaron shall be gathered to his people and shall die there. ^2026
+[[H1111|Now Balak]] [[H1121|son]] [[H6834|of Zippor]] [[H7200|saw]] [[H3605|all]] [[H834|that]] [[H3478|Israel]] [[H6213|had done]] [[H567|to the Amorites,]] ^2202
 
-Moses did as the Lord commanded. And they went up Mount Hor in the sight of all the congregation. ^2027
+[[H4124|and Moab]] [[H1481|was terrified]] [[H6440|of]] [[H5971|the people]] [[H3588|because]] [[H1931|they]] [[H7227|were numerous.]] [[H4124|Indeed, Moab]] [[H6973|dreaded]] [[H1121|the Israelites.]] ^2203
 
-And Moses stripped Aaron of his garments and put them on Eleazar his son. And Aaron died there on the top of the mountain. Then Moses and Eleazar came down from the mountain. ^2028
+[[H4124|So the Moabites]] [[H559|said]] [[H413|to]] [[H2205|the elders]] [[H4080|of Midian,]] [[H6951|“This horde]] [[H3897|will devour]] [[H3605|everything]] [[H5439|around us,]] [[H7794|as an ox]] [[H3897|licks up]] [[H3418|the grass]] [[H7704|of the field.”]] [[H1111|Since Balak]] [[H1121|son]] [[H6834|of Zippor]] [[H4428|was king]] [[H4124|of Moab]] [[H1931|at that]] [[H6256|time,]] ^2204
 
-And when all the congregation saw that Aaron had perished, all the house of Israel wept for Aaron thirty days. ^2029
+[[H7971|he sent]] [[H4397|messengers]] [[H413|to]] [[H1109|Balaam]] [[H1121|son]] [[H1160|of Beor]] [[H6604|at Pethor,]] [[H834|which]] [[H5921|is by]] [[H5104|the Euphrates]] [[H776|in the land]] [[H1121|of his people.]] [[H2009|“Behold,]] [[H5971|a people]] [[H3318|has come out]] [[H4714|of Egypt,”]] [[H7121|said Balak.]] [[H3680|“They cover]] [[H5869|the face]] [[H776|of the land]] [[H3427|and have settled]] [[H4136|next to me.]] ^2205
 
+[[H4994|So please]] [[H1980|come]] [[H6258|now]] [[H779|and put a curse]] [[H2088|on these]] [[H5971|people,]] [[H3588|because]] [[H1931|they]] [[H6099|are too mighty]] [[H4480|for me.]] [[H194|Perhaps I may]] [[H3201|be able]] [[H5221|to defeat]] [[H1644|them  and drive them out]] [[H4480|of]] [[H776|the land;]] [[H3588|for]] [[H3045|I know]] [[H834|that those]] [[H1288|you bless]] [[H1288|are blessed,]] [[H834|and those]] [[H779|you curse]] [[H779|are cursed.]] ^2206
 
+[[H2205|The elders]] [[H4124|of Moab]] [[H4080|and Midian]] [[H1980|departed]] [[H7081|with the fees for divination]] [[H3027|in hand.]] [[H935|They came]] [[H413|to]] [[H1109|Balaam]] [[H1696|and relayed]] [[H413|to him]] [[H1697|the words]] [[H1111|of Balak.]] ^2207
 
-When the Canaanite, the king of Arad, who lived in the Negeb, heard that Israel was coming by the way of Atharim, he fought against Israel, and took some of them captive. ^2101
+[[H3885|“Spend]] [[H3915|the night]] [[H6311|here,”]] ⟨Balaam⟩ [[H559|replied,]] [[H7725|“and I will give]] [[H1697|you the answer]] [[H3068|the LORD]] [[H1696|speaks]] [[H413|to me.”]] [[H8269|So the princes]] [[H4124|of Moab]] [[H3427|stayed]] [[H5973|with]] [[H1109|Balaam.]] ^2208
 
-And Israel vowed a vow to the Lord and said, If you will indeed give this people into my hand, then I will devote their cities to destruction. ^2102
+[[H430|Then God]] [[H935|came]] [[H413|to]] [[H1109|Balaam]] [[H559|and asked,]] [[H4310|“Who]] [[H428|are these]] [[H582|men]] [[H5973|with you?”]] ^2209
 
-And the Lord heeded the voice of Israel and gave over the Canaanites, and they devoted them and their cities to destruction. So the name of the place was called Hormah. ^2103
+[[H1109|And Balaam]] [[H559|said]] [[H413|to]] [[H430|God,]] [[H1111|“Balak]] [[H1121|son]] [[H6834|of Zippor,]] [[H4428|king]] [[H4124|of Moab,]] [[H7971|sent me]] [[H413|this message:]] ^2210
 
-From Mount Hor they set out by the way to the Red Sea, to go around the land of Edom. And the people became impatient on the way. ^2104
+[[H2009|‘Behold,]] [[H5971|a people]] [[H3318|has come out]] [[H4714|of Egypt,]] [[H3680|and they cover]] [[H5869|the face]] [[H776|of the land.]] [[H6258|Now]] [[H1980|come]] [[H6895|and put a curse]] [[H853|on them]] [[H194|for me.  Perhaps I may]] [[H3201|be able]] [[H3898|to fight]] [[H1644|against them  and drive them away.’”]] ^2211
 
-And the people spoke against God and against Moses, Why have you brought us up out of Egypt to die in the wilderness? For there is no food and no water, and we loathe this worthless food. ^2105
+[[H430|But God]] [[H559|said]] [[H413|to]] [[H1109|Balaam,]] [[H3808|“Do not]] [[H1980|go]] [[H5973|with them.]] [[H3808|You are not]] [[H779|to curse]] [[H5971|this people,]] [[H3588|for]] [[H1931|they]] [[H1288|are blessed.”]] ^2212
 
-Then the Lord sent fiery serpents among the people, and they bit the people, so that many people of Israel died. ^2106
+[[H1109|So Balaam]] [[H6965|got up]] [[H1242|the next morning]] [[H559|and said]] [[H413|to]] [[H1111|Balak’s]] [[H8269|princes,]] [[H1980|“Go back]] [[H413|to]] [[H776|your homeland,]] [[H3588|because]] [[H3068|the LORD]] [[H3985|has refused]] [[H5414|to let]] [[H1980|me go]] [[H5973|with you.”]] ^2213
 
-And the people came to Moses and said, We have sinned, for we have spoken against the Lord and against you. Pray to the Lord, that he take away the serpents from us. So Moses prayed for the people. ^2107
+[[H8269|And the princes]] [[H4124|of Moab]] [[H6965|arose,]] [[H935|returned]] [[H413|to]] [[H1111|Balak,]] [[H559|and said,]] [[H1109|“Balaam]] [[H3985|refused]] [[H1980|to come]] [[H5973|with us.”]] ^2214
 
-And the Lord said to Moses, Make a fiery serpent and set it on a pole, and everyone who is bitten, when he sees it, shall live. ^2108
+[[H1111|Then Balak]] [[H7971|sent]] [[H3254|other]] [[H8269|princes,]] [[H7227|more numerous]] [[H3513|and more distinguished]] [[H428|than the]] ⟨first messengers⟩. ^2215
 
-So Moses made a bronze serpent and set it on a pole. And if a serpent bit anyone, he would look at the bronze serpent and live. ^2109
+[[H935|They came]] [[H413|to]] [[H1109|Balaam]] [[H559|and said,]] [[H3541|“This is what]] [[H1111|Balak]] [[H1121|son]] [[H6834|of Zippor]] [[H559|says:]] [[H4994|‘Please]] [[H408|let nothing]] [[H4513|hinder]] [[H1980|you from coming]] [[H413|to me,]] ^2216
 
-And the people of Israel set out and camped in Oboth. ^2110
+[[H3588|for]] [[H3513|I will honor you]] [[H3966|richly]] [[H6213|and do]] [[H3605|whatever]] [[H559|you say.]] [[H4994|So please]] [[H1980|come]] [[H6895|and put a curse]] [[H2088|on these]] [[H5971|people for me!’”]] ^2217
 
-And they set out from Oboth and camped at Iye-abarim, in the wilderness that is opposite Moab, toward the sunrise. ^2111
+[[H1109|But Balaam]] [[H6030|replied]] [[H413|to]] [[H5650|the servants]] [[H1111|of Balak,]] [[H518|“If]] [[H1111|Balak]] [[H5414|were to give]] [[H1004|me his house]] [[H4393|full]] [[H3701|of silver]] [[H2091|and gold,]] [[H3201|I could]] [[H3808|not]] [[H6213|do]] [[H6996|anything small]] [[H176|or]] [[H1419|great]] [[H5674|to go beyond]] [[H6310|the command]] [[H3068|of the LORD]] [[H430|my God.]] ^2218
 
-From there they set out and camped in the Valley of Zered. ^2112
+[[H6258|So now,]] [[H4994|please]] [[H3427|stay]] [[H2088|here]] [[H3915|overnight]] [[H1571|as the others did,]] [[H3045|that I may find out]] [[H4100|what]] [[H3254|else]] [[H3068|the LORD]] [[H1696|has to tell me.”]] ^2219
 
-From there they set out and camped on the other side of the Arnon, which is in the wilderness that extends from the border of the Amorites, for the Arnon is the border of Moab, between Moab and the Amorites. ^2113
+[[H3915|That night]] [[H430|God]] [[H935|came]] [[H413|to]] [[H1109|Balaam]] [[H559|and said,]] [[H518|“Since]] [[H376|these men]] [[H935|have come]] [[H7121|to summon you,]] [[H6965|get up]] [[H1980|and go]] [[H854|with them,]] [[H389|but you must only]] [[H6213|do]] [[H834|what]] [[H1696|I tell you.”]] ^2220
 
-Therefore it is said in the Book of the Wars of the Lord, Waheb in Suphah, and the valleys of the Arnon, ^2114
+[[H1109|So Balaam]] [[H6965|got up]] [[H1242|in the morning,]] [[H2280|saddled]] [[H860|his donkey,]] [[H1980|and went]] [[H5973|with]] [[H8269|the princes]] [[H4124|of Moab.]] ^2221
 
-and the slope of the valleys that extends to the seat of Ar, and leans to the border of Moab. ^2115
+[[H430|Then God’s]] [[H639|anger]] [[H2734|was kindled]] [[H3588|because]] [[H1931|Balaam]] [[H1980|was going along,]] [[H4397|and the Angel]] [[H3068|of the LORD]] [[H3320|stood]] [[H1870|in the road]] [[H7854|to oppose him.]] [[H1931|Balaam]] [[H7392|was riding]] [[H860|his donkey,]] [[H8147|and his two]] [[H5288|servants]] [[H5973|were with him.]] ^2222
 
-And from there they continued to Beer; that is the well of which the Lord said to Moses, Gather the people together, so that I may give them water. ^2116
+[[H860|When the donkey]] [[H7200|saw]] [[H4397|the Angel]] [[H3068|of the LORD]] [[H5324|standing]] [[H1870|in the road]] [[H8025|with a drawn]] [[H2719|sword]] [[H3027|in His hand,]] [[H860|she]] [[H5186|turned]] [[H4480|off]] [[H1870|the path]] [[H1980|and went]] [[H7704|into a field.]] [[H1109|So Balaam]] [[H5221|beat]] [[H860|her]] [[H5186|to return her]] [[H1870|to the path.]] ^2223
 
-Then Israel sang this song : Spring up, O well !— Sing to it!— ^2117
+[[H4397|Then the Angel]] [[H3068|of the LORD]] [[H5975|stood]] [[H4934|in a narrow passage]] [[H3754|between two vineyards,]] [[H1447|with walls]] [[H2088|on either side.]] ^2224
 
-the well that the princes made, that the nobles of the people dug, with the scepter and with their staffs. And from the wilderness they went on to Mattanah, ^2118
+[[H860|And the donkey]] [[H7200|saw]] [[H4397|the Angel]] [[H3068|of the LORD]] [[H3905|and pressed]] [[H413|herself against]] [[H7023|the wall,]] [[H3905|crushing]] [[H1109|Balaam’s]] [[H7272|foot]] [[H413|against]] [[H7023|it.]] [[H5221|So he beat her]] [[H3254|once again.]] ^2225
 
-and from Mattanah to Nahaliel, and from Nahaliel to Bamoth, ^2119
+[[H4397|And the Angel]] [[H3068|of the LORD]] [[H5674|moved]] [[H3254|on ahead]] [[H5975|and stood]] [[H6862|in a narrow]] [[H4725|place]] [[H834|where]] [[H369|there was no]] [[H1870|room]] [[H5186|to turn]] [[H3225|to the right]] [[H8040|or left.]] ^2226
 
-and from Bamoth to the valley lying in the region of Moab by the top of Pisgah that looks down on the desert. ^2120
+[[H860|When the donkey]] [[H7200|saw]] [[H4397|the Angel]] [[H3068|of the LORD,]] [[H7257|she lay down]] [[H8478|under]] [[H1109|Balaam,]] [[H1109|and]] ⟨he⟩ [[H2734|became furious]] [[H5221|and beat]] ⟨her⟩ [[H860|]] [[H4731|with his staff.]] ^2227
 
-Then Israel sent messengers to Sihon king of the Amorites, saying, ^2121
+[[H3068|Then the LORD]] [[H6605|opened]] [[H860|the donkey’s]] [[H6310|mouth,]] [[H559|and she said]] [[H1109|to Balaam,]] [[H4100|“What]] [[H6213|have I done]] [[H3588|to you  that]] [[H5221|you have beaten]] [[H2088|me these]] [[H7969|three]] [[H7272|times?”]] ^2228
 
-Let me pass through your land. We will not turn aside into field or vineyard. We will not drink the water of a well. We will go by the King’s Highway until we have passed through your territory. ^2122
+[[H1109|Balaam]] [[H559|answered]] [[H860|the donkey,]] [[H5953|“You have made a fool of me!]] [[H3863|If]] [[H3426|I had]] [[H2719|a sword]] [[H3027|in my hand,]] [[H2026|I would kill you]] [[H6258|right now!”]] ^2229
 
-But Sihon would not allow Israel to pass through his territory. He gathered all his people together and went out against Israel to the wilderness and came to Jahaz and fought against Israel. ^2123
+[[H860|But the donkey]] [[H559|said]] [[H1109|to Balaam,]] [[H595|“Am I]] [[H3808|not]] [[H860|the donkey]] [[H7392|you have ridden]] [[H5750|all your life]] [[H5704|until today?]] [[H6213|Have I ever treated]] [[H3541|you  this way]] [[H5532|before?”]] [[H3808|“No,”]] [[H559|he replied.]] ^2230
 
-And Israel defeated him with the edge of the sword and took possession of his land from the Arnon to the Jabbok, as far as to the Ammonites, for the border of the Ammonites was strong. ^2124
+[[H3068|Then the LORD]] [[H1540|opened]] [[H1109|Balaam’s]] [[H5869|eyes,]] [[H7200|and he saw]] [[H4397|the Angel]] [[H3068|of the LORD]] [[H5324|standing]] [[H1870|in the road]] [[H8025|with a drawn]] [[H2719|sword]] [[H3027|in His hand.]] [[H7812|And Balaam bowed low]] [[H639|and fell facedown.]] ^2231
 
-And Israel took all these cities, and Israel settled in all the cities of the Amorites, in Heshbon, and in all its villages. ^2125
+[[H4397|The Angel]] [[H3068|of the LORD]] [[H559|asked him,]] [[H5921|“Why]] [[H5221|have you beaten]] [[H860|your donkey]] [[H2088|these]] [[H7969|three]] [[H7272|times?]] [[H2009|Behold,]] [[H595|I]] [[H3318|have come out]] [[H7854|to oppose you,]] [[H3588|because]] [[H1870|your way]] [[H3399|is perverse]] [[H5048|before me.]] ^2232
 
-For Heshbon was the city of Sihon the king of the Amorites, who had fought against the former king of Moab and taken all his land out of his hand, as far as the Arnon. ^2126
+[[H860|The donkey]] [[H7200|saw]] [[H5186|me and turned away]] [[H6440|from me]] [[H2088|these]] [[H7969|three]] [[H7272|times.]] [[H194|If she had not]] [[H5186|turned away,]] [[H2026|I would surely have killed]] [[H853|you]] [[H6258|by now,]] [[H2421|and let her live.”]] ^2233
 
-Therefore the ballad singers say, Come to Heshbon, let it be built; let the city of Sihon be established. ^2127
+[[H2398|“I have sinned,”]] [[H1109|Balaam]] [[H559|said]] [[H413|to]] [[H4397|the Angel]] [[H3068|of the LORD,]] [[H3588|“for]] [[H3808|I did not]] [[H3045|realize]] [[H3588|that]] [[H859|you]] [[H5324|were standing]] [[H1870|in the road]] [[H7125|to confront me.]] [[H6258|And now,]] [[H518|if]] [[H7451|this is displeasing]] [[H5869|in Your sight,]] [[H7725|I will go back.”]] ⟨home⟩ ^2234
 
-For fire came out from Heshbon, flame from the city of Sihon. It devoured Ar of Moab, and swallowed the heights of the Arnon. ^2128
+[[H4397|But the Angel]] [[H3068|of the LORD]] [[H559|said]] [[H413|to]] [[H1109|Balaam,]] [[H1980|“Go]] [[H5973|with]] [[H376|the men,]] [[H1696|but you are to speak]] [[H657|only]] [[H834|what]] [[H1696|I tell you.”]] [[H1109|So Balaam]] [[H1980|went]] [[H5973|with]] [[H8269|the princes]] [[H1111|of Balak.]] ^2235
 
-Woe to you, O Moab! You are undone, O people of Chemosh! He has made his sons fugitives, and his daughters captives, to an Amorite king, Sihon. ^2129
+[[H1111|When Balak]] [[H8085|heard]] [[H3588|that]] [[H1109|Balaam]] [[H935|was coming,]] [[H3318|he went out]] [[H7125|to meet]] [[H413|him at]] [[H4124|the Moabite]] [[H5892|city]] [[H5921|on]] [[H769|the Arnon]] [[H1366|border,]] [[H7097|at the edge]] [[H1366|of his territory.]] ^2236
 
-So we overthrew them; Heshbon, as far as Dibon, perished; and we laid waste as far as Nophah; fire spread as far as Medeba. ^2130
+[[H1111|And]] ⟨he⟩ [[H559|said to]] [[H1109|Balaam,]] [[H3808|“Did I not]] [[H7971|send you an urgent summons?]] [[H4100|Why]] [[H1980|did you not come]] [[H413|to me?]] [[H552|Am I really]] [[H3808|not]] [[H3201|able]] [[H3513|to richly reward you?”]] ^2237
 
-Thus Israel lived in the land of the Amorites. ^2131
+[[H2009|“See,]] [[H935|I have come]] [[H413|to you,”]] [[H1109|Balaam]] [[H559|replied,]] [[H3201|“but can]] [[H1696|I say]] [[H3972|just anything?]] [[H1696|I must speak]] [[H1697|only the word]] [[H834|that]] [[H430|God]] [[H7760|puts]] [[H6310|in my mouth.”]] ^2238
 
-And Moses sent to spy out Jazer, and they captured its villages and dispossessed the Amorites who were there. ^2132
+[[H1109|So Balaam]] [[H1980|accompanied]] [[H1111|Balak,]] [[H935|and they came]] [[H7155|to Kiriath-huzoth.]] ^2239
 
-Then they turned and went up by the way to Bashan. And Og the king of Bashan came out against them, he and all his people, to battle at Edrei. ^2133
+[[H1111|Balak]] [[H2076|sacrificed]] [[H1241|cattle]] [[H6629|and sheep,]] [[H7971|and he gave]] ⟨portions⟩ [[H1109|to Balaam]] [[H8269|and the princes]] [[H834|who]] [[H854|were with him.]] ^2240
 
-But the Lord said to Moses, Do not fear him, for I have given him into your hand, and all his people, and his land. And you shall do to him as you did to Sihon king of the Amorites, who lived at Heshbon. ^2134
+[[H1242|The next morning,]] [[H1111|Balak]] [[H3947|took]] [[H1109|Balaam]] [[H5927|and brought him]] [[H1120|up to Bamoth-baal.]] [[H8033|From there]] [[H7200|he could see]] [[H7097|the outskirts of the camp]] [[H5971|of the people.]] ^2241
 
-So they defeated him and his sons and all his people, until he had no survivor left. And they possessed his land. ^2135
+[[H1109|Then Balaam]] [[H559|said]] [[H413|to]] [[H1111|Balak,]] [[H1129|“Build]] [[H7651|me  seven]] [[H4196|altars]] [[H2088|here,]] [[H3559|and prepare]] [[H7651|for me  seven]] [[H6499|bulls]] [[H7651|and seven]] [[H352|rams.”]] ^2301
 
+[[H1111|So Balak]] [[H6213|did]] [[H834|as]] [[H1109|Balaam]] [[H1696|had directed,]] [[H1111|and Balak]] [[H1109|and Balaam]] [[H5927|offered]] [[H6499|a bull]] [[H352|and a ram]] [[H4196|on each altar.]] ^2302
 
+[[H3320|“Stay]] [[H5921|here by]] [[H5930|your burnt offering]] [[H1980|while I am gone,”]] [[H1109|Balaam]] [[H559|said]] [[H1111|to Balak.]] [[H194|“Perhaps]] [[H3068|the LORD]] [[H7125|will meet with me.]] [[H4100|And whatever]] [[H7200|He reveals to me,]] [[H5046|I will tell]] [[H1980|you.”  So went off]] ⟨Balaam⟩ [[H8205|to a barren height,]] ^2303
 
-Then the people of Israel set out and camped in the plains of Moab beyond the Jordan at Jericho. ^2201
+[[H430|and God]] [[H7136|met]] [[H413|with]] [[H1109|him.]] [[H6186|“I have set up]] [[H7651|seven]] [[H4196|altars,”]] [[H559|Balaam said,]] [[H4196|“and on each altar]] [[H5927|I have offered]] [[H6499|a bull]] [[H352|and a ram.”]] ^2304
 
-And Balak the son of Zippor saw all that Israel had done to the Amorites. ^2202
+[[H3068|Then the LORD]] [[H7760|put]] [[H1697|a message]] [[H1109|in Balaam’s]] [[H6310|mouth,]] [[H559|saying,]] [[H7725|“Return]] [[H413|to]] [[H1111|Balak]] [[H3541|and]] [[H1696|give him this message.”]] ^2305
 
-And Moab was in great dread of the people, because they were many. Moab was overcome with fear of the people of Israel. ^2203
+[[H7725|So he returned]] [[H413|to Balak,]] [[H1931|who]] [[H5324|was standing]] [[H2009|there]] [[H5921|beside]] [[H5930|his burnt offering,]] [[H3605|with all]] [[H8269|the princes]] [[H4124|of Moab.]] ^2306
 
-And Moab said to the elders of Midian, This horde will now lick up all that is around us, as the ox licks up the grass of the field. So Balak the son of Zippor, who was king of Moab at that time, ^2204
+[[H5375|And Balaam lifted up]] [[H4912|an oracle,]] [[H559|saying:]] [[H1111|“Balak]] [[H5148|brought]] [[H4480|me from]] [[H758|Aram,]] [[H4428|the king]] [[H4124|of Moab]] [[H2042|from the mountains]] [[H6924|of the east.]] [[H1980|‘Come,’ he said,]] [[H779|‘put a curse]] [[H3290|on Jacob]] [[H1980|for me;  come,]] [[H2194|denounce]] [[H3478|Israel!’]] ^2307
 
-sent messengers to Balaam the son of Beor at Pethor, which is near the River in the land of the people of Amaw, to call him, saying, Behold, a people has come out of Egypt. They cover the face of the earth, and they are dwelling opposite me. ^2205
+[[H4100|How]] [[H6895|can I curse]] ⟨what⟩ [[H410|God]] [[H3808|has not]] [[H5344|cursed?]] [[H4100|How]] [[H2194|can I denounce]] ⟨what⟩ [[H3068|the LORD]] [[H3808|has not]] [[H2194|denounced?]] ^2308
 
-Come now, curse this people for me, since they are too mighty for me. Perhaps I shall be able to defeat them and drive them from the land, for I know that he whom you bless is blessed, and he whom you curse is cursed. ^2206
+[[H3588|For]] [[H7200|I see them]] [[H7218|from atop]] [[H6697|the rocky cliffs,]] [[H7789|and I watch them]] [[H1389|from the hills.]] [[H2005|Behold,]] [[H5971|a people]] [[H7931|dwelling]] [[H910|apart,]] ⟨who⟩ [[H3808|will not]] [[H2803|reckon themselves]] [[H1471|among the nations.]] ^2309
 
-So the elders of Moab and the elders of Midian departed with the fees for divination in their hand. And they came to Balaam and gave him Balak’s message. ^2207
+[[H4310|Who]] [[H4487|can count]] [[H6083|the dust]] [[H3290|of Jacob]] [[H4557|or number]] ⟨even⟩ [[H7255|a fourth]] [[H3478|of Israel?]] [[H5315|Let me]] [[H4191|die]] [[H4194|the death]] [[H3477|of the righteous;]] [[H319|let my end]] [[H1961|be]] [[H3644|like theirs!”]] ^2310
 
-And he said to them, Lodge here tonight, and I will bring back word to you, as the Lord speaks to me. So the princes of Moab stayed with Balaam. ^2208
+[[H4100|“What]] [[H6213|have you done to me?”]] [[H1111|Balak]] [[H559|said]] [[H413|to]] [[H1109|Balaam.]] [[H3947|“I brought]] [[H6895|you to curse]] [[H341|my enemies,]] [[H2009|and behold,]] [[H1288|you have only blessed]] [[H1288|them!”]] ^2311
 
-And God came to Balaam and said, Who are these men with you? ^2209
+[[H6030|But replied,]] ⟨Balaam⟩ [[H3808|“Should I not]] [[H1696|speak]] [[H834|exactly what]] [[H3068|the LORD]] [[H7760|puts]] [[H6310|in my mouth?”]] ^2312
 
-And Balaam said to God, Balak the son of Zippor, king of Moab, has sent to me, saying, ^2210
+[[H1111|Then Balak]] [[H559|said]] [[H413|to him,]] [[H1980|“Please come]] [[H854|with]] [[H413|me to]] [[H312|another]] [[H4725|place]] [[H834|where]] [[H7200|you can see them.]] [[H657|You will only]] [[H7200|see]] [[H7097|the outskirts of their camp—]] [[H3808|not]] [[H3605|all of them.]] [[H8033|And from there,]] [[H6895|curse them for me.”]] ^2313
 
-Behold, a people has come out of Egypt, and it covers the face of the earth. Now come, curse them for me. Perhaps I shall be able to fight against them and drive them out. ^2211
+[[H3947|So Balak took him]] [[H7704|to the field]] [[H6839|of Zophim,]] [[H413|to the]] [[H7218|top]] [[H6449|of Pisgah,]] [[H1129|where he built]] [[H7651|seven]] [[H4196|altars]] [[H5927|and offered]] [[H6499|a bull]] [[H352|and a ram]] [[H4196|on each altar.]] ^2314
 
-God said to Balaam, You shall not go with them. You shall not curse the people, for they are blessed. ^2212
+[[H559|Balaam said]] [[H413|to]] [[H1111|Balak,]] [[H3320|“Stay]] [[H3541|here]] [[H5921|beside]] [[H5930|your burnt offering]] [[H595|while I]] [[H7136|meet]] ⟨the LORD⟩ [[H3541|over there.”]] ^2315
 
-So Balaam rose in the morning and said to the princes of Balak, Go to your own land, for the Lord has refused to let me go with you. ^2213
+[[H3068|And the LORD]] [[H7136|met]] [[H413|with]] [[H1109|Balaam]] [[H7760|and put]] [[H1697|a message]] [[H6310|in his mouth,]] [[H559|saying,]] [[H7725|“Return]] [[H413|to]] [[H1111|Balak]] [[H1696|and speak]] [[H3541|what I tell you.”]] ^2316
 
-So the princes of Moab rose and went to Balak and said, Balaam refuses to come with us. ^2214
+[[H935|So he returned]] [[H413|to Balak,]] [[H5324|who was standing]] [[H2009|there]] [[H5921|by]] [[H5930|his burnt offering]] [[H854|with]] [[H8269|the princes]] [[H4124|of Moab.]] [[H4100|“What]] [[H3068|did the LORD]] [[H1696|say?”]] [[H1111|Balak]] [[H559|asked.]] ^2317
 
-Once again Balak sent princes, more in number and more honorable than these. ^2215
+[[H5375|Then Balaam lifted up]] [[H4912|an oracle,]] [[H559|saying:]] [[H6965|“Arise,]] [[H1111|O Balak,]] [[H8085|and listen;]] [[H238|give]] [[H5704|ear to me,]] [[H1121|O son]] [[H6834|of Zippor.]] ^2318
 
-And they came to Balaam and said to him, Thus says Balak the son of Zippor : Let nothing hinder you from coming to me, ^2216
+[[H410|God]] [[H3808|is not]] [[H376|a man,]] [[H3576|that He should lie,]] [[H1121|or a son]] [[H120|of man,]] [[H5162|that He should change His mind.]] [[H1931|Does He]] [[H559|speak]] [[H3808|and not]] [[H6213|act?]] [[H1696|Does He promise]] [[H3808|and not]] [[H6965|fulfill?]] ^2319
 
-for I will surely do you great honor, and whatever you say to me I will do. Come, curse this people for me. ^2217
+[[H2009|I have indeed]] [[H3947|received]] [[H1288|a command to bless;]] [[H1288|He has blessed,]] [[H3808|and I cannot]] [[H7725|change it.]] ^2320
 
-But Balaam answered and said to the servants of Balak, Though Balak were to give me his house full of silver and gold, I could not go beyond the command of the Lord my God to do less or more. ^2218
+[[H5027|He considers]] [[H3808|no]] [[H205|disaster]] [[H3290|for Jacob;]] [[H7200|He sees]] [[H3808|no]] [[H5999|trouble]] [[H3478|for Israel.]] [[H3068|The LORD]] [[H430|their God]] [[H5973|is with them,]] [[H8643|and the shout]] [[H4428|of the King]] ^2321
 
-So you, too, please stay here tonight, that I may know what more the Lord will say to me. ^2219
+[[H410|God]] [[H3318|brought them out]] [[H4714|of Egypt]] [[H8443|with strength]] [[H7214|like a wild ox.]] ^2322
 
-And God came to Balaam at night and said to him, If the men have come to call you, rise, go with them; but only do what I tell you. ^2220
+[[H3588|For]] [[H3808|there is no]] [[H5173|spell]] [[H3290|against Jacob]] [[H3808|and no]] [[H7081|divination]] [[H3478|against Israel.]] [[H6256|It will now]] [[H559|be said]] [[H3290|of Jacob]] [[H3478|and Israel,]] [[H4100|‘What]] [[H410|great things God]] [[H6466|has done!’]] ^2323
 
-So Balaam rose in the morning and saddled his donkey and went with the princes of Moab. ^2221
+[[H2005|Behold,]] [[H5971|the people]] [[H6965|rise]] [[H3833|like a lioness;]] [[H5375|they rouse themselves]] [[H738|like a lion,]] [[H3808|not]] [[H7901|resting]] [[H5704|until]] [[H398|they devour]] [[H2964|their prey]] [[H8354|and drink]] [[H1818|the blood]] [[H2491|of the slain.”]] ^2324
 
-But God’s anger was kindled because he went, and the angel of the Lord took his stand in the way as his adversary. Now he was riding on the donkey, and his two servants were with him. ^2222
+[[H1111|Then Balak]] [[H559|said]] [[H413|to]] [[H1109|Balaam,]] [[H1571|“Neither]] [[H5344|curse]] [[H6895|them at all]] [[H3808|nor]] [[H1288|bless]] [[H1288|them at all!”]] ^2325
 
-And the donkey saw the angel of the Lord standing in the road, with a drawn sword in his hand. And the donkey turned aside out of the road and went into the field. And Balaam struck the donkey, to turn her into the road. ^2223
+[[H1109|But Balaam]] [[H6030|replied,]] [[H3808|“Did I not]] [[H1696|tell you that]] [[H3605|whatever]] [[H3068|the LORD]] [[H1696|says,]] [[H6213|I must do?”]] ^2326
 
-Then the angel of the Lord stood in a narrow path between the vineyards, with a wall on either side. ^2224
+[[H4994|“Please]] [[H1980|come,”]] [[H559|said]] [[H1111|Balak,]] [[H3947|“I will take]] [[H413|you to]] [[H312|another]] [[H4725|place.]] [[H194|Perhaps]] [[H3477|it will please]] [[H430|God]] [[H6895|that you curse them]] [[H8033|for me  from there.”]] ^2327
 
-And when the donkey saw the angel of the Lord, she pushed against the wall and pressed Balaam’s foot against the wall. So he struck her again. ^2225
+[[H1111|And Balak]] [[H3947|took]] [[H1109|Balaam]] [[H7218|to the top]] [[H6465|of Peor,]] [[H8259|which overlooks]] [[H3452|the wasteland.]] ^2328
 
-Then the angel of the Lord went ahead and stood in a narrow place, where there was no way to turn either to the right or to the left. ^2226
+[[H1129|“Build]] [[H7651|me seven]] [[H4196|altars]] [[H2088|here,”]] [[H1109|Balaam]] [[H559|said,]] [[H3559|“and prepare]] [[H7651|for me  seven]] [[H6499|bulls]] [[H7651|and seven]] [[H352|rams.”]] ^2329
 
-When the donkey saw the angel of the Lord, she lay down under Balaam. And Balaam’s anger was kindled, and he struck the donkey with his staff. ^2227
+[[H1111|So Balak]] [[H6213|did]] [[H834|as]] [[H1109|Balaam]] [[H559|had instructed,]] [[H5927|and he offered]] [[H6499|a bull]] [[H352|and a ram]] [[H4196|on each altar.]] ^2330
 
-Then the Lord opened the mouth of the donkey, and she said to Balaam, What have I done to you, that you have struck me these three times? ^2228
+[[H1109|And when Balaam]] [[H7200|saw]] [[H3588|that]] [[H2895|it pleased]] [[H3068|the LORD]] [[H1288|to bless]] [[H3478|Israel,]] [[H3808|he did not]] [[H1980|resort]] [[H5173|to sorcery]] [[H6471|as on previous occasions,]] [[H7896|but he turned]] [[H6440|his face]] [[H413|toward]] [[H4057|the wilderness.]] ^2401
 
-And Balaam said to the donkey, Because you have made a fool of me. I wish I had a sword in my hand, for then I would kill you. ^2229
+[[H1109|When Balaam]] [[H5375|looked up]] [[H7200|and saw]] [[H3478|Israel]] [[H7931|encamped]] [[H7626|tribe by tribe,]] [[H7307|the Spirit]] [[H430|of God]] [[H1961|came]] [[H5921|upon him,]] ^2402
 
-And the donkey said to Balaam, Am I not your donkey, on which you have ridden all your life long to this day? Is it my habit to treat you this way? And he said, No. ^2230
+[[H5375|and he lifted up]] [[H4912|an oracle,]] [[H559|saying:]] [[H5002|“ the prophecy]] ⟨This is⟩ [[H1109|of Balaam]] [[H1121|son]] [[H1160|of Beor,]] [[H5002|the prophecy]] [[H1397|of a man]] [[H5869|whose eyes]] [[H8365|are open,]] ^2403
 
-Then the Lord opened the eyes of Balaam, and he saw the angel of the Lord standing in the way, with his drawn sword in his hand. And he bowed down and fell on his face. ^2231
+[[H5002|the prophecy]] [[H8085|of one who hears]] [[H561|the words]] [[H410|of God,]] [[H834|who]] [[H2372|sees]] [[H4236|a vision]] [[H7706|from the Almighty,]] [[H5307|who bows down]] [[H5869|with eyes]] [[H1540|wide open:]] ^2404
 
-And the angel of the Lord said to him, Why have you struck your donkey these three times? Behold, I have come out to oppose you because your way is perverse before me. ^2232
+[[H4100|How]] [[H2895|beautiful]] [[H168|are your tents,]] [[H3290|O Jacob,]] [[H4908|your dwellings,]] [[H3478|O Israel!]] ^2405
 
-The donkey saw me and turned aside before me these three times. If she had not turned aside from me, surely just now I would have killed you and let her live. ^2233
+[[H5186|They spread out]] [[H5158|like palm groves,]] [[H1593|like gardens]] [[H5921|beside]] [[H5104|a stream,]] [[H174|like aloes]] [[H3068|the LORD]] [[H5193|has planted,]] [[H730|like cedars]] [[H5921|beside]] [[H4325|the waters.]] ^2406
 
-Then Balaam said to the angel of the Lord, I have sinned, for I did not know that you stood in the road against me. Now therefore, if it is evil in your sight, I will turn back. ^2234
+[[H4325|Water]] [[H5140|will flow]] [[H1805|from his buckets,]] [[H2233|and his seed]] [[H7227|will have abundant]] [[H4325|water.]] [[H4428|His king]] [[H7311|will be greater]] [[H90|than Agag,]] [[H4438|and his kingdom]] [[H5375|will be exalted.]] ^2407
 
-And the angel of the Lord said to Balaam, Go with the men, but speak only the word that I tell you. So Balaam went on with the princes of Balak. ^2235
+[[H410|God]] [[H3318|brought him]] [[H4714|out of Egypt]] [[H8443|with strength]] [[H7214|like a wild ox,]] [[H398|to devour]] [[H6862|hostile]] [[H1471|nations]] [[H1633|and crush]] [[H6106|their bones,]] [[H4272|to pierce them]] [[H2671|with arrows.]] ^2408
 
-When Balak heard that Balaam had come, he went out to meet him at the city of Moab, on the border formed by the Arnon, at the extremity of the border. ^2236
+[[H3766|He crouches,]] [[H7901|he lies down]] [[H738|like a lion;]] [[H3833|like a lioness,]] [[H4310|who]] [[H6965|dares to rouse him?]] [[H1288|Blessed are]] [[H1288|those who bless you]] [[H779|and cursed are]] [[H779|those who curse you.]] ^2409
 
-And Balak said to Balaam, Did I not send to you to call you? Why did you not come to me? Am I not able to honor you? ^2237
+[[H1111|Then Balak’s]] [[H639|anger]] [[H2734|burned]] [[H413|against]] [[H1109|Balaam,]] [[H3709|and he struck his hands]] [[H5606|together]] [[H559|and said]] [[H413|to]] [[H1109|Balaam,]] [[H7121|“I summoned you]] [[H6895|to curse]] [[H341|my enemies,]] [[H2009|but behold,]] [[H1288|you have persisted]] [[H1288|in blessing]] ⟨them⟩ [[H2088|these]] [[H7969|three]] [[H6471|times.]] ^2410
 
-Balaam said to Balak, Behold, I have come to you! Have I now any power of my own to speak anything? The word that God puts in my mouth, that must I speak. ^2238
+[[H1272|Therefore, flee]] [[H6258|at once]] [[H413|to]] [[H4725|your home!]] [[H559|I said]] [[H3513|I would richly reward you,]] [[H2009|but instead]] [[H3068|the LORD]] [[H4513|has denied]] [[H3519|your reward.”]] ^2411
 
-Then Balaam went with Balak, and they came to Kiriath-huzoth. ^2239
+[[H1109|Balaam]] [[H559|answered]] [[H1111|Balak,]] [[H3808|“Did I not]] [[H1571|already]] [[H1696|tell]] [[H4397|the messengers]] [[H7971|you sent me]] ^2412
 
-And Balak sacrificed oxen and sheep, and sent for Balaam and for the princes who were with him. ^2240
+[[H518|that even if]] [[H1111|Balak]] [[H5414|were to give]] [[H1004|me  his house]] [[H4393|full]] [[H3701|of silver]] [[H2091|and gold,]] [[H3201|I could]] [[H3808|not]] [[H6213|do]] [[H3820|anything of my own accord,]] [[H2896|good]] [[H176|or]] [[H7451|bad,]] [[H5674|to go beyond]] [[H6310|the command]] [[H3068|of the LORD?]] [[H1696|I will speak]] [[H834|whatever]] [[H3068|the LORD]] [[H1696|says.]] ^2413
 
-And in the morning Balak took Balaam and brought him up to Bamoth-baal, and from there he saw a fraction of the people. ^2241
+[[H6258|Now]] [[H1980|I am going back]] [[H5971|to my people,]] [[H1980|but come,]] [[H3289|let me warn you]] [[H834|what]] [[H2088|this]] [[H5971|people]] [[H6213|will do]] [[H5971|to your people]] [[H3117|in the days]] [[H319|to come.”]] ^2414
 
+[[H5375|Then lifted up]] ⟨Balaam⟩ [[H4912|an oracle,]] [[H559|saying,]] [[H5002|“ the prophecy]] ⟨This is⟩ [[H1109|of Balaam]] [[H1121|son]] [[H1160|of Beor,]] [[H5002|the prophecy]] [[H1397|of a man]] [[H5869|whose eyes]] [[H8365|are open,]] ^2415
 
+[[H5002|the prophecy]] [[H8085|of one who hears]] [[H561|the words]] [[H410|of God,]] [[H3045|who has knowledge]] [[H5945|from the Most High,]] [[H2372|who sees]] [[H4236|a vision]] [[H7706|from the Almighty,]] [[H5307|who bows down]] [[H5869|with eyes]] [[H1540|wide open:]] ^2416
 
-And Balaam said to Balak, Build for me here seven altars, and prepare for me here seven bulls and seven rams. ^2301
+[[H7200|I see him,]] [[H3808|but not]] [[H6258|now;]] [[H7789|I behold him,]] [[H3808|but not]] [[H7138|near.]] [[H3556|A star]] [[H1869|will come]] [[H3290|out of Jacob,]] [[H7626|and a scepter]] [[H6965|will arise]] [[H3478|from Israel.]] [[H4272|He will crush]] [[H6285|the skulls]] [[H4124|of Moab]] [[H6979|and strike down]] [[H3605|all]] [[H1121|the sons]] [[H8351|of Sheth.]] ^2417
 
-Balak did as Balaam had said. And Balak and Balaam offered on each altar a bull and a ram. ^2302
+[[H123|Edom]] [[H1961|will become]] [[H3424|a possession,]] [[H8165|Seir]] [[H1961|will be]] [[H3424|owned]] [[H341|by his enemies,]] [[H3478|but Israel]] [[H6213|will perform]] [[H2428|with valor.]] ^2418
 
-And Balaam said to Balak, Stand beside your burnt offering, and I will go. Perhaps the Lord will come to meet me, and whatever he shows me I will tell you. And he went to a bare height, ^2303
+[[H7287|A ruler will come]] [[H3290|from Jacob]] [[H6|and destroy]] [[H8300|the remnant]] [[H5892|of the city.”]] ^2419
 
-and God met Balaam. And Balaam said to him, I have arranged the seven altars and I have offered on each altar a bull and a ram. ^2304
+[[H7200|Then Balaam saw]] [[H6002|Amalek]] [[H5375|and lifted up]] [[H4912|an oracle,]] [[H559|saying:]] [[H6002|“Amalek]] [[H7225|was first]] [[H1471|among the nations,]] [[H319|but his end]] ⟨shall be⟩ [[H8|destruction.”]] ^2420
 
-And the Lord put a word in Balaam’s mouth and said, Return to Balak, and thus you shall speak. ^2305
+[[H7200|Next he saw]] [[H7017|the Kenites]] [[H5375|and lifted up]] [[H4912|an oracle,]] [[H559|saying:]] [[H4186|“Your dwelling place]] [[H386|is secure,]] [[H7064|and your nest]] [[H7760|is set]] [[H5553|in a cliff.]] ^2421
 
-And he returned to him, and behold, he and all the princes of Moab were standing beside his burnt offering. ^2306
+[[H3588|Yet]] [[H7014|Kain]] [[H1961|will be]] [[H1197|destroyed]] [[H5704|when]] [[H804|Asshur]] [[H7617|takes you captive.”]] ^2422
 
-And Balaam took up his discourse and said, From Aram Balak has brought me, the king of Moab from the eastern mountains : Come, curse Jacob for me, and come, denounce Israel! ^2307
+[[H5375|Once more lifted up]] ⟨Balaam⟩ [[H4912|an oracle,]] [[H559|saying:]] [[H188|“Ah,]] [[H4310|who]] [[H2421|can live]] [[H410|unless God]] [[H7760|has ordained it?]] ^2423
 
-How can I curse whom God has not cursed? How can I denounce whom the Lord has not denounced? ^2308
+[[H6716|Ships]] ⟨will come⟩ [[H3027|from the coast]] [[H3794|of Kittim;]] [[H6031|they will subdue]] [[H804|Asshur]] [[H5677|and Eber,]] [[H1931|but they]] [[H1571|too]] [[H8|will perish]] [[H5703|forever.”]] ^2424
 
-For from the top of the crags I see him, from the hills I behold him; behold, a people dwelling alone, and not counting itself among the nations! ^2309
+[[H1109|Then Balaam]] [[H6965|arose]] [[H7725|and returned]] [[H4725|to his homeland,]] [[H1111|and Balak]] [[H1571|also]] [[H1980|went]] [[H1870|on his way.]] ^2425
 
-Who can count the dust of Jacob or number the fourth part of Israel? Let me die the death of the upright, and let my end be like his! ^2310
+[[H3478|While Israel]] [[H3427|was staying]] [[H7851|in Acacia Grove,]] [[H5971|the men]] [[H2490|began]] [[H2181|to indulge in sexual immorality]] [[H413|with]] [[H1323|the daughters]] [[H4124|of Moab,]] ^2501
 
-And Balak said to Balaam, What have you done to me? I took you to curse my enemies, and behold, you have done nothing but bless them. ^2311
+[[H7121|who also invited]] [[H5971|them]] [[H2077|to the sacrifices]] [[H430|for their gods.]] [[H5971|And the people]] [[H398|ate]] [[H7812|and bowed down]] [[H430|to these gods.]] ^2502
 
-And he answered and said, Must I not take care to speak what the Lord puts in my mouth? ^2312
+[[H3478|So Israel]] [[H6775|joined in worshiping]] [[H1187|Baal of Peor,]] [[H3068|and the LORD’s]] [[H639|anger]] [[H2734|burned]] [[H3478|against]] ⟨them⟩. ^2503
 
-And Balak said to him, Please come with me to another place, from which you may see them. You shall see only a fraction of them and shall not see them all. Then curse them for me from there. ^2313
+[[H3068|Then the LORD]] [[H559|said]] [[H413|to]] [[H4872|Moses,]] [[H3947|“Take]] [[H3605|all]] [[H7218|the leaders]] [[H5971|of the people]] [[H3363|and execute]] [[H5048|them in]] [[H8121|broad daylight]] [[H3068|before the LORD,]] [[H3068|so that His]] [[H2740|fierce]] [[H639|anger]] [[H7725|may turn away]] [[H3478|from Israel.”]] ^2504
 
-And he took him to the field of Zophim, to the top of Pisgah, and built seven altars and offered a bull and a ram on each altar. ^2314
+[[H4872|So Moses]] [[H559|told]] [[H8199|the judges]] [[H3478|of Israel,]] [[H2026|“Each of you must kill]] [[H582|all of his men]] [[H6775|who have joined in worshiping]] [[H1187|Baal of Peor.”]] ^2505
 
-Balaam said to Balak, Stand here beside your burnt offering, while I meet the Lord over there. ^2315
+[[H2009|Just then,]] [[H1121|an Israelite]] [[H376|man]] [[H7126|brought]] [[H251|to his family]] [[H4084|a Midianite woman]] [[H5869|in the sight]] [[H4872|of Moses]] ⟨and⟩ [[H5869|]] [[H3605|the whole]] [[H5712|congregation]] [[H3478|of Israel]] [[H1992|while they]] [[H1058|were weeping]] [[H6607|at the entrance]] [[H168|to the Tent]] [[H4150|of Meeting.]] ^2506
 
-And the Lord met Balaam and put a word in his mouth and said, Return to Balak, and thus shall you speak. ^2316
+[[H7200|On seeing this,]] [[H6372|Phinehas]] [[H1121|son]] [[H499|of Eleazar,]] [[H1121|the son]] [[H175|of Aaron]] [[H3548|the priest,]] [[H6965|got up]] [[H8432|from]] [[H5712|the assembly,]] [[H3947|took]] [[H7420|a spear]] [[H3027|in his hand,]] ^2507
 
-And he came to him, and behold, he was standing beside his burnt offering, and the princes of Moab with him. And Balak said to him, What has the Lord spoken? ^2317
+[[H935|followed]] [[H3478|the Israelite]] [[H413|into]] [[H6898|his tent,]] [[H1856|and drove through]] ⟨the spear⟩ [[H8147|both of them—]] [[H3478|through the Israelite]] [[H413|and on through]] [[H6897|the belly]] [[H802|of the woman.]] [[H4046|So the plague]] [[H5921|against]] [[H1121|the Israelites]] [[H6113|was halted,]] ^2508
 
-And Balaam took up his discourse and said, Rise, Balak, and hear; give ear to me, O son of Zippor : ^2318
+[[H4191|but those who died]] [[H4046|in the plague]] [[H702|numbered 24,000.]] ^2509
 
-God is not man, that he should lie, or a son of man, that he should change his mind. Has he said, and will he not do it? Or has he spoken, and will he not fulfill it? ^2319
+[[H3068|Then the LORD]] [[H1696|said]] [[H413|to]] [[H4872|Moses,]] ^2510
 
-Behold, I received a command to bless : he has blessed, and I cannot revoke it. ^2320
+[[H6372|“Phinehas]] [[H1121|son]] [[H499|of Eleazar,]] [[H1121|the son]] [[H175|of Aaron]] [[H3548|the priest,]] [[H7725|has turned]] [[H2534|My wrath]] [[H5921|away from]] [[H1121|the Israelites;]] [[H7068|for he was zealous]] ⟨for My sake⟩ [[H7068|]] [[H8432|among them,]] [[H3808|so that I did not]] [[H3615|consume]] [[H1121|the Israelites]] [[H7068|in My zeal.]] ^2511
 
-He has not beheld misfortune in Jacob, nor has he seen trouble in Israel. The Lord their God is with them, and the shout of a king is among them. ^2321
+[[H559|Declare,]] [[H3651|therefore,]] [[H2005|that]] [[H5414|I grant]] [[H1285|him  My covenant]] [[H7965|of peace.]] ^2512
 
-God brings them out of Egypt and is for them like the horns of the wild ox. ^2322
+[[H1961|It will be]] [[H1285|a covenant]] [[H5769|of permanent]] [[H3550|priesthood]] [[H2233|for him  and his descendants,]] [[H8478|because]] [[H7065|he was zealous]] [[H430|for his God]] [[H3722|and made atonement]] [[H5921|for]] [[H1121|the Israelites.”]] ^2513
 
-For there is no enchantment against Jacob, no divination against Israel; now it shall be said of Jacob and Israel, What has God wrought! ^2323
+[[H8034|The name]] [[H3478|of the Israelite]] [[H5221|who was slain]] [[H854|with]] [[H4084|the Midianie woman]] [[H2174|was Zimri]] [[H1121|son]] [[H5543|of Salu,]] [[H5387|the leader]] [[H8099|of a Simeonite]] [[H1|family.]] ^2514
 
-Behold, a people! As a lioness it rises up and as a lion it lifts itself; it does not lie down until it has devoured the prey and drunk the blood of the slain. ^2324
+[[H8034|And the name]] [[H5221|of the slain]] [[H4084|Midianite]] [[H802|woman]] [[H3579|was Cozbi,]] [[H1323|the daughter]] [[H6698|of Zur,]] [[H523|a tribal]] [[H7218|chief]] [[H4080|of a Midianite]] [[H1|family.]] ^2515
 
-And Balak said to Balaam, Do not curse them at all, and do not bless them at all. ^2325
+[[H3068|And the LORD]] [[H1696|said]] [[H4872|to Moses,]] ^2516
 
-But Balaam answered Balak, Did I not tell you, All that the Lord says, that I must do? ^2326
+[[H6887|“Attack]] [[H4084|the Midianites]] [[H5221|and strike them dead.]] ^2517
 
-And Balak said to Balaam, Come now, I will take you to another place. Perhaps it will please God that you may curse them for me from there. ^2327
+[[H3588|For]] [[H1992|they]] [[H6887|assailed you]] [[H5231|deceitfully]] [[H834|when]] [[H5230|they seduced]] [[H5921|you  in]] [[H1697|the matter]] [[H6465|of Peor]] [[H5921|and]] [[H269|their sister]] [[H3579|Cozbi,]] [[H1323|the daughter]] [[H4080|of the Midianite]] [[H5387|leader,]] ⟨the woman⟩ [[H5221|who was killed]] [[H3117|on the day]] [[H4046|the plague]] [[H5921|came]] [[H1697|because of]] [[H6465|Peor.]] ^2518
 
-So Balak took Balaam to the top of Peor, which overlooks the desert. ^2328
+[[H310|After]] [[H4046|the plague]] ⟨had ended⟩, [[H3068|the LORD]] [[H559|said]] [[H413|to]] [[H4872|Moses]] [[H499|and Eleazar]] [[H1121|son]] [[H175|of Aaron]] [[H3548|the priest,]] ^2601
 
-And Balaam said to Balak, Build for me here seven altars and prepare for me here seven bulls and seven rams. ^2329
+[[H5375|“Take a census]] [[H3605|of the whole]] [[H5712|congregation]] [[H3478|of Israel,]] [[H6242|those twenty]] [[H1121|years of age]] [[H4605|and older,]] [[H1004|by the houses]] [[H1|of their fathers—]] [[H3605|all]] [[H3318|who can serve]] [[H6635|in the army]] [[H3478|of Israel.”]] ^2602
 
-And Balak did as Balaam had said, and offered a bull and a ram on each altar. ^2330
+[[H6160|So on the plains]] [[H4124|of Moab]] [[H5921|by]] [[H3383|the Jordan,]] [[H3405|across from Jericho,]] [[H4872|Moses]] [[H499|and Eleazar]] [[H3548|the priest]] [[H1696|issued]] [[H559|the instruction,]] ^2603
 
+[[H6242|“ twenty]] ⟨Take a census of the men⟩ [[H1121|years of age]] [[H4605|and older,]] [[H834|as]] [[H3068|the LORD]] [[H6680|has commanded]] [[H4872|Moses.”]] [[H1121|And the Israelites]] ⟨these were⟩ [[H3318|who came out]] [[H776|of the land]] [[H4714|of Egypt:]] ^2604
 
+[[H7205|Reuben]] [[H1060|was the firstborn]] [[H3478|of Israel.]] ⟨These were⟩ [[H1121|the descendants]] [[H7205|of Reuben:]] [[H2599|The Hanochite]] [[H4940|clan]] [[H2585|from Hanoch,]] [[H6384|the Palluite]] [[H4940|clan]] [[H6396|from Pallu,]] ^2605
 
-When Balaam saw that it pleased the Lord to bless Israel, he did not go, as at other times, to look for omens, but set his face toward the wilderness. ^2401
+[[H2697|the Hezronite]] [[H4940|clan]] [[H2696|from Hezron,]] ⟨and⟩ [[H3756|the Carmite]] [[H4940|clan]] [[H3757|from Carmi.]] ^2606
 
-And Balaam lifted up his eyes and saw Israel camping tribe by tribe. And the Spirit of God came upon him, ^2402
+[[H428|These]] [[H1961|were the]] [[H4940|clans]] [[H7206|of Reuben,]] [[H6485|and their registration]] [[H7969|numbered 43,730.]] ^2607
 
-and he took up his discourse and said, The oracle of Balaam the son of Beor, the oracle of the man whose eye is opened, ^2403
+[[H1121|Now the son]] [[H6396|of Pallu]] [[H446|was Eliab,]] ^2608
 
-the oracle of him who hears the words of God, who sees the vision of the Almighty, falling down with his eyes uncovered : ^2404
+[[H1121|and the sons]] [[H446|of Eliab]] [[H5241|were Nemuel,]] [[H1885|Dathan,]] [[H48|and Abiram.]] [[H1931|It]] [[H1885|was Dathan]] [[H48|and Abiram,]] [[H7148|chosen]] [[H5712|by the congregation,]] [[H834|who]] [[H5327|fought]] [[H5921|against]] [[H4872|Moses]] [[H175|and Aaron]] [[H5712|with the followers]] [[H7141|of Korah]] [[H5327|who rebelled]] [[H5921|against]] [[H3068|the LORD.]] ^2609
 
-How lovely are your tents, O Jacob, your encampments, O Israel! ^2405
+[[H776|And the earth]] [[H6605|opened]] [[H6310|its mouth]] [[H1104|and swallowed]] [[H853|them]] [[H7141|along with Korah,]] [[H5712|whose followers]] [[H4194|died]] [[H784|when the fire]] [[H398|consumed]] [[H2572|250]] [[H376|men.]] [[H1961|They serve]] [[H5251|as a warning sign.]] ^2610
 
-Like palm groves that stretch afar, like gardens beside a river, like aloes that the Lord has planted, like cedar trees beside the waters. ^2406
+[[H1121|However, the line]] [[H7141|of Korah]] [[H3808|did not]] [[H4191|die out.]] ^2611
 
-Water shall flow from his buckets, and his seed shall be in many waters; his king shall be higher than Agag, and his kingdom shall be exalted. ^2407
+⟨These were⟩ [[H1121|the descendants]] [[H8095|of Simeon]] [[H4940|by their clans:]] [[H5242|The Nemuelite]] [[H4940|clan]] [[H5241|from Nemuel,]] [[H3228|the Jaminite]] [[H4940|clan]] [[H3226|from Jamin,]] [[H3200|the Jachinite]] [[H4940|clan]] [[H3199|from Jachin,]] ^2612
 
-God brings him out of Egypt and is for him like the horns of the wild ox; he shall eat up the nations, his adversaries, and shall break their bones in pieces and pierce them through with his arrows. ^2408
+[[H2227|the Zerahite]] [[H4940|clan]] [[H2226|from Zerah,]] ⟨and⟩ [[H7587|the Shaulite]] [[H4940|clan]] [[H7586|from Shaul.]] ^2613
 
-He crouched, he lay down like a lion and like a lioness; who will rouse him up? Blessed are those who bless you, and cursed are those who curse you. ^2409
+[[H428|These]] [[H4940|were the clans]] [[H8099|of Simeon,]] ⟨and there were⟩ [[H8147|22,200]] [[H3967|men.]] ^2614
 
-And Balak’s anger was kindled against Balaam, and he struck his hands together. And Balak said to Balaam, I called you to curse my enemies, and behold, you have blessed them these three times. ^2410
+⟨These were⟩ [[H1121|the descendants]] [[H1410|of Gad]] [[H4940|by their clans:]] [[H6831|The Zephonite]] [[H4940|clan]] [[H6827|from Zephon,]] [[H2291|the Haggite]] [[H4940|clan]] [[H2291|from Haggi,]] [[H7765|the Shunite]] [[H4940|clan]] [[H7764|from Shuni,]] ^2615
 
-Therefore now flee to your own place. I said, I will certainly honor you, but the Lord has held you back from honor. ^2411
+[[H244|the Oznite]] [[H4940|clan]] [[H244|from Ozni,]] [[H6180|the Erite]] [[H4940|clan]] [[H6179|from Eri,]] ^2616
 
-And Balaam said to Balak, Did I not tell your messengers whom you sent to me, ^2412
+[[H722|the Arodite]] [[H4940|clan]] [[H720|from Arod,]] ⟨and⟩ [[H692|the Arelite]] [[H4940|clan]] [[H692|from Areli.]] ^2617
 
-If Balak should give me his house full of silver and gold, I would not be able to go beyond the word of the Lord, to do either good or bad of my own will. What the Lord speaks, that will I speak? ^2413
+[[H428|These]] ⟨were⟩ [[H4940|the clans]] [[H1410|of Gad,]] [[H6485|and their registration numbered]] [[H705|40,500]] ^2618
 
-And now, behold, I am going to my people. Come, I will let you know what this people will do to your people in the latter days. ^2414
+[[H1121|The sons]] [[H3063|of Judah]] ⟨were⟩ [[H6147|Er]] [[H209|and Onan,]] [[H6147|but they]] [[H4191|died]] [[H776|in the land]] [[H3667|of Canaan.]] ^2619
 
-And he took up his discourse and said, The oracle of Balaam the son of Beor, the oracle of the man whose eye is opened, ^2415
+[[H1961|These were]] [[H1121|the descendants]] [[H3063|of Judah]] [[H4940|by their clans:]] [[H8024|The Shelanite]] [[H4940|clan]] [[H7956|from Shelah,]] [[H6558|the Perezite]] [[H4940|clan]] [[H6557|from Perez,]] [[H2227|the Zerahite]] [[H4940|clan]] [[H2226|from Zerah.]] ^2620
 
-the oracle of him who hears the words of God, and knows the knowledge of the Most High, who sees the vision of the Almighty, falling down with his eyes uncovered : ^2416
+[[H1961|And]] ⟨these were⟩ [[H1121|the descendants]] [[H6557|of Perez:]] [[H2697|the Hezronite]] [[H4940|clan]] [[H2696|from Hezron]] ⟨and⟩ [[H2539|the Hamulite]] [[H4940|clan]] [[H2538|from Hamul.]] ^2621
 
-I see him, but not now; I behold him, but not near : a star shall come out of Jacob, and a scepter shall rise out of Israel; it shall crush the forehead of Moab and break down all the sons of Sheth. ^2417
+[[H428|These]] ⟨were⟩ [[H4940|the clans]] [[H3063|of Judah,]] [[H6485|and their registration numbered]] [[H8337|76,500]] ^2622
 
-Edom shall be dispossessed; Seir also, his enemies, shall be dispossessed. Israel is doing valiantly. ^2418
+⟨These were⟩ [[H1121|the descendants]] [[H3485|of Issachar]] [[H4940|by their clans:]] [[H8440|The Tolaite]] [[H4940|clan]] [[H8439|from Tola,]] [[H6324|the Punite]] [[H4940|clan]] [[H6312|from Puvah,]] ^2623
 
-And one from Jacob shall exercise dominion and destroy the survivors of cities! ^2419
+[[H3432|the Jashubite]] [[H4940|clan]] [[H3437|from Jashub,]] ⟨and⟩ [[H8117|the Shimronite]] [[H4940|clan]] [[H8110|from Shimron.]] ^2624
 
-Then he looked on Amalek and took up his discourse and said, Amalek was the first among the nations, but its end is utter destruction. ^2420
+[[H428|These]] ⟨were⟩ [[H4940|the clans]] [[H3485|of Issachar,]] [[H6485|and their registration numbered]] [[H702|64,300]] ^2625
 
-And he looked on the Kenite, and took up his discourse and said, Enduring is your dwelling place, and your nest is set in the rock. ^2421
+⟨These were⟩ [[H1121|the descendants]] [[H2074|of Zebulun]] [[H4940|by their clans:]] [[H5625|The Seredite]] [[H4940|clan]] [[H5624|from Sered,]] [[H440|the Elonite]] [[H4940|clan]] [[H356|from Elon,]] ⟨and⟩ [[H3178|the Jahleelite]] [[H4940|clan]] [[H3177|from Jahleel.]] ^2626
 
-Nevertheless, Kain shall be burned when Asshur takes you away captive. ^2422
+[[H428|These]] ⟨were⟩ [[H4940|the clans]] [[H2075|of Zebulun,]] [[H6485|and their registration numbered]] [[H8346|60,500]] ^2627
 
-And he took up his discourse and said, Alas, who shall live when God does this? ^2423
+[[H1121|The descendants]] [[H3130|of Joseph]] ⟨were⟩ [[H4940|their clans]] [[H4519|of Manasseh]] [[H669|and Ephraim.]] ^2628
 
-But ships shall come from Kittim and shall afflict Asshur and Eber; and he too shall come to utter destruction. ^2424
+⟨These were⟩ [[H1121|the descendants]] [[H4519|of Manasseh:]] [[H4354|The Machirite]] [[H4940|clan]] [[H4353|from Machir.]] [[H4353|Machir]] [[H3205|was the father of]] [[H1568|Gilead,]] [[H1569|the Gileadite]] [[H4940|clan]] [[H1568|from Gilead.]] ^2629
 
-Then Balaam rose and went back to his place. And Balak also went his way. ^2425
+[[H428|These]] ⟨were⟩ [[H1121|the descendants]] [[H1568|of Gilead:]] [[H373|the Iezerite]] [[H4940|clan]] [[H372|from Iezer,]] [[H2516|the Helekite]] [[H4940|clan]] [[H2507|from Helek,]] ^2630
 
+[[H845|the Asrielite]] [[H4940|clan]] [[H844|from Asriel,]] [[H7930|the Shechemite]] [[H4940|clan]] [[H7928|from Shechem,]] ^2631
 
+[[H8062|the Shemidaite]] [[H4940|clan]] [[H8061|from Shemida,]] ⟨and⟩ [[H2662|the Hepherite]] [[H4940|clan]] [[H2660|from Hepher.]] ^2632
 
-While Israel lived in Shittim, the people began to whore with the daughters of Moab. ^2501
+[[H6765|Now Zelophehad]] [[H1121|son]] [[H2660|of Hepher]] [[H1961|had]] [[H3808|no]] [[H1121|sons—]] [[H3588|only]] [[H1323|daughters.]] [[H8034|The names]] [[H1323|of the daughters]] [[H6765|of Zelophehad]] [[H4244|were Mahlah,]] [[H5270|Noah,]] [[H2295|Hoglah,]] [[H4435|Milcah,]] [[H8656|and Tirzah.]] ^2633
 
-These invited the people to the sacrifices of their gods, and the people ate and bowed down to their gods. ^2502
+[[H428|These]] ⟨were⟩ [[H4940|the clans]] [[H4519|of Manasseh,]] [[H6485|and their registration numbered]] [[H8147|52,700]] ^2634
 
-So Israel yoked himself to Baal of Peor. And the anger of the Lord was kindled against Israel. ^2503
+[[H428|These]] ⟨were⟩ [[H1121|the descendants]] [[H669|of Ephraim]] [[H4940|by their clans:]] [[H8364|The Shuthelahite]] [[H4940|clan]] [[H7803|from Shuthelah,]] [[H1076|the Becherite]] [[H4940|clan]] [[H1071|from Becher,]] ⟨and⟩ [[H8470|the Tahanite]] [[H4940|clan]] [[H8465|from Tahan.]] ^2635
 
-And the Lord said to Moses, Take all the chiefs of the people and hang them in the sun before the Lord, that the fierce anger of the Lord may turn away from Israel. ^2504
+[[H428|And]] [[H1121|the descendants]] [[H7803|of Shuthelah]] ⟨were⟩ [[H6198|the Eranite]] [[H4940|clan]] [[H6197|from Eran.]] ^2636
 
-And Moses said to the judges of Israel, Each of you kill those of his men who have yoked themselves to Baal of Peor. ^2505
+[[H428|These]] ⟨were⟩ [[H4940|the clans]] [[H669|of Ephraim,]] [[H6485|and their registration numbered]] [[H8147|32,500]] [[H428|These]] [[H4940|clans]] ⟨were⟩ [[H1121|the descendants]] [[H3130|of Joseph.]] ^2637
 
-And behold, one of the people of Israel came and brought a Midianite woman to his family, in the sight of Moses and in the sight of the whole congregation of the people of Israel, while they were weeping in the entrance of the tent of meeting. ^2506
+⟨These were⟩ [[H1121|the descendants]] [[H1144|of Benjamin]] [[H4940|by their clans:]] [[H1108|The Belaite]] [[H4940|clan]] [[H1106|from Bela,]] [[H789|the Ashbelite]] [[H4940|clan]] [[H788|from Ashbel,]] [[H298|the Ahiramite]] [[H4940|clan]] [[H297|from Ahiram,]] ^2638
 
-When Phinehas the son of Eleazar, son of Aaron the priest, saw it, he rose and left the congregation and took a spear in his hand ^2507
+[[H7781|the Shuphamite]] [[H4940|clan]] [[H8197|from Shupham,]] ⟨and⟩ [[H2350|the Huphamite]] [[H4940|clan]] [[H2349|from Hupham.]] ^2639
 
-and went after the man of Israel into the chamber and pierced both of them, the man of Israel and the woman through her belly. Thus the plague on the people of Israel was stopped. ^2508
+[[H1961|And]] [[H1121|the descendants]] [[H1106|of Bela]] [[H714|from Ard]] [[H5283|and Naaman]] ⟨were⟩ [[H716|the Ardite]] [[H4940|clan from Ard]] ⟨and⟩ [[H5280|the Naamite]] [[H4940|clan]] [[H5283|from Naaman.]] ^2640
 
-Nevertheless, those who died by the plague were twenty-four thousand. ^2509
+[[H428|These]] ⟨were⟩ [[H4940|the clans]] [[H1144|of Benjamin,]] [[H6485|and their registration numbered]] [[H2568|45,600]] ^2641
 
-And the Lord said to Moses, ^2510
+[[H428|These]] ⟨were⟩ [[H1121|the descendants]] [[H1835|of Dan]] [[H4940|by their clans:]] [[H7749|The Shuhamite]] [[H4940|clan]] [[H7748|from Shuham.]] [[H428|These]] [[H4940|were the clans]] [[H1835|of Dan.]] ^2642
 
-Phinehas the son of Eleazar, son of Aaron the priest, has turned back my wrath from the people of Israel, in that he was jealous with my jealousy among them, so that I did not consume the people of Israel in my jealousy. ^2511
+[[H3605|All]] ⟨of them⟩ ⟨were⟩ [[H7749|Shuhamite]] [[H4940|clans,]] [[H6485|and their registration numbered]] [[H702|64,400]] ^2643
 
-Therefore say, Behold, I give to him my covenant of peace, ^2512
+⟨These were⟩ [[H1121|the descendants]] [[H836|of Asher]] [[H4940|by their clans:]] [[H3232|The Imnite]] [[H4940|clan]] [[H3232|from Imnah,]] [[H3441|the Ishvite]] [[H4940|clan]] [[H3440|from Ishvi,]] [[H1284|the Beriite]] [[H4940|clan]] [[H1283|from Beriah.]] ^2644
 
-and it shall be to him and to his descendants after him the covenant of a perpetual priesthood, because he was jealous for his God and made atonement for the people of Israel. ^2513
+⟨These were⟩ [[H1121|the descendants]] [[H1283|of Beriah:]] [[H2277|the Heberite]] [[H4940|clan]] [[H2268|from Heber,]] ⟨and⟩ [[H4440|the Malchielite]] [[H4940|clan]] [[H4439|from Malchiel.]] ^2645
 
-The name of the slain man of Israel, who was killed with the Midianite woman, was Zimri the son of Salu, chief of a father’s house belonging to the Simeonites. ^2514
+[[H8034|And the name]] [[H836|of Asher’s]] [[H1323|daughter]] [[H8294|was Serah.]] ^2646
 
-And the name of the Midianite woman who was killed was Cozbi the daughter of Zur, who was the tribal head of a father’s house in Midian. ^2515
+[[H428|These]] ⟨were⟩ [[H4940|the clans]] [[H836|of Asher,]] [[H6485|and their registration numbered]] [[H7969|53,400]] ^2647
 
-And the Lord spoke to Moses, saying, ^2516
+⟨These were⟩ [[H1121|the descendants]] [[H5321|of Naphtali]] [[H4940|by their clans:]] [[H3184|The Jahzeelite]] [[H4940|clan]] [[H3183|from Jahzeel,]] [[H1477|the Gunite]] [[H4940|clan]] [[H1476|from Guni,]] ^2648
 
-Harass the Midianites and strike them down, ^2517
+[[H3339|the Jezerite]] [[H4940|clan]] [[H3337|from Jezer,]] ⟨and⟩ [[H8016|the Shillemite]] [[H4940|clan]] [[H8006|from Shillem.]] ^2649
 
-for they have harassed you with their wiles, with which they beguiled you in the matter of Peor, and in the matter of Cozbi, the daughter of the chief of Midian, their sister, who was killed on the day of the plague on account of Peor. ^2518
+[[H428|These]] ⟨were⟩ [[H4940|the clans]] [[H5321|of Naphtali,]] [[H6485|and their registration numbered]] [[H2568|45,400]] ^2650
 
+[[H428|These]] [[H1121|men]] [[H3478|of Israel]] [[H6485|numbered]] [[H8337|601,730]] ⟨in all⟩. ^2651
 
+[[H3068|Then the LORD]] [[H1696|said]] [[H413|to]] [[H4872|Moses,]] ^2652
 
-After the plague, the Lord said to Moses and to Eleazar the son of Aaron, the priest, ^2601
+[[H776|“The land]] [[H2505|is to be divided]] [[H428|among]] ⟨the tribes⟩ [[H5159|as an inheritance,]] [[H4557|according to the number]] [[H8034|of names.]] ^2653
 
-Take a census of all the congregation of the people of Israel, from twenty years old and upward, by their fathers ’ houses, all in Israel who are able to go to war. ^2602
+[[H7235|Increase]] [[H5159|the inheritance]] [[H7227|for a large]] ⟨tribe⟩ [[H4591|and decrease]] [[H5159|it]] [[H4592|for a small one;]] [[H376|each]] [[H5414|is to receive]] [[H5159|its inheritance]] [[H6310|according to]] [[H6485|the number of those registered.]] ^2654
 
-And Moses and Eleazar the priest spoke with them in the plains of Moab by the Jordan at Jericho, saying, ^2603
+[[H389|Indeed,]] [[H776|the land]] [[H2505|must be divided]] [[H1486|by lot;]] [[H5157|they shall receive their inheritance]] [[H8034|according to the names]] [[H4294|of the tribes]] [[H1|of their fathers.]] ^2655
 
-Take a census of the people, from twenty years old and upward, as the Lord commanded Moses. The people of Israel who came out of the land of Egypt were: ^2604
+[[H5159|Each inheritance]] [[H2505|is to be divided]] [[H5921|by]] [[H1486|lot]] [[H996|among]] [[H7227|the larger]] [[H4592|and smaller tribes.”]] ^2656
 
-Reuben, the firstborn of Israel; the sons of Reuben : of Hanoch, the clan of the Hanochites; of Pallu, the clan of the Palluites; ^2605
+[[H428|Now these]] [[H3881|were the Levites]] [[H6485|registered]] [[H4940|by their clans:]] [[H1649|The Gershonite]] [[H4940|clan]] [[H1648|from Gershon,]] [[H6956|the Kohathite]] [[H4940|clan]] [[H6955|from Kohath,]] [[H4848|and the Merarite]] [[H4940|clan]] [[H4847|from Merari.]] ^2657
 
-of Hezron, the clan of the Hezronites; of Carmi, the clan of the Carmites. ^2606
+[[H428|These]] ⟨were⟩ [[H4940|the families]] [[H3881|of the Levites:]] [[H3846|The Libnite]] [[H4940|clan,]] [[H2276|the Hebronite]] [[H4940|clan,]] [[H4250|the Mahlite]] [[H4940|clan,]] [[H4188|the Mushite]] [[H4940|clan,]] [[H7145|and the Korahite]] [[H4940|clan.]] [[H6955|Now Kohath]] [[H3205|was the father of]] [[H6019|Amram,]] ^2658
 
-These are the clans of the Reubenites, and those listed were 43,730. ^2607
+[[H6019|and Amram’s]] [[H802|wife]] [[H8034|was named]] [[H3115|Jochebed.]] [[H1323|She was also a descendant]] [[H3878|of Levi,]] [[H3205|born]] [[H3878|to Levi]] [[H4714|in Egypt.]] [[H6019|To Amram]] [[H3205|she bore]] [[H175|Aaron,]] [[H4872|Moses,]] [[H269|and their sister]] [[H4813|Miriam.]] ^2659
 
-And the sons of Pallu : Eliab. ^2608
+[[H5070|Nadab,]] [[H30|Abihu,]] [[H499|Eleazar,]] [[H385|and Ithamar]] [[H3205|were born]] [[H175|to Aaron,]] ^2660
 
-The sons of Eliab : Nemuel, Dathan, and Abiram. These are the Dathan and Abiram, chosen from the congregation, who contended against Moses and Aaron in the company of Korah, when they contended against the Lord ^2609
+[[H5070|but Nadab]] [[H30|and Abihu]] [[H4191|died]] [[H7126|when they offered]] [[H2114|unauthorized]] [[H784|fire]] [[H6440|before]] [[H3068|the LORD.]] ^2661
 
-and the earth opened its mouth and swallowed them up together with Korah, when that company died, when the fire devoured 250 men, and they became a warning. ^2610
+[[H6485|The registration]] ⟨of the Levites⟩ [[H1961|totaled]] [[H7969|23,000,]] [[H3605|every]] [[H2145|male]] [[H1121|one month old]] [[H4605|or more;]] [[H3808|they were not]] [[H6485|registered]] [[H8432|among]] [[H1121|the other Israelites,]] [[H3588|because]] [[H3808|no]] [[H5159|inheritance]] [[H5414|was given]] [[H8432|to them among]] [[H1121|the Israelites.]] ^2662
 
-But the sons of Korah did not die. ^2611
+[[H428|These]] [[H6485|were the ones registered]] [[H4872|by Moses]] [[H499|and Eleazar]] [[H3548|the priest]] [[H834|when]] [[H6485|they numbered]] [[H1121|the Israelites]] [[H6160|on the plains]] [[H4124|of Moab]] [[H5921|by]] [[H3383|the Jordan,]] [[H3405|across from Jericho.]] ^2663
 
-The sons of Simeon according to their clans : of Nemuel, the clan of the Nemuelites; of Jamin, the clan of the Jaminites; of Jachin, the clan of the Jachinites; ^2612
+[[H428|Among all these, however,]] [[H1961|there was]] [[H3808|not]] [[H376|one]] [[H6485|who had been registered]] [[H4872|by Moses]] [[H175|and Aaron]] [[H3548|the priest]] [[H834|when]] [[H6485|they numbered]] [[H1121|the Israelites]] [[H4057|in the Wilderness]] [[H5514|of Sinai.]] ^2664
 
-of Zerah, the clan of the Zerahites; of Shaul, the clan of the Shaulites. ^2613
+[[H3588|For]] [[H3068|the LORD]] [[H559|had told]] [[H4191|them  that they would surely die]] [[H4057|in the wilderness.]] [[H3808|Not one]] [[H3498|was left]] [[H3588|except]] [[H3612|Caleb]] [[H1121|son]] [[H3312|of Jephunneh]] [[H3091|and Joshua]] [[H1121|son]] [[H5126|of Nun.]] ^2665
 
-These are the clans of the Simeonites, 22,200. ^2614
+[[H1323|Now the daughters]] [[H6765|of Zelophehad]] [[H1121|son]] [[H2660|of Hepher,]] [[H1121|the son]] [[H1568|of Gilead,]] [[H1121|the son]] [[H4353|of Machir,]] [[H1121|the son]] [[H4519|of Manasseh,]] [[H4940|belonged to the clans]] [[H4519|of Manasseh]] [[H1121|son]] [[H3130|of Joseph.]] [[H428|These]] [[H8034|were the names]] [[H1323|of his daughters:]] [[H4244|Mahlah,]] [[H5270|Noah,]] [[H2295|Hoglah,]] [[H4435|Milcah,]] [[H8656|and Tirzah.]] [[H7126|They approached]] ^2701
 
-The sons of Gad according to their clans : of Zephon, the clan of the Zephonites; of Haggi, the clan of the Haggites; of Shuni, the clan of the Shunites; ^2615
+[[H6607|the entrance]] [[H168|to the Tent]] [[H4150|of Meeting,]] [[H5975|stood]] [[H6440|before]] [[H4872|Moses,]] [[H499|Eleazar]] [[H3548|the priest,]] [[H5387|the leaders,]] [[H3605|and the entire]] [[H5712|congregation,]] [[H559|and said,]] ^2702
 
-of Ozni, the clan of the Oznites; of Eri, the clan of the Erites; ^2616
+[[H1|“Our father]] [[H4191|died]] [[H4057|in the wilderness,]] [[H1931|but he]] [[H1961|was]] [[H3808|not]] [[H8432|among]] [[H5712|the followers]] [[H7141|of Korah]] [[H3259|who gathered together]] [[H5921|against]] [[H3068|the LORD.]] [[H3588|Instead,]] [[H4191|he died]] [[H2399|because of his own sin,]] [[H1961|and he had]] [[H3808|no]] [[H1121|sons.]] ^2703
 
-of Arod, the clan of the Arodites; of Areli, the clan of the Arelites. ^2617
+[[H4100|Why]] [[H8034|should the name]] [[H1|of our father]] [[H1639|disappear]] [[H8432|from]] [[H4940|his clan]] [[H3588|because]] [[H369|he had no]] [[H1121|sons?]] [[H5414|Give]] [[H272|us property]] [[H8432|among]] [[H1|our father’s]] [[H251|brothers.”]] ^2704
 
-These are the clans of the sons of Gad as they were listed, 40,500. ^2618
+[[H4872|So Moses]] [[H7126|brought]] [[H4941|their case]] [[H6440|before]] [[H3068|the LORD,]] ^2705
 
-The sons of Judah were Er and Onan; and Er and Onan died in the land of Canaan. ^2619
+[[H3068|and the LORD]] [[H559|answered]] [[H4872|him,]] ^2706
 
-And the sons of Judah according to their clans were: of Shelah, the clan of the Shelanites; of Perez, the clan of the Perezites; of Zerah, the clan of the Zerahites. ^2620
+[[H1323|“The daughters]] [[H6765|of Zelophehad]] [[H1696|speak]] [[H3651|correctly.]] [[H5414|You certainly must give]] [[H272|them  property]] [[H5159|as an inheritance]] [[H8432|among]] [[H1|their father’s]] [[H251|brothers]] [[H5674|and transfer]] [[H853|their]] [[H1|father’s]] [[H5159|inheritance]] ^2707
 
-And the sons of Perez were: of Hezron, the clan of the Hezronites; of Hamul, the clan of the Hamulites. ^2621
+[[H413|Furthermore,]] [[H1696|you shall say]] [[H1121|to the Israelites,]] [[H3588|‘If]] [[H376|a man]] [[H4191|dies]] [[H369|and leaves no]] [[H1121|son,]] [[H5674|you are to transfer]] [[H5159|his inheritance]] [[H1323|to his daughter.]] ^2708
 
-These are the clans of Judah as they were listed, 76,500. ^2622
+[[H518|If]] [[H369|he has no]] [[H1323|daughter,]] [[H5414|give]] [[H5159|his inheritance]] [[H251|to his brothers.]] ^2709
 
-The sons of Issachar according to their clans : of Tola, the clan of the Tolaites; of Puvah, the clan of the Punites; ^2623
+[[H518|If]] [[H369|he has no]] [[H251|brothers,]] [[H5414|give]] [[H5159|his inheritance]] [[H1|to his father’s]] [[H251|brothers.]] ^2710
 
-of Jashub, the clan of the Jashubites; of Shimron, the clan of the Shimronites. ^2624
+[[H518|And if]] [[H1|his father]] [[H369|has no]] [[H251|brothers,]] [[H5414|give]] [[H5159|his inheritance]] [[H7138|to the next]] [[H7607|of kin]] [[H4940|from his clan,]] [[H3423|that he may take possession of it.]] [[H1961|This is to be]] [[H4941|a statutory]] [[H2708|ordinance]] [[H1121|for the Israelites,]] [[H834|as]] [[H3069|the LORD]] [[H6680|has commanded]] [[H4872|Moses.’”]] ^2711
 
-These are the clans of Issachar as they were listed, 64,300. ^2625
+[[H3068|Then the LORD]] [[H559|said]] [[H413|to]] [[H4872|Moses,]] [[H5927|“Go up]] [[H2088|this]] [[H2022|mountain]] [[H5682|of the Abarim range]] [[H7200|and see]] [[H776|the land]] [[H834|that]] [[H5414|I have given]] [[H1121|the Israelites.]] ^2712
 
-The sons of Zebulun, according to their clans : of Sered, the clan of the Seredites; of Elon, the clan of the Elonites; of Jahleel, the clan of the Jahleelites. ^2626
+[[H7200|After you have seen it,]] [[H859|you]] [[H1571|too will]] [[H622|be gathered]] [[H413|to]] [[H5971|your people,]] [[H834|as]] [[H251|your brother]] [[H175|Aaron]] [[H622|was;]] ^2713
 
-These are the clans of the Zebulunites as they were listed, 60,500. ^2627
+[[H834|for]] [[H5712|when the congregation]] [[H4808|contended]] [[H4057|in the Wilderness]] [[H6790|of Zin,]] [[H4784|both of you rebelled]] [[H6310|against My command]] [[H6942|to show My holiness]] [[H5869|in their sight]] [[H4325|regarding the waters.”]] [[H1992|Those]] [[H4325|were the waters]] [[H4809|of Meribah]] [[H6946|in Kadesh,]] [[H4057|in the Wilderness]] [[H6790|of Zin.]] ^2714
 
-The sons of Joseph according to their clans : Manasseh and Ephraim. ^2628
+[[H4872|So Moses]] [[H1696|appealed]] [[H413|to]] [[H3068|the LORD,]] ^2715
 
-The sons of Manasseh : of Machir, the clan of the Machirites; and Machir was the father of Gilead; of Gilead, the clan of the Gileadites. ^2629
+[[H3068|“May the LORD,]] [[H430|the God]] [[H7307|of the spirits]] [[H3605|of all]] [[H1320|flesh,]] [[H6485|appoint]] [[H376|a man]] [[H5921|over]] [[H5712|the congregation]] ^2716
 
-These are the sons of Gilead : of Iezer, the clan of the Iezerites; of Helek, the clan of the Helekites; ^2630
+[[H834|who]] [[H3318|will go out]] [[H935|and come in]] [[H6440|before them,]] [[H834|and who]] [[H3318|will lead them out]] [[H935|and bring them in,]] [[H5712|so that the congregation]] [[H3068|of the LORD]] [[H3808|will not]] [[H1961|be]] [[H6629|like sheep]] [[H369|without]] [[H7462|a shepherd.”]] ^2717
 
-and of Asriel, the clan of the Asrielites; and of Shechem, the clan of the Shechemites; ^2631
+[[H3068|And the LORD]] [[H559|replied]] [[H413|to]] [[H4872|Moses,]] [[H3947|“Take]] [[H3091|Joshua]] [[H1121|son]] [[H5126|of Nun,]] [[H376|a man with]] [[H7307|the Spirit in him,]] [[H5564|and lay]] [[H3027|your hands]] [[H5921|on him.]] ^2718
 
-and of Shemida, the clan of the Shemidaites; and of Hepher, the clan of the Hepherites. ^2632
+[[H5975|Have him stand]] [[H6440|before]] [[H499|Eleazar]] [[H3548|the priest]] [[H3605|and the whole]] [[H5712|congregation,]] [[H6680|and commission]] [[H5869|him in their sight.]] ^2719
 
-Now Zelophehad the son of Hepher had no sons, but daughters. And the names of the daughters of Zelophehad were Mahlah, Noah, Hoglah, Milcah, and Tirzah. ^2633
+[[H5414|Confer]] [[H5921|on him]] ⟨some of⟩ [[H1935|your authority,]] [[H4616|so that]] [[H3605|the whole]] [[H5712|congregation]] [[H3478|of Israel]] [[H8085|will obey him.]] ^2720
 
-These are the clans of Manasseh, and those listed were 52,700. ^2634
+[[H5975|He shall stand]] [[H6440|before]] [[H499|Eleazar]] [[H3548|the priest,]] [[H7592|who will seek counsel]] [[H3068|for him  before the LORD]] [[H4941|by the judgment]] [[H224|of the Urim.]] [[H5921|At]] [[H6310|his command]] [[H1931|he]] [[H3605|and all]] [[H1121|the Israelites]] [[H854|with him,]] [[H3605|the entire]] [[H5712|congregation,]] [[H3318|will go out]] [[H935|and come in.”]] ^2721
 
-These are the sons of Ephraim according to their clans : of Shuthelah, the clan of the Shuthelahites; of Becher, the clan of the Becherites; of Tahan, the clan of the Tahanites. ^2635
+[[H4872|Moses]] [[H6213|did]] [[H834|as]] [[H3068|the LORD]] [[H6680|had commanded him.]] [[H3947|He took]] [[H3091|Joshua,]] [[H5975|had him stand]] [[H6440|before]] [[H499|Eleazar]] [[H3548|the priest]] [[H3605|and the whole]] [[H5712|congregation,]] ^2722
 
-And these are the sons of Shuthelah : of Eran, the clan of the Eranites. ^2636
+[[H5564|and laid]] [[H3027|his hands]] [[H5921|on him]] [[H6680|and commissioned him,]] [[H834|as]] [[H3068|the LORD]] [[H1696|had instructed]] [[H3027|through]] [[H4872|Moses.]] ^2723
 
-These are the clans of the sons of Ephraim as they were listed, 32,500. These are the sons of Joseph according to their clans. ^2637
+[[H3068|Then the LORD]] [[H1696|said]] [[H413|to]] [[H4872|Moses,]] ^2801
 
-The sons of Benjamin according to their clans : of Bela, the clan of the Belaites; of Ashbel, the clan of the Ashbelites; of Ahiram, the clan of the Ahiramites; ^2638
+[[H6680|“Command]] [[H1121|the Israelites]] [[H559|and say]] [[H413|to them:]] [[H8104|See]] [[H7126|that you present]] [[H4150|to Me  at its appointed time]] [[H3899|the food]] [[H7133|for My offerings]] [[H801|by fire,]] [[H5207|as a pleasing]] [[H7381|aroma to Me.]] ^2802
 
-of Shephupham, the clan of the Shuphamites; of Hupham, the clan of the Huphamites. ^2639
+[[H559|And tell]] [[H2088|them:  This]] ⟨is⟩ [[H801|the offering by fire]] [[H7126|you are to present]] [[H3068|to the LORD:]] [[H8147|two]] [[H8549|unblemished]] [[H1121|year-old]] [[H3532|male lambs,]] [[H8548|as a regular]] [[H5930|burnt offering]] [[H3117|each day.]] ^2803
 
-And the sons of Bela were Ard and Naaman : of Ard, the clan of the Ardites; of Naaman, the clan of the Naamites. ^2640
+[[H6213|You are to offer]] [[H259|one]] [[H3532|lamb]] [[H1242|in the morning]] [[H8145|and the other]] [[H996|at]] [[H6153|twilight,]] ^2804
 
-These are the sons of Benjamin according to their clans, and those listed were 45,600. ^2641
+[[H6224|along with a tenth]] [[H374|of an ephah]] [[H5560|of fine flour]] [[H4503|as a grain offering,]] [[H1101|mixed]] [[H7243|with a quarter]] [[H1969|hin]] [[H8081|of olive oil]] [[H3795|from pressed olives.]] ^2805
 
-These are the sons of Dan according to their clans : of Shuham, the clan of the Shuhamites. These are the clans of Dan according to their clans. ^2642
+[[H8548|This is a regular]] [[H5930|burnt offering]] [[H6213|established]] [[H2022|at Mount]] [[H5514|Sinai]] [[H5207|as a pleasing]] [[H7381|aroma,]] [[H801|an offering made by fire]] [[H3068|to the LORD.]] ^2806
 
-All the clans of the Shuhamites, as they were listed, were 64,400. ^2643
+[[H5262|And the drink offering]] [[H259|accompanying each]] [[H3532|lamb]] ⟨shall be⟩ [[H7243|a quarter]] [[H1969|hin.]] [[H5258|Pour out]] [[H5262|the offering]] [[H7941|of fermented drink]] [[H3068|to the LORD]] [[H6944|in the sanctuary area.]] ^2807
 
-The sons of Asher according to their clans : of Imnah, the clan of the Imnites; of Ishvi, the clan of the Ishvites; of Beriah, the clan of the Beriites. ^2644
+[[H6213|You are to offer]] [[H8145|the second]] [[H3532|lamb]] [[H996|at]] [[H6153|twilight,]] [[H4503|with the same kind of grain offering]] [[H5262|and drink offering]] [[H1242|as in the morning.]] [[H801|It is an offering made by fire,]] [[H5207|a pleasing]] [[H7381|aroma]] [[H3068|to the LORD.]] ^2808
 
-Of the sons of Beriah : of Heber, the clan of the Heberites; of Malchiel, the clan of the Malchielites. ^2645
+[[H7676|On the Sabbath]] [[H3117|day,]] [[H8147|present two]] [[H8549|unblemished]] [[H1121|year-old]] [[H3532|male lambs,]] [[H4503|accompanied by a grain offering]] [[H8147|of two-tenths of an ephah]] [[H5560|of fine flour]] [[H1101|mixed]] [[H8081|with oil,]] [[H5262|as well as a drink offering.]] ^2809
 
-And the name of the daughter of Asher was Serah. ^2646
+[[H5930|This is the burnt offering]] [[H7676|for every Sabbath,]] [[H5921|in addition to]] [[H8548|the regular]] [[H5930|burnt offering]] [[H5262|and its drink offering.]] ^2810
 
-These are the clans of the sons of Asher as they were listed, 53,400. ^2647
+[[H7218|At the beginning]] [[H2320|of every month,]] [[H7126|you are to present]] [[H3069|to the LORD]] [[H5930|a burnt offering]] [[H8147|of two]] [[H1121|young]] [[H6499|bulls,]] [[H259|one]] [[H352|ram,]] [[H7651|and seven]] [[H3532|male lambs]] [[H1121|a year old,]] [[H8549|all unblemished,]] ^2811
 
-The sons of Naphtali according to their clans : of Jahzeel, the clan of the Jahzeelites; of Guni, the clan of the Gunites; ^2648
+[[H7969|along with three-tenths]] ⟨of an ephah⟩ [[H5560|of fine flour]] [[H1101|mixed]] [[H8081|with oil]] [[H4503|as a grain offering]] [[H259|for each]] [[H6499|bull,]] [[H8147|two-tenths]] ⟨of an ephah⟩ [[H5560|of fine flour]] [[H1101|mixed]] [[H8081|with oil]] [[H4503|as a grain offering]] [[H352|for the ram,]] ^2812
 
-of Jezer, the clan of the Jezerites; of Shillem, the clan of the Shillemites. ^2649
+[[H6241|and a tenth]] ⟨of an ephah⟩ [[H5560|of fine flour]] [[H1101|mixed]] [[H8081|with oil]] [[H4503|as a grain offering]] [[H259|for each]] [[H3532|lamb.]] [[H5930|This is a burnt offering,]] [[H5207|a pleasing]] [[H7381|aroma,]] [[H801|an offering made by fire]] [[H3068|to the LORD.]] ^2813
 
-These are the clans of Naphtali according to their clans, and those listed were 45,400. ^2650
+[[H5262|Their drink offerings]] [[H1961|shall be]] [[H2677|half]] [[H1969|a hin]] [[H3196|of wine]] [[H6499|with each bull,]] [[H7992|a third]] [[H1969|of a hin]] [[H352|with the ram,]] [[H7243|and a quarter]] [[H1969|hin]] [[H3532|with each lamb.]] [[H2063|This]] [[H2320|is the monthly]] [[H5930|burnt offering]] [[H2320|to be made at each new moon]] [[H8141|throughout the year.]] ^2814
 
-This was the list of the people of Israel, 601,730. ^2651
+[[H5921|In addition to]] [[H8548|the regular]] [[H5930|burnt offering]] [[H5262|with its drink offering,]] [[H259|one]] [[H8163|male goat]] [[H6213|is to be presented]] [[H3068|to the LORD]] [[H2403|as a sin offering.]] ^2815
 
-The Lord spoke to Moses, saying, ^2652
+[[H702|The fourteenth]] [[H3117|day]] [[H7223|of the first]] [[H2320|month]] [[H3068|is the LORD’s]] [[H6453|Passover.]] ^2816
 
-Among these the land shall be divided for inheritance according to the number of names. ^2653
+[[H2568|On the fifteenth]] [[H3117|day]] [[H2088|of this]] [[H2320|month,]] [[H2282|there shall be a feast;]] [[H7651|for seven]] [[H3117|days]] [[H4682|unleavened bread]] [[H398|is to be eaten.]] ^2817
 
-To a large tribe you shall give a large inheritance, and to a small tribe you shall give a small inheritance; every tribe shall be given its inheritance in proportion to its list. ^2654
+[[H7223|On the first]] [[H3117|day]] [[H6944|there is to be a sacred]] [[H4744|assembly;]] [[H3808|you are not]] [[H6213|to do]] [[H3605|any]] [[H4399|regular work.]] ^2818
 
-But the land shall be divided by lot. According to the names of the tribes of their fathers they shall inherit. ^2655
+[[H7126|Present]] [[H3068|to the LORD]] [[H801|an offering made by fire,]] [[H5930|a burnt offering]] [[H8147|of two]] [[H1121|young]] [[H6499|bulls,]] [[H259|one]] [[H352|ram,]] [[H7651|and seven]] [[H3532|male lambs]] [[H1121|a year old,]] [[H1961|all]] [[H8549|unblemished.]] ^2819
 
-Their inheritance shall be divided according to lot between the larger and the smaller. ^2656
+[[H4503|The grain offering]] [[H5560|shall consist of fine flour]] [[H1101|mixed]] [[H8081|with oil;]] [[H6213|offer]] [[H7969|three-tenths]] ⟨of an ephah⟩ [[H6499|with each bull,]] [[H8147|two-tenths]] ⟨of an ephah⟩ [[H352|with the ram,]] ^2820
 
-This was the list of the Levites according to their clans : of Gershon, the clan of the Gershonites; of Kohath, the clan of the Kohathites; of Merari, the clan of the Merarites. ^2657
+[[H6213|and]] [[H6241|a tenth]] ⟨of an ephah⟩ [[H259|with each]] [[H7651|of the seven]] [[H3532|lambs.]] ^2821
 
-These are the clans of Levi : the clan of the Libnites, the clan of the Hebronites, the clan of the Mahlites, the clan of the Mushites, the clan of the Korahites. And Kohath was the father of Amram. ^2658
+[[H259|Include one]] [[H8163|male goat]] [[H2403|as a sin offering]] [[H3722|to make atonement]] [[H5921|for you.]] ^2822
 
-The name of Amram’s wife was Jochebed the daughter of Levi, who was born to Levi in Egypt. And she bore to Amram Aaron and Moses and Miriam their sister. ^2659
+[[H6213|You are to present]] [[H428|these]] [[H905|in addition to]] [[H834|the]] [[H8548|regular]] [[H1242|morning]] [[H5930|burnt offering.]] ^2823
 
-And to Aaron were born Nadab, Abihu, Eleazar, and Ithamar. ^2660
+[[H6213|Offer]] [[H428|the same]] [[H3899|food]] [[H3117|each day]] [[H7651|for seven]] [[H3117|days]] [[H801|as an offering made by fire,]] [[H5207|a pleasing]] [[H7381|aroma]] [[H3068|to the LORD.]] [[H6213|It is to be offered]] [[H5921|with]] [[H5262|its drink offering]] [[H8548|and the regular]] [[H5930|burnt offering.]] ^2824
 
-But Nadab and Abihu died when they offered unauthorized fire before the Lord. ^2661
+[[H7637|On the seventh]] [[H3117|day]] [[H1961|you shall hold]] [[H6944|a sacred]] [[H4744|assembly;]] [[H3808|you must not]] [[H6213|do]] [[H3605|any]] [[H4399|regular work.]] ^2825
 
-And those listed were 23,000, every male from a month old and upward. For they were not listed among the people of Israel, because there was no inheritance given to them among the people of Israel. ^2662
+[[H3117|On the day]] [[H1061|of firstfruits,]] [[H7126|when you present]] [[H2319|an offering of new]] [[H4503|grain]] [[H3068|to the LORD]] [[H7620|during the Feast of Weeks,]] [[H1961|you are to hold]] [[H6944|a sacred]] [[H4744|assembly;]] [[H3808|you are not]] [[H6213|to do]] [[H3605|any]] [[H4399|regular work.]] ^2826
 
-These were those listed by Moses and Eleazar the priest, who listed the people of Israel in the plains of Moab by the Jordan at Jericho. ^2663
+[[H7126|Present]] [[H5930|a burnt offering]] [[H8147|of two]] [[H1121|young]] [[H6499|bulls,]] [[H259|one]] [[H352|ram,]] [[H7651|and seven]] [[H3532|male lambs]] [[H1121|a year old]] [[H5207|as a pleasing]] [[H7381|aroma]] [[H3068|to the LORD,]] ^2827
 
-But among these there was not one of those listed by Moses and Aaron the priest, who had listed the people of Israel in the wilderness of Sinai. ^2664
+[[H4503|along with their grain offering]] [[H5560|of fine flour]] [[H1101|mixed]] [[H8081|with oil,]] [[H7969|three-tenths]] ⟨of an ephah⟩ [[H259|with each]] [[H6499|bull,]] [[H8147|two-tenths]] ⟨of an ephah⟩ [[H352|with the ram,]] ^2828
 
-For the Lord had said of them, They shall die in the wilderness. Not one of them was left, except Caleb the son of Jephunneh and Joshua the son of Nun. ^2665
+[[H6241|and a tenth]] ⟨of an ephah⟩ [[H259|with each]] [[H7651|of the seven]] [[H3532|lambs.]] ^2829
 
+[[H259|Include one]] [[H8163|male goat]] [[H3722|to make atonement]] [[H5921|for you.]] ^2830
 
+[[H6213|Offer]] [[H5262|them with their drink offerings]] [[H905|in addition to]] [[H8548|the regular]] [[H5930|burnt offering]] [[H4503|and its grain offering.]] [[H1961|The animals must be]] [[H8549|unblemished.]] ^2831
 
-Then drew near the daughters of Zelophehad the son of Hepher, son of Gilead, son of Machir, son of Manasseh, from the clans of Manasseh the son of Joseph. The names of his daughters were: Mahlah, Noah, Hoglah, Milcah, and Tirzah. ^2701
+[[H259|On the first]] [[H2320|day]] [[H7637|of the seventh]] [[H2320|month,]] [[H1961|you are to hold]] [[H6944|a sacred]] [[H4744|assembly,]] [[H3808|and you must not]] [[H6213|do]] [[H3605|any]] [[H4399|regular work.]] [[H1961|This will be]] [[H3117|a day]] [[H8643|for you  to sound the trumpets.]] ^2901
 
-And they stood before Moses and before Eleazar the priest and before the chiefs and all the congregation, at the entrance of the tent of meeting, saying, ^2702
+[[H5207|As a pleasing]] [[H7381|aroma]] [[H3068|to the LORD,]] [[H6213|you are to present]] [[H5930|a burnt offering]] [[H259|of one]] [[H1121|young]] [[H6499|bull,]] [[H259|one]] [[H352|ram,]] [[H7651|and seven]] [[H3532|male lambs]] [[H1121|a year old,]] [[H8549|all unblemished,]] ^2902
 
-Our father died in the wilderness. He was not among the company of those who gathered themselves together against the Lord in the company of Korah, but died for his own sin. And he had no sons. ^2703
+[[H4503|along with their grain offering]] [[H5560|of fine flour]] [[H1101|mixed]] [[H8081|with oil,]] [[H7969|three-tenths]] ⟨of an ephah⟩ [[H6499|with the bull,]] [[H8147|two-tenths]] ⟨of an ephah⟩ [[H352|with the ram,]] ^2903
 
-Why should the name of our father be taken away from his clan because he had no son? Give to us a possession among our father’s brothers. ^2704
+[[H6241|and one-tenth]] ⟨of an ephah⟩ [[H259|with each]] [[H7651|of the seven]] [[H3532|male lambs.]] ^2904
 
-Moses brought their case before the Lord. ^2705
+[[H259|Include one]] [[H8163|male goat]] [[H2403|as a sin offering]] [[H3722|to make atonement]] [[H5921|for you.]] ^2905
 
-And the Lord said to Moses, ^2706
+[[H905|These are in addition to]] [[H2320|the monthly]] [[H8548|and daily]] [[H5930|burnt offerings]] [[H4941|with their prescribed]] [[H4503|grain offerings]] [[H5262|and drink offerings.]] [[H5207|They are a pleasing]] [[H7381|aroma,]] [[H801|an offering made by fire]] [[H3068|to the LORD.]] ^2906
 
-The daughters of Zelophehad are right. You shall give them possession of an inheritance among their father’s brothers and transfer the inheritance of their father to them. ^2707
+[[H6218|On the tenth]] [[H2088|day of this]] [[H7637|seventh]] [[H2320|month,]] [[H1961|you are to hold]] [[H6944|a sacred]] [[H4744|assembly,]] [[H6031|and you shall humble]] [[H5315|yourselves;]] [[H3808|you must not]] [[H6213|do]] [[H3605|any]] [[H4399|work.]] ^2907
 
-And you shall speak to the people of Israel, saying, If a man dies and has no son, then you shall transfer his inheritance to his daughter. ^2708
+[[H7126|Present]] [[H5207|as a pleasing]] [[H7381|aroma]] [[H3068|to the LORD]] [[H5930|a burnt offering]] [[H259|of one]] [[H1121|young]] [[H6499|bull,]] [[H259|one]] [[H352|ram,]] [[H7651|and seven]] [[H3532|male lambs]] [[H1121|a year old,]] [[H1961|all]] [[H8549|unblemished,]] ^2908
 
-And if he has no daughter, then you shall give his inheritance to his brothers. ^2709
+[[H4503|along with their grain offering]] [[H5560|of fine flour]] [[H1101|mixed]] [[H8081|with oil,]] [[H7969|three-tenths]] ⟨of an ephah⟩ [[H6499|with the bull,]] [[H8147|two-tenths]] ⟨of an ephah⟩ [[H352|with the ram,]] ^2909
 
-And if he has no brothers, then you shall give his inheritance to his father’s brothers. ^2710
+[[H6241|and one-tenth]] ⟨of an ephah⟩ [[H259|with each]] [[H7651|of the seven]] [[H3532|lambs.]] ^2910
 
-And if his father has no brothers, then you shall give his inheritance to the nearest kinsman of his clan, and he shall possess it. And it shall be for the people of Israel a statute and rule, as the Lord commanded Moses. ^2711
+[[H259|Include one]] [[H8163|male goat]] [[H2403|for a sin offering,]] [[H905|in addition to]] [[H2403|the sin offering]] [[H3725|of atonement]] [[H8548|and the regular]] [[H5930|burnt offering]] [[H4503|with its grain offering]] [[H5262|and drink offerings.]] ^2911
 
-The Lord said to Moses, Go up into this mountain of Abarim and see the land that I have given to the people of Israel. ^2712
+[[H2568|On the fifteenth]] [[H3117|day]] [[H7637|of the seventh]] [[H2320|month,]] [[H1961|you are to hold]] [[H6944|a sacred]] [[H4744|assembly;]] [[H3808|you must not]] [[H6213|do]] [[H3605|any]] [[H4399|regular work,]] [[H2287|and you shall observe]] [[H2282|a feast]] [[H3069|for the LORD]] [[H7651|for seven]] [[H3117|days.]] ^2912
 
-When you have seen it, you also shall be gathered to your people, as your brother Aaron was, ^2713
+[[H5207|As a pleasing]] [[H7381|aroma]] [[H3068|to the LORD,]] [[H7126|you are to present]] [[H801|an offering made by fire,]] [[H5930|a burnt offering]] [[H7969|of thirteen]] [[H1121|young]] [[H6499|bulls,]] [[H8147|two]] [[H352|rams,]] ⟨and⟩ [[H702|fourteen]] [[H3532|male lambs]] [[H1121|a year old,]] [[H1961|all]] [[H8549|unblemished,]] ^2913
 
-because you rebelled against my word in the wilderness of Zin when the congregation quarreled, failing to uphold me as holy at the waters before their eyes. ( These are the waters of Meribah of Kadesh in the wilderness of Zin .) ^2714
+[[H4503|along with the grain offering]] [[H7969|three-tenths]] ⟨of an ephah⟩ [[H5560|of fine flour]] [[H1101|mixed]] [[H8081|with oil]] [[H259|with each]] [[H7969|of the thirteen]] [[H6499|bulls,]] [[H8147|two-tenths]] ⟨of an ephah⟩ [[H259|with each]] [[H8147|of the two]] [[H352|rams,]] ^2914
 
-Moses spoke to the Lord, saying, ^2715
+[[H6241|and one-tenth]] ⟨of an ephah⟩ [[H259|with each]] [[H702|of the fourteen]] [[H3532|lambs.]] ^2915
 
-Let the Lord, the God of the spirits of all flesh, appoint a man over the congregation ^2716
+[[H259|Include one]] [[H8163|male goat]] [[H2403|as a sin offering,]] [[H905|in addition to]] [[H8548|the regular]] [[H5930|burnt offering]] [[H4503|with its grain and drink offerings.]] ^2916
 
-who shall go out before them and come in before them, who shall lead them out and bring them in, that the congregation of the Lord may not be as sheep that have no shepherd. ^2717
+[[H8145|On the second]] [[H3117|day]] ⟨you are to present⟩ [[H8147|twelve]] [[H6499|young bulls,]] [[H8147|two]] [[H352|rams,]] ⟨and⟩ [[H702|fourteen]] [[H3532|male lambs]] [[H1121|a year old,]] [[H8549|all unblemished,]] ^2917
 
-So the Lord said to Moses, Take Joshua the son of Nun, a man in whom is the Spirit, and lay your hand on him. ^2718
+[[H4503|along with the grain and drink offerings]] [[H6499|for the bulls,]] [[H352|rams,]] [[H3532|and lambs,]] [[H4557|according to the number]] [[H4941|prescribed.]] ^2918
 
-Make him stand before Eleazar the priest and all the congregation, and you shall commission him in their sight. ^2719
+[[H259|Include one]] [[H8163|male goat]] [[H2403|as a sin offering,]] [[H905|in addition to]] [[H8548|the regular]] [[H5930|burnt offering]] [[H4503|with its grain and drink offerings.]] ^2919
 
-You shall invest him with some of your authority, that all the congregation of the people of Israel may obey. ^2720
+[[H7992|On the third]] [[H3117|day]] ⟨you are to present⟩ [[H6249|eleven]] [[H6499|bulls,]] [[H8147|two]] [[H352|rams,]] ⟨and⟩ [[H702|fourteen]] [[H3532|male lambs]] [[H1121|a year old,]] [[H8549|all unblemished,]] ^2920
 
-And he shall stand before Eleazar the priest, who shall inquire for him by the judgment of the Urim before the Lord. At his word they shall go out, and at his word they shall come in, both he and all the people of Israel with him, the whole congregation. ^2721
+[[H4503|along with the grain and drink offerings]] [[H6499|for the bulls,]] [[H352|rams,]] [[H3532|and lambs,]] [[H4557|according to the number]] [[H4941|prescribed.]] ^2921
 
-And Moses did as the Lord commanded him. He took Joshua and made him stand before Eleazar the priest and the whole congregation, ^2722
+[[H259|Include one]] [[H8163|male goat]] [[H2403|as a sin offering,]] [[H905|in addition to]] [[H8548|the regular]] [[H5930|burnt offering]] [[H4503|with its grain and drink offerings.]] ^2922
 
-and he laid his hands on him and commissioned him as the Lord directed through Moses. ^2723
+[[H7243|On the fourth]] [[H3117|day]] ⟨you are to present⟩ [[H6235|ten]] [[H6499|bulls,]] [[H8147|two]] [[H352|rams,]] ⟨and⟩ [[H702|fourteen]] [[H3532|male lambs]] [[H1121|a year old,]] [[H8549|all unblemished,]] ^2923
 
+[[H4503|along with the grain and drink offerings]] [[H6499|for the bulls,]] [[H352|rams,]] [[H3532|and lambs,]] [[H4557|according to the number]] [[H4941|prescribed.]] ^2924
 
+[[H259|Include one]] [[H8163|male goat]] [[H2403|as a sin offering,]] [[H905|in addition to]] [[H8548|the regular]] [[H5930|burnt offering]] [[H4503|with its grain and drink offerings.]] ^2925
 
-The Lord spoke to Moses, saying, ^2801
+[[H2549|On the fifth]] [[H3117|day]] ⟨you are to present⟩ [[H8672|nine]] [[H6499|bulls,]] [[H8147|two]] [[H352|rams,]] ⟨and⟩ [[H702|fourteen]] [[H3532|male lambs]] [[H1121|a year old,]] [[H8549|all unblemished,]] ^2926
 
-Command the people of Israel and say to them, My offering, my food for my food offerings, my pleasing aroma, you shall be careful to offer to me at its appointed time. ^2802
+[[H4503|along with the grain and drink offerings]] [[H6499|for the bulls,]] [[H352|rams,]] [[H3532|and lambs,]] [[H4557|according to the number]] [[H4941|prescribed.]] ^2927
 
-And you shall say to them, This is the food offering that you shall offer to the Lord : two male lambs a year old without blemish, day by day, as a regular offering. ^2803
+[[H259|Include one]] [[H8163|male goat]] [[H2403|as a sin offering,]] [[H905|in addition to]] [[H8548|the regular]] [[H5930|burnt offering]] [[H4503|with its grain and drink offerings.]] ^2928
 
-The one lamb you shall offer in the morning, and the other lamb you shall offer at twilight; ^2804
+[[H8345|On the sixth]] [[H3117|day]] ⟨you are to present⟩ [[H8083|eight]] [[H6499|bulls,]] [[H8147|two]] [[H352|rams,]] ⟨and⟩ [[H702|fourteen]] [[H3532|male lambs]] [[H1121|a year old,]] [[H8549|all unblemished,]] ^2929
 
-also a tenth of an ephah of fine flour for a grain offering, mixed with a quarter of a hin of beaten oil. ^2805
+[[H4503|along with the grain and drink offerings]] [[H6499|for the bulls,]] [[H352|rams,]] [[H3532|and lambs,]] [[H4557|according to the number]] [[H4941|prescribed.]] ^2930
 
-It is a regular burnt offering, which was ordained at Mount Sinai for a pleasing aroma, a food offering to the Lord. ^2806
+[[H259|Include one]] [[H8163|male goat]] [[H2403|as a sin offering,]] [[H905|in addition to]] [[H8548|the regular]] [[H5930|burnt offering]] [[H4503|with its grain and drink offerings.]] ^2931
 
-Its drink offering shall be a quarter of a hin for each lamb. In the Holy Place you shall pour out a drink offering of strong drink to the Lord. ^2807
+[[H7637|On the seventh]] [[H3117|day]] ⟨you are to present⟩ [[H7651|seven]] [[H6499|bulls,]] [[H8147|two]] [[H352|rams,]] ⟨and⟩ [[H702|fourteen]] [[H3532|male lambs]] [[H1121|a year old,]] [[H8549|all unblemished,]] ^2932
 
-The other lamb you shall offer at twilight. Like the grain offering of the morning, and like its drink offering, you shall offer it as a food offering, with a pleasing aroma to the Lord. ^2808
+[[H4503|along with the grain and drink offerings]] [[H6499|for the bulls,]] [[H352|rams,]] [[H3532|and lambs,]] [[H4557|according to the number]] [[H4941|prescribed.]] ^2933
 
-On the Sabbath day, two male lambs a year old without blemish, and two tenths of an ephah of fine flour for a grain offering, mixed with oil, and its drink offering : ^2809
+[[H259|Include one]] [[H8163|male goat]] [[H2403|as a sin offering,]] [[H905|in addition to]] [[H8548|the regular]] [[H5930|burnt offering]] [[H4503|with its grain and drink offerings.]] ^2934
 
-this is the burnt offering of every Sabbath, besides the regular burnt offering and its drink offering. ^2810
+[[H8066|On the eighth]] [[H3117|day]] [[H1961|you are to hold]] [[H6116|a solemn assembly;]] [[H3808|you must not]] [[H6213|do]] [[H3605|any]] [[H4399|regular work.]] ^2935
 
-At the beginnings of your months, you shall offer a burnt offering to the Lord : two bulls from the herd, one ram, seven male lambs a year old without blemish; ^2811
+[[H5207|As a pleasing]] [[H7381|aroma]] [[H3068|to the LORD,]] [[H7126|you are to present]] [[H801|an offering made by fire,]] [[H5930|a burnt offering]] [[H259|of one]] [[H6499|bull,]] [[H259|one]] [[H352|ram,]] ⟨and⟩ [[H7651|seven]] [[H3532|male lambs]] [[H1121|a year old,]] [[H8549|all unblemished,]] ^2936
 
-also three tenths of an ephah of fine flour for a grain offering, mixed with oil, for each bull, and two tenths of fine flour for a grain offering, mixed with oil, for the one ram; ^2812
+[[H4503|along with the grain and drink offerings]] [[H6499|for the bulls,]] [[H352|rams,]] [[H3532|and lambs,]] [[H4557|according to the number]] [[H4941|prescribed.]] ^2937
 
-and a tenth of fine flour mixed with oil as a grain offering for every lamb; for a burnt offering with a pleasing aroma, a food offering to the Lord. ^2813
+[[H259|Include one]] [[H8163|male goat]] [[H2403|as a sin offering,]] [[H905|in addition to]] [[H8548|the regular]] [[H5930|burnt offering]] [[H4503|with its grain and drink offerings.]] ^2938
 
-Their drink offerings shall be half a hin of wine for a bull, a third of a hin for a ram, and a quarter of a hin for a lamb. This is the burnt offering of each month throughout the months of the year. ^2814
+[[H6213|You are to present]] [[H428|these]] ⟨offerings⟩ [[H3068|to the LORD]] [[H4150|at your appointed times,]] [[H905|in addition to]] [[H5088|your vow]] [[H5071|and freewill offerings,]] [[H5930|whether burnt offerings,]] [[H4503|grain offerings,]] [[H5262|drink offerings,]] [[H8002|or peace offerings.”]] ^2939
 
-Also one male goat for a sin offering to the Lord; it shall be offered besides the regular burnt offering and its drink offering. ^2815
+[[H4872|So Moses]] [[H559|spoke]] [[H3605|all this]] [[H1121|to the Israelites]] [[H834|just as]] [[H3068|the LORD]] [[H6680|had commanded]] [[H4872|him.]] ^2940
 
-On the fourteenth day of the first month is the Lord ’s Passover, ^2816
+[[H4872|Then Moses]] [[H1696|said]] [[H7218|to the heads]] [[H4294|of the tribes]] [[H3478|of Israel,]] [[H2088|“This]] [[H834|is what]] [[H3068|the LORD]] [[H6680|has commanded:]] ^3001
 
-and on the fifteenth day of this month is a feast. Seven days shall unleavened bread be eaten. ^2817
+[[H3588|If]] [[H376|a man]] [[H5087|makes]] [[H5088|a vow]] [[H3069|to the LORD]] [[H176|or]] [[H7650|swears]] [[H7621|an oath]] [[H631|to obligate]] [[H5315|himself]] [[H632|by a pledge,]] [[H3808|he must not]] [[H2490|break]] [[H1697|his word;]] [[H6213|he must do]] [[H3605|everything]] [[H3318|he has promised.]] ^3002
 
-On the first day there shall be a holy convocation. You shall not do any ordinary work, ^2818
+[[H3588|And if]] [[H802|a woman]] [[H1|in her father’s]] [[H1004|house]] [[H5271|during her youth]] [[H5087|makes]] [[H5088|a vow]] [[H3068|to the LORD]] [[H631|or obligates herself]] [[H632|by a pledge,]] ^3003
 
-but offer a food offering, a burnt offering to the Lord : two bulls from the herd, one ram, and seven male lambs a year old; see that they are without blemish; ^2819
+[[H1|and her father]] [[H8085|hears about]] [[H5088|her vow]] [[H632|or pledge]] ⟨but⟩ [[H1|]] [[H2790|says nothing to her,]] [[H3605|all]] [[H5088|the vows]] ⟨and⟩ [[H3605|]] [[H632|pledges]] [[H631|with which she has bound]] [[H5315|herself]] [[H6965|shall stand.]] ^3004
 
-also their grain offering of fine flour mixed with oil; three tenths of an ephah shall you offer for a bull, and two tenths for a ram; ^2820
+[[H518|But if]] [[H1|her father]] [[H5106|prohibits]] [[H3117|her on the day]] [[H8085|he hears]] [[H3605|about it,]] [[H3808|none]] [[H5088|of the vows]] [[H632|or pledges]] [[H631|with which she has bound]] [[H5315|herself]] [[H6965|are binding.]] [[H3068|The LORD]] [[H5545|will absolve]] [[H3588|her  because]] [[H1|her father]] [[H5106|has prohibited her.]] ^3005
 
-a tenth shall you offer for each of the seven lambs; ^2821
+[[H518|If]] [[H1961|a woman marries]] [[H5088|while under a vow]] [[H176|or]] [[H4008|rash promise]] [[H834|by which]] [[H5315|she]] [[H631|has bound]] [[H5921|herself,]] ^3006
 
-also one male goat for a sin offering, to make atonement for you. ^2822
+[[H376|and her husband]] [[H8085|hears of it]] [[H2790|but says nothing]] [[H3117|to her  on that day,]] [[H5088|then the vows]] [[H632|and pledges]] [[H834|by which]] [[H5315|she]] [[H631|has bound]] [[H5921|herself]] [[H6965|shall stand.]] ^3007
 
-You shall offer these besides the burnt offering of the morning, which is for a regular burnt offering. ^2823
+[[H518|But if]] [[H376|her husband]] [[H5106|prohibits]] [[H853|her]] [[H3117|when]] [[H8085|he hears of it,]] [[H6565|he nullifies]] [[H5088|the vow]] [[H834|that]] [[H5921|binds her]] [[H4008|or the rash promise]] [[H5315|she]] [[H631|has made,]] [[H3068|and the LORD]] [[H5545|will absolve]] ^3008
 
-In the same way you shall offer daily, for seven days, the food of a food offering, with a pleasing aroma to the Lord. It shall be offered besides the regular burnt offering and its drink offering. ^2824
+[[H3605|Every]] [[H5088|vow]] [[H490|a widow]] [[H1644|or divorced woman]] [[H631|pledges to fulfill]] [[H6965|is binding]] [[H5921|on her.]] ^3009
 
-And on the seventh day you shall have a holy convocation. You shall not do any ordinary work. ^2825
+[[H518|If]] [[H376|a woman in her husband’s]] [[H1004|house]] [[H5087|has made a vow]] [[H176|or]] [[H5315|put herself]] [[H5921|under]] [[H631|an obligation]] [[H7621|with an oath,]] ^3010
 
-On the day of the firstfruits, when you offer a grain offering of new grain to the Lord at your Feast of Weeks, you shall have a holy convocation. You shall not do any ordinary work, ^2826
+[[H376|and her husband]] [[H8085|hears of it]] [[H2790|says nothing]] [[H3808|to her  and does not]] [[H5106|prohibit her,]] [[H3605|then all]] [[H5088|the vows]] ⟨and⟩ [[H3605|]] [[H632|obligations]] [[H631|with which she has bound]] [[H5315|herself]] [[H6965|shall stand.]] ^3011
 
-but offer a burnt offering, with a pleasing aroma to the Lord : two bulls from the herd, one ram, seven male lambs a year old; ^2827
+[[H518|But if]] [[H376|her husband]] [[H6565|nullifies]] [[H3117|them on the day]] [[H8085|he hears of them,]] [[H3605|then nothing]] [[H4161|that came from]] [[H8193|her lips,]] [[H5088|whether her vows]] [[H5315|or her]] [[H632|obligation,]] [[H6965|shall stand.]] [[H376|Her husband]] [[H6565|has nullified them,]] [[H3068|and the LORD]] [[H5545|will absolve her.]] ^3012
 
-also their grain offering of fine flour mixed with oil, three tenths of an ephah for each bull, two tenths for one ram, ^2828
+[[H376|Her husband]] [[H6965|may confirm]] [[H6565|or nullify]] [[H3605|any]] [[H5088|vow]] [[H3605|or any]] [[H7621|sworn]] [[H632|pledge]] [[H6031|to deny]] [[H5315|herself.]] ^3013
 
-a tenth for each of the seven lambs; ^2829
+[[H518|But if]] [[H376|her husband]] [[H2790|says nothing]] [[H3117|to her  from day]] [[H413|to]] [[H3117|day,]] [[H6965|then he confirms]] [[H3605|all]] [[H5088|the vows]] [[H176|and]] [[H632|pledges]] [[H834|that]] [[H5921|bind her.]] [[H6965|He has confirmed]] [[H853|them,]] [[H3588|because]] [[H2790|he said nothing]] [[H3117|to her  on the day]] [[H8085|he heard about them.]] ^3014
 
-with one male goat, to make atonement for you. ^2830
+[[H518|But if]] [[H6565|he nullifies]] [[H853|them]] [[H310|after]] [[H8085|he hears of them,]] [[H5375|then he will bear]] [[H853|her]] [[H5771|iniquity.”]] ^3015
 
-Besides the regular burnt offering and its grain offering, you shall offer them and their drink offering. See that they are without blemish. ^2831
+[[H428|These]] [[H2706|are the statutes]] [[H834|that]] [[H3068|the LORD]] [[H6680|commanded]] [[H4872|Moses]] [[H996|concerning relationships between]] [[H376|a man]] [[H802|and his wife,]] [[H996|and between]] [[H1|a father]] [[H1323|and a young daughter]] [[H1|still in his]] [[H1004|home.]] ^3016
 
+[[H3068|And the LORD]] [[H1696|said]] [[H413|to]] [[H4872|Moses,]] ^3101
 
+[[H5358|“Take vengeance]] [[H853|on]] [[H4084|the Midianites]] [[H1121|for the Israelites.]] [[H310|After that,]] [[H622|you will be gathered]] [[H413|to]] [[H5971|your people.”]] ^3102
 
-On the first day of the seventh month you shall have a holy convocation. You shall not do any ordinary work. It is a day for you to blow the trumpets, ^2901
+[[H4872|So Moses]] [[H1696|told]] [[H5971|the people,]] [[H2502|“Arm]] [[H376|some of your men]] [[H6635|for war,]] [[H1961|that they may go]] [[H5921|against]] [[H4080|the Midianites]] [[H5414|and execute]] [[H3068|the LORD’s]] [[H5360|vengeance]] [[H4080|on them.]] ^3103
 
-and you shall offer a burnt offering, for a pleasing aroma to the Lord : one bull from the herd, one ram, seven male lambs a year old without blemish; ^2902
+[[H7971|Send]] [[H6635|into battle]] [[H505|a thousand men]] [[H3605|from each]] [[H4294|tribe]] [[H3478|of Israel.”]] ^3104
 
-also their grain offering of fine flour mixed with oil, three tenths of an ephah for the bull, two tenths for the ram, ^2903
+[[H505|So a thousand men]] [[H4560|were recruited]] [[H4294|from each tribe]] [[H3478|of Israel—]] [[H8147|twelve]] [[H505|thousand]] [[H2502|armed]] [[H6635|for war.]] ^3105
 
-and one tenth for each of the seven lambs; ^2904
+[[H4872|And Moses]] [[H7971|sent]] [[H505|the thousand]] [[H4294|from each tribe]] [[H6635|into battle,]] [[H853|along with]] [[H6372|Phinehas]] [[H1121|son]] [[H499|of Eleazar]] [[H3548|the priest,]] [[H3027|who took with him]] [[H3627|the vessels]] [[H6944|of the sanctuary]] [[H2689|and the trumpets]] [[H8643|for signaling.]] ^3106
 
-with one male goat for a sin offering, to make atonement for you; ^2905
+[[H6633|Then they waged war]] [[H5921|against]] [[H4080|Midian,]] [[H834|as]] [[H3068|the LORD]] [[H6680|had commanded]] [[H4872|Moses,]] [[H2026|and killed]] [[H3605|every]] [[H2145|male.]] ^3107
 
-besides the burnt offering of the new moon, and its grain offering, and the regular burnt offering and its grain offering, and their drink offering, according to the rule for them, for a pleasing aroma, a food offering to the Lord. ^2906
+[[H5921|Along]] [[H2491|with those who were slain,]] [[H2026|they killed]] [[H4428|the kings]] [[H4080|of Midian—]] [[H189|Evi,]] [[H7552|Rekem,]] [[H6698|Zur,]] [[H2354|Hur,]] [[H7254|and Reba—]] [[H2568|the five]] [[H4428|kings]] [[H4080|of Midian.]] [[H2026|They also killed]] [[H1109|Balaam]] [[H1121|son]] [[H1160|of Beor]] [[H2719|with the sword.]] ^3108
 
-On the tenth day of this seventh month you shall have a holy convocation and afflict yourselves. You shall do no work, ^2907
+[[H1121|The Israelites]] [[H7617|captured]] [[H4080|the Midianite]] [[H802|women]] [[H2945|and their children,]] [[H962|and they plundered]] [[H3605|all]] [[H929|their herds,]] [[H4735|flocks,]] [[H2428|and goods.]] ^3109
 
-but you shall offer a burnt offering to the Lord, a pleasing aroma : one bull from the herd, one ram, seven male lambs a year old : see that they are without blemish. ^2908
+[[H8313|Then they burned]] [[H3605|all]] [[H5892|the cities]] [[H4186|where had lived,]] ⟨the Midianites⟩ [[H3605|as well as all]] [[H2918|their encampments,]] ^3110
 
-And their grain offering shall be of fine flour mixed with oil, three tenths of an ephah for the bull, two tenths for the one ram, ^2909
+[[H3947|and carried away]] [[H3605|all]] [[H7998|the plunder]] [[H3605|and]] [[H4455|spoils,]] [[H120|both people]] [[H929|and animals.]] ^3111
 
-a tenth for each of the seven lambs : ^2910
+[[H935|They brought]] [[H7628|the captives,]] [[H4455|spoils,]] [[H7998|and plunder]] [[H4872|to Moses,]] [[H499|to Eleazar]] [[H3548|the priest,]] [[H5712|and to the congregation]] [[H1121|of Israel]] [[H413|at]] [[H4264|the camp]] [[H413|on]] [[H6160|the plains]] [[H4124|of Moab,]] [[H5921|by]] [[H3383|the Jordan]] [[H3405|across from Jericho.]] ^3112
 
-also one male goat for a sin offering, besides the sin offering of atonement, and the regular burnt offering and its grain offering, and their drink offerings. ^2911
+[[H4872|And Moses,]] [[H499|Eleazar]] [[H3548|the priest,]] [[H3605|and all]] [[H5387|the leaders]] [[H5712|of the congregation]] [[H3318|went to meet them]] [[H2351|outside]] [[H4264|the camp.]] ^3113
 
-On the fifteenth day of the seventh month you shall have a holy convocation. You shall not do any ordinary work, and you shall keep a feast to the Lord seven days. ^2912
+[[H4872|But Moses]] [[H7107|was angry]] [[H5921|with]] [[H6485|the officers]] [[H2428|of the army—]] [[H8269|the commanders]] [[H505|of thousands]] [[H8269|and commanders]] [[H3967|of hundreds—]] [[H935|who were returning]] [[H6635|from]] [[H4421|the battle.]] ^3114
 
-And you shall offer a burnt offering, a food offering, with a pleasing aroma to the Lord, thirteen bulls from the herd, two rams, fourteen male lambs a year old; they shall be without blemish; ^2913
+[[H2421|“Have you spared]] [[H3605|all]] [[H5347|the women?”]] [[H4872|he]] [[H559|asked them.]] ^3115
 
-and their grain offering of fine flour mixed with oil, three tenths of an ephah for each of the thirteen bulls, two tenths for each of the two rams, ^2914
+[[H2005|“Look,]] [[H2007|these women]] ⟨caused⟩ [[H1121|the sons]] [[H3478|of Israel,]] [[H1697|through the counsel]] [[H1109|of Balaam,]] [[H4560|to turn]] [[H4604|unfaithfully]] [[H3068|against the LORD]] [[H5921|at]] [[H6465|Peor,]] [[H4046|so that the plague]] [[H1961|struck]] [[H5712|the congregation]] [[H3068|of the LORD.]] ^3116
 
-and a tenth for each of the fourteen lambs; ^2915
+[[H6258|So now,]] [[H2026|kill]] [[H3605|all]] [[H2145|the boys,]] [[H2026|and kill]] [[H3605|every]] [[H802|woman]] [[H3045|who has had relations with]] [[H2145|a man,]] ^3117
 
-also one male goat for a sin offering, besides the regular burnt offering, its grain offering and its drink offering. ^2916
+[[H2421|but spare]] [[H3605|for yourselves  every]] [[H2945|girl]] [[H834|who]] [[H3808|has never]] [[H3045|had relations]] [[H2145|with a man.]] ^3118
 
-On the second day twelve bulls from the herd, two rams, fourteen male lambs a year old without blemish, ^2917
+[[H3605|All of you]] [[H2026|who have killed]] [[H5315|a person]] [[H5060|or touched]] [[H2491|the dead]] [[H2583|are to remain]] [[H2351|outside]] [[H4264|the camp]] [[H7651|for seven]] [[H3117|days.]] [[H7992|On the third]] [[H3117|day]] [[H7637|and the seventh]] [[H3117|day]] [[H2398|you are to purify]] ⟨both⟩ [[H859|yourselves]] [[H7628|and your captives.]] ^3119
 
-with the grain offering and the drink offerings for the bulls, for the rams, and for the lambs, in the prescribed quantities; ^2918
+[[H2398|And purify]] [[H3605|every]] [[H899|garment]] [[H5785|and leather]] [[H3627|good,]] [[H4639|everything]] [[H5795|made of goat’s hair,]] [[H3605|and every]] [[H3627|article]] [[H6086|of wood.”]] ^3120
 
-also one male goat for a sin offering, besides the regular burnt offering and its grain offering, and their drink offerings. ^2919
+[[H499|Then Eleazar]] [[H3548|the priest]] [[H559|said]] [[H413|to]] [[H582|the soldiers]] [[H935|who had gone]] [[H4421|into battle,]] [[H2063|“This]] [[H2708|is the statute]] [[H8451|of the law]] [[H834|which]] [[H3069|the LORD]] [[H6680|has commanded]] [[H4872|Moses:]] ^3121
 
-On the third day eleven bulls, two rams, fourteen male lambs a year old without blemish, ^2920
+[[H389|Only]] [[H2091|the gold,]] [[H3701|silver,]] [[H5178|bronze,]] [[H1270|iron,]] [[H913|tin,]] [[H5777|and lead—]] ^3122
 
-with the grain offering and the drink offerings for the bulls, for the rams, and for the lambs, in the prescribed quantities; ^2921
+[[H3605|everything]] [[H834|that]] [[H935|can withstand]] [[H784|the fire—]] [[H5674|must be put]] [[H784|through the fire,]] [[H2891|and it will be clean.]] [[H389|But]] [[H2398|it must still be purified]] [[H4325|with the water]] [[H5079|of purification.]] [[H3605|And everything]] [[H834|that]] [[H3808|cannot]] [[H935|withstand]] [[H784|the fire]] [[H5674|must pass]] [[H4325|through the water.]] ^3123
 
-also one male goat for a sin offering, besides the regular burnt offering and its grain offering and its drink offering. ^2922
+[[H7637|On the seventh]] [[H3117|day]] [[H3526|you are to wash]] [[H899|your clothes,]] [[H2891|and you will be clean.]] [[H310|After that]] [[H935|you may enter]] [[H4264|the camp.”]] ^3124
 
-On the fourth day ten bulls, two rams, fourteen male lambs a year old without blemish, ^2923
+[[H3068|The LORD]] [[H559|said]] [[H413|to]] [[H4872|Moses,]] ^3125
 
-with the grain offering and the drink offerings for the bulls, for the rams, and for the lambs, in the prescribed quantities; ^2924
+[[H859|“You]] [[H499|and Eleazar]] [[H3548|the priest]] [[H1|and the family]] [[H7218|heads]] [[H5712|of the congregation]] [[H5375|are to take a count]] [[H7218|of what was captured,]] ⟨both⟩ [[H120|of man]] [[H929|and beast.]] ^3126
 
-also one male goat for a sin offering, besides the regular burnt offering, its grain offering and its drink offering. ^2925
+[[H2673|Then divide]] [[H4455|the captives]] [[H996|between]] [[H8610|the troops]] [[H3318|who went out]] [[H6635|to battle]] [[H3605|and the rest of]] [[H5712|the congregation.]] ^3127
 
-On the fifth day nine bulls, two rams, fourteen male lambs a year old without blemish, ^2926
+[[H7311|Set aside]] [[H4371|a tribute]] [[H3068|for the LORD]] [[H4480|from what belongs]] [[H4421|to the soldiers]] [[H3318|who went]] [[H6635|into battle:]] [[H259|one]] [[H4480|out of]] [[H2568|every five]] [[H3967|hundred,]] [[H120|whether persons,]] [[H1241|cattle,]] [[H2543|donkeys,]] [[H6629|or sheep.]] ^3128
 
-with the grain offering and the drink offerings for the bulls, for the rams, and for the lambs, in the prescribed quantities; ^2927
+[[H3947|Take it]] [[H4276|from their half]] [[H5414|and give]] [[H499|it to Eleazar]] [[H3548|the priest]] [[H8641|as an offering]] [[H3068|to the LORD.]] ^3129
 
-also one male goat for a sin offering; besides the regular burnt offering and its grain offering and its drink offering. ^2928
+[[H4480|From]] [[H1121|the Israelites’]] [[H4276|half,]] [[H3947|take]] [[H259|one]] [[H4480|out of]] [[H2572|every fifty,]] [[H120|whether persons,]] [[H1241|cattle,]] [[H2543|donkeys,]] [[H6629|sheep,]] ⟨or⟩ [[H3605|other]] [[H929|animals,]] [[H5414|and give]] [[H3881|them to the Levites]] [[H8104|who keep]] [[H4931|charge]] [[H4908|of the tabernacle]] [[H3068|of the LORD.”]] ^3130
 
-On the sixth day eight bulls, two rams, fourteen male lambs a year old without blemish, ^2929
+[[H4872|So Moses]] [[H499|and Eleazar]] [[H3548|the priest]] [[H6213|did]] [[H834|as]] [[H3068|the LORD]] [[H6680|had commanded]] [[H4872|Moses,]] ^3131
 
-with the grain offering and the drink offerings for the bulls, for the rams, and for the lambs, in the prescribed quantities; ^2930
+⟨and⟩ [[H1961|]] [[H4455|this plunder]] [[H3499|remained]] [[H957|from the spoils]] [[H5971|the soldiers]] [[H962|had taken:]] [[H8337|675,000]] [[H6629|sheep,]] ^3132
 
-also one male goat for a sin offering; besides the regular burnt offering, its grain offering, and its drink offerings. ^2931
+[[H8147|72,000]] [[H1241|cattle,]] ^3133
 
-On the seventh day seven bulls, two rams, fourteen male lambs a year old without blemish, ^2932
+[[H259|61,000]] [[H2543|donkeys,]] ^3134
 
-with the grain offering and the drink offerings for the bulls, for the rams, and for the lambs, in the prescribed quantities; ^2933
+[[H8147|and 32,000]] [[H802|women]] [[H834|who]] [[H3808|had not]] [[H3045|slept with]] [[H2145|a man.]] ^3135
 
-also one male goat for a sin offering; besides the regular burnt offering, its grain offering, and its drink offering. ^2934
+[[H4275|This the half]] ⟨was⟩ [[H2506|portion]] [[H3318|for those who had gone]] [[H6635|to war:]] [[H7969|337,500]] [[H6629|sheep]] ^3136
 
-On the eighth day you shall have a solemn assembly. You shall not do any ordinary work, ^2935
+[[H4371|with a tribute]] [[H3068|to the LORD]] [[H8337|of 675,]] ^3137
 
-but you shall offer a burnt offering, a food offering, with a pleasing aroma to the Lord : one bull, one ram, seven male lambs a year old without blemish, ^2936
+[[H8337|36,000]] [[H1241|cattle]] [[H4371|with a tribute]] [[H3068|to the LORD]] [[H8147|of 72,]] ^3138
 
-and the grain offering and the drink offerings for the bull, for the ram, and for the lambs, in the prescribed quantities; ^2937
+[[H7970|30,500]] [[H2543|donkeys]] [[H4371|with a tribute]] [[H3068|to the LORD]] [[H259|of 61,]] ^3139
 
-also one male goat for a sin offering; besides the regular burnt offering and its grain offering and its drink offering. ^2938
+[[H8337|and 16,000]] [[H5315|people]] [[H4371|with a tribute]] [[H3068|to the LORD]] [[H8147|of 32.]] ^3140
 
-These you shall offer to the Lord at your appointed feasts, in addition to your vow offerings and your freewill offerings, for your burnt offerings, and for your grain offerings, and for your drink offerings, and for your peace offerings. ^2939
+[[H4872|Moses]] [[H5414|gave]] [[H4371|the tribute]] [[H499|to Eleazar]] [[H3548|the priest]] [[H8641|as an offering]] [[H3068|for the LORD,]] [[H834|as]] [[H3068|the LORD]] [[H6680|had commanded]] [[H4872|Moses.]] ^3141
 
-So Moses told the people of Israel everything just as the Lord had commanded Moses. ^2940
+[[H4480|From]] [[H1121|the Israelites’]] [[H4276|half,]] [[H834|which]] [[H4872|Moses]] [[H2673|had set apart]] [[H376|from the men]] [[H6633|who had gone to war,]] ^3142
 
+[[H4275|this half belonged to]] [[H5712|the congregation:]] [[H7969|337,500]] [[H6629|sheep,]] ^3143
 
+[[H8337|36,000]] [[H1241|cattle,]] ^3144
 
-Moses spoke to the heads of the tribes of the people of Israel, saying, This is what the Lord has commanded. ^3001
+[[H7970|30,500]] [[H2543|donkeys,]] ^3145
 
-If a man vows a vow to the Lord, or swears an oath to bind himself by a pledge, he shall not break his word. He shall do according to all that proceeds out of his mouth. ^3002
+[[H8337|and 16,000]] [[H5315|people.]] ^3146
 
-If a woman vows a vow to the Lord and binds herself by a pledge, while within her father’s house in her youth, ^3003
+[[H1121|From the Israelites’]] [[H4276|half,]] [[H4872|Moses]] [[H270|took]] [[H259|one]] [[H4480|out of]] [[H2572|every fifty]] [[H120|persons]] [[H929|and animals]] [[H5414|and gave]] [[H853|them]] [[H3881|to the Levites]] [[H8104|who kept]] [[H4931|charge]] [[H4908|of the tabernacle]] [[H3068|of the LORD,]] [[H834|as]] [[H3068|the LORD]] [[H6680|had commanded]] [[H4872|him.]] ^3147
 
-and her father hears of her vow and of her pledge by which she has bound herself and says nothing to her, then all her vows shall stand, and every pledge by which she has bound herself shall stand. ^3004
+[[H6485|Then the officers]] [[H834|who]] [[H505|were over the units]] [[H6635|of the army—]] [[H8269|the commanders]] [[H505|of thousands]] [[H3967|and of hundreds—]] [[H7126|approached]] [[H4872|Moses]] ^3148
 
-But if her father opposes her on the day that he hears of it, no vow of hers, no pledge by which she has bound herself shall stand. And the Lord will forgive her, because her father opposed her. ^3005
+[[H559|and said,]] [[H5650|“Your servants]] [[H5375|have counted]] [[H4421|the soldiers]] [[H3027|under our command,]] [[H3808|and not]] [[H376|one]] [[H4480|of us]] [[H6485|is missing.]] ^3149
 
-If she marries a husband, while under her vows or any thoughtless utterance of her lips by which she has bound herself, ^3006
+[[H7126|So we have brought]] [[H3068|to the LORD]] [[H7133|an offering]] [[H2091|of the gold]] [[H3627|articles]] [[H376|each man]] [[H4672|acquired—]] [[H685|armlets,]] [[H6781|bracelets,]] [[H2885|rings,]] [[H5694|earrings,]] [[H3558|and necklaces—]] [[H3722|to make atonement]] [[H5921|for]] [[H5315|ourselves]] [[H6440|before]] [[H3068|the LORD.”]] ^3150
 
-and her husband hears of it and says nothing to her on the day that he hears, then her vows shall stand, and her pledges by which she has bound herself shall stand. ^3007
+[[H4872|So Moses]] [[H499|and Eleazar]] [[H3548|the priest]] [[H3947|received]] [[H853|from them]] [[H3605|all]] [[H3627|the articles]] [[H4639|made]] [[H2091|of gold.]] ^3151
 
-But if, on the day that her husband comes to hear of it, he opposes her, then he makes void her vow that was on her, and the thoughtless utterance of her lips by which she bound herself. And the Lord will forgive her. ^3008
+[[H3605|All]] [[H2091|the gold]] [[H8269|that the commanders]] [[H505|of thousands]] [[H3967|and of hundreds]] [[H7311|presented]] [[H8641|as an offering]] [[H3068|to the LORD]] [[H8337|weighed 16,750]] [[H8255|shekels.]] ^3152
 
-(But any vow of a widow or of a divorced woman, anything by which she has bound herself, shall stand against her.) ^3009
+[[H376|Each]] [[H376|of the soldiers]] [[H962|had taken plunder for himself.]] ^3153
 
-And if she vowed in her husband’s house or bound herself by a pledge with an oath, ^3010
+[[H4872|And Moses]] [[H499|and Eleazar]] [[H3548|the priest]] [[H3947|received]] [[H2091|the gold]] [[H8269|from the commanders]] [[H505|of thousands]] [[H3967|and of hundreds]] [[H935|and brought]] [[H413|it into]] [[H168|the Tent]] [[H4150|of Meeting]] [[H2146|as a memorial]] [[H1121|for the Israelites]] [[H6440|before]] [[H3068|the LORD.]] ^3154
 
-and her husband heard of it and said nothing to her and did not oppose her, then all her vows shall stand, and every pledge by which she bound herself shall stand. ^3011
+[[H1121|Now the Reubenites]] [[H1121|and Gadites,]] [[H1961|who had]] [[H3966|very]] [[H6099|large]] [[H4735|herds and flocks,]] [[H7200|surveyed]] [[H776|the lands]] [[H3270|of Jazer]] [[H1568|and Gilead,]] [[H2009|and they saw]] [[H4725|that the region]] [[H4725|was suitable]] [[H4735|for livestock.]] ^3201
 
-But if her husband makes them null and void on the day that he hears them, then whatever proceeds out of her lips concerning her vows or concerning her pledge of herself shall not stand. Her husband has made them void, and the Lord will forgive her. ^3012
+[[H1121|So the Gadites]] [[H1121|and Reubenites]] [[H935|came]] [[H413|to]] [[H4872|Moses,]] [[H499|Eleazar]] [[H3548|the priest,]] [[H5387|and the leaders]] [[H5712|of the congregation,]] [[H559|and said,]] ^3202
 
-Any vow and any binding oath to afflict herself, her husband may establish, or her husband may make void. ^3013
+[[H5852|“Ataroth,]] [[H1769|Dibon,]] [[H3270|Jazer,]] [[H5247|Nimrah,]] [[H2809|Heshbon,]] [[H500|Elealeh,]] [[H7643|Sebam,]] [[H5015|Nebo,]] [[H1194|and Beon,]] ^3203
 
-But if her husband says nothing to her from day to day, then he establishes all her vows or all her pledges that are upon her. He has established them, because he said nothing to her on the day that he heard of them. ^3014
+[[H834|which]] [[H3068|the LORD]] [[H5221|conquered]] [[H6440|before]] [[H5712|the congregation]] [[H3478|of Israel,]] [[H776|are suitable]] [[H4735|for livestock—]] [[H5650|and your servants]] [[H4735|have livestock.”]] ^3204
 
-But if he makes them null and void after he has heard of them, then he shall bear her iniquity. ^3015
+[[H518|“If]] [[H4672|we have found]] [[H2580|favor]] [[H5869|in your sight,”]] [[H559|they said,]] [[H2063|“let this]] [[H776|land]] [[H5414|be given]] [[H5650|to your servants]] [[H272|as a possession.]] [[H408|Do not]] [[H5674|make us cross]] [[H3383|the Jordan.”]] ^3205
 
-These are the statutes that the Lord commanded Moses about a man and his wife and about a father and his daughter while she is in her youth within her father’s house. ^3016
+[[H4872|But Moses]] [[H559|asked]] [[H1121|the Gadites]] [[H1121|and Reubenites,]] [[H251|“Shall your brothers]] [[H935|go]] [[H4421|to war]] [[H859|while you]] [[H3427|sit]] [[H6311|here?]] ^3206
 
+[[H4100|Why]] [[H5106|are you discouraging]] [[H1121|the Israelites]] [[H5674|from crossing]] [[H413|into]] [[H776|the land]] [[H3068|the LORD]] [[H5414|has given them?]] ^3207
 
+[[H3541|This is what]] [[H1|your fathers]] [[H6213|did]] [[H7971|when I sent]] [[H6947|them  from Kadesh-barnea]] [[H7200|to look over]] [[H776|the land.]] ^3208
 
-The Lord spoke to Moses, saying, ^3101
+[[H5927|For when went up]] ⟨your fathers⟩ [[H5704|to]] [[H5158|the valley]] [[H812|of Eshcol]] [[H7200|and saw]] [[H776|the land,]] [[H5106|they discouraged]] [[H1121|the Israelites]] [[H1115|from]] [[H935|entering]] [[H776|the land]] [[H3068|the LORD]] [[H5414|had given them.]] ^3209
 
-Avenge the people of Israel on the Midianites. Afterward you shall be gathered to your people. ^3102
+[[H3068|So the LORD’s]] [[H639|anger]] [[H2734|was kindled]] [[H1931|that]] [[H3117|day,]] [[H7650|and He swore an oath,]] [[H559|saying,]] ^3210
 
-So Moses spoke to the people, saying, Arm men from among you for the war, that they may go against Midian to execute the Lord ’s vengeance on Midian. ^3103
+[[H3588|‘Because]] [[H3808|they did not]] [[H310|follow Me]] [[H4390|wholeheartedly,]] [[H518|not one]] [[H376|of the men]] [[H6242|twenty]] [[H1121|years of age]] [[H4605|or older]] [[H5927|who came]] [[H4714|out of Egypt]] [[H7200|will see]] [[H127|the land]] [[H7650|I swore]] [[H85|to give Abraham,]] [[H3327|Isaac,]] [[H3290|and Jacob—]] ^3211
 
-You shall send a thousand from each of the tribes of Israel to the war. ^3104
+[[H1115|not one except]] [[H3612|Caleb]] [[H1121|son]] [[H3312|of Jephunneh]] [[H7074|the Kenizzite]] [[H3091|and Joshua]] [[H1121|son]] [[H5126|of Nun—]] [[H3588|because]] [[H310|they did follow]] [[H3068|the LORD]] [[H4390|wholeheartedly.’]] ^3212
 
-So there were provided, out of the thousands of Israel, a thousand from each tribe, twelve thousand armed for war. ^3105
+[[H3068|The LORD’s]] [[H639|anger]] [[H2734|burned]] [[H3478|against Israel,]] [[H5128|and He made them wander]] [[H4057|in the wilderness]] [[H705|forty]] [[H8141|years,]] [[H5704|until]] [[H3605|the whole]] [[H1755|generation]] [[H6213|who had done]] [[H7451|evil]] [[H3068|in]] ⟨His⟩ [[H5869|sight]] [[H8552|was gone.]] ^3213
 
-And Moses sent them to the war, a thousand from each tribe, together with Phinehas the son of Eleazar the priest, with the vessels of the sanctuary and the trumpets for the alarm in his hand. ^3106
+[[H2009|Now behold,]] [[H8635|you, a brood]] [[H2400|of sinners,]] [[H6965|have risen up]] [[H8478|in place]] [[H1|of your fathers]] [[H5750|to further]] [[H5595|stoke]] [[H2740|the burning]] [[H639|anger]] [[H3069|of the LORD]] [[H413|against]] [[H3478|Israel.]] ^3214
 
-They warred against Midian, as the Lord commanded Moses, and killed every male. ^3107
+[[H3588|For if]] [[H7725|you turn away]] [[H310|from following Him,]] [[H3254|He will once again]] [[H3240|leave]] [[H2088|this]] [[H5971|people]] [[H4057|in the wilderness,]] [[H7843|and you will be the cause of their destruction.”]] ^3215
 
-They killed the kings of Midian with the rest of their slain, Evi, Rekem, Zur, Hur, and Reba, the five kings of Midian. And they also killed Balaam the son of Beor with the sword. ^3108
+[[H5066|Then approached]] ⟨the Gadites and Reubenites⟩ ⟨Moses⟩ [[H413|]] [[H559|and said,]] [[H1129|“We want to build]] [[H1448|sheepfolds]] [[H6311|here]] [[H4735|for our livestock]] [[H5892|and cities]] [[H2945|for our little ones.]] ^3216
 
-And the people of Israel took captive the women of Midian and their little ones, and they took as plunder all their cattle, their flocks, and all their goods. ^3109
+[[H587|But we]] [[H2502|will arm ourselves]] [[H2363|and be ready]] [[H6440|to go ahead of]] [[H1121|the Israelites]] [[H5704|until]] [[H935|we have brought]] [[H413|them into]] [[H4725|their place.]] [[H2945|Meanwhile, our little ones]] [[H3427|will remain]] [[H4013|in the fortified]] [[H5892|cities]] [[H6440|for protection from]] [[H3427|the inhabitants]] [[H776|of the land.]] ^3217
 
-All their cities in the places where they lived, and all their encampments, they burned with fire, ^3110
+[[H3808|We will not]] [[H7725|return]] [[H413|to]] [[H1004|our homes]] [[H5704|until]] [[H376|every]] [[H1121|Israelite]] [[H5157|has taken possession of]] [[H5159|his inheritance.]] ^3218
 
-and took all the spoil and all the plunder, both of man and of beast. ^3111
+[[H3588|Yet]] [[H3808|we will not]] [[H5157|have an inheritance]] [[H854|with them]] [[H5676|across]] [[H3383|the Jordan]] [[H1973|and beyond,]] [[H3588|because]] [[H5159|our inheritance]] [[H413|has come to us]] [[H4217|on the east]] [[H5676|side]] [[H3383|of the Jordan.”]] ^3219
 
-Then they brought the captives and the plunder and the spoil to Moses, and to Eleazar the priest, and to the congregation of the people of Israel, at the camp on the plains of Moab by the Jordan at Jericho. ^3112
+[[H518|“If]] [[H6213|you do]] [[H2088|this,”]] [[H4872|Moses]] [[H559|replied,]] [[H518|“if]] [[H2502|you will arm yourselves]] [[H6440|before]] [[H3068|the LORD]] [[H4421|for battle,]] ^3220
 
-Moses and Eleazar the priest and all the chiefs of the congregation went to meet them outside the camp. ^3113
+[[H3605|and if every one]] [[H2502|of your armed men]] [[H5674|crosses]] [[H3383|the Jordan]] [[H6440|before]] [[H3068|the LORD,]] [[H5704|until]] [[H3423|He has driven]] [[H341|His enemies]] [[H6440|out before Him,]] ^3221
 
-And Moses was angry with the officers of the army, the commanders of thousands and the commanders of hundreds, who had come from service in the war. ^3114
+[[H776|then when the land]] [[H3533|is subdued]] [[H6440|before]] [[H3068|the LORD,]] [[H7725|you may return]] [[H1961|and be]] [[H5355|free]] [[H3068|of obligation to the LORD]] [[H3478|and to Israel.]] [[H2063|And this]] [[H776|land]] [[H1961|will belong to]] [[H272|you as a possession]] [[H6440|before]] [[H3068|the LORD.]] ^3222
 
-Moses said to them, Have you let all the women live? ^3115
+[[H518|But if]] [[H3808|you do not]] [[H6213|do]] [[H3651|this,]] [[H2009|you will certainly]] [[H2398|sin]] [[H3068|against the LORD;]] [[H3045|and you may be assured that]] [[H2403|your sin]] [[H4672|will find you out.]] ^3223
 
-Behold, these, on Balaam’s advice, caused the people of Israel to act treacherously against the Lord in the incident of Peor, and so the plague came among the congregation of the Lord. ^3116
+[[H1129|Build]] [[H5892|cities]] [[H2945|for your little ones]] [[H1448|and folds]] [[H6792|for your flocks,]] [[H6213|but do]] [[H3318|what you have promised.”]] ^3224
 
-Now therefore, kill every male among the little ones, and kill every woman who has known man by lying with him. ^3117
+[[H1121|The Gadites]] [[H1121|and Reubenites]] [[H559|said]] [[H413|to]] [[H4872|Moses,]] [[H5650|“Your servants]] [[H6213|will do]] [[H834|just as]] [[H113|our lord]] [[H6680|commands.]] ^3225
 
-But all the young girls who have not known man by lying with him keep alive for yourselves. ^3118
+[[H2945|Our children,]] [[H802|our wives,]] [[H4735|our livestock,]] [[H3605|and all]] [[H929|our animals]] [[H1961|will remain]] [[H8033|here]] [[H5892|in the cities]] [[H1568|of Gilead.]] ^3226
 
-Encamp outside the camp seven days. Whoever of you has killed any person and whoever has touched any slain, purify yourselves and your captives on the third day and on the seventh day. ^3119
+[[H5650|But your servants]] [[H2502|are equipped]] [[H6635|for war,]] [[H3605|and every man]] [[H5674|will cross over]] [[H4421|to the battle]] [[H6440|before]] [[H3068|the LORD,]] [[H834|just as]] [[H113|our lord]] [[H1696|says.”]] ^3227
 
-You shall purify every garment, every article of skin, all work of goats’ hair, and every article of wood. ^3120
+[[H4872|So Moses]] [[H6680|gave orders]] [[H853|about them]] [[H499|to Eleazar]] [[H3548|the priest,]] [[H3091|to Joshua]] [[H1121|son]] [[H5126|of Nun,]] [[H1|and to the family]] [[H7218|leaders]] [[H4294|of the tribes]] [[H3478|of Israel.]] ^3228
 
-Then Eleazar the priest said to the men in the army who had gone to battle : This is the statute of the law that the Lord has commanded Moses : ^3121
+[[H4872|And Moses]] [[H559|said]] [[H413|to them,]] [[H518|“If]] [[H1121|the Gadites]] [[H1121|and Reubenites]] [[H5674|cross]] [[H3383|the Jordan]] [[H854|with you,]] [[H3605|with every]] [[H2502|man armed]] [[H4421|for battle]] [[H6440|before]] [[H3068|the LORD,]] [[H776|and the land]] [[H3533|is subdued]] [[H6440|before you,]] [[H5414|you are to give]] [[H776|them the land]] [[H1568|of Gilead]] [[H272|as a possession.]] ^3229
 
-only the gold, the silver, the bronze, the iron, the tin, and the lead, ^3122
+[[H518|But if]] [[H3808|they do not]] [[H5674|go across]] [[H854|with you]] [[H2502|armed,]] [[H270|their possession must be]] [[H8432|among you]] [[H776|in the land]] [[H3667|of Canaan.”]] ^3230
 
-everything that can stand the fire, you shall pass through the fire, and it shall be clean. Nevertheless, it shall also be purified with the water for impurity. And whatever cannot stand the fire, you shall pass through the water. ^3123
+[[H1121|The Gadites]] [[H1121|and Reubenites]] [[H6030|replied,]] [[H834|“As]] [[H3068|the LORD]] [[H1696|has spoken]] [[H413|to]] [[H5650|your servants,]] [[H3651|so]] [[H6213|we will do.]] ^3231
 
-You must wash your clothes on the seventh day, and you shall be clean. And afterward you may come into the camp. ^3124
+[[H5168|We]] [[H5674|will cross over]] [[H776|into the land]] [[H3667|of Canaan]] [[H2502|armed]] [[H6440|before]] [[H3068|the LORD,]] [[H854|that]] [[H5159|we may have our inheritance]] [[H5676|on this side]] [[H3383|of the Jordan.”]] ^3232
 
-The Lord said to Moses, ^3125
+[[H4872|So Moses]] [[H5414|gave]] [[H1121|to  the Gadites,]] [[H1121|to the Reubenites,]] [[H2677|and to the half-tribe]] [[H4519|of Manasseh]] [[H1121|son]] [[H3130|of Joseph,]] [[H4467|the kingdom]] [[H5511|of Sihon]] [[H4428|king]] [[H567|of the Amorites]] [[H4467|and the kingdom]] [[H5747|of Og]] [[H4428|king]] [[H1316|of Bashan—]] [[H776|the land]] [[H5892|including its cities]] [[H1367|and the territory]] [[H5439|surrounding]] [[H5892|them.]] ^3233
 
-Take the count of the plunder that was taken, both of man and of beast, you and Eleazar the priest and the heads of the fathers’ houses of the congregation, ^3126
+[[H1121|And the Gadites]] [[H1129|built up]] [[H1769|Dibon,]] [[H5852|Ataroth,]] [[H6177|Aroer,]] ^3234
 
-and divide the plunder into two parts between the warriors who went out to battle and all the congregation. ^3127
+[[H5855|Atroth-shophan,]] [[H3270|Jazer,]] [[H3011|Jogbehah,]] ^3235
 
-And levy for the Lord a tribute from the men of war who went out to battle, one out of five hundred, of the people and of the oxen and of the donkeys and of the flocks. ^3128
+[[H1039|Beth-nimrah,]] [[H1028|and Beth-haran]] [[H4013|as fortified]] [[H5892|cities,]] [[H1448|and they built folds]] [[H6629|for their flocks.]] ^3236
 
-Take it from their half and give it to Eleazar the priest as a contribution to the Lord. ^3129
+[[H1121|The Reubenites]] [[H1129|built up]] [[H2809|Heshbon,]] [[H500|Elealeh,]] [[H7156|Kiriathaim,]] ^3237
 
-And from the people of Israel’s half you shall take one drawn out of every fifty, of the people, of the oxen, of the donkeys, and of the flocks, of all the cattle, and give them to the Levites who keep guard over the tabernacle of the Lord. ^3130
+[[H5015|as well as Nebo]] [[H1186|and Baal-meon]] [[H8034|(whose names]] [[H5437|were changed),]] [[H7643|and Sibmah.]] [[H7121|And they renamed]] [[H5892|the cities]] [[H1129|they rebuilt.]] ^3238
 
-And Moses and Eleazar the priest did as the Lord commanded Moses. ^3131
+[[H1121|The descendants]] [[H4353|of Machir]] [[H1121|son]] [[H4519|of Manasseh]] [[H1980|went]] [[H1568|to Gilead,]] [[H3920|captured it,]] [[H3423|and drove out]] [[H567|the Amorites]] [[H834|who were there.]] ^3239
 
-Now the plunder remaining of the spoil that the army took was 675,000 sheep, ^3132
+[[H4872|So Moses]] [[H5414|gave]] [[H1568|Gilead]] [[H4353|to the clan of Machir]] [[H1121|son]] [[H4519|of Manasseh,]] [[H3427|and they settled there.]] ^3240
 
-72,000 cattle, ^3133
+[[H2971|Jair,]] [[H1121|a descendant]] [[H4519|of Manasseh,]] [[H1980|went]] [[H3920|and captured]] [[H2333|their villages]] [[H7121|and called]] [[H2334|them  Havvoth-jair.]] ^3241
 
-61,000 donkeys, ^3134
+[[H5025|And Nobah]] [[H1980|went]] [[H3920|and captured]] [[H7079|Kenath]] [[H1323|and its villages]] [[H7121|and called it]] [[H5025|Nobah,]] [[H8034|after his own name.]] ^3242
 
-and 32,000 persons in all, women who had not known man by lying with him. ^3135
+[[H428|These]] ⟨are⟩ [[H4550|the journeys]] [[H1121|of the Israelites]] [[H834|as]] [[H3318|they came out]] [[H776|of the land]] [[H4714|of Egypt]] [[H6635|by divisions]] [[H3027|under the leadership]] [[H4872|of Moses]] [[H175|and Aaron.]] ^3301
 
-And the half, the portion of those who had gone out in the army, numbered 337,500 sheep, ^3136
+[[H5921|At]] [[H3068|the LORD’s]] [[H6310|command,]] [[H4872|Moses]] [[H3789|recorded]] [[H4161|the stages]] [[H4550|of their journey.]] [[H428|These]] [[H4550|are the stages]] [[H4161|listed by their starting points:]] ^3302
 
-and the Lord ’s tribute of sheep was 675. ^3137
+[[H2568|On the fifteenth]] [[H3117|day]] [[H7223|of the first]] [[H2320|month,]] [[H7223|on]] [[H4283|the day after]] [[H6453|the Passover,]] ⟨the Israelites⟩ [[H5265|set out]] [[H7486|from Rameses.]] ⟨They⟩ [[H1121|]] [[H3318|marched out]] [[H3027|triumphantly]] [[H5869|in full view]] [[H3605|of all]] [[H4713|the Egyptians,]] ^3303
 
-The cattle were 36,000, of which the Lord ’s tribute was 72. ^3138
+⟨who⟩ [[H4713|]] [[H6912|were burying]] [[H3605|all]] ⟨their⟩ [[H1060|firstborn,]] [[H3068|whom the LORD]] [[H5221|had struck down among them;]] [[H3068|for the LORD]] [[H6213|had executed]] [[H8201|judgment]] [[H430|against their gods.]] ^3304
 
-The donkeys were 30,500, of which the Lord ’s tribute was 61. ^3139
+[[H1121|The Israelites]] [[H5265|set out]] [[H7486|from Rameses]] [[H2583|and camped]] [[H5523|at Succoth.]] ^3305
 
-The persons were 16,000, of which the Lord ’s tribute was 32 persons. ^3140
+[[H5265|They set out]] [[H5523|from Succoth]] [[H2583|and camped]] [[H864|at Etham,]] [[H7097|on the edge]] [[H4057|of the wilderness.]] ^3306
 
-And Moses gave the tribute, which was the contribution for the Lord, to Eleazar the priest, as the Lord commanded Moses. ^3141
+[[H5265|They set out]] [[H864|from Etham]] [[H7725|and turned back]] [[H5921|to]] [[H6367|Pi-hahiroth,]] [[H5921|opposite]] [[H1189|Baal-zephon,]] [[H2583|and they camped]] [[H6440|near]] [[H4024|Migdol.]] ^3307
 
-From the people of Israel’s half, which Moses separated from that of the men who had served in the army — ^3142
+[[H5265|They set out]] [[H6440|from]] [[H6367|Pi-hahiroth]] [[H5674|and crossed]] [[H8432|through]] [[H3220|the sea,]] [[H4057|into the wilderness,]] [[H7969|and they journeyed three days]] [[H4057|into the Wilderness]] [[H864|of Etham]] [[H2583|and camped]] [[H4785|at Marah.]] ^3308
 
-now the congregation’s half was 337,500 sheep, ^3143
+[[H5265|They set out]] [[H4785|from Marah]] [[H935|and came]] [[H362|to Elim,]] [[H8147|where there were twelve]] [[H5869|springs]] [[H7657|and seventy]] [[H8558|palm trees,]] [[H2583|and they camped]] [[H8033|there.]] ^3309
 
-36,000 cattle, ^3144
+[[H5265|They set out]] [[H362|from Elim]] [[H2583|and camped]] [[H5921|by]] [[H5488|the Red]] [[H3220|Sea.]] ^3310
 
-and 30,500 donkeys, ^3145
+[[H5265|They set out]] [[H5488|from the Red]] [[H3220|Sea]] [[H2583|and camped]] [[H4057|in the Wilderness]] [[H5512|of Sin.]] ^3311
 
-and 16,000 persons — ^3146
+[[H5265|They set out]] [[H4057|from the Wilderness]] [[H5512|of Sin]] [[H2583|and camped]] [[H1850|in Dophkah.]] ^3312
 
-from the people of Israel’s half Moses took one of every 50, both of persons and of beasts, and gave them to the Levites who kept guard over the tabernacle of the Lord, as the Lord commanded Moses. ^3147
+[[H5265|They set out]] [[H1850|from Dophkah]] [[H2583|and camped]] [[H442|at Alush.]] ^3313
 
-Then the officers who were over the thousands of the army, the commanders of thousands and the commanders of hundreds, came near to Moses ^3148
+[[H5265|They set out]] [[H442|from Alush]] [[H2583|and camped]] [[H7508|at Rephidim,]] [[H8033|where]] [[H1961|there was]] [[H3808|no]] [[H4325|water]] [[H5971|for the people]] [[H8354|to drink.]] ^3314
 
-and said to Moses, Your servants have counted the men of war who are under our command, and there is not a man missing from us. ^3149
+[[H5265|They set out]] [[H7508|from Rephidim]] [[H2583|and camped]] [[H4057|in the Wilderness]] [[H5514|of Sinai.]] ^3315
 
-And we have brought the Lord ’s offering, what each man found, articles of gold, armlets and bracelets, signet rings, earrings, and beads, to make atonement for ourselves before the Lord. ^3150
+[[H5265|They set out]] [[H4057|from the Wilderness]] [[H5514|of Sinai]] [[H2583|and camped]] [[H6914|at Kibroth-hattaavah.]] ^3316
 
-And Moses and Eleazar the priest received from them the gold, all crafted articles. ^3151
+[[H5265|They set out]] [[H6914|from  Kibroth-hattaavah]] [[H2583|and camped]] [[H2698|at Hazeroth.]] ^3317
 
-And all the gold of the contribution that they presented to the Lord, from the commanders of thousands and the commanders of hundreds, was 16,750 shekels. ^3152
+[[H5265|They set out]] [[H2698|from Hazeroth]] [[H2583|and camped]] [[H7575|at Rithmah.]] ^3318
 
-(The men in the army had each taken plunder for himself.) ^3153
+[[H5265|They set out]] [[H7575|from Rithmah]] [[H2583|and camped]] [[H7428|at Rimmon-perez.]] ^3319
 
-And Moses and Eleazar the priest received the gold from the commanders of thousands and of hundreds, and brought it into the tent of meeting, as a memorial for the people of Israel before the Lord. ^3154
+[[H5265|They set out]] [[H7428|from  Rimmon-perez]] [[H2583|and camped]] [[H3841|at Libnah.]] ^3320
 
+[[H5265|They set out]] [[H3841|from Libnah]] [[H2583|and camped]] [[H7446|at Rissah.]] ^3321
 
+[[H5265|They set out]] [[H7446|from Rissah]] [[H2583|and camped]] [[H6954|at Kehelathah.]] ^3322
 
-Now the people of Reuben and the people of Gad had a very great number of livestock. And they saw the land of Jazer and the land of Gilead, and behold, the place was a place for livestock. ^3201
+[[H5265|They set out]] [[H6954|from Kehelathah]] [[H2583|and camped]] [[H2022|at Mount]] [[H8234|Shepher.]] ^3323
 
-So the people of Gad and the people of Reuben came and said to Moses and to Eleazar the priest and to the chiefs of the congregation, ^3202
+[[H5265|They set out]] [[H2022|from Mount]] [[H8234|Shepher]] [[H2583|and camped]] [[H2732|at Haradah.]] ^3324
 
-Ataroth, Dibon, Jazer, Nimrah, Heshbon, Elealeh, Sebam, Nebo, and Beon, ^3203
+[[H5265|They set out]] [[H2732|from Haradah]] [[H2583|and camped]] [[H4722|at Makheloth.]] ^3325
 
-the land that the Lord struck down before the congregation of Israel, is a land for livestock, and your servants have livestock. ^3204
+[[H5265|They set out]] [[H4722|from Makheloth]] [[H2583|and camped]] [[H8480|at Tahath.]] ^3326
 
-And they said, If we have found favor in your sight, let this land be given to your servants for a possession. Do not take us across the Jordan. ^3205
+[[H5265|They set out]] [[H8480|from Tahath]] [[H2583|and camped]] [[H8646|at Terah.]] ^3327
 
-But Moses said to the people of Gad and to the people of Reuben, Shall your brothers go to the war while you sit here? ^3206
+[[H5265|They set out]] [[H8646|from Terah]] [[H2583|and camped]] [[H4989|at Mithkah.]] ^3328
 
-Why will you discourage the heart of the people of Israel from going over into the land that the Lord has given them? ^3207
+[[H5265|They set out]] [[H4989|from Mithkah]] [[H2583|and camped]] [[H2832|at Hashmonah.]] ^3329
 
-Your fathers did this, when I sent them from Kadesh-barnea to see the land. ^3208
+[[H5265|They set out]] [[H2832|from Hashmonah]] [[H2583|and camped]] [[H4149|at Moseroth.]] ^3330
 
-For when they went up to the Valley of Eshcol and saw the land, they discouraged the heart of the people of Israel from going into the land that the Lord had given them. ^3209
+[[H5265|They set out]] [[H4149|from Moseroth]] [[H2583|and camped]] [[H1142|at Bene-jaakan.]] ^3331
 
-And the Lord ’s anger was kindled on that day, and he swore, saying, ^3210
+[[H5265|They set out]] [[H1142|from  Bene-jaakan]] [[H2583|and camped]] [[H2735|at Hor-haggidgad.]] ^3332
 
-Surely none of the men who came up out of Egypt, from twenty years old and upward, shall see the land that I swore to give to Abraham, to Isaac, and to Jacob, because they have not wholly followed me, ^3211
+[[H5265|They set out]] [[H2735|from  Hor-haggidgad]] [[H2583|and camped]] [[H3193|at Jotbathah.]] ^3333
 
-none except Caleb the son of Jephunneh the Kenizzite and Joshua the son of Nun, for they have wholly followed the Lord. ^3212
+[[H5265|They set out]] [[H3193|from Jotbathah]] [[H2583|and camped]] [[H5684|at Abronah.]] ^3334
 
-And the Lord ’s anger was kindled against Israel, and he made them wander in the wilderness forty years, until all the generation that had done evil in the sight of the Lord was gone. ^3213
+[[H5265|They set out]] [[H5684|from Abronah]] [[H2583|and camped]] [[H6100|at Ezion-geber.]] ^3335
 
-And behold, you have risen in your fathers ’ place, a brood of sinful men, to increase still more the fierce anger of the Lord against Israel! ^3214
+[[H5265|They set out]] [[H6100|from  Ezion-geber]] [[H2583|and camped]] [[H6946|at Kadesh]] [[H4057|in the Wilderness]] [[H6790|of Zin.]] ^3336
 
-For if you turn away from following him, he will again abandon them in the wilderness, and you will destroy all this people. ^3215
+[[H5265|They set out]] [[H6946|from Kadesh]] [[H2583|and camped]] [[H2022|at Mount]] [[H2023|Hor,]] [[H7097|on the outskirts]] [[H776|of the land]] [[H123|of Edom.]] ^3337
 
-Then they came near to him and said, We will build sheepfolds here for our livestock, and cities for our little ones, ^3216
+[[H5921|At]] [[H3068|the LORD’s]] [[H6310|command,]] [[H175|Aaron]] [[H3548|the priest]] [[H5927|climbed]] [[H2022|Mount]] [[H2023|Hor]] [[H4191|and died]] [[H8033|there]] [[H259|on the first]] ⟨day⟩ [[H2549|of the fifth]] [[H2320|month,]] [[H705|in the fortieth]] [[H8141|year]] [[H1121|after the Israelites]] [[H3318|came out]] [[H776|of the land]] [[H4714|of Egypt.]] ^3338
 
-but we will take up arms, ready to go before the people of Israel, until we have brought them to their place. And our little ones shall live in the fortified cities because of the inhabitants of the land. ^3217
+[[H175|Aaron]] [[H7969|was 123]] [[H1121|years old]] [[H4194|when he died]] [[H2022|on Mount]] [[H2023|Hor.]] ^3339
 
-We will not return to our homes until each of the people of Israel has gained his inheritance. ^3218
+[[H3669|Now the Canaanite]] [[H4428|king]] [[H6166|of Arad,]] [[H3427|who lived]] [[H5045|in the Negev]] [[H776|in the land]] [[H3667|of Canaan,]] [[H8085|heard]] [[H1121|that the Israelites]] [[H935|were coming.]] ^3340
 
-For we will not inherit with them on the other side of the Jordan and beyond, because our inheritance has come to us on this side of the Jordan to the east. ^3219
+[[H5265|And they set out]] [[H2022|from Mount]] [[H2023|Hor]] [[H2583|and camped]] [[H6758|at Zalmonah.]] ^3341
 
-So Moses said to them, If you will do this, if you will take up arms to go before the Lord for the war, ^3220
+[[H5265|They set out]] [[H6758|from Zalmonah]] [[H2583|and camped]] [[H6325|at Punon.]] ^3342
 
-and every armed man of you will pass over the Jordan before the Lord, until he has driven out his enemies from before him ^3221
+[[H5265|They set out]] [[H6325|from Punon]] [[H2583|and camped]] [[H88|at Oboth.]] ^3343
 
-and the land is subdued before the Lord; then after that you shall return and be free of obligation to the Lord and to Israel, and this land shall be your possession before the Lord. ^3222
+[[H5265|They set out]] [[H88|from Oboth]] [[H2583|and camped]] [[H5863|at Iye-abarim]] [[H1366|on the border]] [[H4124|of Moab.]] ^3344
 
-But if you will not do so, behold, you have sinned against the Lord, and be sure your sin will find you out. ^3223
+[[H5265|They set out]] [[H5864|from Iyim]] [[H2583|and camped]] [[H1769|at Dibon-gad.]] ^3345
 
-Build cities for your little ones and folds for your sheep, and do what you have promised. ^3224
+[[H5265|They set out]] [[H1769|from Dibon-gad]] [[H2583|and camped]] [[H5963|at Almon-diblathaim.]] ^3346
 
-And the people of Gad and the people of Reuben said to Moses, Your servants will do as my lord commands. ^3225
+[[H5265|They set out]] [[H5963|from  Almon-diblathaim]] [[H2583|and camped]] [[H2022|in the mountains]] [[H5682|of Abarim]] [[H6440|facing]] [[H5015|Nebo.]] ^3347
 
-Our little ones, our wives, our livestock, and all our cattle shall remain there in the cities of Gilead, ^3226
+[[H5265|They set out]] [[H2022|from the mountains]] [[H5682|of Abarim]] [[H2583|and camped]] [[H6160|on the plains]] [[H4124|of Moab]] [[H5921|by]] [[H3383|the Jordan]] [[H3405|across from Jericho.]] ^3348
 
-but your servants will pass over, every man who is armed for war, before the Lord to battle, as my lord orders. ^3227
+[[H6160|And there on the plains]] [[H4124|of Moab]] [[H2583|they camped]] [[H5921|by]] [[H3383|the Jordan,]] [[H1020|from  Beth-jeshimoth]] [[H5704|to]] [[H63|the plains of Moab.]] ^3349
 
-So Moses gave command concerning them to Eleazar the priest and to Joshua the son of Nun and to the heads of the fathers ’ houses of the tribes of the people of Israel. ^3228
+[[H6160|On the plains]] [[H4124|of Moab]] [[H5921|by]] [[H3383|the Jordan]] [[H3405|across from Jericho,]] [[H3068|the LORD]] [[H1696|said]] [[H413|to]] [[H4872|Moses,]] ^3350
 
-And Moses said to them, If the people of Gad and the people of Reuben, every man who is armed to battle before the Lord, will pass with you over the Jordan and the land shall be subdued before you, then you shall give them the land of Gilead for a possession. ^3229
+[[H1696|“Speak to]] [[H1121|the Israelites]] [[H559|and tell]] [[H413|them:]] [[H3588|When]] [[H859|you]] [[H5674|cross]] [[H3383|the Jordan]] [[H413|into]] [[H776|the land]] [[H3667|of Canaan,]] ^3351
 
-However, if they will not pass over with you armed, they shall have possessions among you in the land of Canaan. ^3230
+[[H3423|you must drive out]] [[H3605|all]] [[H3427|the inhabitants]] [[H776|of the land]] [[H6440|before you,]] [[H6|destroy]] [[H3605|all]] [[H4906|their carved images]] [[H4541|and cast]] [[H6754|idols,]] [[H8045|and demolish]] [[H3605|all]] [[H1116|their high places.]] ^3352
 
-And the people of Gad and the people of Reuben answered, What the Lord has said to your servants, we will do. ^3231
+[[H3423|You are to take possession of]] [[H776|the land]] [[H3427|and settle]] [[H3588|in it,  for]] [[H5414|I have given]] [[H776|you the land]] [[H3423|to possess.]] ^3353
 
-We will pass over armed before the Lord into the land of Canaan, and the possession of our inheritance shall remain with us beyond the Jordan. ^3232
+[[H5157|And you are to divide]] [[H776|the land]] [[H1486|by lot]] [[H4940|according to your clans.]] [[H7235|Give a larger]] [[H5159|inheritance]] [[H7227|to a larger clan]] [[H4591|and a smaller]] [[H5159|inheritance]] [[H4592|to a smaller one.]] [[H834|Whatever]] [[H3318|falls]] [[H1486|to each one  by lot]] [[H1961|will be his.]] [[H5157|You will receive an inheritance]] [[H4294|according to the tribes]] [[H1|of your fathers.]] ^3354
 
-And Moses gave to them, to the people of Gad and to the people of Reuben and to the half-tribe of Manasseh the son of Joseph, the kingdom of Sihon king of the Amorites and the kingdom of Og king of Bashan, the land and its cities with their territories, the cities of the land throughout the country. ^3233
+[[H518|But if]] [[H3808|you do not]] [[H3423|drive out]] [[H3427|the inhabitants]] [[H776|of the land]] [[H6440|before you,]] [[H834|those]] [[H3498|you allow to remain]] [[H1961|will become]] [[H7899|thorns]] [[H5869|in your eyes]] [[H6654|and in your sides;]] [[H6887|they will harass]] [[H5921|you in]] [[H776|the land]] [[H834|where]] [[H859|you]] [[H3427|settle.]] ^3355
 
-And the people of Gad built Dibon, Ataroth, Aroer, ^3234
+[[H1961|And then]] [[H6213|I will do to you]] [[H834|what]] [[H1819|I had planned]] [[H6213|to do to them.”]] ^3356
 
-Atroth-shophan, Jazer, Jogbehah, ^3235
+[[H3068|Then the LORD]] [[H1696|said]] [[H413|to]] [[H4872|Moses,]] ^3401
 
-Beth-nimrah and Beth-haran, fortified cities, and folds for sheep. ^3236
+[[H6680|“Command]] [[H1121|the Israelites]] [[H559|and say]] [[H413|to them:]] [[H3588|When]] [[H859|you]] [[H935|enter]] [[H776|the land]] [[H3667|of Canaan,]] [[H776|it]] [[H5307|will be allotted]] [[H5159|to you as an inheritance]] [[H1367|with these boundaries:]] ^3402
 
-And the people of Reuben built Heshbon, Elealeh, Kiriathaim, ^3237
+[[H5045|Your southern]] [[H6285|border]] [[H1961|will extend]] [[H4057|from the wilderness]] [[H6790|of Zin]] [[H5921|along]] [[H3027|the border]] [[H123|of Edom.]] [[H6924|On the east,]] [[H5045|your southern]] [[H1366|border]] [[H1961|will extend]] [[H7097|from the end]] [[H4417|of the Salt]] [[H3220|Sea,]] ^3403
 
-Nebo, and Baal-meon ( their names were changed ), and Sibmah. And they gave other names to the cities that they built. ^3238
+[[H5437|turn]] [[H5045|from the south]] [[H4610|to the ascent of Akrabbim,]] [[H5674|continue]] [[H6790|to Zin,]] [[H1961|and go]] [[H5045|south]] [[H6947|of Kadesh-barnea.]] [[H3318|Then it will go on]] [[H2692|to Hazar-addar]] [[H5674|and proceed]] [[H6111|to Azmon,]] ^3404
 
-And the sons of Machir the son of Manasseh went to Gilead and captured it, and dispossessed the Amorites who were in it. ^3239
+[[H1366|where]] ⟨it⟩ [[H5437|will turn]] [[H6111|from Azmon,]] [[H5158|join the Brook]] [[H4714|of Egypt,]] [[H1961|and end]] [[H3220|at the Sea.]] ^3405
 
-And Moses gave Gilead to Machir the son of Manasseh, and he settled in it. ^3240
+[[H3220|Your western]] [[H1366|border]] [[H1961|will be]] [[H1366|the coastline]] [[H1419|of the Great]] [[H3220|Sea;]] [[H2088|this]] [[H1961|will be]] [[H1366|your  boundary]] [[H3220|on the west.]] ^3406
 
-And Jair the son of Manasseh went and captured their villages, and called them Havvoth-jair. ^3241
+[[H6828|Your northern]] [[H1366|border]] [[H1961|will run]] [[H4480|from]] [[H1419|the Great]] [[H3220|Sea]] [[H8376|directly]] [[H2022|to Mount]] [[H2023|Hor,]] ^3407
 
-And Nobah went and captured Kenath and its villages, and called it Nobah, after his own name. ^3242
+[[H2022|and from Mount]] [[H2023|Hor]] [[H2574|to Lebo-hamath,]] ⟨then⟩ [[H1366|]] [[H1961|extending]] [[H6657|to Zedad,]] ^3408
 
+[[H3318|continuing]] [[H2202|to Ziphron,]] [[H1961|and ending]] [[H2704|at Hazar-enan.]] [[H2088|This]] [[H1961|will be]] [[H1366|your  boundary]] [[H6828|on the north.]] ^3409
 
+[[H6924|And your eastern]] [[H1366|border]] [[H184|will run straight]] [[H2704|from  Hazar-enan]] [[H8221|to Shepham,]] ^3410
 
-These are the stages of the people of Israel, when they went out of the land of Egypt by their companies under the leadership of Moses and Aaron. ^3301
+⟨then⟩ [[H1366|]] [[H3381|go down]] [[H8221|from Shepham]] [[H7247|to Riblah]] [[H6924|on the east side]] [[H5871|of Ain]] [[H3381|and continue along]] [[H3802|the slopes]] [[H6924|east]] [[H3220|of the Sea]] [[H3672|of Chinnereth.]] ^3411
 
-Moses wrote down their starting places, stage by stage, by command of the Lord, and these are their stages according to their starting places. ^3302
+[[H1366|Then the border]] [[H3381|will go down]] [[H3383|along the Jordan]] [[H1961|and end]] [[H4417|at the Salt]] [[H3220|Sea.]] [[H2063|This]] [[H1961|will be]] [[H776|your land,]] [[H1367|defined by its borders]] [[H5439|on all sides.”]] ^3412
 
-They set out from Rameses in the first month, on the fifteenth day of the first month. On the day after the Passover, the people of Israel went out triumphantly in the sight of all the Egyptians, ^3303
+[[H4872|So Moses]] [[H6680|commanded]] [[H1121|the Israelites,]] [[H2063|“ this]] ⟨Apportion⟩ [[H776|land]] [[H1486|by lot]] [[H5157|as an inheritance,]] [[H834|which]] [[H3068|the LORD]] [[H6680|commanded]] [[H5414|to be given]] [[H8672|to the nine]] [[H2677|and a half]] [[H4294|tribes.]] ^3413
 
-while the Egyptians were burying all their firstborn, whom the Lord had struck down among them. On their gods also the Lord executed judgments. ^3304
+[[H3588|For]] [[H4294|the tribes]] [[H1121|of the Reubenites]] ⟨and⟩ [[H4294|]] [[H1121|Gadites,]] [[H2677|along with the half-tribe]] [[H4519|of Manasseh,]] [[H3947|have already received their inheritance.]] ^3414
 
-So the people of Israel set out from Rameses and camped at Succoth. ^3305
+[[H8147|These two]] [[H2677|and a half]] [[H4294|tribes]] [[H3947|have received]] [[H5159|their inheritance]] [[H5676|across]] [[H3383|the Jordan]] [[H3405|from Jericho,]] [[H4217|toward the sunrise.”]] ^3415
 
-And they set out from Succoth and camped at Etham, which is on the edge of the wilderness. ^3306
+[[H3068|Then the LORD]] [[H1696|said]] [[H413|to]] [[H4872|Moses,]] ^3416
 
-And they set out from Etham and turned back to Pi-hahiroth, which is east of Baal-zephon, and they camped before Migdol. ^3307
+[[H428|“These]] [[H8034|are the names]] [[H376|of the men]] [[H834|who]] [[H776|are to assign the land]] [[H5157|as an inheritance for you:]] [[H499|Eleazar]] [[H3548|the priest]] [[H3091|and Joshua]] [[H1121|son]] [[H5126|of Nun.]] ^3417
 
-And they set out from before Hahiroth and passed through the midst of the sea into the wilderness, and they went a three days ’ journey in the wilderness of Etham and camped at Marah. ^3308
+[[H3947|Appoint]] [[H259|one]] [[H5387|leader]] [[H259|from each]] [[H4294|tribe]] [[H5157|to distribute]] [[H776|the land.]] ^3418
 
-And they set out from Marah and came to Elim; at Elim there were twelve springs of water and seventy palm trees, and they camped there. ^3309
+[[H428|These]] [[H8034|are their names:]] [[H3612|Caleb]] [[H1121|son]] [[H3312|of Jephunneh]] [[H4294|from the tribe]] [[H3063|of Judah;]] ^3419
 
-And they set out from Elim and camped by the Red Sea. ^3310
+[[H8050|Shemuel]] [[H1121|son]] [[H5989|of Ammihud]] [[H4294|from the tribe]] [[H1121|of Simeon;]] ^3420
 
-And they set out from the Red Sea and camped in the wilderness of Sin. ^3311
+[[H449|Elidad]] [[H1121|son]] [[H3692|of Chislon]] [[H4294|from the tribe]] [[H1144|of Benjamin;]] ^3421
 
-And they set out from the wilderness of Sin and camped at Dophkah. ^3312
+[[H1231|Bukki]] [[H1121|son]] [[H3020|of Jogli,]] [[H5387|a leader]] [[H4294|from the tribe]] [[H1121|of Dan;]] ^3422
 
-And they set out from Dophkah and camped at Alush. ^3313
+[[H2592|Hanniel]] [[H1121|son]] [[H641|of Ephod,]] [[H5387|a leader]] [[H4294|from the tribe]] [[H1121|of Manasseh]] [[H1121|son]] [[H3130|of Joseph;]] ^3423
 
-And they set out from Alush and camped at Rephidim, where there was no water for the people to drink. ^3314
+[[H7055|Kemuel]] [[H1121|son]] [[H8204|of Shiphtan,]] [[H5387|a leader]] [[H4294|from the tribe]] [[H1121|of Ephraim]] ⟨son of Joseph⟩; ^3424
 
-And they set out from Rephidim and camped in the wilderness of Sinai. ^3315
+[[H469|Eli-zaphan]] [[H1121|son]] [[H6535|of Parnach,]] [[H5387|a leader]] [[H4294|from the tribe]] [[H1121|of Zebulun;]] ^3425
 
-And they set out from the wilderness of Sinai and camped at Kibroth-hattaavah. ^3316
+[[H6409|Paltiel]] [[H1121|son]] [[H5821|of Azzan,]] [[H5387|a leader]] [[H4294|from the tribe]] [[H1121|of Issachar;]] ^3426
 
-And they set out from Kibroth-hattaavah and camped at Hazeroth. ^3317
+[[H282|Ahihud]] [[H1121|son]] [[H8015|of Shelomi,]] [[H5387|a leader]] [[H4294|from the tribe]] [[H1121|of Asher;]] ^3427
 
-And they set out from Hazeroth and camped at Rithmah. ^3318
+[[H6300|and Pedahel]] [[H1121|son]] [[H5989|of Ammihud,]] [[H5387|a leader]] [[H4294|from the tribe]] [[H1121|of Naphtali.”]] ^3428
 
-And they set out from Rithmah and camped at Rimmon-perez. ^3319
+[[H428|These]] [[H834|are the ones whom]] [[H3068|the LORD]] [[H6680|commanded]] [[H5157|to apportion the inheritance]] [[H1121|to the Israelites]] [[H776|in the land]] [[H3667|of Canaan.]] ^3429
 
-And they set out from Rimmon-perez and camped at Libnah. ^3320
+[[H3068|Again the LORD]] [[H1696|spoke]] [[H413|to]] [[H4872|Moses]] [[H6160|on the plains]] [[H4124|of Moab]] [[H5921|by]] [[H3383|the Jordan]] [[H3405|across from Jericho:]] ^3501
 
-And they set out from Libnah and camped at Rissah. ^3321
+[[H6680|“Command]] [[H1121|the Israelites]] [[H5414|to give,]] [[H5159|from the inheritance]] [[H272|they will possess,]] [[H5892|cities]] [[H3881|for the Levites]] [[H3427|to live in]] [[H4054|and pasturelands]] [[H5439|around]] [[H5892|the cities.]] ^3502
 
-And they set out from Rissah and camped at Kehelathah. ^3322
+[[H5892|The cities]] [[H1961|will be]] [[H3427|for them to live in,]] [[H4054|and the pasturelands]] [[H1961|will be]] [[H929|for their herds,]] [[H7399|flocks,]] [[H3605|and all]] [[H2416|their other livestock.]] ^3503
 
-And they set out from Kehelathah and camped at Mount Shepher. ^3323
+[[H4054|The pasturelands]] [[H5892|around the cities]] [[H5414|you are to give]] [[H3881|the Levites]] ⟨will extend⟩ [[H2351|]] [[H505|a thousand]] [[H520|cubits]] [[H7023|from the wall]] [[H5439|on every side.]] ^3504
 
-And they set out from Mount Shepher and camped at Haradah. ^3324
+[[H4058|You are also to measure]] [[H505|two thousand]] [[H520|cubits]] [[H2351|outside]] [[H5892|the city]] [[H6924|on the east,]] [[H505|two thousand]] [[H520|cubits]] [[H5045|on the south,]] [[H505|two thousand]] [[H520|cubits]] [[H3220|and on the west,]] ⟨and⟩ [[H505|two thousand]] [[H520|cubits]] [[H6828|on the north,]] [[H5892|with the city]] [[H8432|in the center.]] [[H2088|These areas]] [[H1961|will serve]] [[H4054|as larger pasturelands]] [[H5892|for the cities.]] ^3505
 
-And they set out from Haradah and camped at Makheloth. ^3325
+[[H8337|Six]] [[H5892|of the cities]] [[H5414|you give]] [[H3881|the Levites]] [[H5414|are to be appointed]] [[H5892|as cities]] [[H4733|of refuge,]] [[H7523|to which a manslayer]] [[H5127|may flee.]] [[H5921|In addition to these,]] [[H5414|give]] ⟨the Levites⟩ [[H705|forty-two]] [[H5892|other cities.]] ^3506
 
-And they set out from Makheloth and camped at Tahath. ^3326
+[[H3605|The total]] [[H5892|number of cities]] [[H5414|you give]] [[H3881|the Levites]] ⟨will be⟩ [[H705|forty-eight,]] [[H853|with their corresponding]] [[H4054|pasturelands.]] ^3507
 
-And they set out from Tahath and camped at Terah. ^3327
+[[H5892|The cities]] [[H834|that]] [[H5414|you apportion]] [[H272|from the territory]] [[H1121|of the Israelites]] [[H5414|should be given]] [[H3881|to the Levites]] [[H6310|in proportion to]] [[H5159|the inheritance]] [[H376|of each]] ⟨tribe⟩: [[H7235|more from]] [[H7227|a larger]] ⟨tribe⟩ [[H4591|and less from]] [[H4592|a smaller one.]] ^3508
 
-And they set out from Terah and camped at Mithkah. ^3328
+[[H3069|Then the LORD]] [[H1696|said]] [[H413|to]] [[H4872|Moses,]] ^3509
 
-And they set out from Mithkah and camped at Hashmonah. ^3329
+[[H1696|“Speak]] [[H413|to]] [[H1121|the Israelites]] [[H559|and tell them:]] [[H3588|When]] [[H859|you]] [[H5674|cross]] [[H3383|the Jordan]] [[H776|into the land]] [[H3667|of Canaan,]] ^3510
 
-And they set out from Hashmonah and camped at Moseroth. ^3330
+[[H7136|designate]] [[H5892|cities]] [[H1961|to serve as]] [[H5892|your  cities]] [[H4733|of refuge,]] [[H7523|so that a person]] [[H5221|who kills]] [[H5315|someone]] [[H7684|unintentionally]] [[H5127|may flee]] [[H8033|there.]] ^3511
 
-And they set out from Moseroth and camped at Bene-jaakan. ^3331
+[[H1961|You are to have]] [[H5892|these cities]] [[H4733|as a refuge]] [[H1350|from the avenger,]] [[H7523|so that the manslayer]] [[H3808|will not]] [[H4191|die]] [[H5704|until]] [[H5975|he stands]] [[H4941|trial]] [[H6440|before]] [[H5712|the assembly.]] ^3512
 
-And they set out from Bene-jaakan and camped at Hor-haggidgad. ^3332
+[[H5892|The cities]] [[H5414|you select]] [[H1961|will be]] [[H8337|your six]] [[H5892|cities]] [[H4733|of refuge.]] ^3513
 
-And they set out from Hor-haggidgad and camped at Jotbathah. ^3333
+[[H7969|Select three]] [[H5892|cities]] [[H5676|across]] [[H3383|the Jordan]] [[H7969|and three]] [[H776|in the land]] [[H3667|of Canaan]] [[H1961|as]] [[H5892|cities]] [[H4733|of refuge.]] ^3514
 
-And they set out from Jotbathah and camped at Abronah. ^3334
+[[H428|These]] [[H8337|six]] [[H5892|cities]] [[H1961|will serve]] [[H4733|as a refuge]] [[H1121|for the Israelites]] [[H1616|and for the foreigner]] [[H8453|or sojourner]] [[H8432|among them,]] [[H3605|so that anyone]] [[H5221|who kills]] [[H5315|a person]] [[H7684|unintentionally]] [[H5127|may flee]] [[H8033|there.]] ^3515
 
-And they set out from Abronah and camped at Ezion-geber. ^3335
+[[H518|If, however,]] [[H5221|anyone strikes]] [[H1270|a person with an iron]] [[H3627|object]] [[H4191|and kills him,]] [[H1931|he]] [[H7523|is a murderer;]] [[H7523|the murderer]] [[H4191|must surely be put to death.]] ^3516
 
-And they set out from Ezion-geber and camped in the wilderness of Zin (that is, Kadesh ). ^3336
+[[H518|Or if]] [[H3027|anyone has in his hand]] [[H68|a stone]] [[H4191|of deadly size,]] [[H5221|and he strikes]] [[H4191|and kills another,]] [[H7523|he is a murderer;]] [[H7523|the murderer]] [[H4191|must surely be put to death.]] ^3517
 
-And they set out from Kadesh and camped at Mount Hor, on the edge of the land of Edom. ^3337
+[[H176|If]] [[H3027|anyone has in his hand]] [[H4191|a deadly]] [[H3627|object]] [[H6086|of wood,]] [[H5221|and he strikes]] [[H4191|and kills another,]] [[H7523|he is a murderer;]] [[H7523|the murderer]] [[H4191|must surely be put to death.]] ^3518
 
-And Aaron the priest went up Mount Hor at the command of the Lord and died there, in the fortieth year after the people of Israel had come out of the land of Egypt, on the first day of the fifth month. ^3338
+[[H1350|The avenger]] [[H1818|of blood]] ⟨is to put⟩ [[H7523|the murderer]] [[H4191|to death;]] [[H6293|when he finds him,]] [[H1931|he]] [[H4191|is to kill him.]] ^3519
 
-And Aaron was 123 years old when he died on Mount Hor. ^3339
+[[H518|Likewise, if]] [[H8135|anyone maliciously]] [[H1920|pushes another]] [[H176|or]] [[H6660|intentionally]] [[H7993|throws an object]] [[H5921|at him]] [[H4191|and kills him,]] ^3520
 
-And the Canaanite, the king of Arad, who lived in the Negeb in the land of Canaan, heard of the coming of the people of Israel. ^3340
+[[H176|or]] [[H342|if in hostility]] [[H5221|he strikes]] [[H3027|him with his hand]] [[H4191|and he dies,]] [[H5221|the one who struck him]] [[H4191|must surely be put to death;]] [[H1931|he]] [[H7523|is a murderer.]] [[H1350|When the avenger]] [[H1818|of blood]] [[H6293|finds]] [[H7523|the murderer,]] [[H4191|he is to kill]] [[H853|him.]] ^3521
 
-And they set out from Mount Hor and camped at Zalmonah. ^3341
+[[H518|But if anyone]] [[H1920|pushes a person]] [[H6621|suddenly,]] [[H3808|without]] [[H342|hostility,]] [[H176|or]] [[H3808|unintentionally]] [[H7993|hits him]] [[H3605|with an]] [[H3627|object,]] ^3522
 
-And they set out from Zalmonah and camped at Punon. ^3342
+[[H176|or]] [[H3808|without]] [[H7200|looking]] [[H5307|drops]] [[H68|a heavy stone]] [[H4191|that kills him,]] [[H1931|but he]] [[H3808|was not]] [[H341|an enemy]] [[H3808|and did not]] [[H1245|intend]] [[H7451|to harm him,]] ^3523
 
-And they set out from Punon and camped at Oboth. ^3343
+[[H5712|then the congregation]] [[H8199|must judge]] [[H996|between]] [[H5221|the slayer]] [[H1350|and the avenger]] [[H1818|of blood]] [[H5921|according to]] [[H428|these]] [[H4941|ordinances.]] ^3524
 
-And they set out from Oboth and camped at Iye-abarim, in the territory of Moab. ^3344
+[[H5712|The assembly]] [[H5337|is to protect]] [[H7523|the manslayer]] [[H3027|from the hand]] [[H1350|of the avenger]] [[H1818|of blood.]] [[H5712|Then the assembly]] [[H7725|will return]] [[H413|him to]] [[H5892|the city]] [[H4733|of refuge]] [[H5127|to which he fled,]] [[H3427|and he must live]] [[H5704|there until]] [[H4194|the death]] [[H1419|of the high]] [[H3548|priest,]] [[H834|who]] [[H4886|was anointed]] [[H6944|with the holy]] [[H8081|oil.]] ^3525
 
-And they set out from Iyim and camped at Dibon-gad. ^3345
+[[H518|But if]] [[H7523|the manslayer]] [[H3318|ever goes outside]] [[H1366|the limits]] [[H5892|of the city]] [[H4733|of refuge]] [[H5127|to which he fled]] ^3526
 
-And they set out from Dibon-gad and camped at Almon-diblathaim. ^3346
+[[H1350|and the avenger]] [[H1818|of blood]] [[H4672|finds]] [[H853|him]] [[H2351|outside]] [[H5892|of his city]] [[H4733|of refuge]] [[H7523|and kills him,]] [[H1350|the avenger]] [[H369|will not]] [[H1818|be guilty of bloodshed,]] ^3527
 
-And they set out from Almon-diblathaim and camped in the mountains of Abarim, before Nebo. ^3347
+[[H3588|because]] ⟨the manslayer⟩ [[H3427|must remain]] [[H5892|in his city]] [[H4733|of refuge]] [[H5704|until]] [[H4194|the death]] [[H1419|of the high]] [[H3548|priest.]] [[H310|Only after]] [[H4194|the death]] [[H1419|of the high]] [[H3548|priest]] [[H7523|may]] ⟨he⟩ [[H7725|return]] [[H413|to]] [[H776|the land]] [[H272|he owns.]] ^3528
 
-And they set out from the mountains of Abarim and camped in the plains of Moab by the Jordan at Jericho; ^3348
+[[H428|This]] [[H1961|will be]] [[H4941|a statutory]] [[H2708|ordinance]] [[H1755|for you  for the generations to come,]] [[H3605|wherever]] [[H4186|you live.]] ^3529
 
-they camped by the Jordan from Beth-jeshimoth as far as Abel-shittim in the plains of Moab. ^3349
+[[H3605|If anyone]] [[H5221|kills]] [[H5315|a person,]] [[H7523|the murderer]] [[H7523|is to be put to death]] [[H6310|on the testimony]] [[H5707|of witnesses.]] ⟨multiple⟩ [[H3808|But no]] [[H5315|one]] [[H4191|is to be put to death]] [[H6030|based on the testimony]] [[H259|of a lone]] [[H5707|witness.]] ^3530
 
-And the Lord spoke to Moses in the plains of Moab by the Jordan at Jericho, saying, ^3350
+[[H3808|You are not]] [[H3947|to accept]] [[H3724|a ransom]] [[H5315|for the life]] [[H7523|of a murderer]] [[H834|who]] [[H7563|deserves]] [[H4191|to die;]] [[H4191|he must surely be put to death.]] ^3531
 
-Speak to the people of Israel and say to them, When you pass over the Jordan into the land of Canaan, ^3351
+[[H3808|Nor]] [[H3947|should you accept]] [[H3724|a ransom]] [[H5127|for the person who flees]] [[H413|to]] [[H5892|a city]] [[H4733|of refuge]] [[H7725|and allow him to return]] [[H3427|and live]] [[H776|on his own land]] [[H5704|before]] [[H4194|the death]] [[H3548|of the high priest.]] ^3532
 
-then you shall drive out all the inhabitants of the land from before you and destroy all their figured stones and destroy all their metal images and demolish all their high places. ^3352
+[[H3808|Do not]] [[H2610|pollute]] [[H776|the land]] [[H834|where]] [[H859|you]] [[H3588|live,  for]] [[H1818|bloodshed]] [[H2610|pollutes]] [[H776|the land,]] [[H3808|and no]] [[H3722|atonement can be made]] [[H776|for the land]] [[H1818|on which the blood]] [[H8210|is shed,]] [[H3588|except]] [[H1818|by the blood]] [[H8210|of the one who shed it.]] ^3533
 
-And you shall take possession of the land and settle in it, for I have given the land to you to possess it. ^3353
+[[H3808|Do not]] [[H2930|defile]] [[H776|the land]] [[H834|where]] [[H859|you]] [[H3427|live]] [[H834|and where]] [[H589|I]] [[H7931|dwell.]] [[H3588|For]] [[H589|I,]] [[H3068|the LORD,]] [[H7931|dwell]] [[H8432|among]] [[H1121|the Israelites.”]] ^3534
 
-You shall inherit the land by lot according to your clans. To a large tribe you shall give a large inheritance, and to a small tribe you shall give a small inheritance. Wherever the lot falls for anyone, that shall be his. According to the tribes of your fathers you shall inherit. ^3354
+[[H1|Now the family]] [[H7218|heads]] [[H4940|of the clan]] [[H1568|of Gilead]] [[H1121|son]] [[H4353|of Machir]] [[H1121|son]] [[H4519|of Manasseh,]] [[H4940|one of the clans]] [[H3130|of Joseph,]] [[H7126|approached]] [[H1696|and addressed]] [[H4872|Moses]] [[H5387|and the leaders]] [[H7218|who were the heads]] [[H1121|of the Israelite]] [[H3478|families,]] ^3601
 
-But if you do not drive out the inhabitants of the land from before you, then those of them whom you let remain shall be as barbs in your eyes and thorns in your sides, and they shall trouble you in the land where you dwell. ^3355
+[[H559|saying,]] [[H3068|“When the LORD]] [[H6680|commanded]] [[H113|my lord]] [[H5414|to give]] [[H776|the land]] [[H5159|as an inheritance]] [[H1121|to the Israelites]] [[H1486|by lot,]] ⟨He⟩ [[H3068|]] [[H6680|also commanded]] ⟨him⟩ [[H113|]] [[H5414|to give]] [[H5159|the inheritance]] [[H251|of our brother]] [[H6765|Zelophehad]] [[H1323|to his daughters.]] ^3602
 
-And I will do to you as I thought to do to them. ^3356
+[[H1961|But if they marry]] [[H259|any of the men]] [[H7626|from the tribes]] ⟨other⟩ [[H3478|of Israel,]] [[H5159|their inheritance]] [[H1639|will be withdrawn]] [[H5159|from the portion]] [[H1|of our fathers]] [[H3254|and added]] [[H5921|to]] [[H4294|the tribe]] [[H834|into which]] [[H1961|they marry.]] [[H1486|So our  allotted]] [[H5159|inheritance]] [[H1639|would be taken away.]] ^3603
 
+[[H518|And when]] [[H3104|the Jubilee]] [[H1121|for the Israelites]] [[H1961|comes,]] [[H5159|their inheritance]] [[H3254|will be added]] [[H5921|to]] [[H4294|the tribe]] [[H834|into which]] [[H1961|they marry]] ⟨and⟩ [[H5159|]] [[H1639|taken away]] [[H4294|from the tribe]] [[H1|of our fathers.”]] ^3604
 
+[[H5921|So at]] [[H6310|the word]] [[H3068|of the LORD,]] [[H4872|Moses]] [[H6680|commanded]] [[H1121|the Israelites:]] [[H4294|“The tribe]] [[H1121|of the sons]] [[H3130|of Joseph]] [[H1696|speaks]] [[H3651|correctly.]] ^3605
 
-The Lord spoke to Moses, saying, ^3401
+[[H2088|This]] [[H834|is what]] [[H3068|the LORD]] [[H6680|has commanded]] [[H1323|concerning the daughters]] [[H6765|of Zelophehad:]] [[H1961|They may marry]] [[H2896|anyone they please,]] [[H389|provided]] [[H1961|they marry]] [[H4940|within a clan]] [[H4294|of the tribe]] [[H1|of their father.]] ^3606
 
-Command the people of Israel, and say to them, When you enter the land of Canaan ( this is the land that shall fall to you for an inheritance, the land of Canaan as defined by its borders ), ^3402
+[[H3808|No]] [[H5159|inheritance]] [[H1121|in Israel]] [[H5437|may be transferred]] [[H4294|from tribe]] [[H413|to]] [[H4294|tribe,]] [[H3588|because]] [[H376|each]] [[H1121|of the Israelites]] [[H1692|is to retain]] [[H5159|the inheritance]] [[H4294|of the tribe]] [[H1|of his fathers.]] ^3607
 
-your south side shall be from the wilderness of Zin alongside Edom, and your southern border shall run from the end of the Salt Sea on the east. ^3403
+[[H3605|Every]] [[H1323|daughter]] [[H3423|who possesses]] [[H5159|an inheritance]] [[H3478|from any Israelite]] [[H4294|tribe]] [[H1961|must marry]] [[H4940|within a clan]] [[H4294|of the tribe]] [[H1|of her father,]] [[H4616|so that]] [[H376|every]] [[H1121|Israelite]] [[H3423|will possess]] [[H5159|the inheritance]] [[H1|of his fathers.]] ^3608
 
-And your border shall turn south of the ascent of Akrabbim, and cross to Zin, and its limit shall be south of Kadesh-barnea. Then it shall go on to Hazar-addar, and pass along to Azmon. ^3404
+[[H3808|No]] [[H5159|inheritance]] [[H5437|may be transferred]] [[H4294|from one tribe]] [[H4294|to another,]] [[H3588|because]] [[H376|each]] [[H4294|tribe]] [[H3478|of Israel]] [[H1692|must retain]] [[H5159|its inheritance.”]] ^3609
 
-And the border shall turn from Azmon to the Brook of Egypt, and its limit shall be at the sea. ^3405
+[[H1323|So the daughters]] [[H6765|of Zelophehad]] [[H6213|did]] [[H834|as]] [[H3069|the LORD]] [[H6680|had commanded]] [[H4872|Moses.]] ^3610
 
-For the western border, you shall have the Great Sea and its coast. This shall be your western border. ^3406
+[[H4244|Mahlah,]] [[H8656|Tirzah,]] [[H2295|Hoglah,]] [[H4435|Milcah,]] [[H5270|and Noah,]] [[H1323|the daughters]] [[H6765|of Zelophehad,]] [[H802|were married]] [[H1121|to cousins on their]] [[H1730|father’s side.]] ^3611
 
-This shall be your northern border : from the Great Sea you shall draw a line to Mount Hor. ^3407
+[[H1961|They married]] [[H4940|within the clans]] [[H1121|of the descendants]] [[H4519|of Manasseh]] [[H1121|son]] [[H3130|of Joseph,]] [[H5159|and their inheritance]] [[H1961|remained]] [[H5921|within]] [[H4294|the tribe]] [[H1|of their father’s]] [[H4940|clan.]] ^3612
 
-From Mount Hor you shall draw a line to Lebo- hamath, and the limit of the border shall be at Zedad. ^3408
-
-Then the border shall extend to Ziphron, and its limit shall be at Hazar-enan. This shall be your northern border. ^3409
-
-You shall draw a line for your eastern border from Hazar-enan to Shepham. ^3410
-
-And the border shall go down from Shepham to Riblah on the east side of Ain. And the border shall go down and reach to the shoulder of the Sea of Chinnereth on the east. ^3411
-
-And the border shall go down to the Jordan, and its limit shall be at the Salt Sea. This shall be your land as defined by its borders all around. ^3412
-
-Moses commanded the people of Israel, saying, This is the land that you shall inherit by lot, which the Lord has commanded to give to the nine tribes and to the half-tribe. ^3413
-
-For the tribe of the people of Reuben by fathers ’ houses and the tribe of the people of Gad by their fathers ’ houses have received their inheritance, and also the half-tribe of Manasseh. ^3414
-
-The two tribes and the half-tribe have received their inheritance beyond the Jordan east of Jericho, toward the sunrise. ^3415
-
-The Lord spoke to Moses, saying, ^3416
-
-These are the names of the men who shall divide the land to you for inheritance : Eleazar the priest and Joshua the son of Nun. ^3417
-
-You shall take one chief from every tribe to divide the land for inheritance. ^3418
-
-These are the names of the men : Of the tribe of Judah, Caleb the son of Jephunneh. ^3419
-
-Of the tribe of the people of Simeon, Shemuel the son of Ammihud. ^3420
-
-Of the tribe of Benjamin, Elidad the son of Chislon. ^3421
-
-Of the tribe of the people of Dan a chief, Bukki the son of Jogli. ^3422
-
-Of the people of Joseph : of the tribe of the people of Manasseh a chief, Hanniel the son of Ephod. ^3423
-
-And of the tribe of the people of Ephraim a chief, Kemuel the son of Shiphtan. ^3424
-
-Of the tribe of the people of Zebulun a chief, Elizaphan the son of Parnach. ^3425
-
-Of the tribe of the people of Issachar a chief, Paltiel the son of Azzan. ^3426
-
-And of the tribe of the people of Asher a chief, Ahihud the son of Shelomi. ^3427
-
-Of the tribe of the people of Naphtali a chief, Pedahel the son of Ammihud. ^3428
-
-These are the men whom the Lord commanded to divide the inheritance for the people of Israel in the land of Canaan. ^3429
-
-
-
-The Lord spoke to Moses in the plains of Moab by the Jordan at Jericho, saying, ^3501
-
-Command the people of Israel to give to the Levites some of the inheritance of their possession as cities for them to dwell in. And you shall give to the Levites pasturelands around the cities. ^3502
-
-The cities shall be theirs to dwell in, and their pasturelands shall be for their cattle and for their livestock and for all their beasts. ^3503
-
-The pasturelands of the cities, which you shall give to the Levites, shall reach from the wall of the city outward a thousand cubits all around. ^3504
-
-And you shall measure, outside the city, on the east side two thousand cubits, and on the south side two thousand cubits, and on the west side two thousand cubits, and on the north side two thousand cubits, the city being in the middle. This shall belong to them as pastureland for their cities. ^3505
-
-The cities that you give to the Levites shall be the six cities of refuge, where you shall permit the manslayer to flee, and in addition to them you shall give forty-two cities. ^3506
-
-All the cities that you give to the Levites shall be forty-eight, with their pasturelands. ^3507
-
-And as for the cities that you shall give from the possession of the people of Israel, from the larger tribes you shall take many, and from the smaller tribes you shall take few; each, in proportion to the inheritance that it inherits, shall give of its cities to the Levites. ^3508
-
-And the Lord spoke to Moses, saying, ^3509
-
-Speak to the people of Israel and say to them, When you cross the Jordan into the land of Canaan, ^3510
-
-then you shall select cities to be cities of refuge for you, that the manslayer who kills any person without intent may flee there. ^3511
-
-The cities shall be for you a refuge from the avenger, that the manslayer may not die until he stands before the congregation for judgment. ^3512
-
-And the cities that you give shall be your six cities of refuge. ^3513
-
-You shall give three cities beyond the Jordan, and three cities in the land of Canaan, to be cities of refuge. ^3514
-
-These six cities shall be for refuge for the people of Israel, and for the stranger and for the sojourner among them, that anyone who kills any person without intent may flee there. ^3515
-
-But if he struck him down with an iron object, so that he died, he is a murderer. The murderer shall be put to death. ^3516
-
-And if he struck him down with a stone tool that could cause death, and he died, he is a murderer. The murderer shall be put to death. ^3517
-
-Or if he struck him down with a wooden tool that could cause death, and he died, he is a murderer. The murderer shall be put to death. ^3518
-
-The avenger of blood shall himself put the murderer to death; when he meets him, he shall put him to death. ^3519
-
-And if he pushed him out of hatred or hurled something at him, lying in wait, so that he died, ^3520
-
-or in enmity struck him down with his hand, so that he died, then he who struck the blow shall be put to death. He is a murderer. The avenger of blood shall put the murderer to death when he meets him. ^3521
-
-But if he pushed him suddenly without enmity, or hurled anything on him without lying in wait ^3522
-
-or used a stone that could cause death, and without seeing him dropped it on him, so that he died, though he was not his enemy and did not seek his harm, ^3523
-
-then the congregation shall judge between the manslayer and the avenger of blood, in accordance with these rules. ^3524
-
-And the congregation shall rescue the manslayer from the hand of the avenger of blood, and the congregation shall restore him to his city of refuge to which he had fled, and he shall live in it until the death of the high priest who was anointed with the holy oil. ^3525
-
-But if the manslayer shall at any time go beyond the boundaries of his city of refuge to which he fled, ^3526
-
-and the avenger of blood finds him outside the boundaries of his city of refuge, and the avenger of blood kills the manslayer, he shall not be guilty of blood. ^3527
-
-For he must remain in his city of refuge until the death of the high priest, but after the death of the high priest the manslayer may return to the land of his possession. ^3528
-
-And these things shall be for a statute and rule for you throughout your generations in all your dwelling places. ^3529
-
-If anyone kills a person, the murderer shall be put to death on the evidence of witnesses. But no person shall be put to death on the testimony of one witness. ^3530
-
-Moreover, you shall accept no ransom for the life of a murderer, who is guilty of death, but he shall be put to death. ^3531
-
-And you shall accept no ransom for him who has fled to his city of refuge, that he may return to dwell in the land before the death of the high priest. ^3532
-
-You shall not pollute the land in which you live, for blood pollutes the land, and no atonement can be made for the land for the blood that is shed in it, except by the blood of the one who shed it. ^3533
-
-You shall not defile the land in which you live, in the midst of which I dwell, for I the Lord dwell in the midst of the people of Israel. ^3534
-
-
-
-The heads of the fathers ’ houses of the clan of the people of Gilead the son of Machir, son of Manasseh, from the clans of the people of Joseph, came near and spoke before Moses and before the chiefs, the heads of the fathers ’ houses of the people of Israel. ^3601
-
-They said, The Lord commanded my lord to give the land for inheritance by lot to the people of Israel, and my lord was commanded by the Lord to give the inheritance of Zelophehad our brother to his daughters. ^3602
-
-But if they are married to any of the sons of the other tribes of the people of Israel, then their inheritance will be taken from the inheritance of our fathers and added to the inheritance of the tribe into which they marry. So it will be taken away from the lot of our inheritance. ^3603
-
-And when the jubilee of the people of Israel comes, then their inheritance will be added to the inheritance of the tribe into which they marry, and their inheritance will be taken from the inheritance of the tribe of our fathers. ^3604
-
-And Moses commanded the people of Israel according to the word of the Lord, saying, The tribe of the people of Joseph is right. ^3605
-
-This is what the Lord commands concerning the daughters of Zelophehad : Let them marry whom they think best, only they shall marry within the clan of the tribe of their father. ^3606
-
-The inheritance of the people of Israel shall not be transferred from one tribe to another, for every one of the people of Israel shall hold on to the inheritance of the tribe of his fathers. ^3607
-
-And every daughter who possesses an inheritance in any tribe of the people of Israel shall be wife to one of the clan of the tribe of her father, so that every one of the people of Israel may possess the inheritance of his fathers. ^3608
-
-So no inheritance shall be transferred from one tribe to another, for each of the tribes of the people of Israel shall hold on to its own inheritance. ^3609
-
-The daughters of Zelophehad did as the Lord commanded Moses, ^3610
-
-for Mahlah, Tirzah, Hoglah, Milcah, and Noah, the daughters of Zelophehad, were married to sons of their father’s brothers. ^3611
-
-They were married into the clans of the people of Manasseh the son of Joseph, and their inheritance remained in the tribe of their father’s clan. ^3612
-
-These are the commandments and the rules that the Lord commanded through Moses to the people of Israel in the plains of Moab by the Jordan at Jericho. ^3613
-
-
+[[H428|These]] [[H4687|are the commandments]] [[H4941|and ordinances]] [[H834|that]] [[H3068|the LORD]] [[H6680|gave]] [[H1121|to the Israelites]] [[H3027|through]] [[H4872|Moses]] [[H6160|on the plains]] [[H4124|of Moab]] [[H5921|by]] [[H3383|the Jordan]] [[H3405|across from Jericho.]] ^3613

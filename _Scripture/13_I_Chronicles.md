@@ -1,1943 +1,1885 @@
+[[H3605|So all]] [[H3478|Israel]] [[H3187|was recorded in the genealogies]] [[H3789|written]] [[H5921|in]] [[H5612|the Book]] [[H4428|of the Kings]] [[H3478|of Israel.]] [[H3063|But Judah]] [[H1540|was exiled]] [[H894|to Babylon]] [[H4604|because of their unfaithfulness.]] ^0901
 
+[[H7223|Now the first]] [[H3427|to resettle]] [[H272|their own property]] [[H5892|in their cities]] [[H3478|were Israelites,]] [[H3548|priests,]] [[H3881|Levites,]] [[H5411|and temple servants.]] ^0902
 
-Adam, Seth, Enosh; ^0101
+[[H4480|These were some]] [[H1121|of the descendants]] [[H3063|of Judah,]] [[H1144|Benjamin,]] [[H669|Ephraim,]] [[H4519|and Manasseh]] [[H3427|who lived]] [[H3389|in Jerusalem:]] ^0903
 
-Kenan, Mahalalel, Jared; ^0102
+[[H5793|Uthai]] [[H1121|son]] [[H5989|of Ammihud,]] [[H1121|the son]] [[H6018|of Omri,]] [[H1121|the son]] [[H566|of Imri,]] [[H1121|the son]] [[H1137|of Bani,]] [[H1121|a descendant]] [[H6557|of Perez]] [[H3063|son of Judah.]] ^0904
 
-Enoch, Methuselah, Lamech; ^0103
+[[H4480|From]] [[H7888|the Shilonites:]] [[H6222|Asaiah]] [[H1060|the firstborn]] [[H1121|and his sons.]] ^0905
 
-Noah, Shem, Ham, and Japheth. ^0104
+[[H4480|From]] [[H2226|the Zerahites:]] [[H3262|Jeuel]] [[H8337|and 690]] [[H251|relatives.]] ^0906
 
-The sons of Japheth : Gomer, Magog, Madai, Javan, Tubal, Meshech, and Tiras. ^0105
+[[H4480|From]] [[H1121|the Benjamites:]] [[H5543|Sallu]] [[H1121|son]] [[H4918|of Meshullam,]] [[H1121|the son]] [[H1938|of Hodaviah,]] [[H1121|the son]] [[H5574|of Hassenuah;]] ^0907
 
-The sons of Gomer : Ashkenaz, Riphath, and Togarmah. ^0106
+[[H2997|Ibneiah]] [[H1121|son]] [[H3395|of Jeroham;]] [[H425|Elah]] [[H1121|son]] [[H5813|of Uzzi,]] [[H1121|the son]] [[H4381|of Michri;]] [[H4918|Meshullam]] [[H1121|son]] [[H8203|of Shephatiah,]] [[H1121|the son]] [[H7467|of Reuel,]] [[H1121|the son]] [[H2998|of Ibnijah;]] ^0908
 
-The sons of Javan : Elishah, Tarshish, Kittim, and Rodanim. ^0107
+[[H8672|and 956]] [[H251|of their relatives]] [[H8435|according to their genealogy.]] [[H3605|All]] [[H428|these]] [[H376|men]] [[H7218|were heads]] [[H1|of their families.]] ^0909
 
-The sons of Ham : Cush, Egypt, Put, and Canaan. ^0108
+[[H4480|From]] [[H3548|the priests:]] [[H3048|Jedaiah;]] [[H3080|Jehoiarib;]] [[H3199|Jachin;]] ^0910
 
-The sons of Cush : Seba, Havilah, Sabta, Raama, and Sabteca. The sons of Raamah : Sheba and Dedan. ^0109
+[[H5838|Azariah]] [[H1121|son]] [[H2518|of Hilkiah,]] [[H1121|the son]] [[H4918|of Meshullam,]] [[H1121|the son]] [[H6659|of Zadok,]] [[H1121|the son]] [[H4812|of Meraioth,]] [[H1121|the son]] [[H285|of Ahitub,]] [[H5057|the chief official]] [[H430|of God’s]] [[H1004|temple;]] ^0911
 
-Cush fathered Nimrod. He was the first on earth to be a mighty man. ^0110
+[[H5718|Adaiah]] [[H1121|son]] [[H3395|of Jeroham,]] [[H1121|the son]] [[H6583|of Pashhur,]] [[H1121|the son]] [[H4441|of Malchijah;]] [[H4640|Maasai]] [[H1121|son]] [[H5717|of Adiel,]] [[H1121|the son]] [[H3170|of Jahzerah,]] [[H1121|the son]] [[H4918|of Meshullam,]] [[H1121|the son]] [[H4921|of Meshillemith,]] [[H1121|the son]] [[H564|of Immer;]] ^0912
 
-Egypt fathered Ludim, Anamim, Lehabim, Naphtuhim, ^0111
+[[H505|and 1,760]] [[H251|of their relatives,]] [[H7218|the heads]] [[H1004|of their families,]] [[H2428|able]] [[H1368|men]] [[H4399|for the work]] [[H5656|of the service]] [[H1004|of the house]] [[H430|of God.]] ^0913
 
-Pathrusim, Casluhim (from whom the Philistines came ), and Caphtorim. ^0112
+[[H3881|From the Levites:]] [[H8098|Shemaiah]] [[H1121|son]] [[H2815|of Hasshub,]] [[H1121|the son]] [[H5840|of Azrikam,]] [[H1121|the son]] [[H2811|of Hashabiah,]] [[H1121|a descendant]] [[H4847|of Merari;]] ^0914
 
-Canaan fathered Sidon his firstborn and Heth, ^0113
+[[H1230|Bakbakkar,]] [[H2792|Heresh,]] [[H1559|Galal,]] [[H4983|and Mattaniah]] [[H1121|son]] [[H4316|of Mica,]] [[H1121|the son]] [[H2147|of Zichri,]] [[H1121|the son]] [[H623|of Asaph;]] ^0915
 
-and the Jebusites, the Amorites, the Girgashites, ^0114
+[[H5662|Obadiah]] [[H1121|son]] [[H8098|of Shemaiah,]] [[H1121|the son]] [[H1559|of Galal,]] [[H1121|the son]] [[H3038|of Jeduthun;]] [[H1296|and Berechiah]] [[H1121|son]] [[H609|of Asa,]] [[H1121|the son]] [[H511|of Elkanah]] [[H3427|who lived]] [[H2691|in the villages]] [[H5200|of the Netophathites.]] ^0916
 
-the Hivites, the Arkites, the Sinites, ^0115
+⟨These were⟩ [[H7778|the gatekeepers:]] [[H7967|Shallum,]] [[H6126|Akkub,]] [[H2929|Talmon,]] [[H289|Ahiman,]] [[H251|and their relatives.]] [[H7967|Shallum]] [[H7218|was their chief;]] ^0917
 
-the Arvadites, the Zemarites, and the Hamathites. ^0116
+[[H4428|he was previously stationed at the King’s]] [[H8179|Gate]] [[H4217|on the east side.]] [[H1992|These]] [[H7778|were the gatekeepers]] [[H4264|from the camp]] [[H1121|of the Levites.]] ^0918
 
-The sons of Shem : Elam, Asshur, Arpachshad, Lud, and Aram. And the sons of Aram: Uz, Hul, Gether, and Meshech. ^0117
+[[H7967|Shallum]] [[H1121|son]] [[H6981|of Kore,]] [[H1121|the son]] [[H43|of Ebiasaph,]] [[H1121|the son]] [[H7141|of Korah,]] [[H251|and his relatives]] [[H7145|from the Korahites]] [[H8104|were assigned to guard]] [[H5592|the thresholds]] [[H168|of the Tent,]] [[H1|just as their fathers]] [[H5921|had been assigned to]] [[H8104|guard]] [[H3996|the entrance]] [[H4264|to the dwelling]] [[H3068|of the LORD.]] ^0919
 
-Arpachshad fathered Shelah, and Shelah fathered Eber. ^0118
+[[H6440|In earlier times]] [[H6372|Phinehas]] [[H1121|son]] [[H499|of Eleazar]] [[H1961|had been]] [[H5057|in charge]] [[H5921|of]] ⟨the gatekeepers⟩, [[H3068|and the LORD]] [[H5973|was with him.]] ^0920
 
-To Eber were born two sons : the name of the one was Peleg (for in his days the earth was divided ), and his brother’s name was Joktan. ^0119
+[[H2148|Zechariah]] [[H1121|son]] [[H4920|of Meshelemiah]] [[H7778|was the gatekeeper]] [[H6607|at the entrance]] [[H168|to the Tent]] [[H4150|of Meeting.]] ^0921
 
-Joktan fathered Almodad, Sheleph, Hazarmaveth, Jerah, ^0120
+[[H3605|The number]] [[H1305|of those chosen]] [[H7778|to be gatekeepers]] [[H5592|at the thresholds]] [[H3967|was 212.]] [[H1992|They]] [[H3187|were registered by genealogy]] [[H2691|in their villages.]] [[H1732|David]] [[H8050|and Samuel]] [[H7200|the seer]] [[H3245|had appointed]] [[H1992|them]] [[H530|to their positions of trust.]] ^0922
 
-Hadoram, Uzal, Diklah, ^0121
+[[H1992|So they]] [[H1121|and their descendants]] [[H5921|were assigned to]] [[H4931|guard]] [[H8179|the gates]] [[H1004|of the house]] [[H3068|of the LORD—]] [[H1004|the house]] [[H168|called the Tent.]] ^0923
 
-Obal, Abimael, Sheba, ^0122
+[[H7778|The gatekeepers]] [[H1961|were stationed]] [[H702|on the four]] [[H7307|sides:]] [[H4217|east,]] [[H3220|west,]] [[H6828|north,]] [[H5045|and south.]] ^0924
 
-Ophir, Havilah, and Jobab; all these were the sons of Joktan. ^0123
+[[H251|Their relatives]] [[H935|came]] [[H2691|from their villages]] [[H6256|at fixed times]] [[H5973|to serve with]] [[H428|them]] [[H7651|for seven-day periods.]] ^0925
 
-Shem, Arpachshad, Shelah; ^0124
+[[H3588|But]] [[H702|the four]] [[H1368|chief]] [[H7778|gatekeepers,]] [[H1992|who]] [[H3881|were Levites,]] [[H1961|were]] [[H5921|entrusted with]] [[H3957|the rooms]] [[H214|and the treasuries]] [[H1004|of the house]] [[H430|of God.]] ^0926
 
-Eber, Peleg, Reu; ^0125
+[[H3885|They would spend the night]] [[H5439|stationed around]] [[H1004|the house]] [[H430|of God,]] [[H3588|because]] [[H5921|they had]] [[H4931|responsibility for guarding it]] [[H4669|and opening it]] [[H1242|every morning.]] ^0927
 
-Serug, Nahor, Terah; ^0126
+[[H1992|Some of]] [[H5921|them were in charge of]] [[H3627|the articles]] [[H5656|used in worship,]] [[H3588|to]] [[H4557|count them]] [[H935|whenever they were brought in]] ⟨or⟩ [[H3318|taken out.]] ^0928
 
-Abram, that is, Abraham. ^0127
+[[H4487|Others were put]] [[H5921|in charge of]] [[H3627|the furnishings]] [[H3605|and other]] [[H3627|articles]] [[H6944|of the sanctuary,]] [[H5560|as well as the fine flour,]] [[H3196|wine,]] [[H8081|oil,]] [[H3828|incense,]] [[H1314|and spices.]] ^0929
 
-The sons of Abraham : Isaac and Ishmael. ^0128
+[[H4480|And]] ⟨some⟩ [[H1121|of the sons]] [[H3548|of the priests]] [[H7543|mixed]] [[H1314|the spices.]] ^0930
 
-These are their genealogies : the firstborn of Ishmael, Nebaioth, and Kedar, Adbeel, Mibsam, ^0129
+[[H3881|A Levite]] [[H4993|named Mattithiah,]] [[H1060|the firstborn son]] [[H7967|of Shallum]] [[H7145|the Korahite,]] [[H530|was entrusted]] [[H5921|with]] [[H4639|baking]] [[H2281|the bread.]] ^0931
 
-Mishma, Dumah, Massa, Hadad, Tema, ^0130
+[[H4480|Some of]] [[H1121|their Kohathite]] [[H251|brothers]] [[H5921|were responsible for]] [[H3559|preparing]] [[H4635|the rows]] [[H3899|of the showbread]] [[H7676|every Sabbath.]] ^0932
 
-Jetur, Naphish, and Kedemah. These are the sons of Ishmael. ^0131
+[[H428|Those who were]] [[H7891|musicians,]] [[H7218|the heads]] [[H3881|of Levite]] [[H1|families,]] [[H3957|stayed in the temple chambers]] [[H6358|and were exempt]] ⟨from other duties⟩ [[H3588|]] [[H5921|because they were]] [[H4399|on duty]] [[H3119|day]] [[H3915|and night.]] ^0933
 
-The sons of Keturah, Abraham’s concubine : she bore Zimran, Jokshan, Medan, Midian, Ishbak, and Shuah. The sons of Jokshan : Sheba and Dedan. ^0132
+[[H428|All these]] [[H7218|were heads]] [[H3881|of Levite]] [[H1|families,]] [[H7218|chiefs]] [[H8435|according to their genealogies,]] [[H3427|and lived]] [[H3389|in Jerusalem.]] ^0934
 
-The sons of Midian : Ephah, Epher, Hanoch, Abida, and Eldaah. All these were the descendants of Keturah. ^0133
+[[H3273|Jeiel]] [[H1|was the father]] [[H1391|of Gibeon,]] [[H3427|and he lived]] [[H1391|in Gibeon.]] [[H802|His wife’s]] [[H8034|name]] [[H4601|was Maacah.]] ^0935
 
-Abraham fathered Isaac. The sons of Isaac : Esau and Israel. ^0134
+[[H5658|Abdon]] [[H1060|was his firstborn]] [[H1121|son,]] [[H6698|then Zur,]] [[H7027|Kish,]] [[H1168|Baal,]] [[H5369|Ner,]] [[H5070|Nadab,]] ^0936
 
-The sons of Esau : Eliphaz, Reuel, Jeush, Jalam, and Korah. ^0135
+[[H1446|Gedor,]] [[H283|Ahio,]] [[H2148|Zechariah,]] [[H4732|and Mikloth.]] ^0937
 
-The sons of Eliphaz : Teman, Omar, Zepho, Gatam, Kenaz, and of Timna, Amalek. ^0136
+[[H4732|Mikloth]] [[H3205|was the father of]] [[H8043|Shimeam.]] [[H1992|These]] [[H637|also]] [[H3427|lived]] [[H5048|alongside]] [[H251|their relatives]] [[H3389|in Jerusalem.]] ^0938
 
-The sons of Reuel : Nahath, Zerah, Shammah, and Mizzah. ^0137
+[[H5369|Ner]] [[H3205|was the father of]] [[H7027|Kish,]] [[H7027|Kish]] [[H3205|was the father of]] [[H7586|Saul,]] [[H7586|and Saul]] [[H3205|was the father of]] [[H3083|Jonathan,]] [[H4444|Malchishua,]] [[H41|Abinadab,]] [[H792|and Esh-baal.]] ^0939
 
-The sons of Seir : Lotan, Shobal, Zibeon, Anah, Dishon, Ezer, and Dishan. ^0138
+[[H1121|The son]] [[H3083|of Jonathan:]] [[H4807|Merib-baal,]] ⟨who⟩ [[H4810|]] [[H3205|was the father of]] [[H4318|Micah.]] ^0940
 
-The sons of Lotan : Hori and Hemam; and Lotan’s sister was Timna. ^0139
+[[H1121|The sons]] [[H4318|of Micah:]] [[H6377|Pithon,]] [[H4429|Melech,]] [[H8475|Tahrea,]] ⟨and Ahaz⟩. ^0941
 
-The sons of Shobal : Alvan, Manahath, Ebal, Shepho, and Onam. The sons of Zibeon : Aiah and Anah. ^0140
+[[H271|Ahaz]] [[H3205|was the father of]] [[H3294|Jarah;]] [[H3294|Jarah]] [[H3205|was the father of]] [[H5964|Alemeth,]] [[H5820|Azmaveth,]] [[H2174|and Zimri;]] [[H2174|and Zimri]] [[H3205|was the father of]] [[H4162|Moza.]] ^0942
 
-The son of Anah : Dishon. The sons of Dishon : Hemdan, Eshban, Ithran, and Cheran. ^0141
+[[H4162|Moza]] [[H3205|was the father of]] [[H1150|Binea.]] [[H7509|Rephaiah]] ⟨was⟩ [[H1121|his son,]] [[H501|Elasah]] [[H1121|his son,]] [[H682|and Azel]] [[H1121|his son.]] ^0943
 
-The sons of Ezer : Bilhan, Zaavan, and Akan. The sons of Dishan : Uz and Aran. ^0142
+[[H682|And Azel]] [[H8337|had six]] [[H1121|sons,]] [[H428|and these]] [[H8034|were their names:]] [[H5840|Azrikam,]] [[H1074|Bocheru,]] [[H3458|Ishmael,]] [[H8187|Sheariah,]] [[H5662|Obadiah,]] [[H2605|and Hanan.]] [[H428|These]] ⟨were⟩ [[H1121|the sons]] [[H682|of Azel.]] ^0944
 
-These are the kings who reigned in the land of Edom before any king reigned over the people of Israel : Bela the son of Beor, the name of his city being Dinhabah. ^0143
+[[H1144|Benjamin]] [[H3205|was the father of]] [[H1106|Bela,]] [[H1060|his firstborn;]] [[H788|Ashbel]] [[H8145|was second born,]] [[H315|Aharah]] [[H7992|third,]] ^0801
 
-Bela died, and Jobab the son of Zerah of Bozrah reigned in his place. ^0144
+[[H5119|Nohah]] [[H7243|fourth,]] [[H7498|and Rapha]] [[H2549|fifth.]] ^0802
 
-Jobab died, and Husham of the land of the Temanites reigned in his place. ^0145
+[[H1121|The sons]] [[H1106|of Bela:]] [[H146|Addar,]] [[H1617|Gera,]] [[H31|Abihud,]] ^0803
 
-Husham died, and Hadad the son of Bedad, who defeated Midian in the country of Moab, reigned in his place, the name of his city being Avith. ^0146
+[[H50|Abishua,]] [[H5283|Naaman,]] [[H265|Ahoah,]] ^0804
 
-Hadad died, and Samlah of Masrekah reigned in his place. ^0147
+[[H1617|Gera,]] [[H8197|Shephuphan,]] [[H2361|and Huram.]] ^0805
 
-Samlah died, and Shaul of Rehoboth on the Euphrates reigned in his place. ^0148
+[[H428|These]] ⟨were⟩ [[H1121|the descendants]] [[H261|of Ehud,]] [[H1992|who]] [[H7218|were the heads]] [[H1|of the families]] [[H3427|living]] [[H1387|in Geba]] [[H1540|and were exiled]] [[H413|to]] [[H4506|Manahath:]] ^0806
 
-Shaul died, and Baal-hanan, the son of Achbor, reigned in his place. ^0149
+[[H5283|Naaman,]] [[H281|Ahijah,]] [[H1617|and Gera,]] [[H1931|who]] [[H1540|led them into exile]] [[H3205|and was the father]] [[H5798|of Uzza]] [[H284|and Ahihud.]] ^0807
 
-Baal-hanan died, and Hadad reigned in his place, the name of his city being Pai; and his wife’s name was Mehetabel, the daughter of Matred, the daughter of Mezahab. ^0150
+[[H7842|Shaharaim]] [[H3205|had sons]] [[H7704|in the country]] [[H4124|of Moab]] [[H4480|after]] [[H7971|he had divorced]] [[H802|his wives]] [[H2366|Hushim]] [[H1199|and Baara.]] ^0808
 
-And Hadad died. The chiefs of Edom were: chiefs Timna, Alvah, Jetheth, ^0151
+[[H4480|His sons by]] [[H802|his wife]] [[H2321|Hodesh:]] [[H3103|Jobab,]] [[H6644|Zibia,]] [[H4331|Mesha,]] [[H4445|Malcam,]] ^0809
 
-Oholibamah, Elah, Pinon, ^0152
+[[H3263|Jeuz,]] [[H7634|Sachia,]] [[H4821|and Mirmah.]] [[H428|These]] [[H1121|were his sons,]] [[H7218|heads]] [[H1|of families.]] ^0810
 
-Kenaz, Teman, Mibzar, ^0153
+[[H3205|He also had sons]] [[H2366|by Hushim:]] [[H36|Abitub]] [[H508|and Elpaal.]] ^0811
 
-Magdiel, and Iram; these are the chiefs of Edom. ^0154
+[[H1121|The sons]] [[H508|of Elpaal:]] [[H5677|Eber,]] [[H4936|Misham,]] [[H8106|Shemed]] [[H1931|(who]] [[H1129|built]] [[H207|Ono]] [[H3850|and Lod]] [[H1323|with its villages),]] ^0812
 
+[[H1283|Beriah]] [[H8087|and Shema]] [[H1992|(who]] [[H7218|were the heads]] [[H1|of families]] [[H3427|of the inhabitants]] [[H357|of Aijalon]] [[H1992|and who]] [[H1272|drove out]] [[H3427|the inhabitants]] [[H1661|of Gath).]] ^0813
 
+[[H283|Ahio,]] [[H8349|Shashak,]] [[H3406|Jeremoth,]] ^0814
 
-These are the sons of Israel : Reuben, Simeon, Levi, Judah, Issachar, Zebulun, ^0201
+[[H2069|Zebadiah,]] [[H6166|Arad,]] [[H5738|Eder,]] ^0815
 
-Dan, Joseph, Benjamin, Naphtali, Gad, and Asher. ^0202
+[[H4317|Michael,]] [[H3472|Ishpah,]] [[H3109|and Joha]] ⟨were⟩ [[H1121|the sons]] [[H1283|of Beriah.]] ^0816
 
-The sons of Judah : Er, Onan and Shelah; these three Bath-shua the Canaanite bore to him. Now Er, Judah’s firstborn, was evil in the sight of the Lord, and he put him to death. ^0203
+[[H2069|Zebadiah,]] [[H4918|Meshullam,]] [[H2395|Hizki,]] [[H2268|Heber,]] ^0817
 
-His daughter-in-law Tamar also bore him Perez and Zerah. Judah had five sons in all. ^0204
+[[H3461|Ishmerai,]] [[H3152|Izliah,]] [[H3103|and Jobab]] ⟨were⟩ [[H1121|the sons]] [[H508|of Elpaal.]] ^0818
 
-The sons of Perez : Hezron and Hamul. ^0205
+[[H3356|Jakim,]] [[H2147|Zichri,]] [[H2067|Zabdi,]] ^0819
 
-The sons of Zerah : Zimri, Ethan, Heman, Calcol, and Dara, five in all. ^0206
+[[H462|Elienai,]] [[H6769|Zillethai,]] [[H447|Eliel,]] ^0820
 
-The son of Carmi : Achan, the troubler of Israel, who broke faith in the matter of the devoted thing; ^0207
+[[H5718|Adaiah,]] [[H1256|Beraiah,]] [[H8119|and Shimrath]] ⟨were⟩ [[H1121|the sons]] [[H8096|of Shimei.]] ^0821
 
-and Ethan’s son was Azariah. ^0208
+[[H3473|Ishpan,]] [[H5677|Eber,]] [[H447|Eliel,]] ^0822
 
-The sons of Hezron that were born to him: Jerahmeel, Ram, and Chelubai. ^0209
+[[H5658|Abdon,]] [[H2147|Zichri,]] [[H2605|Hanan,]] ^0823
 
-Ram fathered Amminadab, and Amminadab fathered Nahshon, prince of the sons of Judah. ^0210
+[[H2608|Hananiah,]] [[H5867|Elam,]] [[H6070|Anthothijah,]] ^0824
 
-Nahshon fathered Salmon, Salmon fathered Boaz, ^0211
+[[H3301|Iphdeiah,]] [[H6439|and Penuel]] ⟨were⟩ [[H1121|the sons]] [[H8349|of Shashak.]] ^0825
 
-Boaz fathered Obed, Obed fathered Jesse. ^0212
+[[H8125|Shamsherai,]] [[H7841|Shehariah,]] [[H6271|Athaliah,]] ^0826
 
-Jesse fathered Eliab his firstborn, Abinadab the second, Shimea the third, ^0213
+[[H3298|Jaareshiah,]] [[H452|Elijah,]] [[H2147|and Zichri]] ⟨were⟩ [[H1121|the sons]] [[H3395|of Jeroham.]] ^0827
 
-Nethanel the fourth, Raddai the fifth, ^0214
+[[H428|All these]] [[H7218|were heads]] [[H1|of families,]] [[H7218|the chiefs]] [[H8435|according to their genealogies,]] [[H3427|and they lived]] [[H3389|in Jerusalem.]] ^0828
 
-Ozem the sixth, David the seventh. ^0215
+⟨Jeiel was⟩ [[H1|the father]] [[H1391|of Gibeon]] [[H3427|and lived]] [[H1391|in Gibeon.]] [[H802|His wife’s]] [[H8034|name]] [[H4601|was Maacah,]] ^0829
 
-And their sisters were Zeruiah and Abigail. The sons of Zeruiah : Abishai, Joab, and Asahel, three. ^0216
+[[H5658|and Abdon]] [[H1060|was his firstborn]] [[H1121|son,]] [[H6698|then Zur,]] [[H7027|Kish,]] [[H1168|Baal,]] [[H5070|Nadab,]] ^0830
 
-Abigail bore Amasa, and the father of Amasa was Jether the Ishmaelite. ^0217
+[[H1446|Gedor,]] [[H283|Ahio,]] [[H2144|Zecher,]] ^0831
 
-Caleb the son of Hezron fathered children by his wife Azubah, and by Jerioth; and these were her sons : Jesher, Shobab, and Ardon. ^0218
+[[H4732|and Mikloth,]] [[H3205|who was the father of]] [[H8039|Shimeah.]] [[H1992|These]] [[H637|also]] [[H3427|lived]] [[H5048|alongside]] [[H251|their relatives]] [[H3389|in Jerusalem.]] ^0832
 
-When Azubah died, Caleb married Ephrath, who bore him Hur. ^0219
+[[H5369|Ner]] [[H3205|was the father of]] [[H7027|Kish,]] [[H7027|Kish]] [[H3205|was the father of]] [[H7586|Saul,]] [[H7586|and Saul]] [[H3205|was the father of]] [[H3083|Jonathan,]] [[H4444|Malchishua,]] [[H41|Abinadab,]] [[H792|and Esh-baal.]] ^0833
 
-Hur fathered Uri, and Uri fathered Bezalel. ^0220
+[[H1121|The son]] [[H3083|of Jonathan:]] [[H4807|Merib-baal,]] [[H4807|and Merib-baal]] [[H3205|was the father of]] [[H4318|Micah.]] ^0834
 
-Afterward Hezron went in to the daughter of Machir the father of Gilead, whom he married when he was sixty years old, and she bore him Segub. ^0221
+[[H1121|The sons]] [[H4318|of Micah:]] [[H6377|Pithon,]] [[H4429|Melech,]] [[H8390|Tarea,]] [[H271|and Ahaz.]] ^0835
 
-And Segub fathered Jair, who had twenty-three cities in the land of Gilead. ^0222
+[[H271|Ahaz]] [[H3205|was the father of]] [[H3085|Jehoaddah,]] [[H3085|Jehoaddah]] [[H3205|was the father of]] [[H5964|Alemeth,]] [[H5820|Azmaveth,]] [[H2174|and Zimri,]] [[H2174|and Zimri]] [[H3205|was the father of]] [[H4162|Moza.]] ^0836
 
-But Geshur and Aram took from them Havvoth-jair, Kenath, and its villages, sixty towns. All these were descendants of Machir, the father of Gilead. ^0223
+[[H4162|Moza]] [[H3205|was the father of]] [[H1150|Binea.]] [[H7498|Rapha]] ⟨was⟩ [[H1121|his son,]] [[H501|Eleasah]] [[H1121|his son,]] ⟨and⟩ [[H682|Azel]] [[H1121|his son.]] ^0837
 
-After the death of Hezron, Caleb went in to Ephrathah, the wife of Hezron his father, and she bore him Ashhur, the father of Tekoa. ^0224
+[[H682|Azel]] [[H8337|had six]] [[H1121|sons,]] [[H428|and these]] [[H8034|were their names:]] [[H5840|Azrikam,]] [[H1074|Bocheru,]] [[H3458|Ishmael,]] [[H8187|Sheariah,]] [[H5662|Obadiah,]] [[H2605|and Hanan.]] [[H3605|All]] [[H428|these]] ⟨were⟩ [[H1121|the sons]] [[H682|of Azel.]] ^0838
 
-The sons of Jerahmeel, the firstborn of Hezron : Ram, his firstborn, Bunah, Oren, Ozem, and Ahijah. ^0225
+[[H1121|The sons]] [[H251|of his brother]] [[H6232|Eshek:]] [[H198|Ulam]] [[H1060|was his firstborn,]] [[H3266|Jeush]] [[H8145|second,]] [[H467|and Eliphelet]] [[H7992|third.]] ^0839
 
-Jerahmeel also had another wife, whose name was Atarah; she was the mother of Onam. ^0226
+[[H1121|The sons]] [[H198|of Ulam]] [[H1961|were]] [[H1368|mighty warriors,]] [[H1869|archers,]] [[H7235|and they had many]] [[H1121|sons]] [[H1121|and grandsons—]] [[H3967|150]] ⟨in all⟩. [[H3605|All]] [[H428|these]] ⟨were⟩ [[H1121|the descendants]] [[H1144|of Benjamin.]] ^0840
 
-The sons of Ram, the firstborn of Jerahmeel : Maaz, Jamin, and Eker. ^0227
+[[H6256|In the spring,]] [[H6256|at the time when]] [[H4428|kings]] [[H3318|march out to war,]] [[H3097|Joab]] [[H5090|led out]] [[H2426|the army]] [[H7843|and laid waste]] [[H776|to the land]] [[H1121|of the Ammonites.]] [[H935|He came]] [[H7237|to Rabbah]] [[H6696|and besieged it,]] [[H1732|but David]] [[H3427|remained]] [[H3389|in Jerusalem.]] [[H3097|Joab]] [[H5221|attacked]] [[H7237|Rabbah]] [[H2040|and demolished it.]] ^2001
 
-The sons of Onam : Shammai and Jada. The sons of Shammai : Nadab and Abishur. ^0228
+[[H1732|Then David]] [[H3947|took]] [[H5850|the crown]] [[H5921|from]] [[H7218|the head]] [[H4428|of their king.]] [[H4672|It was found]] [[H4948|to weigh]] [[H3603|a talent]] [[H2091|of gold]] [[H68|and was set with precious  stones,]] [[H1961|and it was]] [[H5921|placed on]] [[H1732|David’s]] [[H7218|head.]] [[H3318|And David took]] [[H7235|a great amount]] [[H7998|of plunder]] [[H5892|from the city.]] ^2002
 
-The name of Abishur’s wife was Abihail, and she bore him Ahban and Molid. ^0229
+⟨David⟩ [[H3318|brought out]] [[H5971|the people]] [[H834|who]] ⟨were⟩ [[H7787|there  and put]] ⟨them to work⟩ [[H4050|with saws,]] [[H1270|iron]] [[H2757|picks,]] [[H4050|and axes.]] [[H1732|And]] ⟨he⟩ [[H6213|did]] [[H3651|the same]] [[H3605|to all]] [[H1121|the Ammonite]] [[H5892|cities.]] [[H1732|Then]] ⟨David⟩ [[H3605|and all]] [[H5971|his troops]] [[H7725|returned]] [[H3389|to Jerusalem.]] ^2003
 
-The sons of Nadab : Seled and Appaim; and Seled died childless. ^0230
+[[H1961|Some time later,]] [[H4421|war]] [[H5975|broke out]] [[H5973|with]] [[H6430|the Philistines]] [[H1507|at Gezer.]] [[H227|At that time]] [[H5444|Sibbecai]] [[H2843|the Hushathite]] [[H5221|killed]] [[H5598|Sippai,]] [[H3211|a descendant]] [[H7497|of the Rephaim,]] [[H3665|and the Philistines were subdued.]] ^2004
 
-The son of Appaim : Ishi. The son of Ishi : Sheshan. The son of Sheshan : Ahlai. ^0231
+[[H5750|Once again]] [[H1961|there was]] [[H4421|a battle]] [[H854|with]] [[H6430|the Philistines,]] [[H445|and Elhanan]] [[H1121|son]] [[H3265|of Jair]] [[H5221|killed]] [[H3902|Lahmi]] [[H251|the brother]] [[H1555|of Goliath]] [[H1663|the Gittite,]] [[H6086|the shaft]] [[H2595|of whose spear]] [[H707|was like a weaver’s]] [[H4500|beam.]] ^2005
 
-The sons of Jada, Shammai’s brother : Jether and Jonathan; and Jether died childless. ^0232
+[[H1961|And there was]] [[H5750|still another]] [[H4421|battle]] [[H1661|at Gath,]] [[H1961|where there was]] [[H376|a man]] [[H4060|of stature]] ⟨great⟩ [[H8337|with six]] [[H676|fingers on each hand]] [[H8337|and six —]] ⟨toes on each foot⟩ [[H6242|twenty-four in all.]] [[H1931|He]] [[H1571|too]] [[H3205|was descended]] [[H7497|from Rapha,]] ^2006
 
-The sons of Jonathan : Peleth and Zaza. These were the descendants of Jerahmeel. ^0233
+[[H2778|and when he taunted]] [[H3478|Israel,]] [[H3083|Jonathan]] [[H1121|the son]] [[H1732|of David’s]] [[H251|brother]] [[H8092|Shimei]] [[H5221|killed him.]] ^2007
 
-Now Sheshan had no sons, only daughters, but Sheshan had an Egyptian slave whose name was Jarha. ^0234
+[[H411|So these]] [[H3205|descendants]] [[H7497|of Rapha]] [[H1661|in Gath]] [[H5307|fell]] [[H3027|at the hands]] [[H1732|of David]] [[H5650|and his servants.]] ^2008
 
-So Sheshan gave his daughter in marriage to Jarha his slave, and she bore him Attai. ^0235
+[[H1121|The sons]] [[H3485|of Issachar:]] [[H8439|Tola,]] [[H6312|Puah,]] [[H3437|Jashub,]] [[H8110|and Shimron—]] [[H702|four]] ⟨in all⟩. ^0701
 
-Attai fathered Nathan, and Nathan fathered Zabad. ^0236
+[[H1121|The sons]] [[H8439|of Tola:]] [[H5813|Uzzi,]] [[H7509|Rephaiah,]] [[H3400|Jeriel,]] [[H3181|Jahmai,]] [[H3005|Ibsam,]] [[H8050|and Shemuel,]] [[H7218|the heads]] [[H1|of their families.]] [[H3117|In the days]] [[H1732|of David,]] [[H6242|22,600]] [[H8439|descendants of Tola]] [[H4557|were numbered]] [[H8435|in their genealogies]] [[H1368|as mighty warriors.]] ^0702
 
-Zabad fathered Ephlal, and Ephlal fathered Obed. ^0237
+[[H1121|The son]] [[H5813|of Uzzi:]] [[H3156|Izrahiah.]] [[H1121|The sons]] [[H3156|of Izrahiah:]] [[H4317|Michael,]] [[H5662|Obadiah,]] [[H3100|Joel,]] [[H3449|and Isshiah.]] [[H3605|All]] [[H2568|five]] [[H7218|of them were chiefs.]] ^0703
 
-Obed fathered Jehu, and Jehu fathered Azariah. ^0238
+[[H5921|In addition to them,]] [[H8435|according to their genealogy,]] [[H7970|they had 36,000]] [[H6635|troops]] [[H4421|for battle,]] [[H3588|for]] [[H7235|they had many]] [[H802|wives]] [[H1121|and children.]] ^0704
 
-Azariah fathered Helez, and Helez fathered Eleasah. ^0239
+[[H251|Their kinsmen]] [[H3605|belonging to all]] [[H4940|the families]] [[H3485|of Issachar]] ⟨who were⟩ [[H2428|mighty warriors]] [[H3605|totaled]] [[H8084|87,000,]] [[H3187|as listed in their genealogies.]] ^0705
 
-Eleasah fathered Sismai, and Sismai fathered Shallum. ^0240
+[[H7969|The three]] ⟨sons⟩ [[H1144|of Benjamin:]] [[H1106|Bela,]] [[H1071|Becher,]] [[H3043|and Jediael.]] ^0706
 
-Shallum fathered Jekamiah, and Jekamiah fathered Elishama. ^0241
+[[H1121|The sons]] [[H1106|of Bela:]] [[H675|Ezbon,]] [[H5813|Uzzi,]] [[H5816|Uzziel,]] [[H3406|Jerimoth,]] [[H5901|and Iri,]] [[H7218|heads]] [[H1|of their families—]] [[H2568|five]] ⟨in all⟩. [[H6242|There were 22,034]] [[H1368|mighty warriors]] [[H3187|listed in their genealogies.]] ^0707
 
-The sons of Caleb the brother of Jerahmeel : Mareshah his firstborn, who fathered Ziph. The son of Mareshah : Hebron. ^0242
+[[H1121|The sons]] [[H1071|of Becher:]] [[H2160|Zemirah,]] [[H3135|Joash,]] [[H461|Eliezer,]] [[H454|Elioenai,]] [[H6018|Omri,]] [[H3406|Jeremoth,]] [[H29|Abijah,]] [[H6068|Anathoth,]] [[H5964|and Alemeth;]] [[H3605|all]] [[H428|these]] [[H1071|were Becher’s]] [[H1121|sons.]] ^0708
 
-The sons of Hebron : Korah, Tappuah, Rekem and Shema. ^0243
+[[H8435|Their genealogies]] [[H3187|were recorded]] [[H7218|according to the heads]] [[H1|of their families—]] [[H6242|20,200]] [[H1368|mighty warriors.]] ^0709
 
-Shema fathered Raham, the father of Jorkeam; and Rekem fathered Shammai. ^0244
+[[H1121|The son]] [[H3043|of Jediael:]] [[H1092|Bilhan.]] [[H1121|The sons]] [[H1092|of Bilhan:]] [[H3266|Jeush,]] [[H1144|Benjamin,]] [[H164|Ehud,]] [[H3668|Chenaanah,]] [[H2133|Zethan,]] [[H8659|Tarshish,]] [[H300|and Ahishahar.]] ^0710
 
-The son of Shammai : Maon; and Maon fathered Beth-zur. ^0245
+[[H3605|All]] [[H428|these]] [[H1121|sons]] [[H3043|of Jediael]] ⟨were⟩ [[H7218|heads]] [[H1|of their families,]] [[H1368|mighty warriors;]] [[H7651|there were 17,200]] [[H3318|fit]] [[H6635|for battle.]] ^0711
 
-Ephah also, Caleb’s concubine, bore Haran, Moza, and Gazez; and Haran fathered Gazez. ^0246
+[[H8206|The Shuppites]] [[H2650|and Huppites]] [[H1121|were descendants]] [[H5893|of Ir,]] [[H2366|and the Hushites]] [[H1121|were descendants]] [[H313|of Aher.]] ^0712
 
-The sons of Jahdai : Regem, Jotham, Geshan, Pelet, Ephah, and Shaaph. ^0247
+[[H1121|The sons]] [[H5321|of Naphtali:]] [[H3185|Jahziel,]] [[H1476|Guni,]] [[H3337|Jezer,]] [[H7967|and Shallum—]] [[H1121|the descendants]] [[H1090|of Bilhah.]] ^0713
 
-Maacah, Caleb’s concubine, bore Sheber and Tirhanah. ^0248
+[[H1121|The descendants]] [[H4519|of Manasseh:]] [[H761|Through his Aramean]] [[H6370|concubine,]] [[H844|Asriel,]] [[H4353|as well as Machir]] [[H1|the father]] [[H1568|of Gilead.]] ^0714
 
-She also bore Shaaph the father of Madmannah, Sheva the father of Machbenah and the father of Gibea; and the daughter of Caleb was Achsah. ^0249
+[[H4353|Machir]] [[H3947|took]] [[H802|a wife]] [[H2650|from among the Huppites]] [[H8206|and Shuppites.]] [[H8034|The name]] [[H269|of his sister]] [[H4601|was Maacah.]] [[H8145|Another]] [[H8034|descendant was named]] [[H6765|Zelophehad,]] [[H1961|who had]] [[H1323|only daughters.]] ^0715
 
-These were the descendants of Caleb. The sons of Hur the firstborn of Ephrathah : Shobal the father of Kiriath-jearim, ^0250
+[[H4353|Machir’s]] [[H802|wife]] [[H4601|Maacah]] [[H3205|gave birth to]] [[H1121|a son,]] [[H7121|and she named]] [[H6570|him Peresh.]] [[H251|His brother]] [[H8034|was named]] [[H8329|Sheresh,]] [[H1121|and his sons]] [[H198|were Ulam]] [[H7552|and Rekem.]] ^0716
 
-Salma, the father of Bethlehem, and Hareph the father of Beth-gader. ^0251
+[[H1121|The son]] [[H198|of Ulam:]] [[H917|Bedan.]] [[H428|These]] [[H1121|were the sons]] [[H1568|of Gilead]] [[H1121|son]] [[H4353|of Machir,]] [[H1121|the son]] [[H4519|of Manasseh.]] ^0717
 
-Shobal the father of Kiriath-jearim had other sons : Haroeh, half of the Menuhoth. ^0252
+[[H269|His sister]] [[H4447|Hammolecheth]] [[H3205|gave birth to]] [[H379|Ishhod,]] [[H44|Abiezer,]] [[H4244|and Mahlah.]] ^0718
 
-And the clans of Kiriath-jearim : the Ithrites, the Puthites, the Shumathites, and the Mishraites; from these came the Zorathites and the Eshtaolites. ^0253
+[[H1961|And these were]] [[H1121|the sons]] [[H8061|of Shemida:]] [[H291|Ahian,]] [[H7928|Shechem,]] [[H3949|Likhi,]] [[H593|and Aniam.]] ^0719
 
-The sons of Salma : Bethlehem, the Netophathites, Atroth-beth-joab and half of the Manahathites, the Zorites. ^0254
+[[H1121|The descendants]] [[H669|of Ephraim:]] [[H7803|Shuthelah,]] [[H1260|Bered]] [[H1121|his son,]] [[H8480|Tahath]] [[H1121|his son,]] [[H497|Eleadah]] [[H1121|his son,]] [[H8480|Tahath]] [[H1121|his son,]] ^0720
 
-The clans also of the scribes who lived at Jabez : the Tirathites, the Shimeathites and the Sucathites. These are the Kenites who came from Hammath, the father of the house of Rechab. ^0255
+[[H2066|Zabad]] [[H1121|his son,]] [[H7803|and Shuthelah]] [[H1121|his son.]] [[H5827|Ezer]] [[H496|and Elead]] [[H2026|were killed]] [[H582|by the natives]] [[H1661|of Gath,]] [[H3588|because]] [[H3381|they went down]] [[H3947|to steal]] [[H4735|their livestock.]] ^0721
 
+[[H1|Their father]] [[H669|Ephraim]] [[H56|mourned]] [[H7227|for many]] [[H3117|days,]] [[H251|and his relatives]] [[H935|came]] [[H5162|to comfort him.]] ^0722
 
+[[H935|And again he slept with]] [[H802|his wife,]] [[H2029|and she conceived]] [[H3205|and gave birth to]] [[H1121|a son.]] [[H7121|So he named]] [[H1283|him Beriah,]] [[H3588|because]] [[H7451|tragedy]] [[H1961|had come]] [[H1004|upon his house.]] ^0723
 
-These are the sons of David who were born to him in Hebron : the firstborn, Amnon, by Ahinoam the Jezreelite; the second, Daniel, by Abigail the Carmelite, ^0301
+[[H1323|His daughter]] [[H7609|was Sheerah,]] [[H1129|who built]] [[H8481|Lower]] [[H5945|and Upper]] [[H1032|Beth-horon,]] [[H242|as well as Uzzen-sheerah.]] ^0724
 
-the third, Absalom, whose mother was Maacah, the daughter of Talmai, king of Geshur; the fourth, Adonijah, whose mother was Haggith; ^0302
+[[H7506|And Rephah]] ⟨was⟩ [[H1121|his son,]] [[H7566|Resheph]] ⟨his son⟩, [[H8520|Telah]] [[H1121|his son,]] [[H8465|Tahan]] [[H1121|his son,]] ^0725
 
-the fifth, Shephatiah, by Abital; the sixth, Ithream, by his wife Eglah; ^0303
+[[H3936|Ladan]] [[H1121|his son,]] [[H5989|Ammihud]] [[H1121|his son,]] [[H476|Elishama]] [[H1121|his son,]] ^0726
 
-six were born to him in Hebron, where he reigned for seven years and six months. And he reigned thirty-three years in Jerusalem. ^0304
+[[H5126|Nun]] [[H1121|his son,]] [[H3091|and Joshua]] [[H1121|his son.]] ^0727
 
-These were born to him in Jerusalem : Shimea, Shobab, Nathan and Solomon, four by Bath-shua, the daughter of Ammiel; ^0305
+[[H272|Their holdings]] [[H4186|and settlements]] [[H1008|included  Bethel]] [[H1323|and its villages,]] [[H5295|Naaran]] [[H4217|to the east,]] [[H1507|Gezer]] [[H1323|and its villages]] [[H4628|to the west,]] [[H7927|and Shechem]] [[H1323|and its villages]] [[H5704|as far as]] [[H5804|Ayyah]] [[H1323|and its villages.]] ^0728
 
-then Ibhar, Elishama, Eliphelet, ^0306
+[[H5921|And along]] [[H3027|the borders]] [[H4519|of Manasseh]] ⟨were⟩ [[H1052|Beth-shean,]] [[H8590|Taanach,]] [[H4023|Megiddo,]] [[H1756|and Dor,]] [[H1323|together with their villages.]] [[H1121|The descendants]] [[H3130|of Joseph]] [[H1121|son]] [[H3478|of Israel]] [[H3427|lived]] [[H428|in these towns.]] ^0729
 
-Nogah, Nepheg, Japhia, ^0307
+[[H1121|The sons]] [[H836|of Asher:]] [[H3232|Imnah,]] [[H3438|Ishvah,]] [[H3440|Ishvi,]] [[H1283|and Beriah;]] [[H269|their sister]] ⟨was⟩ [[H8294|Serah.]] ^0730
 
-Elishama, Eliada, and Eliphelet, nine. ^0308
+[[H1121|The sons]] [[H1283|of Beriah:]] [[H2268|Heber]] [[H4439|as well as Malchiel,]] [[H1931|who]] [[H1|was the father of]] [[H1269|Birzaith.]] ^0731
 
-All these were David’s sons, besides the sons of the concubines, and Tamar was their sister. ^0309
+[[H2268|Heber]] [[H3205|was the father of]] [[H3310|Japhlet,]] [[H7763|Shomer,]] [[H2369|and Hotham,]] [[H853|and]] [[H269|of their sister]] [[H7774|Shua.]] ^0732
 
-The son of Solomon was Rehoboam, Abijah his son, Asa his son, Jehoshaphat his son, ^0310
+[[H1121|The sons]] [[H3310|of Japhlet:]] [[H6457|Pasach,]] [[H1118|Bimhal,]] [[H6220|and Ashvath.]] [[H428|These]] [[H3310|were Japhlet’s]] [[H1121|sons.]] ^0733
 
-Joram his son, Ahaziah his son, Joash his son, ^0311
+[[H1121|The sons]] [[H8106|of Shemer:]] [[H277|Ahi,]] [[H7303|Rohgah,]] [[H3160|Hubbah,]] [[H758|and Aram.]] ^0734
 
-Amaziah his son, Azariah his son, Jotham his son, ^0312
+[[H1121|The sons]] [[H251|of his brother]] [[H1987|Helem:]] [[H6690|Zophah,]] [[H3234|Imna,]] [[H8028|Shelesh,]] [[H6000|and Amal.]] ^0735
 
-Ahaz his son, Hezekiah his son, Manasseh his son, ^0313
+[[H1121|The sons]] [[H6690|of Zophah:]] [[H5477|Suah,]] [[H2774|Harnepher,]] [[H7777|Shual,]] [[H1275|Beri,]] [[H3236|Imrah,]] ^0736
 
-Amon his son, Josiah his son. ^0314
+[[H1221|Bezer,]] [[H1936|Hod,]] [[H8037|Shamma,]] [[H8030|Shilshah,]] [[H3506|Ithran,]] [[H878|and Beera.]] ^0737
 
-The sons of Josiah : Johanan the firstborn, the second Jehoiakim, the third Zedekiah, the fourth Shallum. ^0315
+[[H1121|The sons]] [[H3500|of Jether:]] [[H3312|Jephunneh,]] [[H6462|Pispa,]] [[H690|and Ara.]] ^0738
 
-The descendants of Jehoiakim : Jeconiah his son, Zedekiah his son; ^0316
+[[H1121|The sons]] [[H5925|of Ulla:]] [[H733|Arah,]] [[H2592|Hanniel,]] [[H7525|and Rizia.]] ^0739
 
-and the sons of Jeconiah, the captive : Shealtiel his son, ^0317
+[[H3605|All]] [[H428|these]] ⟨were⟩ [[H1121|the descendants]] [[H836|of Asher—]] [[H7218|heads]] [[H1|of their families,]] [[H1305|choice]] [[H1368|mighty warriors,]] [[H7218|and chiefs]] [[H5387|among the leaders.]] [[H4557|The number]] [[H376|of men]] [[H4421|fit for battle,]] [[H3187|recorded in their genealogies,]] [[H6242|was 26,000.]] ^0740
 
-Malchiram, Pedaiah, Shenazzar, Jekamiah, Hoshama and Nedabiah; ^0318
+[[H4428|Now King]] [[H6865|Hiram  of Tyre]] [[H7971|sent]] [[H4397|envoys]] [[H413|to]] [[H1732|David,]] [[H730|along with cedar]] [[H6086|logs,]] [[H2796|stonemasons,]] [[H2796|and carpenters,]] [[H1129|to build]] [[H1004|a palace for him.]] ^1401
 
-and the sons of Pedaiah : Zerubbabel and Shimei; and the sons of Zerubbabel : Meshullam and Hananiah, and Shelomith was their sister; ^0319
+[[H1732|And David]] [[H3045|realized]] [[H3588|that]] [[H3068|the LORD]] [[H3559|had established]] [[H4428|him as king]] [[H5921|over]] [[H3478|Israel]] [[H3588|and]] [[H4605|had highly]] [[H5375|exalted]] [[H4438|his kingdom]] [[H5668|for the sake]] [[H5971|of His people]] [[H3478|Israel.]] ^1402
 
-and Hashubah, Ohel, Berechiah, Hasadiah, and Jushab-hesed, five. ^0320
+[[H1732|And David]] [[H3947|took]] [[H5750|more]] [[H802|wives]] [[H3389|in Jerusalem]] ⟨and⟩ [[H1732|]] [[H3205|became the father]] [[H5750|of more]] [[H1121|sons]] [[H1323|and daughters.]] ^1403
 
-The sons of Hananiah : Pelatiah and Jeshaiah, his son Rephaiah, his son Arnan, his son Obadiah, his son Shecaniah. ^0321
+[[H428|These]] [[H8034|are the names]] [[H3205|of the children born]] [[H3389|to him in Jerusalem:]] [[H8051|Shammua,]] [[H7727|Shobab,]] [[H5416|Nathan,]] [[H8010|Solomon,]] ^1404
 
-The son of Shecaniah : Shemaiah. And the sons of Shemaiah : Hattush, Igal, Bariah, Neariah, and Shaphat, six. ^0322
+[[H2984|Ibhar,]] [[H474|Elishua,]] [[H467|Elpelet,]] ^1405
 
-The sons of Neariah : Elioenai, Hizkiah, and Azrikam, three. ^0323
+[[H5052|Nogah,]] [[H5298|Nepheg,]] [[H3309|Japhia,]] ^1406
 
-The sons of Elioenai : Hodaviah, Eliashib, Pelaiah, Akkub, Johanan, Delaiah, and Anani, seven. ^0324
+[[H476|Elishama,]] [[H1182|Beeliada,]] [[H467|and Eliphelet.]] ^1407
 
+[[H6430|When the Philistines]] [[H8085|heard]] [[H3588|that]] [[H1732|David]] [[H4886|had been anointed]] [[H4428|king]] [[H5921|over]] [[H3605|all]] [[H3478|Israel,]] [[H6430|they]] [[H3605|all]] [[H5927|went]] [[H1245|in search]] [[H1732|of]] ⟨him⟩; [[H1732|but David]] [[H8085|learned]] ⟨of this⟩ [[H3318|and went out]] [[H6440|to face them.]] ^1408
 
+[[H6430|Now the Philistines]] [[H935|had come]] [[H6584|and raided]] [[H6010|the Valley]] [[H7497|of Rephaim.]] ^1409
 
-The sons of Judah : Perez, Hezron, Carmi, Hur, and Shobal. ^0401
+[[H1732|So David]] [[H7592|inquired]] [[H430|of God,]] [[H5927|“Should I go up]] [[H5921|against]] [[H6430|the Philistines?]] [[H5414|Will You deliver them]] [[H3027|into my hand?”]] [[H5927|“Go,”]] [[H559|replied]] [[H3068|the LORD,]] [[H5414|“for I will deliver them]] [[H3027|into your hand.”]] ^1410
 
-Reaiah the son of Shobal fathered Jahath, and Jahath fathered Ahumai and Lahad. These were the clans of the Zorathites. ^0402
+[[H5927|So went up]] ⟨David and his men⟩ [[H1188|to  Baal-perazim,]] [[H1732|where]] ⟨he⟩ [[H5221|defeated]] [[H8033|the Philistines]] ⟨and⟩ [[H1732|]] [[H559|said,]] [[H6556|“Like a bursting]] [[H4325|flood,]] [[H430|God]] [[H6555|has burst out]] [[H341|against my enemies]] [[H3027|by my hand.”]] [[H5921|So]] [[H7121|they called]] [[H1931|that]] [[H4725|place]] [[H1188|Baal-perazim.]] ^1411
 
-These were the sons of Etam : Jezreel, Ishma, and Idbash; and the name of their sister was Hazzelelponi, ^0403
+[[H8033|There]] [[H5800|the Philistines abandoned]] [[H430|their gods,]] [[H1732|and David]] [[H559|ordered]] [[H8313|that they be burned]] [[H784|in the fire.]] ^1412
 
-and Penuel fathered Gedor, and Ezer fathered Hushah. These were the sons of Hur, the firstborn of Ephrathah, the father of Bethlehem. ^0404
+[[H3254|Once again]] [[H6430|the Philistines]] [[H6584|raided]] [[H6010|the valley.]] ^1413
 
-Ashhur, the father of Tekoa, had two wives, Helah and Naarah; ^0405
+[[H1732|So David]] [[H5750|again]] [[H7592|inquired]] [[H430|of God,]] [[H430|who]] [[H559|answered]] [[H3808|him,  “Do not]] [[H5927|march up]] [[H310|after them,]] [[H5437|but circle around]] [[H5921|them]] [[H935|and attack]] [[H1992|them]] [[H4136|in front of]] [[H1057|the balsam trees.]] ^1414
 
-Naarah bore him Ahuzzam, Hepher, Temeni, and Haahashtari. These were the sons of Naarah. ^0406
+[[H1961|As soon as]] [[H8085|you hear]] [[H6963|the sound]] [[H6807|of marching]] [[H7218|in the tops]] [[H1057|of the balsam trees,]] [[H227|then]] [[H3318|move out]] [[H4421|to battle,]] [[H3588|because this will mean that]] [[H430|God]] [[H3318|has marched out]] [[H6440|before you]] [[H5221|to strike]] [[H4264|the camp]] [[H6430|of the Philistines.”]] ^1415
 
-The sons of Helah : Zereth, Izhar, and Ethnan. ^0407
+[[H1732|So David]] [[H6213|did]] [[H834|as]] [[H430|God]] [[H6680|had commanded him,]] [[H5221|and they struck down]] [[H4264|the army of]] [[H6430|the Philistines]] [[H5704|all the way]] [[H1391|from Gibeon]] [[H1507|to Gezer.]] ^1416
 
-Koz fathered Anub, Zobebah, and the clans of Aharhel, the son of Harum. ^0408
+[[H1732|And David’s]] [[H8034|fame]] [[H3318|went out]] [[H3605|into every]] [[H776|land,]] [[H3068|and the LORD]] [[H5414|caused]] [[H3605|all]] [[H1471|nations]] [[H6343|to fear him.]] ^1417
 
-Jabez was more honorable than his brothers; and his mother called his name Jabez, saying, Because I bore him in pain. ^0409
+[[H6430|Now the Philistines]] [[H3898|fought]] [[H3478|against Israel,]] [[H3478|and the Israelites]] [[H5127|fled]] [[H6440|before]] [[H6430|them,]] [[H5307|and fell]] ⟨many⟩ [[H2491|slain]] [[H2022|on Mount]] [[H1533|Gilboa.]] ^1001
 
-Jabez called upon the God of Israel, saying, Oh that you would bless me and enlarge my border, and that your hand might be with me, and that you would keep me from harm so that it might not bring me pain! And God granted what he asked. ^0410
+[[H6430|The Philistines]] [[H1692|followed hard after]] [[H7586|Saul]] [[H1121|and his sons,]] [[H5221|and they killed]] [[H7586|Saul’s]] [[H1121|sons]] [[H3129|Jonathan,]] [[H41|Abinadab,]] [[H4444|and Malchishua.]] ^1002
 
-Chelub, the brother of Shuhah, fathered Mehir, who fathered Eshton. ^0411
+[[H4421|When the battle]] [[H3513|intensified]] [[H5921|against]] [[H7586|Saul,]] [[H3384|the archers]] [[H4672|overtook him]] [[H2342|and wounded him]] [[H3384|critically.]] ^1003
 
-Eshton fathered Beth-rapha, Paseah, and Tehinnah, the father of Ir-nahash. These are the men of Recah. ^0412
+[[H7586|Then Saul]] [[H559|said]] [[H413|to]] [[H5375|his armor-bearer,]] [[H8025|“Draw]] [[H2719|your sword]] [[H1856|and run it through me,]] [[H6435|or]] [[H428|these]] [[H6189|uncircumcised men]] [[H935|will come]] [[H5953|and torture me!”]] [[H5375|But his armor-bearer]] [[H3808|refused,]] [[H3588|because]] [[H3372|he was terrified.]] [[H7586|So Saul]] [[H3947|took]] [[H2719|his own sword]] [[H5307|and fell]] [[H5921|on it.]] ^1004
 
-The sons of Kenaz : Othniel and Seraiah; and the sons of Othniel : Hathath and Meonothai. ^0413
+[[H5375|When his armor-bearer]] [[H7200|saw]] [[H3588|that]] [[H7586|Saul]] [[H4191|was dead,]] [[H1931|he]] [[H1571|too]] [[H5307|fell]] [[H5921|on]] [[H2719|his own sword]] [[H4191|and died.]] ^1005
 
-Meonothai fathered Ophrah; and Seraiah fathered Joab, the father of Ge-harashim, so-called because they were craftsmen. ^0414
+[[H7586|So Saul]] [[H4191|died]] [[H3162|together]] [[H7969|with his three]] [[H1121|sons]] [[H3605|and all]] [[H1004|his house.]] ^1006
 
-The sons of Caleb the son of Jephunneh : Iru, Elah, and Naam; and the son of Elah : Kenaz. ^0415
+[[H3605|When all]] [[H376|the Israelites]] [[H6010|in the valley]] [[H7200|saw]] [[H3588|that]] [[H5127|the army had fled]] [[H3588|and that]] [[H7586|Saul]] [[H1121|and his sons]] [[H4191|had died,]] [[H5800|they abandoned]] [[H5892|their cities]] [[H5127|and ran away.]] [[H6430|So the Philistines]] [[H935|came]] [[H3427|and occupied]] ^1007
 
-The sons of Jehallelel : Ziph, Ziphah, Tiria, and Asarel. ^0416
+[[H4283|The next day,]] [[H6430|when the Philistines]] [[H935|came]] [[H6584|to strip]] [[H2491|the dead,]] [[H4672|they found]] [[H7586|Saul]] [[H1121|and his sons]] [[H5307|fallen]] [[H2022|on Mount]] [[H1533|Gilboa.]] ^1008
 
-The sons of Ezrah : Jether, Mered, Epher, and Jalon. These are the sons of Bithiah, the daughter of Pharaoh, whom Mered married; and she conceived and bore Miriam, Shammai, and Ishbah, the father of Eshtemoa. ^0417
+[[H6584|They stripped Saul,]] [[H7218|cut off his head,]] [[H5375|took]] [[H3627|his armor,]] [[H7971|and sent]] [[H776|messengers throughout the land]] [[H6430|of the Philistines]] [[H1319|to proclaim the news]] ⟨in the temple⟩ [[H6091|of their idols]] [[H5971|and among their people.]] ^1009
 
-And his Judahite wife bore Jered the father of Gedor, Heber the father of Soco, and Jekuthiel the father of Zanoah. ^0418
+[[H7760|They put]] [[H3627|his armor]] [[H1004|in the temple]] [[H430|of their gods]] [[H8628|and hung]] [[H1538|his head]] [[H1004|in the temple]] [[H1712|of Dagon.]] ^1010
 
-The sons of the wife of Hodiah, the sister of Naham, were the fathers of Keilah the Garmite and Eshtemoa the Maacathite. ^0419
+[[H3605|When the people of]] [[H3003|Jabesh-gilead]] [[H8085|heard]] [[H3605|about everything]] [[H6430|the Philistines]] [[H6213|had done]] [[H7586|to Saul,]] ^1011
 
-The sons of Shimon : Amnon, Rinnah, Ben-hanan, and Tilon. The sons of Ishi : Zoheth and Ben-zoheth. ^0420
+[[H3605|all]] [[H376|their valiant warriors]] [[H6965|set out]] [[H5375|and retrieved]] [[H1480|the bodies]] [[H7586|of Saul]] [[H853|and]] [[H1121|his sons]] [[H935|and brought]] [[H3003|them to Jabesh.]] [[H6912|And they buried]] [[H6106|their bones]] [[H8478|under]] [[H424|the oak]] [[H3003|in Jabesh]] [[H6684|and fasted]] [[H7651|seven]] [[H3117|days.]] ^1012
 
-The sons of Shelah the son of Judah : Er the father of Lecah, Laadah the father of Mareshah, and the clans of the house of linen workers at Beth-ashbea; ^0421
+[[H7586|So Saul]] [[H4191|died]] [[H4603|for his unfaithfulness]] [[H3068|to the LORD,]] [[H834|because]] [[H3808|he did not]] [[H8104|keep]] [[H1697|the word]] [[H3068|of the LORD]] [[H1571|and even]] [[H7592|consulted]] [[H178|a medium]] [[H1875|for guidance,]] ^1013
 
-and Jokim, and the men of Cozeba, and Joash, and Saraph, who ruled in Moab and returned to Lehem (now the records are ancient ). ^0422
+[[H3808|and he failed]] [[H1875|to inquire]] [[H3068|of the LORD.]] [[H4191|So the LORD put him to death]] [[H4410|and turned the kingdom]] [[H5437|over]] [[H1732|to David]] [[H1121|son]] [[H3448|of Jesse.]] ^1014
 
-These were the potters who were inhabitants of Netaim and Gederah. They lived there in the king’s service. ^0423
+⟨These were⟩ [[H4256|the divisions]] [[H1121|of the descendants]] [[H175|of Aaron.]] [[H1121|The sons]] [[H175|of Aaron]] [[H5070|were Nadab,]] [[H30|Abihu,]] [[H499|Eleazar,]] [[H385|and Ithamar.]] ^2401
 
-The sons of Simeon : Nemuel, Jamin, Jarib, Zerah, Shaul; ^0424
+[[H5070|But Nadab]] [[H30|and Abihu]] [[H4191|died]] [[H6440|before]] [[H1|their father did,]] [[H1961|and they had]] [[H3808|no]] [[H1121|sons;]] [[H499|so Eleazar]] [[H385|and Ithamar]] [[H3547|served as priests.]] ^2402
 
-Shallum was his son, Mibsam his son, Mishma his son. ^0425
+[[H499|With the help of Eleazar's]] [[H1121|descendant]] [[H6659|Zadok]] [[H385|and Ithamar's]] [[H1121|descendant]] [[H288|Ahimelech,]] [[H1732|David]] [[H2505|divided them]] [[H6486|according to the offices]] [[H5656|of their service.]] ^2403
 
-The sons of Mishma : Hammuel his son, Zaccur his son, Shimei his son. ^0426
+[[H7227|Since more]] [[H7218|leaders]] [[H4672|were found]] [[H499|among Eleazar's]] [[H1121|descendants]] [[H4480|than]] ⟨those⟩ [[H1121|]] [[H385|of Ithamar,]] [[H2505|they were divided accordingly.]] ⟨There were⟩ [[H8337|sixteen]] [[H7218|heads]] [[H1|of families]] [[H1121|from the descendants]] [[H499|of Eleazar]] [[H8083|and eight]] [[H1121|from the descendants]] [[H385|of Ithamar.]] ^2404
 
-Shimei had sixteen sons and six daughters; but his brothers did not have many children, nor did all their clan multiply like the men of Judah. ^0427
+[[H2505|Thus they were divided]] [[H1486|by lot,]] [[H3588|for]] [[H1961|there were]] [[H8269|officers]] [[H6944|of the sanctuary]] [[H8269|and officers]] [[H430|of God]] [[H499|among both Eleazar’s]] [[H385|and Ithamar’s]] [[H1121|descendants.]] ^2405
 
-They lived in Beersheba, Moladah, Hazar-shual, ^0428
+[[H5608|The secretary,]] [[H8098|Shemaiah]] [[H1121|son]] [[H5417|of Nethanel,]] [[H3881|a Levite,]] [[H3789|recorded]] ⟨their names⟩ [[H6440|in the presence]] [[H4428|of the king]] [[H8269|and the officers]] [[H6659|Zadok]] [[H3548|the priest,]] [[H288|Ahimelech]] [[H1121|son]] [[H54|of Abiathar,]] [[H7218|and the heads]] [[H1|of families]] [[H3548|of the priests]] [[H3881|and the Levites—]] [[H259|one]] [[H1|family]] [[H270|being taken]] [[H499|from Eleazar,]] [[H270|and then one]] [[H385|from Ithamar.]] ^2406
 
-Bilhah, Ezem, Tolad, ^0429
+[[H7223|The first]] [[H1486|lot]] [[H3318|fell]] [[H3080|to Jehoiarib,]] [[H8145|the second]] [[H3048|to Jedaiah,]] ^2407
 
-Bethuel, Hormah, Ziklag, ^0430
+[[H7992|the third]] [[H2766|to Harim,]] [[H7243|the fourth]] [[H8188|to Seorim,]] ^2408
 
-Beth-marcaboth, Hazar-susim, Beth-biri, and Shaaraim. These were their cities until David reigned. ^0431
+[[H2549|the fifth]] [[H4441|to Malchijah,]] [[H8345|the sixth]] [[H4326|to Mijamin,]] ^2409
 
-And their villages were Etam, Ain, Rimmon, Tochen, and Ashan, five cities, ^0432
+[[H7637|the seventh]] [[H6976|to Hakkoz,]] [[H8066|the eighth]] [[H29|to Abijah,]] ^2410
 
-along with all their villages that were around these cities as far as Baal. These were their settlements, and they kept a genealogical record. ^0433
+[[H8671|the ninth]] [[H3442|to Jeshua,]] [[H6224|the tenth]] [[H7935|to Shecaniah,]] ^2411
 
-Meshobab, Jamlech, Joshah the son of Amaziah, ^0434
+[[H6249|the eleventh]] [[H475|to Eliashib,]] [[H8147|the twelfth]] [[H3356|to Jakim,]] ^2412
 
-Joel, Jehu the son of Joshibiah, son of Seraiah, son of Asiel, ^0435
+[[H7969|the thirteenth]] [[H2647|to Huppah,]] [[H702|the fourteenth]] [[H3428|to Jeshebeab,]] ^2413
 
-Elioenai, Jaakobah, Jeshohaiah, Asaiah, Adiel, Jesimiel, Benaiah, ^0436
+[[H2568|the fifteenth]] [[H1083|to Bilgah,]] [[H8337|the sixteenth]] [[H564|to Immer,]] ^2414
 
-Ziza the son of Shiphi, son of Allon, son of Jedaiah, son of Shimri, son of Shemaiah — ^0437
+[[H7651|the seventeenth]] [[H2387|to Hezir,]] [[H8083|the eighteenth]] [[H6240|to Happizzez,]] ^2415
 
-these mentioned by name were princes in their clans, and their fathers ’ houses increased greatly. ^0438
+[[H8672|the nineteenth]] [[H6611|to Pethahiah,]] [[H6242|the twentieth]] [[H3168|to Jehezkel,]] ^2416
 
-They journeyed to the entrance of Gedor, to the east side of the valley, to seek pasture for their flocks, ^0439
+[[H259|the twenty-first]] [[H3199|to Jachin,]] [[H8147|the twenty-second]] [[H1577|to Gamul,]] ^2417
 
-where they found rich, good pasture, and the land was very broad, quiet, and peaceful, for the former inhabitants there belonged to Ham. ^0440
+[[H7969|the twenty-third]] [[H1806|to Delaiah,]] [[H702|and the twenty-fourth]] [[H4590|to Maaziah.]] ^2418
 
-These, registered by name, came in the days of Hezekiah, king of Judah, and destroyed their tents and the Meunites who were found there, and marked them for destruction to this day, and settled in their place, because there was pasture there for their flocks. ^0441
+[[H428|This was]] [[H6486|their appointed order]] [[H5656|for service]] [[H935|when they entered]] [[H1004|the house]] [[H3068|of the LORD,]] [[H4941|according to the regulations]] [[H3027|prescribed for them]] [[H1|by their forefather]] [[H175|Aaron,]] [[H834|as]] [[H3068|the LORD,]] [[H430|the God]] [[H3478|of Israel,]] [[H6680|had commanded him.]] ^2419
 
-And some of them, five hundred men of the Simeonites, went to Mount Seir, having as their leaders Pelatiah, Neariah, Rephaiah, and Uzziel, the sons of Ishi. ^0442
+[[H3498|Now the remaining]] ⟨these were⟩ [[H1121|descendants]] [[H3878|of Levi:]] [[H1121|From the sons]] [[H6019|of Amram:]] [[H7619|Shubael;]] [[H1121|from the sons]] [[H7619|of Shubael:]] [[H3165|Jehdeiah.]] ^2420
 
-And they defeated the remnant of the Amalekites who had escaped, and they have lived there to this day. ^0443
+[[H7345|As for Rehabiah,]] [[H1121|from his sons:]] [[H7218|The first]] ⟨was⟩ [[H3449|Isshiah.]] ^2421
 
+[[H3325|From the Izharites:]] [[H8013|Shelomoth;]] [[H1121|from the sons]] [[H8013|of Shelomoth:]] [[H3189|Jahath.]] ^2422
 
+[[H1121|From the sons]] ⟨of Hebron⟩: [[H3404|Jeriah]] ⟨was the first⟩, [[H568|Amariah]] [[H8145|the second,]] [[H3166|Jahaziel]] [[H7992|the third,]] ⟨and⟩ [[H3360|Jekameam]] [[H7243|the fourth.]] ^2423
 
-The sons of Reuben the firstborn of Israel ( for he was the firstborn, but because he defiled his father’s couch, his birthright was given to the sons of Joseph the son of Israel, so that he could not be enrolled as the oldest son; ^0501
+⟨From⟩ [[H1121|the sons]] [[H5816|of Uzziel:]] [[H4318|Micah;]] [[H1121|from the sons of]] [[H4318|Micah:]] [[H8053|Shamir.]] ^2424
 
-though Judah became strong among his brothers and a chief came from him, yet the birthright belonged to Joseph ), ^0502
+[[H251|The brother]] [[H4318|of Micah:]] [[H3449|Isshiah;]] [[H1121|from the sons]] [[H3449|of Isshiah:]] [[H2148|Zechariah.]] ^2425
 
-the sons of Reuben, the firstborn of Israel : Hanoch, Pallu, Hezron, and Carmi. ^0503
+[[H1121|The sons]] [[H4847|of Merari:]] [[H4249|Mahli]] [[H4187|and Mushi.]] [[H1121|The son]] [[H3269|of Jaaziah:]] [[H1121|Beno.]] ^2426
 
-The sons of Joel : Shemaiah his son, Gog his son, Shimei his son, ^0504
+[[H1121|The descendants]] [[H4847|of Merari]] [[H3269|from Jaaziah:]] [[H1121|Beno,]] [[H7719|Shoham,]] [[H2139|Zaccur,]] [[H5681|and Ibri.]] ^2427
 
-Micah his son, Reaiah his son, Baal his son, ^0505
+[[H4249|From Mahli:]] [[H499|Eleazar,]] [[H1961|who had]] [[H3808|no]] [[H1121|sons.]] ^2428
 
-Beerah his son, whom Tiglath-pileser king of Assyria carried away into exile; he was a chief of the Reubenites. ^0506
+[[H7027|From Kish:]] [[H3396|Jerahmeel]] [[H1121|the son]] [[H7027|of Kish.]] ^2429
 
-And his kinsmen by their clans, when the genealogy of their generations was recorded : the chief, Jeiel, and Zechariah, ^0507
+[[H1121|And the sons]] [[H4187|of Mushi:]] [[H4249|Mahli,]] [[H5740|Eder,]] [[H3406|and Jerimoth.]] [[H428|These]] [[H1121|were the sons]] [[H3881|of the Levites,]] [[H1|according to their families.]] ^2430
 
-and Bela the son of Azaz, son of Shema, son of Joel, who lived in Aroer, as far as Nebo and Baal-meon. ^0508
+[[H5980|As]] [[H251|their brothers]] [[H1121|the descendants]] [[H175|of Aaron did,]] [[H1992|they]] [[H1571|also]] [[H5307|cast]] [[H1486|lots]] [[H6440|in the presence]] [[H4428|of King]] [[H1732|David]] [[H6659|and of Zadok,]] [[H288|Ahimelech,]] [[H7218|and the heads]] [[H1|of the families]] [[H3548|of the priests]] [[H3881|and Levites—]] [[H1|the family]] [[H7218|heads]] [[H6996|and their younger]] [[H251|brothers alike.]] ^2431
 
-He also lived to the east as far as the entrance of the desert this side of the Euphrates, because their livestock had multiplied in the land of Gilead. ^0509
+[[H428|These]] [[H1961|were]] [[H1121|the sons]] [[H1732|of David]] [[H834|who]] [[H3205|were born]] [[H2275|to him  in Hebron:]] [[H1060|The firstborn]] ⟨was⟩ [[H550|Amnon,]] [[H293|by Ahinoam]] [[H3159|of Jezreel;]] [[H8145|the second]] ⟨was⟩ [[H1840|Daniel,]] [[H26|by Abigail]] [[H3762|of Carmel;]] ^0301
 
-And in the days of Saul they waged war against the Hagrites, who fell into their hand. And they lived in their tents throughout all the region east of Gilead. ^0510
+[[H7992|the third]] ⟨was⟩ [[H53|Absalom]] [[H1121|the son]] [[H4601|of Maacah]] [[H1323|daughter]] [[H4428|of King]] [[H8526|Talmai]] [[H1650|of Geshur;]] [[H7243|the fourth]] ⟨was⟩ [[H138|Adonijah]] [[H1121|the son]] [[H2294|of Haggith;]] ^0302
 
-The sons of Gad lived over against them in the land of Bashan as far as Salecah : ^0511
+[[H2549|the fifth]] ⟨was⟩ [[H8203|Shephatiah]] [[H37|by Abital;]] ⟨and⟩ [[H8345|the sixth]] ⟨was⟩ [[H3507|Ithream]] [[H802|by his wife]] [[H5698|Eglah.]] ^0303
 
-Joel the chief, Shapham the second, Janai, and Shaphat in Bashan. ^0512
+⟨These⟩ [[H8337|six]] [[H3205|sons were born]] [[H2275|to David  in Hebron,]] [[H8033|where]] [[H4427|he reigned]] [[H7651|seven]] [[H8141|years]] [[H8337|and six]] [[H2320|months.]] [[H4427|And David reigned]] [[H3389|in Jerusalem]] [[H7970|thirty-three]] [[H8141|years,]] ^0304
 
-And their kinsmen according to their fathers ’ houses : Michael, Meshullam, Sheba, Jorai, Jacan, Zia and Eber, seven. ^0513
+[[H428|and these]] ⟨sons⟩ [[H3205|were born]] [[H3389|to him  in Jerusalem:]] [[H8092|Shimea,]] [[H7727|Shobab,]] [[H5416|Nathan,]] [[H8010|and Solomon.]] [[H702|These four]] [[H1340|were born to him  by Bathsheba]] [[H1323|daughter]] [[H5988|of Ammiel.]] ^0305
 
-These were the sons of Abihail the son of Huri, son of Jaroah, son of Gilead, son of Michael, son of Jeshishai, son of Jahdo, son of Buz. ^0514
+[[H2984|David’s other sons Ibhar,]] ⟨were⟩ [[H476|Elishua,]] [[H467|Eliphelet,]] ^0306
 
-Ahi the son of Abdiel, son of Guni, was chief in their fathers ’ houses, ^0515
+[[H5052|Nogah,]] [[H5298|Nepheg,]] [[H3309|Japhia,]] ^0307
 
-and they lived in Gilead, in Bashan and in its towns, and in all the pasturelands of Sharon to their limits. ^0516
+[[H476|Elishama,]] [[H450|Eliada,]] [[H467|and Eliphelet—]] [[H8672|nine]] ⟨in all⟩. ^0308
 
-All of these were recorded in genealogies in the days of Jotham king of Judah, and in the days of Jeroboam king of Israel. ^0517
+[[H3605|These were all]] [[H1121|the sons]] [[H1732|of David,]] [[H905|besides]] [[H1121|the sons]] [[H6370|by his concubines.]] [[H8559|And Tamar]] ⟨was⟩ [[H269|their sister.]] ^0309
 
-The Reubenites, the Gadites, and the half-tribe of Manasseh had valiant men who carried shield and sword, and drew the bow, expert in war, 44,760, able to go to war. ^0518
+[[H8010|Solomon’s]] [[H1121|son]] [[H7346|was Rehoboam:]] [[H29|Abijah]] ⟨was⟩ [[H1121|his son,]] [[H609|Asa]] [[H1121|his son,]] [[H3092|Jehoshaphat]] [[H1121|his son,]] ^0310
 
-They waged war against the Hagrites, Jetur, Naphish, and Nodab. ^0519
+[[H3141|Joram]] [[H1121|his son,]] [[H274|Ahaziah]] [[H1121|his son,]] [[H3101|Joash]] [[H1121|his son,]] ^0311
 
-And when they prevailed over them, the Hagrites and all who were with them were given into their hands, for they cried out to God in the battle, and he granted their urgent plea because they trusted in him. ^0520
+[[H558|Amaziah]] [[H1121|his son,]] [[H5838|Azariah]] [[H1121|his son,]] [[H3147|Jotham]] [[H1121|his son,]] ^0312
 
-They carried off their livestock : 50,000 of their camels, 250,000 sheep, 2,000 donkeys, and 100,000 men alive. ^0521
+[[H271|Ahaz]] [[H1121|his son,]] [[H2396|Hezekiah]] [[H1121|his son,]] [[H4519|Manasseh]] [[H1121|his son,]] ^0313
 
-For many fell, because the war was of God. And they lived in their place until the exile. ^0522
+[[H526|Amon]] [[H1121|his son,]] ⟨and⟩ [[H2977|Josiah]] [[H1121|his son.]] ^0314
 
-The members of the half-tribe of Manasseh lived in the land. They were very numerous from Bashan to Baal-hermon, Senir, and Mount Hermon. ^0523
+[[H1121|The sons]] [[H2977|of Josiah:]] [[H3110|Johanan]] [[H1060|was the firstborn,]] [[H3079|Jehoiakim]] [[H8145|the second,]] [[H6667|Zedekiah]] [[H7992|the third,]] [[H7967|and Shallum]] [[H7243|the fourth.]] ^0315
 
-These were the heads of their fathers ’ houses : Epher, Ishi, Eliel, Azriel, Jeremiah, Hodaviah, and Jahdiel, mighty warriors, famous men, heads of their fathers ’ houses. ^0524
+[[H1121|The successors]] [[H3079|of Jehoiakim:]] [[H3204|Jeconiah]] [[H1121|his son,]] ⟨and⟩ [[H6667|Zedekiah.]] ^0316
 
-But they broke faith with the God of their fathers, and whored after the gods of the peoples of the land, whom God had destroyed before them. ^0525
+[[H1121|The descendants]] [[H3204|of Jeconiah]] ⟨the captive⟩ [[H617|:]] [[H7597|Shealtiel]] [[H1121|his son,]] ^0317
 
-So the God of Israel stirred up the spirit of Pul king of Assyria, the spirit of Tiglath-pileser king of Assyria, and he took them into exile, namely, the Reubenites, the Gadites, and the half-tribe of Manasseh, and brought them to Halah, Habor, Hara, and the river Gozan, to this day. ^0526
+[[H4443|Malchiram,]] [[H6305|Pedaiah,]] [[H8137|Shenazzar,]] [[H3359|Jekamiah,]] [[H1953|Hoshama,]] [[H5072|and Nedabiah.]] ^0318
 
+[[H1121|The sons]] [[H6305|of Pedaiah:]] [[H2216|Zerubbabel]] [[H8096|and Shimei.]] [[H1121|The children]] [[H2216|of Zerubbabel:]] [[H4918|Meshullam]] [[H2608|and Hananiah,]] [[H269|their sister]] [[H8019|Shelomith,]] ^0319
 
+[[H2568|and five others:]] [[H2807|Hashubah,]] [[H169|Ohel,]] [[H1296|Berechiah,]] [[H2619|Hasadiah,]] [[H3142|and Jushab-hesed.]] ^0320
 
-The sons of Levi : Gershon, Kohath, and Merari. ^0601
+[[H1121|The descendants]] [[H2608|of Hananiah:]] [[H6410|Pelatiah,]] [[H3470|Jeshaiah,]] [[H1121|and the sons]] [[H7509|of Rephaiah,]] [[H770|of Arnan,]] [[H5662|of Obadiah,]] [[H1121|and]] [[H7935|of Shechaniah.]] ^0321
 
-The sons of Kohath : Amram, Izhar, Hebron, and Uzziel. ^0602
+[[H8337|The six]] [[H1121|descendants]] [[H7935|of Shecaniah]] ⟨were⟩ [[H8098|Shemaiah]] [[H8098|and his]] [[H1121|sons:]] [[H2407|Hattush,]] [[H3008|Igal,]] [[H1282|Bariah,]] [[H5294|Neariah,]] [[H8202|and Shaphat.]] ^0322
 
-The children of Amram : Aaron, Moses, and Miriam. The sons of Aaron : Nadab, Abihu, Eleazar, and Ithamar. ^0603
+[[H1121|The sons]] [[H5294|of Neariah:]] [[H454|Elioenai,]] [[H2396|Hizkiah,]] [[H5840|and Azrikam—]] [[H7969|three]] ⟨in all⟩. ^0323
 
-, Eleazar fathered Phinehas, Phinehas fathered Abishua, ^0604
+[[H1121|The sons]] [[H454|of Elioenai:]] [[H1937|Hodaviah,]] [[H475|Eliashib,]] [[H6411|Pelaiah,]] [[H6126|Akkub,]] [[H3110|Johanan,]] [[H1806|Delaiah,]] [[H6054|and Anani—]] [[H7651|seven]] ⟨in all⟩. ^0324
 
-Abishua fathered Bukki, Bukki fathered Uzzi, ^0605
+[[H3605|Then all]] [[H3478|Israel]] [[H6908|came together]] [[H413|to]] [[H1732|David]] [[H2275|at Hebron]] [[H559|and said,]] [[H2009|“Here]] [[H587|we]] ⟨are⟩, [[H1320|your own flesh]] [[H6106|and blood.]] ^1101
 
-Uzzi fathered Zerahiah, Zerahiah fathered Meraioth, ^0606
+[[H1571|Even]] [[H8032|in times past,]] [[H7586|while Saul]] [[H1961|was]] [[H4428|king,]] [[H859|you]] ⟨were⟩ [[H3318|the one who led]] [[H3478|Israel out]] [[H935|and brought them back.]] [[H3068|And to you  the LORD]] [[H430|your God]] [[H559|said,]] [[H859|‘You]] [[H7462|will shepherd]] [[H5971|My people]] [[H3478|Israel,]] [[H859|and you]] [[H1961|will be]] [[H5057|ruler]] [[H5921|over]] ⟨them⟩ [[H5971|.]] ^1102
 
-Meraioth fathered Amariah, Amariah fathered Ahitub, ^0607
+[[H3605|So all]] [[H2205|the elders]] [[H3478|of Israel]] [[H935|came]] [[H413|to]] [[H4428|the king]] [[H2275|at Hebron,]] ⟨where⟩ [[H2275|]] [[H1732|David]] [[H3772|made]] [[H1285|a covenant]] [[H6440|with them  before]] [[H3068|the LORD.]] [[H4886|And they anointed]] ⟨him⟩ [[H1732|]] [[H4428|king]] [[H5921|over]] [[H3478|Israel,]] [[H1697|according to the word]] [[H3068|of the LORD]] [[H3027|through]] [[H8050|Samuel.]] ^1103
 
-Ahitub fathered Zadok, Zadok fathered Ahimaaz, ^0608
+[[H1732|Then David]] [[H3605|and all]] [[H3478|the Israelites]] [[H1980|marched]] [[H3389|to Jerusalem]] [[H1931|(that is,]] [[H2982|Jebus),]] [[H8033|where]] [[H2983|the Jebusites]] [[H3427|inhabited]] [[H776|the land.]] ^1104
 
-Ahimaaz fathered Azariah, Azariah fathered Johanan, ^0609
+[[H3427|The people]] [[H2982|of Jebus]] [[H559|said]] [[H1732|to David,]] [[H3808|“You will never]] [[H935|get in]] [[H2008|here.”]] [[H1732|Nevertheless, David]] [[H3920|captured]] [[H4686|the fortress]] [[H6726|of Zion]] [[H1931|(that is,]] [[H5892|the City]] [[H1732|of David).]] ^1105
 
-and Johanan fathered Azariah ( it was he who served as priest in the house that Solomon built in Jerusalem ). ^0610
+[[H1732|Now David]] [[H559|had said,]] [[H3605|“Whoever]] [[H7223|is the first]] [[H5221|to strike down]] [[H2983|a Jebusite]] [[H1961|will become]] [[H8269|chief]] [[H7218|commander.”]] [[H3097|And Joab]] [[H1121|son]] [[H6870|of Zeruiah]] [[H5927|went up]] [[H7223|first,]] [[H1961|and he became]] [[H7218|the chief.]] ^1106
 
-Azariah fathered Amariah, Amariah fathered Ahitub, ^0611
+[[H1732|So David]] [[H3427|took up residence]] [[H4679|in the fortress;]] [[H5921|that is why]] [[H7121|it was called]] [[H5892|the City]] [[H1732|of David.]] ^1107
 
-Ahitub fathered Zadok, Zadok fathered Shallum, ^0612
+[[H1129|He built up]] [[H5892|the city]] [[H5439|around it,]] [[H4480|from]] [[H4407|the supporting terraces]] [[H5704|to]] [[H5439|the surrounding wall,]] [[H3097|while Joab]] [[H2421|restored]] [[H7605|the rest]] [[H5892|of the city.]] ^1108
 
-Shallum fathered Hilkiah, Hilkiah fathered Azariah, ^0613
+[[H1732|And David]] [[H1980|became]] [[H1980|greater]] [[H1419|and greater,]] [[H3068|for the LORD]] [[H6635|of Hosts]] [[H5973|was with him.]] ^1109
 
-Azariah fathered Seraiah, Seraiah fathered Jehozadak; ^0614
+[[H428|Now these]] ⟨were⟩ [[H7218|the chiefs]] [[H1732|of David’s]] [[H1368|mighty men,]] [[H834|who,]] [[H5973|together with]] [[H3605|all]] [[H3478|Israel,]] [[H4427|gave]] [[H2388|strong support]] [[H4438|to his kingdom,]] [[H1697|according to the word]] [[H3068|of the LORD]] [[H5921|concerning]] [[H3478|Israel.]] ^1110
 
-and Jehozadak went into exile when the Lord sent Judah and Jerusalem into exile by the hand of Nebuchadnezzar. ^0615
+[[H428|This]] [[H4557|is the list]] [[H1732|of David’s]] [[H1368|mighty men:]] [[H3434|Jashobeam]] [[H1121|son]] [[H2453|of Hachmoni]] [[H7218|was chief]] [[H7970|of the officers;]] [[H1931|he]] [[H5782|wielded]] [[H2595|his spear]] [[H5921|against]] [[H7969|three]] [[H3967|hundred men,]] [[H2491|whom he killed]] [[H259|at one]] [[H6471|time.]] ^1111
 
-The sons of Levi : Gershom, Kohath, and Merari. ^0616
+[[H310|Next in command was]] [[H499|Eleazar]] [[H1121|son]] [[H1734|of Dodo]] [[H266|the Ahohite,]] [[H7969|one of the three]] [[H1368|mighty men.]] ^1112
 
-And these are the names of the sons of Gershom : Libni and Shimei. ^0617
+[[H1931|He]] [[H1961|was]] [[H5973|with]] [[H1732|David]] [[H6450|at Pas-dammim]] [[H6430|when the Philistines]] [[H622|gathered]] [[H8033|there]] [[H4421|for battle.]] [[H1961|At]] [[H2513|the place]] [[H7704|with a field]] [[H4392|full of]] [[H8184|barley,]] [[H5971|the troops]] [[H5127|fled]] [[H6440|from]] [[H6430|the Philistines.]] ^1113
 
-The sons of Kohath : Amram, Izhar, Hebron and Uzziel. ^0618
+[[H3320|But Eleazar and David stationed themselves]] [[H8432|in the middle]] [[H2513|of the field]] [[H5337|and defended it.]] [[H5221|They struck down]] [[H6430|the Philistines,]] [[H3068|and the LORD]] [[H3467|brought about]] [[H1419|a great]] [[H8668|victory.]] ^1114
 
-The sons of Merari : Mahli and Mushi. These are the clans of the Levites according to their fathers. ^0619
+[[H7969|Three]] [[H4480|of]] [[H7970|the thirty]] [[H7218|chief men]] [[H3381|went down]] [[H413|to]] [[H1732|David,]] [[H5921|to]] [[H6697|the rock]] [[H413|at]] [[H4631|the cave]] [[H5725|of Adullam,]] [[H4264|while a company]] [[H6430|of Philistines]] [[H2583|was encamped]] [[H6010|in the Valley]] [[H7497|of Rephaim.]] ^1115
 
-Of Gershom : Libni his son, Jahath his son, Zimmah his son, ^0620
+[[H227|At that time]] [[H1732|David]] [[H4686|was in the stronghold,]] [[H5333|and the garrison]] [[H6430|of the Philistines]] [[H1035|was at Bethlehem.]] ^1116
 
-Joah his son, Iddo his son, Zerah his son, Jeatherai his son. ^0621
+[[H1732|David]] [[H183|longed for water]] [[H559|and said,]] [[H4310|“Oh, that someone]] [[H8248|would get me a drink]] [[H4325|of water]] [[H953|from the well]] [[H8179|near the gate]] [[H1035|of Bethlehem!”]] ^1117
 
-The sons of Kohath : Amminadab his son, Korah his son, Assir his son, ^0622
+[[H7969|So the Three]] [[H1234|broke]] [[H6430|through the Philistine]] [[H4264|camp,]] [[H7579|drew]] [[H4325|water]] [[H953|from the well]] [[H8179|at the gate]] [[H1035|of Bethlehem,]] [[H935|and brought it]] [[H413|back to]] [[H1732|David.]] [[H1732|But he]] [[H3808|refused]] [[H8354|to drink it;]] [[H5258|instead, he poured it out]] [[H3068|to the LORD,]] ^1118
 
-Elkanah his son, Ebiasaph his son, Assir his son, ^0623
+[[H559|saying,]] [[H2486|“Far be it]] [[H430|from me,  my God,]] [[H6213|to do]] [[H2063|this!]] [[H8354|How can I drink]] [[H1818|the blood]] [[H428|of these]] [[H582|men]] [[H5315|who risked their lives?”]] [[H3588|Because]] [[H935|they had brought it]] [[H5315|at the risk of their lives,]] ⟨David⟩ [[H14|refused]] [[H8354|to drink it.]] [[H428|Such]] [[H6213|were the exploits]] [[H7969|of the three]] [[H1368|mighty men.]] ^1119
 
-Tahath his son, Uriel his son, Uzziah his son, and Shaul his son. ^0624
+[[H52|Now Abishai,]] [[H251|the brother]] [[H3097|of Joab,]] [[H1961|was]] [[H7218|chief]] [[H7969|of the Three,]] [[H1931|and he]] [[H5782|lifted]] [[H2595|his spear]] [[H5921|against]] [[H7969|three]] [[H3967|hundred]] ⟨men⟩, [[H2490|killed]] ⟨them⟩, [[H3808|and won]] [[H8034|a name]] [[H7969|along with Three.]] ⟨the⟩ ^1120
 
-The sons of Elkanah : Amasai and Ahimoth, ^0625
+[[H4480|Among]] [[H7969|the thirty]] [[H8147|he was most]] [[H3513|honored,]] [[H1961|and he became]] [[H8269|their commander,]] [[H3808|even though he was not]] [[H935|included]] [[H7969|among the Three.]] ^1121
 
-Elkanah his son, Zophai his son, Nahath his son, ^0626
+[[H1141|And Benaiah]] [[H1121|son]] [[H3077|of Jehoiada]] [[H376|was a valiant warrior]] [[H4480|from]] [[H6909|Kabzeel,]] [[H7227|a man of many]] [[H6467|exploits.]] ⟨He⟩ [[H1931|]] [[H5221|struck down]] [[H8147|two]] [[H739|champions]] [[H4124|of Moab,]] [[H7950|and on a snowy]] [[H3117|day]] [[H1931|he]] [[H3381|went down]] [[H8432|into]] [[H953|a pit]] [[H5221|and killed]] [[H738|a lion.]] ^1122
 
-Eliab his son, Jeroham his son, Elkanah his son. ^0627
+[[H1931|He]] [[H5221|also killed]] [[H4713|an Egyptian,]] [[H376|a huge]] [[H4060|man]] [[H2568|five]] [[H520|cubits]] ⟨tall⟩. [[H4713|Although the Egyptian]] [[H2595|had a spear]] [[H707|like a weaver’s]] [[H4500|beam]] [[H3027|in his hand,]] [[H3381|Benaiah went against]] [[H413|him]] [[H7626|with a club,]] [[H1497|snatched]] [[H2595|the spear]] [[H4713|from]] ⟨his⟩ [[H3027|hand,]] [[H2026|and killed]] ⟨the Egyptian⟩ [[H2595|with his own spear.]] ^1123
 
-The sons of Samuel : Joel his firstborn, the second Abijah. ^0628
+[[H428|These]] [[H6213|were the exploits]] [[H1141|of Benaiah]] [[H1121|son]] [[H3077|of Jehoiada,]] [[H8034|who won  a name]] [[H7969|alongside the three]] [[H1368|mighty men.]] ^1124
 
-The sons of Merari : Mahli, Libni his son, Shimei his son, Uzzah his son, ^0629
+[[H3513|He was the most honored]] [[H4480|of]] [[H7970|the Thirty,]] [[H1931|but he]] [[H3808|did not]] [[H935|become]] [[H413|one of]] [[H7969|the Three.]] [[H1732|And David]] [[H7760|appointed]] [[H5921|him over]] [[H4928|his guard.]] ^1125
 
-Shimea his son, Haggiah his son, and Asaiah his son. ^0630
+[[H1368|Now the mighty men:]] ⟨these were⟩ [[H6214|Asahel]] [[H251|the brother]] [[H3097|of Joab,]] [[H445|Elhanan]] [[H1121|son]] [[H1734|of Dodo]] [[H1035|of  Bethlehem,]] ^1126
 
-These are the men whom David put in charge of the service of song in the house of the Lord after the ark rested there. ^0631
+[[H8054|Shammoth]] [[H2033|the Harorite,]] [[H2503|Helez]] [[H6397|the Pelonite,]] ^1127
 
-They ministered with song before the tabernacle of the tent of meeting until Solomon built the house of the Lord in Jerusalem, and they performed their service according to their order. ^0632
+[[H5896|Ira]] [[H1121|son]] [[H6142|of Ikkesh]] [[H8621|the Tekoite,]] [[H44|Abiezer]] [[H6069|the Anathothite,]] ^1128
 
-These are the men who served and their sons. Of the sons of the Kohathites : Heman the singer the son of Joel, son of Samuel, ^0633
+[[H5444|Sibbecai]] [[H2843|the Hushathite,]] [[H5866|Ilai]] [[H266|the Ahohite,]] ^1129
 
-son of Elkanah, son of Jeroham, son of Eliel, son of Toah, ^0634
+[[H4121|Maharai]] [[H5200|the Netophathite,]] [[H2466|Heled]] [[H1121|son]] [[H1196|of Baanah]] [[H5200|the Netophathite,]] ^1130
 
-son of Zuph, son of Elkanah, son of Mahath, son of Amasai, ^0635
+[[H863|Ithai]] [[H1121|son]] [[H7380|of Ribai]] [[H1390|from Gibeah]] [[H1121|of the Benjamites,]] [[H1141|Benaiah]] [[H6553|the Pirathonite,]] ^1131
 
-son of Elkanah, son of Joel, son of Azariah, son of Zephaniah, ^0636
+[[H2360|Hurai]] [[H5158|from the brooks]] [[H1608|of Gaash,]] [[H22|Abiel]] [[H6164|the Arbathite,]] ^1132
 
-son of Tahath, son of Assir, son of Ebiasaph, son of Korah, ^0637
+[[H5820|Azmaveth]] [[H978|the Baharumite,]] [[H455|Eliahba]] [[H8170|the Shaalbonite,]] ^1133
 
-son of Izhar, son of Kohath, son of Levi, son of Israel; ^0638
+[[H1121|the sons]] [[H2044|of Hashem]] [[H1493|the Gizonite,]] [[H3129|Jonathan]] [[H1121|son]] [[H7681|of Shagee]] [[H2043|the Hararite,]] ^1134
 
-and his brother Asaph, who stood on his right hand, namely, Asaph the son of Berechiah, son of Shimea, ^0639
+[[H279|Ahiam]] [[H1121|son]] [[H7940|of Sachar]] [[H2043|the Hararite,]] [[H465|Eliphal]] [[H1121|son]] [[H218|of Ur,]] ^1135
 
-son of Michael, son of Baaseiah, son of Malchijah, ^0640
+[[H2660|Hepher]] [[H4382|the Mecherathite,]] [[H281|Ahijah]] [[H6397|the Pelonite,]] ^1136
 
-son of Ethni, son of Zerah, son of Adaiah, ^0641
+[[H2695|Hezro]] [[H3761|the Carmelite,]] [[H5293|Naarai]] [[H1121|son]] [[H229|of Ezbai,]] ^1137
 
-son of Ethan, son of Zimmah, son of Shimei, ^0642
+[[H3100|Joel]] [[H251|the brother]] [[H5416|of Nathan,]] [[H4006|Mibhar]] [[H1121|son]] [[H1905|of Hagri,]] ^1138
 
-son of Jahath, son of Gershom, son of Levi. ^0643
+[[H6768|Zelek]] [[H5984|the Ammonite,]] [[H5171|Naharai]] [[H1307|the Beerothite,]] [[H5375|the armor-bearer]] [[H3097|of Joab]] [[H1121|son]] [[H6870|of Zeruiah,]] ^1139
 
-On the left hand were their brothers, the sons of Merari : Ethan the son of Kishi, son of Abdi, son of Malluch, ^0644
+[[H5896|Ira]] [[H3505|the Ithrite,]] [[H1619|Gareb]] [[H3505|the Ithrite,]] ^1140
 
-son of Hashabiah, son of Amaziah, son of Hilkiah, ^0645
+[[H223|Uriah]] [[H2850|the Hittite,]] [[H2066|Zabad]] [[H1121|son]] [[H304|of Ahlai,]] ^1141
 
-son of Amzi, son of Bani, son of Shemer, ^0646
+[[H5721|Adina]] [[H1121|son]] [[H7877|of Shiza]] [[H7206|the Reubenite,]] [[H7218|chief]] [[H7206|of the Reubenites,]] [[H7970|and the thirty]] [[H5921|with him,]] ^1142
 
-son of Mahli, son of Mushi, son of Merari, son of Levi. ^0647
+[[H2605|Hanan]] [[H1121|son]] [[H4601|of Maacah,]] [[H3146|Joshaphat]] [[H4981|the Mithnite,]] ^1143
 
-And their brothers the Levites were appointed for all the service of the tabernacle of the house of God. ^0648
+[[H5814|Uzzia]] [[H6254|the Ashterathite,]] [[H8091|Shama]] [[H3273|and Jeiel]] [[H1121|the sons]] [[H2369|of Hotham]] [[H6200|the Aroerite,]] ^1144
 
-But Aaron and his sons made offerings on the altar of burnt offering and on the altar of incense for all the work of the Most Holy Place, and to make atonement for Israel, according to all that Moses the servant of God had commanded. ^0649
+[[H3043|Jediael]] [[H1121|son]] [[H8113|of Shimri]] [[H251|and his brother]] [[H3109|Joha]] [[H8491|the Tizite,]] ^1145
 
-These are the sons of Aaron : Eleazar his son, Phinehas his son, Abishua his son, ^0650
+[[H447|Eliel]] [[H4233|the Mahavite,]] [[H3403|Jeribai]] [[H3145|and Joshaviah,]] [[H1121|the sons]] [[H493|of Elnaam,]] [[H3495|Ithmah]] [[H4125|the Moabite,]] ^1146
 
-Bukki his son, Uzzi his son, Zerahiah his son, ^0651
+[[H447|Eliel,]] [[H5744|Obed,]] [[H3300|and Jaasiel]] [[H4677|the Mezobaite.]] ^1147
 
-Meraioth his son, Amariah his son, Ahitub his son, ^0652
+[[H1732|Additionally, David]] [[H8269|and the commanders]] [[H6635|of the army]] [[H914|set apart]] [[H1121|some of the sons]] [[H623|of Asaph,]] [[H1968|Heman,]] [[H3038|and Jeduthun]] [[H5030|to prophesy]] [[H3658|with the accompaniment of lyres,]] [[H5035|harps,]] [[H4700|and cymbals.]] [[H1961|The following]] [[H4557|is the list]] [[H376|of the men]] [[H4399|who performed]] [[H5656|this service:]] ^2501
 
-Zadok his son, Ahimaaz his son. ^0653
+[[H1121|From the sons]] [[H623|of Asaph:]] [[H2139|Zaccur,]] [[H3130|Joseph,]] [[H5418|Nethaniah,]] [[H841|and Asarelah.]] [[H1121|These sons]] [[H623|of Asaph]] ⟨were⟩ [[H5921|under]] [[H3027|the direction]] [[H623|of Asaph,]] [[H5012|who prophesied]] [[H5921|under]] [[H3027|the direction]] [[H4428|of the king.]] ^2502
 
-These are their dwelling places according to their settlements within their borders : to the sons of Aaron of the clans of Kohathites, for theirs was the first lot, ^0654
+[[H1121|From the sons]] [[H3038|of Jeduthun:]] [[H1436|Gedaliah,]] [[H6874|Zeri,]] [[H3470|Jeshaiah, Shimei,]] [[H2811|Hashabiah,]] [[H4993|and Mattithiah—]] [[H8337|six —]] ⟨in all⟩ [[H5921|under]] [[H3027|the direction]] [[H1|of their father]] [[H3038|Jeduthun,]] [[H5012|who prophesied]] [[H3658|with the harp,]] [[H3034|giving thanks]] [[H1984|and praise]] [[H3068|to the LORD.]] ^2503
 
-to them they gave Hebron in the land of Judah and its surrounding pasturelands, ^0655
+[[H1121|From the sons]] [[H1968|of Heman:]] [[H1232|Bukkiah,]] [[H4983|Mattaniah,]] [[H5816|Uzziel,]] [[H7619|Shebuel,]] [[H3406|Jerimoth,]] [[H2608|Hananiah,]] [[H2607|Hanani,]] [[H448|Eliathah,]] [[H1437|Giddalti,]] [[H7320|Romamti-ezer,]] [[H3436|Joshbekashah,]] [[H4413|Mallothi,]] [[H1956|Hothir,]] [[H4238|and Mahazioth.]] ^2504
 
-but the fields of the city and its villages they gave to Caleb the son of Jephunneh. ^0656
+[[H3605|All]] [[H428|these]] [[H1121|sons]] [[H1968|of Heman,]] [[H4428|the king’s]] [[H2374|seer,]] ⟨were given to him⟩ [[H1697|through the promises]] [[H430|of God]] [[H7311|to exalt]] [[H7161|him.]] [[H430|For God]] [[H5414|gave]] [[H1968|Heman]] [[H702|fourteen]] [[H1121|sons]] [[H7969|and three]] [[H1323|daughters.]] ^2505
 
-To the sons of Aaron they gave the cities of refuge : Hebron, Libnah with its pasturelands, Jattir, Eshtemoa with its pasturelands, ^0657
+[[H3605|All]] [[H428|these]] ⟨were⟩ [[H5921|under]] [[H3027|the direction]] [[H1|of their fathers]] [[H7892|for the music]] [[H1004|of the house]] [[H3068|of the LORD]] [[H4700|with cymbals,]] [[H5035|harps,]] [[H3658|and lyres,]] [[H5656|for the service]] [[H1004|of the house]] [[H430|of God.]] [[H623|Asaph,]] [[H3038|Jeduthun,]] [[H1968|and Heman]] [[H5921|were under]] [[H3027|the direction]] [[H4428|of the king.]] ^2506
 
-Hilen with its pasturelands, Debir with its pasturelands, ^0658
+[[H5973|Together with]] [[H251|their relatives,]] [[H3605|who were all]] [[H3925|trained]] [[H995|and skillful]] [[H7892|in the songs]] [[H3068|of the LORD,]] [[H4557|they numbered]] [[H3967|288]] ^2507
 
-Ashan with its pasturelands, and Beth-shemesh with its pasturelands; ^0659
+[[H5307|They cast]] [[H1486|lots]] [[H4931|for their duties,]] [[H6996|young]] [[H1419|and old alike,]] [[H995|teacher]] [[H5973|as]] [[H8527|well as pupil.]] ^2508
 
-and from the tribe of Benjamin, Gibeon, Geba with its pasturelands, Alemeth with its pasturelands, and Anathoth with its pasturelands. All their cities throughout their clans were thirteen. ^0660
+[[H7223|The first]] [[H1486|lot,]] ⟨which was⟩ [[H623|for Asaph,]] [[H3318|fell]] [[H3130|to Joseph,]] ⟨his sons, and his brothers—12 in all⟩; [[H8145|the second]] [[H1436|to Gedaliah,]] [[H1121|his sons,]] [[H251|and his brothers—]] [[H8147|12]] ⟨in all⟩; ^2509
 
-To the rest of the Kohathites were given by lot out of the clan of the tribe, out of the half-tribe, the half of Manasseh, ten cities. ^0661
+[[H7992|the third]] [[H2139|to Zaccur,]] [[H1121|his sons,]] [[H251|and his brothers—]] [[H8147|12]] ⟨in all⟩; ^2510
 
-To the Gershomites according to their clans were allotted thirteen cities out of the tribes of Issachar, Asher, Naphtali and Manasseh in Bashan. ^0662
+[[H7243|the fourth]] [[H3339|to Izri,]] [[H1121|his sons,]] [[H251|and his brothers—]] [[H8147|12]] ⟨in all⟩; ^2511
 
-To the Merarites according to their clans were allotted twelve cities out of the tribes of Reuben, Gad, and Zebulun. ^0663
+[[H2549|the fifth]] [[H5418|to Nethaniah,]] [[H1121|his sons,]] [[H251|and his brothers—]] [[H8147|12]] ⟨in all⟩; ^2512
 
-So the people of Israel gave the Levites the cities with their pasturelands. ^0664
+[[H8345|the sixth]] [[H1232|to Bukkiah,]] [[H1121|his sons,]] [[H251|and his brothers—]] [[H8147|12]] ⟨in all⟩; ^2513
 
-They gave by lot out of the tribes of Judah, Simeon, and Benjamin these cities that are mentioned by name. ^0665
+[[H7637|the seventh]] [[H3480|to Jesarelah,]] [[H1121|his sons,]] [[H251|and his brothers—]] [[H8147|12]] ⟨in all⟩; ^2514
 
-And some of the clans of the sons of Kohath had cities of their territory out of the tribe of Ephraim. ^0666
+[[H8066|the eighth]] [[H3470|to Jeshaiah,]] [[H1121|his sons,]] [[H251|and his brothers—]] [[H8147|12]] ⟨in all⟩; ^2515
 
-They were given the cities of refuge : Shechem with its pasturelands in the hill country of Ephraim, Gezer with its pasturelands, ^0667
+[[H8671|the ninth]] [[H4983|to Mattaniah,]] [[H1121|his sons,]] [[H251|and his brothers—]] [[H8147|12]] ⟨in all⟩; ^2516
 
-Jokmeam with its pasturelands, Beth-horon with its pasturelands, ^0668
+[[H6224|the tenth]] [[H8096|to Shimei,]] [[H1121|his sons,]] [[H251|and his brothers—]] [[H8147|12]] ⟨in all⟩; ^2517
 
-Aijalon with its pasturelands, Gath-rimmon with its pasturelands, ^0669
+[[H6249|the eleventh]] [[H5832|to Azarel,]] [[H1121|his sons,]] [[H251|and his brothers—]] [[H8147|12]] ⟨in all⟩; ^2518
 
-and out of the half-tribe of Manasseh, Aner with its pasturelands, and Bileam with its pasturelands, for the rest of the clans of the Kohathites. ^0670
+[[H8147|the twelfth]] [[H2811|to Hashabiah,]] [[H1121|his sons,]] [[H251|and his brothers—]] [[H8147|12]] ⟨in all⟩; ^2519
 
-To the Gershomites were given out of the clan of the half-tribe of Manasseh : Golan in Bashan with its pasturelands and Ashtaroth with its pasturelands; ^0671
+[[H7969|the thirteenth]] [[H7619|to Shubael,]] [[H1121|his sons,]] [[H251|and his brothers—]] [[H8147|12]] ⟨in all⟩; ^2520
 
-and out of the tribe of Issachar : Kedesh with its pasturelands, Daberath with its pasturelands, ^0672
+[[H702|the fourteenth]] [[H4993|to Mattithiah,]] [[H1121|his sons,]] [[H251|and his brothers—]] [[H8147|12]] ⟨in all⟩; ^2521
 
-Ramoth with its pasturelands, and Anem with its pasturelands; ^0673
+[[H2568|the fifteenth]] [[H3406|to Jeremoth,]] [[H1121|his sons,]] [[H251|and his brothers—]] [[H8147|12]] ⟨in all⟩; ^2522
 
-out of the tribe of Asher : Mashal with its pasturelands, Abdon with its pasturelands, ^0674
+[[H8337|the sixteenth]] [[H2608|to Hananiah,]] [[H1121|his sons,]] [[H251|and his brothers—]] [[H8147|12]] ⟨in all⟩; ^2523
 
-Hukok with its pasturelands, and Rehob with its pasturelands; ^0675
+[[H7651|the seventeenth]] [[H3436|to Joshbekashah,]] [[H1121|his sons,]] [[H251|and his brothers—]] [[H8147|12]] ⟨in all⟩; ^2524
 
-and out of the tribe of Naphtali : Kedesh in Galilee with its pasturelands, Hammon with its pasturelands, and Kiriathaim with its pasturelands. ^0676
+[[H8083|the eighteenth]] [[H2607|to Hanani,]] [[H1121|his sons,]] [[H251|and his brothers—]] [[H8147|12]] ⟨in all⟩; ^2525
 
-To the rest of the Merarites were allotted out of the tribe of Zebulun : Rimmono with its pasturelands, Tabor with its pasturelands, ^0677
+[[H8672|the nineteenth]] [[H4413|to Mallothi,]] [[H1121|his sons,]] [[H251|and his brothers—]] [[H8147|12]] ⟨in all⟩; ^2526
 
-and beyond the Jordan at Jericho, on the east side of the Jordan, out of the tribe of Reuben : Bezer in the wilderness with its pasturelands, Jahzah with its pasturelands, ^0678
+[[H6242|the twentieth]] [[H448|to Eliathah,]] [[H1121|his sons,]] [[H251|and his brothers—]] [[H8147|12]] ⟨in all⟩; ^2527
 
-Kedemoth with its pasturelands, and Mephaath with its pasturelands; ^0679
+[[H259|the twenty-first]] [[H1956|to Hothir,]] [[H1121|his sons,]] [[H251|and his brothers—]] [[H8147|12]] ⟨in all⟩; ^2528
 
-and out of the tribe of Gad : Ramoth in Gilead with its pasturelands, Mahanaim with its pasturelands, ^0680
+[[H8147|the twenty-second]] [[H1437|to Giddalti,]] [[H1121|his sons,]] [[H251|and his brothers—]] [[H8147|12]] ⟨in all⟩; ^2529
 
-Heshbon with its pasturelands, and Jazer with its pasturelands. ^0681
+[[H7969|the twenty-third]] [[H4238|to Mahazioth,]] [[H1121|his sons,]] [[H251|and his brothers—]] [[H8147|12]] ⟨in all⟩; ^2530
 
+[[H702|and the twenty-fourth]] [[H7320|to Romamti-ezer,]] [[H1121|his sons,]] [[H251|and his brothers—]] [[H8147|12]] ⟨in all⟩. ^2531
 
+[[H428|These]] [[H1121|were the sons]] [[H3478|of Israel:]] [[H7205|Reuben,]] [[H8095|Simeon,]] [[H3878|Levi,]] [[H3063|Judah,]] [[H3485|Issachar,]] [[H2074|Zebulun,]] ^0201
 
-The sons of Issachar : Tola, Puah, Jashub, and Shimron, four. ^0701
+[[H1835|Dan,]] [[H3130|Joseph,]] [[H1144|Benjamin,]] [[H5321|Naphtali,]] [[H1410|Gad,]] [[H836|and Asher.]] ^0202
 
-The sons of Tola : Uzzi, Rephaiah, Jeriel, Jahmai, Ibsam, and Shemuel, heads of their fathers ’ houses, namely of Tola, mighty warriors of their generations, their number in the days of David being 22,600. ^0702
+[[H1121|The sons]] [[H3063|of Judah:]] [[H6147|Er,]] [[H209|Onan,]] [[H7956|and Shelah.]] [[H7969|These three]] [[H3205|were born]] [[H7774|to him by  Bath-shua]] [[H3669|the Canaanite.]] [[H6147|Er,]] [[H3063|Judah’s]] [[H1060|firstborn,]] [[H1961|was]] [[H7451|wicked]] [[H5869|in the sight]] [[H3069|of the LORD,]] [[H4191|who put him to death.]] ^0203
 
-The son of Uzzi : Izrahiah. And the sons of Izrahiah : Michael, Obadiah, Joel, and Isshiah, all five of them were chief men. ^0703
+[[H8559|Tamar,]] [[H3618|Judah’s daughter-in-law,]] [[H3205|bore]] [[H6557|to him  Perez]] [[H2226|and Zerah.]] [[H3063|Judah]] [[H2568|had five]] [[H1121|sons]] [[H3605|in all.]] ^0204
 
-And along with them, by their generations, according to their fathers ’ houses, were units of the army for war, 36,000, for they had many wives and sons. ^0704
+[[H1121|The sons]] [[H6557|of Perez:]] [[H2696|Hezron]] [[H2538|and Hamul.]] ^0205
 
-Their kinsmen belonging to all the clans of Issachar were in all 87,000 mighty warriors, enrolled by genealogy. ^0705
+[[H1121|The sons]] [[H2226|of Zerah:]] [[H2174|Zimri,]] [[H387|Ethan,]] [[H1968|Heman,]] [[H3633|Calcol,]] [[H1873|and Dara—]] [[H2568|five]] [[H3605|in all.]] ^0206
 
-The sons of Benjamin : Bela, Becher, and Jediael, three. ^0706
+[[H1121|The son]] [[H3756|of Carmi:]] [[H5917|Achar,]] [[H5916|who brought trouble]] [[H3478|upon Israel]] [[H4603|by violating]] [[H2764|the ban on devoted things.]] ^0207
 
-The sons of Bela : Ezbon, Uzzi, Uzziel, Jerimoth, and Iri, five, heads of fathers ’ houses, mighty warriors. And their enrollment by genealogies was 22,034. ^0707
+[[H1121|The son]] [[H387|of Ethan:]] [[H5838|Azariah.]] ^0208
 
-The sons of Becher : Zemirah, Joash, Eliezer, Elioenai, Omri, Jeremoth, Abijah, Anathoth, and Alemeth. All these were the sons of Becher. ^0708
+[[H1121|The sons]] [[H834|who]] [[H3205|were born]] [[H2696|to Hezron:]] [[H3396|Jerahmeel,]] [[H7410|Ram,]] [[H3621|and Caleb.]] ^0209
 
-And their enrollment by genealogies, according to their generations, as heads of their fathers ’ houses, mighty warriors, was 20,200. ^0709
+[[H7410|Ram]] [[H3205|was the father of]] [[H5992|Amminadab,]] [[H5992|and Amminadab]] [[H3205|was the father of]] [[H5177|Nahshon,]] [[H5387|a leader]] [[H1121|of the descendants]] [[H3063|of Judah.]] ^0210
 
-The son of Jediael : Bilhan. And the sons of Bilhan : Jeush, Benjamin, Ehud, Chenaanah, Zethan, Tarshish, and Ahishahar. ^0710
+[[H5177|Nahshon]] [[H3205|was the father of]] [[H8007|Salmon,]] [[H8007|and Salmon]] [[H3205|was the father of]] [[H1162|Boaz.]] ^0211
 
-All these were the sons of Jediael according to the heads of their fathers’ houses, mighty warriors, 17,200, able to go to war. ^0711
+[[H1162|Boaz]] [[H3205|was the father of]] [[H5744|Obed,]] [[H5744|and Obed]] [[H3205|was the father of]] [[H3448|Jesse.]] ^0212
 
-And Shuppim and Huppim were the sons of Ir, Hushim the son of Aher. ^0712
+[[H3448|Jesse]] [[H3205|was the father of]] [[H446|Eliab]] [[H1060|his firstborn;]] [[H41|Abinadab]] [[H8145|was born second,]] [[H8092|Shimea]] [[H7992|third,]] ^0213
 
-The sons of Naphtali : Jahziel, Guni, Jezer and Shallum, the descendants of Bilhah. ^0713
+[[H5417|Nethanel]] [[H7243|fourth,]] [[H7288|Raddai]] [[H2549|fifth,]] ^0214
 
-The sons of Manasseh : Asriel, whom his Aramean concubine bore; she bore Machir the father of Gilead. ^0714
+[[H684|Ozem]] [[H8345|sixth,]] [[H1732|and David]] [[H7637|seventh.]] ^0215
 
-And Machir took a wife for Huppim and for Shuppim. The name of his sister was Maacah. And the name of the second was Zelophehad, and Zelophehad had daughters. ^0715
+[[H269|Their sisters]] [[H6870|were Zeruiah]] [[H26|and Abigail.]] [[H7969|And the three]] [[H1121|sons]] [[H6870|of Zeruiah]] ⟨were⟩ [[H52|Abishai,]] [[H3097|Joab,]] [[H6214|and Asahel.]] ^0216
 
-And Maacah the wife of Machir bore a son, and she called his name Peresh; and the name of his brother was Sheresh; and his sons were Ulam and Rakem. ^0716
+[[H26|Abigail]] [[H3205|was the mother]] [[H6021|of Amasa,]] [[H6021|whose]] [[H1|father]] [[H3500|was Jether]] [[H3459|the Ishmaelite.]] ^0217
 
-The son of Ulam : Bedan. These were the sons of Gilead the son of Machir, son of Manasseh. ^0717
+[[H3612|Caleb]] [[H1121|son]] [[H2696|of Hezron]] [[H3205|had children]] [[H802|by his wife]] [[H5806|Azubah]] [[H3408|and by Jerioth.]] [[H428|These]] ⟨were⟩ [[H1121|the sons of Azubah:]] [[H3475|Jesher,]] [[H7727|Shobab,]] [[H715|and Ardon.]] ^0218
 
-And his sister Hammolecheth bore Ishhod, Abiezer and Mahlah. ^0718
+[[H5806|When Azubah]] [[H4191|died,]] [[H3612|Caleb]] [[H3947|married]] [[H672|Ephrath,]] [[H3205|who bore]] [[H2354|to him  Hur.]] ^0219
 
-The sons of Shemida were Ahian, Shechem, Likhi, and Aniam. ^0719
+[[H2354|Hur]] [[H3205|was the father of]] [[H221|Uri,]] [[H221|and Uri]] [[H3205|was the father of]] [[H1212|Bezalel.]] ^0220
 
-The sons of Ephraim : Shuthelah, and Bered his son, Tahath his son, Eleadah his son, Tahath his son, ^0720
+[[H310|Later,]] [[H2696|Hezron]] [[H935|slept with]] [[H1323|the daughter]] [[H4353|of Machir]] [[H1|the father]] [[H1568|of Gilead.]] [[H1931|He]] [[H3947|had married]] [[H1931|her when he]] [[H8346|was sixty]] [[H1121|years old,]] [[H3205|and she bore]] [[H7687|to him  Segub.]] ^0221
 
-Zabad his son, Shuthelah his son, and Ezer and Elead, whom the men of Gath who were born in the land killed, because they came down to raid their livestock. ^0721
+[[H7687|Segub]] [[H3205|was the father of]] [[H2971|Jair,]] [[H1961|who had]] [[H6242|twenty-three]] [[H5892|cities]] [[H776|in the land]] [[H1568|of Gilead.]] ^0222
 
-And Ephraim their father mourned many days, and his brothers came to comfort him. ^0722
+[[H1650|But Geshur]] [[H758|and Aram]] [[H3947|captured]] [[H2971|Havvoth-Jair,]] [[H854|along with]] [[H7079|Kenath]] [[H8346|and its sixty]] [[H1323|surrounding villages.]] [[H3605|All]] [[H428|these]] ⟨were⟩ [[H1121|descendants]] [[H4353|of Machir]] [[H1|the father]] [[H1568|of Gilead.]] ^0223
 
-And Ephraim went in to his wife, and she conceived and bore a son. And he called his name Beriah, because disaster had befallen his house. ^0723
+[[H310|After]] [[H2696|Hezron]] [[H4194|died]] [[H3613|in Caleb-ephrathah,]] [[H2696|his]] [[H802|wife]] [[H29|Abijah]] [[H3205|bore]] [[H806|to him  Ashhur]] [[H1|the father]] [[H8620|of Tekoa.]] ^0224
 
-His daughter was Sheerah, who built both Lower and Upper Beth-horon, and Uzzen-sheerah. ^0724
+[[H1121|The sons]] [[H3396|of Jerahmeel]] [[H1060|the firstborn]] [[H2696|of Hezron:]] [[H7410|Ram]] [[H1060|his firstborn,]] [[H946|Bunah,]] [[H767|Oren,]] [[H684|Ozem,]] [[H281|and Ahijah.]] ^0225
 
-Rephah was his son, Resheph his son, Telah his son, Tahan his son, ^0725
+[[H3396|Jerahmeel]] [[H1961|had]] [[H312|another]] [[H802|wife]] [[H8034|named]] [[H5851|Atarah,]] [[H1931|who]] [[H517|was the mother]] [[H208|of Onam.]] ^0226
 
-Ladan his son, Ammihud his son, Elishama his son, ^0726
+[[H1121|The sons]] [[H7410|of Ram]] [[H1060|the firstborn]] [[H3396|of Jerahmeel:]] [[H4619|Maaz,]] [[H3226|Jamin,]] [[H6134|and Eker.]] ^0227
 
-Nun his son, Joshua his son. ^0727
+[[H1121|The sons]] [[H208|of Onam:]] [[H8060|Shammai]] [[H3047|and Jada.]] [[H1121|The sons]] [[H8060|of Shammai:]] [[H5070|Nadab]] [[H51|and Abishur.]] ^0228
 
-Their possessions and settlements were Bethel and its towns, and to the east Naaran, and to the west Gezer and its towns, Shechem and its towns, and Ayyah and its towns; ^0728
+[[H51|Abishur’s]] [[H802|wife]] [[H8034|was named]] [[H32|Abihail,]] [[H3205|who bore]] [[H257|Ahban]] [[H4140|and Molid to him.]] ^0229
 
-also in possession of the Manassites, Beth-shean and its towns, Taanach and its towns, Megiddo and its towns, Dor and its towns. In these lived the sons of Joseph the son of Israel. ^0729
+[[H1121|The sons]] [[H5070|of Nadab:]] [[H5540|Seled]] [[H649|and Appaim.]] [[H5540|Seled]] [[H4191|died]] [[H3808|without]] [[H1121|children.]] ^0230
 
-The sons of Asher : Imnah, Ishvah, Ishvi, Beriah, and their sister Serah. ^0730
+[[H1121|The son]] [[H649|of Appaim:]] [[H3469|Ishi.]] [[H1121|The son]] [[H3469|of Ishi:]] [[H8348|Sheshan.]] [[H1121|The son]] [[H8348|of Sheshan:]] [[H304|Ahlai.]] ^0231
 
-The sons of Beriah : Heber, and Malchiel, who fathered Birzaith. ^0731
+[[H1121|The sons]] [[H3047|of Jada]] [[H251|the brother]] [[H8060|of Shammai:]] [[H3500|Jether]] [[H3129|and Jonathan.]] [[H3500|Jether]] [[H4191|died]] [[H3808|without]] [[H1121|children.]] ^0232
 
-Heber fathered Japhlet, Shomer, Hotham, and their sister Shua. ^0732
+[[H1121|The sons]] [[H3129|of Jonathan:]] [[H6431|Peleth]] [[H2117|and Zaza.]] [[H428|These]] [[H1961|were]] [[H1121|the descendants]] [[H3396|of Jerahmeel.]] ^0233
 
-The sons of Japhlet : Pasach, Bimhal, and Ashvath. These are the sons of Japhlet. ^0733
+[[H8348|Sheshan]] [[H1961|had]] [[H3808|no]] [[H1121|sons,]] [[H3588|only]] [[H1323|daughters,]] [[H8348|but he]] [[H4713|did have an Egyptian]] [[H5650|servant]] [[H8034|named]] [[H3398|Jarha.]] ^0234
 
-The sons of Shemer his brother : Rohgah, Jehubbah, and Aram. ^0734
+[[H8348|Sheshan]] [[H1323|gave his daughter]] [[H5414|in marriage]] [[H5650|to his servant]] [[H3398|Jarha,]] [[H3205|and she bore]] [[H6262|to him  Attai.]] ^0235
 
-The sons of Helem his brother : Zophah, Imna, Shelesh, and Amal. ^0735
+[[H6262|Attai]] [[H3205|was the father of]] [[H5416|Nathan,]] [[H5416|Nathan]] [[H3205|was the father of]] [[H2066|Zabad,]] ^0236
 
-The sons of Zophah : Suah, Harnepher, Shual, Beri, Imrah. ^0736
+[[H2066|Zabad]] [[H3205|was the father of]] [[H654|Ephlal,]] [[H654|Ephlal]] [[H3205|was the father of]] [[H5744|Obed.]] ^0237
 
-Bezer, Hod, Shamma, Shilshah, Ithran, and Beera. ^0737
+[[H5744|Obed]] [[H3205|was the father of]] [[H3058|Jehu,]] [[H3058|Jehu]] [[H3205|was the father of]] [[H5838|Azariah,]] ^0238
 
-The sons of Jether : Jephunneh, Pispa, and Ara. ^0738
+[[H5838|Azariah]] [[H3205|was the father of]] [[H2503|Helez,]] [[H2503|Helez]] [[H3205|was the father of]] [[H501|Elasah,]] ^0239
 
-The sons of Ulla : Arah, Hanniel, and Rizia. ^0739
+[[H501|Elasah]] [[H3205|was the father of]] [[H5581|Sismai,]] [[H5581|Sismai]] [[H3205|was the father of]] [[H7967|Shallum,]] ^0240
 
-All of these were men of Asher, heads of fathers ’ houses, approved, mighty warriors, chiefs of the princes. Their number enrolled by genealogies, for service in war, was 26,000 men. ^0740
+[[H7967|Shallum]] [[H3205|was the father of]] [[H3359|Jekamiah,]] [[H3359|and Jekamiah]] [[H3205|was the father of]] [[H476|Elishama.]] ^0241
 
+[[H1121|The sons]] [[H3612|of Caleb]] [[H251|the brother]] [[H3396|of Jerahmeel:]] [[H4337|Mesha]] [[H1060|his firstborn,]] [[H1931|who]] [[H1|was the father of]] [[H2128|Ziph,]] [[H4762|and Mareshah]] [[H1121|his second son,]] [[H1|who was the father of]] [[H2275|Hebron.]] ^0242
 
+[[H1121|The sons]] [[H2275|of Hebron:]] [[H7141|Korah,]] [[H8599|Tappuah,]] [[H7552|Rekem,]] [[H8087|and Shema.]] ^0243
 
-Benjamin fathered Bela his firstborn, Ashbel the second, Aharah the third, ^0801
+[[H8087|Shema]] [[H3205|was the father of]] [[H7357|Raham]] [[H1|the father]] [[H3421|of Jorkeam,]] [[H7552|and Rekem]] [[H3205|was the father of]] [[H8060|Shammai.]] ^0244
 
-Nohah the fourth, and Rapha the fifth. ^0802
+[[H1121|The son]] [[H8060|of Shammai]] [[H4584|was Maon,]] [[H4584|and Maon]] [[H1|was the father of]] [[H1049|Beth-zur.]] ^0245
 
-And Bela had sons : Addar, Gera, Abihud, ^0803
+[[H3612|Caleb’s]] [[H6370|concubine]] [[H5891|Ephah]] [[H3205|was the mother]] [[H2771|of Haran,]] [[H4162|Moza,]] [[H1495|and Gazez.]] [[H2771|Haran]] [[H3205|was the father of]] [[H1495|Gazez.]] ^0246
 
-Abishua, Naaman, Ahoah, ^0804
+[[H1121|The sons]] [[H3056|of Jahdai:]] [[H7276|Regem,]] [[H3147|Jotham,]] [[H1529|Geshan,]] [[H6404|Pelet,]] [[H5891|Ephah,]] [[H8174|and Shaaph.]] ^0247
 
-Gera, Shephuphan, and Huram. ^0805
+[[H3612|Caleb’s]] [[H6370|concubine]] [[H4601|Maacah]] [[H3205|was the mother]] [[H7669|of Sheber]] [[H8647|and Tirhanah.]] ^0248
 
-These are the sons of Ehud (they were heads of fathers ’ houses of the inhabitants of Geba, and they were carried into exile to Manahath ): ^0806
+[[H3205|She was also the mother]] [[H8174|of Shaaph]] [[H1|father]] [[H4089|of Madmannah,]] [[H7724|and of Sheva]] [[H1|father]] [[H4343|of Machbenah]] [[H1388|and Gibea.]] [[H3612|Caleb’s]] [[H1323|daughter]] [[H5915|was Acsah.]] ^0249
 
-Naaman, Ahijah, and Gera, that is, Heglam, who fathered Uzza and Ahihud. ^0807
+[[H428|These]] [[H1961|were]] [[H1121|the descendants]] [[H3612|of Caleb.]] [[H1121|The sons]] [[H2354|of Hur]] [[H1060|the firstborn]] [[H672|of Ephrathah:]] [[H7732|Shobal]] [[H1|the father of]] [[H7157|Kiriath-jearim,]] ^0250
 
-And Shaharaim fathered sons in the country of Moab after he had sent away Hushim and Baara his wives. ^0808
+[[H8007|Salma]] [[H1|the father of]] [[H1035|Bethlehem,]] [[H2780|and Hareph]] [[H1|the father of]] [[H1013|Beth-gader.]] ^0251
 
-He fathered sons by Hodesh his wife : Jobab, Zibia, Mesha, Malcam, ^0809
+[[H1961|These were]] [[H1121|the descendants]] [[H7732|of Shobal]] [[H1|the father]] [[H7157|of Kiriath-jearim:]] [[H7204|Haroeh,]] [[H2677|half]] [[H2679|the Manahathites,]] ^0252
 
-Jeuz, Sachia, and Mirmah. These were his sons, heads of fathers ’ houses. ^0810
+[[H4940|and the clans]] [[H7157|of Kiriath-jearim—]] [[H3505|the Ithrites,]] [[H6336|Puthites,]] [[H8126|Shumathites,]] [[H4954|and Mishraites.]] [[H428|From these]] [[H3318|descended]] [[H6882|the Zorathites]] [[H848|and Eshtaolites.]] ^0253
 
-He also fathered sons by Hushim : Abitub and Elpaal. ^0811
+[[H1121|The descendants]] [[H8007|of Salma:]] [[H1035|Bethlehem,]] [[H5200|the Netophathites,]] [[H5854|Atroth-beth-joab,]] [[H2677|half]] [[H2680|the Manahathites,]] [[H6882|the Zorites,]] ^0254
 
-The sons of Elpaal : Eber, Misham, and Shemed, who built Ono and Lod with its towns, ^0812
+[[H4940|and the clans]] [[H5608|of the scribes]] [[H3427|who lived]] [[H3258|at Jabez—]] [[H8654|the Tirathites,]] [[H8101|Shimeathites,]] [[H7756|and Sucathites.]] [[H1992|These]] [[H7017|are the Kenites]] [[H935|who came]] [[H2575|from Hammath,]] [[H1|the father]] [[H1004|of the house]] [[H7394|of Rechab.]] ^0255
 
-and Beriah and Shema ( they were heads of fathers ’ houses of the inhabitants of Aijalon, who caused the inhabitants of Gath to flee ); ^0813
+[[H7854|Then Satan]] [[H5975|rose up]] [[H5921|against]] [[H3478|Israel]] [[H5496|and incited]] [[H1732|David]] [[H4487|to take a census]] [[H3478|of Israel.]] ^2101
 
-and Ahio, Shashak, and Jeremoth. ^0814
+[[H1732|So David]] [[H559|said]] [[H413|to]] [[H3097|Joab]] [[H8269|and the commanders]] [[H5971|of the troops,]] [[H1980|“Go,]] [[H5608|count]] [[H3478|the Israelites]] [[H884|from  Beersheba]] [[H5704|to]] [[H1835|Dan]] [[H935|and bring]] [[H413|me]] [[H413|a report,]] [[H3045|so that I may know]] [[H4557|their number.”]] ^2102
 
-Zebadiah, Arad, Eder, ^0815
+[[H3097|But Joab]] [[H559|replied,]] [[H3068|“May the LORD]] [[H3254|multiply]] [[H5971|His troops]] [[H3967|a hundred]] [[H6471|times]] [[H1992|over.]] [[H113|My lord]] [[H4428|the king,]] [[H3808|are they not]] [[H3605|all]] [[H5650|servants]] [[H113|of my lord?]] [[H4100|Why]] [[H113|does my lord]] [[H1245|want]] [[H2063|to do this?]] [[H4100|Why]] [[H1961|should he bring]] [[H819|guilt]] [[H3478|on Israel?]] ^2103
 
-Michael, Ishpah, and Joha were sons of Beriah. ^0816
+[[H4428|Nevertheless, the king's]] [[H1697|word]] [[H2388|prevailed]] [[H5921|against]] [[H3097|Joab.]] [[H3097|So Joab]] [[H3318|left]] [[H1980|and traveled]] [[H3605|throughout]] [[H3478|Israel,]] [[H935|and then he returned]] [[H3389|to Jerusalem.]] ^2104
 
-Zebadiah, Meshullam, Hizki, Heber, ^0817
+[[H3097|And Joab]] [[H5414|reported]] [[H413|to]] [[H1732|David]] [[H4557|the total]] [[H4662|number]] [[H5971|of the troops.]] [[H3605|In all]] [[H3478|Israel]] [[H1961|there were]] [[H505|1,100,000]] [[H376|men]] [[H8025|who drew]] [[H2719|the sword,]] [[H702|including 470,000]] [[H3063|in Judah.]] ^2105
 
-Ishmerai, Izliah, and Jobab were the sons of Elpaal. ^0818
+[[H3808|But did not]] ⟨Joab⟩ [[H6485|include]] [[H3878|Levi]] [[H1144|and Benjamin]] [[H8432|in the count,]] [[H3588|because]] [[H4428|the king’s]] [[H1697|command]] [[H8581|was detestable]] [[H854|to]] [[H3097|him.]] ^2106
 
-Jakim, Zichri, Zabdi, ^0819
+[[H2088|This]] [[H1697|command]] [[H7489|was also evil]] [[H5869|in the sight]] [[H430|of God;]] [[H5221|so He struck]] [[H3478|Israel.]] ^2107
 
-Elienai, Zillethai, Eliel, ^0820
+[[H1732|Then David]] [[H559|said]] [[H413|to]] [[H430|God,]] [[H2398|“I have sinned]] [[H3966|greatly]] [[H834|because]] [[H6213|I have done]] [[H2088|this]] [[H1697|thing.]] [[H6258|Now]] [[H4994|I beg You]] [[H5674|to take away]] [[H5771|the iniquity]] [[H5650|of Your servant,]] [[H3588|for]] [[H3966|I have acted very]] [[H5528|foolishly.”]] ^2108
 
-Adaiah, Beraiah, and Shimrath were the sons of Shimei. ^0821
+[[H3068|And the LORD]] [[H1696|instructed]] [[H1410|Gad,]] [[H1732|David’s]] [[H2374|seer,]] ^2109
 
-Ishpan, Eber, Eliel, ^0822
+[[H1980|“Go]] [[H1696|and tell]] [[H1732|David]] [[H3541|that this is what]] [[H3068|the LORD]] [[H559|says:]] [[H589|‘I]] [[H5186|am offering]] [[H7969|you three]] ⟨options⟩. [[H977|Choose]] [[H259|one]] [[H2007|of them,]] [[H6213|and I will carry it out]] ^2110
 
-Abdon, Zichri, Hanan, ^0823
+[[H1410|So Gad]] [[H935|went]] [[H559|and said]] [[H413|to]] [[H1732|David,]] [[H3541|“This is what]] [[H3068|the LORD]] [[H559|says:]] [[H6901|‘Take your choice]] ^2111
 
-Hananiah, Elam, Anthothijah, ^0824
+[[H518|of either]] [[H7969|three]] [[H8141|years]] [[H7458|of famine,]] [[H7969|three]] [[H2320|months]] [[H5595|of being swept away]] [[H6440|before]] [[H6862|your enemies]] [[H5381|and overtaken]] [[H2719|by their swords,]] [[H518|or]] [[H7969|three]] [[H3117|days]] [[H2719|of the sword]] [[H3068|of the LORD—]] [[H1698|days of plague]] [[H776|upon the land,]] [[H4397|with the angel]] [[H3068|of the LORD]] [[H7843|ravaging]] [[H3605|every]] [[H1366|part]] [[H3478|of Israel.]] [[H6258|Now then,]] [[H7200|decide]] [[H4100|how]] [[H1697|I should reply]] [[H7971|to Him who sent me.]] ^2112
 
-Iphdeiah, and Penuel were the sons of Shashak. ^0825
+[[H1732|David]] [[H559|answered]] [[H1410|Gad,]] [[H6862|“I am deeply distressed.]] [[H4994|Please,]] [[H5307|let me fall]] [[H3027|into the hands]] [[H3068|of the LORD,]] [[H3588|for]] [[H7356|His mercies]] ⟨are⟩ [[H3966|very]] [[H7227|great;]] [[H408|but do not]] [[H5307|let me fall]] [[H3027|into the hands]] [[H120|of men.”]] ^2113
 
-Shamsherai, Shehariah, Athaliah, ^0826
+[[H3068|So the LORD]] [[H5414|sent]] [[H1698|a plague]] [[H3478|on Israel,]] [[H7657|and seventy]] [[H505|thousand]] [[H376|men]] [[H3478|of Israel]] [[H5307|fell dead.]] ^2114
 
-Jaareshiah, Elijah, and Zichri were the sons of Jeroham. ^0827
+[[H430|Then God]] [[H7971|sent]] [[H4397|an angel]] [[H7843|to destroy]] [[H3389|Jerusalem,]] [[H7843|but as the angel was doing so]] [[H3068|the LORD]] [[H7200|saw it]] [[H5162|and relented]] [[H5921|from]] [[H7451|the calamity,]] [[H559|and He said]] [[H4397|to the angel]] [[H7843|who was destroying the people,]] [[H7227|“Enough,]] [[H7503|withdraw]] [[H3027|your hand]] [[H6258|now!”]] [[H4397|At that time the angel]] [[H3068|of the LORD]] [[H5975|was standing]] [[H5973|by]] [[H1637|the threshing floor]] [[H771|of Ornan]] [[H2983|the Jebusite.]] ^2115
 
-These were the heads of fathers ’ houses, according to their generations, chief men. These lived in Jerusalem. ^0828
+[[H1732|When David]] [[H5375|lifted]] [[H5869|up his eyes]] [[H7200|and saw]] [[H4397|the angel]] [[H3068|of the LORD]] [[H5975|standing]] [[H996|between]] [[H8064|heaven]] [[H996|and]] [[H776|earth,]] [[H8025|with his drawn]] [[H2719|sword]] [[H3027|in his hand]] [[H5186|stretched out]] [[H5921|over]] [[H3389|Jerusalem,]] [[H1732|David]] [[H2205|and the elders,]] [[H3680|clothed]] [[H8242|in sackcloth,]] [[H5307|fell]] [[H6440|facedown,]] ^2116
 
-, Jeiel the father of Gibeon lived in Gibeon, and the name of his wife was Maacah. ^0829
+[[H1732|and David]] [[H559|said]] [[H413|to]] [[H430|God,]] [[H3808|“Was it not]] [[H589|I]] [[H559|who gave the order]] [[H4487|to count]] [[H5971|the people?]] [[H589|I,]] ⟨the shepherd⟩, [[H1931|am the one]] [[H834|who]] [[H2398|has sinned]] [[H7489|and]] [[H7489|acted wickedly.]] [[H428|But these]] [[H6629|sheep,]] [[H4100|what]] [[H6213|have they done?]] [[H3068|O LORD]] [[H430|my God,]] [[H4994|please]] [[H3027|let Your hand]] [[H1961|fall upon]] [[H1|me  and my fathers]] [[H1004|house,]] [[H3808|but do not]] [[H4046|let this plague]] [[H5971|remain upon Your people.]] ^2117
 
-His firstborn son : Abdon, then Zur, Kish, Baal, Nadab, ^0830
+[[H4397|Then the angel]] [[H3068|of the LORD]] [[H559|ordered]] [[H1410|Gad]] [[H559|to tell]] [[H1732|David]] [[H5927|to go up]] [[H6965|and build]] [[H4196|an altar]] [[H3068|to the LORD]] [[H1637|on the threshing floor]] [[H771|of Ornan]] [[H2983|the Jebusite.]] ^2118
 
-Gedor, Ahio, Zecher, ^0831
+[[H1732|So David]] [[H5927|went up]] [[H1697|at the word]] [[H1410|that Gad]] [[H1696|had spoken]] [[H8034|in the name]] [[H3068|of the LORD.]] ^2119
 
-and Mikloth (he fathered Shimeah ). Now these also lived opposite their kinsmen in Jerusalem, with their kinsmen. ^0832
+[[H771|Now Ornan]] [[H1758|was threshing]] [[H2406|wheat]] [[H771|when he]] [[H7725|turned]] [[H7200|and saw]] [[H4397|the angel;]] [[H702|and his four]] [[H1121|sons]] [[H5973|who were with him]] [[H2244|hid themselves.]] ^2120
 
-Ner was the father of Kish, Kish of Saul, Saul of Jonathan, Malchi-shua, Abinadab and Eshbaal; ^0833
+[[H1732|David]] [[H935|came]] [[H5704|to]] [[H771|Ornan,]] [[H771|and when Ornan]] [[H5027|looked out]] [[H7200|and saw]] [[H1732|David,]] [[H3318|he left]] [[H1637|the threshing floor]] [[H7812|and bowed]] [[H639|facedown]] [[H1732|before David.]] ^2121
 
-and the son of Jonathan was Merib-baal; and Merib-baal was the father of Micah. ^0834
+[[H1732|Then David]] [[H559|said]] [[H413|to]] [[H771|Ornan,]] [[H5414|“Grant]] [[H4725|me  the site]] [[H1637|of this threshing floor,]] [[H1129|that I may build]] [[H4196|an altar]] [[H3068|to the LORD.]] [[H5414|Sell it]] [[H4392|to me  for the full]] [[H3701|price,]] [[H4046|so that the plague]] [[H5921|on]] [[H5971|the people]] [[H6113|may be halted.”]] ^2122
 
-The sons of Micah : Pithon, Melech, Tarea, and Ahaz. ^0835
+[[H771|Ornan]] [[H559|said]] [[H413|to]] [[H1732|David,]] [[H113|“My lord]] [[H4428|the king]] [[H3947|may take]] [[H6213|whatever good.]] ⟨seems⟩ [[H7200|Look,]] [[H5414|I will give]] [[H1241|the oxen]] [[H5930|for the burnt offerings,]] [[H4173|the threshing sledges]] [[H6086|for the wood,]] [[H2406|and the wheat]] [[H4503|for the grain offering—]] [[H5414|I will give]] [[H3605|it all.”]] ^2123
 
-Ahaz fathered Jehoaddah, and Jehoaddah fathered Alemeth, Azmaveth, and Zimri. Zimri fathered Moza. ^0836
+[[H3808|“No,”]] [[H559|replied]] [[H4428|King]] [[H1732|David,]] [[H7069|“I insist on paying]] [[H4392|the full]] [[H3701|price,]] [[H3588|for]] [[H3808|I will not]] [[H5375|take]] [[H3068|for the LORD]] [[H834|what]] [[H5927|belongs to you  or offer]] [[H5930|burnt offerings]] [[H2600|that cost me nothing.”]] ^2124
 
-Moza fathered Binea; Raphah was his son, Eleasah his son, Azel his son. ^0837
+[[H1732|So David]] [[H5414|paid]] [[H771|Ornan]] [[H8337|six]] [[H3967|hundred]] [[H8255|shekels]] [[H2091|of gold]] [[H4725|for the site.]] ^2125
 
-Azel had six sons, and these are their names : Azrikam, Bocheru, Ishmael, Sheariah, Obadiah, and Hanan. All these were the sons of Azel. ^0838
+[[H1732|And]] [[H8033|there]] [[H1129|he built]] [[H4196|an altar]] [[H3068|to the LORD]] [[H5927|and offered]] [[H5930|burnt offerings]] [[H8002|and peace offerings.]] [[H7121|He called]] [[H413|upon]] [[H3068|the LORD,]] [[H6030|who answered him]] [[H784|with fire]] [[H4480|from]] [[H8064|heaven]] [[H5921|on]] [[H4196|the altar]] [[H5930|of burnt offering.]] ^2126
 
-The sons of Eshek his brother : Ulam his firstborn, Jeush the second, and Eliphelet the third. ^0839
+[[H3068|Then the LORD]] [[H559|spoke]] [[H4397|to the angel,]] [[H2719|who put his sword]] [[H7725|back]] [[H413|into]] [[H5084|its sheath.]] ^2127
 
-The sons of Ulam were men who were mighty warriors, bowmen, having many sons and grandsons, 150. All these were Benjaminites. ^0840
+[[H1931|At that]] [[H6256|time,]] [[H1732|when David]] [[H7200|saw]] [[H3588|that]] [[H3068|the LORD]] [[H6030|had answered him]] [[H1637|at the threshing floor]] [[H771|of Ornan]] [[H2983|the Jebusite,]] [[H2076|he offered sacrifices]] [[H8033|there.]] ^2128
 
+[[H4908|For the tabernacle]] [[H3068|of the LORD]] [[H834|that]] [[H4872|Moses]] [[H6213|had made]] [[H4057|in the wilderness]] [[H4196|and the altar]] [[H5930|of burnt offering]] [[H6256|were presently]] [[H1116|at the high place]] [[H1391|in Gibeon,]] ^2129
 
+[[H1732|but David]] [[H3201|could]] [[H3808|not]] [[H1980|go]] [[H6440|before it]] [[H1875|to inquire]] [[H430|of God,]] [[H3588|because]] [[H1204|he was afraid]] [[H6440|of]] [[H2719|the sword]] [[H4397|of the angel]] [[H3068|of the LORD.]] ^2130
 
-So all Israel was recorded in genealogies, and these are written in the Book of the Kings of Israel. And Judah was taken into exile in Babylon because of their breach of faith. ^0901
+[[H1121|The sons]] [[H3878|of Levi:]] [[H1648|Gershom,]] [[H6955|Kohath,]] [[H4847|and Merari.]] ^0601
 
-Now the first to dwell again in their possessions in their cities were Israel, the priests, the Levites, and the temple servants. ^0902
+[[H1121|The sons]] [[H6955|of Kohath:]] [[H6019|Amram,]] [[H3324|Izhar,]] [[H2275|Hebron,]] [[H5816|and Uzziel.]] ^0602
 
-And some of the people of Judah, Benjamin, Ephraim, and Manasseh lived in Jerusalem : ^0903
+[[H1121|The children]] [[H6019|of Amram:]] [[H175|Aaron,]] [[H4872|Moses,]] [[H4813|and Miriam.]] [[H1121|The sons]] [[H175|of Aaron:]] [[H5070|Nadab,]] [[H30|Abihu,]] [[H499|Eleazar,]] [[H385|and Ithamar.]] ^0603
 
-Uthai the son of Ammihud, son of Omri, son of Imri, son of Bani, from the sons of Perez the son of Judah. ^0904
+[[H499|Eleazar]] [[H3205|was the father of]] [[H6372|Phinehas,]] [[H6372|Phinehas]] [[H3205|was the father of]] [[H50|Abishua,]] ^0604
 
-And of the Shilonites : Asaiah the firstborn, and his sons. ^0905
+[[H50|Abishua]] [[H3205|was the father of]] [[H1231|Bukki,]] [[H1231|Bukki]] [[H3205|was the father of]] [[H5813|Uzzi,]] ^0605
 
-Of the sons of Zerah : Jeuel and their kinsmen, 690. ^0906
+[[H5813|Uzzi]] [[H3205|was the father of]] [[H2228|Zerahiah,]] [[H2228|Zerahiah]] [[H3205|was the father of]] [[H4812|Meraioth,]] ^0606
 
-Of the Benjaminites : Sallu the son of Meshullam, son of Hodaviah, son of Hassenuah, ^0907
+[[H4812|Meraioth]] [[H3205|was the father of]] [[H568|Amariah,]] [[H568|Amariah]] [[H3205|was the father of]] [[H285|Ahitub,]] ^0607
 
-Ibneiah the son of Jeroham, Elah the son of Uzzi, son of Michri, and Meshullam the son of Shephatiah, son of Reuel, son of Ibnijah; ^0908
+[[H285|Ahitub]] [[H3205|was the father of]] [[H6659|Zadok,]] [[H6659|Zadok]] [[H3205|was the father of]] [[H290|Ahimaaz,]] ^0608
 
-and their kinsmen according to their generations, 956. All these were heads of fathers ’ houses according to their fathers ’ houses. ^0909
+[[H290|Ahimaaz]] [[H3205|was the father of]] [[H5838|Azariah,]] [[H5838|Azariah]] [[H3205|was the father of]] [[H3110|Johanan,]] ^0609
 
-Of the priests : Jedaiah, Jehoiarib, Jachin, ^0910
+[[H3110|Johanan]] [[H3205|was the father of]] [[H5838|Azariah]] [[H1931|(]] [[H834|who]] [[H3547|served as priest]] [[H1004|in the temple]] [[H834|that]] [[H8010|Solomon]] [[H1129|built]] [[H3389|in Jerusalem),]] ^0610
 
-and Azariah the son of Hilkiah, son of Meshullam, son of Zadok, son of Meraioth, son of Ahitub, the chief officer of the house of God; ^0911
+[[H5838|Azariah]] [[H3205|was the father of]] [[H568|Amariah,]] [[H568|Amariah]] [[H3205|was the father of]] [[H285|Ahitub,]] ^0611
 
-and Adaiah the son of Jeroham, son of Pashhur, son of Malchijah, and Maasai the son of Adiel, son of Jahzerah, son of Meshullam, son of Meshillemith, son of Immer; ^0912
+[[H285|Ahitub]] [[H3205|was the father of]] [[H6659|Zadok,]] [[H6659|Zadok]] [[H3205|was the father of]] [[H7967|Shallum,]] ^0612
 
-besides their kinsmen, heads of their fathers ’ houses, 1,760, mighty men for the work of the service of the house of God. ^0913
+[[H7967|Shallum]] [[H3205|was the father of]] [[H2518|Hilkiah,]] [[H2518|Hilkiah]] [[H3205|was the father of]] [[H5838|Azariah,]] ^0613
 
-Of the Levites : Shemaiah the son of Hasshub, son of Azrikam, son of Hashabiah, of the sons of Merari; ^0914
+[[H5838|Azariah]] [[H3205|was the father of]] [[H8304|Seraiah,]] [[H8304|and Seraiah]] [[H3205|was the father of]] [[H3087|Jehozadak.]] ^0614
 
-and Bakbakkar, Heresh, Galal and Mattaniah the son of Mica, son of Zichri, son of Asaph; ^0915
+[[H3087|Jehozadak]] [[H1980|went]] ⟨into captivity⟩ [[H3068|when the LORD]] [[H3063|sent Judah]] [[H3389|and Jerusalem]] [[H1540|into exile]] [[H3027|by the hand]] [[H5019|of Nebuchadnezzar.]] ^0615
 
-and Obadiah the son of Shemaiah, son of Galal, son of Jeduthun, and Berechiah the son of Asa, son of Elkanah, who lived in the villages of the Netophathites. ^0916
+[[H1121|The sons of]] [[H3878|Levi:]] [[H1647|Gershom,]] [[H6955|Kohath,]] [[H4847|and Merari.]] ^0616
 
-The gatekeepers were Shallum, Akkub, Talmon, Ahiman, and their kinsmen ( Shallum was the chief ); ^0917
+[[H428|These]] ⟨are⟩ [[H8034|the names of]] [[H1121|the sons]] [[H1647|of Gershom:]] [[H3845|Libni]] [[H8096|and Shimei.]] ^0617
 
-until then they were in the king’s gate on the east side as the gatekeepers of the camps of the Levites. ^0918
+[[H1121|The sons]] [[H6955|of Kohath:]] [[H6019|Amram,]] [[H3324|Izhar,]] [[H2275|Hebron,]] [[H5816|and Uzziel.]] ^0618
 
-Shallum the son of Kore, son of Ebiasaph, son of Korah, and his kinsmen of his fathers ’ house, the Korahites, were in charge of the work of the service, keepers of the thresholds of the tent, as their fathers had been in charge of the camp of the Lord, keepers of the entrance. ^0919
+[[H1121|The sons]] [[H4847|of Merari:]] [[H4249|Mahli]] [[H4187|and Mushi.]] [[H428|These]] ⟨are⟩ [[H4940|the clans]] [[H3881|of the Levites]] ⟨listed⟩ [[H1|according to their fathers:]] ^0619
 
-And Phinehas the son of Eleazar was the chief officer over them in time past; the Lord was with him. ^0920
+[[H1647|Of Gershom:]] [[H3845|Libni]] [[H1121|his son,]] [[H3189|Jahath]] [[H1121|his son,]] [[H2155|Zimmah]] [[H1121|his son,]] ^0620
 
-Zechariah the son of Meshelemiah was gatekeeper at the entrance of the tent of meeting. ^0921
+[[H3098|Joah]] [[H1121|his son,]] [[H5714|Iddo]] [[H1121|his son,]] [[H2226|Zerah]] [[H1121|his son,]] ⟨and⟩ [[H2979|Jeatherai]] [[H1121|his son.]] ^0621
 
-All these, who were chosen as gatekeepers at the thresholds, were 212. They were enrolled by genealogies in their villages. David and Samuel the seer established them in their office of trust. ^0922
+[[H1121|The descendants]] [[H6955|of Kohath:]] [[H5992|Amminadab]] [[H1121|his son,]] [[H7141|Korah]] [[H1121|his son,]] [[H617|Assir]] [[H1121|his son,]] ^0622
 
-So they and their sons were in charge of the gates of the house of the Lord, that is, the house of the tent, as guards. ^0923
+[[H511|Elkanah]] [[H1121|his son,]] [[H43|Ebiasaph]] [[H1121|his son,]] [[H617|Assir]] [[H1121|his son,]] ^0623
 
-The gatekeepers were on the four sides, east, west, north, and south. ^0924
+[[H8480|Tahath]] [[H1121|his son,]] [[H222|Uriel]] [[H1121|his son,]] [[H5818|Uzziah]] [[H1121|his son,]] [[H7586|and Shaul]] [[H1121|his son.]] ^0624
 
-And their kinsmen who were in their villages were obligated to come in every seven days, in turn, to be with these, ^0925
+[[H1121|The descendants]] [[H511|of Elkanah:]] [[H6022|Amasai,]] [[H287|Ahimoth,]] ^0625
 
-for the four chief gatekeepers, who were Levites, were entrusted to be over the chambers and the treasures of the house of God. ^0926
+[[H511|Elkanah]] [[H1121|his son,]] [[H6689|Zophai]] [[H1121|his son,]] [[H5184|Nahath]] [[H1121|his son,]] ^0626
 
-And they lodged around the house of God, for on them lay the duty of watching, and they had charge of opening it every morning. ^0927
+[[H446|Eliab]] [[H1121|his son,]] [[H3395|Jeroham]] [[H1121|his son,]] [[H511|Elkanah]] [[H1121|his son]] ⟨, and Samuel his son⟩. ^0627
 
-Some of them had charge of the utensils of service, for they were required to count them when they were brought in and taken out. ^0928
+[[H1121|The sons]] [[H8050|of Samuel:]] ⟨Joel⟩ [[H1060|his firstborn]] [[H29|and Abijah]] [[H2059|his second son.]] ^0628
 
-Others of them were appointed over the furniture and over all the holy utensils, also over the fine flour, the wine, the oil, the incense, and the spices. ^0929
+[[H1121|The sons]] [[H4847|of Merari:]] [[H4249|Mahli,]] [[H3845|Libni]] [[H1121|his son,]] [[H8096|Shimei]] [[H1121|his son,]] [[H5798|Uzzah]] [[H1121|his son,]] ^0629
 
-Others, of the sons of the priests, prepared the mixing of the spices, ^0930
+[[H8092|Shimea]] [[H1121|his son,]] [[H2293|Haggiah]] [[H1121|his son,]] ⟨and⟩ [[H6222|Asaiah]] [[H1121|his son.]] ^0630
 
-and Mattithiah, one of the Levites, the firstborn of Shallum the Korahite, was entrusted with making the flat cakes. ^0931
+[[H428|These]] [[H834|are the men]] [[H1732|David]] [[H5975|put]] [[H5921|in]] [[H3027|charge]] [[H7892|of the music]] [[H1004|in the house]] [[H3068|of the LORD]] [[H727|after the ark]] [[H4494|rested there.]] ^0631
 
-Also some of their kinsmen of the Kohathites had charge of the showbread, to prepare it every Sabbath. ^0932
+[[H8334|They ministered]] [[H7892|with song]] [[H6440|before]] [[H4908|the tabernacle,]] [[H168|the Tent]] [[H4150|of Meeting,]] [[H5704|until]] [[H8010|Solomon]] [[H1129|built]] [[H1004|the house]] [[H3068|of the LORD]] [[H3389|in Jerusalem.]] [[H5975|And they performed]] [[H5656|their duties]] [[H4941|according to the regulations given them.]] ^0632
 
-Now these, the singers, the heads of fathers ’ houses of the Levites, were in the chambers of the temple free from other service, for they were on duty day and night. ^0933
+[[H428|These]] [[H5975|are the men who served]] [[H1121|with their sons.]] [[H1121|From the Kohathites:]] [[H1968|Heman]] [[H7891|the singer,]] [[H1121|the son]] [[H3100|of Joel,]] [[H1121|the son]] [[H8050|of Samuel,]] ^0633
 
-These were heads of fathers ’ houses of the Levites, according to their generations, leaders. These lived in Jerusalem. ^0934
+[[H1121|the son]] [[H511|of Elkanah,]] [[H1121|the son]] [[H3395|of Jeroham,]] [[H1121|the son]] [[H447|of Eliel,]] [[H1121|the son]] [[H8430|of Toah,]] ^0634
 
-In Gibeon lived the father of Gibeon, Jeiel, and the name of his wife was Maacah, ^0935
+[[H1121|the son]] [[H6689|of Zuph,]] [[H1121|the son]] [[H511|of Elkanah,]] [[H1121|the son]] [[H4287|of Mahath,]] [[H1121|the son]] [[H6022|of Amasai,]] ^0635
 
-and his firstborn son Abdon, then Zur, Kish, Baal, Ner, Nadab, ^0936
+[[H1121|the son]] [[H511|of Elkanah,]] [[H1121|the son]] [[H3100|of Joel,]] [[H1121|the son]] [[H5838|of Azariah,]] [[H1121|the son]] [[H6846|of Zephaniah,]] ^0636
 
-Gedor, Ahio, Zechariah, and Mikloth; ^0937
+[[H1121|the son]] [[H8480|of Tahath,]] [[H1121|the son]] [[H617|of Assir,]] [[H1121|the son]] [[H43|of Ebiasaph,]] [[H1121|the son]] [[H7141|of Korah,]] ^0637
 
-and Mikloth was the father of Shimeam; and these also lived opposite their kinsmen in Jerusalem, with their kinsmen. ^0938
+[[H1121|the son]] [[H3324|of Izhar,]] [[H1121|the son]] [[H6955|of Kohath,]] [[H1121|the son]] [[H3878|of Levi,]] [[H1121|the son]] [[H3478|of Israel.]] ^0638
 
-Ner fathered Kish, Kish fathered Saul, Saul fathered Jonathan, Malchi-shua, Abinadab, and Eshbaal. ^0939
+[[H251|Heman’s kinsman]] [[H623|was Asaph,]] [[H5975|who served]] [[H5921|at]] [[H3225|his right hand:]] [[H623|Asaph]] [[H1121|the son]] [[H1296|of Berechiah,]] [[H1121|the son]] [[H8092|of Shimea,]] ^0639
 
-And the son of Jonathan was Merib-baal, and Merib-baal fathered Micah. ^0940
+[[H1121|the son]] [[H4317|of Michael,]] [[H1121|the son]] [[H1202|of Baaseiah,]] [[H1121|the son]] [[H4441|of Malchijah,]] ^0640
 
-The sons of Micah : Pithon, Melech, Tahrea, and Ahaz. ^0941
+[[H1121|the son]] [[H867|of Ethni,]] [[H1121|the son]] [[H2226|of Zerah,]] [[H1121|the son]] [[H5718|of Adaiah,]] ^0641
 
-And Ahaz fathered Jarah, and Jarah fathered Alemeth, Azmaveth, and Zimri. And Zimri fathered Moza. ^0942
+[[H1121|the son]] [[H387|of Ethan,]] [[H1121|the son]] [[H2155|of Zimmah,]] [[H1121|the son]] [[H8096|of Shimei,]] ^0642
 
-Moza fathered Binea, and Rephaiah was his son, Eleasah his son, Azel his son. ^0943
+[[H1121|the son]] [[H3189|of Jahath,]] [[H1121|the son]] [[H1647|of Gershom,]] [[H1121|the son]] [[H3878|of Levi.]] ^0643
 
-Azel had six sons and these are their names : Azrikam, Bocheru, Ishmael, Sheariah, Obadiah, and Hanan; these were the sons of Azel. ^0944
+[[H5921|On]] [[H8040|the left]] ⟨were⟩ [[H251|their kinsmen,]] [[H1121|the sons]] [[H4847|of Merari:]] [[H387|Ethan]] [[H1121|the son]] [[H7029|of Kishi,]] [[H1121|the son]] [[H5660|of Abdi,]] [[H1121|the son]] [[H4409|of Malluch,]] ^0644
 
+[[H1121|the son]] [[H2811|of Hashabiah,]] [[H1121|the son]] [[H558|of Amaziah,]] [[H1121|the son]] [[H2518|of Hilkiah,]] ^0645
 
+[[H1121|the son]] [[H557|of Amzi,]] [[H1121|the son]] [[H1137|of Bani,]] [[H1121|the son]] [[H8106|of Shemer,]] ^0646
 
-Now the Philistines fought against Israel, and the men of Israel fled before the Philistines and fell slain on Mount Gilboa. ^1001
+[[H1121|the son]] [[H4249|of Mahli,]] [[H1121|the son]] [[H4187|of Mushi,]] [[H1121|the son]] [[H4847|of Merari,]] [[H1121|the son]] [[H3878|of Levi.]] ^0647
 
-And the Philistines overtook Saul and his sons, and the Philistines struck down Jonathan and Abinadab and Malchi-shua, the sons of Saul. ^1002
+[[H251|Their fellow]] [[H3881|Levites]] [[H5414|were assigned]] [[H3605|to every kind]] [[H5656|of service]] [[H4908|of the tabernacle,]] [[H1004|the house]] [[H430|of God.]] ^0648
 
-The battle pressed hard against Saul, and the archers found him, and he was wounded by the archers. ^1003
+[[H175|But Aaron]] [[H1121|and his sons]] [[H3605|did all]] [[H4399|the work]] [[H6944|of the Most Holy Place.]] [[H6999|They presented the offerings]] [[H5921|on]] [[H4196|the altar]] [[H5930|of burnt offering]] [[H5921|and on]] [[H4196|the altar]] [[H7004|of incense]] [[H3722|to make atonement]] [[H5921|for]] [[H3478|Israel,]] [[H3605|according to all]] [[H834|that]] [[H4872|Moses]] [[H5650|the servant]] [[H430|of God]] [[H6680|had commanded.]] ^0649
 
-Then Saul said to his armor-bearer, Draw your sword and thrust me through with it, lest these uncircumcised come and mistreat me. But his armor-bearer would not, for he feared greatly. Therefore Saul took his own sword and fell upon it. ^1004
+[[H428|These]] [[H1121|were the descendants]] [[H175|of Aaron:]] [[H499|Eleazar]] [[H1121|his son,]] [[H6372|Phinehas]] [[H1121|his son,]] [[H50|Abishua]] [[H1121|his son,]] ^0650
 
-And when his armor-bearer saw that Saul was dead, he also fell upon his sword and died. ^1005
+[[H1231|Bukki]] [[H1121|his son,]] [[H5813|Uzzi]] [[H1121|his son,]] [[H2228|Zerahiah]] [[H1121|his son,]] ^0651
 
-Thus Saul died; he and his three sons and all his house died together. ^1006
+[[H4812|Meraioth]] [[H1121|his son,]] [[H568|Amariah]] [[H1121|his son,]] [[H285|Ahitub]] [[H1121|his son,]] ^0652
 
-And when all the men of Israel who were in the valley saw that the army had fled and that Saul and his sons were dead, they abandoned their cities and fled, and the Philistines came and lived in them. ^1007
+[[H6659|Zadok]] [[H1121|his son,]] ⟨and⟩ [[H290|Ahimaaz]] [[H1121|his son.]] ^0653
 
-The next day, when the Philistines came to strip the slain, they found Saul and his sons fallen on Mount Gilboa. ^1008
+[[H428|Now these]] ⟨were⟩ [[H1366|the territories]] [[H1121|assigned to the descendants]] [[H175|of Aaron]] [[H6956|from the Kohathite]] [[H4940|clan]] [[H4186|for their settlements,]] [[H3588|because]] [[H1486|the first lot]] [[H1961|fell]] [[H1992|to them:]] ^0654
 
-And they stripped him and took his head and his armor, and sent messengers throughout the land of the Philistines to carry the good news to their idols and to the people. ^1009
+[[H5414|They were given]] [[H2275|Hebron]] [[H776|in the land]] [[H3063|of Judah]] [[H5439|and its surrounding]] [[H4054|pasturelands.]] ^0655
 
-And they put his armor in the temple of their gods and fastened his head in the temple of Dagon. ^1010
+[[H7704|But the fields]] [[H2691|and villages]] [[H5892|around the city]] [[H5414|were given]] [[H3612|to Caleb]] [[H1121|son]] [[H3312|of Jephunneh.]] ^0656
 
-But when all Jabesh-gilead heard all that the Philistines had done to Saul, ^1011
+[[H1121|So the descendants]] [[H175|of Aaron]] [[H5414|were given]] [[H2275|Hebron]] [[H5892|(a city]] [[H4733|of refuge),]] [[H3841|Libnah,]] [[H3492|Jattir,]] [[H851|Eshtemoa,]] ^0657
 
-all the valiant men arose and took away the body of Saul and the bodies of his sons, and brought them to Jabesh. And they buried their bones under the oak in Jabesh and fasted seven days. ^1012
+[[H2432|Hilen,]] [[H1688|Debir,]] ^0658
 
-So Saul died for his breach of faith. He broke faith with the Lord in that he did not keep the command of the Lord, and also consulted a medium, seeking guidance. ^1013
+[[H6228|Ashan,]] [[H1053|and Beth-shemesh,]] [[H4054|each with their pasturelands.]] ^0659
 
-He did not seek guidance from the Lord. Therefore the Lord put him to death and turned the kingdom over to David the son of Jesse. ^1014
+[[H4294|And from the tribe]] [[H1144|of Benjamin]] ⟨they were given⟩ [[H853|]] [[H1387|Geba,]] [[H5964|Alemeth,]] [[H6068|and Anathoth]] [[H4054|each with their pasturelands.]] [[H7969|So they had thirteen]] [[H5892|cities]] [[H3605|in all]] [[H4940|among their families.]] ^0660
 
+[[H3498|To the rest]] [[H1121|of the Kohathites,]] [[H6235|ten]] [[H5892|cities]] [[H1486|were allotted]] [[H4276|from the half-tribe]] [[H4519|of Manasseh.]] ^0661
 
+[[H1121|The Gershomites,]] [[H4940|according to their clans,]] [[H7969|were allotted thirteen]] [[H5892|cities]] [[H4294|from the tribes]] [[H3485|of Issachar,]] [[H836|Asher,]] [[H5321|Naphtali,]] [[H4519|and Manasseh]] [[H1316|in Bashan.]] ^0662
 
-Then all Israel gathered together to David at Hebron and said, Behold, we are your bone and flesh. ^1101
+[[H1121|The Merarites,]] [[H4940|according to their families,]] [[H1486|were allotted]] [[H8147|twelve]] [[H5892|cities]] [[H4294|from the tribes]] [[H7205|of Reuben,]] [[H1410|Gad,]] [[H2074|and Zebulun.]] ^0663
 
-In times past, even when Saul was king, it was you who led out and brought in Israel. And the Lord your God said to you, You shall be shepherd of my people Israel, and you shall be prince over my people Israel. ^1102
+[[H1121|So the Israelites]] [[H5414|gave]] [[H3881|to the Levites]] ⟨these⟩ [[H5892|cities]] [[H4054|and their pasturelands.]] ^0664
 
-So all the elders of Israel came to the king at Hebron, and David made a covenant with them at Hebron before the Lord. And they anointed David king over Israel, according to the word of the Lord by Samuel. ^1103
+[[H5414|They assigned]] [[H1486|by lot]] [[H5892|the cities]] [[H7121|named]] [[H8034|above]] [[H4294|from the tribes]] [[H1121|of Judah,]] [[H1121|Simeon,]] [[H1121|and Benjamin.]] ^0665
 
-And David and all Israel went to Jerusalem, that is, Jebus, where the Jebusites were, the inhabitants of the land. ^1104
+[[H4940|And some of the clans]] [[H1121|of the Kohathites]] [[H5892|were given cities]] [[H4294|from the tribe]] [[H669|of Ephraim]] [[H1366|for their territory:]] ^0666
 
-The inhabitants of Jebus said to David, You will not come in here. Nevertheless, David took the stronghold of Zion, that is, the city of David. ^1105
+[[H5414|They were given]] [[H7927|Shechem]] [[H5892|(a city]] [[H4733|of refuge)]] [[H4054|with its pasturelands]] [[H2022|in the hill country]] [[H669|of Ephraim,]] [[H853|and]] [[H1507|Gezer,]] ^0667
 
-David said, Whoever strikes the Jebusites first shall be chief and commander. And Joab the son of Zeruiah went up first, so he became chief. ^1106
+[[H3361|Jokmeam,]] [[H1032|Beth-horon,]] ^0668
 
-And David lived in the stronghold; therefore it was called the city of David. ^1107
+[[H357|Aijalon,]] [[H1667|and Gath-rimmon,]] [[H853|each with]] [[H4054|their pasturelands.]] ^0669
 
-And he built the city all around from the Millo in complete circuit, and Joab repaired the rest of the city. ^1108
+[[H4276|And from]] [[H4294|the half-tribe]] [[H4519|of Manasseh]] [[H6063|Aner]] [[H1109|and Bileam,]] [[H4054|together with their pasturelands,]] [[H3498|were given to the rest]] [[H4940|of the clans]] [[H1121|of the Kohathites.]] ^0670
 
-And David became greater and greater, for the Lord of hosts was with him. ^1109
+[[H1121|The Gershomites]] ⟨received the following⟩: [[H4940|From the clan]] [[H2677|of]] [[H4294|the half-tribe]] [[H4519|of Manasseh]] ⟨they were given⟩ [[H853|]] [[H1474|Golan]] [[H1316|in Bashan]] [[H853|and also]] [[H6252|Ashtaroth,]] [[H853|together with]] [[H4054|their pasturelands.]] ^0671
 
-Now these are the chiefs of David’s mighty men, who gave him strong support in his kingdom, together with all Israel, to make him king, according to the word of the Lord concerning Israel. ^1110
+[[H4294|From the tribe]] [[H3485|of Issachar]] ⟨they were given⟩ [[H853|]] [[H6943|Kedesh,]] [[H1705|Daberath,]] ^0672
 
-This is an account of David’s mighty men : Jashobeam, a Hachmonite, was chief of the three. He wielded his spear against 300 whom he killed at one time. ^1111
+[[H7216|Ramoth,]] [[H6046|and Anem,]] [[H853|together with]] [[H4054|their pasturelands.]] ^0673
 
-And next to him among the three mighty men was Eleazar the son of Dodo, the Ahohite. ^1112
+[[H4294|From the tribe]] [[H836|of Asher]] ⟨they were given⟩ [[H853|]] [[H4913|Mashal,]] [[H5658|Abdon,]] ^0674
 
-He was with David at Pas-dammim when the Philistines were gathered there for battle. There was a plot of ground full of barley, and the men fled from the Philistines. ^1113
+[[H2712|Hukok,]] [[H7340|and Rehob,]] [[H853|together with]] [[H4054|their pasturelands.]] ^0675
 
-But he took his stand in the midst of the plot and defended it and killed the Philistines. And the Lord saved them by a great victory. ^1114
+[[H4294|And from the tribe]] [[H5321|of Naphtali]] ⟨they were given⟩ [[H853|]] [[H6943|Kedesh]] [[H1551|in Galilee,]] [[H2540|Hammon,]] [[H7156|and Kiriathaim,]] [[H853|together with]] [[H4054|their pasturelands.]] ^0676
 
-Three of the thirty chief men went down to the rock to David at the cave of Adullam, when the army of Philistines was encamped in the Valley of Rephaim. ^1115
+[[H1121|The Merarites]] [[H3498|(the rest )]] ⟨of the Levites⟩ ⟨received the following⟩: [[H4294|From the tribe]] [[H2074|of Zebulun]] ⟨they were given⟩ [[H853|]] [[H7417|Rimmono]] [[H8396|and Tabor,]] [[H853|together with]] [[H4054|their pasturelands.]] ^0677
 
-David was then in the stronghold, and the garrison of the Philistines was then at Bethlehem. ^1116
+[[H4294|From the tribe]] [[H7205|of Reuben]] [[H4217|east]] [[H3383|of the Jordan]] [[H3405|opposite Jericho]] ⟨they were given⟩ [[H1221|Bezer]] [[H4057|in the wilderness,]] [[H3096|Jahzah,]] ^0678
 
-And David said longingly, Oh that someone would give me water to drink from the well of Bethlehem that is by the gate! ^1117
+[[H6932|Kedemoth,]] [[H4158|and Mephaath,]] [[H853|together with]] [[H4054|their pasturelands.]] ^0679
 
-Then the three mighty men broke through the camp of the Philistines and drew water out of the well of Bethlehem that was by the gate and took it and brought it to David. But David would not drink it. He poured it out to the Lord ^1118
+[[H4294|And from the tribe]] [[H1410|of Gad]] ⟨they were given⟩ [[H853|]] [[H7216|Ramoth]] [[H1568|in Gilead,]] [[H4266|Mahanaim,]] ^0680
 
-and said, Far be it from me before my God that I should do this. Shall I drink the lifeblood of these men? For at the risk of their lives they brought it. Therefore he would not drink it. These things did the three mighty men. ^1119
+[[H2809|Heshbon,]] [[H3270|and Jazer,]] [[H853|together with]] [[H4054|their pasturelands.]] ^0681
 
-Now Abishai, the brother of Joab, was chief of the thirty. And he wielded his spear against 300 men and killed them and won a name beside the three. ^1120
+[[H6213|David constructed]] [[H1004|buildings]] [[H5892|for himself  in the City]] [[H1732|of David,]] [[H3559|and he prepared]] [[H4725|a place]] [[H727|for the ark]] [[H430|of God]] [[H5186|and pitched]] [[H168|a tent]] ^1501
 
-He was the most renowned of the thirty and became their commander, but he did not attain to the three. ^1121
+[[H227|Then]] [[H1732|David]] [[H559|said,]] [[H3808|“No]] [[H3588|one but]] [[H3881|the Levites]] [[H5375|may carry]] [[H727|the ark]] [[H430|of God,]] [[H3588|because]] [[H3068|the LORD]] [[H977|has chosen]] [[H5375|them to carry]] [[H727|the ark]] [[H3068|of the LORD]] [[H8334|and to minister]] [[H5704|before Him]] [[H5769|forever.”]] ^1502
 
-And Benaiah the son of Jehoiada was a valiant man of Kabzeel, a doer of great deeds. He struck down two heroes of Moab. He also went down and struck down a lion in a pit on a day when snow had fallen. ^1122
+[[H1732|And David]] [[H6950|assembled]] [[H3605|all]] [[H3478|Israel]] [[H413|in]] [[H3389|Jerusalem]] [[H5927|to bring up]] [[H727|the ark]] [[H3068|of the LORD]] [[H413|to]] [[H4725|the place]] [[H3559|he had prepared]] ^1503
 
-And he struck down an Egyptian, a man of great stature, five cubits tall. The Egyptian had in his hand a spear like a weaver’s beam, but Benaiah went down to him with a staff and snatched the spear out of the Egyptian’s hand and killed him with his own spear. ^1123
+[[H1732|Then he]] [[H622|gathered together]] [[H1121|the descendants]] [[H175|of Aaron]] [[H3881|and the Levites:]] ^1504
 
-These things did Benaiah the son of Jehoiada and won a name beside the three mighty men. ^1124
+[[H1121|From the Kohathites,]] [[H222|Uriel]] [[H8269|the chief]] [[H3967|and 120]] [[H251|of his relatives;]] ^1505
 
-He was renowned among the thirty, but he did not attain to the three. And David set him over his bodyguard. ^1125
+[[H1121|from the Merarites,]] [[H6222|Asaiah]] [[H8269|the chief]] [[H3967|and 220]] [[H251|of his relatives;]] ^1506
 
-The mighty men were Asahel the brother of Joab, Elhanan the son of Dodo of Bethlehem, ^1126
+[[H1121|from the Gershomites,]] [[H3100|Joel]] [[H8269|the chief]] [[H3967|and 130]] [[H251|of his relatives;]] ^1507
 
-Shammoth of Harod, Helez the Pelonite, ^1127
+[[H1121|from the Elizaphanites,]] [[H8098|Shemaiah]] [[H8269|the chief]] [[H3967|and 200]] [[H251|of his relatives;]] ^1508
 
-Ira the son of Ikkesh of Tekoa, Abiezer of Anathoth, ^1128
+[[H1121|from the Hebronites,]] [[H447|Eliel]] [[H8269|the chief]] [[H8084|and 80]] [[H251|of his relatives;]] ^1509
 
-Sibbecai the Hushathite, Ilai the Ahohite, ^1129
+⟨and⟩ [[H1121|from the Uzzielites,]] [[H5992|Amminadab]] [[H8269|the chief]] [[H3967|and 112]] [[H251|of his relatives.]] ^1510
 
-Maharai of Netophah, Heled the son of Baanah of Netophah, ^1130
+[[H1732|David]] [[H7121|summoned]] [[H3548|the priests]] [[H6659|Zadok]] [[H54|and Abiathar]] [[H3881|and the Levites]] [[H222|Uriel,]] [[H6222|Asaiah,]] [[H3100|Joel,]] [[H8098|Shemaiah,]] [[H447|Eliel,]] [[H5992|and Amminadab.]] ^1511
 
-Ithai the son of Ribai of Gibeah of the people of Benjamin, Benaiah of Pirathon, ^1131
+[[H559|And he said to them,]] [[H859|“You]] [[H7218|are the heads]] [[H3881|of the Levitical]] [[H1|families.]] [[H859|You]] [[H251|and your relatives]] [[H6942|must consecrate yourselves]] [[H5927|so that you may bring]] [[H727|the ark]] [[H3068|of the LORD,]] [[H430|the God]] [[H3478|of Israel,]] [[H413|to]] ⟨the place⟩ [[H3559|I have prepared]] ^1512
 
-Hurai of the brooks of Gaash, Abiel the Arbathite, ^1132
+[[H3588|It was because]] [[H859|you Levites]] [[H3808|were not with us]] [[H7223|the first time]] [[H3068|that the LORD]] [[H430|our God]] [[H6555|burst forth in anger]] [[H3588|against us.  For]] [[H3808|we did not]] [[H1875|consult Him]] [[H4941|about the proper order.”]] ^1513
 
-Azmaveth of Baharum, Eliahba the Shaalbonite, ^1133
+[[H3548|So the priests]] [[H3881|and Levites]] [[H6942|consecrated themselves]] [[H5927|to bring up]] [[H727|the ark]] [[H3068|of the LORD,]] [[H430|the God]] [[H3478|of Israel.]] ^1514
 
-Hashem the Gizonite, Jonathan the son of Shagee the Hararite, ^1134
+[[H1121|And the Levites]] [[H5375|carried]] [[H727|the ark]] [[H430|of God]] [[H3802|on their shoulders]] [[H4133|with the poles,]] [[H834|as]] [[H4872|Moses]] [[H6680|had commanded]] [[H1697|in accordance with the word]] [[H3068|of the LORD.]] ^1515
 
-Ahiam the son of Sachar the Hararite, Eliphal the son of Ur, ^1135
+[[H1732|David also]] [[H559|told]] [[H8269|the leaders]] [[H3881|of the Levites]] [[H5975|to appoint]] [[H251|their relatives]] [[H7891|as singers]] [[H7311|to raise]] [[H6963|their voices]] [[H8057|with joy,]] [[H7892|accompanied by musical]] [[H3627|instruments—]] [[H5035|harps,]] [[H3658|lyres,]] [[H4700|and cymbals.]] ^1516
 
-Hepher the Mecherathite, Ahijah the Pelonite, ^1136
+[[H3881|So the Levites]] [[H5975|appointed]] [[H1968|Heman]] [[H1121|son]] [[H3100|of Joel;]] [[H4480|from]] [[H251|his brothers,]] [[H623|Asaph]] [[H1121|son]] [[H1296|of Berechiah;]] [[H4480|and from]] [[H251|their brothers]] [[H1121|the Merarites,]] [[H387|Ethan]] [[H1121|son]] [[H6984|of Kushaiah;]] ^1517
 
-Hezro of Carmel, Naarai the son of Ezbai, ^1137
+[[H5973|and with them]] [[H251|their brothers]] [[H4932|next in rank:]] [[H2148|Zechariah,]] [[H3268|Jaaziel,]] [[H8070|Shemiramoth,]] [[H3171|Jehiel,]] [[H6042|Unni,]] [[H446|Eliab,]] [[H1141|Benaiah,]] [[H4641|Maaseiah,]] [[H4993|Mattithiah,]] [[H466|Eliphelehu,]] [[H4737|Mikneiah,]] [[H7778|and the gatekeepers]] [[H5654|Obed-edom]] [[H3273|and Jeiel.]] ^1518
 
-Joel the brother of Nathan, Mibhar the son of Hagri, ^1138
+[[H7891|The musicians]] [[H1968|Heman,]] [[H623|Asaph,]] [[H387|and Ethan]] [[H8085|were to sound]] [[H5178|the bronze]] [[H4700|cymbals;]] ^1519
 
-Zelek the Ammonite, Naharai of Beeroth, the armor-bearer of Joab the son of Zeruiah, ^1139
+[[H2148|Zechariah,]] [[H5815|Aziel,]] [[H8070|Shemiramoth,]] [[H3171|Jehiel,]] [[H6042|Unni,]] [[H446|Eliab,]] [[H4641|Maaseiah,]] [[H1141|and Benaiah]] [[H5035|were to play the harps]] [[H5921|according to]] [[H5961|Alamoth;]] ^1520
 
-Ira the Ithrite, Gareb the Ithrite, ^1140
+[[H4993|and Mattithiah,]] [[H466|Eliphelehu,]] [[H4737|Mikneiah,]] [[H5654|Obed-edom,]] [[H3273|Jeiel,]] [[H5812|and Azaziah]] [[H5329|were to lead the music]] [[H3658|with lyres]] [[H5921|according to]] [[H8067|Sheminith.]] ^1521
 
-Uriah the Hittite, Zabad the son of Ahlai, ^1141
+[[H3663|Chenaniah]] [[H8269|the head]] [[H3881|Levite]] [[H3256|was the director]] [[H4853|of the music]] [[H3588|because]] [[H1931|he]] ⟨was⟩ [[H995|highly skilled.]] ^1522
 
-Adina the son of Shiza the Reubenite, a leader of the Reubenites, and thirty with him, ^1142
+[[H1296|Berechiah]] [[H511|and Elkanah]] [[H7778|were to be guardians]] [[H727|of the ark.]] ^1523
 
-Hanan the son of Maacah, and Joshaphat the Mithnite, ^1143
+[[H7645|Shebaniah,]] [[H3146|Joshaphat,]] [[H5417|Nethanel,]] [[H6022|Amasai,]] [[H2148|Zechariah,]] [[H1141|Benaiah,]] [[H461|and Eliezer]] [[H3548|the priests]] [[H2690|were to blow]] [[H2689|the trumpets]] [[H6440|before]] [[H727|the ark]] [[H430|of God.]] [[H5654|Obed-edom]] [[H3174|and Jehiah]] [[H7778|were also to be guardians]] [[H727|of the ark.]] ^1524
 
-Uzzia the Ashterathite, Shama and Jeiel the sons of Hotham the Aroerite, ^1144
+[[H1961|So]] [[H1732|David,]] [[H2205|the elders]] [[H3478|of Israel,]] [[H8269|and the commanders]] [[H505|of thousands]] [[H1980|went]] [[H8057|with rejoicing]] [[H5927|to bring]] [[H727|the ark]] [[H1285|of the covenant]] [[H3068|of the LORD]] [[H4480|from]] [[H1004|the house]] [[H5654|of Obed-edom.]] ^1525
 
-Jediael the son of Shimri, and Joha his brother, the Tizite, ^1145
+[[H430|And because God]] [[H5826|had helped]] [[H3881|the Levites]] [[H5375|who were carrying]] [[H727|the ark]] [[H1285|of the covenant]] [[H3068|of the LORD,]] [[H2076|they sacrificed]] [[H7651|seven]] [[H6499|bulls]] [[H7651|and seven]] [[H352|rams.]] ^1526
 
-Eliel the Mahavite, and Jeribai, and Joshaviah, the sons of Elnaam, and Ithmah the Moabite, ^1146
+[[H1732|Now David]] [[H3736|was dressed]] [[H4598|in a robe]] [[H948|of fine linen,]] [[H3605|as were all]] [[H3881|the Levites]] [[H5375|who were carrying]] [[H727|the ark,]] [[H7891|as well as the singers]] [[H3663|and Chenaniah,]] [[H8269|the director]] [[H4853|of music]] [[H7891|for the singers.]] [[H1732|David]] [[H906|also wore a linen]] [[H646|ephod.]] ^1527
 
-Eliel, and Obed, and Jaasiel the Mezobaite. ^1147
+[[H3605|So all]] [[H3478|Israel]] [[H5927|brought up]] [[H727|the ark]] [[H1285|of the covenant]] [[H3068|of the LORD]] [[H8643|with shouting,]] [[H6963|with the sounding]] [[H7782|of ram’s horns]] [[H2689|and trumpets,]] [[H4700|and with cymbals]] [[H8085|and the music]] [[H5035|of harps]] [[H3658|and lyres.]] ^1528
 
+[[H727|As the ark]] [[H1285|of the covenant]] [[H3068|of the LORD]] [[H1961|was]] [[H935|entering]] [[H5892|the City]] [[H1732|of David,]] [[H7586|Saul’s]] [[H1323|daughter]] [[H4324|Michal]] [[H8259|looked down]] [[H1157|from]] [[H2474|a window]] [[H7200|and saw]] [[H4428|King]] [[H1732|David]] [[H7540|dancing]] [[H7832|and celebrating,]] [[H959|and she despised]] [[H3820|him  in her heart.]] ^1529
 
+[[H428|Now these the]] ⟨were⟩ ⟨men⟩ [[H935|who came]] [[H413|to]] [[H1732|David]] [[H6860|at Ziklag,]] [[H5750|while]] [[H6113|he was still banished]] [[H6440|from the presence]] [[H7586|of Saul]] [[H1121|son]] [[H7027|of Kish.]] [[H1992|They]] [[H1368|were among the warriors]] [[H5826|who helped]] [[H4421|him in battle;]] ^1201
 
-Now these are the men who came to David at Ziklag, while he could not move about freely because of Saul the son of Kish. And they were among the mighty men who helped him in war. ^1201
+[[H5401|they were archers]] [[H3231|using both the right]] [[H8041|and left]] ⟨to sling⟩ [[H68|stones]] [[H2671|and arrows;]] ⟨to shoot⟩ ⟨they were⟩ [[H7586|Saul's]] [[H251|kinsmen]] [[H1144|from Benjamin:]] ^1202
 
-They were bowmen and could shoot arrows and sling stones with either the right or the left hand; they were Benjaminites, Saul’s kinsmen. ^1202
+[[H295|Ahiezer]] [[H7218|their chief,]] [[H3101|and Joash,]] [[H1121|sons]] [[H8094|of Shemaah]] [[H1395|the Gibeathite;]] [[H3149|Jeziel]] [[H6404|and Pelet]] [[H1121|the sons]] [[H5820|of Azmaveth;]] [[H1294|Beracah,]] [[H3058|Jehu]] [[H6069|the Anathothite,]] ^1203
 
-The chief was Ahiezer, then Joash, both sons of Shemaah of Gibeah; also Jeziel and Pelet, the sons of Azmaveth; Beracah, Jehu of Anathoth, ^1203
+[[H3460|Ishmaiah]] [[H1393|the Gibeonite,]] [[H1368|a mighty man]] [[H7970|among the Thirty]] [[H5921|and leader over]] [[H7970|the Thirty;]] [[H3414|Jeremiah,]] [[H3166|Jahaziel,]] [[H3076|Johanan,]] [[H3107|Jozabad]] [[H1452|the Gederathite,]] ^1204
 
-Ishmaiah of Gibeon, a mighty man among the thirty and a leader over the thirty; Jeremiah, Jahaziel, Johanan, Jozabad of Gederah, ^1204
+[[H498|Eluzai,]] [[H3406|Jerimoth,]] [[H1183|Bealiah,]] [[H8114|Shemariah,]] [[H8203|Shephatiah]] [[H2741|the Haruphite;]] ^1205
 
-Eluzai, Jerimoth, Bealiah, Shemariah, Shephatiah the Haruphite; ^1205
+[[H511|Elkanah,]] [[H3449|Isshiah,]] [[H5832|Azarel,]] [[H3134|Joezer]] [[H3434|and Jashobeam]] [[H7145|the Korahites;]] ^1206
 
-Elkanah, Isshiah, Azarel, Joezer, and Jashobeam, the Korahites; ^1206
+[[H3132|and Joelah]] [[H2069|and Zebadiah]] [[H1121|the sons]] [[H3395|of Jeroham]] [[H1446|from  Gedor.]] ^1207
 
-And Joelah and Zebadiah, the sons of Jeroham of Gedor. ^1207
+[[H1425|Some  Gadites]] [[H914|defected]] [[H1732|to David]] [[H4679|at his stronghold]] [[H4057|in the desert.]] [[H1368|They were mighty warriors,]] [[H4421|trained for battle,]] [[H6186|experts]] [[H6793|with shield]] [[H7420|and spear,]] [[H6440|whose faces]] ⟨were like⟩ [[H6440|the faces]] [[H743|of lions]] [[H4116|and who were as swift]] [[H6643|as gazelles]] [[H2022|on  the mountains:]] ^1208
 
-From the Gadites there went over to David at the stronghold in the wilderness mighty and experienced warriors, expert with shield and spear, whose faces were like the faces of lions and who were swift as gazelles upon the mountains : ^1208
+[[H5829|Ezer]] [[H7218|the chief,]] [[H5662|Obadiah]] [[H8145|the second]] ⟨in command⟩, [[H446|Eliab]] [[H7992|the third,]] ^1209
 
-Ezer the chief, Obadiah second, Eliab third, ^1209
+[[H4925|Mishmannah]] [[H7243|the fourth,]] [[H3414|Jeremiah]] [[H2549|the fifth,]] ^1210
 
-Mishmannah fourth, Jeremiah fifth, ^1210
+[[H6262|Attai]] [[H8345|the sixth,]] [[H447|Eliel]] [[H7637|the seventh,]] ^1211
 
-Attai sixth, Eliel seventh, ^1211
+[[H3076|Johanan]] [[H8066|the eighth,]] [[H443|Elzabad]] [[H8671|the ninth,]] ^1212
 
-Johanan eighth, Elzabad ninth, ^1212
+[[H3414|Jeremiah]] [[H6224|the tenth,]] [[H4344|and Machbanai]] [[H6249|the eleventh.]] ^1213
 
-Jeremiah tenth, Machbannai eleventh. ^1213
+[[H428|These]] [[H1121|Gadites]] [[H6635|were army]] [[H7218|commanders,]] [[H6996|the least]] ⟨of whom⟩ [[H3967|was a match for a hundred,]] [[H1419|and the greatest]] [[H505|for a thousand.]] ^1214
 
-These Gadites were officers of the army; the least was a match for a hundred men and the greatest for a thousand. ^1214
+[[H428|These]] [[H1992|are]] [[H834|the ones who]] [[H5674|crossed]] [[H3383|the Jordan]] [[H7223|in the first]] [[H2320|month]] [[H4390|when it had overflowed]] [[H3605|all]] [[H1415|its banks,]] [[H1272|and they put to flight]] [[H3605|all]] ⟨those⟩ [[H6010|in the valleys,]] [[H4217|to the east]] [[H4628|and to the west.]] ^1215
 
-These are the men who crossed the Jordan in the first month, when it was overflowing all its banks, and put to flight all those in the valleys, to the east and to the west. ^1215
+[[H1121|Other Benjamites]] [[H3063|and some men from Judah]] [[H935|also came]] [[H1732|to David]] [[H4679|in his stronghold.]] ^1216
 
-And some of the men of Benjamin and Judah came to the stronghold to David. ^1216
+[[H1732|And David]] [[H3318|went out]] [[H6440|to meet them,]] [[H559|saying,]] [[H518|“If]] [[H935|you have come]] [[H7965|to me  in peace,]] [[H5826|to help me,]] [[H3824|my  heart]] [[H3162|will be  united]] [[H518|with you;  but if]] [[H7411|you have come to betray]] [[H6862|me to my enemies]] [[H3709|when my hands]] [[H3808|are free]] [[H2555|of violence,]] [[H430|may the God]] [[H1|of our fathers]] [[H7200|see]] [[H3198|and judge you.]] ^1217
 
-David went out to meet them and said to them, If you have come to me in friendship to help me, my heart will be joined to you; but if to betray me to my adversaries, although there is no wrong in my hands, then may the God of our fathers see and rebuke you. ^1217
+[[H7307|Then the Spirit]] [[H3847|came upon]] [[H6022|Amasai,]] [[H7218|the chief]] [[H7970|of the Thirty, and he said:]] [[H1732|“We are yours,  O David!]] [[H1121|We are with you,  O son]] [[H3448|of Jesse!]] [[H7965|Peace,]] [[H7965|peace to you,]] [[H7965|and peace]] [[H5826|to your helpers,]] [[H3588|for]] [[H430|your God]] [[H5826|will help you.”]] [[H1732|So David]] [[H6901|received]] [[H5414|them and made]] [[H7218|them leaders]] [[H1416|of his troops.]] ^1218
 
-Then the Spirit clothed Amasai, chief of the thirty, and he said, We are yours, O David, and with you, O son of Jesse! Peace, peace to you, and peace to your helpers! For your God helps you. Then David received them and made them officers of his troops. ^1218
+[[H4480|Some]] [[H4519|from Manasseh]] [[H5307|defected]] [[H5921|to]] [[H1732|David]] [[H935|when he went]] [[H6430|with  the Philistines]] [[H4421|to fight]] [[H7586|against Saul.]] [[H5826|(They did not]] [[H6430|help the Philistines  because  the Philistine]] [[H5633|rulers]] [[H6098|consulted]] [[H7971|and sent David away,]] [[H559|saying,]] [[H7218|“It will cost us our heads]] [[H5307|if he defects]] [[H113|to  his master]] [[H7586|Saul.)]] ^1219
 
-Some of the men of Manasseh deserted to David when he came with the Philistines for the battle against Saul. (Yet he did not help them, for the rulers of the Philistines took counsel and sent him away, saying, At peril to our heads he will desert to his master Saul. ) ^1219
+[[H1980|When David went]] [[H6860|to  Ziklag,]] [[H4519|these men of Manasseh]] [[H5307|defected]] [[H5734|to him:  Adnah,]] [[H3107|Jozabad,]] [[H3043|Jediael,]] [[H4317|Michael,]] [[H3107|Jozabad,]] [[H453|Elihu,]] [[H6769|and Zillethai,]] [[H7218|chiefs]] [[H505|of thousands]] [[H4519|in Manasseh.]] ^1220
 
-As he went to Ziklag, these men of Manasseh deserted to him: Adnah, Jozabad, Jediael, Michael, Jozabad, Elihu, and Zillethai, chiefs of thousands in Manasseh. ^1220
+[[H5826|They  helped]] [[H1732|David]] [[H5921|against]] [[H1416|the raiders,]] [[H1961|for  they were]] [[H3605|all]] [[H1368|mighty warriors]] [[H8269|and commanders]] [[H6635|in the army.]] ^1221
 
-They helped David against the band of raiders, for they were all mighty men of valor and were commanders in the army. ^1221
+[[H935|For  at time,  men came]] ⟨that⟩ [[H1732|to  David]] [[H3117|day]] [[H3117|after day]] [[H5826|to help him,]] [[H5704|until]] [[H1419|he had a great]] [[H4264|army,]] [[H4264|like the army]] [[H430|of God.]] ^1222
 
-For from day to day men came to David to help him, until there was a great army, like an army of God. ^1222
+[[H428|Now these]] ⟨are⟩ [[H4557|the numbers]] [[H7218|of men]] [[H2502|armed]] [[H6635|for battle]] [[H935|who came]] [[H1732|to  David]] [[H2275|at Hebron]] [[H7586|to turn Saul’s]] [[H4438|kingdom]] [[H5437|over]] [[H6310|to him,  in accordance with the word of]] [[H3068|the LORD:]] ^1223
 
-These are the numbers of the divisions of the armed troops who came to David in Hebron to turn the kingdom of Saul over to him, according to the word of the Lord. ^1223
+[[H1121|From the Judahites:]] [[H8337|6,800]] [[H2502|armed]] [[H6635|troops]] [[H5375|bearing]] [[H6793|shields]] [[H7420|and spears.]] ^1224
 
-The men of Judah bearing shield and spear were 6,800 armed troops. ^1224
+[[H1121|From  the Simeonites:]] [[H7651|7,100]] [[H1368|mighty warriors,]] [[H6635|ready for war.]] ^1225
 
-Of the Simeonites, mighty men of valor for war, 7,100. ^1225
+[[H1121|From  the Levites:]] [[H702|4,600,]] ^1226
 
-Of the Levites 4,600. ^1226
+[[H3077|including Jehoiada,]] [[H5057|leader]] [[H175|of the house of Aaron,]] [[H7969|with  3,700]] [[H3967|men,]] ^1227
 
-The prince Jehoiada, of the house of Aaron, and with him 3,700. ^1227
+[[H6659|and Zadok,]] [[H2428|a valiant]] [[H5288|young]] [[H1368|warrior,]] [[H6242|with 22]] [[H8269|commanders]] [[H1|from his own family.]] ^1228
 
-Zadok, a young man mighty in valor, and twenty-two commanders from his own fathers ’ house. ^1228
+[[H1121|From the Benjamites,]] [[H251|the kinsmen]] [[H7586|of Saul:]] [[H7969|3,000,]] [[H4768|most of whom]] [[H8104|had remained]] [[H4931|loyal to]] [[H1004|the house]] [[H7586|of Saul]] [[H5704|up to]] [[H2008|that time.]] ^1229
 
-Of the Benjaminites, the kinsmen of Saul, 3,000, of whom the majority had to that point kept their allegiance to the house of Saul. ^1229
+[[H1121|From the Ephraimites:]] [[H6242|20,800]] [[H1368|mighty warriors,]] [[H8034|famous]] [[H1|among their own clans.]] ^1230
 
-Of the Ephraimites 20,800, mighty men of valor, famous men in their fathers ’ houses. ^1230
+[[H2677|From the half-tribe]] [[H4519|of Manasseh:]] [[H8083|18,000]] [[H5344|designated]] [[H8034|by name]] [[H935|to come]] [[H1732|and make David]] [[H4427|king.]] ^1231
 
-Of the half-tribe of Manasseh 18,000, who were expressly named to come and make David king. ^1231
+[[H1121|From the Issacharites,]] [[H3045|who understood]] [[H6256|the times]] [[H3045|and knew]] [[H4100|what]] [[H3478|Israel]] [[H6213|should do:]] [[H3967|200]] [[H7218|chiefs]] [[H3605|with all]] [[H251|their kinsmen]] [[H6310|at  their command.]] ^1232
 
-Of Issachar, men who had understanding of the times, to know what Israel ought to do, 200 chiefs, and all their kinsmen under their command. ^1232
+[[H2074|From Zebulun:]] [[H2572|50,000]] [[H3318|fit for service,]] [[H6186|trained]] [[H4421|for battle]] [[H3605|with all kinds]] [[H3627|of weapons]] [[H4421|of war,]] [[H3820|who with one purpose]] [[H5737|were devoted to David.]] ^1233
 
-Of Zebulun 50,000 seasoned troops, equipped for battle with all the weapons of war, to help David with singleness of purpose. ^1233
+[[H5321|From Naphtali:]] [[H505|1,000]] [[H8269|commanders,]] [[H7970|accompanied  by 37,000]] [[H6793|men with shield]] [[H2595|and spear.]] ^1234
 
-Of Naphtali 1,000 commanders with whom were 37,000 men armed with shield and spear. ^1234
+[[H1839|From the Danites:]] [[H6242|28,600]] [[H6186|prepared]] [[H4421|for battle.]] ^1235
 
-Of the Danites 28,600 men equipped for battle. ^1235
+[[H836|From Asher:]] [[H705|40,000]] [[H3318|fit for service,]] [[H6186|prepared]] [[H4421|for battle.]] ^1236
 
-Of Asher 40,000 seasoned troops ready for battle. ^1236
+[[H5676|And from east]] [[H3383|of the Jordan,]] [[H7206|from  the Reubenites,]] [[H1425|Gadites,]] [[H2677|and]] [[H7626|the half-tribe]] [[H4519|of Manasseh]] ⟨there⟩: [[H3967|120,000]] [[H3605|with every]] ⟨kind⟩ [[H3627|of weapon]] [[H4421|of war.]] ^1237
 
-Of the Reubenites and Gadites and the half-tribe of Manasseh from beyond the Jordan, 120,000 men armed with all the weapons of war. ^1237
+[[H3605|All]] [[H428|these]] [[H376|men]] [[H4421|of war,]] [[H6186|arrayed]] [[H4634|for battle,]] [[H935|came]] [[H2275|to Hebron]] [[H8003|fully]] [[H3824|determined]] [[H1732|to make David]] [[H4427|king]] [[H5921|over]] [[H3605|all]] [[H3478|Israel.]] [[H1571|And]] [[H3605|all]] [[H7611|the rest]] [[H3478|of the Israelites]] ⟨were⟩ [[H259|of one]] [[H3820|mind]] [[H1732|to make David]] [[H4427|king.]] ^1238
 
-All these, men of war, arrayed in battle order, came to Hebron with a whole heart to make David king over all Israel. Likewise, all the rest of Israel were of a single mind to make David king. ^1238
+[[H1961|They spent]] [[H7969|three]] [[H3117|days]] [[H8033|there]] [[H398|eating]] [[H8354|and drinking]] [[H5973|with]] [[H1732|David,]] [[H251|for their relatives]] [[H3559|had provided for them.]] ^1239
 
-And they were there with David for three days, eating and drinking, for their brothers had made preparation for them. ^1239
+[[H1571|And their neighbors]] [[H5704|from as far away as]] [[H3485|Issachar,]] [[H2074|Zebulun,]] [[H5321|and Naphtali]] [[H935|came bringing]] [[H3899|food]] [[H2543|on donkeys,]] [[H1581|camels,]] [[H6505|mules,]] [[H1241|and oxen—]] [[H7230|abundant supplies]] [[H7058|of flour,]] [[H1690|fig cakes]] [[H1690|and]] [[H6778|raisin cakes,]] [[H3196|wine]] [[H8081|and oil,]] [[H1241|oxen]] [[H6629|and sheep.]] [[H3588|Indeed,]] [[H8057|there was joy]] [[H3478|in Israel.]] ^1240
 
-And also their relatives, from as far as Issachar and Zebulun and Naphtali, came bringing food on donkeys and on camels and on mules and on oxen, abundant provisions of flour, cakes of figs, clusters of raisins, and wine and oil, oxen and sheep, for there was joy in Israel. ^1240
+[[H121|Adam,]] [[H8352|Seth,]] [[H583|Enosh,]] ^0101
 
+[[H7018|Kenan,]] [[H4111|Mahalalel,]] [[H3382|Jared,]] ^0102
 
+[[H2585|Enoch,]] [[H4968|Methuselah,]] [[H3929|Lamech.]] ^0103
 
-David consulted with the commanders of thousands and of hundreds, with every leader. ^1301
+[[H5146|The sons of Noah:]] [[H8035|Shem,]] [[H2526|Ham,]] [[H3315|and Japheth.]] ^0104
 
-And David said to all the assembly of Israel, If it seems good to you and from the Lord our God, let us send abroad to our brothers who remain in all the lands of Israel, as well as to the priests and Levites in the cities that have pasturelands, that they may be gathered to us. ^1302
+[[H1121|The sons]] [[H3315|of Japheth:]] [[H1586|Gomer,]] [[H4031|Magog,]] [[H4074|Madai,]] [[H3120|Javan,]] [[H8422|Tubal,]] [[H4902|Meshech,]] [[H8494|and Tiras.]] ^0105
 
-Then let us bring again the ark of our God to us, for we did not seek it in the days of Saul. ^1303
+[[H1121|The sons]] [[H1586|of Gomer:]] [[H813|Ashkenaz,]] [[H7384|Riphath,]] [[H8425|and Togarmah.]] ^0106
 
-All the assembly agreed to do so, for the thing was right in the eyes of all the people. ^1304
+[[H1121|The sons]] [[H3120|of Javan:]] [[H473|Elishah,]] [[H8659|Tarshish,]] [[H3794|Kittim,]] [[H1721|and Rodanim.]] ^0107
 
-So David assembled all Israel from the Nile of Egypt to Lebo-hamath, to bring the ark of God from Kiriath-jearim. ^1305
+[[H1121|The sons]] [[H2526|of Ham:]] [[H3568|Cush,]] [[H4714|Mizraim,]] [[H6316|Put,]] [[H3667|and Canaan.]] ^0108
 
-And David and all Israel went up to Baalah, that is, to Kiriath-jearim that belongs to Judah, to bring up from there the ark of God, which is called by the name of the Lord who sits enthroned above the cherubim. ^1306
+[[H1121|The sons]] [[H3568|of Cush:]] [[H5434|Seba,]] [[H2341|Havilah,]] [[H5454|Sabta,]] [[H7484|Raamah,]] [[H5455|and Sabteca.]] [[H1121|And the sons]] [[H7484|of Raamah:]] [[H7614|Sheba]] [[H1719|and Dedan.]] ^0109
 
-And they carried the ark of God on a new cart, from the house of Abinadab, and Uzzah and Ahio were driving the cart. ^1307
+[[H3568|And Cush]] [[H3205|was the father of]] [[H5248|Nimrod,]] [[H1931|who]] [[H2490|grew]] [[H1961|to be]] [[H1368|a mighty warrior]] [[H776|on the earth.]] ^0110
 
-And David and all Israel were celebrating before God with all their might, with song and lyres and harps and tambourines and cymbals and trumpets. ^1308
+[[H4714|And Mizraim]] [[H3205|was the father of]] [[H3866|the Ludites,]] [[H6047|the Anamites,]] [[H3853|the Lehabites,]] [[H5320|the Naphtuhites,]] ^0111
 
-And when they came to the threshing floor of Chidon, Uzzah put out his hand to take hold of the ark, for the oxen stumbled. ^1309
+[[H6625|the Pathrusites,]] [[H3695|the Casluhites]] [[H834|(from whom]] [[H6430|the Philistines]] [[H3318|descended),]] [[H3732|and the Caphtorites.]] ^0112
 
-And the anger of the Lord was kindled against Uzzah, and he struck him down because he put out his hand to the ark, and he died there before God. ^1310
+[[H3667|Canaan]] [[H3205|was the father of]] [[H6721|Sidon]] [[H1060|his firstborn,]] [[H853|and]] [[H2845|of the Hittites,]] ^0113
 
-And David was angry because the Lord had broken out against Uzzah. And that place is called Perez-uzza to this day. ^1311
+[[H2983|the Jebusites,]] [[H567|the Amorites,]] [[H1622|the Girgashites,]] ^0114
 
-And David was afraid of God that day, and he said, How can I bring the ark of God home to me? ^1312
+[[H2340|the Hivites,]] [[H6208|the Arkites,]] [[H5513|the Sinites,]] ^0115
 
-So David did not take the ark home into the city of David, but took it aside to the house of Obed-edom the Gittite. ^1313
+[[H721|the Arvadites,]] [[H6786|the Zemarites,]] [[H2577|and the Hamathites.]] ^0116
 
-And the ark of God remained with the household of Obed-edom in his house three months. And the Lord blessed the household of Obed-edom and all that he had. ^1314
+[[H1121|The sons]] [[H8035|of Shem:]] [[H5867|Elam,]] [[H804|Asshur,]] [[H775|Arphaxad,]] [[H3865|Lud, and Aram.]] [[H758|The sons of Aram:]] [[H5780|Uz,]] [[H2343|Hul,]] [[H1666|Gether,]] [[H4902|and Meshech.]] ^0117
 
+[[H775|And Arphaxad]] [[H3205|was the father of]] [[H7974|Shelah,]] [[H7974|and Shelah]] [[H3205|was the father of]] [[H5677|Eber.]] ^0118
 
+[[H8147|And two]] [[H1121|sons]] [[H3205|were born]] [[H5677|to Eber:]] [[H259|One]] [[H8034|was named]] [[H6389|Peleg,]] [[H3588|because]] [[H3117|in his days]] [[H776|the earth]] [[H6385|was divided,]] [[H251|and his brother]] [[H8034|was named]] [[H3355|Joktan.]] ^0119
 
-And Hiram king of Tyre sent messengers to David, and cedar trees, also masons and carpenters to build a house for him. ^1401
+[[H3355|And Joktan]] [[H3205|was the father of]] [[H486|Almodad,]] [[H8026|Sheleph,]] [[H2700|Hazarmaveth,]] [[H3392|Jerah,]] ^0120
 
-And David knew that the Lord had established him as king over Israel, and that his kingdom was highly exalted for the sake of his people Israel. ^1402
+[[H1913|Hadoram,]] [[H187|Uzal,]] [[H1853|Diklah,]] ^0121
 
-And David took more wives in Jerusalem, and David fathered more sons and daughters. ^1403
+[[H5858|Obal,]] [[H39|Abimael,]] [[H7614|Sheba,]] ^0122
 
-These are the names of the children born to him in Jerusalem : Shammua, Shobab, Nathan, Solomon, ^1404
+[[H211|Ophir,]] [[H2341|Havilah,]] [[H3103|and Jobab.]] [[H3605|All]] [[H428|these]] [[H1121|were sons]] [[H3355|of Joktan.]] ^0123
 
-Ibhar, Elishua, Elpelet, ^1405
+⟨So from⟩ [[H8035|Shem came]] [[H775|Arphaxad,]] [[H7974|Shelah,]] ^0124
 
-Nogah, Nepheg, Japhia, ^1406
+[[H5677|Eber,]] [[H6389|Peleg,]] [[H7466|Reu,]] ^0125
 
-Elishama, Beeliada and Eliphelet. ^1407
+[[H8286|Serug,]] [[H5152|Nahor,]] [[H8646|Terah,]] ^0126
 
-When the Philistines heard that David had been anointed king over all Israel, all the Philistines went up to search for David. But David heard of it and went out against them. ^1408
+[[H87|and Abram]] [[H1931|(that is,]] [[H85|Abraham).]] ^0127
 
-Now the Philistines had come and made a raid in the Valley of Rephaim. ^1409
+[[H1121|The sons]] [[H85|of Abraham]] ⟨were⟩ [[H3327|Isaac]] [[H3458|and Ishmael.]] ^0128
 
-And David inquired of God, Shall I go up against the Philistines? Will you give them into my hand? And the Lord said to him, Go up, and I will give them into your hand. ^1410
+[[H428|These]] ⟨are⟩ [[H8435|their genealogies:]] [[H5032|Nebaioth]] [[H1060|the firstborn]] [[H3458|of Ishmael,]] [[H6938|then Kedar,]] [[H110|Adbeel,]] [[H4017|Mibsam,]] ^0129
 
-And he went up to Baal-perazim, and David struck them down there. And David said, God has broken through my enemies by my hand, like a bursting flood. Therefore the name of that place is called Baal-perazim. ^1411
+[[H4927|Mishma,]] [[H1746|Dumah,]] [[H4854|Massa,]] [[H2301|Hadad,]] [[H8485|Tema,]] ^0130
 
-And they left their gods there, and David gave command, and they were burned. ^1412
+[[H3195|Jetur,]] [[H5305|Naphish,]] [[H6929|and Kedemah.]] [[H428|These]] [[H1992|were]] [[H1121|the sons]] [[H3458|of Ishmael.]] ^0131
 
-And the Philistines yet again made a raid in the valley. ^1413
+[[H1121|The sons]] [[H3205|born]] [[H6989|to Keturah,]] [[H85|Abraham’s]] [[H6370|concubine:]] [[H2175|Zimran,]] [[H3370|Jokshan,]] [[H4091|Medan,]] [[H4080|Midian,]] [[H3435|Ishbak,]] [[H7744|and Shuah.]] [[H1121|The sons]] [[H3370|of Jokshan:]] [[H7614|Sheba]] [[H1719|and Dedan.]] ^0132
 
-And when David again inquired of God, God said to him, You shall not go up after them; go around and come against them opposite the balsam trees. ^1414
+[[H1121|The sons]] [[H4080|of Midian:]] [[H5891|Ephah,]] [[H6081|Epher,]] [[H2585|Hanoch,]] [[H28|Abida,]] [[H420|and Eldaah.]] [[H3605|All]] [[H428|of these]] [[H6989|were Keturah’s]] [[H1121|sons.]] ^0133
 
-And when you hear the sound of marching in the tops of the balsam trees, then go out to battle, for God has gone out before you to strike down the army of the Philistines. ^1415
+[[H85|Abraham]] [[H3205|was the father of]] [[H3327|Isaac.]] [[H1121|The sons]] [[H3327|of Isaac:]] [[H6215|Esau]] [[H3478|and Israel.]] ^0134
 
-And David did as God commanded him, and they struck down the Philistine army from Gibeon to Gezer. ^1416
+[[H1121|The sons]] [[H6215|of Esau:]] [[H464|Eliphaz,]] [[H7467|Reuel,]] [[H3266|Jeush,]] [[H3281|Jalam,]] [[H7141|and Korah.]] ^0135
 
-And the fame of David went out into all lands, and the Lord brought the fear of him upon all nations. ^1417
+[[H1121|The sons]] [[H464|of Eliphaz:]] [[H8487|Teman,]] [[H201|Omar,]] [[H6825|Zepho,]] [[H1609|Gatam,]] [[H7073|and Kenaz;]] [[H8555|and by Timna,]] [[H6002|Amalek.]] ^0136
 
+[[H1121|The sons]] [[H7467|of Reuel:]] [[H5184|Nahath,]] [[H2226|Zerah,]] [[H8048|Shammah,]] [[H4199|and Mizzah.]] ^0137
 
+[[H1121|The sons]] [[H8165|of Seir:]] [[H3877|Lotan,]] [[H7732|Shobal,]] [[H6649|Zibeon,]] [[H6034|Anah,]] [[H1787|Dishon,]] [[H687|Ezer,]] [[H1789|and Dishan.]] ^0138
 
-David built houses for himself in the city of David. And he prepared a place for the ark of God and pitched a tent for it. ^1501
+[[H1121|The sons]] [[H3877|of Lotan:]] [[H2753|Hori]] [[H1950|and Homam.]] [[H8555|Timna]] [[H3877|was Lotan’s]] [[H269|sister.]] ^0139
 
-Then David said that no one but the Levites may carry the ark of God, for the Lord had chosen them to carry the ark of the Lord and to minister to him forever. ^1502
+[[H1121|The sons]] [[H7732|of Shobal:]] [[H5935|Alvan,]] [[H4506|Manahath,]] [[H5858|Ebal,]] [[H8195|Shepho,]] [[H208|and Onam.]] [[H1121|The sons]] [[H6649|of Zibeon:]] [[H345|Aiah]] [[H6034|and Anah.]] ^0140
 
-And David assembled all Israel at Jerusalem to bring up the ark of the Lord to its place, which he had prepared for it. ^1503
+[[H1121|The son]] [[H6034|of Anah:]] [[H1787|Dishon.]] [[H1121|The sons]] [[H1787|of Dishon:]] [[H2566|Hemdan,]] [[H790|Eshban,]] [[H3506|Ithran,]] [[H3763|and Cheran.]] ^0141
 
-And David gathered together the sons of Aaron and the Levites : ^1504
+[[H1121|The sons]] [[H687|of Ezer:]] [[H1092|Bilhan,]] [[H2190|Zaavan,]] [[H3292|and Akan.]] [[H1121|The sons]] [[H1787|of Dishon:]] [[H5780|Uz]] [[H765|and Aran.]] ^0142
 
-of the sons of Kohath, Uriel the chief, with 120 of his brothers; ^1505
+[[H428|These]] [[H4428|were the kings]] [[H834|who]] [[H4427|reigned]] [[H776|in the land]] [[H123|of Edom]] [[H6440|before]] [[H4428|any king]] [[H4427|reigned]] [[H1121|over the Israelites:]] [[H1106|Bela]] [[H1121|son]] [[H1160|of Beor.]] [[H5892|His city]] [[H8034|was named]] [[H1838|Dinhabah.]] ^0143
 
-of the sons of Merari, Asaiah the chief, with 220 of his brothers; ^1506
+[[H1106|When Bela]] [[H4191|died,]] [[H3103|Jobab]] [[H1121|son]] [[H2226|of Zerah]] [[H1224|from Bozrah]] [[H4427|reigned]] [[H8478|in his place.]] ^0144
 
-of the sons of Gershom, Joel the chief, with 130 of his brothers; ^1507
+[[H3103|When Jobab]] [[H4191|died,]] [[H2367|Husham]] [[H776|from the land]] [[H8489|of the Temanites]] [[H4427|reigned]] [[H8478|in his place.]] ^0145
 
-of the sons of Elizaphan, Shemaiah the chief, with 200 of his brothers; ^1508
+[[H2367|When Husham]] [[H4191|died,]] [[H1908|Hadad]] [[H1121|son]] [[H911|of Bedad,]] [[H5221|who defeated]] [[H4080|Midian]] [[H7704|in the country]] [[H4124|of Moab,]] [[H4427|reigned]] [[H8478|in his place.]] [[H8034|And the name]] [[H5892|of his city]] [[H5762|was Avith.]] ^0146
 
-of the sons of Hebron, Eliel the chief, with 80 of his brothers; ^1509
+[[H1908|When Hadad]] [[H4191|died,]] [[H8072|Samlah]] [[H4957|from Masrekah]] [[H4427|reigned]] [[H8478|in his place.]] ^0147
 
-of the sons of Uzziel, Amminadab the chief, with 112 of his brothers. ^1510
+[[H8072|When Samlah]] [[H4191|died,]] [[H7586|Shaul]] [[H7344|from Rehoboth]] [[H5104|on the Euphrates]] [[H4427|reigned]] [[H8478|in his place.]] ^0148
 
-Then David summoned the priests Zadok and Abiathar, and the Levites Uriel, Asaiah, Joel, Shemaiah, Eliel, and Amminadab, ^1511
+[[H7586|When Shaul]] [[H4191|died,]] [[H1177|Baal-hanan]] [[H1121|son]] [[H5907|of Achbor]] [[H4427|reigned]] [[H8478|in his place.]] ^0149
 
-and said to them, You are the heads of the fathers ’ houses of the Levites. Consecrate yourselves, you and your brothers, so that you may bring up the ark of the Lord, the God of Israel, to the place that I have prepared for it. ^1512
+[[H1177|When Baal-hanan]] [[H4191|died,]] [[H1908|Hadad]] [[H4427|reigned]] [[H8478|in his place.]] [[H5892|His city]] [[H8034|was named]] [[H6464|Pau,]] [[H802|and his wife’s]] [[H8034|name]] [[H4105|was Mehetabel]] [[H1323|daughter]] [[H4308|of Matred,]] [[H1323|the daughter]] [[H4314|of Me-zahab.]] ^0150
 
-Because you did not carry it the first time, the Lord our God broke out against us, because we did not seek him according to the rule. ^1513
+[[H1908|Then Hadad]] [[H4191|died.]] [[H441|Now the chiefs]] [[H123|of Edom]] ⟨were⟩ [[H8555|Timna,]] [[H5933|Alvah,]] [[H3509|Jetheth,]] ^0151
 
-So the priests and the Levites consecrated themselves to bring up the ark of the Lord, the God of Israel. ^1514
+[[H173|Oholibamah,]] [[H425|Elah,]] [[H6373|Pinon,]] ^0152
 
-And the Levites carried the ark of God on their shoulders with the poles, as Moses had commanded according to the word of the Lord. ^1515
+[[H7073|Kenaz,]] [[H8487|Teman,]] [[H4014|Mibzar,]] ^0153
 
-David also commanded the chiefs of the Levites to appoint their brothers as the singers who should play loudly on musical instruments, on harps and lyres and cymbals, to raise sounds of joy. ^1516
+[[H4025|Magdiel,]] [[H5902|and Iram.]] [[H428|These]] ⟨were⟩ [[H441|the chiefs]] [[H123|of Edom.]] ^0154
 
-So the Levites appointed Heman the son of Joel; and of his brothers Asaph the son of Berechiah; and of the sons of Merari, their brothers, Ethan the son of Kushaiah; ^1517
+[[H4256|These were the divisions]] [[H7778|of the gatekeepers:]] [[H7145|From the Korahites:]] [[H4920|Meshelemiah]] [[H1121|son]] [[H6981|of Kore,]] [[H4480|one of]] [[H1121|the sons]] [[H623|of Asaph.]] ^2601
 
-and with them their brothers of the second order, Zechariah, Jaaziel, Shemiramoth, Jehiel, Unni, Eliab, Benaiah, Maaseiah, Mattithiah, Eliphelehu, and Mikneiah, and the gatekeepers Obed-edom and Jeiel. ^1518
+[[H4920|Meshelemiah]] [[H1121|had sons:]] [[H2148|Zechariah]] [[H1060|the firstborn,]] [[H3043|Jediael]] [[H8145|the second,]] [[H2069|Zebadiah]] [[H7992|the third,]] [[H3496|Jathniel]] [[H7243|the fourth,]] ^2602
 
-The singers, Heman, Asaph, and Ethan, were to sound bronze cymbals; ^1519
+[[H5867|Elam]] [[H2549|the fifth,]] [[H3076|Jehohanan]] [[H8345|the sixth,]] [[H454|and Eliehoenai]] [[H7637|the seventh.]] ^2603
 
-Zechariah, Aziel, Shemiramoth, Jehiel, Unni, Eliab, Maaseiah, and Benaiah were to play harps according to Alamoth; ^1520
+[[H5654|And  Obed-edom]] [[H1121|also had sons:]] [[H8098|Shemaiah]] [[H1060|the firstborn,]] [[H3075|Jehozabad]] [[H8145|the second,]] [[H3098|Joah]] [[H7992|the third,]] [[H7940|Sachar]] [[H7243|the fourth,]] [[H5417|Nethanel]] [[H2549|the fifth,]] ^2604
 
-but Mattithiah, Eliphelehu, Mikneiah, Obed-edom, Jeiel, and Azaziah were to lead with lyres according to the Sheminith. ^1521
+[[H5988|Ammiel]] [[H8345|the sixth,]] [[H3485|Issachar]] [[H7637|the seventh,]] [[H6469|and Peullethai]] [[H8066|the eighth.]] [[H3588|For]] [[H430|God]] [[H1288|had blessed]] ⟨Obed-edom⟩. ^2605
 
-Chenaniah, leader of the Levites in music, should direct the music, for he understood it. ^1522
+[[H1121|Also to his son]] [[H8098|Shemaiah]] [[H3205|were born]] [[H1121|sons]] [[H4474|who ruled]] [[H1|over their families]] [[H3588|because]] [[H1992|they]] [[H1368|were strong,]] [[H2428|capable men.]] ^2606
 
-Berechiah and Elkanah were to be gatekeepers for the ark. ^1523
+[[H8098|Shemaiah’s]] [[H1121|sons]] ⟨were⟩ [[H6273|Othni,]] [[H7501|Rephael,]] [[H5744|Obed,]] [[H443|and Elzabad;]] [[H251|his brothers]] ⟨were⟩ [[H453|Elihu]] [[H5565|and Semachiah,]] [[H2428|also capable]] [[H1121|men.]] ^2607
 
-Shebaniah, Joshaphat, Nethanel, Amasai, Zechariah, Benaiah, and Eliezer, the priests, should blow the trumpets before the ark of God. Obed-edom and Jehiah were to be gatekeepers for the ark. ^1524
+[[H3605|All]] [[H428|these]] ⟨were⟩ [[H1121|descendants]] [[H5654|of Obed-edom]] [[H1121|with their sons]] [[H251|and brothers;]] [[H1992|they]] [[H2428|were capable]] [[H376|men]] [[H3581|with strength]] [[H5656|to do the work—]] [[H8346|62]] ⟨in all⟩ [[H5654|from Obed-edom.]] ^2608
 
-So David and the elders of Israel and the commanders of thousands went to bring up the ark of the covenant of the Lord from the house of Obed-edom with rejoicing. ^1525
+[[H4920|Meshelemiah]] [[H1121|also had sons]] [[H251|and brothers]] [[H2428|who were capable]] [[H1121|men—]] [[H8083|18]] ⟨in all⟩. ^2609
 
-And because God helped the Levites who were carrying the ark of the covenant of the Lord, they sacrificed seven bulls and seven rams. ^1526
+[[H2621|Hosah]] [[H1121|the Merarite]] [[H1121|also had sons:]] [[H8113|Shimri]] [[H7218|the first]] [[H3588|(although]] [[H1961|he was]] [[H3808|not]] [[H1060|the firstborn,]] [[H1|his father]] [[H7760|had appointed]] [[H7218|him as the first),]] ^2610
 
-David was clothed with a robe of fine linen, as also were all the Levites who were carrying the ark, and the singers and Chenaniah the leader of the music of the singers. And David wore a linen ephod. ^1527
+[[H2518|Hilkiah]] [[H8145|the second,]] [[H2882|Tebaliah]] [[H7992|the third,]] [[H2148|and Zechariah]] [[H7243|the fourth.]] [[H1121|The sons]] [[H251|and brothers]] [[H2621|of Hosah]] ⟨numbered⟩ [[H7969|13]] [[H3605|in all.]] ^2611
 
-So all Israel brought up the ark of the covenant of the Lord with shouting, to the sound of the horn, trumpets, and cymbals, and made loud music on harps and lyres. ^1528
+[[H428|These]] [[H4256|divisions]] [[H7778|of the gatekeepers,]] [[H7218|through their chief]] [[H1397|men,]] [[H4931|had duties]] [[H8334|for ministering]] [[H1004|in the house]] [[H3068|of the LORD,]] [[H5980|just as]] [[H251|their brothers did.]] ^2612
 
-And as the ark of the covenant of the Lord came to the city of David, Michal the daughter of Saul looked out of the window and saw King David dancing and celebrating, and she despised him in her heart. ^1529
+[[H5307|They cast]] [[H1486|lots]] [[H8179|for each gate,]] [[H1|according to their families,]] [[H6996|young]] [[H1419|and old alike.]] ^2613
 
+[[H1486|The lot]] [[H4217|for the East]] ⟨Gate⟩ [[H5307|fell]] [[H8018|to Shelemiah.]] [[H1486|Then lots]] [[H5307|were cast]] [[H1121|for his son]] [[H2148|Zechariah,]] [[H7922|a wise]] [[H3289|counselor,]] [[H1486|and the lot]] [[H6828|for the north gate]] [[H3318|fell to him.]] ^2614
 
+⟨The lot for⟩ [[H5045|the South]] ⟨Gate⟩ ⟨fell⟩ [[H5654|to  Obed-edom,]] [[H1004|and the lot for the storehouses]] [[H1121|to his sons.]] ^2615
 
-And they brought in the ark of God and set it inside the tent that David had pitched for it, and they offered burnt offerings and peace offerings before God. ^1601
+⟨The lots⟩ [[H4628|for the West Gate]] [[H5973|and]] [[H7996|the Shallecheth]] [[H8179|Gate]] [[H5927|on the ascending]] [[H4546|highway]] ⟨fell to⟩ [[H8206|Shuppim]] [[H2621|and Hosah.]] [[H4929|There were guards]] [[H5980|stationed]] [[H4929|at every watch.]] ^2616
 
-And when David had finished offering the burnt offerings and the peace offerings, he blessed the people in the name of the Lord ^1602
+[[H3117|Each day]] [[H8337|there were six]] [[H3881|Levites]] [[H4217|on the east,]] [[H702|four]] [[H6828|on the north,]] [[H702|four]] [[H5045|on the south,]] [[H8147|and two pairs]] [[H624|at the storehouse.]] ^2617
 
-and distributed to all Israel, both men and women, to each a loaf of bread, a portion of meat, and a cake of raisins. ^1603
+[[H6503|As for the court]] [[H4628|on the west,]] [[H702|there were four]] [[H4546|at the highway]] [[H8147|and two]] [[H6503|at the court.]] ^2618
 
-Then he appointed some of the Levites as ministers before the ark of the Lord, to invoke, to thank, and to praise the Lord, the God of Israel. ^1604
+[[H428|These]] ⟨were⟩ [[H4256|the divisions]] [[H7778|of the gatekeepers]] [[H1121|who were descendants]] [[H7145|of Korah]] ⟨and⟩ [[H1121|]] [[H4847|Merari.]] ^2619
 
-Asaph was the chief, and second to him were Zechariah, Jeiel, Shemiramoth, Jehiel, Mattithiah, Eliab, Benaiah, Obed-edom, and Jeiel, who were to play harps and lyres; Asaph was to sound the cymbals, ^1605
+[[H3881|Now their fellow Levites]] [[H5921|were in charge of]] [[H214|the treasuries]] [[H1004|of the house]] [[H430|of God]] [[H214|and the treasuries]] [[H6944|of the dedicated things.]] ^2620
 
-and Benaiah and Jahaziel the priests were to blow trumpets regularly before the ark of the covenant of God. ^1606
+[[H1121|From the descendants]] [[H3936|of Ladan,]] [[H1121|who were]] [[H1649|Gershonites]] [[H3936|through Ladan]] [[H7218|and heads]] [[H1|of the families]] [[H3936|of Laadan]] [[H1649|the Gershonite,]] ⟨were⟩ [[H3172|Jehieli,]] ^2621
 
-Then on that day David first appointed that thanksgiving be sung to the Lord by Asaph and his brothers. ^1607
+[[H1121|the sons]] [[H3172|of Jehieli,]] [[H2241|Zetham,]] [[H251|and his brother]] [[H3100|Joel.]] [[H5921|They were in charge of]] [[H214|the treasuries]] [[H1004|of the house]] [[H3068|of the LORD.]] ^2622
 
-Oh give thanks to the Lord; call upon his name; make known his deeds among the peoples! ^1608
+[[H6020|From the Amramites,]] [[H3325|the Izharites,]] [[H2276|the Hebronites,]] [[H5817|and the Uzzielites:]] ^2623
 
-Sing to him, sing praises to him; tell of all his wondrous works! ^1609
+[[H7619|Shebuel,]] [[H1121|a descendant]] [[H1647|of Gershom]] [[H1121|son of]] [[H4872|Moses,]] [[H5057|was the officer]] [[H5921|in charge of]] [[H214|the treasuries.]] ^2624
 
-Glory in his holy name; let the hearts of those who seek the Lord rejoice! ^1610
+[[H251|His relatives]] [[H461|through Eliezer]] ⟨included⟩ [[H7345|Rehabiah]] [[H1121|his son,]] [[H3470|Jeshaiah]] [[H1121|his son,]] [[H3141|Joram]] [[H1121|his son,]] [[H2147|Zichri]] [[H1121|his son,]] [[H8013|and Shelomith]] [[H1121|his son.]] ^2625
 
-Seek the Lord and his strength; seek his presence continually! ^1611
+[[H1931|This]] [[H8013|Shelomith]] [[H251|and his brothers]] [[H5921|were in charge of]] [[H3605|all]] [[H214|the treasuries]] [[H834|for the things]] [[H6942|dedicated]] [[H4428|by King]] [[H1732|David,]] [[H7218|by the heads]] [[H1|of families]] [[H8269|who were the commanders]] [[H505|of thousands]] [[H3967|and of hundreds,]] [[H6635|and by the army]] [[H8269|commanders.]] ^2626
 
-Remember the wondrous works that he has done, his miracles and the judgments he uttered, ^1612
+[[H6942|They dedicated]] [[H4480|some of]] [[H7998|the plunder]] [[H4480|from]] [[H4421|their battles]] [[H2388|for the repair]] [[H3068|of the LORD’s]] [[H1004|temple.]] ^2627
 
-O offspring of Israel his servant, children of Jacob, his chosen ones! ^1613
+[[H3605|Everything]] [[H6942|dedicated]] [[H8050|by Samuel]] [[H7200|the seer,]] [[H7586|Saul]] [[H1121|son]] [[H7027|of Kish,]] [[H74|Abner]] [[H1121|son]] [[H5369|of Ner,]] [[H3097|and Joab]] [[H1121|son]] [[H6870|of Zeruiah,]] [[H3605|along with everything else]] [[H6942|that was dedicated,]] [[H5921|was under]] [[H3027|the care]] [[H8019|of Shelomith]] [[H251|and his brothers.]] ^2628
 
-He is the Lord our God; his judgments are in all the earth. ^1614
+[[H3325|From the Izrahites:]] [[H3663|Chenaniah]] [[H1121|and his sons]] [[H2435|had the outside]] [[H4399|duties]] [[H7860|as officers]] [[H8199|and judges]] [[H5921|over]] [[H3478|Israel.]] ^2629
 
-Remember his covenant forever, the word that he commanded, for a thousand generations, ^1615
+[[H2276|From the Hebronites:]] [[H2811|Hashabiah]] [[H251|and his relatives,]] [[H505|1,700]] [[H2428|capable]] [[H1121|men,]] [[H6486|had charge of the affairs]] [[H3478|of Israel]] [[H4628|west]] [[H3383|of the Jordan]] [[H3605|for all]] [[H4399|the work]] [[H3068|of the LORD]] [[H5656|and for the service]] [[H4428|of the king.]] ^2630
 
-the covenant that he made with Abraham, his sworn promise to Isaac, ^1616
+[[H2276|As for the Hebronites,]] [[H3404|Jerijah]] [[H7218|was the chief]] [[H2276|of the Hebronites,]] [[H8435|according to the genealogies]] [[H1|of his ancestors.]] [[H705|In the fortieth]] [[H8141|year]] [[H1732|of David’s]] [[H4438|reign]] ⟨the records⟩ [[H1875|were searched,]] [[H1368|and strong,]] [[H2428|capable men]] [[H4672|were found]] [[H3270|among at Jazer]] ⟨the Hebronites⟩ [[H1568|in Gilead.]] ^2631
 
-which he confirmed to Jacob as a statute, to Israel as an everlasting covenant, ^1617
+[[H251|Among Jerijah’s relatives]] ⟨there were⟩ [[H505|2,700]] [[H2428|capable]] [[H1121|men]] [[H7218|who were heads]] [[H1|of families.]] [[H4428|King]] [[H1732|David]] [[H6485|appointed]] [[H5921|them over]] [[H7206|the Reubenites,]] [[H1425|the Gadites,]] [[H2677|and the half-tribe]] [[H4520|of Manasseh]] [[H3605|for every]] [[H1697|matter]] ⟨pertaining to⟩ [[H430|God]] [[H1697|and the affairs]] [[H4428|of the king.]] ^2632
 
-saying, To you I will give the land of Canaan, as your portion for an inheritance. ^1618
+[[H1121|These were the sons]] [[H7205|of Reuben]] [[H1060|the firstborn]] [[H3478|of Israel.]] [[H1931|Though he]] [[H1060|was the firstborn,]] [[H1062|his birthright]] [[H5414|was given]] [[H1121|to the sons]] [[H3130|of Joseph]] [[H1121|son]] [[H3478|of Israel,]] [[H2490|because Reuben defiled]] [[H1|his father’s]] [[H3326|bed.]] [[H3808|So he is not]] [[H3187|reckoned]] [[H1062|according to birthright.]] ^0501
 
-When you were few in number, of little account, and sojourners in it, ^1619
+[[H3588|And though]] [[H3063|Judah]] [[H1396|prevailed]] [[H251|over his brothers]] [[H5057|and a ruler]] [[H4480|came from him,]] [[H1062|the birthright]] [[H3130|belonged to Joseph.]] ^0502
 
-wandering from nation to nation, from one kingdom to another people, ^1620
+[[H1121|The sons]] [[H7205|of Reuben,]] [[H1060|the firstborn]] [[H3478|of Israel:]] [[H2585|Hanoch,]] [[H6396|Pallu,]] [[H2696|Hezron,]] [[H3756|and Carmi.]] ^0503
 
-he allowed no one to oppress them; he rebuked kings on their account, ^1621
+[[H1121|The descendants]] [[H3100|of Joel:]] [[H8098|Shemaiah]] [[H1121|his son,]] [[H1463|Gog]] [[H1121|his son,]] [[H8096|Shimei]] [[H1121|his son,]] ^0504
 
-saying, Touch not my anointed ones, do my prophets no harm! ^1622
+[[H4318|Micah]] [[H1121|his son,]] [[H7211|Reaiah]] [[H1121|his son,]] [[H1168|Baal]] [[H1121|his son,]] ^0505
 
-Sing to the Lord, all the earth! Tell of his salvation from day to day. ^1623
+[[H880|and Beerah]] [[H1121|his son,]] [[H834|whom]] [[H8407|Tiglath-pileser]] [[H4428|king]] [[H804|of Assyria]] [[H1540|carried into exile.]] [[H1931|Beerah]] [[H5387|was a leader]] [[H7206|of the Reubenites.]] ^0506
 
-Declare his glory among the nations, his marvelous works among all the peoples! ^1624
+[[H251|His relatives]] [[H4940|by their clans]] [[H3187|are recorded]] [[H8435|in their genealogy:]] [[H3273|Jeiel]] [[H7218|the chief,]] [[H2148|Zechariah,]] ^0507
 
-For great is the Lord, and greatly to be praised, and he is to be feared above all gods. ^1625
+[[H1106|and Bela]] [[H1121|son]] [[H5811|of Azaz,]] [[H1121|the son]] [[H8087|of Shema,]] [[H1121|the son]] [[H3100|of Joel.]] [[H1931|They]] [[H3427|settled]] [[H6177|in Aroer]] [[H5704|and as far as]] [[H5015|Nebo]] [[H1186|and  Baal-meon.]] ^0508
 
-For all the gods of the peoples are worthless idols, but the Lord made the heavens. ^1626
+[[H3427|They also settled]] [[H4217|in the east]] [[H5704|as far as]] [[H4057|the edge of the desert]] [[H4480|that extends]] [[H6578|to the Euphrates]] [[H5104|River,]] [[H3588|because]] [[H4735|their herds]] [[H7235|had increased]] [[H776|in the land]] [[H1568|of Gilead.]] ^0509
 
-Splendor and majesty are before him; strength and joy are in his place. ^1627
+[[H3117|During the days]] [[H7586|of Saul]] [[H6213|they waged]] [[H4421|war]] [[H5973|against]] [[H1905|the Hagrites,]] [[H5307|who were defeated]] [[H3027|at their hands,]] [[H3427|and they occupied]] [[H168|the homes]] ⟨of the Hagrites⟩ [[H5921|throughout]] [[H6440|the region]] [[H4217|east]] [[H1568|of Gilead.]] ^0510
 
-Ascribe to the Lord, O families of the peoples, ascribe to the Lord glory and strength! ^1628
+[[H1121|The descendants]] [[H1410|of Gad]] [[H3427|lived]] [[H5048|next to]] ⟨the Reubenites⟩ [[H776|in the land]] [[H1316|of Bashan,]] [[H5704|as]] [[H5548|far as Salecah:]] ^0511
 
-Ascribe to the Lord the glory due his name; bring an offering and come before him! Worship the Lord in the splendor of holiness; ^1629
+[[H3100|Joel]] ⟨was⟩ [[H7218|the chief,]] [[H8223|Shapham]] [[H4932|the second,]] [[H3285|then Jaanai]] [[H8202|and Shaphat,]] ⟨who lived⟩ [[H1316|in Bashan.]] ^0512
 
-tremble before him, all the earth; yes, the world is established; it shall never be moved. ^1630
+[[H251|Their kinsmen]] [[H1|by families were]] [[H4317|Michael,]] [[H4918|Meshullam,]] [[H7652|Sheba,]] [[H3140|Jorai,]] [[H3275|Jacan,]] [[H2127|Zia,]] [[H5677|and Eber—]] [[H7651|seven]] ⟨in all⟩. ^0513
 
-Let the heavens be glad, and let the earth rejoice, and let them say among the nations, The Lord reigns! ^1631
+[[H428|These]] [[H1121|were the sons]] [[H32|of Abihail]] [[H1121|son]] [[H2359|of Huri,]] [[H1121|the son]] [[H3386|of Jaroah,]] [[H1121|the son]] [[H1568|of Gilead,]] [[H1121|the son]] [[H4317|of Michael,]] [[H1121|the son]] [[H3454|of Jeshishai,]] [[H1121|the son]] [[H3163|of Jahdo,]] [[H1121|the son]] [[H938|of Buz.]] ^0514
 
-Let the sea roar, and all that fills it; let the field exult, and everything in it! ^1632
+[[H277|Ahi]] [[H1121|son]] [[H5661|of Abdiel,]] [[H1121|the son]] [[H1476|of Guni,]] [[H7218|was head]] [[H1|of their family.]] ^0515
 
-Then shall the trees of the forest sing for joy before the Lord, for he comes to judge the earth. ^1633
+[[H3427|They lived]] [[H1568|in Gilead,]] [[H1316|in Bashan]] [[H1323|and its towns,]] [[H3605|and throughout]] [[H4054|the pasturelands]] [[H8289|of Sharon.]] ^0516
 
-Oh give thanks to the Lord, for he is good; for his steadfast love endures forever! ^1634
+[[H3605|All of them]] [[H3187|were reckoned in the genealogies]] [[H3117|during the reigns]] [[H3147|of Jotham]] [[H4428|king]] [[H3063|of Judah]] ⟨and⟩ [[H3117|]] [[H3379|Jeroboam]] [[H4428|king]] [[H3478|of Israel.]] ^0517
 
-Say also: Save us, O God of our salvation, and gather and deliver us from among the nations, that we may give thanks to your holy name and glory in your praise. ^1635
+[[H1121|The Reubenites,]] [[H1425|the Gadites,]] [[H2677|and the half-tribe]] [[H4519|of Manasseh]] [[H705|had 44,760]] [[H3318|warriors—]] [[H1121|valiant warriors]] [[H5375|who carried]] [[H4043|shield]] [[H2719|and sword,]] [[H1869|drew]] [[H7198|the bow,]] [[H3925|and were trained]] [[H4421|for battle.]] ^0518
 
-Blessed be the Lord, the God of Israel, from everlasting to everlasting! Then all the people said, Amen! and praised the Lord. ^1636
+[[H6213|They waged]] [[H4421|war]] [[H5973|against]] [[H1905|the Hagrites,]] [[H3195|Jetur,]] [[H5305|Naphish,]] [[H5114|and Nodab.]] ^0519
 
-So David left Asaph and his brothers there before the ark of the covenant of the Lord to minister regularly before the ark as each day required, ^1637
+[[H3588|And because]] [[H2199|they cried out]] [[H430|to God]] [[H4421|in battle,]] [[H5826|they were helped]] [[H5921|against]] ⟨their enemies⟩, [[H1905|and the Hagrites]] [[H3605|and all]] [[H5973|their allies]] [[H5414|were delivered]] [[H3027|into their hands.]] [[H3588|Because]] [[H982|they put their trust]] [[H6279|in,  He answered their prayers.]] ⟨God⟩ ^0520
 
-and also Obed-edom and his sixty-eight brothers, while Obed-edom, the son of Jeduthun, and Hosah were to be gatekeepers. ^1638
+[[H7617|They seized]] [[H4735|the livestock —]] ⟨of the Hagrites⟩ [[H2572|50,000]] [[H1581|camels,]] [[H3967|250,000 {}]] [[H6629|sheep,]] [[H505|and 2,000]] [[H2543|donkeys.]] ⟨They also took⟩ [[H3967|100,000]] [[H120|captives,]] ^0521
 
-And he left Zadok the priest and his brothers the priests before the tabernacle of the Lord in the high place that was at Gibeon ^1639
+[[H3588|and]] [[H7227|many others]] [[H5307|fell]] [[H2491|slain,]] [[H3588|because]] [[H4421|the battle]] [[H430|belonged to God.]] [[H3427|And they occupied]] [[H8478|the land]] [[H5704|until]] [[H1473|the exile.]] ^0522
 
-to offer burnt offerings to the Lord on the altar of burnt offering regularly morning and evening, to do all that is written in the Law of the Lord that he commanded Israel. ^1640
+[[H1121|Now the people]] [[H2677|of the half-tribe]] [[H4519|of Manasseh]] [[H7235|were numerous.]] [[H3427|They settled]] [[H776|in the land]] [[H1316|from Bashan]] [[H5704|to]] [[H1179|Baal-hermon (that is,]] [[H8149|Senir]] [[H2022|or Mount]] [[H2768|Hermon).]] ^0523
 
-With them were Heman and Jeduthun and the rest of those chosen and expressly named to give thanks to the Lord, for his steadfast love endures forever. ^1641
+[[H428|These]] [[H7218|were the heads]] [[H1|of their families:]] [[H6081|Epher,]] [[H3469|Ishi,]] [[H447|Eliel,]] [[H5837|Azriel,]] [[H3414|Jeremiah,]] [[H1938|Hodaviah,]] [[H3164|and Jahdiel.]] ⟨They were⟩ [[H1368|mighty warriors,]] [[H8034|famous]] [[H376|men,]] [[H7218|and heads]] [[H1|of their families.]] ^0524
 
-Heman and Jeduthun had trumpets and cymbals for the music and instruments for sacred song. The sons of Jeduthun were appointed to the gate. ^1642
+[[H4603|But they were unfaithful]] [[H430|to the God]] [[H1|of their fathers,]] [[H2181|and they prostituted]] [[H310|themselves with]] [[H430|the gods]] [[H5971|of the peoples]] [[H776|of the land,]] [[H834|whom]] [[H430|God]] [[H8045|had destroyed]] [[H6440|before them.]] ^0525
 
-Then all the people departed each to his house, and David went home to bless his household. ^1643
+[[H430|So the God]] [[H3478|of Israel]] [[H5782|stirred up]] [[H7307|the spirit]] [[H6322|of Pul]] [[H4428|king]] [[H804|of Assyria]] [[H853|(that is,]] [[H8407|Tiglath-pileser]] [[H4428|king]] [[H804|of Assyria)]] [[H7206|to take the Reubenites,]] [[H1425|Gadites,]] [[H2677|and the half-tribe]] [[H4519|of Manasseh]] [[H1540|into exile.]] [[H935|And he brought]] [[H2477|them to Halah,]] [[H2249|Habor,]] [[H2024|Hara,]] [[H5104|and the river]] [[H1470|of Gozan,]] [[H5704|where they remain to]] [[H2088|this]] [[H3117|day.]] ^0526
 
+[[H1732|Then David]] [[H559|said,]] [[H2088|“This]] [[H1004|is the house]] [[H3068|of the LORD]] [[H430|God,]] [[H2088|and this]] [[H4196|is the altar]] [[H5930|of burnt offering]] [[H3478|for Israel.”]] ^2201
 
+[[H1732|So David]] [[H559|gave orders]] [[H3664|to gather]] [[H1616|the foreigners]] [[H776|in the land]] [[H3478|of Israel,]] [[H5975|from whom he appointed]] [[H2672|stonecutters]] [[H2672|to prepare]] [[H1496|finished]] [[H68|stones]] [[H1129|for building]] [[H1004|the house]] [[H430|of God.]] ^2202
 
-Now when David lived in his house, David said to Nathan the prophet, Behold, I dwell in a house of cedar, but the ark of the covenant of the Lord is under a tent. ^1701
+[[H1732|David]] [[H3559|provided]] [[H7230|a large quantity of]] [[H1270|iron]] [[H4548|to make the nails]] [[H1817|for the doors]] [[H8179|of the gateways]] [[H4226|and for the fittings,]] [[H7230|together with more]] [[H5178|bronze]] [[H4948|than could be weighed]] ^2203
 
-And Nathan said to David, Do all that is in your heart, for God is with you. ^1702
+[[H4557|and more]] [[H730|cedar]] [[H6086|logs]] [[H369|than could be counted;]] [[H3588|for]] [[H6722|the Sidonians]] [[H6876|and Tyrians]] [[H935|had brought]] [[H7230|a large quantity of]] [[H730|cedar]] [[H6086|logs]] [[H1732|to David.]] ^2204
 
-But that same night the word of the Lord came to Nathan, ^1703
+[[H1732|And David]] [[H559|said,]] [[H1121|“My son]] [[H8010|Solomon]] [[H5288|is young]] [[H7390|and inexperienced,]] [[H1004|and the house]] [[H1129|to be built]] [[H3068|for the LORD]] [[H4605|must be exceedingly]] [[H1431|magnificent—]] [[H8034|famous]] [[H8597|and glorious]] [[H3605|throughout all]] [[H776|the lands.]] [[H4994|Therefore]] [[H3559|I must make provision]] [[H1732|for it.”  So David]] [[H7230|made lavish]] [[H3559|preparations]] [[H6440|for it before]] [[H4194|his death.]] ^2205
 
-Go and tell my servant David, Thus says the Lord : It is not you who will build me a house to dwell in. ^1704
+[[H7121|Then called for]] ⟨David⟩ [[H1121|his son]] [[H8010|Solomon]] [[H6680|and instructed]] [[H1129|him to build]] [[H1004|a house]] [[H3068|for the LORD,]] [[H430|the God]] [[H3478|of Israel.]] ^2206
 
-For I have not lived in a house since the day I brought up Israel to this day, but I have gone from tent to tent and from dwelling to dwelling. ^1705
+[[H1121|“My son,”]] [[H559|said]] [[H1732|David]] [[H8010|to Solomon,]] [[H1961|“it was]] [[H5973|in]] [[H3824|my heart]] [[H1129|to build]] [[H1004|a house]] [[H8034|for the Name]] [[H3068|of the LORD]] [[H430|my God,]] ^2207
 
-In all places where I have moved with all Israel, did I speak a word with any of the judges of Israel, whom I commanded to shepherd my people, saying, Why have you not built me a house of cedar? ^1706
+[[H1697|but this word]] [[H3068|of the LORD]] [[H1961|came]] [[H5921|to me:]] [[H8210|‘You have shed]] [[H7230|much]] [[H1818|blood]] [[H6213|and waged]] [[H1419|great]] [[H4421|wars.]] [[H3808|You are not]] [[H1129|to build]] [[H1004|a house]] [[H8034|for My Name]] [[H3588|because]] [[H8210|you have shed]] [[H7227|so much]] [[H1818|blood]] [[H776|on the ground]] [[H6440|before Me.]] ^2208
 
-Now, therefore, thus shall you say to my servant David, Thus says the Lord of hosts, I took you from the pasture, from following the sheep, to be prince over my people Israel, ^1707
+[[H2009|But]] [[H1121|a son]] [[H3205|will be born]] [[H1931|to you  who]] [[H1961|will be]] [[H376|a man]] [[H4496|of rest.]] [[H5117|I will give him rest]] [[H3605|from all]] [[H341|his enemies]] [[H5439|on every side;]] [[H3588|for]] [[H8034|his name]] [[H1961|will be]] [[H8010|Solomon,]] [[H5414|and I will grant]] [[H5921|to]] [[H3478|Israel]] [[H7965|peace]] [[H8253|and quiet]] [[H3117|during his reign.]] ^2209
 
-and I have been with you wherever you have gone and have cut off all your enemies from before you. And I will make for you a name, like the name of the great ones of the earth. ^1708
+[[H1931|He]] [[H1129|is the one who will build]] [[H1004|a house]] [[H8034|for My Name.]] [[H1931|He]] [[H1961|will be]] [[H1121|My son,]] [[H589|and I]] ⟨will be⟩ [[H1|his  Father.]] [[H3559|And I will establish]] [[H3678|the throne]] [[H4438|of his kingdom]] [[H5921|over]] [[H3478|Israel]] [[H5704|forever.’]] ^2210
 
-And I will appoint a place for my people Israel and will plant them, that they may dwell in their own place and be disturbed no more. And violent men shall waste them no more, as formerly, ^1709
+[[H6258|Now,]] [[H1121|my son,]] [[H3068|may the LORD]] [[H1961|be]] [[H5973|with you,]] [[H6743|and may you succeed]] [[H1129|in building]] [[H1004|the house]] [[H3068|of the LORD]] [[H430|your God,]] [[H834|as]] [[H1696|He said]] [[H5921|you would.]] ^2211
 
-from the time that I appointed judges over my people Israel. And I will subdue all your enemies. Moreover, I declare to you that the Lord will build you a house. ^1710
+[[H389|Above all,]] [[H3068|may the LORD]] [[H5414|give]] [[H7922|you insight]] [[H998|and understanding]] [[H6680|when He puts you in command]] [[H5921|over]] [[H3478|Israel,]] [[H8104|so that you may keep]] [[H8451|the law]] [[H3068|of the LORD]] [[H430|your God.]] ^2212
 
-When your days are fulfilled to walk with your fathers, I will raise up your offspring after you, one of your own sons, and I will establish his kingdom. ^1711
+[[H227|Then]] [[H6743|you will succeed,]] [[H518|if]] [[H8104|you carefully]] [[H6213|follow]] [[H2706|the statutes]] [[H4941|and ordinances]] [[H834|that]] [[H3068|the LORD]] [[H6680|commanded]] [[H4872|Moses]] [[H5921|for]] [[H3478|Israel.]] [[H2388|Be strong]] [[H553|and courageous.]] [[H408|Do not]] [[H3372|be afraid]] [[H2865|or discouraged.]] ^2213
 
-He shall build a house for me, and I will establish his throne forever. ^1712
+[[H2009|Now behold,]] [[H6040|I have taken great pains]] [[H3559|to provide]] [[H1004|for the house]] [[H3068|of the LORD—]] [[H3967|100,000 {}]] [[H3603|talents]] [[H2091|of gold,]] [[H505|1,000,000 {}]] [[H3603|talents]] [[H3701|of silver,]] [[H5178|and bronze]] [[H1270|and iron]] [[H3588|too great]] [[H4948|to be weighed.]] [[H3559|I have also provided]] [[H6086|timber]] [[H68|and stone,]] [[H3254|but you will need to add]] [[H5921|to them.]] ^2214
 
-I will be to him a father, and he shall be to me a son. I will not take my steadfast love from him, as I took it from him who was before you, ^1713
+[[H5973|You also have]] [[H7230|many]] [[H6213|workers:]] [[H2672|stonecutters,]] [[H2796|masons,]] [[H6086|carpenters,]] [[H2450|and men skilled]] [[H3605|in every kind]] [[H4399|of work—]] ^2215
 
-but I will confirm him in my house and in my kingdom forever, and his throne shall be established forever. ^1714
+[[H2091|in gold]] [[H3701|and silver,]] [[H5178|bronze]] [[H1270|and iron—]] ⟨craftsmen⟩ [[H369|beyond]] [[H4557|number.]] [[H6965|Now begin]] [[H6213|the work,]] [[H3068|and may the LORD]] [[H1961|be]] [[H5973|with you.”]] ^2216
 
-In accordance with all these words, and in accordance with all this vision, Nathan spoke to David. ^1715
+[[H1732|Then David]] [[H6680|ordered]] [[H3605|all]] [[H8269|the leaders]] [[H3478|of Israel]] [[H5826|to help]] [[H1121|his son]] [[H8010|Solomon:]] ^2217
 
-Then King David went in and sat before the Lord and said, Who am I, O Lord God, and what is my house, that you have brought me thus far? ^1716
+[[H3808|“ not]] ⟨Is⟩ [[H3068|the LORD]] [[H430|your God]] [[H5973|with you,]] [[H5117|and has He not granted you rest]] [[H5439|on every side?]] [[H3588|For]] [[H5414|He has given]] [[H3427|the inhabitants]] [[H776|of the land]] [[H3027|into my hand,]] [[H776|and the land]] [[H3533|has been subdued]] [[H6440|before]] [[H3068|the LORD]] [[H5971|and His people.]] ^2218
 
-And this was a small thing in your eyes, O God. You have also spoken of your servant’s house for a great while to come, and have shown me future generations, O Lord God! ^1717
+[[H6258|Now]] [[H5414|set]] [[H3824|your heart]] [[H5315|and soul]] [[H1875|to seek]] [[H3068|the LORD]] [[H430|your God.]] [[H6965|Get started]] [[H1129|building]] [[H4720|the sanctuary]] [[H3068|of the LORD]] [[H430|God,]] [[H935|so that you may bring]] [[H727|the ark]] [[H1285|of the covenant]] [[H3068|of the LORD]] [[H6944|and the holy]] [[H3627|articles]] [[H430|of God]] [[H1004|into the temple]] [[H1129|that will be built]] [[H8034|for the Name]] [[H3068|of the LORD.]] ^2219
 
-And what more can David say to you for honoring your servant? For you know your servant. ^1718
+[[H935|So they brought]] [[H727|the ark]] [[H430|of God]] [[H3322|and placed]] [[H8432|it inside]] [[H168|the tent]] [[H834|that]] [[H1732|David]] [[H5186|had pitched]] [[H7126|for it.  And they presented]] [[H5930|burnt offerings]] [[H8002|and peace offerings]] [[H6440|before]] [[H430|God.]] ^1601
 
-For your servant’s sake, O Lord, and according to your own heart, you have done all this greatness, in making known all these great things. ^1719
+[[H1732|When David]] [[H3615|had finished]] [[H5927|sacrificing]] [[H5930|the burnt offerings]] [[H8002|and peace offerings,]] [[H1288|he blessed]] [[H5971|the people]] [[H8034|in the name]] [[H3068|of the LORD.]] ^1602
 
-There is none like you, O Lord, and there is no God besides you, according to all that we have heard with our ears. ^1720
+[[H2505|Then he distributed]] [[H3605|to each and every]] [[H376|Israelite,]] [[H376|both men]] [[H5704|and]] [[H802|women,]] [[H3603|a loaf]] [[H3899|of bread,]] [[H829|a date cake,]] [[H809|and a raisin cake.]] ^1603
 
-And who is like your people Israel, the one nation on earth whom God went to redeem to be his people, making for yourself a name for great and awesome things, in driving out nations before your people whom you redeemed from Egypt? ^1721
+[[H5414|David appointed]] [[H4480|some of]] [[H3881|the Levites]] [[H8334|to minister]] [[H6440|before]] [[H727|the ark]] [[H3068|of the LORD,]] [[H2142|to celebrate,]] [[H3034|to give thanks,]] [[H1984|and to praise]] [[H3068|the LORD,]] [[H430|the God]] [[H3478|of Israel.]] ^1604
 
-And you made your people Israel to be your people forever, and you, O Lord, became their God. ^1722
+[[H623|Asaph]] [[H7218|was the chief,]] [[H2148|Zechariah]] [[H4932|was second,]] ⟨then⟩ [[H3273|Jeiel,]] [[H8070|Shemiramoth,]] [[H3171|Jehiel,]] [[H4993|Mattithiah,]] [[H446|Eliab,]] [[H1141|Benaiah,]] [[H5654|Obed-edom,]] [[H3273|and Jeiel.]] [[H5035|They were to play the harps]] [[H3658|and lyres,]] [[H623|while Asaph]] [[H8085|sounded]] [[H4700|the cymbals]] ^1605
 
-And now, O Lord, let the word that you have spoken concerning your servant and concerning his house be established forever, and do as you have spoken, ^1723
+[[H3548|and the priests]] [[H1141|Benaiah]] [[H3166|and Jahaziel]] [[H2689|blew the trumpets]] [[H8548|regularly]] [[H6440|before]] [[H727|the ark]] [[H1285|of the covenant]] [[H430|of God.]] ^1606
 
-and your name will be established and magnified forever, saying, The Lord of hosts, the God of Israel, is Israel’s God, and the house of your servant David will be established before you. ^1724
+[[H1931|On that]] [[H3117|day]] [[H1732|David]] [[H7218|first]] [[H5414|committed]] [[H3027|to]] [[H623|Asaph]] [[H251|and his brothers]] ⟨this song⟩ [[H3034|of thanksgiving]] [[H3068|to the LORD:]] ^1607
 
-For you, my God, have revealed to your servant that you will build a house for him. Therefore your servant has found courage to pray before you. ^1725
+[[H3034|“Give thanks]] [[H3068|to the LORD;]] [[H7121|call]] [[H8034|upon His name;]] [[H3045|make known]] [[H5949|His deeds]] [[H5971|among the nations.]] ^1608
 
-And now, O Lord, you are God, and you have promised this good thing to your servant. ^1726
+[[H7891|Sing]] [[H2167|to Him,  sing praises]] [[H7878|to Him;  tell]] [[H3605|of all]] [[H6381|His wonders.]] ^1609
 
-Now you have been pleased to bless the house of your servant, that it may continue forever before you, for it is you, O Lord, who have blessed, and it is blessed forever. ^1727
+[[H1984|Glory]] [[H6944|in His holy]] [[H8034|name;]] [[H3820|let the hearts]] [[H1245|of those who seek]] [[H3068|the LORD]] [[H8055|rejoice.]] ^1610
 
+[[H1875|Seek out]] [[H3068|the LORD]] [[H5797|and His strength;]] [[H1245|seek]] [[H6440|His face]] [[H8548|always.]] ^1611
 
+[[H2142|Remember]] [[H6381|the wonders]] [[H6213|He has done,]] [[H4159|His marvels,]] [[H4941|and the judgments]] [[H6310|He has pronounced,]] ^1612
 
-After this David defeated the Philistines and subdued them, and he took Gath and its villages out of the hand of the Philistines. ^1801
+[[H2233|O offspring]] [[H3478|of Israel]] [[H5650|His servant,]] [[H1121|O sons]] [[H3290|of Jacob,]] [[H972|His chosen ones.]] ^1613
 
-And he defeated Moab, and the Moabites became servants to David and brought tribute. ^1802
+[[H1931|He]] [[H3068|is the LORD]] [[H430|our God;]] [[H4941|His judgments]] ⟨carry⟩ [[H3605|throughout]] [[H776|the earth.]] ^1614
 
-David also defeated Hadadezer king of Zobah-Hamath, as he went to set up his monument at the river Euphrates. ^1803
+[[H2142|Remember]] [[H1285|His covenant]] [[H5769|forever,]] [[H1697|the word]] [[H6680|He ordained]] [[H505|for a thousand]] [[H1755|generations—]] ^1615
 
-And David took from him 1,000 chariots, 7,000 horsemen, and 20,000 foot soldiers. And David hamstrung all the chariot horses, but left enough for 100 chariots. ^1804
+⟨the covenant⟩ [[H834|]] [[H3772|He made]] [[H854|with]] [[H85|Abraham,]] [[H7621|and the oath He swore]] [[H3327|to Isaac.]] ^1616
 
-And when the Syrians of Damascus came to help Hadadezer king of Zobah, David struck down 22,000 men of the Syrians. ^1805
+[[H5975|He confirmed it]] [[H3290|to Jacob]] [[H2706|as a decree,]] [[H3478|to Israel]] [[H5769|as an everlasting]] [[H1285|covenant:]] ^1617
 
-Then David put garrisons in Syria of Damascus, and the Syrians became servants to David and brought tribute. And the Lord gave victory to David wherever he went. ^1806
+[[H5414|‘I will give]] [[H776|you  the land]] [[H3667|of Canaan]] [[H2256|as the portion]] [[H5159|of your inheritance.’]] ^1618
 
-And David took the shields of gold that were carried by the servants of Hadadezer and brought them to Jerusalem. ^1807
+[[H1961|When they were]] [[H4962|few]] [[H4557|in number,]] [[H4592|few indeed,]] [[H1481|and strangers]] ^1619
 
-And from Tibhath and from Cun, cities of Hadadezer, David took a large amount of bronze. With it Solomon made the bronze sea and the pillars and the vessels of bronze. ^1808
+[[H1980|they wandered]] [[H1471|from nation]] [[H413|to]] [[H1471|nation]] [[H4467|from kingdom]] ⟨one⟩ [[H413|to]] [[H312|another.]] ^1620
 
-When Tou king of Hamath heard that David had defeated the whole army of Hadadezer, king of Zobah, ^1809
+[[H3240|He let]] [[H3808|no]] [[H376|man]] [[H6231|oppress them;]] [[H3198|He rebuked]] [[H4428|kings]] [[H5921|on their behalf:]] ^1621
 
-he sent his son Hadoram to King David, to ask about his health and to bless him because he had fought against Hadadezer and defeated him; for Hadadezer had often been at war with Tou. And he sent all sorts of articles of gold, of silver, and of bronze. ^1810
+[[H408|‘Do not]] [[H5060|touch]] [[H4899|My anointed ones;]] [[H408|do no harm]] [[H5030|to My prophets.’]] ^1622
 
-These also King David dedicated to the Lord, together with the silver and gold that he had carried off from all the nations, from Edom, Moab, the Ammonites, the Philistines, and Amalek. ^1811
+[[H7891|Sing]] [[H3068|to the LORD,]] [[H3605|all]] [[H776|the earth.]] [[H1319|Proclaim]] [[H3444|His salvation]] [[H3117|day]] [[H413|after]] [[H3117|day.]] ^1623
 
-And Abishai, the son of Zeruiah, killed 18,000 Edomites in the Valley of Salt. ^1812
+[[H5608|Declare]] [[H3519|His glory]] [[H1471|among the nations,]] [[H6381|His wonders]] [[H3605|among all]] [[H5971|peoples.]] ^1624
 
-Then he put garrisons in Edom, and all the Edomites became David’s servants. And the Lord gave victory to David wherever he went. ^1813
+[[H3588|For]] [[H1419|great]] [[H3068|is the LORD,]] [[H3966|and greatly]] [[H1984|to be praised;]] [[H1931|He is to be feared]] [[H5921|above]] [[H3605|all]] [[H430|gods.]] ^1625
 
-So David reigned over all Israel, and he administered justice and equity to all his people. ^1814
+[[H3588|For]] [[H3605|all]] [[H430|the gods]] [[H5971|of the nations]] [[H457|are idols,]] [[H3068|but the LORD]] ⟨it is⟩ [[H6213|who made]] [[H8064|the heavens.]] ^1626
 
-And Joab the son of Zeruiah was over the army; and Jehoshaphat the son of Ahilud was recorder; ^1815
+[[H1935|Splendor]] [[H1926|and majesty]] [[H6440|are before Him;]] [[H5797|strength]] [[H2304|and joy]] [[H4725|fill His dwelling.]] ^1627
 
-and Zadok the son of Ahitub and Ahimelech the son of Abiathar were priests; and Shavsha was secretary; ^1816
+[[H3051|Ascribe]] [[H3068|to the LORD,]] [[H4940|O families]] [[H5971|of the nations,]] [[H3051|ascribe]] [[H3068|to the LORD]] [[H3519|glory]] [[H5797|and strength.]] ^1628
 
-and Benaiah the son of Jehoiada was over the Cherethites and the Pelethites; and David’s sons were the chief officials in the service of the king. ^1817
+[[H3051|Ascribe]] [[H3068|to the LORD]] [[H3519|the glory]] ⟨due⟩ [[H8034|His name;]] [[H5375|bring]] [[H4503|an offering]] [[H935|and come]] [[H6440|before Him.]] [[H7812|Worship]] [[H3068|the LORD]] [[H1927|in the splendor]] [[H6944|of His holiness;]] ^1629
 
+[[H2342|tremble]] [[H6440|before Him,]] [[H3605|all]] [[H776|the earth.]] [[H8398|The world]] [[H3559|is firmly established;]] [[H1077|it cannot]] [[H4131|be moved.]] ^1630
 
+[[H8064|Let the heavens]] [[H8056|be glad,]] [[H776|and the earth]] [[H1523|rejoice;]] [[H559|let them say]] [[H1471|among the nations,]] [[H3068|‘The LORD]] [[H4427|reigns!’]] ^1631
 
-Now after this Nahash the king of the Ammonites died, and his son reigned in his place. ^1901
+[[H3220|Let the sea]] [[H7481|resound,]] [[H4393|and all that fills it;]] [[H7704|let the fields]] [[H5970|exult,]] [[H3605|and all]] [[H834|that]] ⟨is⟩ ^1632
 
-And David said, I will deal kindly with Hanun the son of Nahash, for his father dealt kindly with me. So David sent messengers to console him concerning his father. And David’s servants came to the land of the Ammonites to Hanun to console him. ^1902
+[[H227|Then]] [[H6086|the trees]] [[H3293|of the forest]] [[H7442|will sing for joy]] [[H6440|before]] [[H3068|the LORD,]] [[H3588|for]] [[H935|He is coming]] [[H8199|to judge]] [[H776|the earth.]] ^1633
 
-But the princes of the Ammonites said to Hanun, Do you think, because David has sent comforters to you, that he is honoring your father? Have not his servants come to you to search and to overthrow and to spy out the land? ^1903
+[[H3034|Give thanks]] [[H3068|to the LORD,]] [[H3588|for]] [[H2896|He is good;]] [[H2617|His loving devotion]] [[H5769|endures forever.]] ^1634
 
-So Hanun took David’s servants and shaved them and cut off their garments in the middle, at their hips, and sent them away; ^1904
+[[H559|Then cry out:]] [[H3467|‘Save us,]] [[H430|O God]] [[H3468|of our salvation;]] [[H6908|gather]] [[H5337|and deliver us]] [[H4480|from]] [[H1471|the nations,]] [[H3034|that we may give thanks]] [[H6944|to Your holy]] [[H8034|name,]] [[H7623|that we may glory]] [[H8416|in Your praise.’]] ^1635
 
-and they departed. When David was told concerning the men, he sent messengers to meet them, for the men were greatly ashamed. And the king said, Remain at Jericho until your beards have grown and then return. ^1905
+[[H1288|Blessed]] ⟨be⟩ [[H3068|the LORD,]] [[H430|the God]] [[H3478|of Israel,]] [[H4480|from]] [[H5769|everlasting]] [[H5704|to]] [[H5769|everlasting.”]] [[H3605|Then all]] [[H5971|the people]] [[H559|said,]] [[H543|“Amen!”]] [[H1984|and “Praise]] [[H3068|the LORD!”]] ^1636
 
-When the Ammonites saw that they had become a stench to David, Hanun and the Ammonites sent 1,000 talents of silver to hire chariots and horsemen from Mesopotamia, from Aram-maacah, and from Zobah. ^1906
+[[H5800|So David left]] [[H623|Asaph]] [[H251|and his brothers]] [[H8033|there]] [[H6440|before]] [[H727|the ark]] [[H1285|of the covenant]] [[H3068|of the LORD,]] [[H8334|to minister]] ⟨there⟩ [[H6440|]] [[H8548|regularly]] [[H3117|according to the daily]] [[H1697|requirements,]] ^1637
 
-They hired 32,000 chariots and the king of Maacah with his army, who came and encamped before Medeba. And the Ammonites were mustered from their cities and came to battle. ^1907
+[[H5654|along with  Obed-edom]] [[H8346|and his sixty-eight]] [[H251|relatives.]] [[H5654|Obed-edom]] [[H1121|son]] [[H3038|of Jeduthun,]] [[H2621|and also Hosah,]] [[H7778|were to be gatekeepers.]] ^1638
 
-When David heard of it, he sent Joab and all the army of the mighty men. ^1908
+[[H853|And]] [[H6659|David left Zadok]] [[H3548|the priest]] [[H251|and his fellow]] [[H3548|priests]] [[H6440|before]] [[H4908|the tabernacle]] [[H3068|of the LORD]] [[H1116|at the high place]] [[H1391|in Gibeon]] ^1639
 
-And the Ammonites came out and drew up in battle array at the entrance of the city, and the kings who had come were by themselves in the open country. ^1909
+[[H8548|to regularly]] [[H5927|present]] [[H5930|burnt offerings]] [[H3068|to the LORD]] [[H5921|on]] [[H4196|the altar]] [[H5930|of burnt offerings,]] [[H1242|morning]] [[H6153|and evening,]] [[H3605|according to all]] [[H3789|that was written]] [[H8451|in the law]] [[H3068|of the LORD,]] [[H834|which]] [[H6680|He had commanded]] [[H3478|Israel to keep.]] ^1640
 
-When Joab saw that the battle was set against him both in front and in the rear, he chose some of the best men of Israel and arrayed them against the Syrians. ^1910
+[[H5973|With them]] [[H1968|were Heman,]] [[H3038|Jeduthun,]] [[H7605|and the rest]] [[H1305|of those chosen]] [[H5344|and designated]] [[H8034|by name]] [[H3034|to give thanks]] [[H3068|to the LORD,]] [[H3588|for]] [[H2617|“His loving devotion]] [[H5769|endures forever.”]] ^1641
 
-The rest of his men he put in the charge of Abishai his brother, and they were arrayed against the Ammonites. ^1911
+[[H1968|Heman]] [[H3038|and Jeduthun]] [[H5973|had with them]] [[H2689|trumpets]] [[H4700|and cymbals]] [[H8085|for the music]] [[H3627|and instruments]] ⟨for⟩ [[H7892|the songs]] [[H430|of God.]] [[H1121|And the sons]] [[H3038|of Jeduthun]] [[H8179|were stationed at the gate.]] ^1642
 
-And he said, If the Syrians are too strong for me, then you shall help me, but if the Ammonites are too strong for you, then I will help you. ^1912
+[[H3605|Then all]] [[H5971|the people]] [[H1980|departed]] [[H1004|for their homes,]] [[H1732|and David]] [[H5437|returned home]] [[H1288|to bless]] [[H1004|his household.]] ^1643
 
-Be strong, and let us use our strength for our people and for the cities of our God, and may the Lord do what seems good to him. ^1913
 
-So Joab and the people who were with him drew near before the Syrians for battle, and they fled before him. ^1914
 
-And when the Ammonites saw that the Syrians fled, they likewise fled before Abishai, Joab’s brother, and entered the city. Then Joab came to Jerusalem. ^1915
+[[H1121|The descendants]] [[H3063|of Judah:]] [[H6557|Perez,]] [[H2696|Hezron,]] [[H3756|Carmi,]] [[H2354|Hur,]] [[H7732|and Shobal.]] ^0401
 
-But when the Syrians saw that they had been defeated by Israel, they sent messengers and brought out the Syrians who were beyond the Euphrates, with Shophach the commander of the army of Hadadezer at their head. ^1916
+[[H7211|Reaiah]] [[H1121|son]] [[H7732|of Shobal]] [[H3205|was the father of]] [[H3189|Jahath,]] [[H3189|and Jahath]] [[H3205|was the father of]] [[H267|Ahumai]] [[H3855|and Lahad.]] [[H428|These]] [[H4940|were the clans]] [[H6882|of the Zorathites.]] ^0402
 
-And when it was told to David, he gathered all Israel together and crossed the Jordan and came to them and drew up his forces against them. And when David set the battle in array against the Syrians, they fought with him. ^1917
+[[H428|These]] ⟨were⟩ [[H1|the sons]] [[H5862|of Etam:]] [[H3157|Jezreel,]] [[H3457|Ishma,]] [[H3031|and Idbash.]] [[H269|And their sister]] [[H8034|was named]] [[H6753|Hazzelelponi.]] ^0403
 
-And the Syrians fled before Israel, and David killed of the Syrians the men of 7,000 chariots and 40,000 foot soldiers, and put to death also Shophach the commander of their army. ^1918
+[[H6439|Penuel]] [[H1|was the father]] [[H1446|of Gedor,]] [[H5829|and Ezer]] [[H1|was the father of]] [[H2364|Hushah.]] [[H428|These]] [[H1121|were the descendants]] [[H2354|of Hur,]] [[H1060|the firstborn]] [[H672|of Ephrath]] [[H1|and the father]] [[H1035|of Bethlehem:]] ^0404
 
-And when the servants of Hadadezer saw that they had been defeated by Israel, they made peace with David and became subject to him. So the Syrians were not willing to save the Ammonites anymore. ^1919
+[[H806|Ashhur]] [[H1|was the father of]] [[H8620|Tekoa]] [[H1961|and had]] [[H8147|two]] [[H802|wives,]] [[H2458|Helah]] [[H5292|and Naarah.]] ^0405
 
+[[H5292|Naarah]] [[H3205|bore]] [[H275|to him  Ahuzzam,]] [[H2660|Hepher,]] [[H8488|Temeni,]] [[H326|and Haahashtari.]] [[H428|These]] [[H1121|were the descendants]] [[H5292|of Naarah.]] ^0406
 
+[[H1121|The sons]] [[H2458|of Helah]] ⟨were⟩ [[H6889|Zereth,]] [[H3328|Zohar,]] [[H869|and Ethnan,]] ^0407
 
-In the spring of the year, the time when kings go out to battle, Joab led out the army and ravaged the country of the Ammonites and came and besieged Rabbah. But David remained at Jerusalem. And Joab struck down Rabbah and overthrew it. ^2001
+[[H6976|and Koz,]] [[H3205|who was the father of]] [[H6036|Anub,]] [[H6637|Zobebah,]] [[H4940|and the clans]] [[H316|of Aharhel]] [[H1121|son]] [[H2037|of Harum.]] ^0408
 
-And David took the crown of their king from his head. He found that it weighed a talent of gold, and in it was a precious stone. And it was placed on David’s head. And he brought out the spoil of the city, a very great amount. ^2002
+[[H3258|Now Jabez]] [[H1961|was]] [[H3513|more honorable]] [[H251|than his brothers.]] [[H517|His mother]] [[H7121|had named]] [[H3258|him Jabez,]] [[H559|saying,]] [[H3588|“Because]] [[H3205|I bore]] ⟨him⟩ [[H6090|in pain.”]] ^0409
 
-And he brought out the people who were in it and set them to labor with saws and iron picks and axes. And thus David did to all the cities of the Ammonites. Then David and all the people returned to Jerusalem. ^2003
+[[H3258|And Jabez]] [[H7121|called out]] [[H430|to the God]] [[H3478|of Israel,]] [[H518|“If only]] [[H1288|You would bless me]] [[H7235|and enlarge]] [[H1366|my territory!]] [[H3027|May Your hand]] [[H1961|be]] [[H5973|with me]] [[H6213|and keep me]] [[H7451|from harm,]] [[H1115|so that I will be free]] [[H6087|from pain.”]] [[H430|And God]] [[H935|granted]] [[H7592|the request]] [[H853|of]] ⟨Jabez⟩. ^0410
 
-And after this there arose war with the Philistines at Gezer. Then Sibbecai the Hushathite struck down Sippai, who was one of the descendants of the giants, and the Philistines were subdued. ^2004
+[[H3620|Kelub]] [[H251|the brother]] [[H7746|of Shuhah]] [[H3205|was the father of]] [[H4243|Mehir,]] [[H1931|who]] [[H1|was the father]] [[H850|of Eshton.]] ^0411
 
-And there was again war with the Philistines, and Elhanan the son of Jair struck down Lahmi the brother of Goliath the Gittite, the shaft of whose spear was like a weaver’s beam. ^2005
+[[H850|Eshton]] [[H3205|was the father of]] [[H1051|Beth-rapha,]] [[H6454|of Paseah,]] [[H8468|and of Tehinnah]] [[H1|the father]] [[H5904|of Ir-nahash.]] [[H428|These]] [[H376|were the men]] [[H7397|of Recah.]] ^0412
 
-And there was again war at Gath, where there was a man of great stature, who had six fingers on each hand and six toes on each foot, twenty-four in number, and he also was descended from the giants. ^2006
+[[H1121|The sons]] [[H7073|of Kenaz:]] [[H6274|Othniel]] [[H8304|and Seraiah.]] [[H1121|The sons]] [[H6274|of Othniel:]] [[H2867|Hathath and Meonothai.]] ^0413
 
-And when he taunted Israel, Jonathan the son of Shimea, David’s brother, struck him down. ^2007
+[[H4587|Meonothai]] [[H3205|was the father of]] [[H6084|Ophrah,]] [[H8304|and Seraiah]] [[H3205|was the father of]] [[H3097|Joab,]] [[H1|the father]] [[H1516|of those living in]] [[H2798|Ge-harashim,]] ⟨which was called this⟩ [[H3588|because]] [[H1961|they were]] [[H2796|craftsmen.]] ^0414
 
-These were descended from the giants in Gath, and they fell by the hand of David and by the hand of his servants. ^2008
+[[H1121|The sons]] [[H3612|of Caleb]] [[H1121|son]] [[H3312|of Jephunneh:]] [[H5900|Iru,]] [[H425|Elah,]] [[H5277|and Naam.]] [[H1121|The son]] [[H425|of Elah:]] [[H7073|Kenaz.]] ^0415
 
+[[H1121|The sons]] [[H3094|of Jehallelel:]] [[H2128|Ziph,]] [[H2129|Ziphah,]] [[H8493|Tiria,]] [[H840|and Asarel.]] ^0416
 
+[[H1121|The sons]] [[H5834|of Ezrah:]] [[H3500|Jether,]] [[H4778|Mered,]] [[H6081|Epher,]] [[H3210|and Jalon.]] [[H2029|And Mered’s wife Bithiah gave birth to]] [[H4813|Miriam,]] [[H8060|Shammai,]] [[H3431|and Ishbah]] [[H1|the father]] [[H851|of Eshtemoa.]] ^0417
 
-Then Satan stood against Israel and incited David to number Israel. ^2101
+[[H428|These]] [[H1121|were the sons]] [[H6547|of Pharaoh’s]] [[H1323|daughter]] [[H1332|Bithiah.]] [[H4778|Mered also]] [[H3947|took]] [[H3057|a Judean]] [[H802|wife,]] [[H3205|who gave birth to]] [[H3382|Jered]] [[H1|the father]] [[H1446|of Gedor,]] [[H2268|Heber]] [[H1|the father]] [[H7755|of Soco,]] [[H3354|and Jekuthiel]] [[H1|the father]] [[H2182|of Zanoah.]] ^0418
 
-So David said to Joab and the commanders of the army, Go, number Israel, from Beersheba to Dan, and bring me a report, that I may know their number. ^2102
+[[H1121|The sons]] [[H1940|of Hodiah’s]] [[H802|wife,]] [[H269|the sister]] [[H5163|of Naham,]] ⟨were⟩ [[H1|the fathers]] [[H7084|of Keilah]] [[H1636|the Garmite]] [[H851|and of Eshtemoa]] [[H4602|the Maacathite.]] ^0419
 
-But Joab said, May the Lord add to his people a hundred times as many as they are! Are they not, my lord the king, all of them my lord’s servants? Why then should my lord require this? Why should it be a cause of guilt for Israel? ^2103
+[[H1121|The sons]] [[H7889|of Shimon:]] [[H550|Amnon,]] [[H7441|Rinnah,]] [[H1135|Ben-hanan,]] [[H8436|and Tilon.]] [[H1121|The descendants]] [[H3469|of Ishi:]] [[H2105|Zoheth]] [[H1132|and  Ben-zoheth.]] ^0420
 
-But the king’s word prevailed against Joab. So Joab departed and went throughout all Israel and came back to Jerusalem. ^2104
+[[H1121|The sons]] [[H7956|of Shelah]] [[H1121|son]] [[H3063|of Judah:]] [[H6147|Er]] [[H1|the father]] [[H3922|of Lecah,]] [[H3935|Laadah]] [[H1|the father]] [[H4762|of Mareshah]] [[H4940|and the clans]] [[H948|of the linen]] [[H5656|workers]] [[H1004|at Beth-ashbea,]] ^0421
 
-And Joab gave the sum of the numbering of the people to David. In all Israel there were 1,100,000 men who drew the sword, and in Judah 470,000 who drew the sword. ^2105
+[[H3137|Jokim,]] [[H582|the men]] [[H3578|of Cozeba,]] [[H3101|and Joash]] [[H8315|and Saraph,]] [[H834|who]] [[H1166|ruled]] [[H4124|in Moab]] [[H3433|and  Jashubi-lehem.]] [[H6267|(These names are from ancient]] [[H1697|records.)]] ^0422
 
-But he did not include Levi and Benjamin in the numbering, for the king’s command was abhorrent to Joab. ^2106
+[[H1992|These]] ⟨were⟩ [[H3335|the potters]] [[H3427|who lived]] [[H5196|at Netaim]] [[H1449|and Gederah.]] [[H3427|They lived]] [[H8033|there]] [[H4399|in the service]] [[H4428|of the king.]] ^0423
 
-But God was displeased with this thing, and he struck Israel. ^2107
+[[H1121|The descendants]] [[H8095|of Simeon:]] [[H5241|Nemuel,]] [[H3226|Jamin,]] [[H3402|Jarib,]] [[H2226|Zerah,]] [[H7586|and Shaul.]] ^0424
 
-And David said to God, I have sinned greatly in that I have done this thing. But now, please take away the iniquity of your servant, for I have acted very foolishly. ^2108
+[[H1121|The sons of]] ⟨Shaul⟩: [[H7967|Shallum,]] [[H4017|Mibsam,]] [[H4927|and Mishma.]] ^0425
 
-And the Lord spoke to Gad, David’s seer, saying, ^2109
+[[H1121|The sons]] [[H4927|of Mishma:]] [[H2536|Hammuel,]] [[H2139|Zaccur,]] [[H8096|and Shimei.]] ^0426
 
-Go and say to David, Thus says the Lord, Three things I offer you; choose one of them, that I may do it to you. ^2110
+[[H8096|Shimei]] [[H8337|had sixteen]] [[H1121|sons]] [[H8337|and six]] [[H1323|daughters,]] [[H251|but his brothers]] [[H369|did not]] [[H7227|have many]] [[H1121|children,]] [[H3605|so their whole]] [[H4940|clan]] [[H3808|did not]] [[H7235|become as numerous]] [[H5704|as]] [[H1121|the sons]] [[H3063|of Judah.]] ^0427
 
-So Gad came to David and said to him, Thus says the Lord, Choose what you will: ^2111
+[[H3427|They lived]] [[H884|in Beersheba,]] [[H4137|Moladah,]] [[H2705|Hazar-shual,]] ^0428
 
-either three years of famine, or three months of devastation by your foes while the sword of your enemies overtakes you, or else three days of the sword of the Lord, pestilence on the land, with the angel of the Lord destroying throughout all the territory of Israel. Now decide what answer I shall return to him who sent me. ^2112
+[[H1090|Bilhah,]] [[H6107|Ezem,]] [[H8434|Tolad,]] ^0429
 
-Then David said to Gad, I am in great distress. Let me fall into the hand of the Lord, for his mercy is very great, but do not let me fall into the hand of man. ^2113
+[[H1328|Bethuel,]] [[H2767|Hormah,]] [[H6860|Ziklag,]] ^0430
 
-So the Lord sent a pestilence on Israel, and 70,000 men of Israel fell. ^2114
+[[H1024|Beth-marcaboth,]] [[H2702|Hazar-susim,]] [[H1011|Beth-biri,]] [[H8189|and Shaaraim.]] [[H428|These]] [[H5892|were their cities]] [[H5704|until]] [[H4427|the reign]] [[H1732|of David.]] ^0431
 
-And God sent the angel to Jerusalem to destroy it, but as he was about to destroy it, the Lord saw, and he relented from the calamity. And he said to the angel who was working destruction, It is enough; now stay your hand. And the angel of the Lord was standing by the threshing floor of Ornan the Jebusite. ^2115
+[[H2691|And their villages]] [[H5862|were Etam,]] [[H5871|Ain,]] [[H7417|Rimmon,]] [[H8507|Tochen,]] [[H6228|and Ashan—]] [[H2568|five]] ⟨towns⟩ [[H5892|—]] ^0432
 
-And David lifted his eyes and saw the angel of the Lord standing between earth and heaven, and in his hand a drawn sword stretched out over Jerusalem. Then David and the elders, clothed in sackcloth, fell upon their faces. ^2116
+[[H3605|and all]] [[H5439|their surrounding]] [[H2691|villages]] [[H5704|as]] [[H1168|far as Baal.]] [[H2063|These]] [[H4186|were their settlements,]] [[H3187|and they kept a genealogical record:]] ^0433
 
-And David said to God, Was it not I who gave command to number the people? It is I who have sinned and done great evil. But these sheep, what have they done? Please let your hand, O Lord my God, be against me and against my father’s house. But do not let the plague be on your people. ^2117
+[[H4877|Meshobab,]] [[H3230|Jamlech,]] [[H3144|Joshah]] [[H1121|son]] [[H558|of Amaziah,]] ^0434
 
-Now the angel of the Lord had commanded Gad to say to David that David should go up and raise an altar to the Lord on the threshing floor of Ornan the Jebusite. ^2118
+[[H3100|Joel,]] [[H3058|Jehu]] [[H1121|son]] [[H3143|of Joshibiah,]] [[H1121|the son]] [[H8304|of Seraiah,]] [[H1121|the son]] [[H6221|of Asiel,]] ^0435
 
-So David went up at Gad’s word, which he had spoken in the name of the Lord. ^2119
+[[H454|Elioenai,]] [[H3291|Jaakobah,]] [[H3439|Jeshohaiah,]] [[H6222|Asaiah,]] [[H5717|Adiel,]] [[H3450|Jesimiel,]] [[H1141|Benaiah,]] ^0436
 
-Now Ornan was threshing wheat. He turned and saw the angel, and his four sons who were with him hid themselves. ^2120
+[[H2124|and Ziza]] [[H1121|son]] [[H8230|of Shiphi,]] [[H1121|the son]] [[H438|of Allon,]] [[H1121|the son]] [[H3042|of Jedaiah,]] [[H1121|the son]] [[H8113|of Shimri,]] [[H1121|the son]] [[H8098|of Shemaiah.]] ^0437
 
-As David came to Ornan, Ornan looked and saw David and went out from the threshing floor and paid homage to David with his face to the ground. ^2121
+[[H428|These men]] [[H935|noted]] [[H8034|by name]] ⟨were⟩ [[H5387|the leaders]] [[H4940|of their clans.]] [[H1|Their families]] [[H6555|increased]] [[H7230|greatly,]] ^0438
 
-And David said to Ornan, Give me the site of the threshing floor that I may build on it an altar to the Lord — give it to me at its full price —that the plague may be averted from the people. ^2122
+[[H1980|and they journeyed]] [[H3996|to the entrance]] [[H1446|of Gedor,]] [[H4217|to the east side]] [[H1516|of the valley,]] [[H1245|in search of]] [[H4829|pasture]] [[H6629|for their flocks.]] ^0439
 
-Then Ornan said to David, Take it, and let my lord the king do what seems good to him. See, I give the oxen for burnt offerings and the threshing sledges for the wood and the wheat for a grain offering; I give it all. ^2123
+[[H4672|There they found]] [[H8082|rich,]] [[H2896|good]] [[H4829|pasture,]] [[H776|and the land]] [[H7342|was spacious,]] [[H8252|peaceful,]] [[H7961|and quiet,]] [[H3588|for]] [[H4480|some]] [[H2526|Hamites]] [[H3427|had lived]] [[H8033|there]] [[H6440|formerly.]] ^0440
 
-But King David said to Ornan, No, but I will buy them for the full price. I will not take for the Lord what is yours, nor offer burnt offerings that cost me nothing. ^2124
+[[H428|These]] [[H3789|who were noted]] [[H8034|by name]] [[H935|came]] [[H3117|in the days]] [[H2396|of Hezekiah]] [[H4428|king of]] [[H3063|Judah.]] [[H5221|They attacked]] ⟨the Hamites⟩ [[H4586|and Meunites]] [[H8033|there]] [[H168|in their dwellings,]] [[H2763|and they utterly destroyed them]] [[H5704|to]] [[H2088|this]] [[H3117|day.]] [[H3427|Then they settled]] [[H8478|in their place,]] [[H3588|because]] [[H4829|there was pasture]] [[H6629|for their flocks.]] ^0441
 
-So David paid Ornan 600 shekels of gold by weight for the site. ^2125
+[[H1992|And]] [[H2568|five]] [[H3967|hundred]] [[H8095|of these Simeonites]] [[H7218|led by]] [[H6410|Pelatiah,]] [[H5294|Neariah,]] [[H7509|Rephaiah,]] [[H5816|and Uzziel,]] [[H1121|the sons]] [[H3469|of Ishi,]] [[H1980|went]] [[H2022|to the hill country]] [[H8165|of Seir]] ^0442
 
-And David built there an altar to the Lord and presented burnt offerings and peace offerings and called on the Lord, and the Lord answered him with fire from heaven upon the altar of burnt offering. ^2126
+[[H5221|and struck down]] [[H7611|the remnant]] [[H6002|of the Amalekites]] [[H6413|who had escaped.]] [[H3427|And they have lived]] [[H8033|there]] [[H5704|to]] [[H2088|this]] [[H3117|day.]] ^0443
 
-Then the Lord commanded the angel, and he put his sword back into its sheath. ^2127
+[[H1732|When David]] [[H2204|was old]] [[H7646|and full of]] [[H3117|years,]] [[H1121|he installed his son]] [[H8010|Solomon]] [[H4427|as king]] [[H5921|over]] [[H3478|Israel.]] ^2301
 
-At that time, when David saw that the Lord had answered him at the threshing floor of Ornan the Jebusite, he sacrificed there. ^2128
+[[H622|Then he gathered]] [[H3605|all]] [[H8269|the leaders]] [[H3478|of Israel,]] [[H3548|as well as the priests]] [[H3881|and Levites.]] ^2302
 
-For the tabernacle of the Lord, which Moses had made in the wilderness, and the altar of burnt offering were at that time in the high place at Gibeon, ^2129
+[[H3881|The Levites]] [[H7970|thirty]] [[H1121|years of age]] [[H4605|and older]] [[H5608|were counted,]] [[H4557|and the total number]] [[H1397|of men]] [[H1961|was]] [[H7970|38,000]] ^2303
 
-but David could not go before it to inquire of God, for he was afraid of the sword of the angel of the Lord. ^2130
+[[H428|“Of these,”]] [[H6242|said David, “24,000]] [[H5329|are to oversee]] [[H4399|the work]] [[H1004|of the house]] [[H3068|of the LORD,]] [[H8337|6,000]] [[H7860|are to be officers]] [[H8199|and judges,]] ^2304
 
+[[H702|4,000]] [[H7778|are to be gatekeepers,]] [[H702|and 4,000]] [[H1984|are to praise]] [[H3068|the LORD]] [[H3627|with the instruments]] [[H6213|I have made]] [[H1984|for giving praise.”]] ^2305
 
+[[H1732|Then David]] [[H2505|divided]] ⟨the Levites⟩ [[H4256|into divisions]] [[H1121|according to the sons]] [[H3878|of Levi:]] [[H1647|Gershom,]] [[H6955|Kohath,]] [[H4847|and Merari.]] ^2306
 
-Then David said, Here shall be the house of the Lord God and here the altar of burnt offering for Israel. ^2201
+[[H1649|The Gershonites:]] [[H3936|Ladan]] [[H8096|and Shimei.]] ^2307
 
-David commanded to gather together the resident aliens who were in the land of Israel, and he set stonecutters to prepare dressed stones for building the house of God. ^2202
+[[H1121|The sons]] [[H3936|of Ladan:]] [[H3171|Jehiel]] [[H7218|was the first,]] [[H2241|then Zetham,]] [[H3100|and Joel—]] [[H7969|three]] ⟨in all⟩. ^2308
 
-David also provided great quantities of iron for nails for the doors of the gates and for clamps, as well as bronze in quantities beyond weighing, ^2203
+[[H1121|The sons]] [[H8096|of Shimei:]] [[H8013|Shelomoth,]] [[H2381|Haziel,]] [[H2039|and Haran—]] [[H7969|three]] ⟨in all⟩. [[H428|These]] ⟨were⟩ [[H7218|the heads]] [[H1|of the families]] [[H3936|of Ladan.]] ^2309
 
-and cedar timbers without number, for the Sidonians and Tyrians brought great quantities of cedar to David. ^2204
+[[H1121|And the sons]] [[H8096|of Shimei:]] [[H3189|Jahath,]] [[H2126|Zina,]] [[H3266|Jeush,]] [[H1283|and Beriah.]] [[H428|These]] ⟨were⟩ [[H1121|the sons]] [[H8096|of Shimei—]] [[H702|four]] ⟨in all⟩. ^2310
 
-For David said, Solomon my son is young and inexperienced, and the house that is to be built for the Lord must be exceedingly magnificent, of fame and glory throughout all lands. I will therefore make preparation for it. So David provided materials in great quantity before his death. ^2205
+[[H3189|Jahath]] [[H1961|was]] [[H7218|the first]] [[H2125|and Zizah]] [[H8145|was the second;]] [[H3266|but Jeush]] [[H1283|and Beriah]] [[H3808|did not]] [[H7235|have many]] [[H1121|sons,]] [[H1961|so they were counted as]] [[H1|one family]] [[H259|and received a single]] [[H6486|assignment.]] ^2311
 
-Then he called for Solomon his son and charged him to build a house for the Lord, the God of Israel. ^2206
+[[H1121|The sons]] [[H6955|of Kohath:]] [[H6019|Amram,]] [[H3324|Izhar,]] [[H2275|Hebron,]] [[H5816|and Uzziel—]] [[H702|four]] ⟨in all⟩. ^2312
 
-David said to Solomon, My son, I had it in my heart to build a house to the name of the Lord my God. ^2207
+[[H1121|The sons]] [[H6019|of Amram:]] [[H175|Aaron]] [[H4872|and Moses.]] [[H175|Aaron,]] [[H1121|along with his descendants,]] [[H914|was set apart]] [[H5704|forever]] [[H6942|to consecrate]] [[H6944|the most holy things,]] [[H6999|to burn incense]] [[H6440|before]] [[H3068|the LORD,]] [[H8334|to minister before Him,]] [[H1288|and to pronounce blessings]] [[H8034|in His name]] [[H5704|forever.]] ^2313
 
-But the word of the Lord came to me, saying, You have shed much blood and have waged great wars. You shall not build a house to my name, because you have shed so much blood before me on the earth. ^2208
+[[H4872|As for Moses]] [[H376|the man]] [[H430|of God,]] [[H1121|his sons]] [[H7121|were named]] [[H5921|among]] [[H7626|the tribe]] [[H3878|of Levi.]] ^2314
 
-Behold, a son shall be born to you who shall be a man of rest. I will give him rest from all his surrounding enemies. For his name shall be Solomon, and I will give peace and quiet to Israel in his days. ^2209
+[[H1121|The sons]] [[H4872|of Moses:]] [[H1647|Gershom]] [[H461|and Eliezer.]] ^2315
 
-He shall build a house for my name. He shall be my son, and I will be his father, and I will establish his royal throne in Israel forever. ^2210
+[[H1121|The descendants]] [[H1647|of Gershom:]] [[H7619|Shebuel]] [[H7218|was the first.]] ^2316
 
-Now, my son, the Lord be with you, so that you may succeed in building the house of the Lord your God, as he has spoken concerning you. ^2211
+[[H1121|The descendants]] [[H461|of Eliezer:]] [[H7345|Rehabiah]] [[H1961|was]] [[H7218|the first.]] [[H461|Eliezer]] [[H3808|did not]] [[H1961|have]] [[H312|any other]] [[H1121|sons,]] [[H1121|but the sons]] [[H7345|of Rehabiah]] [[H4605|were very]] [[H7235|numerous.]] ^2317
 
-Only, may the Lord grant you discretion and understanding, that when he gives you charge over Israel you may keep the law of the Lord your God. ^2212
+[[H1121|The sons]] [[H3324|of Izhar:]] [[H8019|Shelomith]] [[H7218|was first.]] ^2318
 
-Then you will prosper if you are careful to observe the statutes and the rules that the Lord commanded Moses for Israel. Be strong and courageous. Fear not; do not be dismayed. ^2213
+[[H1121|The sons]] [[H2275|of Hebron:]] [[H3404|Jeriah]] [[H7218|was first,]] [[H568|Amariah]] [[H8145|the second,]] [[H3166|Jahaziel]] [[H7992|the third,]] [[H3360|and Jekameam]] [[H7243|the fourth.]] ^2319
 
-With great pains I have provided for the house of the Lord 100,000 talents of gold, a million talents of silver, and bronze and iron beyond weighing, for there is so much of it; timber and stone, too, I have provided. To these you must add. ^2214
+[[H1121|The sons]] [[H5816|of Uzziel:]] [[H4318|Micah]] [[H7218|was first]] [[H3449|and Isshiah]] [[H8145|second.]] ^2320
 
-You have an abundance of workmen : stonecutters, masons, carpenters, and all kinds of craftsmen without number, skilled in working ^2215
+[[H1121|The sons]] [[H4847|of Merari:]] [[H4249|Mahli]] [[H4187|and Mushi.]] [[H1121|The sons]] [[H4249|of Mahli:]] [[H499|Eleazar]] [[H7027|and Kish.]] ^2321
 
-gold, silver, bronze, and iron. Arise and work! The Lord be with you! ^2216
+[[H499|Eleazar]] [[H4191|died]] [[H3808|without]] [[H1961|having]] ⟨any⟩ [[H1121|sons;]] [[H3588|he had only]] [[H1323|daughters.]] [[H251|Their cousins,]] [[H1121|the sons]] [[H7027|of Kish,]] [[H5375|married them.]] ^2322
 
-David also commanded all the leaders of Israel to help Solomon his son, saying, ^2217
+[[H1121|The sons]] [[H4187|of Mushi:]] [[H4249|Mahli,]] [[H5740|Eder,]] [[H3406|and Jeremoth—]] [[H7969|three]] ⟨in all⟩. ^2323
 
-Is not the Lord your God with you? And has he not given you peace on every side? For he has delivered the inhabitants of the land into my hand, and the land is subdued before the Lord and his people. ^2218
+[[H428|These]] [[H1121|were the descendants]] [[H3878|of Levi]] [[H1|by their families—]] [[H7218|the heads]] [[H1|of families,]] [[H6485|registered]] [[H1538|individually]] [[H8034|by name—]] [[H6242|those twenty]] [[H1121|years of age]] [[H4605|or older]] [[H6213|who worked]] [[H5656|in the service]] [[H1004|of the house]] [[H3068|of the LORD.]] ^2324
 
-Now set your mind and heart to seek the Lord your God. Arise and build the sanctuary of the Lord God, so that the ark of the covenant of the Lord and the holy vessels of God may be brought into a house built for the name of the Lord. ^2219
+[[H3588|For]] [[H1732|David]] [[H559|had said,]] [[H3068|“The LORD,]] [[H430|the God]] [[H3478|of Israel,]] [[H5117|has given rest]] [[H5971|to His people]] [[H7931|and has come to dwell]] [[H3389|in Jerusalem]] [[H5704|forever.]] ^2325
 
+[[H1571|So now]] [[H3881|the Levites]] [[H369|no]] [[H5375|longer need to carry]] [[H4908|the tabernacle]] [[H3605|or any]] [[H3627|of the articles]] [[H5656|for its service.”]] ^2326
 
+[[H3588|For]] [[H314|according to the final]] [[H1697|instructions]] [[H1732|of David,]] [[H1121|the Levites]] [[H6242|twenty]] [[H1121|years of age]] [[H4605|or older]] [[H4557|were counted,]] ^2327
 
-When David was old and full of days, he made Solomon his son king over Israel. ^2301
+[[H3588|but]] [[H4612|their duty]] [[H3027|was to assist]] [[H1121|the descendants]] [[H175|of Aaron]] [[H5656|with the service]] [[H1004|of the house]] [[H3068|of the LORD,]] [[H5921|being responsible for]] [[H2691|the courts]] [[H3957|and chambers,]] [[H2893|the purification]] [[H3605|of all]] [[H6944|the holy things,]] [[H4639|and the work]] [[H5656|of the service]] [[H1004|of the house]] [[H430|of God,]] ^2328
 
-David assembled all the leaders of Israel and the priests and the Levites. ^2302
+[[H4635|as well as for the rows]] [[H3899|of the showbread,]] [[H5560|the fine flour]] [[H4503|for the grain offering,]] [[H7550|the wafers]] [[H4682|of unleavened bread,]] [[H4227|the baking,]] [[H7246|the mixing,]] [[H3605|and all]] [[H4884|measurements of volume]] [[H4060|and size.]] ^2329
 
-The Levites, thirty years old and upward, were numbered, and the total was 38,000 men. ^2303
+[[H5975|They were also to stand]] [[H1242|every morning]] [[H3034|to give thanks]] [[H1984|and praise]] [[H3068|to the LORD,]] [[H3651|and likewise]] [[H6153|in the evening.]] ^2330
 
-Twenty-four thousand of these, David said, shall have charge of the work in the house of the Lord, 6,000 shall be officers and judges, ^2304
+[[H3605|Whenever]] [[H5930|burnt offerings]] [[H5927|were presented]] [[H3068|to the LORD]] [[H7676|on the Sabbaths,]] [[H2320|New Moons,]] [[H4150|and appointed feasts,]] [[H8548|they were to serve regularly]] [[H6440|before]] [[H3068|the LORD]] [[H4557|in the numbers]] [[H4941|prescribed]] [[H5921|for them.]] ^2331
 
-4,000 gatekeepers, and 4,000 shall offer praises to the Lord with the instruments that I have made for praise. ^2305
+[[H8104|So were to carry out]] ⟨the Levites⟩ [[H4931|the responsibilities]] [[H168|for the Tent]] [[H4150|of Meeting]] [[H853|and]] [[H6944|the Holy Place,]] [[H4931|and, under]] [[H251|their brothers]] [[H1121|the descendants]] [[H175|of Aaron,]] [[H5656|the service]] [[H1004|of the house]] [[H3068|of the LORD.]] ^2332
 
-And David organized them in divisions corresponding to the sons of Levi : Gershon, Kohath, and Merari. ^2306
+[[H1961|After]] [[H1732|David]] [[H3427|had settled]] [[H1004|into his palace,]] [[H1732|he]] [[H559|said]] [[H413|to]] [[H5416|Nathan]] [[H5030|the prophet,]] [[H2009|“Here]] [[H595|I am,]] [[H3427|living]] [[H1004|in a house]] [[H729|of cedar,]] [[H727|while the ark]] [[H1285|of the covenant]] [[H3068|of the LORD]] [[H8478|is under]] [[H3407|a tent.”]] ^1701
 
-The sons of Gershon were Ladan and Shimei. ^2307
+[[H5416|So Nathan]] [[H559|told]] [[H1732|David,]] [[H6213|“Do]] [[H3605|all]] [[H834|that]] ⟨is⟩ [[H3824|in your heart,]] [[H3588|for]] [[H430|God]] [[H5973|is with you.”]] ^1702
 
-The sons of Ladan : Jehiel the chief, and Zetham, and Joel, three. ^2308
+[[H1931|But that]] [[H3915|night]] [[H1697|the word]] [[H430|of God]] [[H1961|came]] [[H413|to]] [[H5416|Nathan,]] [[H559|saying,]] ^1703
 
-The sons of Shimei : Shelomoth, Haziel, and Haran, three. These were the heads of the fathers ’ houses of Ladan. ^2309
+[[H1980|“Go]] [[H559|and tell]] [[H5650|My servant]] [[H1732|David]] [[H3541|that this is what]] [[H3068|the LORD]] [[H559|says:]] [[H859|You]] [[H3808|are not]] [[H1129|the one to build]] [[H1004|a house]] [[H3427|for Me  to dwell in.]] ^1704
 
-And the sons of Shimei : Jahath, Zina, and Jeush and Beriah. These four were the sons of Shimei. ^2310
+[[H3588|For]] [[H3808|I have not]] [[H3427|dwelt]] [[H1004|in a house]] [[H4480|from]] [[H3117|the day]] [[H5927|I brought]] [[H3478|Israel up]] ⟨from Egypt⟩ [[H5704|until]] [[H2088|this]] [[H3117|day,]] [[H1961|but I have moved]] [[H168|from tent]] [[H413|to]] [[H168|tent]] [[H4908|and dwelling to dwelling.]] ^1705
 
-Jahath was the chief, and Zizah the second; but Jeush and Beriah did not have many sons, therefore they became counted as a single father’s house. ^2311
+[[H3605|In all]] [[H1980|My journeys]] [[H3605|with all]] [[H3478|the Israelites,]] [[H1696|have I ever asked]] [[H259|any]] ⟨of the leaders⟩ [[H8199|]] [[H3478|of Israel,]] [[H834|whom]] [[H6680|I commanded]] [[H7462|to shepherd]] [[H5971|My people,]] [[H4100|‘Why]] [[H3808|have you not]] [[H1129|built]] [[H1004|Me  a house]] [[H729|of cedar?’]] ^1706
 
-The sons of Kohath : Amram, Izhar, Hebron, and Uzziel, four. ^2312
+[[H6258|Now]] [[H3541|then,]] [[H559|you are to tell]] [[H5650|My servant]] [[H1732|David]] [[H3541|that  this is what]] [[H3068|the LORD]] [[H6635|of Hosts]] [[H559|says:]] [[H589|I]] [[H3947|took]] [[H4480|you from]] [[H5116|the pasture,]] [[H4480|from]] [[H310|following]] [[H6629|the flock,]] [[H1961|to be]] [[H5057|the ruler]] [[H5921|over]] [[H5971|My people]] [[H3478|Israel.]] ^1707
 
-The sons of Amram : Aaron and Moses. Aaron was set apart to dedicate the most holy things, that he and his sons forever should make offerings before the Lord and minister to him and pronounce blessings in his name forever. ^2313
+[[H1961|I have been]] [[H5973|with you]] [[H834|wherever]] [[H1980|you have gone,]] [[H3772|and I have cut off]] [[H3605|all]] [[H341|your enemies]] [[H6440|before you.]] [[H6213|Now I will make]] [[H8034|for you  a name]] [[H8034|like]] [[H1419|the greatest]] [[H776|in the land.]] ^1708
 
-But the sons of Moses the man of God were named among the tribe of Levi. ^2314
+[[H7760|And I will provide]] [[H4725|a place]] [[H5971|for My people]] [[H3478|Israel]] [[H5193|and will plant them]] [[H7931|so that they may dwell in]] [[H8478|a place of their own]] [[H7264|and be disturbed]] [[H3808|no]] [[H5750|more.]] [[H3808|No]] [[H3254|longer]] [[H1121|will the sons]] [[H5766|of wickedness]] [[H1086|oppress them]] [[H834|as they did]] [[H7223|at the beginning]] ^1709
 
-The sons of Moses : Gershom and Eliezer. ^2315
+[[H3117|and since the day]] ⟨have done⟩ [[H6680|I appointed]] [[H8199|judges]] [[H5921|over]] [[H5971|My people]] [[H3478|Israel.]] [[H3665|And I will subdue]] [[H3605|all]] [[H341|your enemies.]] [[H5046|Moreover, I declare]] [[H3068|to you  that the LORD]] [[H1129|will build]] [[H1004|a house]] ^1710
 
-The sons of Gershom : Shebuel the chief. ^2316
+[[H1961|And]] [[H3588|when]] [[H3117|your days]] [[H4390|are fulfilled]] [[H1980|and you go]] ⟨to be⟩ [[H5973|with]] [[H1|your fathers,]] [[H6965|I will raise up]] [[H2233|your offspring]] [[H310|after you,]] [[H1121|one of your own sons,]] [[H3559|and I will establish]] [[H4438|his kingdom.]] ^1711
 
-The sons of Eliezer : Rehabiah the chief. Eliezer had no other sons, but the sons of Rehabiah were very many. ^2317
+[[H1931|He]] [[H1129|will build]] [[H1004|a house]] [[H3559|for Me,  and I will establish]] [[H3678|his throne]] [[H5704|forever.]] ^1712
 
-The sons of Izhar : Shelomith the chief. ^2318
+[[H589|I]] [[H1961|will be]] [[H1|his  Father,]] [[H1931|and he]] [[H1961|will be]] [[H1121|My  son.]] [[H2617|And My loving devotion]] [[H3808|will never]] [[H5493|depart]] [[H5973|from him]] [[H834|as]] [[H5493|I removed]] ⟨it⟩ [[H834|from your predecessor.]] ^1713
 
-The sons of Hebron : Jeriah the chief, Amariah the second, Jahaziel the third, and Jekameam the fourth. ^2319
+[[H5975|But I will set him]] [[H1004|over My house]] [[H4438|and My kingdom]] [[H5704|forever,]] [[H3678|and his throne]] [[H1961|will be]] [[H3559|established]] [[H5704|forever.”]] ^1714
 
-The sons of Uzziel : Micah the chief and Isshiah the second. ^2320
+[[H3605|According to all]] [[H428|these]] [[H1697|words]] [[H2088|and this]] [[H3605|entire]] [[H2377|vision,]] [[H3651|so]] [[H5416|Nathan]] [[H1696|spoke]] [[H413|to]] [[H1732|David.]] ^1715
 
-The sons of Merari : Mahli and Mushi. The sons of Mahli : Eleazar and Kish. ^2321
+[[H4428|Then King]] [[H1732|David]] [[H935|went in,]] [[H3427|sat]] [[H6440|before]] [[H3068|the LORD,]] [[H559|and said,]] [[H4310|“Who]] [[H589|am I,]] [[H3068|O LORD]] [[H430|God,]] [[H4310|and what]] [[H1004|is my house,]] [[H3588|that]] [[H935|You have brought me]] [[H1988|this far?]] ^1716
 
-Eleazar died having no sons, but only daughters; their kinsmen, the sons of Kish, married them. ^2322
+[[H2063|And as if this]] [[H6994|was a small thing]] [[H5869|in Your eyes,]] [[H430|O God,]] [[H1696|You have spoken]] [[H5921|about]] [[H7350|the future]] [[H1004|of the house]] [[H5650|of Your servant]] [[H7200|and have regarded me]] [[H120|as a man]] [[H4609|of great distinction,]] [[H3068|O LORD]] [[H430|God.]] ^1717
 
-The sons of Mushi : Mahli, Eder, and Jeremoth, three. ^2323
+[[H4100|What]] [[H3254|more]] [[H1732|can David]] [[H413|say to You]] [[H3519|for so honoring]] [[H5650|Your servant?]] [[H859|For You]] [[H3045|know]] [[H5650|Your servant.]] ^1718
 
-These were the sons of Levi by their fathers ’ houses, the heads of fathers ’ houses as they were listed according to the number of the names of the individuals from twenty years old and upward who were to do the work for the service of the house of the Lord. ^2324
+[[H3068|O LORD,]] [[H5668|for the sake]] [[H5650|of Your servant]] [[H3820|and according to Your own heart,]] [[H6213|You have accomplished]] [[H2063|this]] [[H1420|great thing]] [[H3045|and revealed]] [[H3605|all]] [[H1420|Your greatness.]] ^1719
 
-For David said, The Lord, the God of Israel, has given rest to his people, and he dwells in Jerusalem forever. ^2325
+[[H3068|O LORD,]] ⟨there is⟩ [[H369|none]] [[H3644|like You,]] [[H369|and no]] ⟨there is⟩ [[H430|God]] [[H2108|besides You,]] [[H3605|according to everything]] [[H8085|we have heard]] [[H241|with our own ears.]] ^1720
 
-And so the Levites no longer need to carry the tabernacle or any of the things for its service. ^2326
+[[H4310|And who]] [[H5971|is like Your people]] [[H3478|Israel—]] [[H259|the one]] [[H1471|nation]] [[H776|on earth]] [[H834|whom]] [[H430|God]] [[H1980|went out]] [[H6299|to redeem]] [[H5971|as a people]] [[H7760|for Himself,  to make]] [[H8034|a name]] [[H1420|for Yourself  through great]] [[H3372|and awesome wonders]] [[H1644|by driving out]] [[H1471|nations]] [[H6440|from before]] [[H5971|Your people,]] [[H834|whom]] [[H6299|You redeemed]] [[H4714|from Egypt?]] ^1721
 
-For by the last words of David the sons of Levi were numbered from twenty years old and upward. ^2327
+[[H5414|For You have made]] [[H5971|Your people]] [[H3478|Israel]] [[H5704|Your very own  forever,]] [[H859|and You,]] [[H3068|O LORD,]] [[H1961|have become]] [[H430|their God.]] ^1722
 
-For their duty was to assist the sons of Aaron for the service of the house of the Lord, having the care of the courts and the chambers, the cleansing of all that is holy, and any work for the service of the house of God. ^2328
+[[H6258|And now,]] [[H3068|O LORD,]] [[H1697|let the word]] [[H1696|You have spoken]] [[H5921|concerning]] [[H5650|Your servant]] [[H1004|and his house]] [[H539|be established]] [[H5704|forever.]] [[H6213|Do]] [[H834|as]] [[H1696|You have promised,]] ^1723
 
-Their duty was also to assist with the showbread, the flour for the grain offering, the wafers of unleavened bread, the baked offering, the offering mixed with oil, and all measures of quantity or size. ^2329
+[[H8034|so that Your name]] [[H539|will be established]] [[H1431|and magnified]] [[H5704|forever]] [[H559|when it is said,]] [[H3068|‘The LORD]] [[H6635|of Hosts,]] [[H430|the God]] [[H3478|of Israel,]] [[H430|is God]] [[H3478|over Israel.’]] [[H1004|And may the house]] [[H5650|of Your servant]] [[H1732|David]] [[H3559|be established]] [[H6440|before You.]] ^1724
 
-And they were to stand every morning, thanking and praising the Lord, and likewise at evening, ^2330
+[[H3588|For]] [[H859|You,]] [[H430|my God,]] [[H1540|have revealed]] [[H5650|to Your servant]] [[H1129|that You will build]] [[H1004|a house]] [[H3651|for him.  Therefore]] [[H5650|Your servant]] [[H4672|has found the courage]] [[H6419|to pray]] [[H6440|before You.]] ^1725
 
-and whenever burnt offerings were offered to the Lord on Sabbaths, new moons, and feast days, according to the number required of them, regularly before the Lord. ^2331
+[[H6258|And now,]] [[H3068|O LORD,]] [[H859|You]] [[H1931|are]] [[H430|God!]] [[H1696|And You have promised]] [[H2063|this]] [[H2896|goodness]] [[H5921|to]] [[H5650|Your servant.]] ^1726
 
-Thus they were to keep charge of the tent of meeting and the sanctuary, and to attend the sons of Aaron, their brothers, for the service of the house of the Lord. ^2332
+[[H6258|So now]] [[H2974|You have been pleased]] [[H1288|to bless]] [[H1004|the house]] [[H5650|of Your servant,]] [[H1961|that it may continue]] [[H5769|forever]] [[H6440|before You.]] [[H3588|For]] [[H859|You,]] [[H3068|O LORD,]] [[H1288|have blessed it,]] [[H1288|and blessed]] ⟨it will be⟩ [[H5769|forever.”]] ^1727
 
+[[H1732|Then David]] [[H3289|conferred]] [[H5973|with]] [[H3605|all]] [[H5057|his leaders,]] [[H8269|the commanders]] [[H3967|of hundreds]] [[H505|and of thousands.]] ^1301
 
+[[H1732|And he]] [[H559|said]] [[H3605|to the whole]] [[H6951|assembly]] [[H3478|of Israel,]] [[H518|“If]] [[H2895|it seems good]] [[H5921|to you,]] [[H4480|and if this is]] [[H3068|of the LORD]] [[H430|our God,]] [[H7971|let us send word]] [[H6555|far and wide]] [[H5921|to]] [[H7604|the rest]] [[H251|of our brothers]] [[H3605|in all]] [[H776|the land]] [[H3478|of Israel,]] [[H5973|and also]] [[H3548|to the priests]] [[H3881|and Levites]] [[H5892|in their cities]] [[H4054|and pasturelands,]] [[H6908|so that they may join]] [[H413|us.]] ^1302
 
-The divisions of the sons of Aaron were these. The sons of Aaron : Nadab, Abihu, Eleazar, and Ithamar. ^2401
+[[H5437|Then let us bring back]] [[H727|the ark]] [[H430|of our God,]] [[H3588|for]] [[H3808|we did not]] [[H1875|inquire of Him]] [[H3117|in the days]] [[H7586|of Saul.”]] ^1303
 
-But Nadab and Abihu died before their father and had no children, so Eleazar and Ithamar became the priests. ^2402
+[[H559|And]] [[H3588|because]] [[H1697|this proposal]] [[H5869|seemed]] [[H3474|right]] [[H3605|to all]] [[H5971|the people,]] [[H3605|the whole]] [[H6951|assembly]] [[H6213|agreed to do it.]] ^1304
 
-With the help of Zadok of the sons of Eleazar, and Ahimelech of the sons of Ithamar, David organized them according to the appointed duties in their service. ^2403
+[[H1732|So David]] [[H6950|assembled]] [[H3605|all]] [[H3478|the Israelites,]] [[H4480|from]] [[H7883|the Shihor]] ⟨River⟩ [[H4714|in Egypt]] [[H5704|to Lebo-hamath,]] [[H935|to bring]] [[H727|the ark]] [[H430|of God]] [[H7157|from Kiriath-jearim.]] ^1305
 
-Since more chief men were found among the sons of Eleazar than among the sons of Ithamar, they organized them under sixteen heads of fathers ’ houses of the sons of Eleazar, and eight of the sons of Ithamar. ^2404
+[[H1732|David]] [[H3605|and all]] [[H3478|Israel]] [[H5927|went up]] [[H1173|to Baalah]] [[H834|of]] [[H3063|Judah]] [[H7157|(that is, Kiriath-jearim)]] [[H5927|to bring up]] [[H8033|from there]] [[H727|the ark]] [[H430|of God]] [[H3068|the LORD,]] [[H3427|who is enthroned]] ⟨between⟩ [[H3742|the cherubim—]] ⟨the ark⟩ [[H834|]] [[H7121|that is called]] [[H8034|by the Name.]] ^1306
 
-They divided them by lot, all alike, for there were sacred officers and officers of God among both the sons of Eleazar and the sons of Ithamar. ^2405
+[[H7392|So they carried]] [[H727|the ark]] [[H430|of God]] [[H1004|from the house]] [[H41|of Abinadab]] [[H5921|on]] [[H2319|a new]] [[H5699|cart,]] [[H5798|with Uzzah]] [[H283|and Ahio]] [[H5090|guiding]] [[H5699|the cart.]] ^1307
 
-And the scribe Shemaiah, the son of Nethanel, a Levite, recorded them in the presence of the king and the princes and Zadok the priest and Ahimelech the son of Abiathar and the heads of the fathers’ houses of the priests and of the Levites, one father’s house being chosen for Eleazar and one chosen for Ithamar. ^2406
+[[H1732|David]] [[H3605|and all]] [[H3478|the Israelites]] [[H7832|were celebrating]] [[H6440|before]] [[H430|God]] [[H3605|with all]] [[H5797|their might,]] [[H7892|with songs]] [[H3658|and on harps and lyres,]] [[H8596|with tambourines,]] [[H4700|cymbals,]] [[H2689|and trumpets.]] ^1308
 
-The first lot fell to Jehoiarib, the second to Jedaiah, ^2407
+[[H935|When they came]] [[H5704|to]] [[H1637|the threshing floor]] [[H3592|of Kidon,]] [[H5798|Uzzah]] [[H7971|reached out]] [[H270|and took hold]] [[H853|of]] [[H727|the ark,]] [[H3588|because]] [[H1241|the oxen]] [[H8058|had stumbled.]] ^1309
 
-the third to Harim, the fourth to Seorim, ^2408
+[[H639|And the anger]] [[H3068|of the LORD]] [[H2734|burned]] [[H5798|against Uzzah,]] [[H5221|and He struck him]] [[H5921|down]] [[H834|because]] [[H7971|he had put]] [[H3027|his hand]] [[H5921|on]] [[H727|the ark.]] [[H4191|So he died]] [[H8033|there]] [[H6440|before]] [[H430|God.]] ^1310
 
-the fifth to Malchijah, the sixth to Mijamin, ^2409
+[[H1732|Then David]] [[H2734|became angry]] [[H3588|because]] [[H3068|the LORD]] [[H6555|had burst forth]] [[H5798|against Uzzah;]] [[H7121|so he named]] [[H1931|that]] [[H4725|place]] [[H6560|Perez-uzza,]] [[H5704|as it is to]] ⟨called⟩ [[H2088|this]] [[H3117|day.]] ^1311
 
-the seventh to Hakkoz, the eighth to Abijah, ^2410
+[[H1931|That]] [[H3117|day]] [[H1732|David]] [[H3372|feared]] [[H430|God]] [[H559|and asked,]] [[H1963|“How]] [[H935|can I ever bring]] [[H727|the ark]] [[H430|of God]] [[H413|to me?”]] ^1312
 
-the ninth to Jeshua, the tenth to Shecaniah, ^2411
+[[H1732|So]] ⟨he⟩ [[H3808|did not]] [[H5493|move]] [[H727|the ark]] [[H413|with him]] [[H5892|to the City]] [[H1732|of David;]] [[H5186|instead, he took]] [[H413|it aside]] [[H413|to]] [[H1004|the house]] [[H5654|of Obed-edom]] [[H1663|the Gittite.]] ^1313
 
-the eleventh to Eliashib, the twelfth to Jakim, ^2412
+[[H727|Thus the ark]] [[H430|of God]] [[H3427|remained]] [[H5973|with]] [[H1004|the family]] [[H5654|of  Obed-edom]] [[H1004|in his house]] [[H7969|for three]] [[H2320|months,]] [[H3068|and the LORD]] [[H1288|blessed]] [[H5654|his]] [[H1004|household]] [[H3605|and everything]] ^1314
 
-the thirteenth to Huppah, the fourteenth to Jeshebeab, ^2413
+[[H4557|This is the list]] [[H1121|of the Israelites,]] [[H7218|the heads]] [[H1|of families,]] [[H8269|the commanders]] [[H505|of thousands]] [[H3967|and of hundreds,]] [[H7860|and their officers]] [[H8334|who served]] [[H4428|the king]] [[H3605|in every]] [[H1697|matter]] [[H4256|concerning the divisions]] [[H935|that were on rotated military duty]] [[H2320|each month]] [[H3605|throughout]] [[H8141|the year.]] [[H6242|There were 24,000 men]] [[H259|in each]] [[H4256|division:]] ^2701
 
-the fifteenth to Bilgah, the sixteenth to Immer, ^2414
+[[H3434|Jashobeam]] [[H1121|son]] [[H2068|of Zabdiel]] [[H5921|was in charge of]] [[H7223|the first]] [[H4256|division,]] ⟨which was assigned⟩ [[H7223|the first]] [[H2320|month.]] ⟨There were⟩ [[H6242|24,000]] ⟨men⟩ [[H5921|in]] [[H4256|his division.]] ^2702
 
-the seventeenth to Hezir, the eighteenth to Happizzez, ^2415
+[[H1121|He was a descendant]] [[H6557|of Perez]] [[H7218|and chief]] [[H3605|of all]] [[H6635|the army]] [[H8269|commanders]] [[H7223|for the first]] [[H2320|month.]] ^2703
 
-the nineteenth to Pethahiah, the twentieth to Jehezkel, ^2416
+[[H1737|Dodai]] [[H266|the Ahohite]] [[H5921|was in charge of]] [[H4256|the division]] [[H8145|for the second]] [[H2320|month,]] [[H4732|and Mikloth]] [[H5057|was the leader.]] ⟨There were⟩ [[H6242|24,000]] ⟨men⟩ [[H5921|in]] [[H4256|his division.]] ^2704
 
-the twenty-first to Jachin, the twenty-second to Gamul, ^2417
+[[H7992|The third]] [[H6635|army]] [[H8269|commander,]] [[H7218|as chief]] [[H7992|for the third]] [[H2320|month,]] [[H1141|was Benaiah]] [[H1121|son]] [[H3077|of Jehoiada]] [[H3548|the priest.]] ⟨There were⟩ [[H6242|24,000]] ⟨men⟩ [[H5921|in]] [[H4256|his division.]] ^2705
 
-the twenty-third to Delaiah, the twenty-fourth to Maaziah. ^2418
+[[H1931|This]] [[H1141|Benaiah]] [[H1368|was mighty]] [[H7970|among the Thirty]] [[H5921|and was over]] [[H7970|the Thirty,]] [[H1121|and his son]] [[H5990|Ammizabad]] [[H4256|was in charge of his division.]] ^2706
 
-These had as their appointed duty in their service to come into the house of the Lord according to the procedure established for them by Aaron their father, as the Lord God of Israel had commanded him. ^2419
+[[H7243|The fourth]] [[H7243|commander, for the fourth]] [[H2320|month,]] [[H3097|was Joab’s]] [[H251|brother]] [[H6214|Asahel,]] [[H1121|and his son]] [[H2069|Zebadiah]] [[H310|was commander after him.]] ⟨There were⟩ [[H6242|24,000]] ⟨men⟩ [[H5921|in]] [[H4256|his division.]] ^2707
 
-And of the rest of the sons of Levi : of the sons of Amram, Shubael; of the sons of Shubael, Jehdeiah. ^2420
+[[H2549|The fifth,]] [[H2549|for the fifth]] [[H2320|month,]] [[H8269|was the commander]] [[H8049|Shamhuth]] [[H3155|the Izrahite.]] ⟨There were⟩ [[H6242|24,000]] ⟨men⟩ [[H5921|in]] [[H4256|his division.]] ^2708
 
-Of Rehabiah : of the sons of Rehabiah, Isshiah the chief. ^2421
+[[H8345|The sixth,]] [[H8345|for the sixth]] [[H2320|month,]] [[H5896|was Ira]] [[H1121|son]] [[H6142|of Ikkesh]] [[H8621|the Tekoite.]] ⟨There were⟩ [[H6242|24,000]] ⟨men⟩ [[H5921|in]] [[H4256|his division.]] ^2709
 
-Of the Izharites, Shelomoth; of the sons of Shelomoth, Jahath. ^2422
+[[H7637|The seventh,]] [[H7637|for the seventh]] [[H2320|month,]] [[H2503|was Helez]] [[H6397|the Pelonite,]] [[H669|an Ephraimite.]] ⟨There were⟩ [[H6242|24,000]] ⟨men⟩ [[H5921|in]] [[H4256|his division.]] ^2710
 
-The sons of Hebron: Jeriah the chief, Amariah the second, Jahaziel the third, Jekameam the fourth. ^2423
+[[H8066|The eighth,]] [[H8066|for the eighth]] [[H2320|month,]] [[H5444|was Sibbecai]] [[H2843|the Hushathite,]] [[H2227|a Zerahite.]] ⟨There were⟩ [[H6242|24,000]] ⟨men⟩ [[H5921|in]] [[H4256|his division.]] ^2711
 
-The sons of Uzziel, Micah; of the sons of Micah, Shamir. ^2424
+[[H8671|The ninth,]] [[H8671|for the ninth]] [[H2320|month,]] [[H44|was Abiezer]] [[H6069|the Anathothite,]] [[H6242|a Benjamite. 24,000]] ⟨There were⟩ ⟨men⟩ [[H5921|in]] [[H4256|his division.]] ^2712
 
-The brother of Micah, Isshiah; of the sons of Isshiah, Zechariah. ^2425
+[[H6224|The tenth,]] [[H6224|for the tenth]] [[H2320|month,]] [[H4121|was Maharai]] [[H5200|the Netophathite,]] [[H2227|a Zerahite.]] ⟨There were⟩ [[H6242|24,000]] ⟨men⟩ [[H5921|in]] [[H4256|his division.]] ^2713
 
-The sons of Merari : Mahli and Mushi. The sons of Jaaziah : Beno. ^2426
+[[H6249|The eleventh,]] [[H6249|for the eleventh]] [[H2320|month,]] [[H1141|was Benaiah]] [[H6553|the Pirathonite,]] [[H669|an Ephraimite.]] ⟨There were⟩ [[H6242|24,000]] ⟨men⟩ [[H5921|in]] [[H4256|his division.]] ^2714
 
-The sons of Merari : of Jaaziah, Beno, Shoham, Zaccur, and Ibri. ^2427
+[[H8147|The twelfth,]] [[H8147|for the twelfth]] [[H2320|month,]] [[H2469|was Heldai]] [[H5200|the Netophathite,]] [[H6274|of Othniel’s family.]] ⟨There were⟩ [[H6242|24,000]] ⟨men⟩ [[H5921|in]] [[H4256|his division.]] ^2715
 
-Of Mahli : Eleazar, who had no sons. ^2428
+[[H5921|These officers were in charge of]] [[H7626|the tribes]] [[H3478|of Israel:]] [[H7206|Over the Reubenites]] ⟨was⟩ [[H461|Eliezer]] [[H1121|son]] [[H2147|of Zichri;]] [[H8099|over the Simeonites]] ⟨was⟩ [[H8203|Shephatiah]] [[H1121|son]] [[H4601|of Maacah;]] ^2716
 
-Of Kish, the sons of Kish : Jerahmeel. ^2429
+[[H3881|over the Levites]] ⟨was⟩ [[H2811|Hashabiah]] [[H1121|son]] [[H7055|of Kemuel;]] [[H175|over Aaron]] ⟨was⟩ [[H6659|Zadok;]] ^2717
 
-The sons of Mushi : Mahli, Eder, and Jerimoth. These were the sons of the Levites according to their fathers ’ houses. ^2430
+[[H3063|over Judah]] ⟨was⟩ [[H453|Elihu,]] [[H1732|one of David’s]] [[H251|brothers;]] [[H3485|over Issachar]] ⟨was⟩ [[H6018|Omri]] [[H1121|son]] [[H4317|of Michael;]] ^2718
 
-These also, the head of each father’s house and his younger brother alike, cast lots, just as their brothers the sons of Aaron, in the presence of King David, Zadok, Ahimelech, and the heads of fathers ’ houses of the priests and of the Levites. ^2431
+[[H2074|over Zebulun]] ⟨was⟩ [[H3460|Ishmaiah]] [[H1121|son]] [[H5662|of Obadiah;]] [[H5321|over Naphtali]] ⟨was⟩ [[H3406|Jerimoth]] [[H1121|son]] [[H5837|of Azriel;]] ^2719
 
+[[H1121|over the Ephraimites]] ⟨was⟩ [[H1954|Hoshea]] [[H1121|son]] [[H5812|of Azaziah;]] [[H2677|over half]] [[H7626|the tribe]] [[H4519|of Manasseh]] ⟨was⟩ [[H3100|Joel]] [[H1121|son]] [[H6305|of Pedaiah;]] ^2720
 
+[[H2677|over half]] [[H4519|the tribe of Manasseh]] [[H1568|in Gilead]] ⟨was⟩ [[H3035|Iddo]] [[H1121|son]] [[H2148|of Zechariah;]] [[H1144|over Benjamin]] ⟨was⟩ [[H3300|Jaasiel]] [[H1121|son]] [[H74|of Abner;]] ^2721
 
-David and the chiefs of the service also set apart for the service the sons of Asaph, and of Heman, and of Jeduthun, who prophesied with lyres, with harps, and with cymbals. The list of those who did the work and of their duties was: ^2501
+⟨and⟩ [[H1835|over Dan]] ⟨was⟩ [[H5832|Azarel]] [[H1121|son]] [[H3395|of Jeroham.]] [[H428|These]] ⟨were⟩ [[H8269|the leaders]] [[H7626|of the tribes]] [[H3478|of Israel.]] ^2722
 
-Of the sons of Asaph : Zaccur, Joseph, Nethaniah, and Asharelah, sons of Asaph, under the direction of Asaph, who prophesied under the direction of the king. ^2502
+[[H1732|David]] [[H3808|did not]] [[H5375|count]] [[H1121|the men]] [[H8141|aged]] [[H6242|twenty]] [[H4295|or under,]] [[H3588|because]] [[H3069|the LORD]] [[H559|had said that]] [[H3478|He would make Israel]] [[H7235|as numerous]] [[H3556|as the stars]] [[H8064|of the sky.]] ^2723
 
-Of Jeduthun, the sons of Jeduthun : Gedaliah, Zeri, Jeshaiah, Shimei, Hashabiah, and Mattithiah, six, under the direction of their father Jeduthun, who prophesied with the lyre in thanksgiving and praise to the Lord. ^2503
+[[H3097|Joab]] [[H1121|son]] [[H6870|of Zeruiah]] [[H2490|began]] [[H4487|to count]] ⟨the men⟩ [[H3808|but did not]] [[H3615|finish.]] [[H2063|For this was the reason]] [[H7110|wrath]] [[H1961|came]] [[H5921|upon]] [[H3478|Israel,]] [[H4557|and the number]] [[H3808|was not]] [[H5927|entered]] [[H4557|in the Book]] [[H1697|of]] [[H3117|the Chronicles]] [[H4428|of King]] [[H1732|David.]] ^2724
 
-Of Heman, the sons of Heman : Bukkiah, Mattaniah, Uzziel, Shebuel and Jerimoth, Hananiah, Hanani, Eliathah, Giddalti, and Romamti-ezer, Joshbekashah, Mallothi, Hothir, Mahazioth. ^2504
+[[H5820|Azmaveth]] [[H1121|son]] [[H5717|of Adiel]] [[H5921|was in charge of]] [[H4428|the royal]] [[H214|storehouses.]] [[H3083|Jonathan]] [[H1121|son]] [[H5818|of Uzziah]] [[H5921|was in charge of]] [[H214|the storehouses]] [[H7704|in the country,]] [[H5892|in the cities,]] [[H3723|in the villages,]] [[H4026|and in the fortresses.]] ^2725
 
-All these were the sons of Heman the king’s seer, according to the promise of God to exalt him, for God had given Heman fourteen sons and three daughters. ^2505
+[[H5836|Ezri]] [[H1121|son]] [[H3620|of Chelub]] [[H5921|was in charge of]] [[H6213|the workers]] [[H7704|in the fields]] [[H5656|who tilled]] [[H127|the soil.]] ^2726
 
-They were all under the direction of their father in the music in the house of the Lord with cymbals, harps, and lyres for the service of the house of God. Asaph, Jeduthun, and Heman were under the order of the king. ^2506
+[[H8096|Shimei]] [[H7435|the Ramathite]] [[H5921|was in charge of]] [[H3754|the vineyards.]] [[H2067|Zabdi]] [[H8225|the Shiphmite]] [[H5921|was in charge of]] [[H3754|the produce of the vineyards]] [[H3196|for the wine]] [[H214|vats.]] ^2727
 
-The number of them along with their brothers, who were trained in singing to the Lord, all who were skillful, was 288. ^2507
+[[H1177|Baal-hanan]] [[H1451|the Gederite]] [[H5921|was in charge of]] [[H2132|the olive]] [[H8256|and sycamore trees]] [[H8219|in the foothills.]] [[H3135|Joash]] [[H5921|was in charge of]] [[H214|the stores]] [[H8081|of olive oil.]] ^2728
 
-And they cast lots for their duties, small and great, teacher and pupil alike. ^2508
+[[H7861|Shitrai]] [[H8290|the Sharonite]] [[H5921|was in charge of]] [[H1241|the herds]] [[H7462|grazing]] [[H8289|in Sharon.]] [[H8202|Shaphat]] [[H1121|son]] [[H5724|of Adlai]] [[H5921|was in charge of]] [[H1241|the herds]] [[H6010|in the valleys.]] ^2729
 
-The first lot fell for Asaph to Joseph; the second to Gedaliah, to him and his brothers and his sons, twelve; ^2509
+[[H179|Obil]] [[H3459|the Ishmaelite]] [[H5921|was in charge of]] [[H1581|the camels.]] [[H3165|Jehdeiah]] [[H4824|the Meronothite]] [[H5921|was in charge of]] [[H860|the donkeys.]] ^2730
 
-the third to Zaccur, his sons and his brothers, twelve; ^2510
+[[H3151|Jaziz]] [[H1905|the Hagrite]] [[H5921|was in charge of]] [[H6629|the flocks.]] [[H3605|All]] [[H428|these]] [[H8269|were officials]] [[H4428|in charge of King]] [[H1732|David’s]] [[H7399|property.]] ^2731
 
-the fourth to Izri, his sons and his brothers, twelve; ^2511
+[[H1732|David’s]] [[H1730|uncle]] [[H3083|Jonathan]] [[H3289|was a counselor;]] [[H1931|he]] [[H376|was a man]] [[H995|of insight]] [[H5608|and a scribe.]] [[H3171|Jehiel]] [[H1121|son]] [[H2453|of Hachmoni]] [[H5973|attended]] [[H4428|the king’s]] [[H1121|sons.]] ^2732
 
-the fifth to Nethaniah, his sons and his brothers, twelve; ^2512
+[[H302|Ahithophel]] [[H4428|was the king’s]] [[H3289|counselor.]] [[H2365|Hushai]] [[H757|the Archite]] [[H4428|was the king’s]] [[H7453|friend.]] ^2733
 
-the sixth to Bukkiah, his sons and his brothers, twelve; ^2513
+[[H302|Ahithophel]] [[H310|was succeeded by]] [[H3077|Jehoiada]] [[H1121|son]] [[H1141|of Benaiah,]] [[H54|then by Abiathar.]] [[H3097|Joab]] [[H8269|was the commander]] [[H4428|of the king’s]] [[H6635|army.]] ^2734
 
-the seventh to Jesharelah, his sons and his brothers, twelve; ^2514
+[[H1961|Some time later,]] [[H1732|David]] [[H5221|defeated]] [[H6430|the Philistines,]] [[H3665|subdued them,]] [[H3947|and took]] [[H1661|Gath]] [[H1323|and its villages]] [[H3027|from the hand]] [[H6430|of the Philistines.]] ^1801
 
-the eighth to Jeshaiah, his sons and his brothers, twelve; ^2515
+⟨David⟩ [[H5221|also defeated]] [[H4124|the Moabites,]] [[H4124|and they]] [[H1961|became]] [[H5650|subject]] [[H1732|to David]] [[H5375|and brought him]] [[H4503|tribute.]] ^1802
 
-the ninth to Mattaniah, his sons and his brothers, twelve; ^2516
+⟨As far as⟩ [[H2574|Hamath,]] [[H1732|David]] [[H5221|also defeated]] [[H4428|King]] [[H1909|Hadadezer]] [[H6678|of Zobah,]] [[H1980|who had marched out]] [[H5324|to establish]] [[H3027|his dominion]] [[H6578|along the Euphrates]] [[H5104|River.]] ^1803
 
-the tenth to Shimei, his sons and his brothers, twelve; ^2517
+[[H1732|David]] [[H3920|captured]] [[H4480|from him]] [[H505|a thousand]] [[H7393|chariots,]] [[H7651|seven]] [[H505|thousand]] [[H6571|charioteers,]] [[H6242|and twenty]] [[H505|thousand]] [[H7273|foot soldiers,]] [[H6131|and he hamstrung]] [[H3605|all]] [[H7393|the horses]] [[H3967|except a hundred]] [[H3498|he kept]] [[H7393|for the chariots.]] ^1804
 
-the eleventh to Azarel, his sons and his brothers, twelve; ^2518
+[[H758|When the Arameans]] [[H1834|of Damascus]] [[H935|came]] [[H5826|to help]] [[H4428|King]] [[H1909|Hadadezer]] [[H6678|of Zobah,]] [[H1732|David]] [[H5221|struck down]] [[H6242|twenty-two]] [[H505|thousand]] [[H376|men.]] ^1805
 
-the twelfth to Hashabiah, his sons and his brothers, twelve; ^2519
+[[H1732|Then he]] [[H7760|placed]] ⟨garrisons⟩ [[H758|in Aram]] [[H1834|of Damascus,]] [[H758|and the Arameans]] [[H1961|became]] [[H5650|subject]] [[H1732|to David]] [[H5375|and brought him]] [[H4503|tribute.]] [[H3068|So the LORD]] [[H1732|made David]] [[H3467|victorious]] [[H3605|wherever]] [[H1980|he went.]] ^1806
 
-to the thirteenth, Shubael, his sons and his brothers, twelve; ^2520
+[[H1732|And David]] [[H3947|took]] [[H2091|the gold]] [[H7982|shields]] [[H834|that]] [[H1961|belonged]] [[H5921|to]] [[H5650|the officers]] [[H1909|of Hadadezer]] [[H935|and brought them]] [[H3389|to Jerusalem.]] ^1807
 
-to the fourteenth, Mattithiah, his sons and his brothers, twelve; ^2521
+[[H2880|And from Tibhath]] [[H3560|and Cun,]] [[H5892|cities]] [[H1909|of Hadadezer,]] [[H1732|David]] [[H3947|took]] [[H3966|a large]] [[H7227|amount]] [[H5178|of bronze,]] [[H8010|with which  Solomon]] [[H6213|made]] [[H5178|the bronze]] [[H3220|Sea,]] [[H5982|the pillars,]] [[H853|and]] ⟨various⟩ [[H5178|bronze]] [[H3627|articles.]] ^1808
 
-to the fifteenth, to Jeremoth, his sons and his brothers, twelve; ^2522
+[[H4428|When King]] [[H8583|Tou]] [[H2574|of Hamath]] [[H8085|heard]] [[H3588|that]] [[H1732|David]] [[H5221|had defeated]] [[H3605|the entire]] [[H2426|army]] [[H1909|of Hadadezer]] [[H4428|king]] [[H6678|of Zobah,]] ^1809
 
-to the sixteenth, to Hananiah, his sons and his brothers, twelve; ^2523
+[[H7971|he sent]] [[H1121|his son]] [[H1913|Hadoram]] [[H7592|to greet]] [[H4428|King]] [[H1732|David]] [[H1288|and bless him]] [[H5921|for]] [[H3898|fighting]] [[H1909|against Hadadezer]] [[H5221|and defeating him.]] [[H3588|For]] [[H8583|Tou]] [[H1909|and Hadadezer]] [[H1961|had been]] [[H4421|at war.]] [[H3605|Hadoram brought all kinds]] [[H3627|of articles]] [[H2091|of gold]] [[H3701|and silver]] [[H5178|and bronze,]] ^1810
 
-to the seventeenth, to Joshbekashah, his sons and his brothers, twelve; ^2524
+[[H1571|and]] [[H4428|King]] [[H1732|David]] [[H6942|dedicated]] [[H853|these]] [[H3068|to the LORD,]] [[H5973|along with]] [[H3701|the silver]] [[H2091|and gold]] [[H5375|he had carried off]] [[H3605|from all]] ⟨these⟩ [[H1471|nations—]] [[H123|from Edom]] [[H4124|and Moab,]] [[H1121|and from the Ammonites,]] [[H6430|Philistines,]] [[H6002|and Amalekites.]] ^1811
 
-to the eighteenth, to Hanani, his sons and his brothers, twelve; ^2525
+[[H52|Moreover, Abishai]] [[H1121|son]] [[H6870|of Zeruiah]] [[H5221|struck down]] [[H8083|eighteen]] [[H505|thousand]] [[H123|Edomites]] [[H1516|in the Valley]] [[H4417|of Salt.]] ^1812
 
-to the nineteenth, to Mallothi, his sons and his brothers, twelve; ^2526
+[[H7760|He placed]] [[H5333|garrisons]] [[H123|in Edom,]] [[H3605|and all]] [[H123|the Edomites]] [[H1961|were]] [[H5650|subject]] [[H1732|to David.]] [[H3068|So the LORD]] [[H1732|made David]] [[H3467|victorious]] [[H3605|wherever]] [[H1980|he went.]] ^1813
 
-to the twentieth, to Eliathah, his sons and his brothers, twelve; ^2527
+[[H1732|Thus David]] [[H4427|reigned]] [[H5921|over]] [[H3605|all]] [[H3478|Israel,]] [[H6213|administering]] [[H4941|justice]] [[H6666|and righteousness]] [[H3605|for all]] [[H5971|his people:]] ^1814
 
-to the twenty-first, to Hothir, his sons and his brothers, twelve; ^2528
+[[H3097|Joab]] [[H1121|son]] [[H6870|of Zeruiah]] [[H5921|was over]] [[H6635|the army;]] [[H3092|Jehoshaphat]] [[H1121|son]] [[H286|of Ahilud]] ⟨was⟩ [[H2142|the historian;]] ^1815
 
-to the twenty-second, to Giddalti, his sons and his brothers, twelve; ^2529
+[[H6659|Zadok]] [[H1121|son]] [[H285|of Ahitub]] [[H40|and Ahimelech]] [[H1121|son]] [[H54|of Abiathar]] [[H3548|were priests;]] [[H7798|Shavsha]] ⟨was⟩ [[H5608|the scribe;]] ^1816
 
-to the twenty-third, to Mahazioth, his sons and his brothers, twelve; ^2530
+[[H1141|Benaiah]] [[H1121|son]] [[H3077|of Jehoiada]] [[H5921|was over]] [[H3774|the Kerethites]] [[H6432|and Pelethites;]] [[H1732|and David’s]] [[H1121|sons]] [[H7223|were chief officials]] [[H4428|at the king’s]] [[H3027|side.]] ^1817
 
-to the twenty-fourth, to Romamti-ezer, his sons and his brothers, twelve. ^2531
+[[H1732|Now David]] [[H6950|summoned]] [[H3605|all]] [[H8269|the leaders]] [[H3478|of Israel]] [[H413|to]] [[H3389|Jerusalem:]] [[H8269|the leaders]] [[H7626|of the tribes,]] [[H8269|the leaders]] [[H4256|of the divisions]] [[H4428|in the king’s]] [[H8334|service,]] [[H8269|the commanders]] [[H505|of thousands]] ⟨and⟩ [[H8269|]] [[H3967|of hundreds,]] [[H8269|and the officials]] [[H3605|in charge of all]] [[H7399|the property]] [[H4735|and cattle]] [[H4428|of the king]] [[H1121|and his sons,]] [[H5973|along with]] [[H5631|the court officials,]] [[H1368|the fighting men,]] [[H3605|and all]] [[H1368|the mighty warriors.]] ^2801
 
+[[H4428|Then King]] [[H1732|David]] [[H6965|rose]] [[H5921|to]] [[H7272|his feet]] [[H559|and said,]] [[H8085|“Listen to me,]] [[H251|my brothers]] [[H5971|and my people.]] [[H5973|It was in]] [[H3824|my heart]] [[H1129|to build]] [[H1004|a house]] [[H4496|as a resting place]] [[H727|for the ark]] [[H1285|of the covenant]] [[H3068|of the LORD]] [[H1916|and as a footstool]] [[H430|for our God.]] [[H3559|I had made preparations]] [[H1129|to build it,]] ^2802
 
+[[H430|but God]] [[H559|said]] [[H3808|to me,  ‘You are not]] [[H1129|to build]] [[H1004|a house]] [[H8034|for My Name,]] [[H3588|because]] [[H859|you]] [[H376|are a man]] [[H4421|of war]] [[H8210|who has spilled]] [[H1818|blood.’]] ^2803
 
-As for the divisions of the gatekeepers : of the Korahites, Meshelemiah the son of Kore, of the sons of Asaph. ^2601
+[[H3069|Yet the LORD,]] [[H430|the God]] [[H3478|of Israel,]] [[H977|chose]] [[H3605|me  out of all]] [[H1|my father’s]] [[H1004|house]] [[H1961|to be]] [[H4428|king]] [[H5921|over]] [[H3478|Israel]] [[H5769|forever.]] [[H3588|For]] [[H977|He chose]] [[H3063|Judah]] [[H5057|as leader,]] [[H1004|and from the house]] [[H3063|of Judah]] ⟨He chose⟩ [[H1|my father’s]] [[H1004|household,]] [[H1|and from my father’s]] [[H1121|sons]] [[H7521|He was pleased]] [[H4427|to make me king]] [[H5921|over]] [[H3605|all]] [[H3478|Israel.]] ^2804
 
-And Meshelemiah had sons : Zechariah the firstborn, Jediael the second, Zebadiah the third, Jathniel the fourth, ^2602
+[[H3605|And of all]] [[H1121|my sons—]] [[H3588|for]] [[H3068|the LORD]] [[H5414|has given]] [[H7227|me many]] [[H1121|sons—]] [[H977|He has chosen]] [[H8010|Solomon]] [[H1121|my son]] [[H3427|to sit]] [[H5921|on]] [[H3678|the throne]] [[H4438|of the kingdom]] [[H3068|of the LORD]] [[H5921|over]] [[H3478|Israel.]] ^2805
 
-Elam the fifth, Jehohanan the sixth, Eliehoenai the seventh. ^2603
+[[H559|And He said]] [[H8010|to me,  ‘Solomon]] [[H1121|your son]] [[H1931|is the one]] [[H1129|who will build]] [[H1004|My house]] [[H2691|and My courts,]] [[H3588|for]] [[H977|I have chosen]] [[H1121|him My  son,]] ⟨as⟩ [[H589|and I]] [[H1961|will be]] [[H1|his  Father.]] ^2806
 
-And Obed-edom had sons : Shemaiah the firstborn, Jehozabad the second, Joah the third, Sachar the fourth, Nethanel the fifth, ^2604
+[[H3559|I will establish]] [[H4438|his kingdom]] [[H5704|forever,]] [[H518|if]] [[H2388|he resolutely]] [[H6213|carries out]] [[H4687|My commandments]] [[H4941|and ordinances,]] [[H3117|as is being done]] [[H2088|this day.’]] ^2807
 
-Ammiel the sixth, Issachar the seventh, Peullethai the eighth, for God blessed him. ^2605
+[[H6258|So now]] [[H5869|in the sight]] [[H3605|of all]] [[H3478|Israel,]] [[H6951|the assembly]] [[H3068|of the LORD,]] [[H241|and in the hearing]] [[H430|of our God,]] [[H8104|observe]] [[H1875|and seek out]] [[H3605|all]] [[H4687|the commandments]] [[H3068|of the LORD]] [[H430|your God,]] [[H4616|so that]] [[H3423|you may possess]] [[H2896|this good]] [[H776|land]] [[H5157|and leave it as an inheritance]] [[H1121|to your descendants]] [[H5704|forever.]] ^2808
 
-Also to his son Shemaiah were sons born who were rulers in their fathers ’ houses, for they were men of great ability. ^2606
+[[H859|As for you,]] [[H8010|Solomon]] [[H1121|my son,]] [[H3045|know]] [[H430|the God]] [[H1|of your father]] [[H5647|and serve Him]] [[H8003|wholeheartedly]] [[H2655|and with a willing]] [[H5315|mind,]] [[H3588|for]] [[H3068|the LORD]] [[H1875|searches]] [[H3605|every]] [[H3824|heart]] [[H995|and understands]] [[H3336|the intention]] [[H3605|of every]] [[H4284|thought.]] [[H518|If]] [[H1875|you seek Him,]] [[H4672|He will be found]] [[H518|by you;  but if]] [[H5800|you forsake Him,]] [[H2186|He will reject you]] [[H5703|forever.]] ^2809
 
-The sons of Shemaiah : Othni, Rephael, Obed and Elzabad, whose brothers were able men, Elihu and Semachiah. ^2607
+[[H7200|Consider]] [[H6258|now]] [[H3588|that]] [[H3068|the LORD]] [[H977|has chosen]] [[H1129|you  to build]] [[H1004|a house]] [[H4720|for the sanctuary.]] [[H2388|Be strong]] [[H6213|and do it.”]] ^2810
 
-All these were of the sons of Obed-edom with their sons and brothers, able men qualified for the service; sixty-two of Obed-edom. ^2608
+[[H1732|Then David]] [[H5414|gave]] [[H1121|his son]] [[H8010|Solomon]] [[H8403|the plans]] [[H197|for the portico]] ⟨of the temple⟩, [[H1004|its buildings,]] [[H1597|storehouses,]] [[H5944|upper rooms,]] [[H6442|inner]] [[H2315|rooms,]] [[H1004|and the room]] [[H3727|for the mercy seat.]] ^2811
 
-And Meshelemiah had sons and brothers, able men, eighteen. ^2609
+[[H8403|The plans]] [[H3605|contained everything]] [[H1961|he had]] [[H5973|in]] [[H7307|mind]] [[H2691|for the courts]] [[H1004|of the house]] [[H3068|of the LORD,]] [[H3605|for all]] [[H5439|the surrounding]] [[H3957|rooms,]] [[H214|for the treasuries]] [[H1004|of the house]] [[H430|of God]] ⟨and⟩ [[H214|]] [[H6944|of the dedicated things,]] ^2812
 
-And Hosah, of the sons of Merari, had sons : Shimri the chief (for though he was not the firstborn, his father made him chief ), ^2610
+[[H4256|for the divisions]] [[H3548|of the priests]] [[H3881|and the Levites,]] [[H3605|for all]] [[H4399|the work]] [[H5656|of service]] [[H1004|in the house]] [[H3068|of the LORD,]] [[H3605|and for all]] [[H3627|the articles]] [[H5656|of service]] [[H1004|in the house]] [[H3068|of the LORD:]] ^2813
 
-Hilkiah the second, Tebaliah the third, Zechariah the fourth : all the sons and brothers of Hosah were thirteen. ^2611
+[[H4948|the weight]] [[H3605|of all]] [[H2091|the gold]] [[H3627|articles]] [[H5656|for every kind of service;]] [[H4948|the weight]] [[H3605|of all]] [[H3701|the silver]] [[H3627|articles]] [[H3605|for every kind]] [[H5656|of service;]] ^2814
 
-These divisions of the gatekeepers, corresponding to their chief men, had duties, just as their brothers did, ministering in the house of the Lord. ^2612
+[[H4948|the weight]] [[H2091|of the gold]] [[H4501|lampstands]] [[H2091|and their]] [[H5216|lamps,]] [[H4948|including the weight]] [[H4501|of each lampstand]] [[H5216|and its lamps;]] [[H4948|the weight]] [[H3701|of each silver]] [[H4501|lampstand]] [[H5216|and its lamps,]] [[H5656|according to the use]] [[H4501|of each lampstand;]] ^2815
 
-And they cast lots by fathers ’ houses, small and great alike, for their gates. ^2613
+[[H4948|the weight]] [[H2091|of gold]] [[H7979|for each table]] [[H4635|of showbread,]] [[H3701|and of silver]] [[H3701|for the silver]] [[H7979|tables;]] ^2816
 
-The lot for the east fell to Shelemiah. They cast lots also for his son Zechariah, a shrewd counselor, and his lot came out for the north. ^2614
+⟨the weight of⟩ [[H2889|the pure]] [[H2091|gold]] [[H4207|for the forks,]] [[H4219|sprinkling basins,]] [[H7184|and pitchers;]] [[H4948|the weight]] [[H2091|of each gold]] [[H3713|dish;]] [[H4948|the weight]] [[H3701|of each silver]] [[H3713|bowl;]] ^2817
 
-Obed-edom’s came out for the south, and to his sons was allotted the gatehouse. ^2615
+[[H4948|the weight]] [[H2212|of the refined]] [[H2091|gold]] [[H4196|for the altar]] [[H7004|of incense;]] [[H8403|and the plans]] [[H4818|for the chariot]] [[H2091|of the gold]] [[H3742|cherubim]] [[H6566|that spread]] ⟨their wings⟩ [[H5526|and overshadowed]] [[H727|the ark]] [[H1285|of the covenant]] [[H3068|of the LORD.]] ^2818
 
-For Shuppim and Hosah it came out for the west, at the gate of Shallecheth on the road that goes up. Watch corresponded to watch. ^2616
+[[H3605|“All this,”]] ⟨said David⟩, [[H3605|“all]] [[H4399|the details]] [[H8403|of this plan,]] [[H3068|the LORD]] [[H7919|made clear to me]] [[H3791|in writing]] [[H3027|by hand]] ⟨His⟩ [[H5921|upon me.”]] ^2819
 
-On the east there were six each day, on the north four each day, on the south four each day, as well as two and two at the gatehouse. ^2617
+[[H1732|David also]] [[H559|said]] [[H8010|to Solomon]] [[H1121|his son,]] [[H2388|“Be strong]] [[H553|and courageous,]] [[H6213|and do]] ⟨it⟩. [[H408|Do not]] [[H3372|be afraid]] [[H2865|or discouraged,]] [[H3588|for]] [[H3068|the LORD]] [[H430|God,]] [[H430|my God,]] [[H5973|is with you.]] [[H3808|He will not]] [[H7503|fail you]] [[H5800|or forsake you]] [[H5704|until]] [[H3605|all]] [[H4399|the work]] [[H5656|for the service]] [[H1004|of the house]] [[H3068|of the LORD]] [[H3615|is finished.]] ^2820
 
-And for the colonnade on the west there were four at the road and two at the colonnade. ^2618
+[[H4256|The divisions]] [[H3548|of the priests]] [[H3881|and the Levites]] [[H2009|are ready]] [[H3605|for all]] [[H5656|the service]] [[H1004|of the house]] [[H430|of God,]] ⟨and⟩ [[H5973|]] [[H3605|every]] [[H5081|willing man]] [[H3605|of every]] [[H2451|skill]] [[H4399|will be at your disposal for the work.]] [[H8269|The officials]] [[H3605|and all]] [[H5971|the people]] [[H3605|are fully at your]] [[H1697|command.”]] ^2821
 
-These were the divisions of the gatekeepers among the Korahites and the sons of Merari. ^2619
+[[H4428|Then King]] [[H1732|David]] [[H559|said]] [[H3605|to the whole]] [[H6951|assembly,]] [[H1121|“My son]] [[H8010|Solomon,]] [[H259|whom  alone]] [[H430|God]] [[H977|has chosen,]] [[H5288|is young]] [[H7390|and inexperienced.]] [[H4399|The task]] [[H1419|is great]] [[H3588|because]] [[H1002|this palace]] [[H3808|will not]] [[H120|be for man,]] [[H3588|but]] [[H3068|for the LORD]] [[H430|God.]] ^2901
 
-And of the Levites, Ahijah had charge of the treasuries of the house of God and the treasuries of the dedicated gifts. ^2620
+[[H3605|Now with all]] [[H3581|my ability]] [[H3559|I have made provision]] [[H1004|for the house]] [[H430|of my God—]] [[H2091|gold]] [[H2091|for the gold articles,]] [[H3701|silver]] [[H3701|for the silver,]] [[H5178|bronze]] [[H5178|for the bronze,]] [[H1270|iron]] [[H1270|for the iron,]] [[H6086|and wood]] [[H6086|for the wood,]] [[H68|as well as onyx]] [[H4394|for the settings,]] [[H68|turquoise,]] [[H7553|stones of various colors,]] [[H3605|all kinds]] [[H3368|of precious]] [[H68|stones,]] [[H68|and slabs]] [[H7893|of marble—]] [[H7230|all in abundance.]] ^2902
 
-The sons of Ladan, the sons of the Gershonites belonging to Ladan, the heads of the fathers ’ houses belonging to Ladan the Gershonite : Jehieli. ^2621
+[[H5750|Moreover,]] [[H7521|because of my delight]] [[H1004|in the house]] [[H430|of my God,]] [[H5414|I now give]] [[H1004|for]] ⟨it⟩ [[H5459|my personal treasures]] [[H2091|of gold]] [[H3701|and silver,]] [[H4605|over and above]] [[H3605|all]] [[H3559|that I have provided]] [[H6944|for this holy]] [[H1004|temple:]] ^2903
 
-The sons of Jehieli, Zetham, and Joel his brother, were in charge of the treasuries of the house of the Lord. ^2622
+[[H7969|three]] [[H505|thousand]] [[H3603|talents]] [[H2091|of gold]] [[H2091|(the gold]] [[H211|of Ophir)]] [[H7651|and seven]] [[H505|thousand]] [[H3603|talents]] [[H2212|of refined]] [[H3701|silver,]] [[H2902|to overlay]] [[H7023|the walls]] [[H1004|of the buildings,]] ^2904
 
-Of the Amramites, the Izharites, the Hebronites, and the Uzzielites — ^2623
+[[H2091|for the gold work]] [[H3701|and the silver work,]] [[H3605|and for all]] [[H4399|the work]] [[H3027|to be done by]] [[H2796|the craftsmen.]] [[H4310|Now who]] [[H5068|will volunteer]] [[H4390|to consecrate]] [[H3027|himself]] [[H3068|to the LORD]] [[H3117|today?”]] ^2905
 
-and Shebuel the son of Gershom, son of Moses, was chief officer in charge of the treasuries. ^2624
+[[H8269|Then the leaders]] [[H1|of the households,]] [[H8269|the officers]] [[H7626|of the tribes]] [[H3478|of Israel,]] [[H8269|the commanders]] [[H505|of thousands]] [[H3967|and of hundreds,]] [[H8269|and the officials]] [[H4428|in charge of the king’s]] [[H4399|work]] [[H5068|gave willingly.]] ^2906
 
-His brothers : from Eliezer were his son Rehabiah, and his son Jeshaiah, and his son Joram, and his son Zichri, and his son Shelomoth. ^2625
+[[H5656|Toward the service]] [[H430|of God’s]] [[H1004|house]] [[H5414|they gave]] [[H2568|5,000 {}]] [[H3603|talents]] [[H7239|and 10,000]] [[H150|darics]] [[H2091|of gold,]] [[H6235|10,000 {}]] [[H3603|talents]] [[H3701|of silver,]] [[H7239|18,000 {}]] [[H3603|talents]] [[H5178|of bronze,]] [[H3967|and 100,000]] [[H3603|talents]] [[H1270|of iron.]] ^2907
 
-This Shelomoth and his brothers were in charge of all the treasuries of the dedicated gifts that David the king and the heads of the fathers ’ houses and the officers of the thousands and the hundreds and the commanders of the army had dedicated. ^2626
+[[H4672|Whoever had]] [[H68|precious stones]] [[H5414|gave]] [[H214|them to the treasury]] [[H1004|of the house]] [[H3068|of the LORD,]] [[H5921|under]] [[H3027|the care]] [[H3171|of Jehiel]] [[H1649|the Gershonite.]] ^2908
 
-From spoil won in battles they dedicated gifts for the maintenance of the house of the Lord. ^2627
+[[H5971|Then the people]] [[H8055|rejoiced]] [[H5921|at]] [[H5068|the willing response of their leaders,]] [[H3588|for]] [[H5068|they had given]] [[H3068|to the LORD]] [[H8003|freely and wholeheartedly.]] [[H4428|And King]] [[H1732|David]] [[H1571|also]] [[H8055|rejoiced]] [[H1419|greatly.]] ^2909
 
-Also all that Samuel the seer and Saul the son of Kish and Abner the son of Ner and Joab the son of Zeruiah had dedicated — all dedicated gifts were in the care of Shelomoth and his brothers. ^2628
+[[H1732|Then David]] [[H1288|blessed]] [[H3068|the LORD]] [[H5869|in the sight]] [[H3605|of all]] [[H6951|the assembly]] ⟨and⟩ [[H1732|]] [[H559|said:]] [[H859|“May You]] [[H1288|be blessed,]] [[H3068|O LORD,]] [[H430|God]] [[H1|of our father]] [[H3478|Israel,]] [[H5769|from everlasting]] [[H5704|to]] [[H5769|everlasting.]] ^2910
 
-Of the Izharites, Chenaniah and his sons were appointed to external duties for Israel, as officers and judges. ^2629
+[[H3069|Yours,  O LORD,]] [[H1420|is the greatness]] [[H1369|and the power]] [[H8597|and the glory]] [[H1935|and the splendor]] [[H5331|and the majesty,]] [[H3588|for]] [[H3605|everything]] [[H8064|in heaven]] [[H776|and on earth belongs to You.]] [[H3069|Yours,  O LORD,]] [[H4467|is the kingdom,]] [[H5375|and You are exalted]] [[H7218|as head]] [[H3605|over all.]] ^2911
 
-Of the Hebronites, Hashabiah and his brothers, 1,700 men of ability, had the oversight of Israel westward of the Jordan for all the work of the Lord and for the service of the king. ^2630
+[[H6239|Both riches]] [[H3519|and honor]] [[H6440|come from You,]] [[H859|and You]] [[H4910|are the ruler]] [[H3605|over all.]] [[H3581|Power]] [[H1369|and might]] [[H3027|are in Your hand,]] [[H3027|and it is in Your hand]] [[H1431|to exalt]] [[H2388|and to give strength]] [[H3605|to all.]] ^2912
 
-Of the Hebronites, Jerijah was chief of the Hebronites of whatever genealogy or fathers ’ houses. (In the fortieth year of David’s reign search was made and men of great ability among them were found at Jazer in Gilead .) ^2631
+[[H6258|Now therefore,]] [[H430|our God,]] [[H587|we]] [[H3034|give You thanks,]] [[H1984|and we praise]] [[H8597|Your glorious]] [[H8034|name.]] ^2913
 
-King David appointed him and his brothers, 2,700 men of ability, heads of fathers ’ houses, to have the oversight of the Reubenites, the Gadites and the half-tribe of the Manassites for everything pertaining to God and for the affairs of the king. ^2632
+[[H4310|But who]] [[H589|am I,]] [[H4310|and who]] [[H5971|are my people,]] [[H3588|that]] [[H6113|we should be able]] [[H5068|to give as generously]] [[H2063|as this?]] [[H3588|For]] [[H3605|everything]] [[H4480|comes from You,]] [[H3027|and from Your own hand]] [[H5414|we have given]] ^2914
 
+[[H3588|For]] [[H587|we]] ⟨are⟩ [[H1616|foreigners]] [[H8453|and sojourners]] [[H6440|in Your presence,]] [[H3605|as were all]] [[H1|our forefathers.]] [[H3117|Our days]] [[H5921|on]] [[H776|earth]] [[H6738|are like a shadow,]] [[H369|without]] [[H4723|hope.]] ^2915
 
+[[H3068|O LORD]] [[H430|our God,]] [[H3027|from Your hand]] [[H1931|comes]] [[H3605|all]] [[H2088|this]] [[H1995|abundance]] [[H834|that]] [[H3559|we have provided]] [[H1129|for building]] [[H1004|You  a house]] [[H6944|for Your holy]] [[H8034|Name,]] [[H3605|and all of it]] ^2916
 
-This is the number of the people of Israel, the heads of fathers ’ houses, the commanders of thousands and hundreds, and their officers who served the king in all matters concerning the divisions that came and went, month after month throughout the year, each division numbering 24,000 : ^2701
+[[H3045|I know,]] [[H430|my God,]] [[H3588|that]] [[H859|You]] [[H974|test]] [[H3824|the heart]] [[H7521|and delight]] [[H4339|in uprightness.]] [[H3605|All]] [[H428|these things]] [[H589|I]] [[H5068|have given willingly]] [[H3476|and with an upright]] [[H3824|heart,]] [[H6258|and now]] [[H7200|I have seen]] [[H5971|Your people]] [[H4672|who are present]] [[H6311|here]] [[H8057|giving joyfully]] [[H5068|and willingly]] ^2917
 
-Jashobeam the son of Zabdiel was in charge of the first division in the first month; in his division were 24,000. ^2702
+[[H3068|O LORD,]] [[H430|God]] [[H1|of our fathers]] [[H85|Abraham,]] [[H3327|Isaac,]] [[H3478|and Israel,]] [[H8104|keep]] [[H2063|this]] [[H3336|desire]] [[H5769|forever]] [[H4284|in the intentions]] [[H3824|of the hearts]] [[H5971|of Your people,]] [[H3559|and direct]] [[H3824|their hearts]] [[H413|toward You.]] ^2918
 
-He was a descendant of Perez and was chief of all the commanders. He served for the first month. ^2703
+[[H5414|And give]] [[H1121|my son]] [[H8010|Solomon]] [[H8003|a whole]] [[H3824|heart]] [[H8104|to keep]] [[H6213|and carry out]] [[H3605|all]] [[H4687|Your commandments,]] [[H5715|decrees,]] [[H2708|and statutes,]] [[H1129|and to build]] ⟨Your⟩ [[H1002|palace]] [[H834|for which]] [[H3559|I have made provision.”]] ^2919
 
-Dodai the Ahohite was in charge of the division of the second month; in his division were 24,000. ^2704
+[[H1732|Then David]] [[H559|said]] [[H3605|to the whole]] [[H6951|assembly,]] [[H1288|“Praise]] [[H3068|the LORD]] [[H430|your God.”]] [[H3605|So the whole]] [[H6951|assembly]] [[H1288|praised]] [[H3068|the LORD,]] [[H430|the God]] [[H1|of their fathers.]] [[H6915|They bowed down]] [[H7812|and paid homage]] [[H3068|to the LORD]] [[H4428|and to the king.]] ^2920
 
-The third commander, for the third month, was Benaiah, the son of Jehoiada the chief priest; in his division were 24,000. ^2705
+[[H4283|The next day]] [[H2076|they offered]] [[H2077|sacrifices]] [[H5930|and presented burnt offerings]] [[H3068|to the LORD:]] [[H505|a thousand]] [[H6499|bulls,]] [[H505|a thousand]] [[H352|rams,]] [[H505|and a thousand]] [[H3532|lambs,]] [[H5262|along with their drink offerings,]] [[H2077|and other sacrifices]] [[H7230|in abundance]] [[H3605|for all]] [[H3478|Israel.]] ^2921
 
-This is the Benaiah who was a mighty man of the thirty and in command of the thirty; Ammizabad his son was in charge of his division. ^2706
+[[H1931|That]] [[H3117|day]] [[H398|they ate]] [[H8354|and drank]] [[H1419|with great]] [[H8057|joy]] [[H6440|in the presence]] [[H3068|of the LORD.]] [[H8145|Then, for a second]] [[H1732|time, they designated David’s]] [[H1121|son]] [[H8010|Solomon]] [[H4427|as king,]] [[H4886|anointing him]] [[H3068|before the LORD]] [[H5057|as ruler,]] [[H6659|and Zadok]] [[H3548|as the priest.]] ^2922
 
-Asahel the brother of Joab was fourth, for the fourth month, and his son Zebadiah after him; in his division were 24,000. ^2707
+[[H8010|So Solomon]] [[H3427|sat]] [[H5921|on]] [[H3678|the throne]] [[H3068|of the LORD]] [[H4428|as king]] [[H8478|in place of]] [[H1|his father]] [[H1732|David.]] [[H6743|He prospered,]] [[H3605|and all]] [[H3478|Israel]] [[H8085|obeyed him.]] ^2923
 
-The fifth commander, for the fifth month, was Shamhuth the Izrahite; in his division were 24,000. ^2708
+[[H3605|All]] [[H8269|the officials]] [[H1368|and mighty men,]] [[H1571|as well as]] [[H3605|all]] [[H4428|of King]] [[H1732|David’s]] [[H1121|sons,]] [[H5414|pledged]] [[H3027|their allegiance]] [[H8478|to]] [[H4428|King]] [[H8010|Solomon.]] ^2924
 
-Sixth, for the sixth month, was Ira, the son of Ikkesh the Tekoite; in his division were 24,000. ^2709
+[[H3068|The LORD]] [[H4605|highly]] [[H1431|exalted]] [[H8010|Solomon]] [[H5869|in the sight]] [[H3605|of all]] [[H3478|Israel]] [[H5414|and bestowed]] [[H5921|on him]] [[H4438|royal]] [[H1935|majesty]] [[H834|such as]] [[H3808|had not]] [[H1961|been]] [[H5921|bestowed on]] [[H3605|any]] [[H4428|king]] [[H5921|in]] [[H3478|Israel]] [[H6440|before him.]] ^2925
 
-Seventh, for the seventh month, was Helez the Pelonite, of the sons of Ephraim; in his division were 24,000. ^2710
+[[H1732|David]] [[H1121|son]] [[H3448|of Jesse]] [[H4427|was king]] [[H5921|over]] [[H3605|all]] [[H3478|Israel.]] ^2926
 
-Eighth, for the eighth month, was Sibbecai the Hushathite, of the Zerahites; in his division were 24,000. ^2711
+[[H3117|The length]] [[H834|of David's]] [[H4427|reign]] [[H5921|over]] [[H3478|Israel]] ⟨was⟩ [[H705|forty]] [[H8141|years—]] [[H7651|seven]] [[H8141|years]] [[H2275|in Hebron]] [[H7970|and thirty-three years]] [[H3389|in Jerusalem.]] ^2927
 
-Ninth, for the ninth month, was Abiezer of Anathoth, a Benjaminite; in his division were 24,000. ^2712
+[[H4191|He died]] [[H2896|at a ripe]] [[H7872|old age,]] [[H7649|full]] [[H3117|of days,]] [[H6239|riches,]] [[H3519|and honor,]] [[H1121|and his son]] [[H8010|Solomon]] [[H4427|became king]] [[H8478|in his place.]] ^2928
 
-Tenth, for the tenth month, was Maharai of Netophah, of the Zerahites; in his division were 24,000. ^2713
+[[H1697|Now the acts]] [[H4428|of King]] [[H1732|David,]] [[H7223|from first]] [[H314|to last,]] [[H2009|they are indeed]] [[H3789|written]] [[H5921|in]] [[H1697|the Chronicles]] [[H8050|of Samuel]] [[H7200|the Seer,]] [[H1697|the Chronicles]] [[H5416|of Nathan]] [[H5030|the Prophet,]] [[H5921|and]] [[H1697|the Chronicles]] [[H1410|of Gad]] [[H2374|the Seer,]] ^2929
 
-Eleventh, for the eleventh month, was Benaiah of Pirathon, of the sons of Ephraim; in his division were 24,000. ^2714
+[[H5973|together with]] [[H3605|all the details]] [[H4438|of his reign,]] [[H1369|his might,]] [[H6256|and the circumstances]] [[H834|that]] [[H5674|came]] [[H5921|upon him]] ⟨and⟩ [[H5921|]] [[H3478|Israel]] ⟨and⟩ [[H5921|]] [[H3605|all]] [[H4467|the kingdoms]] [[H776|of the lands.]] ^2930
 
-Twelfth, for the twelfth month, was Heldai the Netophathite, of Othniel; in his division were 24,000. ^2715
+[[H310|Some time later,]] [[H5176|Nahash]] [[H4428|king]] [[H1121|of the Ammonites]] [[H4191|died]] [[H4427|and was succeeded by]] [[H1121|his son.]] ^1901
 
-Over the tribes of Israel, for the Reubenites, Eliezer the son of Zichri was chief officer; for the Simeonites, Shephatiah the son of Maacah; ^2716
+[[H1732|And David]] [[H559|said,]] [[H6213|“I will show]] [[H2617|kindness]] [[H5973|to]] [[H2586|Hanun]] [[H1121|son]] [[H5176|of Nahash,]] [[H3588|because]] [[H1|his father]] [[H6213|showed]] [[H2617|kindness]] [[H5973|to me.”]] [[H1732|So David]] [[H7971|sent]] [[H4397|messengers]] [[H5162|to console]] ⟨Hanun⟩ [[H5921|concerning]] [[H1|his father.]] [[H1732|But when David’s]] [[H5650|servants]] [[H935|arrived]] [[H413|in]] [[H776|the land]] [[H1121|of the Ammonites]] [[H5162|to console him,]] ^1902
 
-for Levi, Hashabiah the son of Kemuel; for Aaron, Zadok; ^2717
+[[H8269|the princes]] [[H1121|of the Ammonites]] [[H559|said]] [[H2586|to Hanun,]] [[H3588|“Just because]] [[H7971|David has sent]] [[H5162|you  comforters,]] [[H5869|do you really believe]] [[H1732|he is]] [[H3513|showing respect]] [[H1|for your father?]] [[H3808|Have not]] [[H5650|his servants]] [[H935|come]] [[H413|to you]] [[H2713|to explore]] [[H776|the land,]] [[H7270|spy it out,]] [[H2015|and overthrow it?]] ^1903
 
-for Judah, Elihu, one of David’s brothers; for Issachar, Omri the son of Michael; ^2718
+[[H2586|So Hanun]] [[H3947|took]] [[H1732|David’s]] [[H5650|servants,]] [[H1548|shaved]] ⟨their beards⟩, [[H3772|cut]] [[H4063|their garments]] [[H2677|in half]] [[H5704|at]] [[H4667|the hips,]] [[H7971|and sent them away.]] ^1904
 
-for Zebulun, Ishmaiah the son of Obadiah; for Naphtali, Jeremoth the son of Azriel; ^2719
+[[H1980|When came]] ⟨someone⟩ [[H5046|and told]] [[H1732|David]] [[H5921|about]] [[H582|his men,]] [[H7971|he sent]] [[H7125|messengers to meet them,]] [[H3588|since]] [[H582|the men]] [[H1961|were]] [[H3966|deeply]] [[H3637|humiliated.]] [[H4428|The king]] [[H559|told them,]] [[H3427|“Stay]] [[H3405|in Jericho]] [[H5704|until]] [[H2206|your beards]] [[H6779|have grown back,]] [[H7725|and return.]] ⟨then⟩ ^1905
 
-for the Ephraimites, Hoshea the son of Azaziah; for the half-tribe of Manasseh, Joel the son of Pedaiah; ^2720
+[[H1121|When the Ammonites]] [[H7200|realized that]] [[H887|they had become a stench]] [[H5973|to]] [[H1732|David,]] [[H2586|Hanun]] [[H1121|and the Ammonites]] [[H7971|sent]] [[H505|a thousand]] [[H3603|talents]] [[H3701|of silver]] [[H7936|to hire]] [[H7393|for themselves  chariots]] [[H6571|and horsemen]] [[H4480|from]] [[H763|Aram-naharaim,]] [[H4601|Aram-maacah,]] [[H6678|and Zobah.]] ^1906
 
-for the half-tribe of Manasseh in Gilead, Iddo the son of Zechariah; for Benjamin, Jaasiel the son of Abner; ^2721
+[[H7936|So they hired]] [[H8147|for themselves  thirty-two]] [[H505|thousand]] [[H7393|chariots,]] [[H853|as well as]] [[H4428|the king]] [[H4601|of Maacah]] [[H5971|with his troops,]] [[H935|who came]] [[H2583|and camped]] [[H6440|near]] [[H4311|Medeba]] [[H1121|while the Ammonites]] [[H5892|came from their cities]] [[H622|and marched out]] [[H4421|for battle.]] ^1907
 
-for Dan, Azarel the son of Jeroham. These were the leaders of the tribes of Israel. ^2722
+[[H8085|On hearing this,]] [[H1732|David]] [[H7971|sent]] [[H3097|Joab]] [[H853|and]] [[H3605|the entire]] [[H6635|army]] [[H1368|of mighty men.]] ^1908
 
-David did not count those below twenty years of age, for the Lord had promised to make Israel as many as the stars of heaven. ^2723
+[[H1121|The Ammonites]] [[H3318|marched out]] [[H6186|and arrayed themselves]] [[H4421|for battle]] [[H6607|at the entrance]] [[H5892|of the city,]] [[H4428|while the kings]] [[H834|who]] [[H935|had come]] [[H905|stayed by themselves]] [[H7704|in the open country.]] ^1909
 
-Joab the son of Zeruiah began to count, but did not finish. Yet wrath came upon Israel for this, and the number was not entered in the chronicles of King David. ^2724
+[[H3097|When Joab]] [[H7200|saw]] [[H4421|the battle lines]] [[H6440|before him]] [[H268|and behind him,]] [[H977|he selected]] [[H3605|some of]] [[H970|the best]] [[H3478|men of Israel]] [[H6186|and arrayed them]] [[H7125|against]] [[H758|the Arameans.]] ^1910
 
-Over the king’s treasuries was Azmaveth the son of Adiel; and over the treasuries in the country, in the cities, in the villages, and in the towers, was Jonathan the son of Uzziah; ^2725
+[[H853|And]] [[H5414|he placed]] [[H3499|the rest]] [[H5971|of the forces]] [[H3027|under the command]] [[H251|of his brother]] [[H52|Abishai,]] [[H6186|who arrayed them]] [[H7125|against]] [[H1121|the Ammonites.]] ^1911
 
-and over those who did the work of the field for tilling the soil was Ezri the son of Chelub; ^2726
+[[H518|“If]] [[H758|the Arameans]] [[H2388|are too strong]] [[H4480|for me,”]] [[H559|said Joab,]] [[H1961|“then you will come]] [[H8668|to my rescue.]] [[H518|And if]] [[H1121|the Ammonites]] [[H2388|are too strong]] [[H4480|for you,]] [[H3467|then I will come to your rescue.]] ^1912
 
-and over the vineyards was Shimei the Ramathite; and over the produce of the vineyards for the wine cellars was Zabdi the Shiphmite. ^2727
+[[H2388|Be strong]] [[H2388|and let us fight bravely]] [[H1157|for]] [[H5971|our people]] [[H1157|and for]] [[H5892|the cities]] [[H430|of our God.]] [[H3068|May the LORD]] [[H2896|do]] [[H6213|what is good]] [[H5869|in His sight.”]] ^1913
 
-Over the olive and sycamore trees in the Shephelah was Baal-hanan the Gederite; and over the stores of oil was Joash. ^2728
+[[H3097|So Joab]] [[H5971|and his troops]] [[H5066|advanced]] [[H4421|to fight]] [[H758|the Arameans,]] [[H5127|who fled]] [[H6440|before]] [[H6440|him.]] ^1914
 
-Over the herds that pastured in Sharon was Shitrai the Sharonite; over the herds in the valleys was Shaphat the son of Adlai. ^2729
+[[H1121|When the Ammonites]] [[H7200|saw]] [[H3588|that]] [[H758|the Arameans]] [[H5127|had fled,]] [[H1992|they]] [[H1571|too]] [[H5127|fled]] [[H6440|before]] [[H251|Joab’s brother]] [[H52|Abishai,]] [[H935|and they entered]] [[H5892|the city.]] [[H3097|So Joab]] [[H935|went back]] [[H3389|to Jerusalem.]] ^1915
 
-Over the camels was Obil the Ishmaelite; and over the donkeys was Jehdeiah the Meronothite. Over the flocks was Jaziz the Hagrite. ^2730
+[[H758|When the Arameans]] [[H7200|saw]] [[H3588|that]] [[H5062|they had been defeated]] [[H6440|by]] [[H3478|Israel,]] [[H7971|they sent]] [[H4397|messengers]] [[H3318|to bring]] ⟨more⟩ [[H758|Arameans]] [[H5676|from beyond]] [[H5104|the Euphrates,]] [[H7780|with Shophach]] [[H8269|the commander]] [[H1909|of Hadadezer’s]] [[H6635|army]] [[H6440|leading them.]] ^1916
 
-All these were stewards of King David’s property. ^2731
+[[H5046|When this was reported]] [[H1732|to David,]] [[H622|he gathered]] [[H3605|all]] [[H3478|Israel,]] [[H5674|crossed]] [[H3383|the Jordan,]] [[H935|and went]] [[H413|against]] [[H758|the Arameans,]] [[H6186|arrayed for battle]] [[H413|against them.]] [[H1732|When David]] [[H6186|lined up]] [[H7125|to engage]] ⟨them⟩ [[H4421|in battle,]] [[H3898|they fought]] [[H5973|against him.]] ^1917
 
-Jonathan, David’s uncle, was a counselor, being a man of understanding and a scribe. He and Jehiel the son of Hachmoni attended the king’s sons. ^2732
+[[H758|But the Arameans]] [[H5127|fled]] [[H6440|before]] [[H3478|Israel,]] [[H1732|and David]] [[H2026|killed]] [[H7651|seven]] [[H505|thousand]] [[H7393|of their charioteers]] [[H705|and forty]] [[H505|thousand]] [[H376|foot soldiers.]] [[H4191|He also killed]] [[H7780|Shophach]] [[H8269|the commander]] [[H6635|of their army.]] ^1918
 
-Ahithophel was the king’s counselor, and Hushai the Archite was the king’s friend. ^2733
-
-Ahithophel was succeeded by Jehoiada the son of Benaiah, and Abiathar. Joab was commander of the king’s army. ^2734
-
-
-
-David assembled at Jerusalem all the officials of Israel, the officials of the tribes, the officers of the divisions that served the king, the commanders of thousands, the commanders of hundreds, the stewards of all the property and livestock of the king and his sons, together with the palace officials, the mighty men and all the seasoned warriors. ^2801
-
-Then King David rose to his feet and said : Hear me, my brothers and my people. I had it in my heart to build a house of rest for the ark of the covenant of the Lord and for the footstool of our God, and I made preparations for building. ^2802
-
-But God said to me, You may not build a house for my name, for you are a man of war and have shed blood. ^2803
-
-Yet the Lord God of Israel chose me from all my father’s house to be king over Israel forever. For he chose Judah as leader, and in the house of Judah my father’s house, and among my father’s sons he took pleasure in me to make me king over all Israel. ^2804
-
-And of all my sons (for the Lord has given me many sons ) he has chosen Solomon my son to sit on the throne of the kingdom of the Lord over Israel. ^2805
-
-He said to me, It is Solomon your son who shall build my house and my courts, for I have chosen him to be my son, and I will be his father. ^2806
-
-I will establish his kingdom forever if he continues strong in keeping my commandments and my rules, as he is today. ^2807
-
-Now therefore in the sight of all Israel, the assembly of the Lord, and in the hearing of our God, observe and seek out all the commandments of the Lord your God, that you may possess this good land and leave it for an inheritance to your children after you forever. ^2808
-
-And you, Solomon my son, know the God of your father and serve him with a whole heart and with a willing mind, for the Lord searches all hearts and understands every plan and thought. If you seek him, he will be found by you, but if you forsake him, he will cast you off forever. ^2809
-
-Be careful now, for the Lord has chosen you to build a house for the sanctuary; be strong and do it. ^2810
-
-Then David gave Solomon his son the plan of the vestibule of the temple, and of its houses, its treasuries, its upper rooms, and its inner chambers, and of the room for the mercy seat; ^2811
-
-and the plan of all that he had in mind for the courts of the house of the Lord, all the surrounding chambers, the treasuries of the house of God, and the treasuries for dedicated gifts; ^2812
-
-for the divisions of the priests and of the Levites, and all the work of the service in the house of the Lord; for all the vessels for the service in the house of the Lord, ^2813
-
-the weight of gold for all golden vessels for each service, the weight of silver vessels for each service, ^2814
-
-the weight of the golden lampstands and their lamps, the weight of gold for each lampstand and its lamps, the weight of silver for a lampstand and its lamps, according to the use of each lampstand in the service, ^2815
-
-the weight of gold for each table for the showbread, the silver for the silver tables, ^2816
-
-and pure gold for the forks, the basins and the cups; for the golden bowls and the weight of each; for the silver bowls and the weight of each; ^2817
-
-for the altar of incense made of refined gold, and its weight; also his plan for the golden chariot of the cherubim that spread their wings and covered the ark of the covenant of the Lord. ^2818
-
-All this he made clear to me in writing from the hand of the Lord, all the work to be done according to the plan. ^2819
-
-Then David said to Solomon his son, Be strong and courageous and do it. Do not be afraid and do not be dismayed, for the Lord God, even my God, is with you. He will not leave you or forsake you, until all the work for the service of the house of the Lord is finished. ^2820
-
-And behold the divisions of the priests and the Levites for all the service of the house of God; and with you in all the work will be every willing man who has skill for any kind of service; also the officers and all the people will be wholly at your command. ^2821
-
-
-
-And David the king said to all the assembly, Solomon my son, whom alone God has chosen, is young and inexperienced, and the work is great, for the palace will not be for man but for the Lord God. ^2901
-
-So I have provided for the house of my God, so far as I was able, the gold for the things of gold, the silver for the things of silver, and the bronze for the things of bronze, the iron for the things of iron, and wood for the things of wood, besides great quantities of onyx and stones for setting, antimony, colored stones, all sorts of precious stones and marble. ^2902
-
-Moreover, in addition to all that I have provided for the holy house, I have a treasure of my own of gold and silver, and because of my devotion to the house of my God I give it to the house of my God : ^2903
-
-3,000 talents of gold, of the gold of Ophir, and 7,000 talents of refined silver, for overlaying the walls of the house, ^2904
-
-and for all the work to be done by craftsmen, gold for the things of gold and silver for the things of silver. Who then will offer willingly, consecrating himself today to the Lord? ^2905
-
-Then the leaders of fathers ’ houses made their freewill offerings, as did also the leaders of the tribes, the commanders of thousands and of hundreds, and the officers over the king’s work. ^2906
-
-They gave for the service of the house of God 5,000 talents and 10,000 darics of gold, 10,000 talents of silver, 18,000 talents of bronze and 100,000 talents of iron. ^2907
-
-And whoever had precious stones gave them to the treasury of the house of the Lord, in the care of Jehiel the Gershonite. ^2908
-
-Then the people rejoiced because they had given willingly, for with a whole heart they had offered freely to the Lord. David the king also rejoiced greatly. ^2909
-
-Therefore David blessed the Lord in the presence of all the assembly. And David said : Blessed are you, O Lord, the God of Israel our father, forever and ever. ^2910
-
-Yours, O Lord, is the greatness and the power and the glory and the victory and the majesty, for all that is in the heavens and in the earth is yours. Yours is the kingdom, O Lord, and you are exalted as head above all. ^2911
-
-Both riches and honor come from you, and you rule over all. In your hand are power and might, and in your hand it is to make great and to give strength to all. ^2912
-
-And now we thank you, our God, and praise your glorious name. ^2913
-
-But who am I, and what is my people, that we should be able thus to offer willingly? For all things come from you, and of your own have we given you. ^2914
-
-For we are strangers before you and sojourners, as all our fathers were. Our days on the earth are like a shadow, and there is no abiding. ^2915
-
-O Lord our God, all this abundance that we have provided for building you a house for your holy name comes from your hand and is all your own. ^2916
-
-I know, my God, that you test the heart and have pleasure in uprightness. In the uprightness of my heart I have freely offered all these things, and now I have seen your people, who are present here, offering freely and joyously to you. ^2917
-
-O Lord, the God of Abraham, Isaac, and Israel, our fathers, keep forever such purposes and thoughts in the hearts of your people, and direct their hearts toward you. ^2918
-
-Grant to Solomon my son a whole heart that he may keep your commandments, your testimonies, and your statutes, performing all, and that he may build the palace for which I have made provision. ^2919
-
-Then David said to all the assembly, Bless the Lord your God. And all the assembly blessed the Lord, the God of their fathers, and bowed their heads and paid homage to the Lord and to the king. ^2920
-
-And they offered sacrifices to the Lord, and on the next day offered burnt offerings to the Lord, 1,000 bulls, 1,000 rams, and 1,000 lambs, with their drink offerings, and sacrifices in abundance for all Israel. ^2921
-
-And they ate and drank before the Lord on that day with great gladness. And they made Solomon the son of David king the second time, and they anointed him as prince for the Lord, and Zadok as priest. ^2922
-
-Then Solomon sat on the throne of the Lord as king in place of David his father. And he prospered, and all Israel obeyed him. ^2923
-
-All the leaders and the mighty men, and also all the sons of King David, pledged their allegiance to King Solomon. ^2924
-
-And the Lord made Solomon very great in the sight of all Israel and bestowed on him such royal majesty as had not been on any king before him in Israel. ^2925
-
-Thus David the son of Jesse reigned over all Israel. ^2926
-
-The time that he reigned over Israel was forty years. He reigned seven years in Hebron and thirty-three years in Jerusalem. ^2927
-
-Then he died at a good age, full of days, riches, and honor. And Solomon his son reigned in his place. ^2928
-
-Now the acts of King David, from first to last, are written in the Chronicles of Samuel the seer, and in the Chronicles of Nathan the prophet, and in the Chronicles of Gad the seer, ^2929
-
-with accounts of all his rule and his might and of the circumstances that came upon him and upon Israel and upon all the kingdoms of the countries. ^2930
-
-
+[[H1909|When Hadadezer’s]] [[H5650|subjects]] [[H7200|saw]] [[H3588|that]] [[H5062|they had been defeated]] [[H6440|by]] [[H3478|Israel,]] [[H7999|they made peace]] [[H5973|with]] [[H1732|David]] [[H5647|and became subject to him.]] [[H758|So the Arameans]] [[H3808|were unwilling]] [[H3467|to help]] [[H1121|the Ammonites]] [[H5750|anymore.]] ^1919

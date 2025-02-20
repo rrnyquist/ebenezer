@@ -209,8 +209,10 @@ var RapidLogging = /** @class */ (function (_super) {
     // For a multi-chapter citation, it reads the canonical file’s contents to determine available anchors.
     // (For Psalms, anchors in the file use three-digit padding; for other books, two digits.)
     RapidLogging.prototype.generateWikiLinksFromCitation = async function (text) {
-        var rangeRegex = /^(\S+)\s+(\d+):(\d+)-(\d+):(\d+)$/;
-        var singleRegex = /^(\S+)\s+(\d+):(\d+)$/;
+        // var rangeRegex = /^(\S+)\s+(\d+):(\d+)-(\d+):(\d+)$/;
+        // var singleRegex = /^(\S+)\s+(\d+):(\d+)$/;
+        var rangeRegex = /^(.+?)\s+(\d+):(\d+)-(\d+):(\d+)$/;
+        var singleRegex = /^(.+?)\s+(\d+):(\d+)$/;
         var match, rawBookName, startChapter, startVerse, endChapter, endVerse;
         if (match = text.trim().match(rangeRegex)) {
             rawBookName = match[1];

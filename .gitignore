@@ -10,7 +10,7 @@
 
 # Except this one plugin and one css snippet:
 !.obsidian/plugins/ebenezer-plugin
-!.obsidian/snippets/ebenezer-babel-wikilink-hiding
+!.obsidian/snippets/ebenezer-babel-wikilink-hiding.css
 
 # Easy catch-all directory for personal study, tests, etc
 git_ignore/

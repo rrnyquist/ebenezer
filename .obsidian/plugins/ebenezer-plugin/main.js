@@ -350,7 +350,7 @@ var EbenezerPlugin = /** @class */ (function (_super) {
             // Single-chapter: generate a link for every verse from start to end.
             for (var v = startVerse; v <= endVerse; v++) {
                 refs.push("![["
-                    + `${this.settings.scriptureDirectory}/ESV/${canonicalBookId}`
+                    + `${this.settings.scriptureDirectory}/${this.settings.defaultTranslation}/${canonicalBookId}`
                     + "#^" + pad(startChapter) + pad(v)
                     + "]]");
             }
@@ -361,7 +361,7 @@ var EbenezerPlugin = /** @class */ (function (_super) {
             var maxStart = (startRange.max > 0) ? startRange.max : startVerse;
             for (var v = startVerse; v <= maxStart; v++) {
                 refs.push("![["
-                    + `${this.settings.scriptureDirectory}/ESV/${canonicalBookId}`
+                    + `${this.settings.scriptureDirectory}/${this.settings.defaultTranslation}/${canonicalBookId}`
                     + "#^" + pad(startChapter) + pad(v)
                     + "]]");
             }
@@ -371,7 +371,7 @@ var EbenezerPlugin = /** @class */ (function (_super) {
                 if (midRange.max > 0) {
                     for (var v = midRange.min; v <= midRange.max; v++) {
                         refs.push("![["
-                            + `${this.settings.scriptureDirectory}/ESV/${canonicalBookId}`
+                            + `${this.settings.scriptureDirectory}/${this.settings.defaultTranslation}/${canonicalBookId}`
                             + "#^" + pad(ch) + pad(v)
                             + "]]");
                     }
@@ -382,7 +382,7 @@ var EbenezerPlugin = /** @class */ (function (_super) {
             var minEnd = (endRange.min > 0) ? endRange.min : 1;
             for (var v = minEnd; v <= endVerse; v++) {
                 refs.push("![["
-                    + `${this.settings.scriptureDirectory}/ESV/${canonicalBookId}`
+                    + `${this.settings.scriptureDirectory}/${this.settings.defaultTranslation}/${canonicalBookId}`
                     + "#^" + pad(endChapter) + pad(v)
                     + "]]");
             }
@@ -430,10 +430,11 @@ var EbenezerPlugin = /** @class */ (function (_super) {
 
 // NEW CODE: Plugin Settings Support
 
-// Default settings
+// Default settings (added defaultTranslation)
 var DEFAULT_SETTINGS = {
     CiteWithArabic: false,
-    scriptureDirectory: '_Scripture'
+    scriptureDirectory: '_Scripture',
+    defaultTranslation: 'ESV'
 };
 
 // Load and save settings methods added to the plugin prototype.
@@ -477,6 +478,30 @@ var EbenezerPluginSettingTab = /** @class */ (function (_super) {
                 await this.plugin.saveSettings();
             })
         );
+        // NEW CODE: Add a dropdown to select the default translation folder.
+        new obsidian.Setting(containerEl)
+            .setName('Default Translation Folder')
+            .setDesc('Select the default translation folder to use in wikilinks.')
+            .addDropdown(drop => {
+                const scriptureFolder = this.plugin.app.vault.getAbstractFileByPath(this.plugin.settings.scriptureDirectory);
+                let translationFolders = [];
+                if (scriptureFolder && scriptureFolder.children) {
+                    translationFolders = scriptureFolder.children
+                        .filter(child => child instanceof obsidian.TFolder)
+                        .map(folder => folder.name);
+                }
+                if (translationFolders.length === 0) {
+                    translationFolders = ['ESV'];
+                }
+                const options = {};
+                translationFolders.forEach(folder => { options[folder] = folder; });
+                drop.addOptions(options);
+                drop.setValue(this.plugin.settings.defaultTranslation || 'ESV');
+                drop.onChange(async (value) => {
+                    this.plugin.settings.defaultTranslation = value;
+                    await this.plugin.saveSettings();
+                });
+            });
     };
 
     return EbenezerPluginSettingTab;

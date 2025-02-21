@@ -232,13 +232,36 @@ var EbenezerPlugin = /** @class */ (function (_super) {
     // For a multi-chapter citation, it reads the canonical file’s contents to determine available anchors.
     // (For Psalms, anchors in the file use three-digit padding; for other books, two digits.)
     EbenezerPlugin.prototype.generateWikiLinksFromCitation = async function (text) {
+        // Regex for "Book Ch:Vs-Ch:Ve"
         var rangeRegex = /^(.+?)\s+(\d+):(\d+)-(\d+):(\d+)$/;
-        // New regex to handle "Book Ch:Vs-Ve"
+        // Regex to handle "Book Ch:Vs-Ve"
         var singleChapterRangeRegex = /^(.+?)\s+(\d+):(\d+)-(\d+)$/;
+        // Regex to handle "Book Ch:V"
         var singleRegex = /^(.+?)\s+(\d+):(\d+)$/;
+        // Regex for one-chapter books when no colon is present: e.g. "Jude 5" or "Jude 5-7"
+        var oneChapterRegex = /^(.+?)\s+(\d+)(?:-(\d+))?$/;
         var match, rawBookName, startChapter, startVerse, endChapter, endVerse;
-        
-        if (match = text.trim().match(singleChapterRangeRegex)) {
+    
+        // If there is no colon, check for one-chapter books.
+        if (text.indexOf(":") === -1) {
+            if (match = text.trim().match(oneChapterRegex)) {
+                rawBookName = match[1];
+                // Determine the canonical book id early.
+                var cleanedBookName = this.cleanBookName(this.normalizeBookName(rawBookName));
+                // List of one-chapter books.
+                var specialBooks = ["Obadiah", "II John", "III John", "Jude", "Philemon"];
+                if (specialBooks.map(s => s.toLowerCase()).includes(cleanedBookName.toLowerCase())) {
+                    startChapter = 1;
+                    endChapter = 1;
+                    startVerse = parseInt(match[2], 10);
+                    endVerse = match[3] ? parseInt(match[3], 10) : startVerse;
+                } else {
+                    return text;
+                }
+            } else {
+                return text;
+            }
+        } else if (match = text.trim().match(singleChapterRangeRegex)) {
             // Handles "Book Ch:Vs-Ve" (implying same chapter)
             rawBookName = match[1];
             startChapter = parseInt(match[2], 10);

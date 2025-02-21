@@ -27,23 +27,21 @@ function __extends(d, b) {
     d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
 }
 
-// Helper: Convert an Arabic numeral to a Roman numeral (supports 1-10 for example)
-function arabicToRoman(num) {
-    const romanMap = [
-        { value: 3, numeral: "III" },
-        { value: 2, numeral: "II" },
-        { value: 1, numeral: "I" }
-    ];
-    let result = "";
-    for (let i = 0; i < romanMap.length; i++) {
-        while (num >= romanMap[i].value) {
-            result += romanMap[i].numeral;
-            num -= romanMap[i].value;
-        }
+// Helper: Convert between Arabic numerals and Roman numerals (supports 1-3)
+function convertNumeral(input) {
+    // Map supports only 1, 2, and 3.
+    const mapping = { 1: "I", 2: "II", 3: "III" };
+    if (typeof input === "number") {
+      return mapping[input] || "";
+    } else if (typeof input === "string") {
+      // Reverse lookup: only works for "I", "II", and "III".
+      for (const key in mapping) {
+        if (mapping[key] === input) return parseInt(key, 10);
+      }
     }
-    return result;
-}
-
+    return null;
+  }
+  
 var EbenezerPlugin = /** @class */ (function (_super) {
     __extends(EbenezerPlugin, _super);
     function EbenezerPlugin() {
@@ -53,6 +51,11 @@ var EbenezerPlugin = /** @class */ (function (_super) {
     EbenezerPlugin.prototype.onload = function () {
         var _this = this;
         console.log('Loading Citation Toggle plugin');
+        
+        // ─── NEW CODE: Load settings and add settings tab with our toggle option.
+        this.loadSettings().then(() => {
+            this.addSettingTab(new EbenezerPluginSettingTab(this.app, this));
+        });
         
         this.addCommand({
             id: 'toggle-citation',
@@ -121,7 +124,7 @@ var EbenezerPlugin = /** @class */ (function (_super) {
         if (match) {
             let arabicNum = parseInt(match[1]);
             // Convert the Arabic numeral to Roman numeral.
-            let roman = arabicToRoman(arabicNum);
+            let roman = convertNumeral(arabicNum);
             return roman + match[2] + match[3];
         }
         // Otherwise, return the bookName unchanged.
@@ -210,22 +213,53 @@ var EbenezerPlugin = /** @class */ (function (_super) {
             anchors.push(match[2] + match[3]);
         }
         if (anchors.length === 0) return text;
+        
         var bookName = this.cleanBookName(bookId);
+        var specialBooks = ["Obadiah", "II John", "III John", "Jude", "Philemon"];
+        
         var first = anchors[0];
         var halfLength = first.length / 2;
         var firstChapter = parseInt(first.substring(0, halfLength), 10);
         var firstVerse = parseInt(first.substring(halfLength), 10);
+        
+        var citation = "";
         if (anchors.length === 1) {
-            return bookName + " " + firstChapter + ":" + firstVerse;
+            if (specialBooks.indexOf(bookName) !== -1 && firstChapter === 1) {
+                // One-chapter books don't need a chapter identifier
+                citation = bookName + " " + firstVerse;
+            } else {
+                // For a single WikiLink, output "Book Chapter:Verse"
+                citation = bookName + " " + firstChapter + ":" + firstVerse;
+            }
+        } else {
+            var last = anchors[anchors.length - 1];
+            var halfLengthLast = last.length / 2;
+            var lastChapter = parseInt(last.substring(0, halfLengthLast), 10);
+            var lastVerse = parseInt(last.substring(halfLengthLast), 10);
+            
+            // If the book is a special book and both anchors are in chapter 1,
+            // format as "Book Vstart-Vend" (dropping the chapter number)
+            if (specialBooks.indexOf(bookName) !== -1 && firstChapter === 1 && lastChapter === 1) {
+                citation = bookName + " " + firstVerse + "-" + lastVerse;
+            }
+            // If both anchors are in the same chapter, output as "Book Ch:Vstart-Vend"
+            else if (firstChapter === lastChapter) {
+                citation = bookName + " " + firstChapter + ":" + firstVerse + "-" + lastVerse;
+            }
+            // Else, output as "Book Ch:Vstart-Ch:Vend"
+            else {
+                citation = bookName + " " + firstChapter + ":" + firstVerse + "-" + lastChapter + ":" + lastVerse;
+            }
         }
-        var last = anchors[anchors.length - 1];
-        var halfLengthLast = last.length / 2;
-        var lastChapter = parseInt(last.substring(0, halfLengthLast), 10);
-        var lastVerse = parseInt(last.substring(halfLengthLast), 10);
-        return bookName + " " + firstChapter + ":" + firstVerse +
-                "-" + lastChapter + ":" + lastVerse;
+        // NEW CODE: If the toggle is on, convert a leading Roman numeral to Arabic.
+        if (this.settings.CiteWithArabic) {
+            citation = citation.replace(/^([IVXLCDM]+)(\s+)/, function(match, p1, p2) {
+                return convertNumeral(p1) + p2;
+            });
+        }
+        return citation;
     };
-
+    
     // ─── Generate a WikiLinks line (wikilinks) from a citation.
     // Expected citation formats: either "Book Ch:Vs-Ch:Ve" or "Book Ch:V" (single WikiLink).
     // For a single-chapter citation the plugin generates every wikilink from the cited start verse to end verse.
@@ -338,6 +372,47 @@ var EbenezerPlugin = /** @class */ (function (_super) {
 
     return EbenezerPlugin;
 }(obsidian.Plugin));
+
+// NEW CODE: Plugin Settings Support
+
+// Default settings
+var DEFAULT_SETTINGS = {
+    CiteWithArabic: false
+};
+
+// Load and save settings methods added to the plugin prototype.
+EbenezerPlugin.prototype.loadSettings = async function () {
+    this.settings = Object.assign({}, DEFAULT_SETTINGS, await this.loadData());
+};
+
+EbenezerPlugin.prototype.saveSettings = async function () {
+    await this.saveData(this.settings);
+};
+
+// Define a settings tab for the plugin.
+var EbenezerPluginSettingTab = /** @class */ (function (_super) {
+    __extends(EbenezerPluginSettingTab, _super);
+    function EbenezerPluginSettingTab(app, plugin) {
+        var _this = _super.call(this, app, plugin) || this;
+        _this.plugin = plugin;
+        return _this;
+    }
+    EbenezerPluginSettingTab.prototype.display = function () {
+        var containerEl = this.containerEl;
+        containerEl.empty();
+        containerEl.createEl('h2', { text: 'Citation Toggle Settings' });
+        new obsidian.Setting(containerEl)
+            .setName('Cite with Arabic Numerals')
+            .setDesc('OFF: II Peter 1:1 | ON: 2 Peter 1:1')
+            .addToggle(toggle => toggle
+                .setValue(this.plugin.settings.CiteWithArabic)
+                .onChange(async (value) => {
+                    this.plugin.settings.CiteWithArabic = value;
+                    await this.plugin.saveSettings();
+                }));
+    };
+    return EbenezerPluginSettingTab;
+}(obsidian.PluginSettingTab));
 
 module.exports = EbenezerPlugin;
 

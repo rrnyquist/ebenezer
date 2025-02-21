@@ -1,5 +1,3 @@
-
-
 The elder to the beloved Gaius, whom I love in truth. ^0101
 
 Beloved, I pray that all may go well with you and that you may be in good health, as it goes well with your soul. ^0102
@@ -27,7 +25,3 @@ Demetrius has received a good testimony from everyone, and from the truth itself
 I had much to write to you, but I would rather not write with pen and ink. ^0113
 
 I hope to see you soon, and we will talk face to face. ^0114
-
-Peace be to you. The friends greet you. Greet the friends, each by name. ^0115
-
-

@@ -1,8 +1,6 @@
-
-
 Paul, an apostle of Christ Jesus by the will of God, and Timothy our brother, ^0101
 
-To the saints and faithful brothers in Christ at Colossae : Grace to you and peace from God our Father. ^0102
+To the saints and faithful brothers in Christ at Colossae:Grace to you and peace from God our Father. ^0102
 
 We always thank God, the Father of our Lord Jesus Christ, when we pray for you, ^0103
 
@@ -10,7 +8,7 @@ since we heard of your faith in Christ Jesus and of the love that you have for a
 
 because of the hope laid up for you in heaven. Of this you have heard before in the word of the truth, the gospel, ^0105
 
-which has come to you, as indeed in the whole world it is bearing fruit and increasing — as it also does among you, since the day you heard it and understood the grace of God in truth, ^0106
+which has come to you, as indeed in the whole world it is bearing fruit and growing--as it also does among you, since the day you heard it and understood the grace of God in truth, ^0106
 
 just as you learned it from Epaphras our beloved fellow servant. He is a faithful minister of Christ on your behalf ^0107
 
@@ -30,7 +28,7 @@ in whom we have redemption, the forgiveness of sins. ^0114
 
 He is the image of the invisible God, the firstborn of all creation. ^0115
 
-For by him all things were created, in heaven and on earth, visible and invisible, whether thrones or dominions or rulers or authorities —all things were created through him and for him. ^0116
+For by him all things were created, in heaven and on earth, visible and invisible, whether thrones or dominions or rulers or authorities--all things were created through him and for him. ^0116
 
 And he is before all things, and in him all things hold together. ^0117
 
@@ -46,7 +44,7 @@ he has now reconciled in his body of flesh by his death, in order to present you
 
 if indeed you continue in the faith, stable and steadfast, not shifting from the hope of the gospel that you heard, which has been proclaimed in all creation under heaven, and of which I, Paul, became a minister. ^0123
 
-Now I rejoice in my sufferings for your sake, and in my flesh I am filling up what is lacking in Christ’s afflictions for the sake of his body, that is, the church, ^0124
+Now I rejoice in my sufferings for your sake, and in my flesh I am filling up what is lacking in Christ's afflictions for the sake of his body, that is, the church, ^0124
 
 of which I became a minister according to the stewardship from God that was given to me for you, to make the word of God fully known, ^0125
 
@@ -59,10 +57,9 @@ Him we proclaim, warning everyone and teaching everyone with all wisdom, that we
 For this I toil, struggling with all his energy that he powerfully works within me. ^0129
 
 
-
 For I want you to know how great a struggle I have for you and for those at Laodicea and for all who have not seen me face to face, ^0201
 
-that their hearts may be encouraged, being knit together in love, to reach all the riches of full assurance of understanding and the knowledge of God’s mystery, which is Christ, ^0202
+that their hearts may be encouraged, being knit together in love, to reach all the riches of full assurance of understanding and the knowledge of God's mystery, which is Christ, ^0202
 
 in whom are hidden all the treasures of wisdom and knowledge. ^0203
 
@@ -98,14 +95,13 @@ Let no one disqualify you, insisting on asceticism and worship of angels, going 
 
 and not holding fast to the Head, from whom the whole body, nourished and knit together through its joints and ligaments, grows with a growth that is from God. ^0219
 
-If with Christ you died to the elemental spirits of the world, why, as if you were still alive in the world, do you submit to regulations — ^0220
+If with Christ you died to the elemental spirits of the world, why, as if you were still alive in the world, do you submit to regulations-- ^0220
 
 Do not handle, Do not taste, Do not touch ^0221
 
-( referring to things that all perish as they are used )—according to human precepts and teachings? ^0222
+(referring to things that all perish as they are used)--according to human precepts and teachings? ^0222
 
 These have indeed an appearance of wisdom in promoting self-made religion and asceticism and severity to the body, but they are of no value in stopping the indulgence of the flesh. ^0223
-
 
 
 If then you have been raised with Christ, seek the things that are above, where Christ is, seated at the right hand of God. ^0301
@@ -122,7 +118,7 @@ On account of these the wrath of God is coming. ^0306
 
 In these you too once walked, when you were living in them. ^0307
 
-But now you must put them all away : anger, wrath, malice, slander, and obscene talk from your mouth. ^0308
+But now you must put them all away: anger, wrath, malice, slander, and obscene talk from your mouth. ^0308
 
 Do not lie to one another, seeing that you have put off the old self with its practices ^0309
 
@@ -130,7 +126,7 @@ and have put on the new self, which is being renewed in knowledge after the imag
 
 Here there is not Greek and Jew, circumcised and uncircumcised, barbarian, Scythian, slave, free; but Christ is all, and in all. ^0311
 
-Put on then, as God’s chosen ones, holy and beloved, compassionate hearts, kindness, humility, meekness, and patience, ^0312
+Put on then, as God's chosen ones, holy and beloved, compassion, kindness, humility, meekness, and patience, ^0312
 
 bearing with one another and, if one has a complaint against another, forgiving each other; as the Lord has forgiven you, so you also must forgive. ^0313
 
@@ -150,7 +146,7 @@ Children, obey your parents in everything, for this pleases the Lord. ^0320
 
 Fathers, do not provoke your children, lest they become discouraged. ^0321
 
-Bondservants, obey in everything those who are your earthly masters, not by way of eye-service, as people-pleasers, but with sincerity of heart, fearing the Lord. ^0322
+Slaves, obey in everything those who are your earthly masters, not by way of eye-service, as people-pleasers, but with sincerity of heart, fearing the Lord. ^0322
 
 Whatever you do, work heartily, as for the Lord and not for men, ^0323
 
@@ -159,16 +155,15 @@ knowing that from the Lord you will receive the inheritance as your reward. You 
 For the wrongdoer will be paid back for the wrong he has done, and there is no partiality. ^0325
 
 
-
-Masters, treat your bondservants justly and fairly, knowing that you also have a Master in heaven. ^0401
+Masters, treat your slaves justly and fairly, knowing that you also have a Master in heaven. ^0401
 
 Continue steadfastly in prayer, being watchful in it with thanksgiving. ^0402
 
-At the same time, pray also for us, that God may open to us a door for the word, to declare the mystery of Christ, on account of which I am in prison — ^0403
+At the same time, pray also for us, that God may open to us a door for the word, to declare the mystery of Christ, on account of which I am in prison-- ^0403
 
 that I may make it clear, which is how I ought to speak. ^0404
 
-Walk in wisdom toward outsiders, making the best use of the time. ^0405
+Conduct yourselves wisely toward outsiders, making the best use of the time. ^0405
 
 Let your speech always be gracious, seasoned with salt, so that you may know how you ought to answer each person. ^0406
 
@@ -178,7 +173,7 @@ I have sent him to you for this very purpose, that you may know how we are and t
 
 and with him Onesimus, our faithful and beloved brother, who is one of you. They will tell you of everything that has taken place here. ^0409
 
-Aristarchus my fellow prisoner greets you, and Mark the cousin of Barnabas ( concerning whom you have received instructions — if he comes to you, welcome him ), ^0410
+Aristarchus my fellow prisoner greets you, and Mark the cousin of Barnabas (concerning whom you have received instructions--if he comes to you, welcome him), ^0410
 
 and Jesus who is called Justus. These are the only men of the circumcision among my fellow workers for the kingdom of God, and they have been a comfort to me. ^0411
 
@@ -195,5 +190,3 @@ And when this letter has been read among you, have it also read in the church of
 And say to Archippus, See that you fulfill the ministry that you have received in the Lord. ^0417
 
 I, Paul, write this greeting with my own hand. Remember my chains. Grace be with you. ^0418
-
-

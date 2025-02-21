@@ -1,18 +1,16 @@
+Peter, an apostle of Jesus Christ, To those who are elect exiles of the dispersion in Pontus, Galatia, Cappadocia, Asia, and Bithynia, ^0101
 
-
-Peter, an apostle of Jesus Christ, To those who are elect exiles of the Dispersion in Pontus, Galatia, Cappadocia, Asia, and Bithynia, ^0101
-
-according to the foreknowledge of God the Father, in the sanctification of the Spirit, for obedience to Jesus Christ and for sprinkling with his blood : May grace and peace be multiplied to you. ^0102
+according to the foreknowledge of God the Father, in the sanctification of the Spirit, for obedience to Jesus Christ and for sprinkling with his blood:May grace and peace be multiplied to you. ^0102
 
 Blessed be the God and Father of our Lord Jesus Christ! According to his great mercy, he has caused us to be born again to a living hope through the resurrection of Jesus Christ from the dead, ^0103
 
 to an inheritance that is imperishable, undefiled, and unfading, kept in heaven for you, ^0104
 
-who by God’s power are being guarded through faith for a salvation ready to be revealed in the last time. ^0105
+who by God's power are being guarded through faith for a salvation ready to be revealed in the last time. ^0105
 
 In this you rejoice, though now for a little while, if necessary, you have been grieved by various trials, ^0106
 
-so that the tested genuineness of your faith —more precious than gold that perishes though it is tested by fire —may be found to result in praise and glory and honor at the revelation of Jesus Christ. ^0107
+so that the tested genuineness of your faith--more precious than gold that perishes though it is tested by fire--may be found to result in praise and glory and honor at the revelation of Jesus Christ. ^0107
 
 Though you have not seen him, you love him. Though you do not now see him, you believe in him and rejoice with joy that is inexpressible and filled with glory, ^0108
 
@@ -32,13 +30,13 @@ but as he who called you is holy, you also be holy in all your conduct, ^0115
 
 since it is written, You shall be holy, for I am holy. ^0116
 
-And if you call on him as Father who judges impartially according to each one’s deeds, conduct yourselves with fear throughout the time of your exile, ^0117
+And if you call on him as Father who judges impartially according to each one's deeds, conduct yourselves with fear throughout the time of your exile, ^0117
 
 knowing that you were ransomed from the futile ways inherited from your forefathers, not with perishable things such as silver or gold, ^0118
 
 but with the precious blood of Christ, like that of a lamb without blemish or spot. ^0119
 
-He was foreknown before the foundation of the world but was made manifest in the last times for the sake of you ^0120
+He was foreknown before the foundation of the world but was made manifest in the last times for your sake, ^0120
 
 who through him are believers in God, who raised him from the dead and gave him glory, so that your faith and hope are in God. ^0121
 
@@ -48,13 +46,12 @@ since you have been born again, not of perishable seed but of imperishable, thro
 
 for All flesh is like grass and all its glory like the flower of grass. The grass withers, and the flower falls, ^0124
 
-but the word of the Lord remains forever. And this word is the good news that was preached to you. ^0125
-
+but the word of the Lord remains forever.And this word is the good news that was preached to you. ^0125
 
 
 So put away all malice and all deceit and hypocrisy and envy and all slander. ^0201
 
-Like newborn infants, long for the pure spiritual milk, that by it you may grow up into salvation— ^0202
+Like newborn infants, long for the pure spiritual milk, that by it you may grow up to salvation-- ^0202
 
 if indeed you have tasted that the Lord is good. ^0203
 
@@ -62,21 +59,21 @@ As you come to him, a living stone rejected by men but in the sight of God chose
 
 you yourselves like living stones are being built up as a spiritual house, to be a holy priesthood, to offer spiritual sacrifices acceptable to God through Jesus Christ. ^0205
 
-For it stands in Scripture : Behold, I am laying in Zion a stone, a cornerstone chosen and precious, and whoever believes in him will not be put to shame. ^0206
+For it stands in Scripture: Behold, I am laying in Zion a stone, a cornerstone chosen and precious, and whoever believes in him will not be put to shame. ^0206
 
 So the honor is for you who believe, but for those who do not believe, The stone that the builders rejected has become the cornerstone, ^0207
 
-and A stone of stumbling, and a rock of offense. They stumble because they disobey the word, as they were destined to do. ^0208
+and A stone of stumbling, and a rock of offense.They stumble because they disobey the word, as they were destined to do. ^0208
 
 But you are a chosen race, a royal priesthood, a holy nation, a people for his own possession, that you may proclaim the excellencies of him who called you out of darkness into his marvelous light. ^0209
 
-Once you were not a people, but now you are God’s people; once you had not received mercy, but now you have received mercy. ^0210
+Once you were not a people, but now you are God's people; once you had not received mercy, but now you have received mercy. ^0210
 
 Beloved, I urge you as sojourners and exiles to abstain from the passions of the flesh, which wage war against your soul. ^0211
 
 Keep your conduct among the Gentiles honorable, so that when they speak against you as evildoers, they may see your good deeds and glorify God on the day of visitation. ^0212
 
-Be subject for the Lord’s sake to every human institution, whether it be to the emperor as supreme, ^0213
+Be subject for the Lord's sake to every human institution, whether it be to the emperor as supreme, ^0213
 
 or to governors as sent by him to punish those who do evil and to praise those who do good. ^0214
 
@@ -103,16 +100,15 @@ He himself bore our sins in his body on the tree, that we might die to sin and l
 For you were straying like sheep, but have now returned to the Shepherd and Overseer of your souls. ^0225
 
 
-
-Likewise, wives, be subject to your own husbands, so that even if some do not obey the word, they may be won without a word by the conduct of their wives, ^0301
+Likewise, wives, be subject to your own husbands, so that even if some do not obey the word, they may be won without a word by the conduct of their wives-- ^0301
 
 when they see your respectful and pure conduct. ^0302
 
-Do not let your adorning be external —the braiding of hair and the putting on of gold jewelry, or the clothing you wear — ^0303
+Do not let your adorning be external--the braiding of hair, the wearing of gold, or the putting on of clothing-- ^0303
 
-but let your adorning be the hidden person of the heart with the imperishable beauty of a gentle and quiet spirit, which in God’s sight is very precious. ^0304
+but let your adorning be the hidden person of the heart with the imperishable beauty of a gentle and quiet spirit, which in God's sight is very precious. ^0304
 
-For this is how the holy women who hoped in God used to adorn themselves, by submitting to their own husbands, ^0305
+For this is how the holy women who hoped in God used to adorn themselves, by submitting to their husbands, ^0305
 
 as Sarah obeyed Abraham, calling him lord. And you are her children, if you do good and do not fear anything that is frightening. ^0306
 
@@ -130,31 +126,30 @@ For the eyes of the Lord are on the righteous, and his ears are open to their pr
 
 Now who is there to harm you if you are zealous for what is good? ^0313
 
-But even if you should suffer for righteousness’ sake, you will be blessed. Have no fear of them, nor be troubled, ^0314
+But even if you should suffer for righteousness' sake, you will be blessed. Have no fear of them, nor be troubled, ^0314
 
-but in your hearts honor Christ the Lord as holy, always being prepared to make a defense to anyone who asks you for a reason for the hope that is in you; yet do it with gentleness and respect, ^0315
+but in your hearts regard Christ the Lord as holy, always being prepared to make a defense to anyone who asks you for a reason for the hope that is in you; ^0315
 
-having a good conscience, so that, when you are slandered, those who revile your good behavior in Christ may be put to shame. ^0316
+yet do it with gentleness and respect, having a good conscience, so that, when you are slandered, those who revile your good behavior in Christ may be put to shame. ^0316
 
-For it is better to suffer for doing good, if that should be God’s will, than for doing evil. ^0317
+For it is better to suffer for doing good, if that should be God's will, than for doing evil. ^0317
 
 For Christ also suffered once for sins, the righteous for the unrighteous, that he might bring us to God, being put to death in the flesh but made alive in the spirit, ^0318
 
 in which he went and proclaimed to the spirits in prison, ^0319
 
-because they formerly did not obey, when God’s patience waited in the days of Noah, while the ark was being prepared, in which a few, that is, eight persons, were brought safely through water. ^0320
+because they formerly did not obey, when God's patience waited in the days of Noah, while the ark was being prepared, in which a few, that is, eight persons, were brought safely through water. ^0320
 
 Baptism, which corresponds to this, now saves you, not as a removal of dirt from the body but as an appeal to God for a good conscience, through the resurrection of Jesus Christ, ^0321
 
 who has gone into heaven and is at the right hand of God, with angels, authorities, and powers having been subjected to him. ^0322
 
 
-
 Since therefore Christ suffered in the flesh, arm yourselves with the same way of thinking, for whoever has suffered in the flesh has ceased from sin, ^0401
 
 so as to live for the rest of the time in the flesh no longer for human passions but for the will of God. ^0402
 
-For the time that is past suffices for doing what the Gentiles want to do, living in sensuality, passions, drunkenness, orgies, drinking parties, and lawless idolatry. ^0403
+The time that is past suffices for doing what the Gentiles want to do, living in sensuality, passions, drunkenness, orgies, drinking parties, and lawless idolatry. ^0403
 
 With respect to this they are surprised when you do not join them in the same flood of debauchery, and they malign you; ^0404
 
@@ -168,13 +163,13 @@ Above all, keep loving one another earnestly, since love covers a multitude of s
 
 Show hospitality to one another without grumbling. ^0409
 
-As each has received a gift, use it to serve one another, as good stewards of God’s varied grace : ^0410
+As each has received a gift, use it to serve one another, as good stewards of God's varied grace: ^0410
 
-whoever speaks, as one who speaks oracles of God; whoever serves, as one who serves by the strength that God supplies —in order that in everything God may be glorified through Jesus Christ. To him belong glory and dominion forever and ever. Amen. ^0411
+whoever speaks, as one who speaks oracles of God; whoever serves, as one who serves by the strength that God supplies--in order that in everything God may be glorified through Jesus Christ. To him belong glory and dominion forever and ever. Amen. ^0411
 
 Beloved, do not be surprised at the fiery trial when it comes upon you to test you, as though something strange were happening to you. ^0412
 
-But rejoice insofar as you share Christ’s sufferings, that you may also rejoice and be glad when his glory is revealed. ^0413
+But rejoice insofar as you share Christ's sufferings, that you may also rejoice and be glad when his glory is revealed. ^0413
 
 If you are insulted for the name of Christ, you are blessed, because the Spirit of glory and of God rests upon you. ^0414
 
@@ -186,11 +181,10 @@ For it is time for judgment to begin at the household of God; and if it begins w
 
 And If the righteous is scarcely saved, what will become of the ungodly and the sinner? ^0418
 
-Therefore let those who suffer according to God’s will entrust their souls to a faithful Creator while doing good. ^0419
+Therefore let those who suffer according to God's will entrust their souls to a faithful Creator while doing good. ^0419
 
 
-
-So I exhort the elders among you, as a fellow elder and a witness of the sufferings of Christ, as well as a partaker in the glory that is going to be revealed : ^0501
+So I exhort the elders among you, as a fellow elder and a witness of the sufferings of Christ, as well as a partaker in the glory that is going to be revealed: ^0501
 
 shepherd the flock of God that is among you, exercising oversight, not under compulsion, but willingly, as God would have you; not for shameful gain, but eagerly; ^0502
 
@@ -216,6 +210,4 @@ By Silvanus, a faithful brother as I regard him, I have written briefly to you, 
 
 She who is at Babylon, who is likewise chosen, sends you greetings, and so does Mark, my son. ^0513
 
-Greet one another with the kiss of love. Peace to all of you who are in Christ. ^0514
-
-
+Greet one another with the kiss of love.Peace to all of you who are in Christ. ^0514

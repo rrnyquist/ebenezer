@@ -1,8 +1,6 @@
-
-
 The oracle that Habakkuk the prophet saw. ^0101
 
-O Lord, how long shall I cry for help, and you will not hear? Or cry to you Violence! and you will not save? ^0102
+O LORD, how long shall I cry for help, and you will not hear? Or cry to you Violence! and you will not save? ^0102
 
 Why do you make me see iniquity, and why do you idly look at wrong? Destruction and violence are before me; strife and contention arise. ^0103
 
@@ -22,9 +20,9 @@ At kings they scoff, and at rulers they laugh. They laugh at every fortress, for
 
 Then they sweep by like the wind and go on, guilty men, whose own might is their god! ^0111
 
-Are you not from everlasting, O Lord my God, my Holy One? We shall not die. O Lord, you have ordained them as a judgment, and you, O Rock, have established them for reproof. ^0112
+Are you not from everlasting, O LORD my God, my Holy One? We shall not die. O LORD, you have ordained them as a judgment, and you, O Rock, have established them for reproof. ^0112
 
-You who are of purer eyes than to see evil and cannot look at wrong, why do you idly look at traitors and remain silent when the wicked swallows up the man more righteous than he? ^0113
+You who are of purer eyes than to see evil and cannot look at wrong, why do you idly look at traitors and are silent when the wicked swallows up the man more righteous than he? ^0113
 
 You make mankind like the fish of the sea, like crawling things that have no ruler. ^0114
 
@@ -35,18 +33,17 @@ Therefore he sacrifices to his net and makes offerings to his dragnet; for by th
 Is he then to keep on emptying his net and mercilessly killing nations forever? ^0117
 
 
-
 I will take my stand at my watchpost and station myself on the tower, and look out to see what he will say to me, and what I will answer concerning my complaint. ^0201
 
-And the Lord answered me: Write the vision; make it plain on tablets, so he may run who reads it. ^0202
+And the LORD answered me: Write the vision; make it plain on tablets, so he may run who reads it. ^0202
 
-For still the vision awaits its appointed time; it hastens to the end —it will not lie. If it seems slow, wait for it; it will surely come; it will not delay. ^0203
+For still the vision awaits its appointed time; it hastens to the end--it will not lie. If it seems slow, wait for it; it will surely come; it will not delay. ^0203
 
 Behold, his soul is puffed up; it is not upright within him, but the righteous shall live by his faith. ^0204
 
 Moreover, wine is a traitor, an arrogant man who is never at rest. His greed is as wide as Sheol; like death he has never enough. He gathers for himself all nations and collects as his own all peoples. ^0205
 
-Shall not all these take up their taunt against him, with scoffing and riddles for him, and say, Woe to him who heaps up what is not his own— for how long?— and loads himself with pledges! ^0206
+Shall not all these take up their taunt against him, with scoffing and riddles for him, and say, Woe to him who heaps up what is not his own--for how long?--and loads himself with pledges! ^0206
 
 Will not your debtors suddenly arise, and those awake who will make you tremble? Then you will be spoil for them. ^0207
 
@@ -60,13 +57,13 @@ For the stone will cry out from the wall, and the beam from the woodwork respond
 
 Woe to him who builds a town with blood and founds a city on iniquity! ^0212
 
-Behold, is it not from the Lord of hosts that peoples labor merely for fire, and nations weary themselves for nothing? ^0213
+Behold, is it not from the LORD of hosts that peoples labor merely for fire, and nations weary themselves for nothing? ^0213
 
-For the earth will be filled with the knowledge of the glory of the Lord as the waters cover the sea. ^0214
+For the earth will be filled with the knowledge of the glory of the LORD as the waters cover the sea. ^0214
 
-Woe to him who makes his neighbors drink — you pour out your wrath and make them drunk, in order to gaze at their nakedness! ^0215
+Woe to him who makes his neighbors drink--you pour out your wrath and make them drunk, in order to gaze at their nakedness! ^0215
 
-You will have your fill of shame instead of glory. Drink, yourself, and show your uncircumcision! The cup in the Lord ’s right hand will come around to you, and utter shame will come upon your glory! ^0216
+You will have your fill of shame instead of glory. Drink, yourself, and show your uncircumcision! The cup in the LORD's right hand will come around to you, and utter shame will come upon your glory! ^0216
 
 The violence done to Lebanon will overwhelm you, as will the destruction of the beasts that terrified them, for the blood of man and violence to the earth, to cities and all who dwell in them. ^0217
 
@@ -74,15 +71,14 @@ What profit is an idol when its maker has shaped it, a metal image, a teacher of
 
 Woe to him who says to a wooden thing, Awake; to a silent stone, Arise! Can this teach? Behold, it is overlaid with gold and silver, and there is no breath at all in it. ^0219
 
-But the Lord is in his holy temple; let all the earth keep silence before him. ^0220
-
+But the LORD is in his holy temple; let all the earth keep silence before him. ^0220
 
 
 A prayer of Habakkuk the prophet, according to Shigionoth. ^0301
 
-O Lord, I have heard the report of you, and your work, O Lord, do I fear. In the midst of the years revive it; in the midst of the years make it known; in wrath remember mercy. ^0302
+O LORD, I have heard the report of you, and your work, O LORD, do I fear. In the midst of the years revive it; in the midst of the years make it known; in wrath remember mercy. ^0302
 
-God came from Teman, and the Holy One from Mount Paran. His splendor covered the heavens, and the earth was full of his praise. ^0303
+God came from Teman, and the Holy One from Mount Paran. His splendor covered the heavens, and the earth was full of his praise. Selah ^0303
 
 His brightness was like the light; rays flashed from his hand; and there he veiled his power. ^0304
 
@@ -92,9 +88,9 @@ He stood and measured the earth; he looked and shook the nations; then the etern
 
 I saw the tents of Cushan in affliction; the curtains of the land of Midian did tremble. ^0307
 
-Was your wrath against the rivers, O Lord? Was your anger against the rivers, or your indignation against the sea, when you rode on your horses, on your chariot of salvation? ^0308
+Was your wrath against the rivers, O LORD? Was your anger against the rivers, or your indignation against the sea, when you rode on your horses, on your chariot of salvation? ^0308
 
-You stripped the sheath from your bow, calling for many arrows. You split the earth with rivers. ^0309
+You stripped the sheath from your bow, calling for many arrows. Selah You split the earth with rivers. ^0309
 
 The mountains saw you and writhed; the raging waters swept on; the deep gave forth its voice; it lifted its hands on high. ^0310
 
@@ -102,7 +98,7 @@ The sun and moon stood still in their place at the light of your arrows as they 
 
 You marched through the earth in fury; you threshed the nations in anger. ^0312
 
-You went out for the salvation of your people, for the salvation of your anointed. You crushed the head of the house of the wicked, laying him bare from thigh to neck. ^0313
+You went out for the salvation of your people, for the salvation of your anointed. You crushed the head of the house of the wicked, laying him bare from thigh to neck. Selah ^0313
 
 You pierced with his own arrows the heads of his warriors, who came like a whirlwind to scatter me, rejoicing as if to devour the poor in secret. ^0314
 
@@ -112,8 +108,6 @@ I hear, and my body trembles; my lips quiver at the sound; rottenness enters int
 
 Though the fig tree should not blossom, nor fruit be on the vines, the produce of the olive fail and the fields yield no food, the flock be cut off from the fold and there be no herd in the stalls, ^0317
 
-yet I will rejoice in the Lord; I will take joy in the God of my salvation. ^0318
+yet I will rejoice in the LORD; I will take joy in the God of my salvation. ^0318
 
-God, the Lord, is my strength; he makes my feet like the deer’s; he makes me tread on my high places. To the choirmaster : with stringed instruments. ^0319
-
-
+GOD, the Lord, is my strength; he makes my feet like the deer's; he makes me tread on my high places.To the choirmaster: with stringed instruments. ^0319

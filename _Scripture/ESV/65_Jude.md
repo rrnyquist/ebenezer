@@ -1,6 +1,4 @@
-
-
-Jude, a servant of Jesus Christ and brother of James, To those who are called, beloved in God the Father and kept for Jesus Christ : ^0101
+Jude, a servant of Jesus Christ and brother of James,To those who are called, beloved in God the Father and kept for Jesus Christ: ^0101
 
 May mercy, peace, and love be multiplied to you. ^0102
 
@@ -10,7 +8,7 @@ For certain people have crept in unnoticed who long ago were designated for this
 
 Now I want to remind you, although you once fully knew it, that Jesus, who saved a people out of the land of Egypt, afterward destroyed those who did not believe. ^0105
 
-And the angels who did not stay within their own position of authority, but left their proper dwelling, he has kept in eternal chains under gloomy darkness until the judgment of the great day — ^0106
+And the angels who did not stay within their own position of authority, but left their proper dwelling, he has kept in eternal chains under gloomy darkness until the judgment of the great day-- ^0106
 
 just as Sodom and Gomorrah and the surrounding cities, which likewise indulged in sexual immorality and pursued unnatural desire, serve as an example by undergoing a punishment of eternal fire. ^0107
 
@@ -20,13 +18,13 @@ But when the archangel Michael, contending with the devil, was disputing about t
 
 But these people blaspheme all that they do not understand, and they are destroyed by all that they, like unreasoning animals, understand instinctively. ^0110
 
-Woe to them! For they walked in the way of Cain and abandoned themselves for the sake of gain to Balaam’s error and perished in Korah’s rebellion. ^0111
+Woe to them! For they walked in the way of Cain and abandoned themselves for the sake of gain to Balaam's error and perished in Korah's rebellion. ^0111
 
-These are hidden reefs at your love feasts, as they feast with you without fear, shepherds feeding themselves; waterless clouds, swept along by winds; fruitless trees in late autumn, twice dead, uprooted; ^0112
+These are blemishes on your love feasts, as they feast with you without fear, looking after themselves; waterless clouds, swept along by winds; fruitless trees in late autumn, twice dead, uprooted; ^0112
 
 wild waves of the sea, casting up the foam of their own shame; wandering stars, for whom the gloom of utter darkness has been reserved forever. ^0113
 
-It was also about these that Enoch, the seventh from Adam, prophesied, saying, Behold, the Lord comes with ten thousands of his holy ones, ^0114
+It was also about these that Enoch, the seventh from Adam, prophesied, saying, Behold, the Lord came with ten thousands of his holy ones, ^0114
 
 to execute judgment on all and to convict all the ungodly of all their deeds of ungodliness that they have committed in such an ungodly way, and of all the harsh things that ungodly sinners have spoken against him. ^0115
 
@@ -38,7 +36,7 @@ They said to you, In the last time there will be scoffers, following their own u
 
 It is these who cause divisions, worldly people, devoid of the Spirit. ^0119
 
-But you, beloved, building yourselves up in your most holy faith and praying in the Holy Spirit, ^0120
+But you, beloved, build yourselves up in your most holy faith; pray in the Holy Spirit; ^0120
 
 keep yourselves in the love of God, waiting for the mercy of our Lord Jesus Christ that leads to eternal life. ^0121
 
@@ -49,5 +47,3 @@ save others by snatching them out of the fire; to others show mercy with fear, h
 Now to him who is able to keep you from stumbling and to present you blameless before the presence of his glory with great joy, ^0124
 
 to the only God, our Savior, through Jesus Christ our Lord, be glory, majesty, dominion, and authority, before all time and now and forever. Amen. ^0125
-
-

@@ -1,6 +1,4 @@
-
-
-The words of Nehemiah the son of Hacaliah. Now it happened in the month of Chislev, in the twentieth year, as I was in Susa the citadel, ^0101
+The words of Nehemiah the son of Hacaliah.Now it happened in the month of Chislev, in the twentieth year, as I was in Susa the capital, ^0101
 
 that Hanani, one of my brothers, came with certain men from Judah. And I asked them concerning the Jews who escaped, who had survived the exile, and concerning Jerusalem. ^0102
 
@@ -8,41 +6,40 @@ And they said to me, The remnant there in the province who had survived the exil
 
 As soon as I heard these words I sat down and wept and mourned for days, and I continued fasting and praying before the God of heaven. ^0104
 
-And I said, O Lord God of heaven, the great and awesome God who keeps covenant and steadfast love with those who love him and keep his commandments, ^0105
+And I said, O LORD God of heaven, the great and awesome God who keeps covenant and steadfast love with those who love him and keep his commandments, ^0105
 
-let your ear be attentive and your eyes open, to hear the prayer of your servant that I now pray before you day and night for the people of Israel your servants, confessing the sins of the people of Israel, which we have sinned against you. Even I and my father’s house have sinned. ^0106
+let your ear be attentive and your eyes open, to hear the prayer of your servant that I now pray before you day and night for the people of Israel your servants, confessing the sins of the people of Israel, which we have sinned against you. Even I and my father's house have sinned. ^0106
 
 We have acted very corruptly against you and have not kept the commandments, the statutes, and the rules that you commanded your servant Moses. ^0107
 
-Remember the word that you commanded your servant Moses, saying, If you are unfaithful, I will scatter you among the peoples, ^0108
+Remember the word that you commanded your servant Moses, saying, 'If you are unfaithful, I will scatter you among the peoples, ^0108
 
-but if you return to me and keep my commandments and do them, though your outcasts are in the uttermost parts of heaven, from there I will gather them and bring them to the place that I have chosen, to make my name dwell there. ^0109
+but if you return to me and keep my commandments and do them, though your dispersed be under the farthest skies, I will gather them from there and bring them to the place that I have chosen, to make my name dwell there.' ^0109
 
 They are your servants and your people, whom you have redeemed by your great power and by your strong hand. ^0110
 
-O Lord, let your ear be attentive to the prayer of your servant, and to the prayer of your servants who delight to fear your name, and give success to your servant today, and grant him mercy in the sight of this man. Now I was cupbearer to the king. ^0111
-
+O Lord, let your ear be attentive to the prayer of your servant, and to the prayer of your servants who delight to fear your name, and give success to your servant today, and grant him mercy in the sight of this man.Now I was cupbearer to the king. ^0111
 
 
 In the month of Nisan, in the twentieth year of King Artaxerxes, when wine was before him, I took up the wine and gave it to the king. Now I had not been sad in his presence. ^0201
 
 And the king said to me, Why is your face sad, seeing you are not sick? This is nothing but sadness of the heart. Then I was very much afraid. ^0202
 
-I said to the king, Let the king live forever! Why should not my face be sad, when the city, the place of my fathers ’ graves, lies in ruins, and its gates have been destroyed by fire? ^0203
+I said to the king, Let the king live forever! Why should not my face be sad, when the city, the place of my fathers' graves, lies in ruins, and its gates have been destroyed by fire? ^0203
 
 Then the king said to me, What are you requesting? So I prayed to the God of heaven. ^0204
 
-And I said to the king, If it pleases the king, and if your servant has found favor in your sight, that you send me to Judah, to the city of my fathers ’ graves, that I may rebuild it. ^0205
+And I said to the king, If it pleases the king, and if your servant has found favor in your sight, that you send me to Judah, to the city of my fathers' graves, that I may rebuild it. ^0205
 
-And the king said to me ( the queen sitting beside him ), How long will you be gone, and when will you return? So it pleased the king to send me when I had given him a time. ^0206
+And the king said to me (the queen sitting beside him), How long will you be gone, and when will you return? So it pleased the king to send me when I had given him a time. ^0206
 
 And I said to the king, If it pleases the king, let letters be given me to the governors of the province Beyond the River, that they may let me pass through until I come to Judah, ^0207
 
-and a letter to Asaph, the keeper of the king’s forest, that he may give me timber to make beams for the gates of the fortress of the temple, and for the wall of the city, and for the house that I shall occupy. And the king granted me what I asked, for the good hand of my God was upon me. ^0208
+and a letter to Asaph, the keeper of the king's forest, that he may give me timber to make beams for the gates of the fortress of the temple, and for the wall of the city, and for the house that I shall occupy. And the king granted me what I asked, for the good hand of my God was upon me. ^0208
 
-Then I came to the governors of the province Beyond the River and gave them the king’s letters. Now the king had sent with me officers of the army and horsemen. ^0209
+Then I came to the governors of the province Beyond the River and gave them the king's letters. Now the king had sent with me officers of the army and horsemen. ^0209
 
-But when Sanballat the Horonite and Tobiah the Ammonite servant heard this, it displeased them greatly that someone had come to seek the welfare of the people of Israel. ^0210
+But when Sanballat the Horonite and Tobiah, the Ammonite servant, heard this, it displeased them greatly that someone had come to seek the welfare of the people of Israel. ^0210
 
 So I went to Jerusalem and was there three days. ^0211
 
@@ -50,7 +47,7 @@ Then I arose in the night, I and a few men with me. And I told no one what my Go
 
 I went out by night by the Valley Gate to the Dragon Spring and to the Dung Gate, and I inspected the walls of Jerusalem that were broken down and its gates that had been destroyed by fire. ^0213
 
-Then I went on to the Fountain Gate and to the King’s Pool, but there was no room for the animal that was under me to pass. ^0214
+Then I went on to the Fountain Gate and to the King's Pool, but there was no room for the animal that was under me to pass. ^0214
 
 Then I went up in the night by the valley and inspected the wall, and I turned back and entered by the Valley Gate, and so returned. ^0215
 
@@ -63,7 +60,6 @@ And I told them of the hand of my God that had been upon me for good, and also o
 But when Sanballat the Horonite and Tobiah the Ammonite servant and Geshem the Arab heard of it, they jeered at us and despised us and said, What is this thing that you are doing? Are you rebelling against the king? ^0219
 
 Then I replied to them, The God of heaven will make us prosper, and we his servants will arise and build, but you have no portion or right or claim in Jerusalem. ^0220
-
 
 
 Then Eliashib the high priest rose up with his brothers the priests, and they built the Sheep Gate. They consecrated it and set its doors. They consecrated it as far as the Tower of the Hundred, as far as the Tower of Hananel. ^0301
@@ -94,13 +90,13 @@ Hanun and the inhabitants of Zanoah repaired the Valley Gate. They rebuilt it an
 
 Malchijah the son of Rechab, ruler of the district of Beth-haccherem, repaired the Dung Gate. He rebuilt it and set its doors, its bolts, and its bars. ^0314
 
-And Shallum the son of Col-hozeh, ruler of the district of Mizpah, repaired the Fountain Gate. He rebuilt it and covered it and set its doors, its bolts, and its bars. And he built the wall of the Pool of Shelah of the king’s garden, as far as the stairs that go down from the city of David. ^0315
+And Shallum the son of Col-hozeh, ruler of the district of Mizpah, repaired the Fountain Gate. He rebuilt it and covered it and set its doors, its bolts, and its bars. And he built the wall of the Pool of Shelah of the king's garden, as far as the stairs that go down from the City of David. ^0315
 
 After him Nehemiah the son of Azbuk, ruler of half the district of Beth-zur, repaired to a point opposite the tombs of David, as far as the artificial pool, and as far as the house of the mighty men. ^0316
 
-After him the Levites repaired : Rehum the son of Bani. Next to him Hashabiah, ruler of half the district of Keilah, repaired for his district. ^0317
+After him the Levites repaired: Rehum the son of Bani. Next to him Hashabiah, ruler of half the district of Keilah, repaired for his district. ^0317
 
-After him their brothers repaired : Bavvai the son of Henadad, ruler of half the district of Keilah. ^0318
+After him their brothers repaired: Bavvai the son of Henadad, ruler of half the district of Keilah. ^0318
 
 Next to him Ezer the son of Jeshua, ruler of Mizpah, repaired another section opposite the ascent to the armory at the buttress. ^0319
 
@@ -131,12 +127,11 @@ After him Malchijah, one of the goldsmiths, repaired as far as the house of the 
 And between the upper chamber of the corner and the Sheep Gate the goldsmiths and the merchants repaired. ^0332
 
 
-
 Now when Sanballat heard that we were building the wall, he was angry and greatly enraged, and he jeered at the Jews. ^0401
 
 And he said in the presence of his brothers and of the army of Samaria, What are these feeble Jews doing? Will they restore it for themselves? Will they sacrifice? Will they finish up in a day? Will they revive the stones out of the heaps of rubbish, and burned ones at that? ^0402
 
-Tobiah the Ammonite was beside him, and he said, Yes, what they are building — if a fox goes up on it he will break down their stone wall! ^0403
+Tobiah the Ammonite was beside him, and he said, Yes, what they are building--if a fox goes up on it he will break down their stone wall! ^0403
 
 Hear, O our God, for we are despised. Turn back their taunt on their own heads and give them up to be plundered in a land where they are captives. ^0404
 
@@ -179,14 +174,13 @@ I also said to the people at that time, Let every man and his servant pass the n
 So neither I nor my brothers nor my servants nor the men of the guard who followed me, none of us took off our clothes; each kept his weapon at his right hand. ^0423
 
 
-
 Now there arose a great outcry of the people and of their wives against their Jewish brothers. ^0501
 
 For there were those who said, With our sons and our daughters, we are many. So let us get grain, that we may eat and keep alive. ^0502
 
 There were also those who said, We are mortgaging our fields, our vineyards, and our houses to get grain because of the famine. ^0503
 
-And there were those who said, We have borrowed money for the king’s tax on our fields and our vineyards. ^0504
+And there were those who said, We have borrowed money for the king's tax on our fields and our vineyards. ^0504
 
 Now our flesh is as the flesh of our brothers, our children are as their children. Yet we are forcing our sons and our daughters to be slaves, and some of our daughters have already been enslaved, but it is not in our power to help it, for other men have our fields and our vineyards. ^0505
 
@@ -204,7 +198,7 @@ Return to them this very day their fields, their vineyards, their olive orchards
 
 Then they said, We will restore these and require nothing from them. We will do as you say. And I called the priests and made them swear to do as they had promised. ^0512
 
-I also shook out the fold of my garment and said, So may God shake out every man from his house and from his labor who does not keep this promise. So may he be shaken out and emptied. And all the assembly said Amen and praised the Lord. And the people did as they had promised. ^0513
+I also shook out the fold of my garment and said, So may God shake out every man from his house and from his labor who does not keep this promise. So may he be shaken out and emptied. And all the assembly said Amen and praised the LORD. And the people did as they had promised. ^0513
 
 Moreover, from the time that I was appointed to be their governor in the land of Judah, from the twentieth year to the thirty-second year of Artaxerxes the king, twelve years, neither I nor my brothers ate the food allowance of the governor. ^0514
 
@@ -219,8 +213,7 @@ Now what was prepared at my expense for each day was one ox and six choice sheep
 Remember for my good, O my God, all that I have done for this people. ^0519
 
 
-
-Now when Sanballat and Tobiah and Geshem the Arab and the rest of our enemies heard that I had built the wall and that there was no breach left in it ( although up to that time I had not set up the doors in the gates ), ^0601
+Now when Sanballat and Tobiah and Geshem the Arab and the rest of our enemies heard that I had built the wall and that there was no breach left in it (although up to that time I had not set up the doors in the gates), ^0601
 
 Sanballat and Geshem sent to me, saying, Come and let us meet together at Hakkephirim in the plain of Ono. But they intended to do me harm. ^0602
 
@@ -232,7 +225,7 @@ In the same way Sanballat for the fifth time sent his servant to me with an open
 
 In it was written, It is reported among the nations, and Geshem also says it, that you and the Jews intend to rebel; that is why you are building the wall. And according to these reports you wish to become their king. ^0606
 
-And you have also set up prophets to proclaim concerning you in Jerusalem, There is a king in Judah. And now the king will hear of these reports. So now come and let us take counsel together. ^0607
+And you have also set up prophets to proclaim concerning you in Jerusalem, 'There is a king in Judah.' And now the king will hear of these reports. So now come and let us take counsel together. ^0607
 
 Then I sent to him, saying, No such things as you say have been done, for you are inventing them out of your own mind. ^0608
 
@@ -252,12 +245,11 @@ So the wall was finished on the twenty-fifth day of the month Elul, in fifty-two
 
 And when all our enemies heard of it, all the nations around us were afraid and fell greatly in their own esteem, for they perceived that this work had been accomplished with the help of our God. ^0616
 
-Moreover, in those days the nobles of Judah sent many letters to Tobiah, and Tobiah’s letters came to them. ^0617
+Moreover, in those days the nobles of Judah sent many letters to Tobiah, and Tobiah's letters came to them. ^0617
 
-For many in Judah were bound by oath to him, because he was the son-in-law of Shecaniah the son of Arah : and his son Jehohanan had taken the daughter of Meshullam the son of Berechiah as his wife. ^0618
+For many in Judah were bound by oath to him, because he was the son-in-law of Shecaniah the son of Arah: and his son Jehohanan had taken the daughter of Meshullam the son of Berechiah as his wife. ^0618
 
 Also they spoke of his good deeds in my presence and reported my words to him. And Tobiah sent letters to make me afraid. ^0619
-
 
 
 Now when the wall had been built and I had set up the doors, and the gatekeepers, the singers, and the Levites had been appointed, ^0701
@@ -272,7 +264,7 @@ Then my God put it into my heart to assemble the nobles and the officials and th
 
 These were the people of the province who came up out of the captivity of those exiles whom Nebuchadnezzar the king of Babylon had carried into exile. They returned to Jerusalem and Judah, each to his town. ^0706
 
-They came with Zerubbabel, Jeshua, Nehemiah, Azariah, Raamiah, Nahamani, Mordecai, Bilshan, Mispereth, Bigvai, Nehum, Baanah. The number of the men of the people of Israel : ^0707
+They came with Zerubbabel, Jeshua, Nehemiah, Azariah, Raamiah, Nahamani, Mordecai, Bilshan, Mispereth, Bigvai, Nehum, Baanah.The number of the men of the people of Israel: ^0707
 
 the sons of Parosh, 2,172. ^0708
 
@@ -336,7 +328,7 @@ The sons of Lod, Hadid, and Ono, 721. ^0737
 
 The sons of Senaah, 3,930. ^0738
 
-The priests : the sons of Jedaiah, namely the house of Jeshua, 973. ^0739
+The priests: the sons of Jedaiah, namely the house of Jeshua, 973. ^0739
 
 The sons of Immer, 1,052. ^0740
 
@@ -344,13 +336,13 @@ The sons of Pashhur, 1,247. ^0741
 
 The sons of Harim, 1,017. ^0742
 
-The Levites : the sons of Jeshua, namely of Kadmiel of the sons of Hodevah, 74. ^0743
+The Levites: the sons of Jeshua, namely of Kadmiel of the sons of Hodevah, 74. ^0743
 
-The singers : the sons of Asaph, 148. ^0744
+The singers: the sons of Asaph, 148. ^0744
 
-The gatekeepers : the sons of Shallum, the sons of Ater, the sons of Talmon, the sons of Akkub, the sons of Hatita, the sons of Shobai, 138. ^0745
+The gatekeepers: the sons of Shallum, the sons of Ater, the sons of Talmon, the sons of Akkub, the sons of Hatita, the sons of Shobai, 138. ^0745
 
-The temple servants : the sons of Ziha, the sons of Hasupha, the sons of Tabbaoth, ^0746
+The temple servants: the sons of Ziha, the sons of Hasupha, the sons of Tabbaoth, ^0746
 
 the sons of Keros, the sons of Sia, the sons of Padon, ^0747
 
@@ -372,19 +364,19 @@ the sons of Barkos, the sons of Sisera, the sons of Temah, ^0755
 
 the sons of Neziah, the sons of Hatipha. ^0756
 
-The sons of Solomon’s servants : the sons of Sotai, the sons of Sophereth, the sons of Perida, ^0757
+The sons of Solomon's servants: the sons of Sotai, the sons of Sophereth, the sons of Perida, ^0757
 
 the sons of Jaala, the sons of Darkon, the sons of Giddel, ^0758
 
 the sons of Shephatiah, the sons of Hattil, the sons of Pochereth-hazzebaim, the sons of Amon. ^0759
 
-All the temple servants and the sons of Solomon’s servants were 392. ^0760
+All the temple servants and the sons of Solomon's servants were 392. ^0760
 
-The following were those who came up from Tel-melah, Tel-harsha, Cherub, Addon, and Immer, but they could not prove their fathers ’ houses nor their descent, whether they belonged to Israel : ^0761
+The following were those who came up from Tel-melah, Tel-harsha, Cherub, Addon, and Immer, but they could not prove their fathers' houses nor their descent, whether they belonged to Israel: ^0761
 
 the sons of Delaiah, the sons of Tobiah, the sons of Nekoda, 642. ^0762
 
-Also, of the priests : the sons of Hobaiah, the sons of Hakkoz, the sons of Barzillai (who had taken a wife of the daughters of Barzillai the Gileadite and was called by their name ). ^0763
+Also, of the priests: the sons of Hobaiah, the sons of Hakkoz, the sons of Barzillai (who had taken a wife of the daughters of Barzillai the Gileadite and was called by their name). ^0763
 
 These sought their registration among those enrolled in the genealogies, but it was not found there, so they were excluded from the priesthood as unclean. ^0764
 
@@ -398,17 +390,16 @@ Their horses were 736, their mules 245, ^0768
 
 their camels 435, and their donkeys 6,720. ^0769
 
-Now some of the heads of fathers ’ houses gave to the work. The governor gave to the treasury 1,000 darics of gold, 50 basins, 30 priests ’ garments and 500 minas of silver. ^0770
+Now some of the heads of fathers' houses gave to the work. The governor gave to the treasury 1,000 darics of gold, 50 basins, 30 priests' garments and 500 minas of silver. ^0770
 
-And some of the heads of fathers ’ houses gave into the treasury of the work 20,000 darics of gold and 2,200 minas of silver. ^0771
+And some of the heads of fathers' houses gave into the treasury of the work 20,000 darics of gold and 2,200 minas of silver. ^0771
 
-And what the rest of the people gave was 20,000 darics of gold, 2,000 minas of silver, and 67 priests ’ garments. ^0772
+And what the rest of the people gave was 20,000 darics of gold, 2,000 minas of silver, and 67 priests' garments. ^0772
 
-So the priests, the Levites, the gatekeepers, the singers, some of the people, the temple servants, and all Israel, lived in their towns. And when the seventh month had come, the people of Israel were in their towns. ^0773
+So the priests, the Levites, the gatekeepers, the singers, some of the people, the temple servants, and all Israel, lived in their towns.And when the seventh month had come, the people of Israel were in their towns. ^0773
 
 
-
-And all the people gathered as one man into the square before the Water Gate. And they told Ezra the scribe to bring the Book of the Law of Moses that the Lord had commanded Israel. ^0801
+And all the people gathered as one man into the square before the Water Gate. And they told Ezra the scribe to bring the Book of the Law of Moses that the LORD had commanded Israel. ^0801
 
 So Ezra the priest brought the Law before the assembly, both men and women and all who could understand what they heard, on the first day of the seventh month. ^0802
 
@@ -418,23 +409,23 @@ And Ezra the scribe stood on a wooden platform that they had made for the purpos
 
 And Ezra opened the book in the sight of all the people, for he was above all the people, and as he opened it all the people stood. ^0805
 
-And Ezra blessed the Lord, the great God, and all the people answered, Amen, Amen, lifting up their hands. And they bowed their heads and worshiped the Lord with their faces to the ground. ^0806
+And Ezra blessed the LORD, the great God, and all the people answered, Amen, Amen, lifting up their hands. And they bowed their heads and worshiped the LORD with their faces to the ground. ^0806
 
 Also Jeshua, Bani, Sherebiah, Jamin, Akkub, Shabbethai, Hodiah, Maaseiah, Kelita, Azariah, Jozabad, Hanan, Pelaiah, the Levites, helped the people to understand the Law, while the people remained in their places. ^0807
 
 They read from the book, from the Law of God, clearly, and they gave the sense, so that the people understood the reading. ^0808
 
-And Nehemiah, who was the governor, and Ezra the priest and scribe, and the Levites who taught the people said to all the people, This day is holy to the Lord your God; do not mourn or weep. For all the people wept as they heard the words of the Law. ^0809
+And Nehemiah, who was the governor, and Ezra the priest and scribe, and the Levites who taught the people said to all the people, This day is holy to the LORD your God; do not mourn or weep. For all the people wept as they heard the words of the Law. ^0809
 
-Then he said to them, Go your way. Eat the fat and drink sweet wine and send portions to anyone who has nothing ready, for this day is holy to our Lord. And do not be grieved, for the joy of the Lord is your strength. ^0810
+Then he said to them, Go your way. Eat the fat and drink sweet wine and send portions to anyone who has nothing ready, for this day is holy to our Lord. And do not be grieved, for the joy of the LORD is your strength. ^0810
 
 So the Levites calmed all the people, saying, Be quiet, for this day is holy; do not be grieved. ^0811
 
 And all the people went their way to eat and drink and to send portions and to make great rejoicing, because they had understood the words that were declared to them. ^0812
 
-On the second day the heads of fathers ’ houses of all the people, with the priests and the Levites, came together to Ezra the scribe in order to study the words of the Law. ^0813
+On the second day the heads of fathers' houses of all the people, with the priests and the Levites, came together to Ezra the scribe in order to study the words of the Law. ^0813
 
-And they found it written in the Law that the Lord had commanded by Moses that the people of Israel should dwell in booths during the feast of the seventh month, ^0814
+And they found it written in the Law that the LORD had commanded by Moses that the people of Israel should dwell in booths during the feast of the seventh month, ^0814
 
 and that they should proclaim it and publish it in all their towns and in Jerusalem, Go out to the hills and bring branches of olive, wild olive, myrtle, palm, and other leafy trees to make booths, as it is written. ^0815
 
@@ -445,20 +436,19 @@ And all the assembly of those who had returned from the captivity made booths an
 And day by day, from the first day to the last day, he read from the Book of the Law of God. They kept the feast seven days, and on the eighth day there was a solemn assembly, according to the rule. ^0818
 
 
-
 Now on the twenty-fourth day of this month the people of Israel were assembled with fasting and in sackcloth, and with earth on their heads. ^0901
 
 And the Israelites separated themselves from all foreigners and stood and confessed their sins and the iniquities of their fathers. ^0902
 
-And they stood up in their place and read from the Book of the Law of the Lord their God for a quarter of the day; for another quarter of it they made confession and worshiped the Lord their God. ^0903
+And they stood up in their place and read from the Book of the Law of the LORD their God for a quarter of the day; for another quarter of it they made confession and worshiped the LORD their God. ^0903
 
-On the stairs of the Levites stood Jeshua, Bani, Kadmiel, Shebaniah, Bunni, Sherebiah, Bani, and Chenani; and they cried with a loud voice to the Lord their God. ^0904
+On the stairs of the Levites stood Jeshua, Bani, Kadmiel, Shebaniah, Bunni, Sherebiah, Bani, and Chenani; and they cried with a loud voice to the LORD their God. ^0904
 
-Then the Levites, Jeshua, Kadmiel, Bani, Hashabneiah, Sherebiah, Hodiah, Shebaniah, and Pethahiah, said, Stand up and bless the Lord your God from everlasting to everlasting. Blessed be your glorious name, which is exalted above all blessing and praise. ^0905
+Then the Levites, Jeshua, Kadmiel, Bani, Hashabneiah, Sherebiah, Hodiah, Shebaniah, and Pethahiah, said, Stand up and bless the LORD your God from everlasting to everlasting. Blessed be your glorious name, which is exalted above all blessing and praise. ^0905
 
-You are the Lord, you alone. You have made heaven, the heaven of heavens, with all their host, the earth and all that is on it, the seas and all that is in them; and you preserve all of them; and the host of heaven worships you. ^0906
+You are the LORD, you alone. You have made heaven, the heaven of heavens, with all their host, the earth and all that is on it, the seas and all that is in them; and you preserve all of them; and the host of heaven worships you. ^0906
 
-You are the Lord, the God who chose Abram and brought him out of Ur of the Chaldeans and gave him the name Abraham. ^0907
+You are the LORD, the God who chose Abram and brought him out of Ur of the Chaldeans and gave him the name Abraham. ^0907
 
 You found his heart faithful before you, and made with him the covenant to give to his offspring the land of the Canaanite, the Hittite, the Amorite, the Perizzite, the Jebusite, and the Girgashite. And you have kept your promise, for you are righteous. ^0908
 
@@ -480,7 +470,7 @@ But they and our fathers acted presumptuously and stiffened their neck and did n
 
 They refused to obey and were not mindful of the wonders that you performed among them, but they stiffened their neck and appointed a leader to return to their slavery in Egypt. But you are a God ready to forgive, gracious and merciful, slow to anger and abounding in steadfast love, and did not forsake them. ^0917
 
-Even when they had made for themselves a golden calf and said, This is your God who brought you up out of Egypt, and had committed great blasphemies, ^0918
+Even when they had made for themselves a golden calf and said, 'This is your God who brought you up out of Egypt,' and had committed great blasphemies, ^0918
 
 you in your great mercies did not forsake them in the wilderness. The pillar of cloud to lead them in the way did not depart from them by day, nor the pillar of fire by night to light for them the way by which they should go. ^0919
 
@@ -502,7 +492,7 @@ Therefore you gave them into the hand of their enemies, who made them suffer. An
 
 But after they had rest they did evil again before you, and you abandoned them to the hand of their enemies, so that they had dominion over them. Yet when they turned and cried to you, you heard from heaven, and many times you delivered them according to your mercies. ^0928
 
-And you warned them in order to turn them back to your law. Yet they acted presumptuously and did not obey your commandments, but sinned against your rules, which if a person does them, he shall live by them, and they turned a stubborn shoulder and stiffened their neck and would not obey. ^0929
+And you warned them in order to turn them back to your law. Yet they acted presumptuously and did not obey your commandments, but sinned against your rules, which if a person does them, he shall live by them, and turned a stubborn shoulder and stiffened their neck and would not obey. ^0929
 
 Many years you bore with them and warned them by your Spirit through your prophets. Yet they would not give ear. Therefore you gave them into the hand of the peoples of the lands. ^0930
 
@@ -514,14 +504,13 @@ Yet you have been righteous in all that has come upon us, for you have dealt fai
 
 Our kings, our princes, our priests, and our fathers have not kept your law or paid attention to your commandments and your warnings that you gave them. ^0934
 
-Even in their own kingdom, and amid your great goodness that you gave them, and in the large and rich land that you set before them, they did not serve you or turn from their wicked works. ^0935
+Even in their own kingdom, enjoying your great goodness that you gave them, and in the large and rich land that you set before them, they did not serve you or turn from their wicked works. ^0935
 
 Behold, we are slaves this day; in the land that you gave to our fathers to enjoy its fruit and its good gifts, behold, we are slaves. ^0936
 
 And its rich yield goes to the kings whom you have set over us because of our sins. They rule over our bodies and over our livestock as they please, and we are in great distress. ^0937
 
 Because of all this we make a firm covenant in writing; on the sealed document are the names of our princes, our Levites, and our priests. ^0938
-
 
 
 On the seals are the names of Nehemiah the governor, the son of Hacaliah, Zedekiah, ^1001
@@ -540,7 +529,7 @@ Meshullam, Abijah, Mijamin, ^1007
 
 Maaziah, Bilgai, Shemaiah; these are the priests. ^1008
 
-And the Levites : Jeshua the son of Azaniah, Binnui of the sons of Henadad, Kadmiel; ^1009
+And the Levites: Jeshua the son of Azaniah, Binnui of the sons of Henadad, Kadmiel; ^1009
 
 and their brothers, Shebaniah, Hodiah, Kelita, Pelaiah, Hanan, ^1010
 
@@ -550,7 +539,7 @@ Zaccur, Sherebiah, Shebaniah, ^1012
 
 Hodiah, Bani, Beninu. ^1013
 
-The chiefs of the people : Parosh, Pahath-moab, Elam, Zattu, Bani, ^1014
+The chiefs of the people: Parosh, Pahath-moab, Elam, Zattu, Bani, ^1014
 
 Bunni, Azgad, Bebai, ^1015
 
@@ -580,19 +569,19 @@ Malluch, Harim, Baanah. ^1027
 
 The rest of the people, the priests, the Levites, the gatekeepers, the singers, the temple servants, and all who have separated themselves from the peoples of the lands to the Law of God, their wives, their sons, their daughters, all who have knowledge and understanding, ^1028
 
-join with their brothers, their nobles, and enter into a curse and an oath to walk in God’s Law that was given by Moses the servant of God, and to observe and do all the commandments of the Lord our Lord and his rules and his statutes. ^1029
+join with their brothers, their nobles, and enter into a curse and an oath to walk in God's Law that was given by Moses the servant of God, and to observe and do all the commandments of the LORD our Lord and his rules and his statutes. ^1029
 
 We will not give our daughters to the peoples of the land or take their daughters for our sons. ^1030
 
 And if the peoples of the land bring in goods or any grain on the Sabbath day to sell, we will not buy from them on the Sabbath or on a holy day. And we will forego the crops of the seventh year and the exaction of every debt. ^1031
 
-We also take on ourselves the obligation to give yearly a third part of a shekel for the service of the house of our God : ^1032
+We also take on ourselves the obligation to give yearly a third part of a shekel for the service of the house of our God: ^1032
 
 for the showbread, the regular grain offering, the regular burnt offering, the Sabbaths, the new moons, the appointed feasts, the holy things, and the sin offerings to make atonement for Israel, and for all the work of the house of our God. ^1033
 
-We, the priests, the Levites, and the people, have likewise cast lots for the wood offering, to bring it into the house of our God, according to our fathers ’ houses, at times appointed, year by year, to burn on the altar of the Lord our God, as it is written in the Law. ^1034
+We, the priests, the Levites, and the people, have likewise cast lots for the wood offering, to bring it into the house of our God, according to our fathers' houses, at times appointed, year by year, to burn on the altar of the LORD our God, as it is written in the Law. ^1034
 
-We obligate ourselves to bring the firstfruits of our ground and the firstfruits of all fruit of every tree, year by year, to the house of the Lord; ^1035
+We obligate ourselves to bring the firstfruits of our ground and the firstfruits of all fruit of every tree, year by year, to the house of the LORD; ^1035
 
 also to bring to the house of our God, to the priests who minister in the house of our God, the firstborn of our sons and of our cattle, as it is written in the Law, and the firstborn of our herds and of our flocks; ^1036
 
@@ -603,36 +592,35 @@ And the priest, the son of Aaron, shall be with the Levites when the Levites rec
 For the people of Israel and the sons of Levi shall bring the contribution of grain, wine, and oil to the chambers, where the vessels of the sanctuary are, as well as the priests who minister, and the gatekeepers and the singers. We will not neglect the house of our God. ^1039
 
 
-
 Now the leaders of the people lived in Jerusalem. And the rest of the people cast lots to bring one out of ten to live in Jerusalem the holy city, while nine out of ten remained in the other towns. ^1101
 
 And the people blessed all the men who willingly offered to live in Jerusalem. ^1102
 
-These are the chiefs of the province who lived in Jerusalem; but in the towns of Judah everyone lived on his property in their towns : Israel, the priests, the Levites, the temple servants, and the descendants of Solomon’s servants. ^1103
+These are the chiefs of the province who lived in Jerusalem; but in the towns of Judah everyone lived on his property in their towns: Israel, the priests, the Levites, the temple servants, and the descendants of Solomon's servants. ^1103
 
-And in Jerusalem lived certain of the sons of Judah and of the sons of Benjamin. Of the sons of Judah : Athaiah the son of Uzziah, son of Zechariah, son of Amariah, son of Shephatiah, son of Mahalalel, of the sons of Perez; ^1104
+And in Jerusalem lived certain of the sons of Judah and of the sons of Benjamin. Of the sons of Judah: Athaiah the son of Uzziah, son of Zechariah, son of Amariah, son of Shephatiah, son of Mahalalel, of the sons of Perez; ^1104
 
 and Maaseiah the son of Baruch, son of Col-hozeh, son of Hazaiah, son of Adaiah, son of Joiarib, son of Zechariah, son of the Shilonite. ^1105
 
 All the sons of Perez who lived in Jerusalem were 468 valiant men. ^1106
 
-And these are the sons of Benjamin : Sallu the son of Meshullam, son of Joed, son of Pedaiah, son of Kolaiah, son of Maaseiah, son of Ithiel, son of Jeshaiah, ^1107
+And these are the sons of Benjamin: Sallu the son of Meshullam, son of Joed, son of Pedaiah, son of Kolaiah, son of Maaseiah, son of Ithiel, son of Jeshaiah, ^1107
 
 and his brothers, men of valor, 928. ^1108
 
 Joel the son of Zichri was their overseer; and Judah the son of Hassenuah was second over the city. ^1109
 
-Of the priests : Jedaiah the son of Joiarib, Jachin, ^1110
+Of the priests: Jedaiah the son of Joiarib, Jachin, ^1110
 
 Seraiah the son of Hilkiah, son of Meshullam, son of Zadok, son of Meraioth, son of Ahitub, ruler of the house of God, ^1111
 
 and their brothers who did the work of the house, 822; and Adaiah the son of Jeroham, son of Pelaliah, son of Amzi, son of Zechariah, son of Pashhur, son of Malchijah, ^1112
 
-and his brothers, heads of fathers ’ houses, 242; and Amashsai, the son of Azarel, son of Ahzai, son of Meshillemoth, son of Immer, ^1113
+and his brothers, heads of fathers' houses, 242; and Amashsai, the son of Azarel, son of Ahzai, son of Meshillemoth, son of Immer, ^1113
 
 and their brothers, mighty men of valor, 128; their overseer was Zabdiel the son of Haggedolim. ^1114
 
-And of the Levites : Shemaiah the son of Hasshub, son of Azrikam, son of Hashabiah, son of Bunni; ^1115
+And of the Levites: Shemaiah the son of Hasshub, son of Azrikam, son of Hashabiah, son of Bunni; ^1115
 
 and Shabbethai and Jozabad, of the chiefs of the Levites, who were over the outside work of the house of God; ^1116
 
@@ -650,7 +638,7 @@ The overseer of the Levites in Jerusalem was Uzzi the son of Bani, son of Hashab
 
 For there was a command from the king concerning them, and a fixed provision for the singers, as every day required. ^1123
 
-And Pethahiah the son of Meshezabel, of the sons of Zerah the son of Judah, was at the king’s side in all matters concerning the people. ^1124
+And Pethahiah the son of Meshezabel, of the sons of Zerah the son of Judah, was at the king's side in all matters concerning the people. ^1124
 
 And as for the villages, with their fields, some of the people of Judah lived in Kiriath-arba and its villages, and in Dibon and its villages, and in Jekabzeel and its villages, ^1125
 
@@ -662,7 +650,7 @@ in Ziklag, in Meconah and its villages, ^1128
 
 in En-rimmon, in Zorah, in Jarmuth, ^1129
 
-Zanoah, Adullam, and their villages, Lachish and its fields, and Azekah and its villages. So they encamped from Beersheba to the Valley of Hinnom. ^1130
+Zanoah, Adullam, and their villages, Lachish and its fields, and Azekah and its villages. So they encamped from Beersheba to the valley of Hinnom. ^1130
 
 The people of Benjamin also lived from Geba onward, at Michmash, Aija, Bethel and its villages, ^1131
 
@@ -677,8 +665,7 @@ Lod, and Ono, the valley of craftsmen. ^1135
 And certain divisions of the Levites in Judah were assigned to Benjamin. ^1136
 
 
-
-These are the priests and the Levites who came up with Zerubbabel the son of Shealtiel, and Jeshua : Seraiah, Jeremiah, Ezra, ^1201
+These are the priests and the Levites who came up with Zerubbabel the son of Shealtiel, and Jeshua: Seraiah, Jeremiah, Ezra, ^1201
 
 Amariah, Malluch, Hattush, ^1202
 
@@ -692,7 +679,7 @@ Shemaiah, Joiarib, Jedaiah, ^1206
 
 Sallu, Amok, Hilkiah, Jedaiah. These were the chiefs of the priests and of their brothers in the days of Jeshua. ^1207
 
-And the Levites : Jeshua, Binnui, Kadmiel, Sherebiah, Judah, and Mattaniah, who with his brothers was in charge of the songs of thanksgiving. ^1208
+And the Levites: Jeshua, Binnui, Kadmiel, Sherebiah, Judah, and Mattaniah, who with his brothers was in charge of the songs of thanksgiving. ^1208
 
 And Bakbukiah and Unni and their brothers stood opposite them in the service. ^1209
 
@@ -700,7 +687,7 @@ And Jeshua was the father of Joiakim, Joiakim the father of Eliashib, Eliashib t
 
 Joiada the father of Jonathan, and Jonathan the father of Jaddua. ^1211
 
-And in the days of Joiakim were priests, heads of fathers ’ houses: of Seraiah, Meraiah; of Jeremiah, Hananiah; ^1212
+And in the days of Joiakim were priests, heads of fathers' houses: of Seraiah, Meraiah; of Jeremiah, Hananiah; ^1212
 
 of Ezra, Meshullam; of Amariah, Jehohanan; ^1213
 
@@ -720,11 +707,11 @@ of Sallai, Kallai; of Amok, Eber; ^1220
 
 of Hilkiah, Hashabiah; of Jedaiah, Nethanel. ^1221
 
-In the days of Eliashib, Joiada, Johanan, and Jaddua, the Levites were recorded as heads of fathers ’ houses; so too were the priests in the reign of Darius the Persian. ^1222
+In the days of Eliashib, Joiada, Johanan, and Jaddua, the Levites were recorded as heads of fathers' houses; so too were the priests in the reign of Darius the Persian. ^1222
 
-As for the sons of Levi, their heads of fathers ’ houses were written in the Book of the Chronicles until the days of Johanan the son of Eliashib. ^1223
+As for the sons of Levi, their heads of fathers' houses were written in the Book of the Chronicles until the days of Johanan the son of Eliashib. ^1223
 
-And the chiefs of the Levites : Hashabiah, Sherebiah, and Jeshua the son of Kadmiel, with their brothers who stood opposite them, to praise and to give thanks, according to the commandment of David the man of God, watch by watch. ^1224
+And the chiefs of the Levites: Hashabiah, Sherebiah, and Jeshua the son of Kadmiel, with their brothers who stood opposite them, to praise and to give thanks, according to the commandment of David the man of God, watch by watch. ^1224
 
 Mattaniah, Bakbukiah, Obadiah, Meshullam, Talmon, and Akkub were gatekeepers standing guard at the storehouses of the gates. ^1225
 
@@ -746,7 +733,7 @@ and Azariah, Ezra, Meshullam, ^1233
 
 Judah, Benjamin, Shemaiah, and Jeremiah, ^1234
 
-and certain of the priests ’ sons with trumpets : Zechariah the son of Jonathan, son of Shemaiah, son of Mattaniah, son of Micaiah, son of Zaccur, son of Asaph; ^1235
+and certain of the priests' sons with trumpets: Zechariah the son of Jonathan, son of Shemaiah, son of Mattaniah, son of Micaiah, son of Zaccur, son of Asaph; ^1235
 
 and his relatives, Shemaiah, Azarel, Milalai, Gilalai, Maai, Nethanel, Judah, and Hanani, with the musical instruments of David the man of God. And Ezra the scribe went before them. ^1236
 
@@ -773,10 +760,9 @@ For long ago in the days of David and Asaph there were directors of the singers,
 And all Israel in the days of Zerubbabel and in the days of Nehemiah gave the daily portions for the singers and the gatekeepers; and they set apart that which was for the Levites; and the Levites set apart that which was for the sons of Aaron. ^1247
 
 
-
 On that day they read from the Book of Moses in the hearing of the people. And in it was found written that no Ammonite or Moabite should ever enter the assembly of God, ^1301
 
-for they did not meet the people of Israel with bread and water, but hired Balaam against them to curse them—yet our God turned the curse into a blessing. ^1302
+for they did not meet the people of Israel with bread and water, but hired Balaam against them to curse them--yet our God turned the curse into a blessing. ^1302
 
 As soon as the people heard the law, they separated from Israel all those of foreign descent. ^1303
 
@@ -820,9 +806,9 @@ Then I commanded the Levites that they should purify themselves and come and gua
 
 In those days also I saw the Jews who had married women of Ashdod, Ammon, and Moab. ^1323
 
-And half of their children spoke the language of Ashdod, and they could not speak the language of Judah, but only the language of each people. ^1324
+And half of their children spoke the language of Ashdod, and they could not speak the language of Judah, but the language of each people. ^1324
 
-And I confronted them and cursed them and beat some of them and pulled out their hair. And I made them take an oath in the name of God, saying, You shall not give your daughters to their sons, or take their daughters for your sons or for yourselves. ^1325
+And I confronted them and cursed them and beat some of them and pulled out their hair. And I made them take oath in the name of God, saying, You shall not give your daughters to their sons, or take their daughters for your sons or for yourselves. ^1325
 
 Did not Solomon king of Israel sin on account of such women? Among the many nations there was no king like him, and he was beloved by his God, and God made him king over all Israel. Nevertheless, foreign women made even him to sin. ^1326
 
@@ -834,6 +820,4 @@ Remember them, O my God, because they have desecrated the priesthood and the cov
 
 Thus I cleansed them from everything foreign, and I established the duties of the priests and Levites, each in his work; ^1330
 
-and I provided for the wood offering at appointed times, and for the firstfruits. Remember me, O my God, for good. ^1331
-
-
+and I provided for the wood offering at appointed times, and for the firstfruits.Remember me, O my God, for good. ^1331

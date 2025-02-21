@@ -1,5 +1,3 @@
-
-
 Blessed is the man who walks not in the counsel of the wicked, nor stands in the way of sinners, nor sits in the seat of scoffers; ^001001
 
 but his delight is in the law of the Lord, and on his law he meditates day and night. ^001002
@@ -4244,7 +4242,7 @@ Oh give thanks to the Lord, for he is good; for his steadfast love endures forev
 
 
 
-**Aleph**
+Aleph
 Blessed are those whose way is blameless, who walk in the law of the Lord! ^119001
 
 Blessed are those who keep his testimonies, who seek him with their whole heart, ^119002
@@ -4261,7 +4259,7 @@ I will praise you with an upright heart, when I learn your righteous rules. ^119
 
 I will keep your statutes; do not utterly forsake me! ^119008
 
-**Beth**
+Beth
 How can a young man keep his way pure? By guarding it according to your word. ^119009
 
 With my whole heart I seek you; let me not wander from your commandments! ^119010
@@ -4278,7 +4276,7 @@ I will meditate on your precepts and fix my eyes on your ways. ^119015
 
 I will delight in your statutes; I will not forget your word. ^119016
 
-**Gimel**
+Gimel
 Deal bountifully with your servant, that I may live and keep your word. ^119017
 
 Open my eyes, that I may behold wondrous things out of your law. ^119018
@@ -4295,7 +4293,7 @@ Even though princes sit plotting against me, your servant will meditate on your 
 
 Your testimonies are my delight; they are my counselors. ^119024
 
-**Daleth**
+Daleth
 My soul clings to the dust; give me life according to your word! ^119025
 
 When I told of my ways, you answered me; teach me your statutes! ^119026
@@ -4312,7 +4310,7 @@ I cling to your testimonies, O Lord; let me not be put to shame! ^119031
 
 I will run in the way of your commandments when you enlarge my heart! ^119032
 
-**He**
+He
 Teach me, O Lord, the way of your statutes; and I will keep it to the end. ^119033
 
 Give me understanding, that I may keep your law and observe it with my whole heart. ^119034
@@ -4329,7 +4327,7 @@ Turn away the reproach that I dread, for your rules are good. ^119039
 
 Behold, I long for your precepts; in your righteousness give me life! ^119040
 
-**Waw**
+Waw
 Let your steadfast love come to me, O Lord, your salvation according to your promise; ^119041
 
 then shall I have an answer for him who taunts me, for I trust in your word. ^119042
@@ -4346,7 +4344,7 @@ for I find my delight in your commandments, which I love. ^119047
 
 I will lift up my hands toward your commandments, which I love, and I will meditate on your statutes. ^119048
 
-**Zayin**
+Zayin
 Remember your word to your servant, in which you have made me hope. ^119049
 
 This is my comfort in my affliction, that your promise gives me life. ^119050
@@ -4363,7 +4361,7 @@ I remember your name in the night, O Lord, and keep your law. ^119055
 
 This blessing has fallen to me, that I have kept your precepts. ^119056
 
-**Heth**
+Heth
 The Lord is my portion; I promise to keep your words. ^119057
 
 I entreat your favor with all my heart; be gracious to me according to your promise. ^119058
@@ -4380,7 +4378,7 @@ I am a companion of all who fear you, of those who keep your precepts. ^119063
 
 The earth, O Lord, is full of your steadfast love; teach me your statutes! ^119064
 
-**Teth**
+Teth
 You have dealt well with your servant, O Lord, according to your word. ^119065
 
 Teach me good judgment and knowledge, for I believe in your commandments. ^119066
@@ -4397,7 +4395,7 @@ It is good for me that I was afflicted, that I might learn your statutes. ^11907
 
 The law of your mouth is better to me than thousands of gold and silver pieces. ^119072
 
-**Yodh**
+Yodh
 Your hands have made and fashioned me; give me understanding that I may learn your commandments. ^119073
 
 Those who fear you shall see me and rejoice, because I have hoped in your word. ^119074
@@ -4414,7 +4412,7 @@ Let those who fear you turn to me, that they may know your testimonies. ^119079
 
 May my heart be blameless in your statutes, that I may not be put to shame! ^119080
 
-**Kaph** My soul longs for your salvation; I hope in your word. ^119081
+Kaph My soul longs for your salvation; I hope in your word. ^119081
 
 My eyes long for your promise; I ask, When will you comfort me? ^119082
 
@@ -4430,7 +4428,7 @@ They have almost made an end of me on earth, but I have not forsaken your precep
 
 In your steadfast love give me life, that I may keep the testimonies of your mouth. ^119088
 
-**Lamedh**
+Lamedh
 Forever, O Lord, your word is firmly fixed in the heavens. ^119089
 
 Your faithfulness endures to all generations; you have established the earth, and it stands fast. ^119090
@@ -4447,7 +4445,7 @@ The wicked lie in wait to destroy me, but I consider your testimonies. ^119095
 
 I have seen a limit to all perfection, but your commandment is exceedingly broad. ^119096
 
-**Mem**
+Mem
 Oh how I love your law! It is my meditation all the day. ^119097
 
 Your commandment makes me wiser than my enemies, for it is ever with me. ^119098
@@ -4464,7 +4462,7 @@ How sweet are your words to my taste, sweeter than honey to my mouth! ^119103
 
 Through your precepts I get understanding; therefore I hate every false way. ^119104
 
-**Nun**
+Nun
 Your word is a lamp to my feet and a light to my path. ^119105
 
 I have sworn an oath and confirmed it, to keep your righteous rules. ^119106
@@ -4481,7 +4479,7 @@ Your testimonies are my heritage forever, for they are the joy of my heart. ^119
 
 I incline my heart to perform your statutes forever, to the end. ^119112
 
-**Samekh**
+Samekh
 I hate the double-minded, but I love your law. ^119113
 
 You are my hiding place and my shield; I hope in your word. ^119114
@@ -4498,7 +4496,7 @@ All the wicked of the earth you discard like dross, therefore I love your testim
 
 My flesh trembles for fear of you, and I am afraid of your judgments. ^119120
 
-**Ayin**
+Ayin
 I have done what is just and right; do not leave me to my oppressors. ^119121
 
 Give your servant a pledge of good; let not the insolent oppress me. ^119122
@@ -4515,7 +4513,7 @@ Therefore I love your commandments above gold, above fine gold. ^119127
 
 Therefore I consider all your precepts to be right; I hate every false way. ^119128
 
-**Pe**
+Pe
 Your testimonies are wonderful; therefore my soul keeps them. ^119129
 
 The unfolding of your words gives light; it imparts understanding to the simple. ^119130
@@ -4532,7 +4530,7 @@ Make your face shine upon your servant, and teach me your statutes. ^119135
 
 My eyes shed streams of tears, because people do not keep your law. ^119136
 
-**Tsadhe**
+Tsadhe
 Righteous are you, O Lord, and right are your rules. ^119137
 
 You have appointed your testimonies in righteousness and in all faithfulness. ^119138
@@ -4549,7 +4547,7 @@ Trouble and anguish have found me out, but your commandments are my delight. ^11
 
 Your testimonies are righteous forever; give me understanding that I may live. ^119144
 
-**Qoph**
+Qoph
 With my whole heart I cry; answer me, O Lord! I will keep your statutes. ^119145
 
 I call to you; save me, that I may observe your testimonies. ^119146
@@ -4566,7 +4564,7 @@ But you are near, O Lord, and all your commandments are true. ^119151
 
 Long have I known from your testimonies that you have founded them forever. ^119152
 
-**Resh**
+Resh
 Look on my affliction and deliver me, for I do not forget your law. ^119153
 
 Plead my cause and redeem me; give me life according to your promise! ^119154
@@ -4583,7 +4581,7 @@ Consider how I love your precepts! Give me life according to your steadfast love
 
 The sum of your word is truth, and every one of your righteous rules endures forever. ^119160
 
-**Sin and Shin**
+Sin and Shin
 Princes persecute me without cause, but my heart stands in awe of your words. ^119161
 
 I rejoice at your word like one who finds great spoil. ^119162
@@ -4600,7 +4598,7 @@ My soul keeps your testimonies; I love them exceedingly. ^119167
 
 I keep your precepts and testimonies, for all my ways are before you. ^119168
 
-**Taw**
+Taw
 Let my cry come before you, O Lord; give me understanding according to your word! ^119169
 
 Let my plea come before you; deliver me according to your word. ^119170

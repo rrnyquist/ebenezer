@@ -1,20 +1,18 @@
-
-
 In the third year of the reign of Jehoiakim king of Judah, Nebuchadnezzar king of Babylon came to Jerusalem and besieged it. ^0101
 
 And the Lord gave Jehoiakim king of Judah into his hand, with some of the vessels of the house of God. And he brought them to the land of Shinar, to the house of his god, and placed the vessels in the treasury of his god. ^0102
 
 Then the king commanded Ashpenaz, his chief eunuch, to bring some of the people of Israel, both of the royal family and of the nobility, ^0103
 
-youths without blemish, of good appearance and skillful in all wisdom, endowed with knowledge, understanding learning, and competent to stand in the king’s palace, and to teach them the literature and language of the Chaldeans. ^0104
+youths without blemish, of good appearance and skillful in all wisdom, endowed with knowledge, understanding learning, and competent to stand in the king's palace, and to teach them the literature and language of the Chaldeans. ^0104
 
 The king assigned them a daily portion of the food that the king ate, and of the wine that he drank. They were to be educated for three years, and at the end of that time they were to stand before the king. ^0105
 
 Among these were Daniel, Hananiah, Mishael, and Azariah of the tribe of Judah. ^0106
 
-And the chief of the eunuchs gave them names : Daniel he called Belteshazzar, Hananiah he called Shadrach, Mishael he called Meshach, and Azariah he called Abednego. ^0107
+And the chief of the eunuchs gave them names: Daniel he called Belteshazzar, Hananiah he called Shadrach, Mishael he called Meshach, and Azariah he called Abednego. ^0107
 
-But Daniel resolved that he would not defile himself with the king’s food, or with the wine that he drank. Therefore he asked the chief of the eunuchs to allow him not to defile himself. ^0108
+But Daniel resolved that he would not defile himself with the king's food, or with the wine that he drank. Therefore he asked the chief of the eunuchs to allow him not to defile himself. ^0108
 
 And God gave Daniel favor and compassion in the sight of the chief of the eunuchs, ^0109
 
@@ -24,11 +22,11 @@ Then Daniel said to the steward whom the chief of the eunuchs had assigned over 
 
 Test your servants for ten days; let us be given vegetables to eat and water to drink. ^0112
 
-Then let our appearance and the appearance of the youths who eat the king’s food be observed by you, and deal with your servants according to what you see. ^0113
+Then let our appearance and the appearance of the youths who eat the king's food be observed by you, and deal with your servants according to what you see. ^0113
 
 So he listened to them in this matter, and tested them for ten days. ^0114
 
-At the end of ten days it was seen that they were better in appearance and fatter in flesh than all the youths who ate the king’s food. ^0115
+At the end of ten days it was seen that they were better in appearance and fatter in flesh than all the youths who ate the king's food. ^0115
 
 So the steward took away their food and the wine they were to drink, and gave them vegetables. ^0116
 
@@ -43,7 +41,6 @@ And in every matter of wisdom and understanding about which the king inquired of
 And Daniel was there until the first year of King Cyrus. ^0121
 
 
-
 In the second year of the reign of Nebuchadnezzar, Nebuchadnezzar had dreams; his spirit was troubled, and his sleep left him. ^0201
 
 Then the king commanded that the magicians, the enchanters, the sorcerers, and the Chaldeans be summoned to tell the king his dreams. So they came in and stood before the king. ^0202
@@ -52,17 +49,17 @@ And the king said to them, I had a dream, and my spirit is troubled to know the 
 
 Then the Chaldeans said to the king in Aramaic, O king, live forever! Tell your servants the dream, and we will show the interpretation. ^0204
 
-The king answered and said to the Chaldeans, The word from me is firm : if you do not make known to me the dream and its interpretation, you shall be torn limb from limb, and your houses shall be laid in ruins. ^0205
+The king answered and said to the Chaldeans, The word from me is firm: if you do not make known to me the dream and its interpretation, you shall be torn limb from limb, and your houses shall be laid in ruins. ^0205
 
 But if you show the dream and its interpretation, you shall receive from me gifts and rewards and great honor. Therefore show me the dream and its interpretation. ^0206
 
 They answered a second time and said, Let the king tell his servants the dream, and we will show its interpretation. ^0207
 
-The king answered and said, I know with certainty that you are trying to gain time, because you see that the word from me is firm — ^0208
+The king answered and said, I know with certainty that you are trying to gain time, because you see that the word from me is firm-- ^0208
 
 if you do not make the dream known to me, there is but one sentence for you. You have agreed to speak lying and corrupt words before me till the times change. Therefore tell me the dream, and I shall know that you can show me its interpretation. ^0209
 
-The Chaldeans answered the king and said, There is not a man on earth who can meet the king’s demand, for no great and powerful king has asked such a thing of any magician or enchanter or Chaldean. ^0210
+The Chaldeans answered the king and said, There is not a man on earth who can meet the king's demand, for no great and powerful king has asked such a thing of any magician or enchanter or Chaldean. ^0210
 
 The thing that the king asks is difficult, and no one can show it to the king except the gods, whose dwelling is not with flesh. ^0211
 
@@ -70,9 +67,9 @@ Because of this the king was angry and very furious, and commanded that all the 
 
 So the decree went out, and the wise men were about to be killed; and they sought Daniel and his companions, to kill them. ^0213
 
-Then Daniel replied with prudence and discretion to Arioch, the captain of the king’s guard, who had gone out to kill the wise men of Babylon. ^0214
+Then Daniel replied with prudence and discretion to Arioch, the captain of the king's guard, who had gone out to kill the wise men of Babylon. ^0214
 
-He declared to Arioch, the king’s captain, Why is the decree of the king so urgent? Then Arioch made the matter known to Daniel. ^0215
+He declared to Arioch, the king's captain, Why is the decree of the king so urgent? Then Arioch made the matter known to Daniel. ^0215
 
 And Daniel went in and requested the king to appoint him a time, that he might show the interpretation to the king. ^0216
 
@@ -82,23 +79,23 @@ and told them to seek mercy from the God of heaven concerning this mystery, so t
 
 Then the mystery was revealed to Daniel in a vision of the night. Then Daniel blessed the God of heaven. ^0219
 
-Daniel answered and said : Blessed be the name of God forever and ever, to whom belong wisdom and might. ^0220
+Daniel answered and said: Blessed be the name of God forever and ever, to whom belong wisdom and might. ^0220
 
 He changes times and seasons; he removes kings and sets up kings; he gives wisdom to the wise and knowledge to those who have understanding; ^0221
 
 he reveals deep and hidden things; he knows what is in the darkness, and the light dwells with him. ^0222
 
-To you, O God of my fathers, I give thanks and praise, for you have given me wisdom and might, and have now made known to me what we asked of you, for you have made known to us the king’s matter. ^0223
+To you, O God of my fathers, I give thanks and praise, for you have given me wisdom and might, and have now made known to me what we asked of you, for you have made known to us the king's matter. ^0223
 
-Therefore Daniel went in to Arioch, whom the king had appointed to destroy the wise men of Babylon. He went and said thus to him: Do not destroy the wise men of Babylon; bring me in before the king, and I will show the king the interpretation. ^0224
+Therefore Daniel went in to Arioch, whom the king had appointed to destroy the wise men of Babylon. He went and said thus to him, Do not destroy the wise men of Babylon; bring me in before the king, and I will show the king the interpretation. ^0224
 
 Then Arioch brought in Daniel before the king in haste and said thus to him: I have found among the exiles from Judah a man who will make known to the king the interpretation. ^0225
 
-The king declared to Daniel, whose name was Belteshazzar, Are you able to make known to me the dream that I have seen and its interpretation? ^0226
+The king said to Daniel, whose name was Belteshazzar, Are you able to make known to me the dream that I have seen and its interpretation? ^0226
 
 Daniel answered the king and said, No wise men, enchanters, magicians, or astrologers can show to the king the mystery that the king has asked, ^0227
 
-but there is a God in heaven who reveals mysteries, and he has made known to King Nebuchadnezzar what will be in the latter days. Your dream and the visions of your head as you lay in bed are these : ^0228
+but there is a God in heaven who reveals mysteries, and he has made known to King Nebuchadnezzar what will be in the latter days. Your dream and the visions of your head as you lay in bed are these: ^0228
 
 To you, O king, as you lay in bed came thoughts of what would be after this, and he who reveals mysteries made known to you what is to be. ^0229
 
@@ -118,13 +115,13 @@ This was the dream. Now we will tell the king its interpretation. ^0236
 
 You, O king, the king of kings, to whom the God of heaven has given the kingdom, the power, and the might, and the glory, ^0237
 
-and into whose hand he has given, wherever they dwell, the children of man, the beasts of the field, and the birds of the heavens, making you rule over them all — you are the head of gold. ^0238
+and into whose hand he has given, wherever they dwell, the children of man, the beasts of the field, and the birds of the heavens, making you rule over them all--you are the head of gold. ^0238
 
 Another kingdom inferior to you shall arise after you, and yet a third kingdom of bronze, which shall rule over all the earth. ^0239
 
 And there shall be a fourth kingdom, strong as iron, because iron breaks to pieces and shatters all things. And like iron that crushes, it shall break and crush all these. ^0240
 
-And as you saw the feet and toes, partly of potter’s clay and partly of iron, it shall be a divided kingdom, but some of the firmness of iron shall be in it, just as you saw iron mixed with the soft clay. ^0241
+And as you saw the feet and toes, partly of potter's clay and partly of iron, it shall be a divided kingdom, but some of the firmness of iron shall be in it, just as you saw iron mixed with the soft clay. ^0241
 
 And as the toes of the feet were partly iron and partly clay, so the kingdom shall be partly strong and partly brittle. ^0242
 
@@ -140,8 +137,7 @@ The king answered and said to Daniel, Truly, your God is God of gods and Lord of
 
 Then the king gave Daniel high honors and many great gifts, and made him ruler over the whole province of Babylon and chief prefect over all the wise men of Babylon. ^0248
 
-Daniel made a request of the king, and he appointed Shadrach, Meshach, and Abednego over the affairs of the province of Babylon. But Daniel remained at the king’s court. ^0249
-
+Daniel made a request of the king, and he appointed Shadrach, Meshach, and Abednego over the affairs of the province of Babylon. But Daniel remained at the king's court. ^0249
 
 
 King Nebuchadnezzar made an image of gold, whose height was sixty cubits and its breadth six cubits. He set it up on the plain of Dura, in the province of Babylon. ^0301
@@ -166,7 +162,7 @@ You, O king, have made a decree, that every man who hears the sound of the horn,
 
 And whoever does not fall down and worship shall be cast into a burning fiery furnace. ^0311
 
-There are certain Jews whom you have appointed over the affairs of the province of Babylon : Shadrach, Meshach, and Abednego. These men, O king, pay no attention to you; they do not serve your gods or worship the golden image that you have set up. ^0312
+There are certain Jews whom you have appointed over the affairs of the province of Babylon: Shadrach, Meshach, and Abednego. These men, O king, pay no attention to you; they do not serve your gods or worship the golden image that you have set up. ^0312
 
 Then Nebuchadnezzar in furious rage commanded that Shadrach, Meshach, and Abednego be brought. So they brought these men before the king. ^0313
 
@@ -186,7 +182,7 @@ And he ordered some of the mighty men of his army to bind Shadrach, Meshach, and
 
 Then these men were bound in their cloaks, their tunics, their hats, and their other garments, and they were thrown into the burning fiery furnace. ^0321
 
-Because the king’s order was urgent and the furnace overheated, the flame of the fire killed those men who took up Shadrach, Meshach, and Abednego. ^0322
+Because the king's order was urgent and the furnace overheated, the flame of the fire killed those men who took up Shadrach, Meshach, and Abednego. ^0322
 
 And these three men, Shadrach, Meshach, and Abednego, fell bound into the burning fiery furnace. ^0323
 
@@ -196,17 +192,16 @@ He answered and said, But I see four men unbound, walking in the midst of the fi
 
 Then Nebuchadnezzar came near to the door of the burning fiery furnace; he declared, Shadrach, Meshach, and Abednego, servants of the Most High God, come out, and come here! Then Shadrach, Meshach, and Abednego came out from the fire. ^0326
 
-And the satraps, the prefects, the governors, and the king’s counselors gathered together and saw that the fire had not had any power over the bodies of those men. The hair of their heads was not singed, their cloaks were not harmed, and no smell of fire had come upon them. ^0327
+And the satraps, the prefects, the governors, and the king's counselors gathered together and saw that the fire had not had any power over the bodies of those men. The hair of their heads was not singed, their cloaks were not harmed, and no smell of fire had come upon them. ^0327
 
-Nebuchadnezzar answered and said, Blessed be the God of Shadrach, Meshach, and Abednego, who has sent his angel and delivered his servants, who trusted in him, and set aside the king’s command, and yielded up their bodies rather than serve and worship any god except their own God. ^0328
+Nebuchadnezzar answered and said, Blessed be the God of Shadrach, Meshach, and Abednego, who has sent his angel and delivered his servants, who trusted in him, and set aside the king's command, and yielded up their bodies rather than serve and worship any god except their own God. ^0328
 
-Therefore I make a decree : Any people, nation, or language that speaks anything against the God of Shadrach, Meshach, and Abednego shall be torn limb from limb, and their houses laid in ruins, for there is no other god who is able to rescue in this way. ^0329
+Therefore I make a decree: Any people, nation, or language that speaks anything against the God of Shadrach, Meshach, and Abednego shall be torn limb from limb, and their houses laid in ruins, for there is no other god who is able to rescue in this way. ^0329
 
 Then the king promoted Shadrach, Meshach, and Abednego in the province of Babylon. ^0330
 
 
-
-King Nebuchadnezzar to all peoples, nations, and languages, that dwell in all the earth : Peace be multiplied to you! ^0401
+King Nebuchadnezzar to all peoples, nations, and languages, that dwell in all the earth: Peace be multiplied to you! ^0401
 
 It has seemed good to me to show the signs and wonders that the Most High God has done for me. ^0402
 
@@ -220,7 +215,7 @@ So I made a decree that all the wise men of Babylon should be brought before me,
 
 Then the magicians, the enchanters, the Chaldeans, and the astrologers came in, and I told them the dream, but they could not make known to me its interpretation. ^0407
 
-At last Daniel came in before me—he who was named Belteshazzar after the name of my god, and in whom is the spirit of the holy gods —and I told him the dream, saying, ^0408
+At last Daniel came in before me--he who was named Belteshazzar after the name of my god, and in whom is the spirit of the holy gods--and I told him the dream, saying, ^0408
 
 O Belteshazzar, chief of the magicians, because I know that the spirit of the holy gods is in you and that no mystery is too difficult for you, tell me the visions of my dream that I saw and their interpretation. ^0409
 
@@ -232,13 +227,13 @@ Its leaves were beautiful and its fruit abundant, and in it was food for all. Th
 
 I saw in the visions of my head as I lay in bed, and behold, a watcher, a holy one, came down from heaven. ^0413
 
-He proclaimed aloud and said thus : Chop down the tree and lop off its branches, strip off its leaves and scatter its fruit. Let the beasts flee from under it and the birds from its branches. ^0414
+He proclaimed aloud and said thus: 'Chop down the tree and lop off its branches, strip off its leaves and scatter its fruit. Let the beasts flee from under it and the birds from its branches. ^0414
 
 But leave the stump of its roots in the earth, bound with a band of iron and bronze, amid the tender grass of the field. Let him be wet with the dew of heaven. Let his portion be with the beasts in the grass of the earth. ^0415
 
-Let his mind be changed from a man’s, and let a beast’s mind be given to him; and let seven periods of time pass over him. ^0416
+Let his mind be changed from a man's, and let a beast's mind be given to him; and let seven periods of time pass over him. ^0416
 
-The sentence is by the decree of the watchers, the decision by the word of the holy ones, to the end that the living may know that the Most High rules the kingdom of men and gives it to whom he will and sets over it the lowliest of men. ^0417
+The sentence is by the decree of the watchers, the decision by the word of the holy ones, to the end that the living may know that the Most High rules the kingdom of men and gives it to whom he will and sets over it the lowliest of men.' ^0417
 
 This dream I, King Nebuchadnezzar, saw. And you, O Belteshazzar, tell me the interpretation, because all the wise men of my kingdom are not able to make known to me the interpretation, but you are able, for the spirit of the holy gods is in you. ^0418
 
@@ -246,19 +241,19 @@ Then Daniel, whose name was Belteshazzar, was dismayed for a while, and his thou
 
 The tree you saw, which grew and became strong, so that its top reached to heaven, and it was visible to the end of the whole earth, ^0420
 
-whose leaves were beautiful and its fruit abundant, and in which was food for all, under which beasts of the field found shade, and in whose branches the birds of the heavens lived — ^0421
+whose leaves were beautiful and its fruit abundant, and in which was food for all, under which beasts of the field found shade, and in whose branches the birds of the heavens lived-- ^0421
 
 it is you, O king, who have grown and become strong. Your greatness has grown and reaches to heaven, and your dominion to the ends of the earth. ^0422
 
-And because the king saw a watcher, a holy one, coming down from heaven and saying, Chop down the tree and destroy it, but leave the stump of its roots in the earth, bound with a band of iron and bronze, in the tender grass of the field, and let him be wet with the dew of heaven, and let his portion be with the beasts of the field, till seven periods of time pass over him, ^0423
+And because the king saw a watcher, a holy one, coming down from heaven and saying, 'Chop down the tree and destroy it, but leave the stump of its roots in the earth, bound with a band of iron and bronze, in the tender grass of the field, and let him be wet with the dew of heaven, and let his portion be with the beasts of the field, till seven periods of time pass over him,' ^0423
 
-this is the interpretation, O king : It is a decree of the Most High, which has come upon my lord the king, ^0424
+this is the interpretation, O king: It is a decree of the Most High, which has come upon my lord the king, ^0424
 
 that you shall be driven from among men, and your dwelling shall be with the beasts of the field. You shall be made to eat grass like an ox, and you shall be wet with the dew of heaven, and seven periods of time shall pass over you, till you know that the Most High rules the kingdom of men and gives it to whom he will. ^0425
 
 And as it was commanded to leave the stump of the roots of the tree, your kingdom shall be confirmed for you from the time that you know that Heaven rules. ^0426
 
-Therefore, O king, let my counsel be acceptable to you : break off your sins by practicing righteousness, and your iniquities by showing mercy to the oppressed, that there may perhaps be a lengthening of your prosperity. ^0427
+Therefore, O king, let my counsel be acceptable to you: break off your sins by practicing righteousness, and your iniquities by showing mercy to the oppressed, that there may perhaps be a lengthening of your prosperity. ^0427
 
 All this came upon King Nebuchadnezzar. ^0428
 
@@ -266,11 +261,11 @@ At the end of twelve months he was walking on the roof of the royal palace of Ba
 
 and the king answered and said, Is not this great Babylon, which I have built by my mighty power as a royal residence and for the glory of my majesty? ^0430
 
-While the words were still in the king’s mouth, there fell a voice from heaven, O King Nebuchadnezzar, to you it is spoken : The kingdom has departed from you, ^0431
+While the words were still in the king's mouth, there fell a voice from heaven, O King Nebuchadnezzar, to you it is spoken: The kingdom has departed from you, ^0431
 
 and you shall be driven from among men, and your dwelling shall be with the beasts of the field. And you shall be made to eat grass like an ox, and seven periods of time shall pass over you, until you know that the Most High rules the kingdom of men and gives it to whom he will. ^0432
 
-Immediately the word was fulfilled against Nebuchadnezzar. He was driven from among men and ate grass like an ox, and his body was wet with the dew of heaven till his hair grew as long as eagles ’ feathers, and his nails were like birds ’ claws. ^0433
+Immediately the word was fulfilled against Nebuchadnezzar. He was driven from among men and ate grass like an ox, and his body was wet with the dew of heaven till his hair grew as long as eagles' feathers, and his nails were like birds' claws. ^0433
 
 At the end of the days I, Nebuchadnezzar, lifted my eyes to heaven, and my reason returned to me, and I blessed the Most High, and praised and honored him who lives forever, for his dominion is an everlasting dominion, and his kingdom endures from generation to generation; ^0434
 
@@ -281,7 +276,6 @@ At the same time my reason returned to me, and for the glory of my kingdom, my m
 Now I, Nebuchadnezzar, praise and extol and honor the King of heaven, for all his works are right and his ways are just; and those who walk in pride he is able to humble. ^0437
 
 
-
 King Belshazzar made a great feast for a thousand of his lords and drank wine in front of the thousand. ^0501
 
 Belshazzar, when he tasted the wine, commanded that the vessels of gold and of silver that Nebuchadnezzar his father had taken out of the temple in Jerusalem be brought, that the king and his lords, his wives, and his concubines might drink from them. ^0502
@@ -290,19 +284,19 @@ Then they brought in the golden vessels that had been taken out of the temple, t
 
 They drank wine and praised the gods of gold and silver, bronze, iron, wood, and stone. ^0504
 
-Immediately the fingers of a human hand appeared and wrote on the plaster of the wall of the king’s palace, opposite the lampstand. And the king saw the hand as it wrote. ^0505
+Immediately the fingers of a human hand appeared and wrote on the plaster of the wall of the king's palace, opposite the lampstand. And the king saw the hand as it wrote. ^0505
 
-Then the king’s color changed, and his thoughts alarmed him; his limbs gave way, and his knees knocked together. ^0506
+Then the king's color changed, and his thoughts alarmed him; his limbs gave way, and his knees knocked together. ^0506
 
 The king called loudly to bring in the enchanters, the Chaldeans, and the astrologers. The king declared to the wise men of Babylon, Whoever reads this writing, and shows me its interpretation, shall be clothed with purple and have a chain of gold around his neck and shall be the third ruler in the kingdom. ^0507
 
-Then all the king’s wise men came in, but they could not read the writing or make known to the king the interpretation. ^0508
+Then all the king's wise men came in, but they could not read the writing or make known to the king the interpretation. ^0508
 
 Then King Belshazzar was greatly alarmed, and his color changed, and his lords were perplexed. ^0509
 
 The queen, because of the words of the king and his lords, came into the banqueting hall, and the queen declared, O king, live forever! Let not your thoughts alarm you or your color change. ^0510
 
-There is a man in your kingdom in whom is the spirit of the holy gods. In the days of your father, light and understanding and wisdom like the wisdom of the gods were found in him, and King Nebuchadnezzar, your father —your father the king — made him chief of the magicians, enchanters, Chaldeans, and astrologers, ^0511
+There is a man in your kingdom in whom is the spirit of the holy gods. In the days of your father, light and understanding and wisdom like the wisdom of the gods were found in him, and King Nebuchadnezzar, your father--your father the king--made him chief of the magicians, enchanters, Chaldeans, and astrologers, ^0511
 
 because an excellent spirit, knowledge, and understanding to interpret dreams, explain riddles, and solve problems were found in this Daniel, whom the king named Belteshazzar. Now let Daniel be called, and he will show the interpretation. ^0512
 
@@ -330,13 +324,13 @@ but you have lifted up yourself against the Lord of heaven. And the vessels of h
 
 Then from his presence the hand was sent, and this writing was inscribed. ^0524
 
-And this is the writing that was inscribed : Mene, Mene, Tekel, and Parsin. ^0525
+And this is the writing that was inscribed: MENE, MENE, TEKEL, and PARSIN. ^0525
 
-This is the interpretation of the matter : Mene, God has numbered the days of your kingdom and brought it to an end; ^0526
+This is the interpretation of the matter: MENE, God has numbered the days of your kingdom and brought it to an end; ^0526
 
-Tekel, you have been weighed in the balances and found wanting; ^0527
+TEKEL, you have been weighed in the balances and found wanting; ^0527
 
-Peres, your kingdom is divided and given to the Medes and Persians. ^0528
+PERES, your kingdom is divided and given to the Medes and Persians. ^0528
 
 Then Belshazzar gave the command, and Daniel was clothed with purple, a chain of gold was put around his neck, and a proclamation was made about him, that he should be the third ruler in the kingdom. ^0529
 
@@ -345,20 +339,19 @@ That very night Belshazzar the Chaldean king was killed. ^0530
 And Darius the Mede received the kingdom, being about sixty-two years old. ^0531
 
 
-
 It pleased Darius to set over the kingdom 120 satraps, to be throughout the whole kingdom; ^0601
 
-and over them three high officials, of whom Daniel was one, to whom these satraps should give account, so that the king might suffer no loss. ^0602
+and over them three presidents, of whom Daniel was one, to whom these satraps should give account, so that the king might suffer no loss. ^0602
 
-Then this Daniel became distinguished above all the other high officials and satraps, because an excellent spirit was in him. And the king planned to set him over the whole kingdom. ^0603
+Then this Daniel became distinguished above all the other presidents and satraps, because an excellent spirit was in him. And the king planned to set him over the whole kingdom. ^0603
 
-Then the high officials and the satraps sought to find a ground for complaint against Daniel with regard to the kingdom, but they could find no ground for complaint or any fault, because he was faithful, and no error or fault was found in him. ^0604
+Then the presidents and the satraps sought to find a ground for complaint against Daniel with regard to the kingdom, but they could find no ground for complaint or any fault, because he was faithful, and no error or fault was found in him. ^0604
 
 Then these men said, We shall not find any ground for complaint against this Daniel unless we find it in connection with the law of his God. ^0605
 
-Then these high officials and satraps came by agreement to the king and said to him, O King Darius, live forever! ^0606
+Then these presidents and satraps came by agreement to the king and said to him, O King Darius, live forever! ^0606
 
-All the high officials of the kingdom, the prefects and the satraps, the counselors and the governors are agreed that the king should establish an ordinance and enforce an injunction, that whoever makes petition to any god or man for thirty days, except to you, O king, shall be cast into the den of lions. ^0607
+All the presidents of the kingdom, the prefects and the satraps, the counselors and the governors are agreed that the king should establish an ordinance and enforce an injunction, that whoever makes petition to any god or man for thirty days, except to you, O king, shall be cast into the den of lions. ^0607
 
 Now, O king, establish the injunction and sign the document, so that it cannot be changed, according to the law of the Medes and the Persians, which cannot be revoked. ^0608
 
@@ -388,13 +381,13 @@ As he came near to the den where Daniel was, he cried out in a tone of anguish. 
 
 Then Daniel said to the king, O king, live forever! ^0621
 
-My God sent his angel and shut the lions ’ mouths, and they have not harmed me, because I was found blameless before him; and also before you, O king, I have done no harm. ^0622
+My God sent his angel and shut the lions' mouths, and they have not harmed me, because I was found blameless before him; and also before you, O king, I have done no harm. ^0622
 
 Then the king was exceedingly glad, and commanded that Daniel be taken up out of the den. So Daniel was taken up out of the den, and no kind of harm was found on him, because he had trusted in his God. ^0623
 
-And the king commanded, and those men who had maliciously accused Daniel were brought and cast into the den of lions — they, their children, and their wives. And before they reached the bottom of the den, the lions overpowered them and broke all their bones in pieces. ^0624
+And the king commanded, and those men who had maliciously accused Daniel were brought and cast into the den of lions--they, their children, and their wives. And before they reached the bottom of the den, the lions overpowered them and broke all their bones in pieces. ^0624
 
-Then King Darius wrote to all the peoples, nations, and languages that dwell in all the earth : Peace be multiplied to you. ^0625
+Then King Darius wrote to all the peoples, nations, and languages that dwell in all the earth: Peace be multiplied to you. ^0625
 
 I make a decree, that in all my royal dominion people are to tremble and fear before the God of Daniel, for he is the living God, enduring forever; his kingdom shall never be destroyed, and his dominion shall be to the end. ^0626
 
@@ -403,16 +396,15 @@ He delivers and rescues; he works signs and wonders in heaven and on earth, he w
 So this Daniel prospered during the reign of Darius and the reign of Cyrus the Persian. ^0628
 
 
-
 In the first year of Belshazzar king of Babylon, Daniel saw a dream and visions of his head as he lay in his bed. Then he wrote down the dream and told the sum of the matter. ^0701
 
 Daniel declared, I saw in my vision by night, and behold, the four winds of heaven were stirring up the great sea. ^0702
 
 And four great beasts came up out of the sea, different from one another. ^0703
 
-The first was like a lion and had eagles ’ wings. Then as I looked its wings were plucked off, and it was lifted up from the ground and made to stand on two feet like a man, and the mind of a man was given to it. ^0704
+The first was like a lion and had eagles' wings. Then as I looked its wings were plucked off, and it was lifted up from the ground and made to stand on two feet like a man, and the mind of a man was given to it. ^0704
 
-And behold, another beast, a second one, like a bear. It was raised up on one side. It had three ribs in its mouth between its teeth; and it was told, Arise, devour much flesh. ^0705
+And behold, another beast, a second one, like a bear. It was raised up on one side. It had three ribs in its mouth between its teeth; and it was told, 'Arise, devour much flesh.' ^0705
 
 After this I looked, and behold, another, like a leopard, with four wings of a bird on its back. And the beast had four heads, and dominion was given to it. ^0706
 
@@ -420,7 +412,7 @@ After this I saw in the night visions, and behold, a fourth beast, terrifying an
 
 I considered the horns, and behold, there came up among them another horn, a little one, before which three of the first horns were plucked up by the roots. And behold, in this horn were eyes like the eyes of a man, and a mouth speaking great things. ^0708
 
-As I looked, thrones were placed, and the Ancient of Days took his seat; his clothing was white as snow, and the hair of his head like pure wool; his throne was fiery flames; its wheels were burning fire. ^0709
+As I looked, thrones were placed, and the Ancient of days took his seat; his clothing was white as snow, and the hair of his head like pure wool; his throne was fiery flames; its wheels were burning fire. ^0709
 
 A stream of fire issued and came out from before him; a thousand thousands served him, and ten thousand times ten thousand stood before him; the court sat in judgment, and the books were opened. ^0710
 
@@ -436,9 +428,9 @@ As for me, Daniel, my spirit within me was anxious, and the visions of my head a
 
 I approached one of those who stood there and asked him the truth concerning all this. So he told me and made known to me the interpretation of the things. ^0716
 
-These four great beasts are four kings who shall arise out of the earth. ^0717
+'These four great beasts are four kings who shall arise out of the earth. ^0717
 
-But the saints of the Most High shall receive the kingdom and possess the kingdom forever, forever and ever. ^0718
+But the saints of the Most High shall receive the kingdom and possess the kingdom forever, forever and ever.' ^0718
 
 Then I desired to know the truth about the fourth beast, which was different from all the rest, exceedingly terrifying, with its teeth of iron and claws of bronze, and which devoured and broke in pieces and stamped what was left with its feet, ^0719
 
@@ -448,7 +440,7 @@ As I looked, this horn made war with the saints and prevailed over them, ^0721
 
 until the Ancient of Days came, and judgment was given for the saints of the Most High, and the time came when the saints possessed the kingdom. ^0722
 
-Thus he said : As for the fourth beast, there shall be a fourth kingdom on earth, which shall be different from all the kingdoms, and it shall devour the whole earth, and trample it down, and break it to pieces. ^0723
+Thus he said: 'As for the fourth beast, there shall be a fourth kingdom on earth, which shall be different from all the kingdoms, and it shall devour the whole earth, and trample it down, and break it to pieces. ^0723
 
 As for the ten horns, out of this kingdom ten kings shall arise, and another shall arise after them; he shall be different from the former ones, and shall put down three kings. ^0724
 
@@ -456,15 +448,14 @@ He shall speak words against the Most High, and shall wear out the saints of the
 
 But the court shall sit in judgment, and his dominion shall be taken away, to be consumed and destroyed to the end. ^0726
 
-And the kingdom and the dominion and the greatness of the kingdoms under the whole heaven shall be given to the people of the saints of the Most High; his kingdom shall be an everlasting kingdom, and all dominions shall serve and obey him. ^0727
+And the kingdom and the dominion and the greatness of the kingdoms under the whole heaven shall be given to the people of the saints of the Most High; their kingdom shall be an everlasting kingdom, and all dominions shall serve and obey them.' ^0727
 
 Here is the end of the matter. As for me, Daniel, my thoughts greatly alarmed me, and my color changed, but I kept the matter in my heart. ^0728
 
 
-
 In the third year of the reign of King Belshazzar a vision appeared to me, Daniel, after that which appeared to me at the first. ^0801
 
-And I saw in the vision; and when I saw, I was in Susa the citadel, which is in the province of Elam. And I saw in the vision, and I was at the Ulai canal. ^0802
+And I saw in the vision; and when I saw, I was in Susa the capital, which is in the province of Elam. And I saw in the vision, and I was at the Ulai canal. ^0802
 
 I raised my eyes and saw, and behold, a ram standing on the bank of the canal. It had two horns, and both horns were high, but one was higher than the other, and the higher one came up last. ^0803
 
@@ -492,7 +483,7 @@ And he said to me, For 2,300 evenings and mornings. Then the sanctuary shall be 
 
 When I, Daniel, had seen the vision, I sought to understand it. And behold, there stood before me one having the appearance of a man. ^0815
 
-And I heard a man’s voice between the banks of the Ulai, and it called, Gabriel, make this man understand the vision. ^0816
+And I heard a man's voice between the banks of the Ulai, and it called, Gabriel, make this man understand the vision. ^0816
 
 So he came near where I stood. And when he came, I was frightened and fell on my face. But he said to me, Understand, O son of man, that the vision is for the time of the end. ^0817
 
@@ -508,23 +499,22 @@ As for the horn that was broken, in place of which four others arose, four kingd
 
 And at the latter end of their kingdom, when the transgressors have reached their limit, a king of bold face, one who understands riddles, shall arise. ^0823
 
-His power shall be great — but not by his own power; and he shall cause fearful destruction and shall succeed in what he does, and destroy mighty men and the people who are the saints. ^0824
+His power shall be great--but not by his own power; and he shall cause fearful destruction and shall succeed in what he does, and destroy mighty men and the people who are the saints. ^0824
 
-By his cunning he shall make deceit prosper under his hand, and in his own mind he shall become great. Without warning he shall destroy many. And he shall even rise up against the Prince of princes, and he shall be broken —but by no human hand. ^0825
+By his cunning he shall make deceit prosper under his hand, and in his own mind he shall become great. Without warning he shall destroy many. And he shall even rise up against the Prince of princes, and he shall be broken--but by no human hand. ^0825
 
 The vision of the evenings and the mornings that has been told is true, but seal up the vision, for it refers to many days from now. ^0826
 
-And I, Daniel, was overcome and lay sick for some days. Then I rose and went about the king’s business, but I was appalled by the vision and did not understand it. ^0827
+And I, Daniel, was overcome and lay sick for some days. Then I rose and went about the king's business, but I was appalled by the vision and did not understand it. ^0827
 
 
+In the first year of Darius the son of Ahasuerus, by descent a Mede, who was made king over the realm of the Chaldeans-- ^0901
 
-In the first year of Darius the son of Ahasuerus, by descent a Mede, who was made king over the realm of the Chaldeans — ^0901
-
-in the first year of his reign, I, Daniel, perceived in the books the number of years that, according to the word of the Lord to Jeremiah the prophet, must pass before the end of the desolations of Jerusalem, namely, seventy years. ^0902
+in the first year of his reign, I, Daniel, perceived in the books the number of years that, according to the word of the LORD to Jeremiah the prophet, must pass before the end of the desolations of Jerusalem, namely, seventy years. ^0902
 
 Then I turned my face to the Lord God, seeking him by prayer and pleas for mercy with fasting and sackcloth and ashes. ^0903
 
-I prayed to the Lord my God and made confession, saying, O Lord, the great and awesome God, who keeps covenant and steadfast love with those who love him and keep his commandments, ^0904
+I prayed to the LORD my God and made confession, saying, O Lord, the great and awesome God, who keeps covenant and steadfast love with those who love him and keep his commandments, ^0904
 
 we have sinned and done wrong and acted wickedly and rebelled, turning aside from your commandments and rules. ^0905
 
@@ -536,15 +526,15 @@ To us, O Lord, belongs open shame, to our kings, to our princes, and to our fath
 
 To the Lord our God belong mercy and forgiveness, for we have rebelled against him ^0909
 
-and have not obeyed the voice of the Lord our God by walking in his laws, which he set before us by his servants the prophets. ^0910
+and have not obeyed the voice of the LORD our God by walking in his laws, which he set before us by his servants the prophets. ^0910
 
 All Israel has transgressed your law and turned aside, refusing to obey your voice. And the curse and oath that are written in the Law of Moses the servant of God have been poured out upon us, because we have sinned against him. ^0911
 
 He has confirmed his words, which he spoke against us and against our rulers who ruled us, by bringing upon us a great calamity. For under the whole heaven there has not been done anything like what has been done against Jerusalem. ^0912
 
-As it is written in the Law of Moses, all this calamity has come upon us; yet we have not entreated the favor of the Lord our God, turning from our iniquities and gaining insight by your truth. ^0913
+As it is written in the Law of Moses, all this calamity has come upon us; yet we have not entreated the favor of the LORD our God, turning from our iniquities and gaining insight by your truth. ^0913
 
-Therefore the Lord has kept ready the calamity and has brought it upon us, for the Lord our God is righteous in all the works that he has done, and we have not obeyed his voice. ^0914
+Therefore the LORD has kept ready the calamity and has brought it upon us, for the LORD our God is righteous in all the works that he has done, and we have not obeyed his voice. ^0914
 
 And now, O Lord our God, who brought your people out of the land of Egypt with a mighty hand, and have made a name for yourself, as at this day, we have sinned, we have done wickedly. ^0915
 
@@ -556,7 +546,7 @@ O my God, incline your ear and hear. Open your eyes and see our desolations, and
 
 O Lord, hear; O Lord, forgive. O Lord, pay attention and act. Delay not, for your own sake, O my God, because your city and your people are called by your name. ^0919
 
-While I was speaking and praying, confessing my sin and the sin of my people Israel, and presenting my plea before the Lord my God for the holy hill of my God, ^0920
+While I was speaking and praying, confessing my sin and the sin of my people Israel, and presenting my plea before the LORD my God for the holy hill of my God, ^0920
 
 while I was speaking in prayer, the man Gabriel, whom I had seen in the vision at the first, came to me in swift flight at the time of the evening sacrifice. ^0921
 
@@ -573,14 +563,13 @@ And after the sixty-two weeks, an anointed one shall be cut off and shall have n
 And he shall make a strong covenant with many for one week, and for half of the week he shall put an end to sacrifice and offering. And on the wing of abominations shall come one who makes desolate, until the decreed end is poured out on the desolator. ^0927
 
 
-
 In the third year of Cyrus king of Persia a word was revealed to Daniel, who was named Belteshazzar. And the word was true, and it was a great conflict. And he understood the word and had understanding of the vision. ^1001
 
 In those days I, Daniel, was mourning for three weeks. ^1002
 
 I ate no delicacies, no meat or wine entered my mouth, nor did I anoint myself at all, for the full three weeks. ^1003
 
-On the twenty-fourth day of the first month, as I was standing on the bank of the great river ( that is, the Tigris ) ^1004
+On the twenty-fourth day of the first month, as I was standing on the bank of the great river (that is, the Tigris) ^1004
 
 I lifted up my eyes and looked, and behold, a man clothed in linen, with a belt of fine gold from Uphaz around his waist. ^1005
 
@@ -606,7 +595,7 @@ When he had spoken to me according to these words, I turned my face toward the g
 
 And behold, one in the likeness of the children of man touched my lips. Then I opened my mouth and spoke. I said to him who stood before me, O my lord, by reason of the vision pains have come upon me, and I retain no strength. ^1016
 
-How can my lord’s servant talk with my lord? For now no strength remains in me, and no breath is left in me. ^1017
+How can my lord's servant talk with my lord? For now no strength remains in me, and no breath is left in me. ^1017
 
 Again one having the appearance of a man touched me and strengthened me. ^1018
 
@@ -614,8 +603,7 @@ And he said, O man greatly loved, fear not, peace be with you; be strong and of 
 
 Then he said, Do you know why I have come to you? But now I will return to fight against the prince of Persia; and when I go out, behold, the prince of Greece will come. ^1020
 
-But I will tell you what is inscribed in the book of truth : there is none who contends by my side against these except Michael, your prince. ^1021
-
+But I will tell you what is inscribed in the book of truth: there is none who contends by my side against these except Michael, your prince. ^1021
 
 
 And as for me, in the first year of Darius the Mede, I stood up to confirm and strengthen him. ^1101
@@ -638,7 +626,7 @@ Then the latter shall come into the realm of the king of the south but shall ret
 
 His sons shall wage war and assemble a multitude of great forces, which shall keep coming and overflow and pass through, and again shall carry the war as far as his fortress. ^1110
 
-Then the king of the south, moved with rage, shall come out and fight against the king of the north. And he shall raise a great multitude, but it shall be given into his hand. ^1111
+Then the king of the south, moved with rage, shall come out and fight with the king of the north. And he shall raise a great multitude, but it shall be given into his hand. ^1111
 
 And when the multitude is taken away, his heart shall be exalted, and he shall cast down tens of thousands, but he shall not prevail. ^1112
 
@@ -664,7 +652,7 @@ Armies shall be utterly swept away before him and broken, even the prince of the
 
 And from the time that an alliance is made with him he shall act deceitfully, and he shall become strong with a small people. ^1123
 
-Without warning he shall come into the richest parts of the province, and he shall do what neither his fathers nor his fathers ’ fathers have done, scattering among them plunder, spoil, and goods. He shall devise plans against strongholds, but only for a time. ^1124
+Without warning he shall come into the richest parts of the province, and he shall do what neither his fathers nor his fathers' fathers have done, scattering among them plunder, spoil, and goods. He shall devise plans against strongholds, but only for a time. ^1124
 
 And he shall stir up his power and his heart against the king of the south with a great army. And the king of the south shall wage war with an exceedingly great and mighty army, but he shall not stand, for plots shall be devised against him. ^1125
 
@@ -698,7 +686,7 @@ He shall deal with the strongest fortresses with the help of a foreign god. Thos
 
 At the time of the end, the king of the south shall attack him, but the king of the north shall rush upon him like a whirlwind, with chariots and horsemen, and with many ships. And he shall come into countries and shall overflow and pass through. ^1140
 
-He shall come into the glorious land. And tens of thousands shall fall, but these shall be delivered out of his hand : Edom and Moab and the main part of the Ammonites. ^1141
+He shall come into the glorious land. And tens of thousands shall fall, but these shall be delivered out of his hand: Edom and Moab and the main part of the Ammonites. ^1141
 
 He shall stretch out his hand against the countries, and the land of Egypt shall not escape. ^1142
 
@@ -707,7 +695,6 @@ He shall become ruler of the treasures of gold and of silver, and all the precio
 But news from the east and the north shall alarm him, and he shall go out with great fury to destroy and devote many to destruction. ^1144
 
 And he shall pitch his palatial tents between the sea and the glorious holy mountain. Yet he shall come to his end, with none to help him. ^1145
-
 
 
 At that time shall arise Michael, the great prince who has charge of your people. And there shall be a time of trouble, such as never has been since there was a nation till that time. But at that time your people shall be delivered, everyone whose name shall be found written in the book. ^1201
@@ -735,5 +722,3 @@ And from the time that the regular burnt offering is taken away and the abominat
 Blessed is he who waits and arrives at the 1,335 days. ^1212
 
 But go your way till the end. And you shall rest and shall stand in your allotted place at the end of the days. ^1213
-
-

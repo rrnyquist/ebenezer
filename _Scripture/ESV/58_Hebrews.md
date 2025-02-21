@@ -1,5 +1,3 @@
-
-
 Long ago, at many times and in many ways, God spoke to our fathers by the prophets, ^0101
 
 but in these last days he has spoken to us by his Son, whom he appointed the heir of all things, through whom also he created the world. ^0102
@@ -8,9 +6,9 @@ He is the radiance of the glory of God and the exact imprint of his nature, and 
 
 having become as much superior to angels as the name he has inherited is more excellent than theirs. ^0104
 
-For to which of the angels did God ever say, You are my Son, today I have begotten you? Or again, I will be to him a father, and he shall be to me a son? ^0105
+For to which of the angels did God ever say, You are my Son, today I have begotten you?Or again, I will be to him a father, and he shall be to me a son? ^0105
 
-And again, when he brings the firstborn into the world, he says, Let all God’s angels worship him. ^0106
+And again, when he brings the firstborn into the world, he says, Let all God's angels worship him. ^0106
 
 Of the angels he says, He makes his angels winds, and his ministers a flame of fire. ^0107
 
@@ -29,32 +27,31 @@ And to which of the angels has he ever said, Sit at my right hand until I make y
 Are they not all ministering spirits sent out to serve for the sake of those who are to inherit salvation? ^0114
 
 
-
 Therefore we must pay much closer attention to what we have heard, lest we drift away from it. ^0201
 
-For since the message declared by angels proved to be reliable, and every transgression or disobedience received a just retribution, ^0202
+For since the message declared by angels proved to be reliable and every transgression or disobedience received a just retribution, ^0202
 
 how shall we escape if we neglect such a great salvation? It was declared at first by the Lord, and it was attested to us by those who heard, ^0203
 
 while God also bore witness by signs and wonders and various miracles and by gifts of the Holy Spirit distributed according to his will. ^0204
 
-For it was not to angels that God subjected the world to come, of which we are speaking. ^0205
+Now it was not to angels that God subjected the world to come, of which we are speaking. ^0205
 
 It has been testified somewhere, What is man, that you are mindful of him, or the son of man, that you care for him? ^0206
 
 You made him for a little while lower than the angels; you have crowned him with glory and honor, ^0207
 
-putting everything in subjection under his feet. Now in putting everything in subjection to him, he left nothing outside his control. At present, we do not yet see everything in subjection to him. ^0208
+putting everything in subjection under his feet.Now in putting everything in subjection to him, he left nothing outside his control. At present, we do not yet see everything in subjection to him. ^0208
 
 But we see him who for a little while was made lower than the angels, namely Jesus, crowned with glory and honor because of the suffering of death, so that by the grace of God he might taste death for everyone. ^0209
 
 For it was fitting that he, for whom and by whom all things exist, in bringing many sons to glory, should make the founder of their salvation perfect through suffering. ^0210
 
-For he who sanctifies and those who are sanctified all have one source. That is why he is not ashamed to call them brothers, ^0211
+For he who sanctifies and those who are sanctified all have one origin. That is why he is not ashamed to call them brothers, ^0211
 
 saying, I will tell of your name to my brothers; in the midst of the congregation I will sing your praise. ^0212
 
-And again, I will put my trust in him. And again, Behold, I and the children God has given me. ^0213
+And again, I will put my trust in him.And again, Behold, I and the children God has given me. ^0213
 
 Since therefore the children share in flesh and blood, he himself likewise partook of the same things, that through death he might destroy the one who has the power of death, that is, the devil, ^0214
 
@@ -67,34 +64,33 @@ Therefore he had to be made like his brothers in every respect, so that he might
 For because he himself has suffered when tempted, he is able to help those who are being tempted. ^0218
 
 
-
 Therefore, holy brothers, you who share in a heavenly calling, consider Jesus, the apostle and high priest of our confession, ^0301
 
-who was faithful to him who appointed him, just as Moses also was faithful in all God’s house. ^0302
+who was faithful to him who appointed him, just as Moses also was faithful in all God's house. ^0302
 
-For Jesus has been counted worthy of more glory than Moses — as much more glory as the builder of a house has more honor than the house itself. ^0303
+For Jesus has been counted worthy of more glory than Moses--as much more glory as the builder of a house has more honor than the house itself. ^0303
 
-( For every house is built by someone, but the builder of all things is God .) ^0304
+(For every house is built by someone, but the builder of all things is God.) ^0304
 
-Now Moses was faithful in all God’s house as a servant, to testify to the things that were to be spoken later, ^0305
+Now Moses was faithful in all God's house as a servant, to testify to the things that were to be spoken later, ^0305
 
-but Christ is faithful over God’s house as a son. And we are his house if indeed we hold fast our confidence and our boasting in our hope. ^0306
+but Christ is faithful over God's house as a son. And we are his house if indeed we hold fast our confidence and our boasting in our hope. ^0306
 
 Therefore, as the Holy Spirit says, Today, if you hear his voice, ^0307
 
 do not harden your hearts as in the rebellion, on the day of testing in the wilderness, ^0308
 
-where your fathers put me to the test and saw my works for forty years. ^0309
+where your fathers put me to the test and saw my works ^0309
 
-Therefore I was provoked with that generation, and said, They always go astray in their heart; they have not known my ways. ^0310
+for forty years. Therefore I was provoked with that generation, and said, 'They always go astray in their heart; they have not known my ways.' ^0310
 
-As I swore in my wrath, They shall not enter my rest. ^0311
+As I swore in my wrath, 'They shall not enter my rest.' ^0311
 
 Take care, brothers, lest there be in any of you an evil, unbelieving heart, leading you to fall away from the living God. ^0312
 
 But exhort one another every day, as long as it is called today, that none of you may be hardened by the deceitfulness of sin. ^0313
 
-For we have come to share in Christ, if indeed we hold our original confidence firm to the end. ^0314
+For we share in Christ, if indeed we hold our original confidence firm to the end. ^0314
 
 As it is said, Today, if you hear his voice, do not harden your hearts as in the rebellion. ^0315
 
@@ -107,14 +103,13 @@ And to whom did he swear that they would not enter his rest, but to those who we
 So we see that they were unable to enter because of unbelief. ^0319
 
 
-
 Therefore, while the promise of entering his rest still stands, let us fear lest any of you should seem to have failed to reach it. ^0401
 
 For good news came to us just as to them, but the message they heard did not benefit them, because they were not united by faith with those who listened. ^0402
 
-For we who have believed enter that rest, as he has said, As I swore in my wrath, They shall not enter my rest, although his works were finished from the foundation of the world. ^0403
+For we who have believed enter that rest, as he has said, As I swore in my wrath, 'They shall not enter my rest,'although his works were finished from the foundation of the world. ^0403
 
-For he has somewhere spoken of the seventh day in this way : And God rested on the seventh day from all his works. ^0404
+For he has somewhere spoken of the seventh day in this way: And God rested on the seventh day from all his works. ^0404
 
 And again in this passage he said, They shall not enter my rest. ^0405
 
@@ -126,7 +121,7 @@ For if Joshua had given them rest, God would not have spoken of another day late
 
 So then, there remains a Sabbath rest for the people of God, ^0409
 
-for whoever has entered God’s rest has also rested from his works as God did from his. ^0410
+for whoever has entered God's rest has also rested from his works as God did from his. ^0410
 
 Let us therefore strive to enter that rest, so that no one may fall by the same sort of disobedience. ^0411
 
@@ -139,7 +134,6 @@ Since then we have a great high priest who has passed through the heavens, Jesus
 For we do not have a high priest who is unable to sympathize with our weaknesses, but one who in every respect has been tempted as we are, yet without sin. ^0415
 
 Let us then with confidence draw near to the throne of grace, that we may receive mercy and find grace to help in time of need. ^0416
-
 
 
 For every high priest chosen from among men is appointed to act on behalf of men in relation to God, to offer gifts and sacrifices for sins. ^0501
@@ -171,26 +165,25 @@ for everyone who lives on milk is unskilled in the word of righteousness, since 
 But solid food is for the mature, for those who have their powers of discernment trained by constant practice to distinguish good from evil. ^0514
 
 
-
 Therefore let us leave the elementary doctrine of Christ and go on to maturity, not laying again a foundation of repentance from dead works and of faith toward God, ^0601
 
 and of instruction about washings, the laying on of hands, the resurrection of the dead, and eternal judgment. ^0602
 
 And this we will do if God permits. ^0603
 
-For it is impossible, in the case of those who have once been enlightened, who have tasted the heavenly gift, and have shared in the Holy Spirit, ^0604
+For it is impossible to restore again to repentance those who have once been enlightened, who have tasted the heavenly gift, and have shared in the Holy Spirit, ^0604
 
 and have tasted the goodness of the word of God and the powers of the age to come, ^0605
 
-and then have fallen away, to restore them again to repentance, since they are crucifying once again the Son of God to their own harm and holding him up to contempt. ^0606
+if they then fall away, since they are crucifying once again the Son of God to their own harm and holding him up to contempt. ^0606
 
 For land that has drunk the rain that often falls on it, and produces a crop useful to those for whose sake it is cultivated, receives a blessing from God. ^0607
 
 But if it bears thorns and thistles, it is worthless and near to being cursed, and its end is to be burned. ^0608
 
-Though we speak in this way, yet in your case, beloved, we feel sure of better things — things that belong to salvation. ^0609
+Though we speak in this way, yet in your case, beloved, we feel sure of better things--things that belong to salvation. ^0609
 
-For God is not unjust so as to overlook your work and the love that you have shown for his name in serving the saints, as you still do. ^0610
+For God is not so unjust as to overlook your work and the love that you showed for his sake in serving the saints, as you still do. ^0610
 
 And we desire each one of you to show the same earnestness to have the full assurance of hope until the end, ^0611
 
@@ -213,7 +206,6 @@ We have this as a sure and steadfast anchor of the soul, a hope that enters into
 where Jesus has gone as a forerunner on our behalf, having become a high priest forever after the order of Melchizedek. ^0620
 
 
-
 For this Melchizedek, king of Salem, priest of the Most High God, met Abraham returning from the slaughter of the kings and blessed him, ^0701
 
 and to him Abraham apportioned a tenth part of everything. He is first, by translation of his name, king of righteousness, and then he is also king of Salem, that is, king of peace. ^0702
@@ -234,7 +226,7 @@ One might even say that Levi himself, who receives tithes, paid tithes through A
 
 for he was still in the loins of his ancestor when Melchizedek met him. ^0710
 
-Now if perfection had been attainable through the Levitical priesthood ( for under it the people received the law ), what further need would there have been for another priest to arise after the order of Melchizedek, rather than one named after the order of Aaron? ^0711
+Now if perfection had been attainable through the Levitical priesthood (for under it the people received the law), what further need would there have been for another priest to arise after the order of Melchizedek, rather than one named after the order of Aaron? ^0711
 
 For when there is a change in the priesthood, there is necessarily a change in the law as well. ^0712
 
@@ -248,13 +240,13 @@ who has become a priest, not on the basis of a legal requirement concerning bodi
 
 For it is witnessed of him, You are a priest forever, after the order of Melchizedek. ^0717
 
-For on the one hand, a former commandment is set aside because of its weakness and uselessness ^0718
+On the one hand, a former commandment is set aside because of its weakness and uselessness ^0718
 
-( for the law made nothing perfect ); but on the other hand, a better hope is introduced, through which we draw near to God. ^0719
+(for the law made nothing perfect); but on the other hand, a better hope is introduced, through which we draw near to God. ^0719
 
 And it was not without an oath. For those who formerly became priests were made such without an oath, ^0720
 
-but this one was made a priest with an oath by the one who said to him : The Lord has sworn and will not change his mind, You are a priest forever. ^0721
+but this one was made a priest with an oath by the one who said to him: The Lord has sworn and will not change his mind, 'You are a priest forever.' ^0721
 
 This makes Jesus the guarantor of a better covenant. ^0722
 
@@ -271,7 +263,6 @@ He has no need, like those high priests, to offer sacrifices daily, first for hi
 For the law appoints men in their weakness as high priests, but the word of the oath, which came later than the law, appoints a Son who has been made perfect forever. ^0728
 
 
-
 Now the point in what we are saying is this: we have such a high priest, one who is seated at the right hand of the throne of the Majesty in heaven, ^0801
 
 a minister in the holy places, in the true tent that the Lord set up, not man. ^0802
@@ -286,18 +277,17 @@ But as it is, Christ has obtained a ministry that is as much more excellent than
 
 For if that first covenant had been faultless, there would have been no occasion to look for a second. ^0807
 
-For he finds fault with them when he says : Behold, the days are coming, declares the Lord, when I will establish a new covenant with the house of Israel and with the house of Judah, ^0808
+For he finds fault with them when he says: Behold, the days are coming, declares the Lord, when I will establish a new covenant with the house of Israel and with the house of Judah, ^0808
 
 not like the covenant that I made with their fathers on the day when I took them by the hand to bring them out of the land of Egypt. For they did not continue in my covenant, and so I showed no concern for them, declares the Lord. ^0809
 
-For this is the covenant that I will make with the house of Israel after those days, declares the Lord : I will put my laws into their minds, and write them on their hearts, and I will be their God, and they shall be my people. ^0810
+For this is the covenant that I will make with the house of Israel after those days, declares the Lord: I will put my laws into their minds, and write them on their hearts, and I will be their God, and they shall be my people. ^0810
 
-And they shall not teach, each one his neighbor and each one his brother, saying, Know the Lord, for they shall all know me, from the least of them to the greatest. ^0811
+And they shall not teach, each one his neighbor and each one his brother, saying, 'Know the Lord,' for they shall all know me, from the least of them to the greatest. ^0811
 
 For I will be merciful toward their iniquities, and I will remember their sins no more. ^0812
 
 In speaking of a new covenant, he makes the first one obsolete. And what is becoming obsolete and growing old is ready to vanish away. ^0813
-
 
 
 Now even the first covenant had regulations for worship and an earthly place of holiness. ^0901
@@ -306,7 +296,7 @@ For a tent was prepared, the first section, in which were the lampstand and the 
 
 Behind the second curtain was a second section called the Most Holy Place, ^0903
 
-having the golden altar of incense and the ark of the covenant covered on all sides with gold, in which was a golden urn holding the manna, and Aaron’s staff that budded, and the tablets of the covenant. ^0904
+having the golden altar of incense and the ark of the covenant covered on all sides with gold, in which was a golden urn holding the manna, and Aaron's staff that budded, and the tablets of the covenant. ^0904
 
 Above it were the cherubim of glory overshadowing the mercy seat. Of these things we cannot now speak in detail. ^0905
 
@@ -316,15 +306,15 @@ but into the second only the high priest goes, and he but once a year, and not w
 
 By this the Holy Spirit indicates that the way into the holy places is not yet opened as long as the first section is still standing ^0908
 
-( which is symbolic for the present age ). According to this arrangement, gifts and sacrifices are offered that cannot perfect the conscience of the worshiper, ^0909
+(which is symbolic for the present age). According to this arrangement, gifts and sacrifices are offered that cannot perfect the conscience of the worshiper, ^0909
 
 but deal only with food and drink and various washings, regulations for the body imposed until the time of reformation. ^0910
 
-But when Christ appeared as a high priest of the good things that have come, then through the greater and more perfect tent ( not made with hands, that is, not of this creation ) ^0911
+But when Christ appeared as a high priest of the good things that have come, then through the greater and more perfect tent (not made with hands, that is, not of this creation) ^0911
 
 he entered once for all into the holy places, not by means of the blood of goats and calves but by means of his own blood, thus securing an eternal redemption. ^0912
 
-For if the blood of goats and bulls, and the sprinkling of defiled persons with the ashes of a heifer, sanctify for the purification of the flesh, ^0913
+For if the sprinkling of defiled persons with the blood of goats and bulls and with the ashes of a heifer sanctifies for the purification of the flesh, ^0913
 
 how much more will the blood of Christ, who through the eternal Spirit offered himself without blemish to God, purify our conscience from dead works to serve the living God. ^0914
 
@@ -357,12 +347,11 @@ And just as it is appointed for man to die once, and after that comes judgment, 
 so Christ, having been offered once to bear the sins of many, will appear a second time, not to deal with sin but to save those who are eagerly waiting for him. ^0928
 
 
-
 For since the law has but a shadow of the good things to come instead of the true form of these realities, it can never, by the same sacrifices that are continually offered every year, make perfect those who draw near. ^1001
 
-Otherwise, would they not have ceased to be offered, since the worshipers, having once been cleansed, would no longer have any consciousness of sins? ^1002
+Otherwise, would they not have ceased to be offered, since the worshipers, having once been cleansed, would no longer have any consciousness of sin? ^1002
 
-But in these sacrifices there is a reminder of sins every year. ^1003
+But in these sacrifices there is a reminder of sin every year. ^1003
 
 For it is impossible for the blood of bulls and goats to take away sins. ^1004
 
@@ -370,11 +359,11 @@ Consequently, when Christ came into the world, he said, Sacrifices and offerings
 
 in burnt offerings and sin offerings you have taken no pleasure. ^1006
 
-Then I said, Behold, I have come to do your will, O God, as it is written of me in the scroll of the book. ^1007
+Then I said, 'Behold, I have come to do your will, O God, as it is written of me in the scroll of the book.' ^1007
 
-When he said above, You have neither desired nor taken pleasure in sacrifices and offerings and burnt offerings and sin offerings (these are offered according to the law ), ^1008
+When he said above, You have neither desired nor taken pleasure in sacrifices and offerings and burnt offerings and sin offerings (these are offered according to the law), ^1008
 
-then he added, Behold, I have come to do your will. He does away with the first in order to establish the second. ^1009
+then he added, Behold, I have come to do your will. He abolishes the first in order to establish the second. ^1009
 
 And by that will we have been sanctified through the offering of the body of Jesus Christ once for all. ^1010
 
@@ -388,7 +377,7 @@ For by a single offering he has perfected for all time those who are being sanct
 
 And the Holy Spirit also bears witness to us; for after saying, ^1015
 
-This is the covenant that I will make with them after those days, declares the Lord : I will put my laws on their hearts, and write them on their minds, ^1016
+This is the covenant that I will make with them after those days, declares the Lord: I will put my laws on their hearts, and write them on their minds, ^1016
 
 then he adds, I will remember their sins and their lawless deeds no more. ^1017
 
@@ -414,7 +403,7 @@ but a fearful expectation of judgment, and a fury of fire that will consume the 
 
 Anyone who has set aside the law of Moses dies without mercy on the evidence of two or three witnesses. ^1028
 
-How much worse punishment, do you think, will be deserved by the one who has trampled underfoot the Son of God, and has profaned the blood of the covenant by which he was sanctified, and has outraged the Spirit of grace? ^1029
+How much worse punishment, do you think, will be deserved by the one who has spurned the Son of God, and has profaned the blood of the covenant by which he was sanctified, and has outraged the Spirit of grace? ^1029
 
 For we know him who said, Vengeance is mine; I will repay. And again, The Lord will judge his people. ^1030
 
@@ -435,7 +424,6 @@ For, Yet a little while, and the coming one will come and will not delay; ^1037
 but my righteous one shall live by faith, and if he shrinks back, my soul has no pleasure in him. ^1038
 
 But we are not of those who shrink back and are destroyed, but of those who have faith and preserve their souls. ^1039
-
 
 
 Now faith is the assurance of things hoped for, the conviction of things not seen. ^1101
@@ -482,9 +470,9 @@ By faith Jacob, when dying, blessed each of the sons of Joseph, bowing in worshi
 
 By faith Joseph, at the end of his life, made mention of the exodus of the Israelites and gave directions concerning his bones. ^1122
 
-By faith Moses, when he was born, was hidden for three months by his parents, because they saw that the child was beautiful, and they were not afraid of the king’s edict. ^1123
+By faith Moses, when he was born, was hidden for three months by his parents, because they saw that the child was beautiful, and they were not afraid of the king's edict. ^1123
 
-By faith Moses, when he was grown up, refused to be called the son of Pharaoh’s daughter, ^1124
+By faith Moses, when he was grown up, refused to be called the son of Pharaoh's daughter, ^1124
 
 choosing rather to be mistreated with the people of God than to enjoy the fleeting pleasures of sin. ^1125
 
@@ -494,13 +482,13 @@ By faith he left Egypt, not being afraid of the anger of the king, for he endure
 
 By faith he kept the Passover and sprinkled the blood, so that the Destroyer of the firstborn might not touch them. ^1128
 
-By faith the people crossed the Red Sea as on dry land, but the Egyptians, when they attempted to do the same, were drowned. ^1129
+By faith the people crossed the Red Sea as if on dry land, but the Egyptians, when they attempted to do the same, were drowned. ^1129
 
 By faith the walls of Jericho fell down after they had been encircled for seven days. ^1130
 
 By faith Rahab the prostitute did not perish with those who were disobedient, because she had given a friendly welcome to the spies. ^1131
 
-And what more shall I say? For time would fail me to tell of Gideon, Barak, Samson, Jephthah, of David and Samuel and the prophets — ^1132
+And what more shall I say? For time would fail me to tell of Gideon, Barak, Samson, Jephthah, of David and Samuel and the prophets-- ^1132
 
 who through faith conquered kingdoms, enforced justice, obtained promises, stopped the mouths of lions, ^1133
 
@@ -510,14 +498,13 @@ Women received back their dead by resurrection. Some were tortured, refusing to 
 
 Others suffered mocking and flogging, and even chains and imprisonment. ^1136
 
-They were stoned, they were sawn in two, they were killed with the sword. They went about in skins of sheep and goats, destitute, afflicted, mistreated — ^1137
+They were stoned, they were sawn in two, they were killed with the sword. They went about in skins of sheep and goats, destitute, afflicted, mistreated-- ^1137
 
-of whom the world was not worthy — wandering about in deserts and mountains, and in dens and caves of the earth. ^1138
+of whom the world was not worthy--wandering about in deserts and mountains, and in dens and caves of the earth. ^1138
 
 And all these, though commended through their faith, did not receive what was promised, ^1139
 
 since God had provided something better for us, that apart from us they should not be made perfect. ^1140
-
 
 
 Therefore, since we are surrounded by so great a cloud of witnesses, let us also lay aside every weight, and sin which clings so closely, and let us run with endurance the race that is set before us, ^1201
@@ -572,12 +559,11 @@ See that you do not refuse him who is speaking. For if they did not escape when 
 
 At that time his voice shook the earth, but now he has promised, Yet once more I will shake not only the earth but also the heavens. ^1226
 
-This phrase, Yet once more, indicates the removal of things that are shaken —that is, things that have been made —in order that the things that cannot be shaken may remain. ^1227
+This phrase, Yet once more, indicates the removal of things that are shaken--that is, things that have been made--in order that the things that cannot be shaken may remain. ^1227
 
 Therefore let us be grateful for receiving a kingdom that cannot be shaken, and thus let us offer to God acceptable worship, with reverence and awe, ^1228
 
 for our God is a consuming fire. ^1229
-
 
 
 Let brotherly love continue. ^1301
@@ -629,5 +615,3 @@ You should know that our brother Timothy has been released, with whom I shall se
 Greet all your leaders and all the saints. Those who come from Italy send you greetings. ^1324
 
 Grace be with all of you. ^1325
-
-

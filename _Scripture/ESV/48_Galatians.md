@@ -1,8 +1,6 @@
+Paul, an apostle--not from men nor through man, but through Jesus Christ and God the Father, who raised him from the dead-- ^0101
 
-
-Paul, an apostle — not from men nor through man, but through Jesus Christ and God the Father, who raised him from the dead — ^0101
-
-and all the brothers who are with me, To the churches of Galatia : ^0102
+and all the brothers who are with me,To the churches of Galatia: ^0102
 
 Grace to you and peace from God our Father and the Lord Jesus Christ, ^0103
 
@@ -10,17 +8,17 @@ who gave himself for our sins to deliver us from the present evil age, according
 
 to whom be the glory forever and ever. Amen. ^0105
 
-I am astonished that you are so quickly deserting him who called you in the grace of Christ and are turning to a different gospel — ^0106
+I am astonished that you are so quickly deserting him who called you in the grace of Christ and are turning to a different gospel-- ^0106
 
 not that there is another one, but there are some who trouble you and want to distort the gospel of Christ. ^0107
 
 But even if we or an angel from heaven should preach to you a gospel contrary to the one we preached to you, let him be accursed. ^0108
 
-As we have said before, so now I say again : If anyone is preaching to you a gospel contrary to the one you received, let him be accursed. ^0109
+As we have said before, so now I say again: If anyone is preaching to you a gospel contrary to the one you received, let him be accursed. ^0109
 
 For am I now seeking the approval of man, or of God? Or am I trying to please man? If I were still trying to please man, I would not be a servant of Christ. ^0110
 
-For I would have you know, brothers, that the gospel that was preached by me is not man’s gospel. ^0111
+For I would have you know, brothers, that the gospel that was preached by me is not man's gospel. ^0111
 
 For I did not receive it from any man, nor was I taught it, but I received it through a revelation of Jesus Christ. ^0112
 
@@ -36,9 +34,9 @@ nor did I go up to Jerusalem to those who were apostles before me, but I went aw
 
 Then after three years I went up to Jerusalem to visit Cephas and remained with him fifteen days. ^0118
 
-But I saw none of the other apostles except James the Lord’s brother. ^0119
+But I saw none of the other apostles except James the Lord's brother. ^0119
 
-( In what I am writing to you, before God, I do not lie !) ^0120
+(In what I am writing to you, before God, I do not lie!) ^0120
 
 Then I went into the regions of Syria and Cilicia. ^0121
 
@@ -49,22 +47,21 @@ They only were hearing it said, He who used to persecute us is now preaching the
 And they glorified God because of me. ^0124
 
 
-
 Then after fourteen years I went up again to Jerusalem with Barnabas, taking Titus along with me. ^0201
 
-I went up because of a revelation and set before them ( though privately before those who seemed influential ) the gospel that I proclaim among the Gentiles, in order to make sure I was not running or had not run in vain. ^0202
+I went up because of a revelation and set before them (though privately before those who seemed influential) the gospel that I proclaim among the Gentiles, in order to make sure I was not running or had not run in vain. ^0202
 
 But even Titus, who was with me, was not forced to be circumcised, though he was a Greek. ^0203
 
-Yet because of false brothers secretly brought in — who slipped in to spy out our freedom that we have in Christ Jesus, so that they might bring us into slavery — ^0204
+Yet because of false brothers secretly brought in--who slipped in to spy out our freedom that we have in Christ Jesus, so that they might bring us into slavery-- ^0204
 
 to them we did not yield in submission even for a moment, so that the truth of the gospel might be preserved for you. ^0205
 
-And from those who seemed to be influential ( what they were makes no difference to me; God shows no partiality )—those, I say, who seemed influential added nothing to me. ^0206
+And from those who seemed to be influential (what they were makes no difference to me; God shows no partiality)--those, I say, who seemed influential added nothing to me. ^0206
 
 On the contrary, when they saw that I had been entrusted with the gospel to the uncircumcised, just as Peter had been entrusted with the gospel to the circumcised ^0207
 
-( for he who worked through Peter for his apostolic ministry to the circumcised worked also through me for mine to the Gentiles ), ^0208
+(for he who worked through Peter for his apostolic ministry to the circumcised worked also through me for mine to the Gentiles), ^0208
 
 and when James and Cephas and John, who seemed to be pillars, perceived the grace that was given to me, they gave the right hand of fellowship to Barnabas and me, that we should go to the Gentiles and they to the circumcised. ^0209
 
@@ -90,19 +87,18 @@ For through the law I died to the law, so that I might live to God. ^0219
 
 I have been crucified with Christ. It is no longer I who live, but Christ who lives in me. And the life I now live in the flesh I live by faith in the Son of God, who loved me and gave himself for me. ^0220
 
-I do not nullify the grace of God, for if righteousness were through the law, then Christ died for no purpose. ^0221
-
+I do not nullify the grace of God, for if justification were through the law, then Christ died for no purpose. ^0221
 
 
 O foolish Galatians! Who has bewitched you? It was before your eyes that Jesus Christ was publicly portrayed as crucified. ^0301
 
-Let me ask you only this : Did you receive the Spirit by works of the law or by hearing with faith? ^0302
+Let me ask you only this: Did you receive the Spirit by works of the law or by hearing with faith? ^0302
 
 Are you so foolish? Having begun by the Spirit, are you now being perfected by the flesh? ^0303
 
-Did you suffer so many things in vain — if indeed it was in vain? ^0304
+Did you suffer so many things in vain--if indeed it was in vain? ^0304
 
-Does he who supplies the Spirit to you and works miracles among you do so by works of the law, or by hearing with faith — ^0305
+Does he who supplies the Spirit to you and works miracles among you do so by works of the law, or by hearing with faith-- ^0305
 
 just as Abraham believed God, and it was counted to him as righteousness? ^0306
 
@@ -118,15 +114,15 @@ Now it is evident that no one is justified before God by the law, for The righte
 
 But the law is not of faith, rather The one who does them shall live by them. ^0312
 
-Christ redeemed us from the curse of the law by becoming a curse for us — for it is written, Cursed is everyone who is hanged on a tree — ^0313
+Christ redeemed us from the curse of the law by becoming a curse for us--for it is written, Cursed is everyone who is hanged on a tree-- ^0313
 
 so that in Christ Jesus the blessing of Abraham might come to the Gentiles, so that we might receive the promised Spirit through faith. ^0314
 
-To give a human example, brothers : even with a man-made covenant, no one annuls it or adds to it once it has been ratified. ^0315
+To give a human example, brothers: even with a man-made covenant, no one annuls it or adds to it once it has been ratified. ^0315
 
 Now the promises were made to Abraham and to his offspring. It does not say, And to offsprings, referring to many, but referring to one, And to your offspring, who is Christ. ^0316
 
-This is what I mean : the law, which came 430 years afterward, does not annul a covenant previously ratified by God, so as to make the promise void. ^0317
+This is what I mean: the law, which came 430 years afterward, does not annul a covenant previously ratified by God, so as to make the promise void. ^0317
 
 For if the inheritance comes by the law, it no longer comes by promise; but God gave it to Abraham by a promise. ^0318
 
@@ -148,10 +144,9 @@ for in Christ Jesus you are all sons of God, through faith. ^0326
 
 For as many of you as were baptized into Christ have put on Christ. ^0327
 
-There is neither Jew nor Greek, there is neither slave nor free, there is no male and female, for you are all one in Christ Jesus. ^0328
+There is neither Jew nor Greek, there is neither slave nor free, there is neither male nor female, for you are all one in Christ Jesus. ^0328
 
-And if you are Christ’s, then you are Abraham’s offspring, heirs according to promise. ^0329
-
+And if you are Christ's, then you are Abraham's offspring, heirs according to promise. ^0329
 
 
 I mean that the heir, as long as he is a child, is no different from a slave, though he is the owner of everything, ^0401
@@ -182,7 +177,7 @@ You know it was because of a bodily ailment that I preached the gospel to you at
 
 and though my condition was a trial to you, you did not scorn or despise me, but received me as an angel of God, as Christ Jesus. ^0414
 
-What then has become of your blessedness? For I testify to you that, if possible, you would have gouged out your eyes and given them to me. ^0415
+What then has become of the blessing you felt? For I testify to you that, if possible, you would have gouged out your eyes and given them to me. ^0415
 
 Have I then become your enemy by telling you the truth? ^0416
 
@@ -200,7 +195,7 @@ For it is written that Abraham had two sons, one by a slave woman and one by a f
 
 But the son of the slave was born according to the flesh, while the son of the free woman was born through promise. ^0423
 
-Now this may be interpreted allegorically : these women are two covenants. One is from Mount Sinai, bearing children for slavery; she is Hagar. ^0424
+Now this may be interpreted allegorically: these women are two covenants. One is from Mount Sinai, bearing children for slavery; she is Hagar. ^0424
 
 Now Hagar is Mount Sinai in Arabia; she corresponds to the present Jerusalem, for she is in slavery with her children. ^0425
 
@@ -217,10 +212,9 @@ But what does the Scripture say? Cast out the slave woman and her son, for the s
 So, brothers, we are not children of the slave but of the free woman. ^0431
 
 
-
 For freedom Christ has set us free; stand firm therefore, and do not submit again to a yoke of slavery. ^0501
 
-Look : I, Paul, say to you that if you accept circumcision, Christ will be of no advantage to you. ^0502
+Look: I, Paul, say to you that if you accept circumcision, Christ will be of no advantage to you. ^0502
 
 I testify again to every man who accepts circumcision that he is obligated to keep the whole law. ^0503
 
@@ -236,7 +230,7 @@ This persuasion is not from him who calls you. ^0508
 
 A little leaven leavens the whole lump. ^0509
 
-I have confidence in the Lord that you will take no other view, and the one who is troubling you will bear the penalty, whoever he is. ^0510
+I have confidence in the Lord that you will take no other view than mine, and the one who is troubling you will bear the penalty, whoever he is. ^0510
 
 But if I, brothers, still preach circumcision, why am I still being persecuted? In that case the offense of the cross has been removed. ^0511
 
@@ -244,7 +238,7 @@ I wish those who unsettle you would emasculate themselves! ^0512
 
 For you were called to freedom, brothers. Only do not use your freedom as an opportunity for the flesh, but through love serve one another. ^0513
 
-For the whole law is fulfilled in one word : You shall love your neighbor as yourself. ^0514
+For the whole law is fulfilled in one word: You shall love your neighbor as yourself. ^0514
 
 But if you bite and devour one another, watch out that you are not consumed by one another. ^0515
 
@@ -254,7 +248,7 @@ For the desires of the flesh are against the Spirit, and the desires of the Spir
 
 But if you are led by the Spirit, you are not under the law. ^0518
 
-Now the works of the flesh are evident : sexual immorality, impurity, sensuality, ^0519
+Now the works of the flesh are evident: sexual immorality, impurity, sensuality, ^0519
 
 idolatry, sorcery, enmity, strife, jealousy, fits of anger, rivalries, dissensions, divisions, ^0520
 
@@ -266,15 +260,14 @@ gentleness, self-control; against such things there is no law. ^0523
 
 And those who belong to Christ Jesus have crucified the flesh with its passions and desires. ^0524
 
-If we live by the Spirit, let us also keep in step with the Spirit. ^0525
+If we live by the Spirit, let us also walk by the Spirit. ^0525
 
 Let us not become conceited, provoking one another, envying one another. ^0526
 
 
-
 Brothers, if anyone is caught in any transgression, you who are spiritual should restore him in a spirit of gentleness. Keep watch on yourself, lest you too be tempted. ^0601
 
-Bear one another’s burdens, and so fulfill the law of Christ. ^0602
+Bear one another's burdens, and so fulfill the law of Christ. ^0602
 
 For if anyone thinks he is something, when he is nothing, he deceives himself. ^0603
 
@@ -282,9 +275,9 @@ But let each one test his own work, and then his reason to boast will be in hims
 
 For each will have to bear his own load. ^0605
 
-Let the one who is taught the word share all good things with the one who teaches. ^0606
+One who is taught the word must share all good things with the one who teaches. ^0606
 
-Do not be deceived : God is not mocked, for whatever one sows, that will he also reap. ^0607
+Do not be deceived: God is not mocked, for whatever one sows, that will he also reap. ^0607
 
 For the one who sows to his own flesh will from the flesh reap corruption, but the one who sows to the Spirit will from the Spirit reap eternal life. ^0608
 
@@ -307,5 +300,3 @@ And as for all who walk by this rule, peace and mercy be upon them, and upon the
 From now on let no one cause me trouble, for I bear on my body the marks of Jesus. ^0617
 
 The grace of our Lord Jesus Christ be with your spirit, brothers. Amen. ^0618
-
-

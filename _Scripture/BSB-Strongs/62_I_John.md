@@ -1,50 +1,24 @@
-[[G3708|Behold]] [[G4217|what manner of]] [[G26|love]] [[G3588|the]] [[G3962|Father]] [[G1325|has given]] [[G1473|to us,]] [[G2443|that]] [[G2564|we should be called]] [[G5043|children]] [[G2316|of God.]] [[G2532|And]] ⟨that is what⟩ [[G1510|we are!]] [[G1223|The reason]] [[G3588|the]] [[G2889|world]] [[G1097|does not know]] [[G1473|us]] ⟨is⟩ [[G3754|that]] [[G1097|it did not know]] [[G846|Him.]] ^0301
 
-[[G27|Beloved,]] [[G1510|we are]] [[G3568|now]] [[G5043|children]] [[G2316|of God,]] [[G2532|and]] [[G5101|what]] [[G1510|we will be]] ⟨has⟩ [[G3768|not yet]] [[G5319|been revealed.]] [[G1492|We know]] [[G3754|that]] [[G1437|when]] ⟨Christ⟩ [[G5319|appears,]] [[G1510|we will be]] [[G3664|like]] [[G846|Him,]] [[G3754|for]] [[G3708|we will see]] [[G846|Him]] [[G2531|as]] [[G1510|He is.]] ^0302
 
-[[G2532|And]] [[G3956|everyone]] [[G3588|who]] [[G2192|has]] [[G3778|this]] [[G1680|hope]] [[G1909|in]] [[G846|Him]] [[G48|purifies]] [[G1438|himself,]] [[G2531|just as]] [[G1565|He]] [[G1510|is]] [[G53|pure.]] ^0303
+[[G3739|That which]] [[G1510|was]] [[G575|from]] ⟨the⟩ [[G746|beginning,]] [[G3739|which]] [[G191|we have heard,]] [[G3739|which]] [[G3708|we have seen]] [[G3588|with]] [[G1473|our own]] [[G3788|eyes,]] [[G3739|which]] [[G2300|we have gazed upon]] [[G2532|and]] [[G5584|touched]] ⟨with⟩ [[G1473|our]] ⟨own⟩ [[G3588|]] [[G5495|hands—]] ⟨this is⟩ [[G4012|]] [[G3588|the]] [[G3056|Word]] [[G2222|of life.]] ^0101
 
-[[G3956|Everyone]] [[G3588|who]] [[G4160|practices]] [[G266|sin]] [[G4160|practices]] [[G458|lawlessness]] [[G2532|as well.]] [[G2532|Indeed,]] [[G266|sin]] [[G1510|is]] [[G458|lawlessness.]] ^0304
+[[G2532|And]] ⟨this is⟩ [[G3588|the]] [[G2222|life]] [[G5319|that was revealed;]] [[G3708|we have seen]] ⟨it⟩ [[G2532|and]] [[G3140|testified]] ⟨to it⟩, [[G2532|and]] [[G518|we proclaim]] [[G4771|to you]] [[G3588|the]] [[G166|eternal]] [[G2222|life]] [[G3748|that]] [[G1510|was]] [[G4314|with]] [[G3588|the]] [[G3962|Father]] [[G2532|and]] [[G5319|was revealed]] [[G1473|to us.]] ^0102
 
-⟨But⟩ [[G2532|]] [[G1492|you know]] [[G3754|that]] ⟨Christ⟩ [[G1565|]] [[G5319|appeared]] [[G2443|to]] [[G142|take away]] [[G266|sins,]] [[G2532|and]] [[G1722|in]] [[G846|Him]] [[G1510|there is]] [[G3756|no]] [[G266|sin.]] ^0305
+[[G518|We proclaim]] [[G4771|to you]] [[G3739|what]] [[G3708|we have seen]] [[G2532|and]] [[G191|heard,]] [[G2443|so that]] [[G4771|you]] [[G2532|also]] [[G2192|may have]] [[G2842|fellowship]] [[G3326|with]] [[G1473|us.]] [[G2532|And]] ⟨this⟩ [[G3588|]] [[G2842|fellowship]] [[G2251|of ours]] ⟨is⟩ [[G3326|with]] [[G3588|the]] [[G3962|Father]] [[G2532|and]] [[G3326|with]] [[G846|His]] [[G5207|Son,]] [[G2424|Jesus]] [[G5547|Christ.]] ^0103
 
-[[G3956|No one]] [[G3588|who]] [[G3306|remains]] [[G1722|in]] [[G846|Him]] [[G264|keeps on sinning.]] [[G3956|No one]] [[G3588|who]] [[G264|continues to sin]] [[G3708|has seen]] [[G846|Him]] ⟨or⟩ [[G3761|]] [[G1097|known]] [[G846|Him.]] ^0306
+[[G1473|We]] [[G1125|write]] [[G3778|these things]] [[G2443|so that]] [[G1473|our]] [[G5479|joy]] [[G1510|may be]] [[G4137|complete.]] ^0104
 
-[[G5040|Little children,]] ⟨let⟩ [[G3367|no one]] [[G4105|deceive]] [[G4771|you:]] [[G3588|The]] ⟨one who⟩ [[G4160|practices]] [[G1343|righteousness]] [[G1510|is]] [[G1342|righteous,]] [[G2531|just as]] ⟨Christ⟩ [[G1565|]] [[G1510|is]] [[G1342|righteous.]] ^0307
+[[G2532|And]] [[G3778|this]] [[G1510|is]] [[G3588|the]] [[G31|message]] [[G191|we have heard]] [[G575|from]] [[G846|Him]] [[G2532|and]] [[G312|announce]] [[G4771|to you:]] [[G2316|God]] [[G1510|is]] [[G5457|light,]] [[G2532|and]] [[G1722|in]] [[G846|Him]] [[G1510|there is]] [[G3756|no]] [[G4653|darkness]] ⟨at all⟩ [[G3762|.]] ^0105
 
-[[G3588|The]] ⟨one who⟩ [[G4160|practices]] [[G266|sin]] [[G1510|is]] [[G1537|of]] [[G3588|the]] [[G1228|devil,]] [[G3754|because]] [[G3588|the]] [[G1228|devil]] [[G264|has been sinning]] [[G575|from]] ⟨the⟩ [[G746|very start.]] [[G1519|This is why]] [[G3588|the]] [[G5207|Son]] [[G2316|of God]] [[G5319|was revealed,]] [[G2443|to]] [[G3089|destroy]] [[G3588|the]] [[G2041|works]] [[G3588|of the]] [[G1228|devil.]] ^0308
+[[G1437|If]] [[G2036|we say]] [[G2192|we have]] [[G2842|fellowship]] [[G3326|with]] [[G846|Him]] [[G2532|yet]] [[G4043|walk]] [[G1722|in]] [[G3588|the]] [[G4655|darkness,]] [[G5574|we lie]] [[G2532|and]] ⟨do⟩ [[G3756|not]] [[G4160|practice]] [[G3588|the]] [[G225|truth.]] ^0106
 
-[[G3956|Anyone]] [[G1080|born]] [[G1537|of]] [[G2316|God]] [[G4160|refuses to practice]] [[G266|sin,]] [[G3754|because]] ⟨God’s⟩ [[G846|]] [[G4690|seed]] [[G3306|abides]] [[G1722|in]] [[G846|him;]] [[G1410|he cannot]] [[G264|go on sinning,]] [[G3754|because]] [[G1080|he has been born]] [[G1537|of]] [[G2316|God.]] ^0309
+[[G1161|But]] [[G1437|if]] [[G4043|we walk]] [[G1722|in]] [[G3588|the]] [[G5457|light]] [[G5613|as]] [[G846|He]] [[G1510|is]] [[G1722|in]] [[G3588|the]] [[G5457|light,]] [[G2192|we have]] [[G2842|fellowship]] [[G3326|with]] [[G240|one another,]] [[G2532|and]] [[G3588|the]] [[G129|blood]] [[G2424|of Jesus]] [[G846|His]] [[G5207|Son]] [[G2511|cleanses]] [[G1473|us]] [[G575|from]] [[G3956|all]] [[G266|sin.]] ^0107
 
-[[G1722|By]] [[G3778|this]] [[G3588|the]] [[G5043|children]] [[G2316|of God]] [[G1510|are]] [[G5318|distinguished]] ⟨from⟩ [[G3588|the]] [[G5043|children]] [[G3588|of the]] [[G1228|devil:]] [[G3956|Anyone]] [[G3588|who]] [[G4160|does not practice]] [[G1343|righteousness]] [[G1510|is]] [[G3756|not]] [[G1537|of]] [[G2316|God,]] ⟨nor is⟩ [[G2532|]] [[G3588|anyone who]] [[G25|does not love]] [[G846|his]] [[G80|brother.]] ^0310
+[[G1437|If]] [[G2036|we say]] [[G2192|we have]] [[G3756|no]] [[G266|sin,]] [[G4105|we deceive]] [[G1438|ourselves,]] [[G2532|and]] [[G3588|the]] [[G225|truth]] [[G1510|is]] [[G3756|not]] [[G1722|in]] [[G1473|us.]] ^0108
 
-[[G3778|This]] [[G1510|is]] [[G3588|the]] [[G31|message]] [[G191|you have heard]] [[G575|from]] ⟨the⟩ [[G746|beginning:]] [[G25|We should love]] [[G240|one another.]] ^0311
+[[G1437|If]] [[G3670|we confess]] [[G1473|our]] [[G266|sins,]] [[G1510|He is]] [[G4103|faithful]] [[G2532|and]] [[G1342|just]] [[G2443|to]] [[G863|forgive]] [[G1473|us]] ⟨our⟩ [[G3588|]] [[G266|sins]] [[G2532|and]] [[G2511|to cleanse]] [[G1473|us]] [[G575|from]] [[G3956|all]] [[G93|unrighteousness.]] ^0109
 
-⟨Do⟩ [[G3756|not]] ⟨be⟩ [[G2531|like]] [[G2535|Cain,]] ⟨who⟩ [[G1510|belonged to]] [[G3588|the]] [[G4190|evil]] ⟨one⟩ [[G2532|and]] [[G4969|murdered]] [[G846|his]] [[G80|brother.]] [[G2532|And]] [[G5484|why]] [[G4969|did he slay]] [[G846|him?]] [[G3754|Because]] [[G846|his]] ⟨own⟩ [[G3588|]] [[G2041|deeds]] [[G1510|were]] [[G4190|evil,]] [[G1161|while]] [[G3588|those]] [[G3588|of]] [[G846|his]] [[G80|brother]] ⟨were⟩ [[G1342|righteous.]] ^0312
-
-⟨So⟩ [[G2532|]] ⟨do⟩ [[G3361|not]] [[G2296|be surprised,]] [[G80|brothers,]] [[G1487|if]] [[G3588|the]] [[G2889|world]] [[G3404|hates]] [[G4771|you.]] ^0313
-
-[[G1473|We]] [[G1492|know]] [[G3754|that]] [[G3327|we have passed]] [[G1537|from]] [[G2288|death]] [[G1519|to]] [[G2222|life,]] [[G3754|because]] [[G25|we love]] ⟨our⟩ [[G3588|]] [[G80|brothers.]] [[G3588|The]] ⟨one who⟩ [[G25|does not love]] [[G3306|remains]] [[G1722|in]] [[G2288|death.]] ^0314
-
-[[G3956|Everyone]] [[G3588|who]] [[G3404|hates]] [[G846|his]] [[G80|brother]] [[G1510|is]] [[G443|a murderer,]] [[G2532|and]] [[G1492|you know]] [[G3754|that]] [[G166|eternal]] [[G2222|life]] ⟨does⟩ [[G3756|not]] [[G3306|reside]] [[G1722|in]] [[G3956|a]] [[G443|murderer.]] ^0315
-
-[[G1722|By]] [[G3778|this]] [[G1097|we know]] [[G3588|what]] [[G26|love]] ⟨is⟩: ⟨Jesus⟩ [[G1565|]] [[G5087|laid down]] [[G846|His]] [[G5590|life]] [[G5228|for]] [[G1473|us,]] [[G2532|and]] [[G1473|we]] [[G3784|ought]] [[G5087|to lay down]] ⟨our⟩ [[G3588|]] [[G5590|lives]] [[G5228|for]] ⟨our⟩ [[G3588|]] [[G80|brothers.]] ^0316
-
-[[G302|If]] [[G3739|anyone]] [[G2192|with]] [[G2889|earthly]] [[G979|possessions]] [[G2334|sees]] [[G846|his]] [[G80|brother]] ⟨in⟩ [[G2192|]] [[G5532|need,]] ⟨but⟩ [[G2532|]] [[G2808|withholds]] [[G846|his]] [[G4698|compassion]] [[G575|from]] [[G846|him,]] [[G4459|how]] ⟨can⟩ [[G3588|the]] [[G26|love]] [[G2316|of God]] [[G3306|abide]] [[G1722|in]] [[G846|him?]] ^0317
-
-[[G5040|Little children,]] [[G25|let us love]] [[G3361|not]] [[G3056|in word]] ⟨and⟩ [[G3366|]] [[G1100|speech,]] [[G235|but]] [[G1722|in]] [[G2041|action]] [[G2532|and]] [[G225|truth.]] ^0318
-
-[[G2532|And]] [[G1722|by]] [[G3778|this]] [[G1097|we will know]] [[G3754|that]] [[G1510|we belong to]] [[G3588|the]] [[G225|truth,]] [[G2532|and]] [[G3982|will assure]] [[G1473|our]] [[G2588|hearts]] [[G1715|in His presence:]] ^0319
-
-[[G1437|If]] [[G1473|our]] [[G2588|hearts]] [[G2607|condemn]] ⟨us⟩, [[G2316|God]] [[G1510|is]] [[G3173|greater than]] [[G1473|our]] [[G2588|hearts,]] [[G2532|and]] [[G1097|He knows]] [[G3956|all things.]] ^0320
-
-[[G27|Beloved,]] [[G1437|if]] [[G1473|our]] [[G2588|hearts]] [[G2607|do not condemn]] ⟨us⟩, [[G2192|we have]] [[G3954|confidence]] [[G4314|before]] [[G2316|God,]] ^0321
-
-[[G2532|and]] [[G2983|we will receive]] [[G575|from]] [[G846|Him]] [[G3739|whatever]] [[G154|we ask,]] [[G3754|because]] [[G5083|we keep]] [[G846|His]] [[G1785|commandments]] [[G2532|and]] [[G4160|do]] [[G3588|what]] [[G701|is pleasing]] [[G1799|in His sight.]] ^0322
-
-[[G2532|And]] [[G3778|this]] [[G1510|is]] [[G846|His]] [[G1785|commandment:]] [[G2443|that]] [[G4100|we should believe]] [[G3588|in the]] [[G3686|name]] [[G846|of His]] [[G5207|Son,]] [[G2424|Jesus]] [[G5547|Christ,]] [[G2532|and]] [[G25|we should love]] [[G240|one another]] [[G2531|just as]] [[G1785|He commanded]] [[G1473|us.]] ^0323
-
-[[G3588|Whoever]] [[G5083|keeps]] [[G846|His]] [[G1785|commandments]] [[G3306|remains]] [[G1722|in]] ⟨God⟩ [[G846|,]] [[G2532|and]] ⟨God⟩ [[G846|]] [[G1722|in]] [[G846|him.]] [[G2532|And]] [[G1722|by]] [[G3778|this]] [[G1097|we know]] [[G3754|that]] [[G3306|He remains]] [[G1722|in]] [[G1473|us:]] [[G1537|by]] [[G3588|the]] [[G4151|Spirit]] [[G1325|He has given]] [[G1473|us.]] ^0324
+[[G1437|If]] [[G2036|we say]] [[G264|we have not sinned,]] [[G4160|we make Him out to be]] [[G5583|a liar,]] [[G2532|and]] [[G846|His]] [[G3056|word]] [[G1510|is]] [[G3756|not]] [[G1722|in]] [[G1473|us.]] ^0110
 
 [[G1473|My]] [[G5040|little children,]] [[G1125|I am writing]] [[G3778|these things]] [[G4771|to you]] [[G2443|so that]] [[G264|you will not sin.]] ⟨But⟩ [[G2532|]] [[G1437|if]] [[G5100|anyone]] [[G264|does sin,]] [[G2192|we have]] [[G3875|an advocate]] [[G4314|before]] [[G3588|the]] [[G3962|Father—]] [[G2424|Jesus]] [[G5547|Christ,]] ⟨the⟩ [[G1342|Righteous]] ⟨One⟩. ^0201
 
@@ -104,69 +78,53 @@
 
 [[G1437|If]] [[G1492|you know]] [[G3754|that]] [[G1510|He is]] [[G1342|righteous,]] [[G1097|you also know]] [[G3754|that]] [[G3956|everyone]] [[G3588|who]] [[G4160|practices]] [[G1343|righteousness]] [[G1080|is born]] [[G1537|of]] [[G846|Him.]] ^0229
 
+[[G3708|Behold]] [[G4217|what manner of]] [[G26|love]] [[G3588|the]] [[G3962|Father]] [[G1325|has given]] [[G1473|to us,]] [[G2443|that]] [[G2564|we should be called]] [[G5043|children]] [[G2316|of God.]] [[G2532|And]] ⟨that is what⟩ [[G1510|we are!]] [[G1223|The reason]] [[G3588|the]] [[G2889|world]] [[G1097|does not know]] [[G1473|us]] ⟨is⟩ [[G3754|that]] [[G1097|it did not know]] [[G846|Him.]] ^0301
 
+[[G27|Beloved,]] [[G1510|we are]] [[G3568|now]] [[G5043|children]] [[G2316|of God,]] [[G2532|and]] [[G5101|what]] [[G1510|we will be]] ⟨has⟩ [[G3768|not yet]] [[G5319|been revealed.]] [[G1492|We know]] [[G3754|that]] [[G1437|when]] ⟨Christ⟩ [[G5319|appears,]] [[G1510|we will be]] [[G3664|like]] [[G846|Him,]] [[G3754|for]] [[G3708|we will see]] [[G846|Him]] [[G2531|as]] [[G1510|He is.]] ^0302
 
-[[G3739|That which]] [[G1510|was]] [[G575|from]] ⟨the⟩ [[G746|beginning,]] [[G3739|which]] [[G191|we have heard,]] [[G3739|which]] [[G3708|we have seen]] [[G3588|with]] [[G1473|our own]] [[G3788|eyes,]] [[G3739|which]] [[G2300|we have gazed upon]] [[G2532|and]] [[G5584|touched]] ⟨with⟩ [[G1473|our]] ⟨own⟩ [[G3588|]] [[G5495|hands—]] ⟨this is⟩ [[G4012|]] [[G3588|the]] [[G3056|Word]] [[G2222|of life.]] ^0101
+[[G2532|And]] [[G3956|everyone]] [[G3588|who]] [[G2192|has]] [[G3778|this]] [[G1680|hope]] [[G1909|in]] [[G846|Him]] [[G48|purifies]] [[G1438|himself,]] [[G2531|just as]] [[G1565|He]] [[G1510|is]] [[G53|pure.]] ^0303
 
-[[G2532|And]] ⟨this is⟩ [[G3588|the]] [[G2222|life]] [[G5319|that was revealed;]] [[G3708|we have seen]] ⟨it⟩ [[G2532|and]] [[G3140|testified]] ⟨to it⟩, [[G2532|and]] [[G518|we proclaim]] [[G4771|to you]] [[G3588|the]] [[G166|eternal]] [[G2222|life]] [[G3748|that]] [[G1510|was]] [[G4314|with]] [[G3588|the]] [[G3962|Father]] [[G2532|and]] [[G5319|was revealed]] [[G1473|to us.]] ^0102
+[[G3956|Everyone]] [[G3588|who]] [[G4160|practices]] [[G266|sin]] [[G4160|practices]] [[G458|lawlessness]] [[G2532|as well.]] [[G2532|Indeed,]] [[G266|sin]] [[G1510|is]] [[G458|lawlessness.]] ^0304
 
-[[G518|We proclaim]] [[G4771|to you]] [[G3739|what]] [[G3708|we have seen]] [[G2532|and]] [[G191|heard,]] [[G2443|so that]] [[G4771|you]] [[G2532|also]] [[G2192|may have]] [[G2842|fellowship]] [[G3326|with]] [[G1473|us.]] [[G2532|And]] ⟨this⟩ [[G3588|]] [[G2842|fellowship]] [[G2251|of ours]] ⟨is⟩ [[G3326|with]] [[G3588|the]] [[G3962|Father]] [[G2532|and]] [[G3326|with]] [[G846|His]] [[G5207|Son,]] [[G2424|Jesus]] [[G5547|Christ.]] ^0103
+⟨But⟩ [[G2532|]] [[G1492|you know]] [[G3754|that]] ⟨Christ⟩ [[G1565|]] [[G5319|appeared]] [[G2443|to]] [[G142|take away]] [[G266|sins,]] [[G2532|and]] [[G1722|in]] [[G846|Him]] [[G1510|there is]] [[G3756|no]] [[G266|sin.]] ^0305
 
-[[G1473|We]] [[G1125|write]] [[G3778|these things]] [[G2443|so that]] [[G1473|our]] [[G5479|joy]] [[G1510|may be]] [[G4137|complete.]] ^0104
+[[G3956|No one]] [[G3588|who]] [[G3306|remains]] [[G1722|in]] [[G846|Him]] [[G264|keeps on sinning.]] [[G3956|No one]] [[G3588|who]] [[G264|continues to sin]] [[G3708|has seen]] [[G846|Him]] ⟨or⟩ [[G3761|]] [[G1097|known]] [[G846|Him.]] ^0306
 
-[[G2532|And]] [[G3778|this]] [[G1510|is]] [[G3588|the]] [[G31|message]] [[G191|we have heard]] [[G575|from]] [[G846|Him]] [[G2532|and]] [[G312|announce]] [[G4771|to you:]] [[G2316|God]] [[G1510|is]] [[G5457|light,]] [[G2532|and]] [[G1722|in]] [[G846|Him]] [[G1510|there is]] [[G3756|no]] [[G4653|darkness]] ⟨at all⟩ [[G3762|.]] ^0105
+[[G5040|Little children,]] ⟨let⟩ [[G3367|no one]] [[G4105|deceive]] [[G4771|you:]] [[G3588|The]] ⟨one who⟩ [[G4160|practices]] [[G1343|righteousness]] [[G1510|is]] [[G1342|righteous,]] [[G2531|just as]] ⟨Christ⟩ [[G1565|]] [[G1510|is]] [[G1342|righteous.]] ^0307
 
-[[G1437|If]] [[G2036|we say]] [[G2192|we have]] [[G2842|fellowship]] [[G3326|with]] [[G846|Him]] [[G2532|yet]] [[G4043|walk]] [[G1722|in]] [[G3588|the]] [[G4655|darkness,]] [[G5574|we lie]] [[G2532|and]] ⟨do⟩ [[G3756|not]] [[G4160|practice]] [[G3588|the]] [[G225|truth.]] ^0106
+[[G3588|The]] ⟨one who⟩ [[G4160|practices]] [[G266|sin]] [[G1510|is]] [[G1537|of]] [[G3588|the]] [[G1228|devil,]] [[G3754|because]] [[G3588|the]] [[G1228|devil]] [[G264|has been sinning]] [[G575|from]] ⟨the⟩ [[G746|very start.]] [[G1519|This is why]] [[G3588|the]] [[G5207|Son]] [[G2316|of God]] [[G5319|was revealed,]] [[G2443|to]] [[G3089|destroy]] [[G3588|the]] [[G2041|works]] [[G3588|of the]] [[G1228|devil.]] ^0308
 
-[[G1161|But]] [[G1437|if]] [[G4043|we walk]] [[G1722|in]] [[G3588|the]] [[G5457|light]] [[G5613|as]] [[G846|He]] [[G1510|is]] [[G1722|in]] [[G3588|the]] [[G5457|light,]] [[G2192|we have]] [[G2842|fellowship]] [[G3326|with]] [[G240|one another,]] [[G2532|and]] [[G3588|the]] [[G129|blood]] [[G2424|of Jesus]] [[G846|His]] [[G5207|Son]] [[G2511|cleanses]] [[G1473|us]] [[G575|from]] [[G3956|all]] [[G266|sin.]] ^0107
+[[G3956|Anyone]] [[G1080|born]] [[G1537|of]] [[G2316|God]] [[G4160|refuses to practice]] [[G266|sin,]] [[G3754|because]] ⟨God’s⟩ [[G846|]] [[G4690|seed]] [[G3306|abides]] [[G1722|in]] [[G846|him;]] [[G1410|he cannot]] [[G264|go on sinning,]] [[G3754|because]] [[G1080|he has been born]] [[G1537|of]] [[G2316|God.]] ^0309
 
-[[G1437|If]] [[G2036|we say]] [[G2192|we have]] [[G3756|no]] [[G266|sin,]] [[G4105|we deceive]] [[G1438|ourselves,]] [[G2532|and]] [[G3588|the]] [[G225|truth]] [[G1510|is]] [[G3756|not]] [[G1722|in]] [[G1473|us.]] ^0108
+[[G1722|By]] [[G3778|this]] [[G3588|the]] [[G5043|children]] [[G2316|of God]] [[G1510|are]] [[G5318|distinguished]] ⟨from⟩ [[G3588|the]] [[G5043|children]] [[G3588|of the]] [[G1228|devil:]] [[G3956|Anyone]] [[G3588|who]] [[G4160|does not practice]] [[G1343|righteousness]] [[G1510|is]] [[G3756|not]] [[G1537|of]] [[G2316|God,]] ⟨nor is⟩ [[G2532|]] [[G3588|anyone who]] [[G25|does not love]] [[G846|his]] [[G80|brother.]] ^0310
 
-[[G1437|If]] [[G3670|we confess]] [[G1473|our]] [[G266|sins,]] [[G1510|He is]] [[G4103|faithful]] [[G2532|and]] [[G1342|just]] [[G2443|to]] [[G863|forgive]] [[G1473|us]] ⟨our⟩ [[G3588|]] [[G266|sins]] [[G2532|and]] [[G2511|to cleanse]] [[G1473|us]] [[G575|from]] [[G3956|all]] [[G93|unrighteousness.]] ^0109
+[[G3778|This]] [[G1510|is]] [[G3588|the]] [[G31|message]] [[G191|you have heard]] [[G575|from]] ⟨the⟩ [[G746|beginning:]] [[G25|We should love]] [[G240|one another.]] ^0311
 
-[[G1437|If]] [[G2036|we say]] [[G264|we have not sinned,]] [[G4160|we make Him out to be]] [[G5583|a liar,]] [[G2532|and]] [[G846|His]] [[G3056|word]] [[G1510|is]] [[G3756|not]] [[G1722|in]] [[G1473|us.]] ^0110
+⟨Do⟩ [[G3756|not]] ⟨be⟩ [[G2531|like]] [[G2535|Cain,]] ⟨who⟩ [[G1510|belonged to]] [[G3588|the]] [[G4190|evil]] ⟨one⟩ [[G2532|and]] [[G4969|murdered]] [[G846|his]] [[G80|brother.]] [[G2532|And]] [[G5484|why]] [[G4969|did he slay]] [[G846|him?]] [[G3754|Because]] [[G846|his]] ⟨own⟩ [[G3588|]] [[G2041|deeds]] [[G1510|were]] [[G4190|evil,]] [[G1161|while]] [[G3588|those]] [[G3588|of]] [[G846|his]] [[G80|brother]] ⟨were⟩ [[G1342|righteous.]] ^0312
 
-[[G3956|Everyone]] [[G3588|who]] [[G4100|believes]] [[G3754|that]] [[G2424|Jesus]] [[G1510|is]] [[G3588|the]] [[G5547|Christ]] [[G1080|is born]] [[G1537|of]] [[G2316|God,]] [[G2532|and]] [[G3956|everyone]] [[G3588|who]] [[G25|loves]] [[G3588|the]] ⟨Father⟩ [[G1080|]] [[G2532|also]] [[G25|loves]] [[G3588|the]] ⟨one⟩ [[G1080|born]] [[G1537|of]] [[G846|Him.]] ^0501
+⟨So⟩ [[G2532|]] ⟨do⟩ [[G3361|not]] [[G2296|be surprised,]] [[G80|brothers,]] [[G1487|if]] [[G3588|the]] [[G2889|world]] [[G3404|hates]] [[G4771|you.]] ^0313
 
-[[G1722|By]] [[G3778|this]] [[G1097|we know]] [[G3754|that]] [[G25|we love]] [[G3588|the]] [[G5043|children]] [[G2316|of God:]] [[G3752|when]] [[G25|we love]] [[G2316|God]] [[G2532|and]] [[G4160|keep]] [[G846|His]] [[G1785|commandments.]] ^0502
+[[G1473|We]] [[G1492|know]] [[G3754|that]] [[G3327|we have passed]] [[G1537|from]] [[G2288|death]] [[G1519|to]] [[G2222|life,]] [[G3754|because]] [[G25|we love]] ⟨our⟩ [[G3588|]] [[G80|brothers.]] [[G3588|The]] ⟨one who⟩ [[G25|does not love]] [[G3306|remains]] [[G1722|in]] [[G2288|death.]] ^0314
 
-[[G1063|For]] [[G3778|this]] [[G1510|is]] [[G3588|the]] [[G26|love]] [[G2316|of God,]] [[G2443|that]] [[G5083|we keep]] [[G846|His]] [[G1785|commandments.]] [[G2532|And]] [[G846|His]] [[G1785|commandments]] [[G1510|are]] [[G3756|not]] [[G926|burdensome,]] ^0503
+[[G3956|Everyone]] [[G3588|who]] [[G3404|hates]] [[G846|his]] [[G80|brother]] [[G1510|is]] [[G443|a murderer,]] [[G2532|and]] [[G1492|you know]] [[G3754|that]] [[G166|eternal]] [[G2222|life]] ⟨does⟩ [[G3756|not]] [[G3306|reside]] [[G1722|in]] [[G3956|a]] [[G443|murderer.]] ^0315
 
-[[G3754|because]] [[G3956|everyone]] [[G1080|born]] [[G1537|of]] [[G2316|God]] [[G3528|overcomes]] [[G3588|the]] [[G2889|world.]] [[G2532|And]] [[G3778|this]] [[G1510|is]] [[G3588|the]] [[G3529|victory]] [[G3588|that]] [[G3528|has overcome]] [[G3588|the]] [[G2889|world:]] [[G1473|our]] [[G4102|faith.]] ^0504
+[[G1722|By]] [[G3778|this]] [[G1097|we know]] [[G3588|what]] [[G26|love]] ⟨is⟩: ⟨Jesus⟩ [[G1565|]] [[G5087|laid down]] [[G846|His]] [[G5590|life]] [[G5228|for]] [[G1473|us,]] [[G2532|and]] [[G1473|we]] [[G3784|ought]] [[G5087|to lay down]] ⟨our⟩ [[G3588|]] [[G5590|lives]] [[G5228|for]] ⟨our⟩ [[G3588|]] [[G80|brothers.]] ^0316
 
-[[G5101|Who]] [[G1161|then]] [[G3528|overcomes]] [[G3588|the]] [[G2889|world?]] [[G1487|Only]] [[G3588|he who]] [[G4100|believes]] [[G3754|that]] [[G2424|Jesus]] [[G1510|is]] [[G3588|the]] [[G5207|Son]] [[G2316|of God.]] ^0505
+[[G302|If]] [[G3739|anyone]] [[G2192|with]] [[G2889|earthly]] [[G979|possessions]] [[G2334|sees]] [[G846|his]] [[G80|brother]] ⟨in⟩ [[G2192|]] [[G5532|need,]] ⟨but⟩ [[G2532|]] [[G2808|withholds]] [[G846|his]] [[G4698|compassion]] [[G575|from]] [[G846|him,]] [[G4459|how]] ⟨can⟩ [[G3588|the]] [[G26|love]] [[G2316|of God]] [[G3306|abide]] [[G1722|in]] [[G846|him?]] ^0317
 
-[[G3778|This]] [[G1510|is]] [[G3588|the]] ⟨One who⟩ [[G2064|came]] [[G1223|by]] [[G5204|water]] [[G2532|and]] [[G129|blood,]] [[G2424|Jesus]] [[G5547|Christ—]] [[G3756|not]] [[G1722|by]] [[G5204|water]] [[G3440|alone,]] [[G235|but]] [[G1722|by]] [[G5204|water]] [[G2532|and]] [[G129|blood.]] [[G2532|And]] [[G1510|it is]] [[G3588|the]] [[G4151|Spirit]] [[G3588|who]] [[G3140|testifies]] ⟨to this⟩, [[G3754|because]] [[G3588|the]] [[G4151|Spirit]] [[G1510|is]] [[G3588|the]] [[G225|truth.]] ^0506
+[[G5040|Little children,]] [[G25|let us love]] [[G3361|not]] [[G3056|in word]] ⟨and⟩ [[G3366|]] [[G1100|speech,]] [[G235|but]] [[G1722|in]] [[G2041|action]] [[G2532|and]] [[G225|truth.]] ^0318
 
-[[G3754|For]] [[G1510|there are]] [[G5140|three]] [[G3140|that testify:]] ^0507
+[[G2532|And]] [[G1722|by]] [[G3778|this]] [[G1097|we will know]] [[G3754|that]] [[G1510|we belong to]] [[G3588|the]] [[G225|truth,]] [[G2532|and]] [[G3982|will assure]] [[G1473|our]] [[G2588|hearts]] [[G1715|in His presence:]] ^0319
 
-[[G3588|the]] [[G4151|Spirit,]] [[G3588|the]] [[G5204|water,]] [[G2532|and]] [[G3588|the]] [[G129|blood—]] [[G2532|and]] ⟨these⟩ [[G3588|]] [[G5140|three]] [[G1510|are]] [[G1519|in]] [[G1520|agreement.]] ^0508
+[[G1437|If]] [[G1473|our]] [[G2588|hearts]] [[G2607|condemn]] ⟨us⟩, [[G2316|God]] [[G1510|is]] [[G3173|greater than]] [[G1473|our]] [[G2588|hearts,]] [[G2532|and]] [[G1097|He knows]] [[G3956|all things.]] ^0320
 
-⟨Even⟩ [[G1487|if]] [[G2983|we accept]] [[G444|human]] [[G3141|testimony,]] [[G3588|the]] [[G3141|testimony]] [[G2316|of God]] [[G1510|is]] [[G3173|greater.]] [[G3754|For]] [[G3778|this]] [[G1510|is]] [[G3588|the]] [[G3141|testimony]] [[G3754|that]] [[G2316|God]] [[G3140|has]] ⟨given⟩ [[G4012|about]] [[G846|His]] [[G5207|Son.]] ^0509
+[[G27|Beloved,]] [[G1437|if]] [[G1473|our]] [[G2588|hearts]] [[G2607|do not condemn]] ⟨us⟩, [[G2192|we have]] [[G3954|confidence]] [[G4314|before]] [[G2316|God,]] ^0321
 
-[[G3588|Whoever]] [[G4100|believes]] [[G1519|in]] [[G3588|the]] [[G5207|Son]] [[G2316|of God]] [[G2192|has]] ⟨this⟩ [[G3588|]] [[G3141|testimony]] [[G1722|within]] [[G848|him;]] [[G3588|whoever]] [[G4100|does not believe]] [[G2316|God]] [[G4160|has made]] [[G846|Him]] ⟨out to be⟩ [[G5583|a liar,]] [[G3754|because]] [[G4100|he has not believed]] [[G1519|in]] [[G3588|the]] [[G3141|testimony]] [[G2316|God]] [[G3140|has]] ⟨given⟩ [[G4012|about]] [[G846|His]] [[G5207|Son.]] ^0510
+[[G2532|and]] [[G2983|we will receive]] [[G575|from]] [[G846|Him]] [[G3739|whatever]] [[G154|we ask,]] [[G3754|because]] [[G5083|we keep]] [[G846|His]] [[G1785|commandments]] [[G2532|and]] [[G4160|do]] [[G3588|what]] [[G701|is pleasing]] [[G1799|in His sight.]] ^0322
 
-[[G2532|And]] [[G3778|this]] [[G1510|is]] ⟨that⟩ [[G3588|]] [[G3141|testimony:]] [[G2316|God]] [[G1325|has given]] [[G1473|us]] [[G166|eternal]] [[G2222|life,]] [[G2532|and]] [[G3778|this]] [[G2222|life]] [[G1510|is]] [[G1722|in]] [[G846|His]] [[G5207|Son.]] ^0511
+[[G2532|And]] [[G3778|this]] [[G1510|is]] [[G846|His]] [[G1785|commandment:]] [[G2443|that]] [[G4100|we should believe]] [[G3588|in the]] [[G3686|name]] [[G846|of His]] [[G5207|Son,]] [[G2424|Jesus]] [[G5547|Christ,]] [[G2532|and]] [[G25|we should love]] [[G240|one another]] [[G2531|just as]] [[G1785|He commanded]] [[G1473|us.]] ^0323
 
-[[G3588|Whoever]] [[G2192|has]] [[G3588|the]] [[G5207|Son]] [[G2192|has]] [[G2222|life;]] [[G3588|whoever]] [[G2192|does not have]] [[G3588|the]] [[G5207|Son]] [[G2316|of God]] [[G2192|does not have]] [[G2222|life.]] ^0512
-
-[[G1125|I have written]] [[G3778|these things]] [[G4771|to you]] [[G3588|who]] [[G4100|believe]] [[G1519|in]] [[G3588|the]] [[G3686|name]] [[G3588|of the]] [[G5207|Son]] [[G2316|of God,]] [[G2443|so that]] [[G1492|you may know]] [[G3754|that]] [[G2192|you have]] [[G166|eternal]] [[G2222|life.]] ^0513
-
-[[G2532|And]] [[G3778|this]] [[G1510|is]] [[G3588|the]] [[G3954|confidence]] [[G3739|that]] [[G2192|we have]] [[G4314|before]] [[G846|Him:]] [[G1437|If]] [[G154|we ask]] [[G5100|anything]] [[G2596|according to]] [[G846|His]] [[G2307|will,]] [[G191|He hears]] [[G1473|us.]] ^0514
-
-[[G2532|And]] [[G1437|if]] [[G1492|we know]] [[G3754|that]] [[G191|He hears]] [[G1473|us]] [[G3739|in whatever]] [[G154|we ask,]] [[G1492|we know]] [[G3754|that]] [[G2192|we already possess]] [[G3588|what]] [[G154|we have asked]] [[G575|of]] [[G846|Him.]] ^0515
-
-[[G1437|If]] [[G5100|anyone]] [[G3708|sees]] [[G846|his]] [[G80|brother]] [[G264|committing]] [[G266|a sin]] [[G3361|not]] [[G4314|leading to]] [[G2288|death,]] [[G154|he should ask]] ⟨God⟩, [[G1325|who will give]] [[G2222|life]] [[G3588|to those who]] [[G264|commit sin.]] ⟨this kind of⟩ [[G1510|There is]] [[G266|a sin]] [[G4314|that leads to]] [[G2288|death;]] [[G3004|I am not saying]] [[G2065|he should ask]] [[G4012|regarding]] [[G1565|that]] ⟨sin⟩. ^0516
-
-[[G3956|All]] [[G93|unrighteousness]] [[G1510|is]] [[G266|sin,]] [[G2532|yet]] [[G1510|there is]] [[G266|sin]] [[G4314|that does not lead to]] [[G2288|death.]] ^0517
-
-[[G1492|We know]] [[G3754|that]] [[G3956|anyone]] [[G1080|born]] [[G1537|of]] [[G2316|God]] [[G264|does not keep on sinning;]] [[G3588|the]] ⟨One who⟩ [[G1080|was born]] [[G1537|of]] [[G2316|God]] [[G5083|protects]] [[G846|him,]] [[G2532|and]] [[G3588|the]] [[G4190|evil]] ⟨one⟩ [[G680|cannot touch]] [[G846|him.]] ^0518
-
-[[G1492|We know]] [[G3754|that]] [[G1510|we are]] [[G1537|of]] [[G2316|God,]] [[G2532|and]] ⟨that⟩ [[G3588|the]] [[G3650|whole]] [[G2889|world]] [[G2749|is under the power]] [[G1722|of]] [[G3588|the]] [[G4190|evil]] ⟨one⟩. ^0519
-
-[[G1161|And]] [[G1492|we know]] [[G3754|that]] [[G3588|the]] [[G5207|Son]] [[G2316|of God]] [[G2240|has come]] [[G2532|and]] [[G1325|has given]] [[G1473|us]] [[G1271|understanding,]] [[G2443|so that]] [[G1097|we may know]] [[G3588|Him who]] ⟨is⟩ [[G228|true;]] [[G2532|and]] [[G1510|we are]] [[G1722|in]] [[G3588|Him who]] ⟨is⟩ [[G228|true—]] [[G1722|in]] [[G846|His]] [[G5207|Son]] [[G2424|Jesus]] [[G5547|Christ.]] [[G3778|He]] [[G1510|is]] [[G3588|the]] [[G228|TRUE]] [[G2316|God]] [[G2532|and]] [[G166|eternal]] [[G2222|life.]] ^0520
-
-[[G5040|Little children,]] [[G5442|keep]] [[G1438|yourselves]] [[G575|from]] [[G1497|idols.]] ^0521
+[[G3588|Whoever]] [[G5083|keeps]] [[G846|His]] [[G1785|commandments]] [[G3306|remains]] [[G1722|in]] ⟨God⟩ [[G846|,]] [[G2532|and]] ⟨God⟩ [[G846|]] [[G1722|in]] [[G846|him.]] [[G2532|And]] [[G1722|by]] [[G3778|this]] [[G1097|we know]] [[G3754|that]] [[G3306|He remains]] [[G1722|in]] [[G1473|us:]] [[G1537|by]] [[G3588|the]] [[G4151|Spirit]] [[G1325|He has given]] [[G1473|us.]] ^0324
 
 [[G27|Beloved,]] [[G4100|do not believe]] [[G3956|every]] [[G4151|spirit,]] [[G235|but]] [[G1381|test]] [[G3588|the]] [[G4151|spirits]] ⟨to see⟩ [[G1487|whether]] [[G1510|they are]] [[G1537|from]] [[G2316|God.]] [[G3754|For]] [[G4183|many]] [[G5578|false prophets]] [[G1831|have gone out]] [[G1519|into]] [[G3588|the]] [[G2889|world.]] ^0401
 
@@ -209,3 +167,45 @@
 [[G1437|If]] [[G5100|anyone]] [[G2036|says,]] [[G25|“I love]] [[G2316|God,”]] ⟨but⟩ [[G2532|]] [[G3404|hates]] [[G846|his]] [[G80|brother,]] [[G1510|he is]] [[G5583|a liar.]] [[G1063|For]] [[G3588|anyone who]] [[G25|does not love]] [[G846|his]] [[G80|brother,]] [[G3739|whom]] [[G3708|he has seen,]] [[G1410|cannot]] [[G25|love]] [[G2316|God,]] [[G3739|whom]] [[G3708|he has not seen.]] ^0420
 
 [[G2532|And]] [[G2192|we have]] [[G3778|this]] [[G1785|commandment]] [[G575|from]] [[G846|Him:]] [[G3588|Whoever]] [[G25|loves]] [[G2316|God]] [[G25|must love]] [[G846|his]] [[G80|brother]] [[G2532|as well.]] ^0421
+
+[[G3956|Everyone]] [[G3588|who]] [[G4100|believes]] [[G3754|that]] [[G2424|Jesus]] [[G1510|is]] [[G3588|the]] [[G5547|Christ]] [[G1080|is born]] [[G1537|of]] [[G2316|God,]] [[G2532|and]] [[G3956|everyone]] [[G3588|who]] [[G25|loves]] [[G3588|the]] ⟨Father⟩ [[G1080|]] [[G2532|also]] [[G25|loves]] [[G3588|the]] ⟨one⟩ [[G1080|born]] [[G1537|of]] [[G846|Him.]] ^0501
+
+[[G1722|By]] [[G3778|this]] [[G1097|we know]] [[G3754|that]] [[G25|we love]] [[G3588|the]] [[G5043|children]] [[G2316|of God:]] [[G3752|when]] [[G25|we love]] [[G2316|God]] [[G2532|and]] [[G4160|keep]] [[G846|His]] [[G1785|commandments.]] ^0502
+
+[[G1063|For]] [[G3778|this]] [[G1510|is]] [[G3588|the]] [[G26|love]] [[G2316|of God,]] [[G2443|that]] [[G5083|we keep]] [[G846|His]] [[G1785|commandments.]] [[G2532|And]] [[G846|His]] [[G1785|commandments]] [[G1510|are]] [[G3756|not]] [[G926|burdensome,]] ^0503
+
+[[G3754|because]] [[G3956|everyone]] [[G1080|born]] [[G1537|of]] [[G2316|God]] [[G3528|overcomes]] [[G3588|the]] [[G2889|world.]] [[G2532|And]] [[G3778|this]] [[G1510|is]] [[G3588|the]] [[G3529|victory]] [[G3588|that]] [[G3528|has overcome]] [[G3588|the]] [[G2889|world:]] [[G1473|our]] [[G4102|faith.]] ^0504
+
+[[G5101|Who]] [[G1161|then]] [[G3528|overcomes]] [[G3588|the]] [[G2889|world?]] [[G1487|Only]] [[G3588|he who]] [[G4100|believes]] [[G3754|that]] [[G2424|Jesus]] [[G1510|is]] [[G3588|the]] [[G5207|Son]] [[G2316|of God.]] ^0505
+
+[[G3778|This]] [[G1510|is]] [[G3588|the]] ⟨One who⟩ [[G2064|came]] [[G1223|by]] [[G5204|water]] [[G2532|and]] [[G129|blood,]] [[G2424|Jesus]] [[G5547|Christ—]] [[G3756|not]] [[G1722|by]] [[G5204|water]] [[G3440|alone,]] [[G235|but]] [[G1722|by]] [[G5204|water]] [[G2532|and]] [[G129|blood.]] [[G2532|And]] [[G1510|it is]] [[G3588|the]] [[G4151|Spirit]] [[G3588|who]] [[G3140|testifies]] ⟨to this⟩, [[G3754|because]] [[G3588|the]] [[G4151|Spirit]] [[G1510|is]] [[G3588|the]] [[G225|truth.]] ^0506
+
+[[G3754|For]] [[G1510|there are]] [[G5140|three]] [[G3140|that testify:]] ^0507
+
+[[G3588|the]] [[G4151|Spirit,]] [[G3588|the]] [[G5204|water,]] [[G2532|and]] [[G3588|the]] [[G129|blood—]] [[G2532|and]] ⟨these⟩ [[G3588|]] [[G5140|three]] [[G1510|are]] [[G1519|in]] [[G1520|agreement.]] ^0508
+
+⟨Even⟩ [[G1487|if]] [[G2983|we accept]] [[G444|human]] [[G3141|testimony,]] [[G3588|the]] [[G3141|testimony]] [[G2316|of God]] [[G1510|is]] [[G3173|greater.]] [[G3754|For]] [[G3778|this]] [[G1510|is]] [[G3588|the]] [[G3141|testimony]] [[G3754|that]] [[G2316|God]] [[G3140|has]] ⟨given⟩ [[G4012|about]] [[G846|His]] [[G5207|Son.]] ^0509
+
+[[G3588|Whoever]] [[G4100|believes]] [[G1519|in]] [[G3588|the]] [[G5207|Son]] [[G2316|of God]] [[G2192|has]] ⟨this⟩ [[G3588|]] [[G3141|testimony]] [[G1722|within]] [[G848|him;]] [[G3588|whoever]] [[G4100|does not believe]] [[G2316|God]] [[G4160|has made]] [[G846|Him]] ⟨out to be⟩ [[G5583|a liar,]] [[G3754|because]] [[G4100|he has not believed]] [[G1519|in]] [[G3588|the]] [[G3141|testimony]] [[G2316|God]] [[G3140|has]] ⟨given⟩ [[G4012|about]] [[G846|His]] [[G5207|Son.]] ^0510
+
+[[G2532|And]] [[G3778|this]] [[G1510|is]] ⟨that⟩ [[G3588|]] [[G3141|testimony:]] [[G2316|God]] [[G1325|has given]] [[G1473|us]] [[G166|eternal]] [[G2222|life,]] [[G2532|and]] [[G3778|this]] [[G2222|life]] [[G1510|is]] [[G1722|in]] [[G846|His]] [[G5207|Son.]] ^0511
+
+[[G3588|Whoever]] [[G2192|has]] [[G3588|the]] [[G5207|Son]] [[G2192|has]] [[G2222|life;]] [[G3588|whoever]] [[G2192|does not have]] [[G3588|the]] [[G5207|Son]] [[G2316|of God]] [[G2192|does not have]] [[G2222|life.]] ^0512
+
+[[G1125|I have written]] [[G3778|these things]] [[G4771|to you]] [[G3588|who]] [[G4100|believe]] [[G1519|in]] [[G3588|the]] [[G3686|name]] [[G3588|of the]] [[G5207|Son]] [[G2316|of God,]] [[G2443|so that]] [[G1492|you may know]] [[G3754|that]] [[G2192|you have]] [[G166|eternal]] [[G2222|life.]] ^0513
+
+[[G2532|And]] [[G3778|this]] [[G1510|is]] [[G3588|the]] [[G3954|confidence]] [[G3739|that]] [[G2192|we have]] [[G4314|before]] [[G846|Him:]] [[G1437|If]] [[G154|we ask]] [[G5100|anything]] [[G2596|according to]] [[G846|His]] [[G2307|will,]] [[G191|He hears]] [[G1473|us.]] ^0514
+
+[[G2532|And]] [[G1437|if]] [[G1492|we know]] [[G3754|that]] [[G191|He hears]] [[G1473|us]] [[G3739|in whatever]] [[G154|we ask,]] [[G1492|we know]] [[G3754|that]] [[G2192|we already possess]] [[G3588|what]] [[G154|we have asked]] [[G575|of]] [[G846|Him.]] ^0515
+
+[[G1437|If]] [[G5100|anyone]] [[G3708|sees]] [[G846|his]] [[G80|brother]] [[G264|committing]] [[G266|a sin]] [[G3361|not]] [[G4314|leading to]] [[G2288|death,]] [[G154|he should ask]] ⟨God⟩, [[G1325|who will give]] [[G2222|life]] [[G3588|to those who]] [[G264|commit sin.]] ⟨this kind of⟩ [[G1510|There is]] [[G266|a sin]] [[G4314|that leads to]] [[G2288|death;]] [[G3004|I am not saying]] [[G2065|he should ask]] [[G4012|regarding]] [[G1565|that]] ⟨sin⟩. ^0516
+
+[[G3956|All]] [[G93|unrighteousness]] [[G1510|is]] [[G266|sin,]] [[G2532|yet]] [[G1510|there is]] [[G266|sin]] [[G4314|that does not lead to]] [[G2288|death.]] ^0517
+
+[[G1492|We know]] [[G3754|that]] [[G3956|anyone]] [[G1080|born]] [[G1537|of]] [[G2316|God]] [[G264|does not keep on sinning;]] [[G3588|the]] ⟨One who⟩ [[G1080|was born]] [[G1537|of]] [[G2316|God]] [[G5083|protects]] [[G846|him,]] [[G2532|and]] [[G3588|the]] [[G4190|evil]] ⟨one⟩ [[G680|cannot touch]] [[G846|him.]] ^0518
+
+[[G1492|We know]] [[G3754|that]] [[G1510|we are]] [[G1537|of]] [[G2316|God,]] [[G2532|and]] ⟨that⟩ [[G3588|the]] [[G3650|whole]] [[G2889|world]] [[G2749|is under the power]] [[G1722|of]] [[G3588|the]] [[G4190|evil]] ⟨one⟩. ^0519
+
+[[G1161|And]] [[G1492|we know]] [[G3754|that]] [[G3588|the]] [[G5207|Son]] [[G2316|of God]] [[G2240|has come]] [[G2532|and]] [[G1325|has given]] [[G1473|us]] [[G1271|understanding,]] [[G2443|so that]] [[G1097|we may know]] [[G3588|Him who]] ⟨is⟩ [[G228|true;]] [[G2532|and]] [[G1510|we are]] [[G1722|in]] [[G3588|Him who]] ⟨is⟩ [[G228|true—]] [[G1722|in]] [[G846|His]] [[G5207|Son]] [[G2424|Jesus]] [[G5547|Christ.]] [[G3778|He]] [[G1510|is]] [[G3588|the]] [[G228|TRUE]] [[G2316|God]] [[G2532|and]] [[G166|eternal]] [[G2222|life.]] ^0520
+
+[[G5040|Little children,]] [[G5442|keep]] [[G1438|yourselves]] [[G575|from]] [[G1497|idols.]] ^0521

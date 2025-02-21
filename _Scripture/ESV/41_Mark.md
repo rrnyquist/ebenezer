@@ -1,16 +1,14 @@
-
-
 The beginning of the gospel of Jesus Christ, the Son of God. ^0101
 
 As it is written in Isaiah the prophet, Behold, I send my messenger before your face, who will prepare your way, ^0102
 
-the voice of one crying in the wilderness : Prepare the way of the Lord, make his paths straight, ^0103
+the voice of one crying in the wilderness: 'Prepare the way of the Lord, make his paths straight,' ^0103
 
 John appeared, baptizing in the wilderness and proclaiming a baptism of repentance for the forgiveness of sins. ^0104
 
 And all the country of Judea and all Jerusalem were going out to him and were being baptized by him in the river Jordan, confessing their sins. ^0105
 
-Now John was clothed with camel’s hair and wore a leather belt around his waist and ate locusts and wild honey. ^0106
+Now John was clothed with camel's hair and wore a leather belt around his waist and ate locusts and wild honey. ^0106
 
 And he preached, saying, After me comes he who is mightier than I, the strap of whose sandals I am not worthy to stoop down and untie. ^0107
 
@@ -18,7 +16,7 @@ I have baptized you with water, but he will baptize you with the Holy Spirit. ^0
 
 In those days Jesus came from Nazareth of Galilee and was baptized by John in the Jordan. ^0109
 
-And when he came up out of the water, immediately he saw the heavens being torn open and the Spirit descending on him like a dove. ^0110
+And when he came up out of the water, immediately he saw the heavens opening and the Spirit descending on him like a dove. ^0110
 
 And a voice came from heaven, You are my beloved Son; with you I am well pleased. ^0111
 
@@ -46,7 +44,7 @@ And they were astonished at his teaching, for he taught them as one who had auth
 
 And immediately there was in their synagogue a man with an unclean spirit. And he cried out, ^0123
 
-What have you to do with us, Jesus of Nazareth? Have you come to destroy us? I know who you are — the Holy One of God. ^0124
+What have you to do with us, Jesus of Nazareth? Have you come to destroy us? I know who you are--the Holy One of God. ^0124
 
 But Jesus rebuked him, saying, Be silent, and come out of him! ^0125
 
@@ -58,7 +56,7 @@ And at once his fame spread everywhere throughout all the surrounding region of 
 
 And immediately he left the synagogue and entered the house of Simon and Andrew, with James and John. ^0129
 
-Now Simon’s mother -in-law lay ill with a fever, and immediately they told him about her. ^0130
+Now Simon's mother-in-law lay ill with a fever, and immediately they told him about her. ^0130
 
 And he came and took her by the hand and lifted her up, and the fever left her, and she began to serve them. ^0131
 
@@ -91,7 +89,6 @@ and said to him, See that you say nothing to anyone, but go, show yourself to th
 But he went out and began to talk freely about it, and to spread the news, so that Jesus could no longer openly enter a town, but was out in desolate places, and people were coming to him from every quarter. ^0145
 
 
-
 And when he returned to Capernaum after some days, it was reported that he was at home. ^0201
 
 And many were gathered together, so that there was no more room, not even at the door. And he was preaching the word to them. ^0202
@@ -100,7 +97,7 @@ And they came, bringing to him a paralytic carried by four men. ^0203
 
 And when they could not get near him because of the crowd, they removed the roof above him, and when they had made an opening, they let down the bed on which the paralytic lay. ^0204
 
-And when Jesus saw their faith, he said to the paralytic, Son, your sins are forgiven. ^0205
+And when Jesus saw their faith, he said to the paralytic, My son, your sins are forgiven. ^0205
 
 Now some of the scribes were sitting there, questioning in their hearts, ^0206
 
@@ -108,9 +105,9 @@ Why does this man speak like that? He is blaspheming! Who can forgive sins but G
 
 And immediately Jesus, perceiving in his spirit that they thus questioned within themselves, said to them, Why do you question these things in your hearts? ^0208
 
-Which is easier, to say to the paralytic, Your sins are forgiven, or to say, Rise, take up your bed and walk? ^0209
+Which is easier, to say to the paralytic, 'Your sins are forgiven,' or to say, 'Rise, take up your bed and walk'? ^0209
 
-But that you may know that the Son of Man has authority on earth to forgive sins —he said to the paralytic — ^0210
+But that you may know that the Son of Man has authority on earth to forgive sins--he said to the paralytic-- ^0210
 
 I say to you, rise, pick up your bed, and go home. ^0211
 
@@ -126,7 +123,7 @@ And the scribes of the Pharisees, when they saw that he was eating with sinners 
 
 And when Jesus heard it, he said to them, Those who are well have no need of a physician, but those who are sick. I came not to call the righteous, but sinners. ^0217
 
-Now John’s disciples and the Pharisees were fasting. And people came and said to him, Why do John’s disciples and the disciples of the Pharisees fast, but your disciples do not fast? ^0218
+Now John's disciples and the Pharisees were fasting. And people came and said to him, Why do John's disciples and the disciples of the Pharisees fast, but your disciples do not fast? ^0218
 
 And Jesus said to them, Can the wedding guests fast while the bridegroom is with them? As long as they have the bridegroom with them, they cannot fast. ^0219
 
@@ -134,20 +131,19 @@ The days will come when the bridegroom is taken away from them, and then they wi
 
 No one sews a piece of unshrunk cloth on an old garment. If he does, the patch tears away from it, the new from the old, and a worse tear is made. ^0221
 
-And no one puts new wine into old wineskins. If he does, the wine will burst the skins — and the wine is destroyed, and so are the skins. But new wine is for fresh wineskins. ^0222
+And no one puts new wine into old wineskins. If he does, the wine will burst the skins--and the wine is destroyed, and so are the skins. But new wine is for fresh wineskins. ^0222
 
 One Sabbath he was going through the grainfields, and as they made their way, his disciples began to pluck heads of grain. ^0223
 
 And the Pharisees were saying to him, Look, why are they doing what is not lawful on the Sabbath? ^0224
 
-And he said to them, Have you never read what David did, when he was in need and was hungry, he and those who were with him : ^0225
+And he said to them, Have you never read what David did, when he was in need and was hungry, he and those who were with him: ^0225
 
 how he entered the house of God, in the time of Abiathar the high priest, and ate the bread of the Presence, which it is not lawful for any but the priests to eat, and also gave it to those who were with him? ^0226
 
 And he said to them, The Sabbath was made for man, not man for the Sabbath. ^0227
 
 So the Son of Man is lord even of the Sabbath. ^0228
-
 
 
 Again he entered the synagogue, and a man was there with a withered hand. ^0301
@@ -176,15 +172,15 @@ And he strictly ordered them not to make him known. ^0312
 
 And he went up on the mountain and called to him those whom he desired, and they came to him. ^0313
 
-And he appointed twelve ( whom he also named apostles ) so that they might be with him and he might send them out to preach ^0314
+And he appointed twelve (whom he also named apostles) so that they might be with him and he might send them out to preach ^0314
 
 and have authority to cast out demons. ^0315
 
-He appointed the twelve : Simon (to whom he gave the name Peter ); ^0316
+He appointed the twelve: Simon (to whom he gave the name Peter); ^0316
 
-James the son of Zebedee and John the brother of James (to whom he gave the name Boanerges, that is, Sons of Thunder ); ^0317
+James the son of Zebedee and John the brother of James (to whom he gave the name Boanerges, that is, Sons of Thunder); ^0317
 
-Andrew, and Philip, and Bartholomew, and Matthew, and Thomas, and James the son of Alphaeus, and Thaddaeus, and Simon the Zealot, ^0318
+Andrew, and Philip, and Bartholomew, and Matthew, and Thomas, and James the son of Alphaeus, and Thaddaeus, and Simon the Cananaean, ^0318
 
 and Judas Iscariot, who betrayed him. ^0319
 
@@ -202,13 +198,13 @@ And if a house is divided against itself, that house will not be able to stand. 
 
 And if Satan has risen up against himself and is divided, he cannot stand, but is coming to an end. ^0326
 
-But no one can enter a strong man’s house and plunder his goods, unless he first binds the strong man. Then indeed he may plunder his house. ^0327
+But no one can enter a strong man's house and plunder his goods, unless he first binds the strong man. Then indeed he may plunder his house. ^0327
 
 Truly, I say to you, all sins will be forgiven the children of man, and whatever blasphemies they utter, ^0328
 
-but whoever blasphemes against the Holy Spirit never has forgiveness, but is guilty of an eternal sin — ^0329
+but whoever blasphemes against the Holy Spirit never has forgiveness, but is guilty of an eternal sin-- ^0329
 
-for they were saying, He has an unclean spirit. ^0330
+for they had said, He has an unclean spirit. ^0330
 
 And his mother and his brothers came, and standing outside they sent to him and called him. ^0331
 
@@ -218,21 +214,20 @@ And he answered them, Who are my mother and my brothers? ^0333
 
 And looking about at those who sat around him, he said, Here are my mother and my brothers! ^0334
 
-For whoever does the will of God, he is my brother and sister and mother. ^0335
-
+Whoever does the will of God, he is my brother and sister and mother. ^0335
 
 
 Again he began to teach beside the sea. And a very large crowd gathered about him, so that he got into a boat and sat in it on the sea, and the whole crowd was beside the sea on the land. ^0401
 
-And he was teaching them many things in parables, and in his teaching he said to them : ^0402
+And he was teaching them many things in parables, and in his teaching he said to them: ^0402
 
-Listen! Behold, a sower went out to sow. ^0403
+Listen! A sower went out to sow. ^0403
 
 And as he sowed, some seed fell along the path, and the birds came and devoured it. ^0404
 
 Other seed fell on rocky ground, where it did not have much soil, and immediately it sprang up, since it had no depth of soil. ^0405
 
-And when the sun rose, it was scorched, and since it had no root, it withered away. ^0406
+And when the sun rose it was scorched, and since it had no root, it withered away. ^0406
 
 Other seed fell among thorns, and the thorns grew up and choked it, and it yielded no grain. ^0407
 
@@ -250,9 +245,9 @@ And he said to them, Do you not understand this parable? How then will you under
 
 The sower sows the word. ^0414
 
-And these are the ones along the path, where the word is sown : when they hear, Satan immediately comes and takes away the word that is sown in them. ^0415
+And these are the ones along the path, where the word is sown: when they hear, Satan immediately comes and takes away the word that is sown in them. ^0415
 
-And these are the ones sown on rocky ground : the ones who, when they hear the word, immediately receive it with joy. ^0416
+And these are the ones sown on rocky ground: the ones who, when they hear the word, immediately receive it with joy. ^0416
 
 And they have no root in themselves, but endure for a while; then, when tribulation or persecution arises on account of the word, immediately they fall away. ^0417
 
@@ -268,7 +263,7 @@ For nothing is hidden except to be made manifest; nor is anything secret except 
 
 If anyone has ears to hear, let him hear. ^0423
 
-And he said to them, Pay attention to what you hear : with the measure you use, it will be measured to you, and still more will be added to you. ^0424
+And he said to them, Pay attention to what you hear: with the measure you use, it will be measured to you, and still more will be added to you. ^0424
 
 For to the one who has, more will be given, and from the one who has not, even what he has will be taken away. ^0425
 
@@ -302,8 +297,7 @@ And he awoke and rebuked the wind and said to the sea, Peace! Be still! And the 
 
 He said to them, Why are you so afraid? Have you still no faith? ^0440
 
-And they were filled with great fear and said to one another, Who then is this, that even the wind and the sea obey him? ^0441
-
+And they were filled with great fear and said to one another, Who then is this, that even wind and sea obey him? ^0441
 
 
 They came to the other side of the sea, to the country of the Gerasenes. ^0501
@@ -314,7 +308,7 @@ He lived among the tombs. And no one could bind him anymore, not even with a cha
 
 for he had often been bound with shackles and chains, but he wrenched the chains apart, and he broke the shackles in pieces. No one had the strength to subdue him. ^0504
 
-Night and day among the tombs and on the mountains he was always crying out and cutting himself with stones. ^0505
+Night and day among the tombs and on the mountains he was always crying out and bruising himself with stones. ^0505
 
 And when he saw Jesus from afar, he ran and fell down before him. ^0506
 
@@ -330,7 +324,7 @@ Now a great herd of pigs was feeding there on the hillside, ^0511
 
 and they begged him, saying, Send us to the pigs; let us enter them. ^0512
 
-So he gave them permission. And the unclean spirits came out and entered the pigs; and the herd, numbering about two thousand, rushed down the steep bank into the sea and drowned in the sea. ^0513
+So he gave them permission. And the unclean spirits came out, and entered the pigs, and the herd, numbering about two thousand, rushed down the steep bank into the sea and were drowned in the sea. ^0513
 
 The herdsmen fled and told it in the city and in the country. And people came to see what it was that had happened. ^0514
 
@@ -352,7 +346,7 @@ Then came one of the rulers of the synagogue, Jairus by name, and seeing him, he
 
 and implored him earnestly, saying, My little daughter is at the point of death. Come and lay your hands on her, so that she may be made well and live. ^0523
 
-And he went with him. And a great crowd followed him and thronged about him. ^0524
+And he went with him.And a great crowd followed him and thronged about him. ^0524
 
 And there was a woman who had had a discharge of blood for twelve years, ^0525
 
@@ -366,7 +360,7 @@ And immediately the flow of blood dried up, and she felt in her body that she wa
 
 And Jesus, perceiving in himself that power had gone out from him, immediately turned about in the crowd and said, Who touched my garments? ^0530
 
-And his disciples said to him, You see the crowd pressing around you, and yet you say, Who touched me? ^0531
+And his disciples said to him, You see the crowd pressing around you, and yet you say, 'Who touched me?' ^0531
 
 And he looked around to see who had done it. ^0532
 
@@ -374,7 +368,7 @@ But the woman, knowing what had happened to her, came in fear and trembling and 
 
 And he said to her, Daughter, your faith has made you well; go in peace, and be healed of your disease. ^0534
 
-While he was still speaking, there came from the ruler’s house some who said, Your daughter is dead. Why trouble the Teacher any further? ^0535
+While he was still speaking, there came from the ruler's house some who said, Your daughter is dead. Why trouble the Teacher any further? ^0535
 
 But overhearing what they said, Jesus said to the ruler of the synagogue, Do not fear, only believe. ^0536
 
@@ -384,14 +378,13 @@ They came to the house of the ruler of the synagogue, and Jesus saw a commotion,
 
 And when he had entered, he said to them, Why are you making a commotion and weeping? The child is not dead but sleeping. ^0539
 
-And they laughed at him. But he put them all outside and took the child’s father and mother and those who were with him and went in where the child was. ^0540
+And they laughed at him. But he put them all outside and took the child's father and mother and those who were with him and went in where the child was. ^0540
 
 Taking her by the hand he said to her, Talitha cumi, which means, Little girl, I say to you, arise. ^0541
 
-And immediately the girl got up and began walking ( for she was twelve years of age), and they were immediately overcome with amazement. ^0542
+And immediately the girl got up and began walking (for she was twelve years of age), and they were immediately overcome with amazement. ^0542
 
 And he strictly charged them that no one should know this, and told them to give her something to eat. ^0543
-
 
 
 He went away from there and came to his hometown, and his disciples followed him. ^0601
@@ -404,11 +397,11 @@ And Jesus said to them, A prophet is not without honor, except in his hometown a
 
 And he could do no mighty work there, except that he laid his hands on a few sick people and healed them. ^0605
 
-And he marveled because of their unbelief. And he went about among the villages teaching. ^0606
+And he marveled because of their unbelief.And he went about among the villages teaching. ^0606
 
 And he called the twelve and began to send them out two by two, and gave them authority over the unclean spirits. ^0607
 
-He charged them to take nothing for their journey except a staff — no bread, no bag, no money in their belts — ^0608
+He charged them to take nothing for their journey except a staff--no bread, no bag, no money in their belts-- ^0608
 
 but to wear sandals and not put on two tunics. ^0609
 
@@ -420,15 +413,15 @@ So they went out and proclaimed that people should repent. ^0612
 
 And they cast out many demons and anointed with oil many who were sick and healed them. ^0613
 
-King Herod heard of it, for Jesus ’ name had become known. Some said, John the Baptist has been raised from the dead. That is why these miraculous powers are at work in him. ^0614
+King Herod heard of it, for Jesus' name had become known. Some said, John the Baptist has been raised from the dead. That is why these miraculous powers are at work in him. ^0614
 
 But others said, He is Elijah. And others said, He is a prophet, like one of the prophets of old. ^0615
 
 But when Herod heard of it, he said, John, whom I beheaded, has been raised. ^0616
 
-For it was Herod who had sent and seized John and bound him in prison for the sake of Herodias, his brother Philip’s wife, because he had married her. ^0617
+For it was Herod who had sent and seized John and bound him in prison for the sake of Herodias, his brother Philip's wife, because he had married her. ^0617
 
-For John had been saying to Herod, It is not lawful for you to have your brother’s wife. ^0618
+For John had been saying to Herod, It is not lawful for you to have your brother's wife. ^0618
 
 And Herodias had a grudge against him and wanted to put him to death. But she could not, ^0619
 
@@ -436,7 +429,7 @@ for Herod feared John, knowing that he was a righteous and holy man, and he kept
 
 But an opportunity came when Herod on his birthday gave a banquet for his nobles and military commanders and the leading men of Galilee. ^0621
 
-For when Herodias’s daughter came in and danced, she pleased Herod and his guests. And the king said to the girl, Ask me for whatever you wish, and I will give it to you. ^0622
+For when Herodias's daughter came in and danced, she pleased Herod and his guests. And the king said to the girl, Ask me for whatever you wish, and I will give it to you. ^0622
 
 And he vowed to her, Whatever you ask me, I will give you, up to half of my kingdom. ^0623
 
@@ -446,13 +439,13 @@ And she came in immediately with haste to the king and asked, saying, I want you
 
 And the king was exceedingly sorry, but because of his oaths and his guests he did not want to break his word to her. ^0626
 
-And immediately the king sent an executioner with orders to bring John’s head. He went and beheaded him in the prison ^0627
+And immediately the king sent an executioner with orders to bring John's head. He went and beheaded him in the prison ^0627
 
 and brought his head on a platter and gave it to the girl, and the girl gave it to her mother. ^0628
 
 When his disciples heard of it, they came and took his body and laid it in a tomb. ^0629
 
-, The apostles returned to Jesus and told him all that they had done and taught. ^0630
+The apostles returned to Jesus and told him all that they had done and taught. ^0630
 
 And he said to them, Come away by yourselves to a desolate place and rest a while. For many were coming and going, and they had no leisure even to eat. ^0631
 
@@ -507,44 +500,43 @@ and ran about the whole region and began to bring the sick people on their beds 
 And wherever he came, in villages, cities, or countryside, they laid the sick in the marketplaces and implored him that they might touch even the fringe of his garment. And as many as touched it were made well. ^0656
 
 
-
 Now when the Pharisees gathered to him, with some of the scribes who had come from Jerusalem, ^0701
 
 they saw that some of his disciples ate with hands that were defiled, that is, unwashed. ^0702
 
-( For the Pharisees and all the Jews do not eat unless they wash their hands properly, holding to the tradition of the elders, ^0703
+(For the Pharisees and all the Jews do not eat unless they wash their hands, holding to the tradition of the elders, ^0703
 
 and when they come from the marketplace, they do not eat unless they wash. And there are many other traditions that they observe, such as the washing of cups and pots and copper vessels and dining couches. ) ^0704
 
 And the Pharisees and the scribes asked him, Why do your disciples not walk according to the tradition of the elders, but eat with defiled hands? ^0705
 
-And he said to them, Well did Isaiah prophesy of you hypocrites, as it is written, This people honors me with their lips, but their heart is far from me; ^0706
+And he said to them, Well did Isaiah prophesy of you hypocrites, as it is written, 'This people honors me with their lips, but their heart is far from me; ^0706
 
-in vain do they worship me, teaching as doctrines the commandments of men. ^0707
+in vain do they worship me, teaching as doctrines the commandments of men.' ^0707
 
 You leave the commandment of God and hold to the tradition of men. ^0708
 
 And he said to them, You have a fine way of rejecting the commandment of God in order to establish your tradition! ^0709
 
-For Moses said, Honor your father and your mother; and, Whoever reviles father or mother must surely die. ^0710
+For Moses said, 'Honor your father and your mother'; and, 'Whoever reviles father or mother must surely die.' ^0710
 
-But you say, If a man tells his father or his mother, Whatever you would have gained from me is Corban (that is, given to God) — ^0711
+But you say, 'If a man tells his father or his mother, Whatever you would have gained from me is Corban' (that is, given to God)-- ^0711
 
 then you no longer permit him to do anything for his father or mother, ^0712
 
 thus making void the word of God by your tradition that you have handed down. And many such things you do. ^0713
 
-And he called the people to him again and said to them, Hear me, all of you, and understand : ^0714
+And he called the people to him again and said to them, Hear me, all of you, and understand: ^0714
 
 There is nothing outside a person that by going into him can defile him, but the things that come out of a person are what defile him. ^0715
 
-There is nothing outside a person that by going into him can defile him, but the things that come out of a person are what defile him. ^0716
+See Footnote ^0716
 
 And when he had entered the house and left the people, his disciples asked him about the parable. ^0717
 
 And he said to them, Then are you also without understanding? Do you not see that whatever goes into a person from outside cannot defile him, ^0718
 
-since it enters not his heart but his stomach, and is expelled? ( Thus he declared all foods clean .) ^0719
+since it enters not his heart but his stomach, and is expelled? (Thus he declared all foods clean.) ^0719
 
 And he said, What comes out of a person is what defiles him. ^0720
 
@@ -556,13 +548,13 @@ All these evil things come from within, and they defile a person. ^0723
 
 And from there he arose and went away to the region of Tyre and Sidon. And he entered a house and did not want anyone to know, yet he could not be hidden. ^0724
 
-But immediately a woman whose little daughter had an unclean spirit heard of him and came and fell down at his feet. ^0725
+But immediately a woman whose little daughter was possessed by an unclean spirit heard of him and came and fell down at his feet. ^0725
 
 Now the woman was a Gentile, a Syrophoenician by birth. And she begged him to cast the demon out of her daughter. ^0726
 
-And he said to her, Let the children be fed first, for it is not right to take the children’s bread and throw it to the dogs. ^0727
+And he said to her, Let the children be fed first, for it is not right to take the children's bread and throw it to the dogs. ^0727
 
-But she answered him, Yes, Lord; yet even the dogs under the table eat the children’s crumbs. ^0728
+But she answered him, Yes, Lord; yet even the dogs under the table eat the children's crumbs. ^0728
 
 And he said to her, For this statement you may go your way; the demon has left your daughter. ^0729
 
@@ -581,7 +573,6 @@ And his ears were opened, his tongue was released, and he spoke plainly. ^0735
 And Jesus charged them to tell no one. But the more he charged them, the more zealously they proclaimed it. ^0736
 
 And they were astonished beyond measure, saying, He has done all things well. He even makes the deaf hear and the mute speak. ^0737
-
 
 
 In those days, when again a great crowd had gathered, and they had nothing to eat, he called his disciples to him and said to them, ^0801
@@ -630,7 +621,7 @@ And they came to Bethsaida. And some people brought to him a blind man and begge
 
 And he took the blind man by the hand and led him out of the village, and when he had spit on his eyes and laid his hands on him, he asked him, Do you see anything? ^0823
 
-And he looked up and said, I see people, but they look like trees, walking. ^0824
+And he looked up and said, I see men, but they look like trees, walking. ^0824
 
 Then Jesus laid his hands on his eyes again; and he opened his eyes, his sight was restored, and he saw everything clearly. ^0825
 
@@ -650,16 +641,15 @@ And he said this plainly. And Peter took him aside and began to rebuke him. ^083
 
 But turning and seeing his disciples, he rebuked Peter and said, Get behind me, Satan! For you are not setting your mind on the things of God, but on the things of man. ^0833
 
-And calling the crowd to him with his disciples, he said to them, If anyone would come after me, let him deny himself and take up his cross and follow me. ^0834
+And he called to him the crowd with his disciples and said to them, If anyone would come after me, let him deny himself and take up his cross and follow me. ^0834
 
-For whoever would save his life will lose it, but whoever loses his life for my sake and the gospel’s will save it. ^0835
+For whoever would save his life will lose it, but whoever loses his life for my sake and the gospel's will save it. ^0835
 
-For what does it profit a man to gain the whole world and forfeit his soul? ^0836
+For what does it profit a man to gain the whole world and forfeit his life? ^0836
 
-For what can a man give in return for his soul? ^0837
+For what can a man give in return for his life? ^0837
 
 For whoever is ashamed of me and of my words in this adulterous and sinful generation, of him will the Son of Man also be ashamed when he comes in the glory of his Father with the holy angels. ^0838
-
 
 
 And he said to them, Truly, I say to you, there are some standing here who will not taste death until they see the kingdom of God after it has come with power. ^0901
@@ -748,20 +738,19 @@ Whoever causes one of these little ones who believe in me to sin, it would be be
 
 And if your hand causes you to sin, cut it off. It is better for you to enter life crippled than with two hands to go to hell, to the unquenchable fire. ^0943
 
-And if your hand causes you to sin, cut it off. It is better for you to enter life crippled than with two hands to go to hell, to the unquenchable fire. ^0944
+See Footnote ^0944
 
 And if your foot causes you to sin, cut it off. It is better for you to enter life lame than with two feet to be thrown into hell. ^0945
 
-And if your foot causes you to sin, cut it off. It is better for you to enter life lame than with two feet to be thrown into hell. ^0946
+See Footnote ^0946
 
 And if your eye causes you to sin, tear it out. It is better for you to enter the kingdom of God with one eye than with two eyes to be thrown into hell, ^0947
 
-where their worm does not die and the fire is not quenched. ^0948
+'where their worm does not die and the fire is not quenched.' ^0948
 
 For everyone will be salted with fire. ^0949
 
 Salt is good, but if the salt has lost its saltiness, how will you make it salty again? Have salt in yourselves, and be at peace with one another. ^0950
-
 
 
 And he left there and went to the region of Judea and beyond the Jordan, and crowds gathered to him again. And again, as was his custom, he taught them. ^1001
@@ -774,11 +763,11 @@ They said, Moses allowed a man to write a certificate of divorce and to send her
 
 And Jesus said to them, Because of your hardness of heart he wrote you this commandment. ^1005
 
-But from the beginning of creation, God made them male and female. ^1006
+But from the beginning of creation, 'God made them male and female.' ^1006
 
-Therefore a man shall leave his father and mother and hold fast to his wife, ^1007
+'Therefore a man shall leave his father and mother and hold fast to his wife, ^1007
 
-and the two shall become one flesh. So they are no longer two but one flesh. ^1008
+and they shall become one flesh.' So they are no longer two but one flesh. ^1008
 
 What therefore God has joined together, let not man separate. ^1009
 
@@ -800,11 +789,11 @@ And as he was setting out on his journey, a man ran up and knelt before him and 
 
 And Jesus said to him, Why do you call me good? No one is good except God alone. ^1018
 
-You know the commandments : Do not murder, Do not commit adultery, Do not steal, Do not bear false witness, Do not defraud, Honor your father and mother. ^1019
+You know the commandments: 'Do not murder, Do not commit adultery, Do not steal, Do not bear false witness, Do not defraud, Honor your father and mother.' ^1019
 
 And he said to him, Teacher, all these I have kept from my youth. ^1020
 
-And Jesus, looking at him, loved him, and said to him, You lack one thing : go, sell all that you have and give to the poor, and you will have treasure in heaven; and come, follow me. ^1021
+And Jesus, looking at him, loved him, and said to him, You lack one thing: go, sell all that you have and give to the poor, and you will have treasure in heaven; and come, follow me. ^1021
 
 Disheartened by the saying, he went away sorrowful, for he had great possessions. ^1022
 
@@ -869,12 +858,11 @@ And Jesus said to him, What do you want me to do for you? And the blind man said
 And Jesus said to him, Go your way; your faith has made you well. And immediately he recovered his sight and followed him on the way. ^1052
 
 
-
 Now when they drew near to Jerusalem, to Bethphage and Bethany, at the Mount of Olives, Jesus sent two of his disciples ^1101
 
 and said to them, Go into the village in front of you, and immediately as you enter it you will find a colt tied, on which no one has ever sat. Untie it and bring it. ^1102
 
-If anyone says to you, Why are you doing this? say, The Lord has need of it and will send it back here immediately. ^1103
+If anyone says to you, 'Why are you doing this?' say, 'The Lord has need of it and will send it back here immediately.' ^1103
 
 And they went away and found a colt tied at a door outside in the street, and they untied it. ^1104
 
@@ -902,7 +890,7 @@ And they came to Jerusalem. And he entered the temple and began to drive out tho
 
 And he would not allow anyone to carry anything through the temple. ^1116
 
-And he was teaching them and saying to them, Is it not written, My house shall be called a house of prayer for all the nations? But you have made it a den of robbers. ^1117
+And he was teaching them and saying to them, Is it not written, 'My house shall be called a house of prayer for all the nations'? But you have made it a den of robbers. ^1117
 
 And the chief priests and the scribes heard it and were seeking a way to destroy him, for they feared him, because all the crowd was astonished at his teaching. ^1118
 
@@ -914,13 +902,13 @@ And Peter remembered and said to him, Rabbi, look! The fig tree that you cursed 
 
 And Jesus answered them, Have faith in God. ^1122
 
-Truly, I say to you, whoever says to this mountain, Be taken up and thrown into the sea, and does not doubt in his heart, but believes that what he says will come to pass, it will be done for him. ^1123
+Truly, I say to you, whoever says to this mountain, 'Be taken up and thrown into the sea,' and does not doubt in his heart, but believes that what he says will come to pass, it will be done for him. ^1123
 
 Therefore I tell you, whatever you ask in prayer, believe that you have received it, and it will be yours. ^1124
 
 And whenever you stand praying, forgive, if you have anything against anyone, so that your Father also who is in heaven may forgive you your trespasses. ^1125
 
-[But if you do not forgive, neither will your Father who is in heaven forgive your trespasses.] ^1126
+See Footnote ^1126
 
 And they came again to Jerusalem. And as he was walking in the temple, the chief priests and the scribes and the elders came to him, ^1127
 
@@ -930,12 +918,11 @@ Jesus said to them, I will ask you one question; answer me, and I will tell you 
 
 Was the baptism of John from heaven or from man? Answer me. ^1130
 
-And they discussed it with one another, saying, If we say, From heaven, he will say, Why then did you not believe him? ^1131
+And they discussed it with one another, saying, If we say, 'From heaven,' he will say, 'Why then did you not believe him?' ^1131
 
-But shall we say, From man? — they were afraid of the people, for they all held that John really was a prophet. ^1132
+But shall we say, 'From man'?--they were afraid of the people, for they all held that John really was a prophet. ^1132
 
 So they answered Jesus, We do not know. And Jesus said to them, Neither will I tell you by what authority I do these things. ^1133
-
 
 
 And he began to speak to them in parables. A man planted a vineyard and put a fence around it and dug a pit for the winepress and built a tower, and leased it to tenants and went into another country. ^1201
@@ -946,35 +933,35 @@ And they took him and beat him and sent him away empty-handed. ^1203
 
 Again he sent to them another servant, and they struck him on the head and treated him shamefully. ^1204
 
-And he sent another, and him they killed. And so with many others : some they beat, and some they killed. ^1205
+And he sent another, and him they killed. And so with many others: some they beat, and some they killed. ^1205
 
-He had still one other, a beloved son. Finally he sent him to them, saying, They will respect my son. ^1206
+He had still one other, a beloved son. Finally he sent him to them, saying, 'They will respect my son.' ^1206
 
-But those tenants said to one another, This is the heir. Come, let us kill him, and the inheritance will be ours. ^1207
+But those tenants said to one another, 'This is the heir. Come, let us kill him, and the inheritance will be ours.' ^1207
 
 And they took him and killed him and threw him out of the vineyard. ^1208
 
 What will the owner of the vineyard do? He will come and destroy the tenants and give the vineyard to others. ^1209
 
-Have you not read this Scripture : The stone that the builders rejected has become the cornerstone; ^1210
+Have you not read this Scripture: 'The stone that the builders rejected has become the cornerstone; ^1210
 
-this was the Lord’s doing, and it is marvelous in our eyes? ^1211
+this was the Lord's doing, and it is marvelous in our eyes'? ^1211
 
 And they were seeking to arrest him but feared the people, for they perceived that he had told the parable against them. So they left him and went away. ^1212
 
 And they sent to him some of the Pharisees and some of the Herodians, to trap him in his talk. ^1213
 
-And they came and said to him, Teacher, we know that you are true and do not care about anyone’s opinion. For you are not swayed by appearances, but truly teach the way of God. Is it lawful to pay taxes to Caesar, or not? Should we pay them, or should we not? ^1214
+And they came and said to him, Teacher, we know that you are true and do not care about anyone's opinion. For you are not swayed by appearances, but truly teach the way of God. Is it lawful to pay taxes to Caesar, or not? Should we pay them, or should we not? ^1214
 
 But, knowing their hypocrisy, he said to them, Why put me to the test? Bring me a denarius and let me look at it. ^1215
 
-And they brought one. And he said to them, Whose likeness and inscription is this? They said to him, Caesar’s. ^1216
+And they brought one. And he said to them, Whose likeness and inscription is this? They said to him, Caesar's. ^1216
 
-Jesus said to them, Render to Caesar the things that are Caesar’s, and to God the things that are God’s. And they marveled at him. ^1217
+Jesus said to them, Render to Caesar the things that are Caesar's, and to God the things that are God's. And they marveled at him. ^1217
 
 And Sadducees came to him, who say that there is no resurrection. And they asked him a question, saying, ^1218
 
-Teacher, Moses wrote for us that if a man’s brother dies and leaves a wife, but leaves no child, the man must take the widow and raise up offspring for his brother. ^1219
+Teacher, Moses wrote for us that if a man's brother dies and leaves a wife, but leaves no child, the man must take the widow and raise up offspring for his brother. ^1219
 
 There were seven brothers; the first took a wife, and when he died left no offspring. ^1220
 
@@ -988,27 +975,27 @@ Jesus said to them, Is this not the reason you are wrong, because you know neith
 
 For when they rise from the dead, they neither marry nor are given in marriage, but are like angels in heaven. ^1225
 
-And as for the dead being raised, have you not read in the book of Moses, in the passage about the bush, how God spoke to him, saying, I am the God of Abraham, and the God of Isaac, and the God of Jacob? ^1226
+And as for the dead being raised, have you not read in the book of Moses, in the passage about the bush, how God spoke to him, saying, 'I am the God of Abraham, and the God of Isaac, and the God of Jacob'? ^1226
 
 He is not God of the dead, but of the living. You are quite wrong. ^1227
 
 And one of the scribes came up and heard them disputing with one another, and seeing that he answered them well, asked him, Which commandment is the most important of all? ^1228
 
-Jesus answered, The most important is, Hear, O Israel : The Lord our God, the Lord is one. ^1229
+Jesus answered, The most important is, 'Hear, O Israel: The Lord our God, the Lord is one. ^1229
 
-And you shall love the Lord your God with all your heart and with all your soul and with all your mind and with all your strength. ^1230
+And you shall love the Lord your God with all your heart and with all your soul and with all your mind and with all your strength.' ^1230
 
-The second is this : You shall love your neighbor as yourself. There is no other commandment greater than these. ^1231
+The second is this: 'You shall love your neighbor as yourself.' There is no other commandment greater than these. ^1231
 
 And the scribe said to him, You are right, Teacher. You have truly said that he is one, and there is no other besides him. ^1232
 
-And to love him with all the heart and with all the understanding and with all the strength, and to love one’s neighbor as oneself, is much more than all whole burnt offerings and sacrifices. ^1233
+And to love him with all the heart and with all the understanding and with all the strength, and to love one's neighbor as oneself, is much more than all whole burnt offerings and sacrifices. ^1233
 
 And when Jesus saw that he answered wisely, he said to him, You are not far from the kingdom of God. And after that no one dared to ask him any more questions. ^1234
 
 And as Jesus taught in the temple, he said, How can the scribes say that the Christ is the son of David? ^1235
 
-David himself, in the Holy Spirit, declared, The Lord said to my Lord, Sit at my right hand, until I put your enemies under your feet. ^1236
+David himself, in the Holy Spirit, declared, 'The Lord said to my Lord, Sit at my right hand, until I put your enemies under your feet.' ^1236
 
 David himself calls him Lord. So how is he his son? And the great throng heard him gladly. ^1237
 
@@ -1016,7 +1003,7 @@ And in his teaching he said, Beware of the scribes, who like to walk around in l
 
 and have the best seats in the synagogues and the places of honor at feasts, ^1239
 
-who devour widows ’ houses and for a pretense make long prayers. They will receive the greater condemnation. ^1240
+who devour widows' houses and for a pretense make long prayers. They will receive the greater condemnation. ^1240
 
 And he sat down opposite the treasury and watched the people putting money into the offering box. Many rich people put in large sums. ^1241
 
@@ -1025,7 +1012,6 @@ And a poor widow came and put in two small copper coins, which make a penny. ^12
 And he called his disciples to him and said to them, Truly, I say to you, this poor widow has put in more than all those who are contributing to the offering box. ^1243
 
 For they all contributed out of their abundance, but she out of her poverty has put in everything she had, all she had to live on. ^1244
-
 
 
 And as he came out of the temple, one of his disciples said to him, Look, Teacher, what wonderful stones and what wonderful buildings! ^1301
@@ -1038,7 +1024,7 @@ Tell us, when will these things be, and what will be the sign when all these thi
 
 And Jesus began to say to them, See that no one leads you astray. ^1305
 
-Many will come in my name, saying, I am he! and they will lead many astray. ^1306
+Many will come in my name, saying, 'I am he!' and they will lead many astray. ^1306
 
 And when you hear of wars and rumors of wars, do not be alarmed. This must take place, but the end is not yet. ^1307
 
@@ -1052,9 +1038,9 @@ And when they bring you to trial and deliver you over, do not be anxious beforeh
 
 And brother will deliver brother over to death, and the father his child, and children will rise against parents and have them put to death. ^1312
 
-And you will be hated by all for my name’s sake. But the one who endures to the end will be saved. ^1313
+And you will be hated by all for my name's sake. But the one who endures to the end will be saved. ^1313
 
-But when you see the abomination of desolation standing where he ought not to be ( let the reader understand ), then let those who are in Judea flee to the mountains. ^1314
+But when you see the abomination of desolation standing where it ought not to be (let the reader understand), then let those who are in Judea flee to the mountains. ^1314
 
 Let the one who is on the housetop not go down, nor enter his house, to take anything out, ^1315
 
@@ -1068,9 +1054,9 @@ For in those days there will be such tribulation as has not been from the beginn
 
 And if the Lord had not cut short the days, no human being would be saved. But for the sake of the elect, whom he chose, he shortened the days. ^1320
 
-And then if anyone says to you, Look, here is the Christ! or Look, there he is! do not believe it. ^1321
+And then if anyone says to you, 'Look, here is the Christ!' or 'Look, there he is!' do not believe it. ^1321
 
-For false christs and false prophets will arise and perform signs and wonders, to lead astray, if possible, the elect. ^1322
+False christs and false prophets will arise and perform signs and wonders, to lead astray, if possible, the elect. ^1322
 
 But be on guard; I have told you all things beforehand. ^1323
 
@@ -1082,7 +1068,7 @@ And then they will see the Son of Man coming in clouds with great power and glor
 
 And then he will send out the angels and gather his elect from the four winds, from the ends of the earth to the ends of heaven. ^1327
 
-From the fig tree learn its lesson : as soon as its branch becomes tender and puts out its leaves, you know that summer is near. ^1328
+From the fig tree learn its lesson: as soon as its branch becomes tender and puts out its leaves, you know that summer is near. ^1328
 
 So also, when you see these things taking place, you know that he is near, at the very gates. ^1329
 
@@ -1096,12 +1082,11 @@ Be on guard, keep awake. For you do not know when the time will come. ^1333
 
 It is like a man going on a journey, when he leaves home and puts his servants in charge, each with his work, and commands the doorkeeper to stay awake. ^1334
 
-Therefore stay awake — for you do not know when the master of the house will come, in the evening, or at midnight, or when the rooster crows, or in the morning — ^1335
+Therefore stay awake--for you do not know when the master of the house will come, in the evening, or at midnight, or when the cock crows, or in the morning-- ^1335
 
 lest he come suddenly and find you asleep. ^1336
 
-And what I say to you I say to all : Stay awake. ^1337
-
+And what I say to you I say to all: Stay awake. ^1337
 
 
 It was now two days before the Passover and the Feast of Unleavened Bread. And the chief priests and the scribes were seeking how to arrest him by stealth and kill him, ^1401
@@ -1130,7 +1115,7 @@ And on the first day of Unleavened Bread, when they sacrificed the Passover lamb
 
 And he sent two of his disciples and said to them, Go into the city, and a man carrying a jar of water will meet you. Follow him, ^1413
 
-and wherever he enters, say to the master of the house, The Teacher says, Where is my guest room, where I may eat the Passover with my disciples? ^1414
+and wherever he enters, say to the master of the house, 'The Teacher says, Where is my guest room, where I may eat the Passover with my disciples?' ^1414
 
 And he will show you a large upper room furnished and ready; there prepare for us. ^1415
 
@@ -1156,7 +1141,7 @@ Truly, I say to you, I will not drink again of the fruit of the vine until that 
 
 And when they had sung a hymn, they went out to the Mount of Olives. ^1426
 
-And Jesus said to them, You will all fall away, for it is written, I will strike the shepherd, and the sheep will be scattered. ^1427
+And Jesus said to them, You will all fall away, for it is written, 'I will strike the shepherd, and the sheep will be scattered.' ^1427
 
 But after I am raised up, I will go before you to Galilee. ^1428
 
@@ -1212,13 +1197,13 @@ And they led Jesus to the high priest. And all the chief priests and the elders 
 
 And Peter had followed him at a distance, right into the courtyard of the high priest. And he was sitting with the guards and warming himself at the fire. ^1454
 
-Now the chief priests and the whole council were seeking testimony against Jesus to put him to death, but they found none. ^1455
+Now the chief priests and the whole Council were seeking testimony against Jesus to put him to death, but they found none. ^1455
 
 For many bore false witness against him, but their testimony did not agree. ^1456
 
 And some stood up and bore false witness against him, saying, ^1457
 
-We heard him say, I will destroy this temple that is made with hands, and in three days I will build another, not made with hands. ^1458
+We heard him say, 'I will destroy this temple that is made with hands, and in three days I will build another, not made with hands.' ^1458
 
 Yet even about this their testimony did not agree. ^1459
 
@@ -1249,8 +1234,7 @@ But he began to invoke a curse on himself and to swear, I do not know this man o
 And immediately the rooster crowed a second time. And Peter remembered how Jesus had said to him, Before the rooster crows twice, you will deny me three times. And he broke down and wept. ^1472
 
 
-
-And as soon as it was morning, the chief priests held a consultation with the elders and scribes and the whole council. And they bound Jesus and led him away and delivered him over to Pilate. ^1501
+And as soon as it was morning, the chief priests held a consultation with the elders and scribes and the whole Council. And they bound Jesus and led him away and delivered him over to Pilate. ^1501
 
 And Pilate asked him, Are you the King of the Jews? And he answered him, You have said so. ^1502
 
@@ -1280,7 +1264,7 @@ And Pilate said to them, Why, what evil has he done? But they shouted all the mo
 
 So Pilate, wishing to satisfy the crowd, released for them Barabbas, and having scourged Jesus, he delivered him to be crucified. ^1515
 
-And the soldiers led him away inside the palace (that is, the governor’s headquarters ), and they called together the whole battalion. ^1516
+And the soldiers led him away inside the palace (that is, the governor's headquarters), and they called together the whole battalion. ^1516
 
 And they clothed him in a purple cloak, and twisting together a crown of thorns, they put it on him. ^1517
 
@@ -1292,7 +1276,7 @@ And when they had mocked him, they stripped him of the purple cloak and put his 
 
 And they compelled a passerby, Simon of Cyrene, who was coming in from the country, the father of Alexander and Rufus, to carry his cross. ^1521
 
-And they brought him to the place called Golgotha ( which means Place of a Skull ). ^1522
+And they brought him to the place called Golgotha (which means Place of a Skull). ^1522
 
 And they offered him wine mixed with myrrh, but he did not take it. ^1523
 
@@ -1304,7 +1288,7 @@ And the inscription of the charge against him read, The King of the Jews. ^1526
 
 And with him they crucified two robbers, one on his right and one on his left. ^1527
 
-And with him they crucified two robbers, one on his right and one on his left. ^1528
+See Footnote ^1528
 
 And those who passed by derided him, wagging their heads and saying, Aha! You who would destroy the temple and rebuild it in three days, ^1529
 
@@ -1334,7 +1318,7 @@ When he was in Galilee, they followed him and ministered to him, and there were 
 
 And when evening had come, since it was the day of Preparation, that is, the day before the Sabbath, ^1542
 
-Joseph of Arimathea, a respected member of the council, who was also himself looking for the kingdom of God, took courage and went to Pilate and asked for the body of Jesus. ^1543
+Joseph of Arimathea, a respected member of the Council, who was also himself looking for the kingdom of God, took courage and went to Pilate and asked for the body of Jesus. ^1543
 
 Pilate was surprised to hear that he should have already died. And summoning the centurion, he asked him whether he was already dead. ^1544
 
@@ -1345,14 +1329,13 @@ And Joseph bought a linen shroud, and taking him down, wrapped him in the linen 
 Mary Magdalene and Mary the mother of Joses saw where he was laid. ^1547
 
 
-
-, When the Sabbath was past, Mary Magdalene, Mary the mother of James, and Salome bought spices, so that they might go and anoint him. ^1601
+When the Sabbath was past, Mary Magdalene and Mary the mother of James and Salome bought spices, so that they might go and anoint him. ^1601
 
 And very early on the first day of the week, when the sun had risen, they went to the tomb. ^1602
 
 And they were saying to one another, Who will roll away the stone for us from the entrance of the tomb? ^1603
 
-And looking up, they saw that the stone had been rolled back — it was very large. ^1604
+And looking up, they saw that the stone had been rolled back--it was very large. ^1604
 
 And entering the tomb, they saw a young man sitting on the right side, dressed in a white robe, and they were alarmed. ^1605
 
@@ -1360,9 +1343,9 @@ And he said to them, Do not be alarmed. You seek Jesus of Nazareth, who was cruc
 
 But go, tell his disciples and Peter that he is going before you to Galilee. There you will see him, just as he told you. ^1607
 
-And they went out and fled from the tomb, for trembling and astonishment had seized them, and they said nothing to anyone, for they were afraid. ^1608
+And they went out and fled from the tomb, for trembling and astonishment had seized them, and they said nothing to anyone, for they were afraid. ⟨Some of the earliest manuscripts do not include 16:9-20.⟩ ^1608
 
-[[ Now when he rose early on the first day of the week, he appeared first to Mary Magdalene, from whom he had cast out seven demons. ^1609
+⟨⟨Now when he rose early on the first day of the week, he appeared first to Mary Magdalene, from whom he had cast out seven demons. ^1609
 
 She went and told those who had been with him, as they mourned and wept. ^1610
 
@@ -1378,12 +1361,10 @@ And he said to them, Go into all the world and proclaim the gospel to the whole 
 
 Whoever believes and is baptized will be saved, but whoever does not believe will be condemned. ^1616
 
-And these signs will accompany those who believe : in my name they will cast out demons; they will speak in new tongues; ^1617
+And these signs will accompany those who believe: in my name they will cast out demons; they will speak in new tongues; ^1617
 
 they will pick up serpents with their hands; and if they drink any deadly poison, it will not hurt them; they will lay their hands on the sick, and they will recover. ^1618
 
 So then the Lord Jesus, after he had spoken to them, was taken up into heaven and sat down at the right hand of God. ^1619
 
-And they went out and preached everywhere, while the Lord worked with them and confirmed the message by accompanying signs .]] ^1620
-
-
+And they went out and preached everywhere, while the Lord worked with them and confirmed the message by accompanying signs.⟩⟩ ^1620

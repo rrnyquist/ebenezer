@@ -1,10 +1,8 @@
-
-
 In the first book, O Theophilus, I have dealt with all that Jesus began to do and teach, ^0101
 
 until the day when he was taken up, after he had given commands through the Holy Spirit to the apostles whom he had chosen. ^0102
 
-He presented himself alive to them after his suffering by many proofs, appearing to them during forty days and speaking about the kingdom of God. ^0103
+To them he presented himself alive after his suffering by many proofs, appearing to them during forty days and speaking about the kingdom of God. ^0103
 
 And while staying with them he ordered them not to depart from Jerusalem, but to wait for the promise of the Father, which, he said, you heard from me; ^0104
 
@@ -22,27 +20,27 @@ And while they were gazing into heaven as he went, behold, two men stood by them
 
 and said, Men of Galilee, why do you stand looking into heaven? This Jesus, who was taken up from you into heaven, will come in the same way as you saw him go into heaven. ^0111
 
-Then they returned to Jerusalem from the mount called Olivet, which is near Jerusalem, a Sabbath day’s journey away. ^0112
+Then they returned to Jerusalem from the mount called Olivet, which is near Jerusalem, a Sabbath day's journey away. ^0112
 
 And when they had entered, they went up to the upper room, where they were staying, Peter and John and James and Andrew, Philip and Thomas, Bartholomew and Matthew, James the son of Alphaeus and Simon the Zealot and Judas the son of James. ^0113
 
 All these with one accord were devoting themselves to prayer, together with the women and Mary the mother of Jesus, and his brothers. ^0114
 
-In those days Peter stood up among the brothers (the company of persons was in all about 120 ) and said, ^0115
+In those days Peter stood up among the brothers (the company of persons was in all about 120) and said, ^0115
 
 Brothers, the Scripture had to be fulfilled, which the Holy Spirit spoke beforehand by the mouth of David concerning Judas, who became a guide to those who arrested Jesus. ^0116
 
 For he was numbered among us and was allotted his share in this ministry. ^0117
 
-( Now this man acquired a field with the reward of his wickedness, and falling headlong he burst open in the middle and all his bowels gushed out. ^0118
+(Now this man bought a field with the reward of his wickedness, and falling headlong he burst open in the middle and all his bowels gushed out. ^0118
 
-And it became known to all the inhabitants of Jerusalem, so that the field was called in their own language Akeldama, that is, Field of Blood .) ^0119
+And it became known to all the inhabitants of Jerusalem, so that the field was called in their own language Akeldama, that is, Field of Blood.) ^0119
 
-For it is written in the Book of Psalms, May his camp become desolate, and let there be no one to dwell in it; and Let another take his office. ^0120
+For it is written in the Book of Psalms, 'May his camp become desolate, and let there be no one to dwell in it';and 'Let another take his office.' ^0120
 
 So one of the men who have accompanied us during all the time that the Lord Jesus went in and out among us, ^0121
 
-beginning from the baptism of John until the day when he was taken up from us — one of these men must become with us a witness to his resurrection. ^0122
+beginning from the baptism of John until the day when he was taken up from us--one of these men must become with us a witness to his resurrection. ^0122
 
 And they put forward two, Joseph called Barsabbas, who was also called Justus, and Matthias. ^0123
 
@@ -51,7 +49,6 @@ And they prayed and said, You, Lord, who know the hearts of all, show which one 
 to take the place in this ministry and apostleship from which Judas turned aside to go to his own place. ^0125
 
 And they cast lots for them, and the lot fell on Matthias, and he was numbered with the eleven apostles. ^0126
-
 
 
 When the day of Pentecost arrived, they were all together in one place. ^0201
@@ -74,19 +71,19 @@ Parthians and Medes and Elamites and residents of Mesopotamia, Judea and Cappado
 
 Phrygia and Pamphylia, Egypt and the parts of Libya belonging to Cyrene, and visitors from Rome, ^0210
 
-both Jews and proselytes, Cretans and Arabians —we hear them telling in our own tongues the mighty works of God. ^0211
+both Jews and proselytes, Cretans and Arabians--we hear them telling in our own tongues the mighty works of God. ^0211
 
 And all were amazed and perplexed, saying to one another, What does this mean? ^0212
 
 But others mocking said, They are filled with new wine. ^0213
 
-But Peter, standing with the eleven, lifted up his voice and addressed them : Men of Judea and all who dwell in Jerusalem, let this be known to you, and give ear to my words. ^0214
+But Peter, standing with the eleven, lifted up his voice and addressed them, Men of Judea and all who dwell in Jerusalem, let this be known to you, and give ear to my words. ^0214
 
-For these people are not drunk, as you suppose, since it is only the third hour of the day. ^0215
+For these men are not drunk, as you suppose, since it is only the third hour of the day. ^0215
 
-But this is what was uttered through the prophet Joel : ^0216
+But this is what was uttered through the prophet Joel: ^0216
 
-And in the last days it shall be, God declares, that I will pour out my Spirit on all flesh, and your sons and your daughters shall prophesy, and your young men shall see visions, and your old men shall dream dreams; ^0217
+'And in the last days it shall be, God declares, that I will pour out my Spirit on all flesh, and your sons and your daughters shall prophesy, and your young men shall see visions, and your old men shall dream dreams; ^0217
 
 even on my male servants and female servants in those days I will pour out my Spirit, and they shall prophesy. ^0218
 
@@ -94,21 +91,21 @@ And I will show wonders in the heavens above and signs on the earth below, blood
 
 the sun shall be turned to darkness and the moon to blood, before the day of the Lord comes, the great and magnificent day. ^0220
 
-And it shall come to pass that everyone who calls upon the name of the Lord shall be saved. ^0221
+And it shall come to pass that everyone who calls upon the name of the Lord shall be saved.' ^0221
 
-Men of Israel, hear these words : Jesus of Nazareth, a man attested to you by God with mighty works and wonders and signs that God did through him in your midst, as you yourselves know — ^0222
+Men of Israel, hear these words: Jesus of Nazareth, a man attested to you by God with mighty works and wonders and signs that God did through him in your midst, as you yourselves know-- ^0222
 
 this Jesus, delivered up according to the definite plan and foreknowledge of God, you crucified and killed by the hands of lawless men. ^0223
 
 God raised him up, loosing the pangs of death, because it was not possible for him to be held by it. ^0224
 
-For David says concerning him, I saw the Lord always before me, for he is at my right hand that I may not be shaken; ^0225
+For David says concerning him, 'I saw the Lord always before me, for he is at my right hand that I may not be shaken; ^0225
 
 therefore my heart was glad, and my tongue rejoiced; my flesh also will dwell in hope. ^0226
 
 For you will not abandon my soul to Hades, or let your Holy One see corruption. ^0227
 
-You have made known to me the paths of life; you will make me full of gladness with your presence. ^0228
+You have made known to me the paths of life; you will make me full of gladness with your presence.' ^0228
 
 Brothers, I may say to you with confidence about the patriarch David that he both died and was buried, and his tomb is with us to this day. ^0229
 
@@ -120,9 +117,9 @@ This Jesus God raised up, and of that we all are witnesses. ^0232
 
 Being therefore exalted at the right hand of God, and having received from the Father the promise of the Holy Spirit, he has poured out this that you yourselves are seeing and hearing. ^0233
 
-For David did not ascend into the heavens, but he himself says, The Lord said to my Lord, Sit at my right hand, ^0234
+For David did not ascend into the heavens, but he himself says, 'The Lord said to my Lord, Sit at my right hand, ^0234
 
-until I make your enemies your footstool. ^0235
+until I make your enemies your footstool.' ^0235
 
 Let all the house of Israel therefore know for certain that God has made him both Lord and Christ, this Jesus whom you crucified. ^0236
 
@@ -136,7 +133,7 @@ And with many other words he bore witness and continued to exhort them, saying, 
 
 So those who received his word were baptized, and there were added that day about three thousand souls. ^0241
 
-And they devoted themselves to the apostles ’ teaching and the fellowship, to the breaking of bread and the prayers. ^0242
+And they devoted themselves to the apostles' teaching and fellowship, to the breaking of bread and the prayers. ^0242
 
 And awe came upon every soul, and many wonders and signs were being done through the apostles. ^0243
 
@@ -147,7 +144,6 @@ And they were selling their possessions and belongings and distributing the proc
 And day by day, attending the temple together and breaking bread in their homes, they received their food with glad and generous hearts, ^0246
 
 praising God and having favor with all the people. And the Lord added to their number day by day those who were being saved. ^0247
-
 
 
 Now Peter and John were going up to the temple at the hour of prayer, the ninth hour. ^0301
@@ -170,9 +166,9 @@ And all the people saw him walking and praising God, ^0309
 
 and recognized him as the one who sat at the Beautiful Gate of the temple, asking for alms. And they were filled with wonder and amazement at what had happened to him. ^0310
 
-While he clung to Peter and John, all the people, utterly astounded, ran together to them in the portico called Solomon’s. ^0311
+While he clung to Peter and John, all the people ran together to them in the portico called Solomon's, astounded. ^0311
 
-And when Peter saw it he addressed the people : Men of Israel, why do you wonder at this, or why do you stare at us, as though by our own power or piety we have made him walk? ^0312
+And when Peter saw it he addressed the people: Men of Israel, why do you wonder at this, or why do you stare at us, as though by our own power or piety we have made him walk? ^0312
 
 The God of Abraham, the God of Isaac, and the God of Jacob, the God of our fathers, glorified his servant Jesus, whom you delivered over and denied in the presence of Pilate, when he had decided to release him. ^0313
 
@@ -180,28 +176,27 @@ But you denied the Holy and Righteous One, and asked for a murderer to be grante
 
 and you killed the Author of life, whom God raised from the dead. To this we are witnesses. ^0315
 
-And his name — by faith in his name —has made this man strong whom you see and know, and the faith that is through Jesus has given the man this perfect health in the presence of you all. ^0316
+And his name--by faith in his name--has made this man strong whom you see and know, and the faith that is through Jesus has given the man this perfect health in the presence of you all. ^0316
 
 And now, brothers, I know that you acted in ignorance, as did also your rulers. ^0317
 
 But what God foretold by the mouth of all the prophets, that his Christ would suffer, he thus fulfilled. ^0318
 
-Repent therefore, and turn back, that your sins may be blotted out, ^0319
+Repent therefore, and turn again, that your sins may be blotted out, ^0319
 
 that times of refreshing may come from the presence of the Lord, and that he may send the Christ appointed for you, Jesus, ^0320
 
 whom heaven must receive until the time for restoring all the things about which God spoke by the mouth of his holy prophets long ago. ^0321
 
-Moses said, The Lord God will raise up for you a prophet like me from your brothers. You shall listen to him in whatever he tells you. ^0322
+Moses said, 'The Lord God will raise up for you a prophet like me from your brothers. You shall listen to him in whatever he tells you. ^0322
 
-And it shall be that every soul who does not listen to that prophet shall be destroyed from the people. ^0323
+And it shall be that every soul who does not listen to that prophet shall be destroyed from the people.' ^0323
 
 And all the prophets who have spoken, from Samuel and those who came after him, also proclaimed these days. ^0324
 
-You are the sons of the prophets and of the covenant that God made with your fathers, saying to Abraham, And in your offspring shall all the families of the earth be blessed. ^0325
+You are the sons of the prophets and of the covenant that God made with your fathers, saying to Abraham, 'And in your offspring shall all the families of the earth be blessed.' ^0325
 
 God, having raised up his servant, sent him to you first, to bless you by turning every one of you from your wickedness. ^0326
-
 
 
 And as they were speaking to the people, the priests and the captain of the temple and the Sadducees came upon them, ^0401
@@ -222,7 +217,7 @@ Then Peter, filled with the Holy Spirit, said to them, Rulers of the people and 
 
 if we are being examined today concerning a good deed done to a crippled man, by what means this man has been healed, ^0409
 
-let it be known to all of you and to all the people of Israel that by the name of Jesus Christ of Nazareth, whom you crucified, whom God raised from the dead — by him this man is standing before you well. ^0410
+let it be known to all of you and to all the people of Israel that by the name of Jesus Christ of Nazareth, whom you crucified, whom God raised from the dead--by him this man is standing before you well. ^0410
 
 This Jesus is the stone that was rejected by you, the builders, which has become the cornerstone. ^0411
 
@@ -252,9 +247,9 @@ When they were released, they went to their friends and reported what the chief 
 
 And when they heard it, they lifted their voices together to God and said, Sovereign Lord, who made the heaven and the earth and the sea and everything in them, ^0424
 
-who through the mouth of our father David, your servant, said by the Holy Spirit, Why did the Gentiles rage, and the peoples plot in vain? ^0425
+who through the mouth of our father David, your servant, said by the Holy Spirit, 'Why did the Gentiles rage, and the peoples plot in vain? ^0425
 
-The kings of the earth set themselves, and the rulers were gathered together, against the Lord and against his Anointed — ^0426
+The kings of the earth set themselves, and the rulers were gathered together, against the Lord and against his Anointed'-- ^0426
 
 for truly in this city there were gathered together against your holy servant Jesus, whom you anointed, both Herod and Pontius Pilate, along with the Gentiles and the peoples of Israel, ^0427
 
@@ -272,21 +267,20 @@ And with great power the apostles were giving their testimony to the resurrectio
 
 There was not a needy person among them, for as many as were owners of lands or houses sold them and brought the proceeds of what was sold ^0434
 
-and laid it at the apostles ’ feet, and it was distributed to each as any had need. ^0435
+and laid it at the apostles' feet, and it was distributed to each as any had need. ^0435
 
-Thus Joseph, who was also called by the apostles Barnabas (which means son of encouragement ), a Levite, a native of Cyprus, ^0436
+Thus Joseph, who was also called by the apostles Barnabas (which means son of encouragement), a Levite, a native of Cyprus, ^0436
 
-sold a field that belonged to him and brought the money and laid it at the apostles ’ feet. ^0437
-
+sold a field that belonged to him and brought the money and laid it at the apostles' feet. ^0437
 
 
 But a man named Ananias, with his wife Sapphira, sold a piece of property, ^0501
 
-and with his wife’s knowledge he kept back for himself some of the proceeds and brought only a part of it and laid it at the apostles ’ feet. ^0502
+and with his wife's knowledge he kept back for himself some of the proceeds and brought only a part of it and laid it at the apostles' feet. ^0502
 
 But Peter said, Ananias, why has Satan filled your heart to lie to the Holy Spirit and to keep back for yourself part of the proceeds of the land? ^0503
 
-While it remained unsold, did it not remain your own? And after it was sold, was it not at your disposal? Why is it that you have contrived this deed in your heart? You have not lied to man but to God. ^0504
+While it remained unsold, did it not remain your own? And after it was sold, was it not at your disposal? Why is it that you have contrived this deed in your heart? You have not lied to men but to God. ^0504
 
 When Ananias heard these words, he fell down and breathed his last. And great fear came upon all who heard of it. ^0505
 
@@ -302,7 +296,7 @@ Immediately she fell down at his feet and breathed her last. When the young men 
 
 And great fear came upon the whole church and upon all who heard of these things. ^0511
 
-Now many signs and wonders were regularly done among the people by the hands of the apostles. And they were all together in Solomon’s Portico. ^0512
+Now many signs and wonders were regularly done among the people by the hands of the apostles. And they were all together in Solomon's Portico. ^0512
 
 None of the rest dared join them, but the people held them in high esteem. ^0513
 
@@ -312,7 +306,7 @@ so that they even carried out the sick into the streets and laid them on cots an
 
 The people also gathered from the towns around Jerusalem, bringing the sick and those afflicted with unclean spirits, and they were all healed. ^0516
 
-But the high priest rose up, and all who were with him (that is, the party of the Sadducees ), and filled with jealousy ^0517
+But the high priest rose up, and all who were with him (that is, the party of the Sadducees), and filled with jealousy ^0517
 
 they arrested the apostles and put them in the public prison. ^0518
 
@@ -320,7 +314,7 @@ But during the night an angel of the Lord opened the prison doors and brought th
 
 Go and stand in the temple and speak to the people all the words of this Life. ^0520
 
-And when they heard this, they entered the temple at daybreak and began to teach. Now when the high priest came, and those who were with him, they called together the council, all the senate of the people of Israel, and sent to the prison to have them brought. ^0521
+And when they heard this, they entered the temple at daybreak and began to teach.Now when the high priest came, and those who were with him, they called together the council and all the senate of Israel and sent to the prison to have them brought. ^0521
 
 But when the officers came, they did not find them in the prison, so they returned and reported, ^0522
 
@@ -334,7 +328,7 @@ Then the captain with the officers went and brought them, but not by force, for 
 
 And when they had brought them, they set them before the council. And the high priest questioned them, ^0527
 
-saying, We strictly charged you not to teach in this name, yet here you have filled Jerusalem with your teaching, and you intend to bring this man’s blood upon us. ^0528
+saying, We strictly charged you not to teach in this name, yet here you have filled Jerusalem with your teaching, and you intend to bring this man's blood upon us. ^0528
 
 But Peter and the apostles answered, We must obey God rather than men. ^0529
 
@@ -362,8 +356,7 @@ and when they had called in the apostles, they beat them and charged them not to
 
 Then they left the presence of the council, rejoicing that they were counted worthy to suffer dishonor for the name. ^0541
 
-And every day, in the temple and from house to house, they did not cease teaching and preaching that the Christ is Jesus. ^0542
-
+And every day, in the temple and from house to house, they did not cease teaching and preaching Jesus as the Christ. ^0542
 
 
 Now in these days when the disciples were increasing in number, a complaint by the Hellenists arose against the Hebrews because their widows were being neglected in the daily distribution. ^0601
@@ -382,7 +375,7 @@ And the word of God continued to increase, and the number of the disciples multi
 
 And Stephen, full of grace and power, was doing great wonders and signs among the people. ^0608
 
-Then some of those who belonged to the synagogue of the Freedmen (as it was called ), and of the Cyrenians, and of the Alexandrians, and of those from Cilicia and Asia, rose up and disputed with Stephen. ^0609
+Then some of those who belonged to the synagogue of the Freedmen (as it was called), and of the Cyrenians, and of the Alexandrians, and of those from Cilicia and Asia, rose up and disputed with Stephen. ^0609
 
 But they could not withstand the wisdom and the Spirit with which he was speaking. ^0610
 
@@ -397,20 +390,19 @@ for we have heard him say that this Jesus of Nazareth will destroy this place an
 And gazing at him, all who sat in the council saw that his face was like the face of an angel. ^0615
 
 
-
 And the high priest said, Are these things so? ^0701
 
-And Stephen said : Brothers and fathers, hear me. The God of glory appeared to our father Abraham when he was in Mesopotamia, before he lived in Haran, ^0702
+And Stephen said:Brothers and fathers, hear me. The God of glory appeared to our father Abraham when he was in Mesopotamia, before he lived in Haran, ^0702
 
-and said to him, Go out from your land and from your kindred and go into the land that I will show you. ^0703
+and said to him, 'Go out from your land and from your kindred and go into the land that I will show you.' ^0703
 
 Then he went out from the land of the Chaldeans and lived in Haran. And after his father died, God removed him from there into this land in which you are now living. ^0704
 
-Yet he gave him no inheritance in it, not even a foot’s length, but promised to give it to him as a possession and to his offspring after him, though he had no child. ^0705
+Yet he gave him no inheritance in it, not even a foot's length, but promised to give it to him as a possession and to his offspring after him, though he had no child. ^0705
 
-And God spoke to this effect— that his offspring would be sojourners in a land belonging to others, who would enslave them and afflict them four hundred years. ^0706
+And God spoke to this effect--that his offspring would be sojourners in a land belonging to others, who would enslave them and afflict them four hundred years. ^0706
 
-But I will judge the nation that they serve, said God, and after that they shall come out and worship me in this place. ^0707
+'But I will judge the nation that they serve,' said God, 'and after that they shall come out and worship me in this place.' ^0707
 
 And he gave him the covenant of circumcision. And so Abraham became the father of Isaac, and circumcised him on the eighth day, and Isaac became the father of Jacob, and Jacob of the twelve patriarchs. ^0708
 
@@ -422,7 +414,7 @@ Now there came a famine throughout all Egypt and Canaan, and great affliction, a
 
 But when Jacob heard that there was grain in Egypt, he sent out our fathers on their first visit. ^0712
 
-And on the second visit Joseph made himself known to his brothers, and Joseph’s family became known to Pharaoh. ^0713
+And on the second visit Joseph made himself known to his brothers, and Joseph's family became known to Pharaoh. ^0713
 
 And Joseph sent and summoned Jacob his father and all his kindred, seventy-five persons in all. ^0714
 
@@ -436,9 +428,9 @@ until there arose over Egypt another king who did not know Joseph. ^0718
 
 He dealt shrewdly with our race and forced our fathers to expose their infants, so that they would not be kept alive. ^0719
 
-At this time Moses was born; and he was beautiful in God’s sight. And he was brought up for three months in his father’s house, ^0720
+At this time Moses was born; and he was beautiful in God's sight. And he was brought up for three months in his father's house, ^0720
 
-and when he was exposed, Pharaoh’s daughter adopted him and brought him up as her own son. ^0721
+and when he was exposed, Pharaoh's daughter adopted him and brought him up as her own son. ^0721
 
 And Moses was instructed in all the wisdom of the Egyptians, and he was mighty in his words and deeds. ^0722
 
@@ -448,41 +440,41 @@ And seeing one of them being wronged, he defended the oppressed man and avenged 
 
 He supposed that his brothers would understand that God was giving them salvation by his hand, but they did not understand. ^0725
 
-And on the following day he appeared to them as they were quarreling and tried to reconcile them, saying, Men, you are brothers. Why do you wrong each other? ^0726
+And on the following day he appeared to them as they were quarreling and tried to reconcile them, saying, 'Men, you are brothers. Why do you wrong each other?' ^0726
 
-But the man who was wronging his neighbor thrust him aside, saying, Who made you a ruler and a judge over us? ^0727
+But the man who was wronging his neighbor thrust him aside, saying, 'Who made you a ruler and a judge over us? ^0727
 
-Do you want to kill me as you killed the Egyptian yesterday? ^0728
+Do you want to kill me as you killed the Egyptian yesterday?' ^0728
 
 At this retort Moses fled and became an exile in the land of Midian, where he became the father of two sons. ^0729
 
 Now when forty years had passed, an angel appeared to him in the wilderness of Mount Sinai, in a flame of fire in a bush. ^0730
 
-When Moses saw it, he was amazed at the sight, and as he drew near to look, there came the voice of the Lord : ^0731
+When Moses saw it, he was amazed at the sight, and as he drew near to look, there came the voice of the Lord: ^0731
 
-I am the God of your fathers, the God of Abraham and of Isaac and of Jacob. And Moses trembled and did not dare to look. ^0732
+'I am the God of your fathers, the God of Abraham and of Isaac and of Jacob.' And Moses trembled and did not dare to look. ^0732
 
-Then the Lord said to him, Take off the sandals from your feet, for the place where you are standing is holy ground. ^0733
+Then the Lord said to him, 'Take off the sandals from your feet, for the place where you are standing is holy ground. ^0733
 
-I have surely seen the affliction of my people who are in Egypt, and have heard their groaning, and I have come down to deliver them. And now come, I will send you to Egypt. ^0734
+I have surely seen the affliction of my people who are in Egypt, and have heard their groaning, and I have come down to deliver them. And now come, I will send you to Egypt.' ^0734
 
-This Moses, whom they rejected, saying, Who made you a ruler and a judge? —this man God sent as both ruler and redeemer by the hand of the angel who appeared to him in the bush. ^0735
+This Moses, whom they rejected, saying, 'Who made you a ruler and a judge?'--this man God sent as both ruler and redeemer by the hand of the angel who appeared to him in the bush. ^0735
 
 This man led them out, performing wonders and signs in Egypt and at the Red Sea and in the wilderness for forty years. ^0736
 
-This is the Moses who said to the Israelites, God will raise up for you a prophet like me from your brothers. ^0737
+This is the Moses who said to the Israelites, 'God will raise up for you a prophet like me from your brothers.' ^0737
 
 This is the one who was in the congregation in the wilderness with the angel who spoke to him at Mount Sinai, and with our fathers. He received living oracles to give to us. ^0738
 
 Our fathers refused to obey him, but thrust him aside, and in their hearts they turned to Egypt, ^0739
 
-saying to Aaron, Make for us gods who will go before us. As for this Moses who led us out from the land of Egypt, we do not know what has become of him. ^0740
+saying to Aaron, 'Make for us gods who will go before us. As for this Moses who led us out from the land of Egypt, we do not know what has become of him.' ^0740
 
 And they made a calf in those days, and offered a sacrifice to the idol and were rejoicing in the works of their hands. ^0741
 
-But God turned away and gave them over to worship the host of heaven, as it is written in the book of the prophets : Did you bring to me slain beasts and sacrifices, during the forty years in the wilderness, O house of Israel? ^0742
+But God turned away and gave them over to worship the host of heaven, as it is written in the book of the prophets: 'Did you bring to me slain beasts and sacrifices, during the forty years in the wilderness, O house of Israel? ^0742
 
-You took up the tent of Moloch and the star of your god Rephan, the images that you made to worship; and I will send you into exile beyond Babylon. ^0743
+You took up the tent of Moloch and the star of your god Rephan, the images that you made to worship; and I will send you into exile beyond Babylon.' ^0743
 
 Our fathers had the tent of witness in the wilderness, just as he who spoke to Moses directed him to make it, according to the pattern that he had seen. ^0744
 
@@ -494,13 +486,13 @@ But it was Solomon who built a house for him. ^0747
 
 Yet the Most High does not dwell in houses made by hands, as the prophet says, ^0748
 
-Heaven is my throne, and the earth is my footstool. What kind of house will you build for me, says the Lord, or what is the place of my rest? ^0749
+'Heaven is my throne, and the earth is my footstool. What kind of house will you build for me, says the Lord, or what is the place of my rest? ^0749
 
-Did not my hand make all these things? ^0750
+Did not my hand make all these things?' ^0750
 
 You stiff-necked people, uncircumcised in heart and ears, you always resist the Holy Spirit. As your fathers did, so do you. ^0751
 
-Which of the prophets did your fathers not persecute? And they killed those who announced beforehand the coming of the Righteous One, whom you have now betrayed and murdered, ^0752
+Which of the prophets did not your fathers persecute? And they killed those who announced beforehand the coming of the Righteous One, whom you have now betrayed and murdered, ^0752
 
 you who received the law as delivered by angels and did not keep it. ^0753
 
@@ -519,8 +511,7 @@ And as they were stoning Stephen, he called out, Lord Jesus, receive my spirit. 
 And falling to his knees he cried out with a loud voice, Lord, do not hold this sin against them. And when he had said this, he fell asleep. ^0760
 
 
-
-And Saul approved of his execution. And there arose on that day a great persecution against the church in Jerusalem, and they were all scattered throughout the regions of Judea and Samaria, except the apostles. ^0801
+And Saul approved of his execution.And there arose on that day a great persecution against the church in Jerusalem, and they were all scattered throughout the regions of Judea and Samaria, except the apostles. ^0801
 
 Devout men buried Stephen and made great lamentation over him. ^0802
 
@@ -532,7 +523,7 @@ Philip went down to the city of Samaria and proclaimed to them the Christ. ^0805
 
 And the crowds with one accord paid attention to what was being said by Philip when they heard him and saw the signs that he did. ^0806
 
-For unclean spirits, crying out with a loud voice, came out of many who had them, and many who were paralyzed or lame were healed. ^0807
+For unclean spirits came out of many who were possessed, crying with a loud voice, and many who were paralyzed or lame were healed. ^0807
 
 So there was much joy in that city. ^0808
 
@@ -554,7 +545,7 @@ for he had not yet fallen on any of them, but they had only been baptized in the
 
 Then they laid their hands on them and they received the Holy Spirit. ^0817
 
-Now when Simon saw that the Spirit was given through the laying on of the apostles ’ hands, he offered them money, ^0818
+Now when Simon saw that the Spirit was given through the laying on of the apostles' hands, he offered them money, ^0818
 
 saying, Give me this power also, so that anyone on whom I lay my hands may receive the Holy Spirit. ^0819
 
@@ -582,7 +573,7 @@ So Philip ran to him and heard him reading Isaiah the prophet and asked, Do you 
 
 And he said, How can I, unless someone guides me? And he invited Philip to come up and sit with him. ^0831
 
-Now the passage of the Scripture that he was reading was this : Like a sheep he was led to the slaughter and like a lamb before its shearer is silent, so he opens not his mouth. ^0832
+Now the passage of the Scripture that he was reading was this: Like a sheep he was led to the slaughter and like a lamb before its shearer is silent, so he opens not his mouth. ^0832
 
 In his humiliation justice was denied him. Who can describe his generation? For his life is taken away from the earth. ^0833
 
@@ -592,7 +583,7 @@ Then Philip opened his mouth, and beginning with this Scripture he told him the 
 
 And as they were going along the road they came to some water, and the eunuch said, See, here is water! What prevents me from being baptized? ^0836
 
-[And Philip said, “If you believe with all your heart, you may.” And he replied, “I believe that Jesus Christ is the Son of God.”] ^0837
+⟨Philip said, “If you believe with all your heart, you may.” The eunuch answered, “I believe that Jesus Christ is the Son of God.”⟩ ^0837
 
 And he commanded the chariot to stop, and they both went down into the water, Philip and the eunuch, and he baptized him. ^0838
 
@@ -601,12 +592,11 @@ And when they came up out of the water, the Spirit of the Lord carried Philip aw
 But Philip found himself at Azotus, and as he passed through he preached the gospel to all the towns until he came to Caesarea. ^0840
 
 
-
 But Saul, still breathing threats and murder against the disciples of the Lord, went to the high priest ^0901
 
 and asked him for letters to the synagogues at Damascus, so that if he found any belonging to the Way, men or women, he might bring them bound to Jerusalem. ^0902
 
-Now as he went on his way, he approached Damascus, and suddenly a light from heaven shone around him. ^0903
+Now as he went on his way, he approached Damascus, and suddenly a light from heaven flashed around him. ^0903
 
 And falling to the ground he heard a voice saying to him, Saul, Saul, why are you persecuting me? ^0904
 
@@ -638,7 +628,7 @@ So Ananias departed and entered the house. And laying his hands on him he said, 
 
 And immediately something like scales fell from his eyes, and he regained his sight. Then he rose and was baptized; ^0918
 
-and taking food, he was strengthened. For some days he was with the disciples at Damascus. ^0919
+and taking food, he was strengthened.For some days he was with the disciples at Damascus. ^0919
 
 And immediately he proclaimed Jesus in the synagogues, saying, He is the Son of God. ^0920
 
@@ -689,7 +679,6 @@ And it became known throughout all Joppa, and many believed in the Lord. ^0942
 And he stayed in Joppa for many days with one Simon, a tanner. ^0943
 
 
-
 At Caesarea there was a man named Cornelius, a centurion of what was known as the Italian Cohort, ^1001
 
 a devout man who feared God with all his household, gave alms generously to the people, and prayed continually to God. ^1002
@@ -700,7 +689,7 @@ And he stared at him in terror and said, What is it, Lord? And he said to him, Y
 
 And now send men to Joppa and bring one Simon who is called Peter. ^1005
 
-He is lodging with one Simon, a tanner, whose house is by the sea. ^1006
+He is lodging with one Simon, a tanner, whose house is by the seaside. ^1006
 
 When the angel who spoke to him had departed, he called two of his servants and a devout soldier from among those who attended him, ^1007
 
@@ -714,7 +703,7 @@ and saw the heavens opened and something like a great sheet descending, being le
 
 In it were all kinds of animals and reptiles and birds of the air. ^1012
 
-And there came a voice to him : Rise, Peter; kill and eat. ^1013
+And there came a voice to him: Rise, Peter; kill and eat. ^1013
 
 But Peter said, By no means, Lord; for I have never eaten anything that is common or unclean. ^1014
 
@@ -722,7 +711,7 @@ And the voice came to him again a second time, What God has made clean, do not c
 
 This happened three times, and the thing was taken up at once to heaven. ^1016
 
-Now while Peter was inwardly perplexed as to what the vision that he had seen might mean, behold, the men who were sent by Cornelius, having made inquiry for Simon’s house, stood at the gate ^1017
+Now while Peter was inwardly perplexed as to what the vision that he had seen might mean, behold, the men who were sent by Cornelius, having made inquiry for Simon's house, stood at the gate ^1017
 
 and called out to ask whether Simon who was called Peter was lodging there. ^1018
 
@@ -732,9 +721,9 @@ Rise and go down and accompany them without hesitation, for I have sent them. ^1
 
 And Peter went down to the men and said, I am the one you are looking for. What is the reason for your coming? ^1021
 
-And they said, Cornelius, a centurion, an upright and God - fearing man, who is well spoken of by the whole Jewish nation, was directed by a holy angel to send for you to come to his house and to hear what you have to say. ^1022
+And they said, Cornelius, a centurion, an upright and God-fearing man, who is well spoken of by the whole Jewish nation, was directed by a holy angel to send for you to come to his house and to hear what you have to say. ^1022
 
-So he invited them in to be his guests. The next day he rose and went away with them, and some of the brothers from Joppa accompanied him. ^1023
+So he invited them in to be his guests.The next day he rose and went away with them, and some of the brothers from Joppa accompanied him. ^1023
 
 And on the following day they entered Caesarea. Cornelius was expecting them and had called together his relatives and close friends. ^1024
 
@@ -750,19 +739,19 @@ So when I was sent for, I came without objection. I ask then why you sent for me
 
 And Cornelius said, Four days ago, about this hour, I was praying in my house at the ninth hour, and behold, a man stood before me in bright clothing ^1030
 
-and said, Cornelius, your prayer has been heard and your alms have been remembered before God. ^1031
+and said, 'Cornelius, your prayer has been heard and your alms have been remembered before God. ^1031
 
-Send therefore to Joppa and ask for Simon who is called Peter. He is lodging in the house of Simon, a tanner, by the sea. ^1032
+Send therefore to Joppa and ask for Simon who is called Peter. He is lodging in the house of Simon, a tanner, by the sea.' ^1032
 
 So I sent for you at once, and you have been kind enough to come. Now therefore we are all here in the presence of God to hear all that you have been commanded by the Lord. ^1033
 
-So Peter opened his mouth and said : Truly I understand that God shows no partiality, ^1034
+So Peter opened his mouth and said: Truly I understand that God shows no partiality, ^1034
 
 but in every nation anyone who fears him and does what is right is acceptable to him. ^1035
 
-As for the word that he sent to Israel, preaching good news of peace through Jesus Christ ( he is Lord of all ), ^1036
+As for the word that he sent to Israel, preaching good news of peace through Jesus Christ (he is Lord of all), ^1036
 
-you yourselves know what happened throughout all Judea, beginning from Galilee after the baptism that John proclaimed : ^1037
+you yourselves know what happened throughout all Judea, beginning from Galilee after the baptism that John proclaimed: ^1037
 
 how God anointed Jesus of Nazareth with the Holy Spirit and with power. He went about doing good and healing all who were oppressed by the devil, for God was with him. ^1038
 
@@ -787,40 +776,39 @@ Can anyone withhold water for baptizing these people, who have received the Holy
 And he commanded them to be baptized in the name of Jesus Christ. Then they asked him to remain for some days. ^1048
 
 
-
 Now the apostles and the brothers who were throughout Judea heard that the Gentiles also had received the word of God. ^1101
 
 So when Peter went up to Jerusalem, the circumcision party criticized him, saying, ^1102
 
 You went to uncircumcised men and ate with them. ^1103
 
-But Peter began and explained it to them in order : ^1104
+But Peter began and explained it to them in order: ^1104
 
 I was in the city of Joppa praying, and in a trance I saw a vision, something like a great sheet descending, being let down from heaven by its four corners, and it came down to me. ^1105
 
 Looking at it closely, I observed animals and beasts of prey and reptiles and birds of the air. ^1106
 
-And I heard a voice saying to me, Rise, Peter; kill and eat. ^1107
+And I heard a voice saying to me, 'Rise, Peter; kill and eat.' ^1107
 
-But I said, By no means, Lord; for nothing common or unclean has ever entered my mouth. ^1108
+But I said, 'By no means, Lord; for nothing common or unclean has ever entered my mouth.' ^1108
 
-But the voice answered a second time from heaven, What God has made clean, do not call common. ^1109
+But the voice answered a second time from heaven, 'What God has made clean, do not call common.' ^1109
 
 This happened three times, and all was drawn up again into heaven. ^1110
 
 And behold, at that very moment three men arrived at the house in which we were, sent to me from Caesarea. ^1111
 
-And the Spirit told me to go with them, making no distinction. These six brothers also accompanied me, and we entered the man’s house. ^1112
+And the Spirit told me to go with them, making no distinction. These six brothers also accompanied me, and we entered the man's house. ^1112
 
-And he told us how he had seen the angel stand in his house and say, Send to Joppa and bring Simon who is called Peter; ^1113
+And he told us how he had seen the angel stand in his house and say, 'Send to Joppa and bring Simon who is called Peter; ^1113
 
-he will declare to you a message by which you will be saved, you and all your household. ^1114
+he will declare to you a message by which you will be saved, you and all your household.' ^1114
 
 As I began to speak, the Holy Spirit fell on them just as on us at the beginning. ^1115
 
-And I remembered the word of the Lord, how he said, John baptized with water, but you will be baptized with the Holy Spirit. ^1116
+And I remembered the word of the Lord, how he said, 'John baptized with water, but you will be baptized with the Holy Spirit.' ^1116
 
-If then God gave the same gift to them as he gave to us when we believed in the Lord Jesus Christ, who was I that I could stand in God’s way? ^1117
+If then God gave the same gift to them as he gave to us when we believed in the Lord Jesus Christ, who was I that I could stand in God's way? ^1117
 
 When they heard these things they fell silent. And they glorified God, saying, Then to the Gentiles also God has granted repentance that leads to life. ^1118
 
@@ -842,12 +830,11 @@ and when he had found him, he brought him to Antioch. For a whole year they met 
 
 Now in these days prophets came down from Jerusalem to Antioch. ^1127
 
-And one of them named Agabus stood up and foretold by the Spirit that there would be a great famine over all the world ( this took place in the days of Claudius ). ^1128
+And one of them named Agabus stood up and foretold by the Spirit that there would be a great famine over all the world (this took place in the days of Claudius). ^1128
 
-So the disciples determined, every one according to his ability, to send relief to the brothers living in Judea. ^1129
+So the disciples determined, everyone according to his ability, to send relief to the brothers living in Judea. ^1129
 
 And they did so, sending it to the elders by the hand of Barnabas and Saul. ^1130
-
 
 
 About that time Herod the king laid violent hands on some who belonged to the church. ^1201
@@ -876,7 +863,7 @@ When he realized this, he went to the house of Mary, the mother of John whose ot
 
 And when he knocked at the door of the gateway, a servant girl named Rhoda came to answer. ^1213
 
-Recognizing Peter’s voice, in her joy she did not open the gate but ran in and reported that Peter was standing at the gate. ^1214
+Recognizing Peter's voice, in her joy she did not open the gate but ran in and reported that Peter was standing at the gate. ^1214
 
 They said to her, You are out of your mind. But she kept insisting that it was so, and they kept saying, It is his angel! ^1215
 
@@ -888,7 +875,7 @@ Now when day came, there was no little disturbance among the soldiers over what 
 
 And after Herod searched for him and did not find him, he examined the sentries and ordered that they should be put to death. Then he went down from Judea to Caesarea and spent time there. ^1219
 
-Now Herod was angry with the people of Tyre and Sidon, and they came to him with one accord, and having persuaded Blastus, the king’s chamberlain, they asked for peace, because their country depended on the king’s country for food. ^1220
+Now Herod was angry with the people of Tyre and Sidon, and they came to him with one accord, and having persuaded Blastus, the king's chamberlain, they asked for peace, because their country depended on the king's country for food. ^1220
 
 On an appointed day Herod put on his royal robes, took his seat upon the throne, and delivered an oration to them. ^1221
 
@@ -901,8 +888,7 @@ But the word of God increased and multiplied. ^1224
 And Barnabas and Saul returned from Jerusalem when they had completed their service, bringing with them John, whose other name was Mark. ^1225
 
 
-
-Now there were in the church at Antioch prophets and teachers, Barnabas, Simeon who was called Niger, Lucius of Cyrene, Manaen a lifelong friend of Herod the tetrarch, and Saul. ^1301
+Now there were in the church at Antioch prophets and teachers, Barnabas, Simeon who was called Niger, Lucius of Cyrene, Manaen a member of the court of Herod the tetrarch, and Saul. ^1301
 
 While they were worshiping the Lord and fasting, the Holy Spirit said, Set apart for me Barnabas and Saul for the work to which I have called them. ^1302
 
@@ -916,7 +902,7 @@ When they had gone through the whole island as far as Paphos, they came upon a c
 
 He was with the proconsul, Sergius Paulus, a man of intelligence, who summoned Barnabas and Saul and sought to hear the word of God. ^1307
 
-But Elymas the magician ( for that is the meaning of his name ) opposed them, seeking to turn the proconsul away from the faith. ^1308
+But Elymas the magician (for that is the meaning of his name) opposed them, seeking to turn the proconsul away from the faith. ^1308
 
 But Saul, who was also called Paul, filled with the Holy Spirit, looked intently at him ^1309
 
@@ -930,9 +916,9 @@ Now Paul and his companions set sail from Paphos and came to Perga in Pamphylia.
 
 but they went on from Perga and came to Antioch in Pisidia. And on the Sabbath day they went into the synagogue and sat down. ^1314
 
-After the reading from the Law and the Prophets, the rulers of the synagogue sent a message to them, saying, Brothers, if you have any word of encouragement for the people, say it. ^1315
+After the reading from the Law and the Prophets, the rulers of the synagogue sent a message to them, saying, Brothers, if you have any word of exhortation for the people, say it. ^1315
 
-So Paul stood up, and motioning with his hand said : Men of Israel and you who fear God, listen. ^1316
+So Paul stood up, and motioning with his hand said:Men of Israel and you who fear God, listen. ^1316
 
 The God of this people Israel chose our fathers and made the people great during their stay in the land of Egypt, and with uplifted arm he led them out of it. ^1317
 
@@ -944,13 +930,13 @@ All this took about 450 years. And after that he gave them judges until Samuel t
 
 Then they asked for a king, and God gave them Saul the son of Kish, a man of the tribe of Benjamin, for forty years. ^1321
 
-And when he had removed him, he raised up David to be their king, of whom he testified and said, I have found in David the son of Jesse a man after my heart, who will do all my will. ^1322
+And when he had removed him, he raised up David to be their king, of whom he testified and said, 'I have found in David the son of Jesse a man after my heart, who will do all my will.' ^1322
 
-Of this man’s offspring God has brought to Israel a Savior, Jesus, as he promised. ^1323
+Of this man's offspring God has brought to Israel a Savior, Jesus, as he promised. ^1323
 
 Before his coming, John had proclaimed a baptism of repentance to all the people of Israel. ^1324
 
-And as John was finishing his course, he said, What do you suppose that I am? I am not he. No, but behold, after me one is coming, the sandals of whose feet I am not worthy to untie. ^1325
+And as John was finishing his course, he said, 'What do you suppose that I am? I am not he. No, but behold, after me one is coming, the sandals of whose feet I am not worthy to untie.' ^1325
 
 Brothers, sons of the family of Abraham, and those among you who fear God, to us has been sent the message of this salvation. ^1326
 
@@ -966,23 +952,23 @@ and for many days he appeared to those who had come up with him from Galilee to 
 
 And we bring you the good news that what God promised to the fathers, ^1332
 
-this he has fulfilled to us their children by raising Jesus, as also it is written in the second Psalm, You are my Son, today I have begotten you. ^1333
+this he has fulfilled to us their children by raising Jesus, as also it is written in the second Psalm, 'You are my Son, today I have begotten you.' ^1333
 
-And as for the fact that he raised him from the dead, , no more to return to corruption, he has spoken in this way, I will give you the holy and sure blessings of David. ^1334
+And as for the fact that he raised him from the dead, no more to return to corruption, he has spoken in this way, 'I will give you the holy and sure blessings of David.' ^1334
 
-Therefore he says also in another psalm, You will not let your Holy One see corruption. ^1335
+Therefore he says also in another psalm, 'You will not let your Holy One see corruption.' ^1335
 
 For David, after he had served the purpose of God in his own generation, fell asleep and was laid with his fathers and saw corruption, ^1336
 
 but he whom God raised up did not see corruption. ^1337
 
-Let it be known to you therefore, brothers, that through this man forgiveness of sins is proclaimed to you, ^1338
+Let it be known to you therefore, brothers, that through this man forgiveness of sins is proclaimed to you, and by him everyone who believes is freed from everything ^1338
 
-and by him everyone who believes is freed from everything from which you could not be freed by the law of Moses. ^1339
+from which you could not be freed by the law of Moses. ^1339
 
-Beware, therefore, lest what is said in the Prophets should come about : ^1340
+Beware, therefore, lest what is said in the Prophets should come about: ^1340
 
-Look, you scoffers, be astounded and perish; for I am doing a work in your days, a work that you will not believe, even if one tells it to you. ^1341
+'Look, you scoffers, be astounded and perish; for I am doing a work in your days, a work that you will not believe, even if one tells it to you.' ^1341
 
 As they went out, the people begged that these things might be told them the next Sabbath. ^1342
 
@@ -994,7 +980,7 @@ But when the Jews saw the crowds, they were filled with jealousy and began to co
 
 And Paul and Barnabas spoke out boldly, saying, It was necessary that the word of God be spoken first to you. Since you thrust it aside and judge yourselves unworthy of eternal life, behold, we are turning to the Gentiles. ^1346
 
-For so the Lord has commanded us, saying, I have made you a light for the Gentiles, that you may bring salvation to the ends of the earth. ^1347
+For so the Lord has commanded us, saying, 'I have made you a light for the Gentiles, that you may bring salvation to the ends of the earth.' ^1347
 
 And when the Gentiles heard this, they began rejoicing and glorifying the word of the Lord, and as many as were appointed to eternal life believed. ^1348
 
@@ -1005,7 +991,6 @@ But the Jews incited the devout women of high standing and the leading men of th
 But they shook off the dust from their feet against them and went to Iconium. ^1351
 
 And the disciples were filled with joy and with the Holy Spirit. ^1352
-
 
 
 Now at Iconium they entered together into the Jewish synagogue and spoke in such a way that a great number of both Jews and Greeks believed. ^1401
@@ -1065,7 +1050,6 @@ And when they arrived and gathered the church together, they declared all that G
 And they remained no little time with the disciples. ^1428
 
 
-
 But some men came down from Judea and were teaching the brothers, Unless you are circumcised according to the custom of Moses, you cannot be saved. ^1501
 
 And after Paul and Barnabas had no small dissension and debate with them, Paul and Barnabas and some of the others were appointed to go up to Jerusalem to the apostles and the elders about this question. ^1502
@@ -1096,11 +1080,11 @@ Simeon has related how God first visited the Gentiles, to take from them a peopl
 
 And with this the words of the prophets agree, just as it is written, ^1515
 
-After this I will return, and I will rebuild the tent of David that has fallen; I will rebuild its ruins, and I will restore it, ^1516
+'After this I will return, and I will rebuild the tent of David that has fallen; I will rebuild its ruins, and I will restore it, ^1516
 
 that the remnant of mankind may seek the Lord, and all the Gentiles who are called by my name, says the Lord, who makes these things ^1517
 
-known from of old. ^1518
+known from of old.' ^1518
 
 Therefore my judgment is that we should not trouble those of the Gentiles who turn to God, ^1519
 
@@ -1110,17 +1094,17 @@ For from ancient generations Moses has had in every city those who proclaim him,
 
 Then it seemed good to the apostles and the elders, with the whole church, to choose men from among them and send them to Antioch with Paul and Barnabas. They sent Judas called Barsabbas, and Silas, leading men among the brothers, ^1522
 
-with the following letter : The brothers, both the apostles and the elders, to the brothers who are of the Gentiles in Antioch and Syria and Cilicia, greetings. ^1523
+with the following letter: The brothers, both the apostles and the elders, to the brothers who are of the Gentiles in Antioch and Syria and Cilicia, greetings. ^1523
 
 Since we have heard that some persons have gone out from us and troubled you with words, unsettling your minds, although we gave them no instructions, ^1524
 
 it has seemed good to us, having come to one accord, to choose men and send them to you with our beloved Barnabas and Paul, ^1525
 
-men who have risked their lives for the name of our Lord Jesus Christ. ^1526
+men who have risked their lives for the sake of our Lord Jesus Christ. ^1526
 
 We have therefore sent Judas and Silas, who themselves will tell you the same things by word of mouth. ^1527
 
-For it has seemed good to the Holy Spirit and to us to lay on you no greater burden than these requirements : ^1528
+For it has seemed good to the Holy Spirit and to us to lay on you no greater burden than these requirements: ^1528
 
 that you abstain from what has been sacrificed to idols, and from blood, and from what has been strangled, and from sexual immorality. If you keep yourselves from these, you will do well. Farewell. ^1529
 
@@ -1132,7 +1116,7 @@ And Judas and Silas, who were themselves prophets, encouraged and strengthened t
 
 And after they had spent some time, they were sent off in peace by the brothers to those who had sent them. ^1533
 
-And after they had spent some time, they were sent off in peace by the brothers to those who had sent them. ^1534
+See Footnote ^1534
 
 But Paul and Barnabas remained in Antioch, teaching and preaching the word of the Lord, with many others also. ^1535
 
@@ -1147,7 +1131,6 @@ And there arose a sharp disagreement, so that they separated from each other. Ba
 but Paul chose Silas and departed, having been commended by the brothers to the grace of the Lord. ^1540
 
 And he went through Syria and Cilicia, strengthening the churches. ^1541
-
 
 
 Paul came also to Derbe and to Lystra. A disciple was there, named Timothy, the son of a Jewish woman who was a believer, but his father was a Greek. ^1601
@@ -1166,7 +1149,7 @@ And when they had come up to Mysia, they attempted to go into Bithynia, but the 
 
 So, passing by Mysia, they went down to Troas. ^1608
 
-And a vision appeared to Paul in the night : a man of Macedonia was standing there, urging him and saying, Come over to Macedonia and help us. ^1609
+And a vision appeared to Paul in the night: a man of Macedonia was standing there, urging him and saying, Come over to Macedonia and help us. ^1609
 
 And when Paul had seen the vision, immediately we sought to go on into Macedonia, concluding that God had called us to preach the gospel to them. ^1610
 
@@ -1200,7 +1183,7 @@ Having received this order, he put them into the inner prison and fastened their
 
 About midnight Paul and Silas were praying and singing hymns to God, and the prisoners were listening to them, ^1625
 
-and suddenly there was a great earthquake, so that the foundations of the prison were shaken. And immediately all the doors were opened, and everyone’s bonds were unfastened. ^1626
+and suddenly there was a great earthquake, so that the foundations of the prison were shaken. And immediately all the doors were opened, and everyone's bonds were unfastened. ^1626
 
 When the jailer woke and saw that the prison doors were open, he drew his sword and was about to kill himself, supposing that the prisoners had escaped. ^1627
 
@@ -1229,7 +1212,6 @@ The police reported these words to the magistrates, and they were afraid when th
 So they came and apologized to them. And they took them out and asked them to leave the city. ^1639
 
 So they went out of the prison and visited Lydia. And when they had seen the brothers, they encouraged them and departed. ^1640
-
 
 
 Now when they had passed through Amphipolis and Apollonia, they came to Thessalonica, where there was a synagogue of the Jews. ^1701
@@ -1266,17 +1248,17 @@ Now while Paul was waiting for them at Athens, his spirit was provoked within hi
 
 So he reasoned in the synagogue with the Jews and the devout persons, and in the marketplace every day with those who happened to be there. ^1717
 
-Some of the Epicurean and Stoic philosophers also conversed with him. And some said, What does this babbler wish to say? Others said, He seems to be a preacher of foreign divinities — because he was preaching Jesus and the resurrection. ^1718
+Some of the Epicurean and Stoic philosophers also conversed with him. And some said, What does this babbler wish to say? Others said, He seems to be a preacher of foreign divinities--because he was preaching Jesus and the resurrection. ^1718
 
-And they took him and brought him to the Areopagus, saying, May we know what this new teaching is that you are presenting? ^1719
+And they took hold of him and brought him to the Areopagus, saying, May we know what this new teaching is that you are presenting? ^1719
 
 For you bring some strange things to our ears. We wish to know therefore what these things mean. ^1720
 
 Now all the Athenians and the foreigners who lived there would spend their time in nothing except telling or hearing something new. ^1721
 
-So Paul, standing in the midst of the Areopagus, said : Men of Athens, I perceive that in every way you are very religious. ^1722
+So Paul, standing in the midst of the Areopagus, said: Men of Athens, I perceive that in every way you are very religious. ^1722
 
-For as I passed along and observed the objects of your worship, I found also an altar with this inscription, To the unknown god. What therefore you worship as unknown, this I proclaim to you. ^1723
+For as I passed along and observed the objects of your worship, I found also an altar with this inscription, 'To the unknown god.' What therefore you worship as unknown, this I proclaim to you. ^1723
 
 The God who made the world and everything in it, being Lord of heaven and earth, does not live in temples made by man, ^1724
 
@@ -1284,11 +1266,11 @@ nor is he served by human hands, as though he needed anything, since he himself 
 
 And he made from one man every nation of mankind to live on all the face of the earth, having determined allotted periods and the boundaries of their dwelling place, ^1726
 
-that they should seek God, and perhaps feel their way toward him and find him. Yet he is actually not far from each one of us, ^1727
+that they should seek God, in the hope that they might feel their way toward him and find him. Yet he is actually not far from each one of us, ^1727
 
-for In him we live and move and have our being; as even some of your own poets have said, For we are indeed his offspring. ^1728
+for 'In him we live and move and have our being'; as even some of your own poets have said, 'For we are indeed his offspring.' ^1728
 
-Being then God’s offspring, we ought not to think that the divine being is like gold or silver or stone, an image formed by the art and imagination of man. ^1729
+Being then God's offspring, we ought not to think that the divine being is like gold or silver or stone, an image formed by the art and imagination of man. ^1729
 
 The times of ignorance God overlooked, but now he commands all people everywhere to repent, ^1730
 
@@ -1299,7 +1281,6 @@ Now when they heard of the resurrection of the dead, some mocked. But others sai
 So Paul went out from their midst. ^1733
 
 But some men joined him and believed, among whom also were Dionysius the Areopagite and a woman named Damaris and others with them. ^1734
-
 
 
 After this Paul left Athens and went to Corinth. ^1801
@@ -1352,19 +1333,18 @@ Now a Jew named Apollos, a native of Alexandria, came to Ephesus. He was an eloq
 
 He had been instructed in the way of the Lord. And being fervent in spirit, he spoke and taught accurately the things concerning Jesus, though he knew only the baptism of John. ^1825
 
-He began to speak boldly in the synagogue, but when Priscilla and Aquila heard him, they took him aside and explained to him the way of God more accurately. ^1826
+He began to speak boldly in the synagogue, but when Priscilla and Aquila heard him, they took him and explained to him the way of God more accurately. ^1826
 
 And when he wished to cross to Achaia, the brothers encouraged him and wrote to the disciples to welcome him. When he arrived, he greatly helped those who through grace had believed, ^1827
 
 for he powerfully refuted the Jews in public, showing by the Scriptures that the Christ was Jesus. ^1828
 
 
-
 And it happened that while Apollos was at Corinth, Paul passed through the inland country and came to Ephesus. There he found some disciples. ^1901
 
 And he said to them, Did you receive the Holy Spirit when you believed? And they said, No, we have not even heard that there is a Holy Spirit. ^1902
 
-And he said, Into what then were you baptized? They said, Into John’s baptism. ^1903
+And he said, Into what then were you baptized? They said, Into John's baptism. ^1903
 
 And Paul said, John baptized with the baptism of repentance, telling the people to believe in the one who was to come after him, that is, Jesus. ^1904
 
@@ -1384,7 +1364,7 @@ And God was doing extraordinary miracles by the hands of Paul, ^1911
 
 so that even handkerchiefs or aprons that had touched his skin were carried away to the sick, and their diseases left them and the evil spirits came out of them. ^1912
 
-Then some of the itinerant Jewish exorcists undertook to invoke the name of the Lord Jesus over those who had evil spirits, saying, I adjure you by the Jesus whom Paul proclaims. ^1913
+Then some of the itinerant Jewish exorcists undertook to invoke the name of the Lord Jesus over those who had evil spirits, saying, I adjure you by the Jesus, whom Paul proclaims. ^1913
 
 Seven sons of a Jewish high priest named Sceva were doing this. ^1914
 
@@ -1416,7 +1396,7 @@ And there is danger not only that this trade of ours may come into disrepute but
 
 When they heard this they were enraged and were crying out, Great is Artemis of the Ephesians! ^1928
 
-So the city was filled with the confusion, and they rushed together into the theater, dragging with them Gaius and Aristarchus, Macedonians who were Paul’s companions in travel. ^1929
+So the city was filled with the confusion, and they rushed together into the theater, dragging with them Gaius and Aristarchus, Macedonians who were Paul's companions in travel. ^1929
 
 But when Paul wished to go in among the crowd, the disciples would not let him. ^1930
 
@@ -1443,14 +1423,13 @@ For we really are in danger of being charged with rioting today, since there is 
 And when he had said these things, he dismissed the assembly. ^1941
 
 
-
 After the uproar ceased, Paul sent for the disciples, and after encouraging them, he said farewell and departed for Macedonia. ^2001
 
 When he had gone through those regions and had given them much encouragement, he came to Greece. ^2002
 
 There he spent three months, and when a plot was made against him by the Jews as he was about to set sail for Syria, he decided to return through Macedonia. ^2003
 
-Sopater the Berean, son of Pyrrhus, accompanied him; and of the Thessalonians, Aristarchus and Secundus; and Gaius of Derbe, and Timothy; and the Asians, Tychicus and Trophimus. ^2004
+Sopater of Berea, the son of Pyrrhus from Berea, accompanied him; and of the Thessalonians, Aristarchus and Secundus; and Gaius of Derbe, and Timothy; and the Asians, Tychicus and Trophimus. ^2004
 
 These went on ahead and were waiting for us at Troas, ^2005
 
@@ -1478,7 +1457,7 @@ For Paul had decided to sail past Ephesus, so that he might not have to spend ti
 
 Now from Miletus he sent to Ephesus and called the elders of the church to come to him. ^2017
 
-And when they came to him, he said to them : You yourselves know how I lived among you the whole time from the first day that I set foot in Asia, ^2018
+And when they came to him, he said to them:You yourselves know how I lived among you the whole time from the first day that I set foot in Asia, ^2018
 
 serving the Lord with all humility and with tears and with trials that happened to me through the plots of the Jews; ^2019
 
@@ -1494,7 +1473,7 @@ But I do not account my life of any value nor as precious to myself, if only I m
 
 And now, behold, I know that none of you among whom I have gone about proclaiming the kingdom will see my face again. ^2025
 
-Therefore I testify to you this day that I am innocent of the blood of all, ^2026
+Therefore I testify to you this day that I am innocent of the blood of all of you, ^2026
 
 for I did not shrink from declaring to you the whole counsel of God. ^2027
 
@@ -1504,22 +1483,21 @@ I know that after my departure fierce wolves will come in among you, not sparing
 
 and from among your own selves will arise men speaking twisted things, to draw away the disciples after them. ^2030
 
-Therefore be alert, remembering that for three years I did not cease night or day to admonish every one with tears. ^2031
+Therefore be alert, remembering that for three years I did not cease night or day to admonish everyone with tears. ^2031
 
 And now I commend you to God and to the word of his grace, which is able to build you up and to give you the inheritance among all those who are sanctified. ^2032
 
-I coveted no one’s silver or gold or apparel. ^2033
+I coveted no one's silver or gold or apparel. ^2033
 
 You yourselves know that these hands ministered to my necessities and to those who were with me. ^2034
 
-In all things I have shown you that by working hard in this way we must help the weak and remember the words of the Lord Jesus, how he himself said, It is more blessed to give than to receive. ^2035
+In all things I have shown you that by working hard in this way we must help the weak and remember the words of the Lord Jesus, how he himself said, 'It is more blessed to give than to receive.' ^2035
 
 And when he had said these things, he knelt down and prayed with them all. ^2036
 
 And there was much weeping on the part of all; they embraced Paul and kissed him, ^2037
 
 being sorrowful most of all because of the word he had spoken, that they would not see his face again. And they accompanied him to the ship. ^2038
-
 
 
 And when we had parted from them and set sail, we came by a straight course to Cos, and the next day to Rhodes, and from there to Patara. ^2101
@@ -1542,7 +1520,7 @@ He had four unmarried daughters, who prophesied. ^2109
 
 While we were staying for many days, a prophet named Agabus came down from Judea. ^2110
 
-And coming to us, he took Paul’s belt and bound his own feet and hands and said, Thus says the Holy Spirit, This is how the Jews at Jerusalem will bind the man who owns this belt and deliver him into the hands of the Gentiles. ^2111
+And coming to us, he took Paul's belt and bound his own feet and hands and said, Thus says the Holy Spirit, 'This is how the Jews at Jerusalem will bind the man who owns this belt and deliver him into the hands of the Gentiles.' ^2111
 
 When we heard this, we and the people there urged him not to go up to Jerusalem. ^2112
 
@@ -1600,13 +1578,12 @@ Are you not the Egyptian, then, who recently stirred up a revolt and led the fou
 
 Paul replied, I am a Jew, from Tarsus in Cilicia, a citizen of no obscure city. I beg you, permit me to speak to the people. ^2139
 
-And when he had given him permission, Paul, standing on the steps, motioned with his hand to the people. And when there was a great hush, he addressed them in the Hebrew language, saying : ^2140
-
+And when he had given him permission, Paul, standing on the steps, motioned with his hand to the people. And when there was a great hush, he addressed them in the Hebrew language, saying: ^2140
 
 
 Brothers and fathers, hear the defense that I now make before you. ^2201
 
-And when they heard that he was addressing them in the Hebrew language, they became even more quiet. And he said : ^2202
+And when they heard that he was addressing them in the Hebrew language, they became even more quiet. And he said: ^2202
 
 I am a Jew, born in Tarsus in Cilicia, but brought up in this city, educated at the feet of Gamaliel according to the strict manner of the law of our fathers, being zealous for God as all of you are this day. ^2203
 
@@ -1616,35 +1593,35 @@ as the high priest and the whole council of elders can bear me witness. From the
 
 As I was on my way and drew near to Damascus, about noon a great light from heaven suddenly shone around me. ^2206
 
-And I fell to the ground and heard a voice saying to me, Saul, Saul, why are you persecuting me? ^2207
+And I fell to the ground and heard a voice saying to me, 'Saul, Saul, why are you persecuting me?' ^2207
 
-And I answered, Who are you, Lord? And he said to me, I am Jesus of Nazareth, whom you are persecuting. ^2208
+And I answered, 'Who are you, Lord?' And he said to me, 'I am Jesus of Nazareth, whom you are persecuting.' ^2208
 
 Now those who were with me saw the light but did not understand the voice of the one who was speaking to me. ^2209
 
-And I said, What shall I do, Lord? And the Lord said to me, Rise, and go into Damascus, and there you will be told all that is appointed for you to do. ^2210
+And I said, 'What shall I do, Lord?' And the Lord said to me, 'Rise, and go into Damascus, and there you will be told all that is appointed for you to do.' ^2210
 
 And since I could not see because of the brightness of that light, I was led by the hand by those who were with me, and came into Damascus. ^2211
 
 And one Ananias, a devout man according to the law, well spoken of by all the Jews who lived there, ^2212
 
-came to me, and standing by me said to me, Brother Saul, receive your sight. And at that very hour I received my sight and saw him. ^2213
+came to me, and standing by me said to me, 'Brother Saul, receive your sight.' And at that very hour I received my sight and saw him. ^2213
 
-And he said, The God of our fathers appointed you to know his will, to see the Righteous One and to hear a voice from his mouth; ^2214
+And he said, 'The God of our fathers appointed you to know his will, to see the Righteous One and to hear a voice from his mouth; ^2214
 
 for you will be a witness for him to everyone of what you have seen and heard. ^2215
 
-And now why do you wait? Rise and be baptized and wash away your sins, calling on his name. ^2216
+And now why do you wait? Rise and be baptized and wash away your sins, calling on his name.' ^2216
 
 When I had returned to Jerusalem and was praying in the temple, I fell into a trance ^2217
 
-and saw him saying to me, Make haste and get out of Jerusalem quickly, because they will not accept your testimony about me. ^2218
+and saw him saying to me, 'Make haste and get out of Jerusalem quickly, because they will not accept your testimony about me.' ^2218
 
-And I said, Lord, they themselves know that in one synagogue after another I imprisoned and beat those who believed in you. ^2219
+And I said, 'Lord, they themselves know that in one synagogue after another I imprisoned and beat those who believed in you. ^2219
 
-And when the blood of Stephen your witness was being shed, I myself was standing by and approving and watching over the garments of those who killed him. ^2220
+And when the blood of Stephen your witness was being shed, I myself was standing by and approving and watching over the garments of those who killed him.' ^2220
 
-And he said to me, Go, for I will send you far away to the Gentiles. ^2221
+And he said to me, 'Go, for I will send you far away to the Gentiles.' ^2221
 
 Up to this word they listened to him. Then they raised their voices and said, Away with such a fellow from the earth! For he should not be allowed to live. ^2222
 
@@ -1665,16 +1642,15 @@ So those who were about to examine him withdrew from him immediately, and the tr
 But on the next day, desiring to know the real reason why he was being accused by the Jews, he unbound him and commanded the chief priests and all the council to meet, and he brought Paul down and set him before them. ^2230
 
 
-
 And looking intently at the council, Paul said, Brothers, I have lived my life before God in all good conscience up to this day. ^2301
 
 And the high priest Ananias commanded those who stood by him to strike him on the mouth. ^2302
 
 Then Paul said to him, God is going to strike you, you whitewashed wall! Are you sitting to judge me according to the law, and yet contrary to the law you order me to be struck? ^2303
 
-Those who stood by said, Would you revile God’s high priest? ^2304
+Those who stood by said, Would you revile God's high priest? ^2304
 
-And Paul said, I did not know, brothers, that he was the high priest, for it is written, You shall not speak evil of a ruler of your people. ^2305
+And Paul said, I did not know, brothers, that he was the high priest, for it is written, 'You shall not speak evil of a ruler of your people.' ^2305
 
 Now when Paul perceived that one part were Sadducees and the other Pharisees, he cried out in the council, Brothers, I am a Pharisee, a son of Pharisees. It is with respect to the hope and the resurrection of the dead that I am on trial. ^2306
 
@@ -1682,7 +1658,7 @@ And when he had said this, a dissension arose between the Pharisees and the Sadd
 
 For the Sadducees say that there is no resurrection, nor angel, nor spirit, but the Pharisees acknowledge them all. ^2308
 
-Then a great clamor arose, and some of the scribes of the Pharisees ’ party stood up and contended sharply, We find nothing wrong in this man. What if a spirit or an angel spoke to him? ^2309
+Then a great clamor arose, and some of the scribes of the Pharisees' party stood up and contended sharply, We find nothing wrong in this man. What if a spirit or an angel spoke to him? ^2309
 
 And when the dissension became violent, the tribune, afraid that Paul would be torn to pieces by them, commanded the soldiers to go down and take him away from among them by force and bring him into the barracks. ^2310
 
@@ -1696,7 +1672,7 @@ They went to the chief priests and elders and said, We have strictly bound ourse
 
 Now therefore you, along with the council, give notice to the tribune to bring him down to you, as though you were going to determine his case more exactly. And we are ready to kill him before he comes near. ^2315
 
-Now the son of Paul’s sister heard of their ambush, so he went and entered the barracks and told Paul. ^2316
+Now the son of Paul's sister heard of their ambush, so he went and entered the barracks and told Paul. ^2316
 
 Paul called one of the centurions and said, Take this young man to the tribune, for he has something to tell him. ^2317
 
@@ -1714,7 +1690,7 @@ Then he called two of the centurions and said, Get ready two hundred soldiers, w
 
 Also provide mounts for Paul to ride and bring him safely to Felix the governor. ^2324
 
-And he wrote a letter to this effect : ^2325
+And he wrote a letter to this effect: ^2325
 
 Claudius Lysias, to his Excellency the governor Felix, greetings. ^2326
 
@@ -1734,13 +1710,12 @@ When they had come to Caesarea and delivered the letter to the governor, they pr
 
 On reading the letter, he asked what province he was from. And when he learned that he was from Cilicia, ^2334
 
-he said, I will give you a hearing when your accusers arrive. And he commanded him to be guarded in Herod’s praetorium. ^2335
-
+he said, I will give you a hearing when your accusers arrive. And he commanded him to be guarded in Herod's praetorium. ^2335
 
 
 And after five days the high priest Ananias came down with some elders and a spokesman, one Tertullus. They laid before the governor their case against Paul. ^2401
 
-And when he had been summoned, Tertullus began to accuse him, saying : Since through you we enjoy much peace, and since by your foresight, most excellent Felix, reforms are being made for this nation, ^2402
+And when he had been summoned, Tertullus began to accuse him, saying:Since through you we enjoy much peace, and since by your foresight, most excellent Felix, reforms are being made for this nation, ^2402
 
 in every way and everywhere we accept this with all gratitude. ^2403
 
@@ -1750,13 +1725,13 @@ For we have found this man a plague, one who stirs up riots among all the Jews t
 
 He even tried to profane the temple, but we seized him. ^2406
 
-He even tried to profane the temple, but we seized him. ^2407
+See Footnote ^2407
 
 By examining him yourself you will be able to find out from him about everything of which we accuse him. ^2408
 
 The Jews also joined in the charge, affirming that all these things were so. ^2409
 
-And when the governor had nodded to him to speak, Paul replied : Knowing that for many years you have been a judge over this nation, I cheerfully make my defense. ^2410
+And when the governor had nodded to him to speak, Paul replied:Knowing that for many years you have been a judge over this nation, I cheerfully make my defense. ^2410
 
 You can verify that it is not more than twelve days since I went up to worship in Jerusalem, ^2411
 
@@ -1772,13 +1747,13 @@ So I always take pains to have a clear conscience toward both God and man. ^2416
 
 Now after several years I came to bring alms to my nation and to present offerings. ^2417
 
-While I was doing this, they found me purified in the temple, without any crowd or tumult. But some Jews from Asia — ^2418
+While I was doing this, they found me purified in the temple, without any crowd or tumult. But some Jews from Asia-- ^2418
 
 they ought to be here before you and to make an accusation, should they have anything against me. ^2419
 
 Or else let these men themselves say what wrongdoing they found when I stood before the council, ^2420
 
-other than this one thing that I cried out while standing among them : It is with respect to the resurrection of the dead that I am on trial before you this day. ^2421
+other than this one thing that I cried out while standing among them: 'It is with respect to the resurrection of the dead that I am on trial before you this day.' ^2421
 
 But Felix, having a rather accurate knowledge of the Way, put them off, saying, When Lysias the tribune comes down, I will decide your case. ^2422
 
@@ -1793,12 +1768,11 @@ At the same time he hoped that money would be given him by Paul. So he sent for 
 When two years had elapsed, Felix was succeeded by Porcius Festus. And desiring to do the Jews a favor, Felix left Paul in prison. ^2427
 
 
-
 Now three days after Festus had arrived in the province, he went up to Jerusalem from Caesarea. ^2501
 
 And the chief priests and the principal men of the Jews laid out their case against Paul, and they urged him, ^2502
 
-asking as a favor against Paul that he summon him to Jerusalem —because they were planning an ambush to kill him on the way. ^2503
+asking as a favor against Paul that he summon him to Jerusalem--because they were planning an ambush to kill him on the way. ^2503
 
 Festus replied that Paul was being kept at Caesarea and that he himself intended to go there shortly. ^2504
 
@@ -1812,7 +1786,7 @@ Paul argued in his defense, Neither against the law of the Jews, nor against the
 
 But Festus, wishing to do the Jews a favor, said to Paul, Do you wish to go up to Jerusalem and there be tried on these charges before me? ^2509
 
-But Paul said, I am standing before Caesar’s tribunal, where I ought to be tried. To the Jews I have done no wrong, as you yourself know very well. ^2510
+But Paul said, I am standing before Caesar's tribunal, where I ought to be tried. To the Jews I have done no wrong, as you yourselves know very well. ^2510
 
 If then I am a wrongdoer and have committed anything for which I deserve to die, I do not seek to escape death. But if there is nothing to their charges against me, no one can give me up to them. I appeal to Caesar. ^2511
 
@@ -1820,7 +1794,7 @@ Then Festus, when he had conferred with his council, answered, To Caesar you hav
 
 Now when some days had passed, Agrippa the king and Bernice arrived at Caesarea and greeted Festus. ^2513
 
-And as they stayed there many days, Festus laid Paul’s case before the king, saying, There is a man left prisoner by Felix, ^2514
+And as they stayed there many days, Festus laid Paul's case before the king, saying, There is a man left prisoner by Felix, ^2514
 
 and when I was at Jerusalem, the chief priests and the elders of the Jews laid out their case against him, asking for a sentence of condemnation against him. ^2515
 
@@ -1836,7 +1810,7 @@ Being at a loss how to investigate these questions, I asked whether he wanted to
 
 But when Paul had appealed to be kept in custody for the decision of the emperor, I ordered him to be held until I could send him to Caesar. ^2521
 
-Then Agrippa said to Festus, I would like to hear the man myself. Tomorrow, said he, you will hear him. ^2522
+Then Agrippa said to Festus, I would like to hear the man myself.Tomorrow, said he, you will hear him. ^2522
 
 So on the next day Agrippa and Bernice came with great pomp, and they entered the audience hall with the military tribunes and the prominent men of the city. Then, at the command of Festus, Paul was brought in. ^2523
 
@@ -1849,8 +1823,7 @@ But I have nothing definite to write to my lord about him. Therefore I have brou
 For it seems to me unreasonable, in sending a prisoner, not to indicate the charges against him. ^2527
 
 
-
-So Agrippa said to Paul, You have permission to speak for yourself. Then Paul stretched out his hand and made his defense : ^2601
+So Agrippa said to Paul, You have permission to speak for yourself. Then Paul stretched out his hand and made his defense: ^2601
 
 I consider myself fortunate that it is before you, King Agrippa, I am going to make my defense today against all the accusations of the Jews, ^2602
 
@@ -1876,15 +1849,15 @@ In this connection I journeyed to Damascus with the authority and commission of 
 
 At midday, O king, I saw on the way a light from heaven, brighter than the sun, that shone around me and those who journeyed with me. ^2613
 
-And when we had all fallen to the ground, I heard a voice saying to me in the Hebrew language, Saul, Saul, why are you persecuting me? It is hard for you to kick against the goads. ^2614
+And when we had all fallen to the ground, I heard a voice saying to me in the Hebrew language, 'Saul, Saul, why are you persecuting me? It is hard for you to kick against the goads.' ^2614
 
-And I said, Who are you, Lord? And the Lord said, I am Jesus whom you are persecuting. ^2615
+And I said, 'Who are you, Lord?' And the Lord said, 'I am Jesus whom you are persecuting. ^2615
 
 But rise and stand upon your feet, for I have appeared to you for this purpose, to appoint you as a servant and witness to the things in which you have seen me and to those in which I will appear to you, ^2616
 
-delivering you from your people and from the Gentiles — to whom I am sending you ^2617
+delivering you from your people and from the Gentiles--to whom I am sending you ^2617
 
-to open their eyes, so that they may turn from darkness to light and from the power of Satan to God, that they may receive forgiveness of sins and a place among those who are sanctified by faith in me. ^2618
+to open their eyes, so that they may turn from darkness to light and from the power of Satan to God, that they may receive forgiveness of sins and a place among those who are sanctified by faith in me.' ^2618
 
 Therefore, O King Agrippa, I was not disobedient to the heavenly vision, ^2619
 
@@ -1892,7 +1865,7 @@ but declared first to those in Damascus, then in Jerusalem and throughout all th
 
 For this reason the Jews seized me in the temple and tried to kill me. ^2621
 
-To this day I have had the help that comes from God, and so I stand here testifying both to small and great, saying nothing but what the prophets and Moses said would come to pass : ^2622
+To this day I have had the help that comes from God, and so I stand here testifying both to small and great, saying nothing but what the prophets and Moses said would come to pass: ^2622
 
 that the Christ must suffer and that, by being the first to rise from the dead, he would proclaim light both to our people and to the Gentiles. ^2623
 
@@ -1906,14 +1879,13 @@ King Agrippa, do you believe the prophets? I know that you believe. ^2627
 
 And Agrippa said to Paul, In a short time would you persuade me to be a Christian? ^2628
 
-And Paul said, Whether short or long, I would to God that not only you but also all who hear me this day might become such as I am — except for these chains. ^2629
+And Paul said, Whether short or long, I would to God that not only you but also all who hear me this day might become such as I am--except for these chains. ^2629
 
 Then the king rose, and the governor and Bernice and those who were sitting with them. ^2630
 
 And when they had withdrawn, they said to one another, This man is doing nothing to deserve death or imprisonment. ^2631
 
 And Agrippa said to Festus, This man could have been set free if he had not appealed to Caesar. ^2632
-
 
 
 And when it was decided that we should sail for Italy, they delivered Paul and some other prisoners to a centurion of the Augustan Cohort named Julius. ^2701
@@ -1946,13 +1918,13 @@ But soon a tempestuous wind, called the northeaster, struck down from the land. 
 
 And when the ship was caught and could not face the wind, we gave way to it and were driven along. ^2715
 
-Running under the lee of a small island called Cauda, we managed with difficulty to secure the ship’s boat. ^2716
+Running under the lee of a small island called Cauda, we managed with difficulty to secure the ship's boat. ^2716
 
 After hoisting it up, they used supports to undergird the ship. Then, fearing that they would run aground on the Syrtis, they lowered the gear, and thus they were driven along. ^2717
 
 Since we were violently storm-tossed, they began the next day to jettison the cargo. ^2718
 
-And on the third day they threw the ship’s tackle overboard with their own hands. ^2719
+And on the third day they threw the ship's tackle overboard with their own hands. ^2719
 
 When neither sun nor stars appeared for many days, and no small tempest lay on us, all hope of our being saved was at last abandoned. ^2720
 
@@ -1962,7 +1934,7 @@ Yet now I urge you to take heart, for there will be no loss of life among you, b
 
 For this very night there stood before me an angel of the God to whom I belong and whom I worship, ^2723
 
-and he said, Do not be afraid, Paul; you must stand before Caesar. And behold, God has granted you all those who sail with you. ^2724
+and he said, 'Do not be afraid, Paul; you must stand before Caesar. And behold, God has granted you all those who sail with you.' ^2724
 
 So take heart, men, for I have faith in God that it will be exactly as I have been told. ^2725
 
@@ -1974,21 +1946,21 @@ So they took a sounding and found twenty fathoms. A little farther on they took 
 
 And fearing that we might run on the rocks, they let down four anchors from the stern and prayed for day to come. ^2729
 
-And as the sailors were seeking to escape from the ship, and had lowered the ship’s boat into the sea under pretense of laying out anchors from the bow, ^2730
+And as the sailors were seeking to escape from the ship, and had lowered the ship's boat into the sea under pretense of laying out anchors from the bow, ^2730
 
 Paul said to the centurion and the soldiers, Unless these men stay in the ship, you cannot be saved. ^2731
 
-Then the soldiers cut away the ropes of the ship’s boat and let it go. ^2732
+Then the soldiers cut away the ropes of the ship's boat and let it go. ^2732
 
 As day was about to dawn, Paul urged them all to take some food, saying, Today is the fourteenth day that you have continued in suspense and without food, having taken nothing. ^2733
 
-Therefore I urge you to take some food. For it will give you strength, for not a hair is to perish from the head of any of you. ^2734
+Therefore I urge you to take some food. It will give you strength, for not a hair is to perish from the head of any of you. ^2734
 
 And when he had said these things, he took bread, and giving thanks to God in the presence of all he broke it and began to eat. ^2735
 
 Then they all were encouraged and ate some food themselves. ^2736
 
-( We were in all 276 persons in the ship .) ^2737
+(We were in all 276 persons in the ship.) ^2737
 
 And when they had eaten enough, they lightened the ship, throwing out the wheat into the sea. ^2738
 
@@ -1998,12 +1970,11 @@ So they cast off the anchors and left them in the sea, at the same time loosenin
 
 But striking a reef, they ran the vessel aground. The bow stuck and remained immovable, and the stern was being broken up by the surf. ^2741
 
-The soldiers ’ plan was to kill the prisoners, lest any should swim away and escape. ^2742
+The soldiers' plan was to kill the prisoners, lest any should swim away and escape. ^2742
 
 But the centurion, wishing to save Paul, kept them from carrying out their plan. He ordered those who could swim to jump overboard first and make for the land, ^2743
 
 and the rest on planks or on pieces of the ship. And so it was that all were brought safely to land. ^2744
-
 
 
 After we were brought safely through, we then learned that the island was called Malta. ^2801
@@ -2036,13 +2007,13 @@ There we found brothers and were invited to stay with them for seven days. And s
 
 And the brothers there, when they heard about us, came as far as the Forum of Appius and Three Taverns to meet us. On seeing them, Paul thanked God and took courage. ^2815
 
-And when we came into Rome, Paul was allowed to stay by himself, with the soldier who guarded him. ^2816
+And when we came into Rome, Paul was allowed to stay by himself, with the soldier that guarded him. ^2816
 
 After three days he called together the local leaders of the Jews, and when they had gathered, he said to them, Brothers, though I had done nothing against our people or the customs of our fathers, yet I was delivered as a prisoner from Jerusalem into the hands of the Romans. ^2817
 
 When they had examined me, they wished to set me at liberty, because there was no reason for the death penalty in my case. ^2818
 
-But because the Jews objected, I was compelled to appeal to Caesar — though I had no charge to bring against my nation. ^2819
+But because the Jews objected, I was compelled to appeal to Caesar--though I had no charge to bring against my nation. ^2819
 
 For this reason, therefore, I have asked to see you and speak with you, since it is because of the hope of Israel that I am wearing this chain. ^2820
 
@@ -2054,18 +2025,16 @@ When they had appointed a day for him, they came to him at his lodging in greate
 
 And some were convinced by what he said, but others disbelieved. ^2824
 
-And disagreeing among themselves, they departed after Paul had made one statement : The Holy Spirit was right in saying to your fathers through Isaiah the prophet : ^2825
+And disagreeing among themselves, they departed after Paul had made one statement: The Holy Spirit was right in saying to your fathers through Isaiah the prophet: ^2825
 
-Go to this people, and say, You will indeed hear but never understand, and you will indeed see but never perceive. ^2826
+'Go to this people, and say, You will indeed hear but never understand, and you will indeed see but never perceive. ^2826
 
-For this people’s heart has grown dull, and with their ears they can barely hear, and their eyes they have closed; lest they should see with their eyes and hear with their ears and understand with their heart and turn, and I would heal them. ^2827
+For this people's heart has grown dull, and with their ears they can barely hear, and their eyes they have closed; lest they should see with their eyes and hear with their ears and understand with their heart and turn, and I would heal them.' ^2827
 
 Therefore let it be known to you that this salvation of God has been sent to the Gentiles; they will listen. ^2828
 
-Therefore let it be known to you that this salvation of God has been sent to the Gentiles; they will listen. ^2829
+See Footnote ^2829
 
 He lived there two whole years at his own expense, and welcomed all who came to him, ^2830
 
 proclaiming the kingdom of God and teaching about the Lord Jesus Christ with all boldness and without hindrance. ^2831
-
-

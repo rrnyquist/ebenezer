@@ -1,6 +1,4 @@
-
-
-James, a servant of God and of the Lord Jesus Christ, To the twelve tribes in the Dispersion : Greetings. ^0101
+James, a servant of God and of the Lord Jesus Christ,To the twelve tribes in the Dispersion:Greetings. ^0101
 
 Count it all joy, my brothers, when you meet trials of various kinds, ^0102
 
@@ -36,9 +34,9 @@ Every good gift and every perfect gift is from above, coming down from the Fathe
 
 Of his own will he brought us forth by the word of truth, that we should be a kind of firstfruits of his creatures. ^0118
 
-Know this, my beloved brothers : let every person be quick to hear, slow to speak, slow to anger; ^0119
+Know this, my beloved brothers: let every person be quick to hear, slow to speak, slow to anger; ^0119
 
-for the anger of man does not produce the righteousness of God. ^0120
+for the anger of man does not produce the righteousness that God requires. ^0120
 
 Therefore put away all filthiness and rampant wickedness and receive with meekness the implanted word, which is able to save your souls. ^0121
 
@@ -50,10 +48,9 @@ For he looks at himself and goes away and at once forgets what he was like. ^012
 
 But the one who looks into the perfect law, the law of liberty, and perseveres, being no hearer who forgets but a doer who acts, he will be blessed in his doing. ^0125
 
-If anyone thinks he is religious and does not bridle his tongue but deceives his heart, this person’s religion is worthless. ^0126
+If anyone thinks he is religious and does not bridle his tongue but deceives his heart, this person's religion is worthless. ^0126
 
-Religion that is pure and undefiled before God, the Father, is this : to visit orphans and widows in their affliction, and to keep oneself unstained from the world. ^0127
-
+Religion that is pure and undefiled before God, the Father, is this: to visit orphans and widows in their affliction, and to keep oneself unstained from the world. ^0127
 
 
 My brothers, show no partiality as you hold the faith in our Lord Jesus Christ, the Lord of glory. ^0201
@@ -92,7 +89,7 @@ So also faith by itself, if it does not have works, is dead. ^0217
 
 But someone will say, You have faith and I have works. Show me your faith apart from your works, and I will show you my faith by my works. ^0218
 
-You believe that God is one; you do well. Even the demons believe — and shudder! ^0219
+You believe that God is one; you do well. Even the demons believe--and shudder! ^0219
 
 Do you want to be shown, you foolish person, that faith apart from works is useless? ^0220
 
@@ -100,7 +97,7 @@ Was not Abraham our father justified by works when he offered up his son Isaac o
 
 You see that faith was active along with his works, and faith was completed by his works; ^0222
 
-and the Scripture was fulfilled that says, Abraham believed God, and it was counted to him as righteousness — and he was called a friend of God. ^0223
+and the Scripture was fulfilled that says, Abraham believed God, and it was counted to him as righteousness--and he was called a friend of God. ^0223
 
 You see that a person is justified by works and not by faith alone. ^0224
 
@@ -109,16 +106,15 @@ And in the same way was not also Rahab the prostitute justified by works when sh
 For as the body apart from the spirit is dead, so also faith apart from works is dead. ^0226
 
 
-
 Not many of you should become teachers, my brothers, for you know that we who teach will be judged with greater strictness. ^0301
 
-For we all stumble in many ways. And if anyone does not stumble in what he says, he is a perfect man, able also to bridle his whole body. ^0302
+For we all stumble in many ways, and if anyone does not stumble in what he says, he is a perfect man, able also to bridle his whole body. ^0302
 
 If we put bits into the mouths of horses so that they obey us, we guide their whole bodies as well. ^0303
 
-Look at the ships also : though they are so large and are driven by strong winds, they are guided by a very small rudder wherever the will of the pilot directs. ^0304
+Look at the ships also: though they are so large and are driven by strong winds, they are guided by a very small rudder wherever the will of the pilot directs. ^0304
 
-So also the tongue is a small member, yet it boasts of great things. How great a forest is set ablaze by such a small fire! ^0305
+So also the tongue is a small member, yet it boasts of great things.How great a forest is set ablaze by such a small fire! ^0305
 
 And the tongue is a fire, a world of unrighteousness. The tongue is set among our members, staining the whole body, setting on fire the entire course of life, and set on fire by hell. ^0306
 
@@ -147,7 +143,6 @@ But the wisdom from above is first pure, then peaceable, gentle, open to reason,
 And a harvest of righteousness is sown in peace by those who make peace. ^0318
 
 
-
 What causes quarrels and what causes fights among you? Is it not this, that your passions are at war within you? ^0401
 
 You desire and do not have, so you murder. You covet and cannot obtain, so you fight and quarrel. You do not have, because you do not ask. ^0402
@@ -172,7 +167,7 @@ Do not speak evil against one another, brothers. The one who speaks against a br
 
 There is only one lawgiver and judge, he who is able to save and to destroy. But who are you to judge your neighbor? ^0412
 
-Come now, you who say, Today or tomorrow we will go into such and such a town and spend a year there and trade and make a profit — ^0413
+Come now, you who say, Today or tomorrow we will go into such and such a town and spend a year there and trade and make a profit-- ^0413
 
 yet you do not know what tomorrow will bring. What is your life? For you are a mist that appears for a little time and then vanishes. ^0414
 
@@ -181,7 +176,6 @@ Instead you ought to say, If the Lord wills, we will live and do this or that. ^
 As it is, you boast in your arrogance. All such boasting is evil. ^0416
 
 So whoever knows the right thing to do and fails to do it, for him it is sin. ^0417
-
 
 
 Come now, you rich, weep and howl for the miseries that are coming upon you. ^0501
@@ -194,7 +188,7 @@ Behold, the wages of the laborers who mowed your fields, which you kept back by 
 
 You have lived on the earth in luxury and in self-indulgence. You have fattened your hearts in a day of slaughter. ^0505
 
-You have condemned and murdered the righteous person. He does not resist you. ^0506
+You have condemned; you have murdered the righteous person. He does not resist you. ^0506
 
 Be patient, therefore, brothers, until the coming of the Lord. See how the farmer waits for the precious fruit of the earth, being patient about it, until it receives the early and the late rains. ^0507
 
@@ -223,5 +217,3 @@ Then he prayed again, and heaven gave rain, and the earth bore its fruit. ^0518
 My brothers, if anyone among you wanders from the truth and someone brings him back, ^0519
 
 let him know that whoever brings back a sinner from his wandering will save his soul from death and will cover a multitude of sins. ^0520
-
-

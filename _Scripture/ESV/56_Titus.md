@@ -1,18 +1,16 @@
-
-
-Paul, a servant of God and an apostle of Jesus Christ, for the sake of the faith of God’s elect and their knowledge of the truth, which accords with godliness, ^0101
+Paul, a servant of God and an apostle of Jesus Christ, for the sake of the faith of God's elect and their knowledge of the truth, which accords with godliness, ^0101
 
 in hope of eternal life, which God, who never lies, promised before the ages began ^0102
 
 and at the proper time manifested in his word through the preaching with which I have been entrusted by the command of God our Savior; ^0103
 
-To Titus, my true child in a common faith : Grace and peace from God the Father and Christ Jesus our Savior. ^0104
+To Titus, my true child in a common faith:Grace and peace from God the Father and Christ Jesus our Savior. ^0104
 
-This is why I left you in Crete, so that you might put what remained into order, and appoint elders in every town as I directed you — ^0105
+This is why I left you in Crete, so that you might put what remained into order, and appoint elders in every town as I directed you-- ^0105
 
 if anyone is above reproach, the husband of one wife, and his children are believers and not open to the charge of debauchery or insubordination. ^0106
 
-For an overseer, as God’s steward, must be above reproach. He must not be arrogant or quick-tempered or a drunkard or violent or greedy for gain, ^0107
+For an overseer, as God's steward, must be above reproach. He must not be arrogant or quick-tempered or a drunkard or violent or greedy for gain, ^0107
 
 but hospitable, a lover of good, self-controlled, upright, holy, and disciplined. ^0108
 
@@ -33,7 +31,6 @@ To the pure, all things are pure, but to the defiled and unbelieving, nothing is
 They profess to know God, but they deny him by their works. They are detestable, disobedient, unfit for any good work. ^0116
 
 
-
 But as for you, teach what accords with sound doctrine. ^0201
 
 Older men are to be sober-minded, dignified, self-controlled, sound in faith, in love, and in steadfastness. ^0202
@@ -50,7 +47,7 @@ Show yourself in all respects to be a model of good works, and in your teaching 
 
 and sound speech that cannot be condemned, so that an opponent may be put to shame, having nothing evil to say about us. ^0208
 
-Bondservants are to be submissive to their own masters in everything; they are to be well-pleasing, not argumentative, ^0209
+Slaves are to be submissive to their own masters in everything; they are to be well-pleasing, not argumentative, ^0209
 
 not pilfering, but showing all good faith, so that in everything they may adorn the doctrine of God our Savior. ^0210
 
@@ -63,7 +60,6 @@ waiting for our blessed hope, the appearing of the glory of our great God and Sa
 who gave himself for us to redeem us from all lawlessness and to purify for himself a people for his own possession who are zealous for good works. ^0214
 
 Declare these things; exhort and rebuke with all authority. Let no one disregard you. ^0215
-
 
 
 Remind them to be submissive to rulers and authorities, to be obedient, to be ready for every good work, ^0301
@@ -94,6 +90,4 @@ Do your best to speed Zenas the lawyer and Apollos on their way; see that they l
 
 And let our people learn to devote themselves to good works, so as to help cases of urgent need, and not be unfruitful. ^0314
 
-All who are with me send greetings to you. Greet those who love us in the faith. Grace be with you all. ^0315
-
-
+All who are with me send greetings to you. Greet those who love us in the faith.Grace be with you all. ^0315

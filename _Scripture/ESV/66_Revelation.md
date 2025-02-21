@@ -1,14 +1,12 @@
-
-
 The revelation of Jesus Christ, which God gave him to show to his servants the things that must soon take place. He made it known by sending his angel to his servant John, ^0101
 
 who bore witness to the word of God and to the testimony of Jesus Christ, even to all that he saw. ^0102
 
 Blessed is the one who reads aloud the words of this prophecy, and blessed are those who hear, and who keep what is written in it, for the time is near. ^0103
 
-John to the seven churches that are in Asia : Grace to you and peace from him who is and who was and who is to come, and from the seven spirits who are before his throne, ^0104
+John to the seven churches that are in Asia:Grace to you and peace from him who is and who was and who is to come, and from the seven spirits who are before his throne, ^0104
 
-and from Jesus Christ the faithful witness, the firstborn of the dead, and the ruler of kings on earth. To him who loves us and has freed us from our sins by his blood ^0105
+and from Jesus Christ the faithful witness, the firstborn of the dead, and the ruler of kings on earth.To him who loves us and has freed us from our sins by his blood ^0105
 
 and made us a kingdom, priests to his God and Father, to him be glory and dominion forever and ever. Amen. ^0106
 
@@ -18,7 +16,7 @@ I am the Alpha and the Omega, says the Lord God, who is and who was and who is t
 
 I, John, your brother and partner in the tribulation and the kingdom and the patient endurance that are in Jesus, was on the island called Patmos on account of the word of God and the testimony of Jesus. ^0109
 
-I was in the Spirit on the Lord’s day, and I heard behind me a loud voice like a trumpet ^0110
+I was in the Spirit on the Lord's day, and I heard behind me a loud voice like a trumpet ^0110
 
 saying, Write what you see in a book and send it to the seven churches, to Ephesus and to Smyrna and to Pergamum and to Thyatira and to Sardis and to Philadelphia and to Laodicea. ^0111
 
@@ -26,7 +24,7 @@ Then I turned to see the voice that was speaking to me, and on turning I saw sev
 
 and in the midst of the lampstands one like a son of man, clothed with a long robe and with a golden sash around his chest. ^0113
 
-The hairs of his head were white, like white wool, like snow. His eyes were like a flame of fire, ^0114
+The hairs of his head were white like wool, as white as snow. His eyes were like a flame of fire, ^0114
 
 his feet were like burnished bronze, refined in a furnace, and his voice was like the roar of many waters. ^0115
 
@@ -41,44 +39,43 @@ Write therefore the things that you have seen, those that are and those that are
 As for the mystery of the seven stars that you saw in my right hand, and the seven golden lampstands, the seven stars are the angels of the seven churches, and the seven lampstands are the seven churches. ^0120
 
 
+To the angel of the church in Ephesus write: 'The words of him who holds the seven stars in his right hand, who walks among the seven golden lampstands. ^0201
 
-To the angel of the church in Ephesus write : The words of him who holds the seven stars in his right hand, who walks among the seven golden lampstands. ^0201
+'I know your works, your toil and your patient endurance, and how you cannot bear with those who are evil, but have tested those who call themselves apostles and are not, and found them to be false. ^0202
 
-I know your works, your toil and your patient endurance, and how you cannot bear with those who are evil, but have tested those who call themselves apostles and are not, and found them to be false. ^0202
-
-I know you are enduring patiently and bearing up for my name’s sake, and you have not grown weary. ^0203
+I know you are enduring patiently and bearing up for my name's sake, and you have not grown weary. ^0203
 
 But I have this against you, that you have abandoned the love you had at first. ^0204
 
 Remember therefore from where you have fallen; repent, and do the works you did at first. If not, I will come to you and remove your lampstand from its place, unless you repent. ^0205
 
-Yet this you have : you hate the works of the Nicolaitans, which I also hate. ^0206
+Yet this you have: you hate the works of the Nicolaitans, which I also hate. ^0206
 
-He who has an ear, let him hear what the Spirit says to the churches. To the one who conquers I will grant to eat of the tree of life, which is in the paradise of God. ^0207
+He who has an ear, let him hear what the Spirit says to the churches. To the one who conquers I will grant to eat of the tree of life, which is in the paradise of God.' ^0207
 
-And to the angel of the church in Smyrna write : The words of the first and the last, who died and came to life. ^0208
+And to the angel of the church in Smyrna write: 'The words of the first and the last, who died and came to life. ^0208
 
-I know your tribulation and your poverty ( but you are rich ) and the slander of those who say that they are Jews and are not, but are a synagogue of Satan. ^0209
+'I know your tribulation and your poverty (but you are rich) and the slander of those who say that they are Jews and are not, but are a synagogue of Satan. ^0209
 
 Do not fear what you are about to suffer. Behold, the devil is about to throw some of you into prison, that you may be tested, and for ten days you will have tribulation. Be faithful unto death, and I will give you the crown of life. ^0210
 
-He who has an ear, let him hear what the Spirit says to the churches. The one who conquers will not be hurt by the second death. ^0211
+He who has an ear, let him hear what the Spirit says to the churches. The one who conquers will not be hurt by the second death.' ^0211
 
-And to the angel of the church in Pergamum write : The words of him who has the sharp two-edged sword. ^0212
+And to the angel of the church in Pergamum write: 'The words of him who has the sharp two-edged sword. ^0212
 
-I know where you dwell, where Satan’s throne is. Yet you hold fast my name, and you did not deny my faith even in the days of Antipas my faithful witness, who was killed among you, where Satan dwells. ^0213
+'I know where you dwell, where Satan's throne is. Yet you hold fast my name, and you did not deny my faith even in the days of Antipas my faithful witness, who was killed among you, where Satan dwells. ^0213
 
-But I have a few things against you : you have some there who hold the teaching of Balaam, who taught Balak to put a stumbling block before the sons of Israel, so that they might eat food sacrificed to idols and practice sexual immorality. ^0214
+But I have a few things against you: you have some there who hold the teaching of Balaam, who taught Balak to put a stumbling block before the sons of Israel, so that they might eat food sacrificed to idols and practice sexual immorality. ^0214
 
 So also you have some who hold the teaching of the Nicolaitans. ^0215
 
 Therefore repent. If not, I will come to you soon and war against them with the sword of my mouth. ^0216
 
-He who has an ear, let him hear what the Spirit says to the churches. To the one who conquers I will give some of the hidden manna, and I will give him a white stone, with a new name written on the stone that no one knows except the one who receives it. ^0217
+He who has an ear, let him hear what the Spirit says to the churches. To the one who conquers I will give some of the hidden manna, and I will give him a white stone, with a new name written on the stone that no one knows except the one who receives it.' ^0217
 
-And to the angel of the church in Thyatira write : The words of the Son of God, who has eyes like a flame of fire, and whose feet are like burnished bronze. ^0218
+And to the angel of the church in Thyatira write: 'The words of the Son of God, who has eyes like a flame of fire, and whose feet are like burnished bronze. ^0218
 
-I know your works, your love and faith and service and patient endurance, and that your latter works exceed the first. ^0219
+'I know your works, your love and faith and service and patient endurance, and that your latter works exceed the first. ^0219
 
 But I have this against you, that you tolerate that woman Jezebel, who calls herself a prophetess and is teaching and seducing my servants to practice sexual immorality and to eat food sacrificed to idols. ^0220
 
@@ -86,7 +83,7 @@ I gave her time to repent, but she refuses to repent of her sexual immorality. ^
 
 Behold, I will throw her onto a sickbed, and those who commit adultery with her I will throw into great tribulation, unless they repent of her works, ^0222
 
-and I will strike her children dead. And all the churches will know that I am he who searches mind and heart, and I will give to each of you according to your works. ^0223
+and I will strike her children dead. And all the churches will know that I am he who searches mind and heart, and I will give to each of you as your works deserve. ^0223
 
 But to the rest of you in Thyatira, who do not hold this teaching, who have not learned what some call the deep things of Satan, to you I say, I do not lay on you any other burden. ^0224
 
@@ -98,11 +95,10 @@ and he will rule them with a rod of iron, as when earthen pots are broken in pie
 
 And I will give him the morning star. ^0228
 
-He who has an ear, let him hear what the Spirit says to the churches. ^0229
+He who has an ear, let him hear what the Spirit says to the churches.' ^0229
 
 
-
-And to the angel of the church in Sardis write : The words of him who has the seven spirits of God and the seven stars. I know your works. You have the reputation of being alive, but you are dead. ^0301
+And to the angel of the church in Sardis write: 'The words of him who has the seven spirits of God and the seven stars.'I know your works. You have the reputation of being alive, but you are dead. ^0301
 
 Wake up, and strengthen what remains and is about to die, for I have not found your works complete in the sight of my God. ^0302
 
@@ -112,13 +108,13 @@ Yet you have still a few names in Sardis, people who have not soiled their garme
 
 The one who conquers will be clothed thus in white garments, and I will never blot his name out of the book of life. I will confess his name before my Father and before his angels. ^0305
 
-He who has an ear, let him hear what the Spirit says to the churches. ^0306
+He who has an ear, let him hear what the Spirit says to the churches.' ^0306
 
-And to the angel of the church in Philadelphia write : The words of the holy one, the true one, who has the key of David, who opens and no one will shut, who shuts and no one opens. ^0307
+And to the angel of the church in Philadelphia write: 'The words of the holy one, the true one, who has the key of David, who opens and no one will shut, who shuts and no one opens. ^0307
 
-I know your works. Behold, I have set before you an open door, which no one is able to shut. I know that you have but little power, and yet you have kept my word and have not denied my name. ^0308
+'I know your works. Behold, I have set before you an open door, which no one is able to shut. I know that you have but little power, and yet you have kept my word and have not denied my name. ^0308
 
-Behold, I will make those of the synagogue of Satan who say that they are Jews and are not, but lie — behold, I will make them come and bow down before your feet, and they will learn that I have loved you. ^0309
+Behold, I will make those of the synagogue of Satan who say that they are Jews and are not, but lie--behold, I will make them come and bow down before your feet and they will learn that I have loved you. ^0309
 
 Because you have kept my word about patient endurance, I will keep you from the hour of trial that is coming on the whole world, to try those who dwell on the earth. ^0310
 
@@ -126,11 +122,11 @@ I am coming soon. Hold fast what you have, so that no one may seize your crown. 
 
 The one who conquers, I will make him a pillar in the temple of my God. Never shall he go out of it, and I will write on him the name of my God, and the name of the city of my God, the new Jerusalem, which comes down from my God out of heaven, and my own new name. ^0312
 
-He who has an ear, let him hear what the Spirit says to the churches. ^0313
+He who has an ear, let him hear what the Spirit says to the churches.' ^0313
 
-And to the angel of the church in Laodicea write : The words of the Amen, the faithful and true witness, the beginning of God’s creation. ^0314
+And to the angel of the church in Laodicea write: 'The words of the Amen, the faithful and true witness, the beginning of God's creation. ^0314
 
-I know your works : you are neither cold nor hot. Would that you were either cold or hot! ^0315
+'I know your works: you are neither cold nor hot. Would that you were either cold or hot! ^0315
 
 So, because you are lukewarm, and neither hot nor cold, I will spit you out of my mouth. ^0316
 
@@ -144,8 +140,7 @@ Behold, I stand at the door and knock. If anyone hears my voice and opens the do
 
 The one who conquers, I will grant him to sit with me on my throne, as I also conquered and sat down with my Father on his throne. ^0321
 
-He who has an ear, let him hear what the Spirit says to the churches. ^0322
-
+He who has an ear, let him hear what the Spirit says to the churches.' ^0322
 
 
 After this I looked, and behold, a door standing open in heaven! And the first voice, which I had heard speaking to me like a trumpet, said, Come up here, and I will show you what must take place after this. ^0401
@@ -158,7 +153,7 @@ Around the throne were twenty-four thrones, and seated on the thrones were twent
 
 From the throne came flashes of lightning, and rumblings and peals of thunder, and before the throne were burning seven torches of fire, which are the seven spirits of God, ^0405
 
-and before the throne there was as it were a sea of glass, like crystal. And around the throne, on each side of the throne, are four living creatures, full of eyes in front and behind : ^0406
+and before the throne there was as it were a sea of glass, like crystal.And around the throne, on each side of the throne, are four living creatures, full of eyes in front and behind: ^0406
 
 the first living creature like a lion, the second living creature like an ox, the third living creature with the face of a man, and the fourth living creature like an eagle in flight. ^0407
 
@@ -171,10 +166,9 @@ the twenty-four elders fall down before him who is seated on the throne and wors
 Worthy are you, our Lord and God, to receive glory and honor and power, for you created all things, and by your will they existed and were created. ^0411
 
 
-
 Then I saw in the right hand of him who was seated on the throne a scroll written within and on the back, sealed with seven seals. ^0501
 
-And I saw a mighty angel proclaiming with a loud voice, Who is worthy to open the scroll and break its seals? ^0502
+And I saw a strong angel proclaiming with a loud voice, Who is worthy to open the scroll and break its seals? ^0502
 
 And no one in heaven or on earth or under the earth was able to open the scroll or to look into it, ^0503
 
@@ -201,14 +195,13 @@ And I heard every creature in heaven and on earth and under the earth and in the
 And the four living creatures said, Amen! and the elders fell down and worshiped. ^0514
 
 
-
 Now I watched when the Lamb opened one of the seven seals, and I heard one of the four living creatures say with a voice like thunder, Come! ^0601
 
 And I looked, and behold, a white horse! And its rider had a bow, and a crown was given to him, and he came out conquering, and to conquer. ^0602
 
 When he opened the second seal, I heard the second living creature say, Come! ^0603
 
-And out came another horse, bright red. Its rider was permitted to take peace from the earth, so that people should slay one another, and he was given a great sword. ^0604
+And out came another horse, bright red. Its rider was permitted to take peace from the earth, so that men should slay one another, and he was given a great sword. ^0604
 
 When he opened the third seal, I heard the third living creature say, Come! And I looked, and behold, a black horse! And its rider had a pair of scales in his hand. ^0605
 
@@ -216,7 +209,7 @@ And I heard what seemed to be a voice in the midst of the four living creatures,
 
 When he opened the fourth seal, I heard the voice of the fourth living creature say, Come! ^0607
 
-And I looked, and behold, a pale horse! And its rider’s name was Death, and Hades followed him. And they were given authority over a fourth of the earth, to kill with sword and with famine and with pestilence and by wild beasts of the earth. ^0608
+And I looked, and behold, a pale horse! And its rider's name was Death, and Hades followed him. And they were given authority over a fourth of the earth, to kill with sword and with famine and with pestilence and by wild beasts of the earth. ^0608
 
 When he opened the fifth seal, I saw under the altar the souls of those who had been slain for the word of God and for the witness they had borne. ^0609
 
@@ -237,14 +230,13 @@ calling to the mountains and rocks, Fall on us and hide us from the face of him 
 for the great day of their wrath has come, and who can stand? ^0617
 
 
-
 After this I saw four angels standing at the four corners of the earth, holding back the four winds of the earth, that no wind might blow on earth or sea or against any tree. ^0701
 
 Then I saw another angel ascending from the rising of the sun, with the seal of the living God, and he called with a loud voice to the four angels who had been given power to harm earth and sea, ^0702
 
 saying, Do not harm the earth or the sea or the trees, until we have sealed the servants of our God on their foreheads. ^0703
 
-And I heard the number of the sealed, 144,000, sealed from every tribe of the sons of Israel : ^0704
+And I heard the number of the sealed, 144,000, sealed from every tribe of the sons of Israel: ^0704
 
 12,000 from the tribe of Judah were sealed, 12,000 from the tribe of Reuben, 12,000 from the tribe of Gad, ^0705
 
@@ -271,7 +263,6 @@ Therefore they are before the throne of God, and serve him day and night in his 
 They shall hunger no more, neither thirst anymore; the sun shall not strike them, nor any scorching heat. ^0716
 
 For the Lamb in the midst of the throne will be their shepherd, and he will guide them to springs of living water, and God will wipe away every tear from their eyes. ^0717
-
 
 
 When the Lamb opened the seventh seal, there was silence in heaven for about half an hour. ^0801
@@ -301,7 +292,6 @@ The fourth angel blew his trumpet, and a third of the sun was struck, and a thir
 Then I looked, and I heard an eagle crying with a loud voice as it flew directly overhead, Woe, woe, woe to those who dwell on the earth, at the blasts of the other trumpets that the three angels are about to blow! ^0813
 
 
-
 And the fifth angel blew his trumpet, and I saw a star fallen from heaven to earth, and he was given the key to the shaft of the bottomless pit. ^0901
 
 He opened the shaft of the bottomless pit, and from the shaft rose smoke like the smoke of a great furnace, and the sun and the air were darkened with the smoke from the shaft. ^0902
@@ -314,9 +304,9 @@ They were allowed to torment them for five months, but not to kill them, and the
 
 And in those days people will seek death and will not find it. They will long to die, but death will flee from them. ^0906
 
-In appearance the locusts were like horses prepared for battle : on their heads were what looked like crowns of gold; their faces were like human faces, ^0907
+In appearance the locusts were like horses prepared for battle: on their heads were what looked like crowns of gold; their faces were like human faces, ^0907
 
-their hair like women’s hair, and their teeth like lions ’ teeth; ^0908
+their hair like women's hair, and their teeth like lions' teeth; ^0908
 
 they had breastplates like breastplates of iron, and the noise of their wings was like the noise of many chariots with horses rushing into battle. ^0909
 
@@ -334,7 +324,7 @@ So the four angels, who had been prepared for the hour, the day, the month, and 
 
 The number of mounted troops was twice ten thousand times ten thousand; I heard their number. ^0916
 
-And this is how I saw the horses in my vision and those who rode them : they wore breastplates the color of fire and of sapphire and of sulfur, and the heads of the horses were like lions ’ heads, and fire and smoke and sulfur came out of their mouths. ^0917
+And this is how I saw the horses in my vision and those who rode them: they wore breastplates the color of fire and of sapphire and of sulfur, and the heads of the horses were like lions' heads, and fire and smoke and sulfur came out of their mouths. ^0917
 
 By these three plagues a third of mankind was killed, by the fire and smoke and sulfur coming out of their mouths. ^0918
 
@@ -343,7 +333,6 @@ For the power of the horses is in their mouths and in their tails, for their tai
 The rest of mankind, who were not killed by these plagues, did not repent of the works of their hands nor give up worshiping demons and idols of gold and silver and bronze and stone and wood, which cannot see or hear or walk, ^0920
 
 nor did they repent of their murders or their sorceries or their sexual immorality or their thefts. ^0921
-
 
 
 Then I saw another mighty angel coming down from heaven, wrapped in a cloud, with a rainbow over his head, and his face was like the sun, and his legs like pillars of fire. ^1001
@@ -369,10 +358,9 @@ And I took the little scroll from the hand of the angel and ate it. It was sweet
 And I was told, You must again prophesy about many peoples and nations and languages and kings. ^1011
 
 
-
 Then I was given a measuring rod like a staff, and I was told, Rise and measure the temple of God and the altar and those who worship there, ^1101
 
-but do not measure the court outside the temple; leave that out, for it is given over to the nations, and they will trample the holy city for forty - two months. ^1102
+but do not measure the court outside the temple; leave that out, for it is given over to the nations, and they will trample the holy city for forty-two months. ^1102
 
 And I will grant authority to my two witnesses, and they will prophesy for 1,260 days, clothed in sackcloth. ^1103
 
@@ -406,15 +394,14 @@ saying, We give thanks to you, Lord God Almighty, who is and who was, for you ha
 
 The nations raged, but your wrath came, and the time for the dead to be judged, and for rewarding your servants, the prophets and saints, and those who fear your name, both small and great, and for destroying the destroyers of the earth. ^1118
 
-Then God’s temple in heaven was opened, and the ark of his covenant was seen within his temple. There were flashes of lightning, rumblings, peals of thunder, an earthquake, and heavy hail. ^1119
+Then God's temple in heaven was opened, and the ark of his covenant was seen within his temple. There were flashes of lightning, rumblings, peals of thunder, an earthquake, and heavy hail. ^1119
 
 
-
-And a great sign appeared in heaven : a woman clothed with the sun, with the moon under her feet, and on her head a crown of twelve stars. ^1201
+And a great sign appeared in heaven: a woman clothed with the sun, with the moon under her feet, and on her head a crown of twelve stars. ^1201
 
 She was pregnant and was crying out in birth pains and the agony of giving birth. ^1202
 
-And another sign appeared in heaven : behold, a great red dragon, with seven heads and ten horns, and on his heads seven diadems. ^1203
+And another sign appeared in heaven: behold, a great red dragon, with seven heads and ten horns, and on his heads seven diadems. ^1203
 
 His tail swept down a third of the stars of heaven and cast them to the earth. And the dragon stood before the woman who was about to give birth, so that when she bore her child he might devour it. ^1204
 
@@ -424,9 +411,9 @@ and the woman fled into the wilderness, where she has a place prepared by God, i
 
 Now war arose in heaven, Michael and his angels fighting against the dragon. And the dragon and his angels fought back, ^1207
 
-but he was defeated, and there was no longer any place for them in heaven. ^1208
+but he was defeated and there was no longer any place for them in heaven. ^1208
 
-And the great dragon was thrown down, that ancient serpent, who is called the devil and Satan, the deceiver of the whole world — he was thrown down to the earth, and his angels were thrown down with him. ^1209
+And the great dragon was thrown down, that ancient serpent, who is called the devil and Satan, the deceiver of the whole world--he was thrown down to the earth, and his angels were thrown down with him. ^1209
 
 And I heard a loud voice in heaven, saying, Now the salvation and the power and the kingdom of our God and the authority of his Christ have come, for the accuser of our brothers has been thrown down, who accuses them day and night before our God. ^1210
 
@@ -444,13 +431,10 @@ But the earth came to the help of the woman, and the earth opened its mouth and 
 
 Then the dragon became furious with the woman and went off to make war on the rest of her offspring, on those who keep the commandments of God and hold to the testimony of Jesus. And he stood on the sand of the sea. ^1217
 
-Then the dragon became furious with the woman and went off to make war on the rest of her offspring, on those who keep the commandments of God and hold to the testimony of Jesus. And he stood on the sand of the sea. ^1218
-
-
 
 And I saw a beast rising out of the sea, with ten horns and seven heads, with ten diadems on its horns and blasphemous names on its heads. ^1301
 
-And the beast that I saw was like a leopard; its feet were like a bear’s, and its mouth was like a lion’s mouth. And to it the dragon gave his power and his throne and great authority. ^1302
+And the beast that I saw was like a leopard; its feet were like a bear's, and its mouth was like a lion's mouth. And to it the dragon gave his power and his throne and great authority. ^1302
 
 One of its heads seemed to have a mortal wound, but its mortal wound was healed, and the whole earth marveled as they followed the beast. ^1303
 
@@ -462,11 +446,11 @@ It opened its mouth to utter blasphemies against God, blaspheming his name and h
 
 Also it was allowed to make war on the saints and to conquer them. And authority was given it over every tribe and people and language and nation, ^1307
 
-and all who dwell on earth will worship it, everyone whose name has not been written before the foundation of the world in the book of life of the Lamb who was slain. ^1308
+and all who dwell on earth will worship it, everyone whose name has not been written before the foundation of the world in the book of life of the Lamb that was slain. ^1308
 
-If anyone has an ear, let him hear : ^1309
+If anyone has an ear, let him hear: ^1309
 
-If anyone is to be taken captive, to captivity he goes; if anyone is to be slain with the sword, with the sword must he be slain. Here is a call for the endurance and faith of the saints. ^1310
+If anyone is to be taken captive, to captivity he goes; if anyone is to be slain with the sword, with the sword must he be slain.Here is a call for the endurance and faith of the saints. ^1310
 
 Then I saw another beast rising out of the earth. It had two horns like a lamb and it spoke like a dragon. ^1311
 
@@ -482,11 +466,10 @@ Also it causes all, both small and great, both rich and poor, both free and slav
 
 so that no one can buy or sell unless he has the mark, that is, the name of the beast or the number of its name. ^1317
 
-This calls for wisdom : let the one who has understanding calculate the number of the beast, for it is the number of a man, and his number is 666. ^1318
+This calls for wisdom: let the one who has understanding calculate the number of the beast, for it is the number of a man, and his number is 666. ^1318
 
 
-
-Then I looked, and behold, on Mount Zion stood the Lamb, and with him 144,000 who had his name and his Father’s name written on their foreheads. ^1401
+Then I looked, and behold, on Mount Zion stood the Lamb, and with him 144,000 who had his name and his Father's name written on their foreheads. ^1401
 
 And I heard a voice from heaven like the roar of many waters and like the sound of loud thunder. The voice I heard was like the sound of harpists playing on their harps, ^1402
 
@@ -504,13 +487,13 @@ Another angel, a second, followed, saying, Fallen, fallen is Babylon the great, 
 
 And another angel, a third, followed them, saying with a loud voice, If anyone worships the beast and its image and receives a mark on his forehead or on his hand, ^1409
 
-he also will drink the wine of God’s wrath, poured full strength into the cup of his anger, and he will be tormented with fire and sulfur in the presence of the holy angels and in the presence of the Lamb. ^1410
+he also will drink the wine of God's wrath, poured full strength into the cup of his anger, and he will be tormented with fire and sulfur in the presence of the holy angels and in the presence of the Lamb. ^1410
 
 And the smoke of their torment goes up forever and ever, and they have no rest, day or night, these worshipers of the beast and its image, and whoever receives the mark of its name. ^1411
 
 Here is a call for the endurance of the saints, those who keep the commandments of God and their faith in Jesus. ^1412
 
-And I heard a voice from heaven saying, Write this: Blessed are the dead who die in the Lord from now on. Blessed indeed, says the Spirit, that they may rest from their labors, for their deeds follow them! ^1413
+And I heard a voice from heaven saying, Write this: Blessed are the dead who die in the Lord from now on.Blessed indeed, says the Spirit, that they may rest from their labors, for their deeds follow them! ^1413
 
 Then I looked, and behold, a white cloud, and seated on the cloud one like a son of man, with a golden crown on his head, and a sharp sickle in his hand. ^1414
 
@@ -524,13 +507,12 @@ And another angel came out from the altar, the angel who has authority over the 
 
 So the angel swung his sickle across the earth and gathered the grape harvest of the earth and threw it into the great winepress of the wrath of God. ^1419
 
-And the winepress was trodden outside the city, and blood flowed from the winepress, as high as a horse’s bridle, for 1,600 stadia. ^1420
-
+And the winepress was trodden outside the city, and blood flowed from the winepress, as high as a horse's bridle, for 1,600 stadia. ^1420
 
 
 Then I saw another sign in heaven, great and amazing, seven angels with seven plagues, which are the last, for with them the wrath of God is finished. ^1501
 
-And I saw what appeared to be a sea of glass mingled with fire —and also those who had conquered the beast and its image and the number of its name, standing beside the sea of glass with harps of God in their hands. ^1502
+And I saw what appeared to be a sea of glass mingled with fire--and also those who had conquered the beast and its image and the number of its name, standing beside the sea of glass with harps of God in their hands. ^1502
 
 And they sing the song of Moses, the servant of God, and the song of the Lamb, saying, Great and amazing are your deeds, O Lord God the Almighty! Just and true are your ways, O King of the nations! ^1503
 
@@ -543,7 +525,6 @@ and out of the sanctuary came the seven angels with the seven plagues, clothed i
 And one of the four living creatures gave to the seven angels seven golden bowls full of the wrath of God who lives forever and ever, ^1507
 
 and the sanctuary was filled with smoke from the glory of God and from his power, and no one could enter the sanctuary until the seven plagues of the seven angels were finished. ^1508
-
 
 
 Then I heard a loud voice from the temple telling the seven angels, Go and pour out on the earth the seven bowls of the wrath of God. ^1601
@@ -574,7 +555,7 @@ And I saw, coming out of the mouth of the dragon and out of the mouth of the bea
 
 For they are demonic spirits, performing signs, who go abroad to the kings of the whole world, to assemble them for battle on the great day of God the Almighty. ^1614
 
-( Behold, I am coming like a thief! Blessed is the one who stays awake, keeping his garments on, that he may not go about naked and be seen exposed! ) ^1615
+(Behold, I am coming like a thief! Blessed is the one who stays awake, keeping his garments on, that he may not go about naked and be seen exposed!) ^1615
 
 And they assembled them at the place that in Hebrew is called Armageddon. ^1616
 
@@ -589,7 +570,6 @@ And every island fled away, and no mountains were to be found. ^1620
 And great hailstones, about one hundred pounds each, fell from heaven on people; and they cursed God for the plague of the hail, because the plague was so severe. ^1621
 
 
-
 Then one of the seven angels who had the seven bowls came and said to me, Come, I will show you the judgment of the great prostitute who is seated on many waters, ^1701
 
 with whom the kings of the earth have committed sexual immorality, and with the wine of whose sexual immorality the dwellers on earth have become drunk. ^1702
@@ -598,7 +578,7 @@ And he carried me away in the Spirit into a wilderness, and I saw a woman sittin
 
 The woman was arrayed in purple and scarlet, and adorned with gold and jewels and pearls, holding in her hand a golden cup full of abominations and the impurities of her sexual immorality. ^1704
 
-And on her forehead was written a name of mystery : Babylon the great, mother of prostitutes and of earth’s abominations. ^1705
+And on her forehead was written a name of mystery: Babylon the great, mother of prostitutes and of earth's abominations. ^1705
 
 And I saw the woman, drunk with the blood of the saints, the blood of the martyrs of Jesus. When I saw her, I marveled greatly. ^1706
 
@@ -606,7 +586,7 @@ But the angel said to me, Why do you marvel? I will tell you the mystery of the 
 
 The beast that you saw was, and is not, and is about to rise from the bottomless pit and go to destruction. And the dwellers on earth whose names have not been written in the book of life from the foundation of the world will marvel to see the beast, because it was and is not and is to come. ^1708
 
-This calls for a mind with wisdom : the seven heads are seven mountains on which the woman is seated; ^1709
+This calls for a mind with wisdom: the seven heads are seven mountains on which the woman is seated; ^1709
 
 they are also seven kings, five of whom have fallen, one is, the other has not yet come, and when he does come he must remain only a little while. ^1710
 
@@ -614,7 +594,7 @@ As for the beast that was and is not, it is an eighth but it belongs to the seve
 
 And the ten horns that you saw are ten kings who have not yet received royal power, but they are to receive authority as kings for one hour, together with the beast. ^1712
 
-These are of one mind, and they hand over their power and authority to the beast. ^1713
+These are of one mind and hand over their power and authority to the beast. ^1713
 
 They will make war on the Lamb, and the Lamb will conquer them, for he is Lord of lords and King of kings, and those with him are called and chosen and faithful. ^1714
 
@@ -625,7 +605,6 @@ And the ten horns that you saw, they and the beast will hate the prostitute. The
 for God has put it into their hearts to carry out his purpose by being of one mind and handing over their royal power to the beast, until the words of God are fulfilled. ^1717
 
 And the woman that you saw is the great city that has dominion over the kings of the earth. ^1718
-
 
 
 After this I saw another angel coming down from heaven, having great authority, and the earth was made bright with his glory. ^1801
@@ -640,7 +619,7 @@ for her sins are heaped high as heaven, and God has remembered her iniquities. ^
 
 Pay her back as she herself has paid back others, and repay her double for her deeds; mix a double portion for her in the cup she mixed. ^1806
 
-As she glorified herself and lived in luxury, so give her a like measure of torment and mourning, since in her heart she says, I sit as a queen, I am no widow, and mourning I shall never see. ^1807
+As she glorified herself and lived in luxury, so give her a like measure of torment and mourning, since in her heart she says, 'I sit as a queen, I am no widow, and mourning I shall never see.' ^1807
 
 For this reason her plagues will come in a single day, death and mourning and famine, and she will be burned up with fire; for mighty is the Lord God who has judged her. ^1808
 
@@ -660,7 +639,7 @@ The merchants of these wares, who gained wealth from her, will stand far off, in
 
 Alas, alas, for the great city that was clothed in fine linen, in purple and scarlet, adorned with gold, with jewels, and with pearls! ^1816
 
-For in a single hour all this wealth has been laid waste. And all shipmasters and seafaring men, sailors and all whose trade is on the sea, stood far off ^1817
+For in a single hour all this wealth has been laid waste.And all shipmasters and seafaring men, sailors and all whose trade is on the sea, stood far off ^1817
 
 and cried out as they saw the smoke of her burning, What city was like the great city? ^1818
 
@@ -677,7 +656,6 @@ and the light of a lamp will shine in you no more, and the voice of bridegroom a
 And in her was found the blood of prophets and of saints, and of all who have been slain on earth. ^1824
 
 
-
 After this I heard what seemed to be the loud voice of a great multitude in heaven, crying out, Hallelujah! Salvation and glory and power belong to our God, ^1901
 
 for his judgments are true and just; for he has judged the great prostitute who corrupted the earth with her immorality, and has avenged on her the blood of his servants. ^1902
@@ -692,7 +670,7 @@ Then I heard what seemed to be the voice of a great multitude, like the roar of 
 
 Let us rejoice and exult and give him the glory, for the marriage of the Lamb has come, and his Bride has made herself ready; ^1907
 
-it was granted her to clothe herself with fine linen, bright and pure — for the fine linen is the righteous deeds of the saints. ^1908
+it was granted her to clothe herself with fine linen, bright and pure--for the fine linen is the righteous deeds of the saints. ^1908
 
 And the angel said to me, Write this: Blessed are those who are invited to the marriage supper of the Lamb. And he said to me, These are the true words of God. ^1909
 
@@ -721,14 +699,13 @@ And the beast was captured, and with it the false prophet who in its presence ha
 And the rest were slain by the sword that came from the mouth of him who was sitting on the horse, and all the birds were gorged with their flesh. ^1921
 
 
-
 Then I saw an angel coming down from heaven, holding in his hand the key to the bottomless pit and a great chain. ^2001
 
 And he seized the dragon, that ancient serpent, who is the devil and Satan, and bound him for a thousand years, ^2002
 
 and threw him into the pit, and shut it and sealed it over him, so that he might not deceive the nations any longer, until the thousand years were ended. After that he must be released for a little while. ^2003
 
-Then I saw thrones, and seated on them were those to whom the authority to judge was committed. Also I saw the souls of those who had been beheaded for the testimony of Jesus and for the word of God, and those who had not worshiped the beast or its image and had not received its mark on their foreheads or their hands. They came to life and reigned with Christ for a thousand years. ^2004
+Then I saw thrones, and seated on them were those to whom the authority to judge was committed. Also I saw the souls of those who had been beheaded for the testimony of Jesus and for the word of God, and who had not worshiped the beast or its image and had not received its mark on their foreheads or their hands. They came to life and reigned with Christ for a thousand years. ^2004
 
 The rest of the dead did not come to life until the thousand years were ended. This is the first resurrection. ^2005
 
@@ -750,8 +727,7 @@ And the sea gave up the dead who were in it, Death and Hades gave up the dead wh
 
 Then Death and Hades were thrown into the lake of fire. This is the second death, the lake of fire. ^2014
 
-And if anyone’s name was not found written in the book of life, he was thrown into the lake of fire. ^2015
-
+And if anyone's name was not found written in the book of life, he was thrown into the lake of fire. ^2015
 
 
 Then I saw a new heaven and a new earth, for the first heaven and the first earth had passed away, and the sea was no more. ^2101
@@ -760,7 +736,7 @@ And I saw the holy city, new Jerusalem, coming down out of heaven from God, prep
 
 And I heard a loud voice from the throne saying, Behold, the dwelling place of God is with man. He will dwell with them, and they will be his people, and God himself will be with them as their God. ^2103
 
-He will wipe away every tear from their eyes, and death shall be no more, neither shall there be mourning, nor crying, nor pain anymore, for the former things have passed away. ^2104
+He will wipe away every tear from their eyes, and death shall be no more, neither shall there be mourning nor crying nor pain anymore, for the former things have passed away. ^2104
 
 And he who was seated on the throne said, Behold, I am making all things new. Also he said, Write this down, for these words are trustworthy and true. ^2105
 
@@ -776,7 +752,7 @@ And he carried me away in the Spirit to a great, high mountain, and showed me th
 
 having the glory of God, its radiance like a most rare jewel, like a jasper, clear as crystal. ^2111
 
-It had a great, high wall, with twelve gates, and at the gates twelve angels, and on the gates the names of the twelve tribes of the sons of Israel were inscribed — ^2112
+It had a great, high wall, with twelve gates, and at the gates twelve angels, and on the gates the names of the twelve tribes of the sons of Israel were inscribed-- ^2112
 
 on the east three gates, on the north three gates, on the south three gates, and on the west three gates. ^2113
 
@@ -784,17 +760,17 @@ And the wall of the city had twelve foundations, and on them were the twelve nam
 
 And the one who spoke with me had a measuring rod of gold to measure the city and its gates and walls. ^2115
 
-The city lies foursquare, its length the same as its width. And he measured the city with his rod, 12,000 stadia. Its length and width and height are equal. ^2116
+The city lies foursquare; its length the same as its width. And he measured the city with his rod, 12,000 stadia. Its length and width and height are equal. ^2116
 
-He also measured its wall, 144 cubits by human measurement, which is also an angel’s measurement. ^2117
+He also measured its wall, 144 cubits by human measurement, which is also an angel's measurement. ^2117
 
-The wall was built of jasper, while the city was pure gold, like clear glass. ^2118
+The wall was built of jasper, while the city was pure gold, clear as glass. ^2118
 
 The foundations of the wall of the city were adorned with every kind of jewel. The first was jasper, the second sapphire, the third agate, the fourth emerald, ^2119
 
 the fifth onyx, the sixth carnelian, the seventh chrysolite, the eighth beryl, the ninth topaz, the tenth chrysoprase, the eleventh jacinth, the twelfth amethyst. ^2120
 
-And the twelve gates were twelve pearls, each of the gates made of a single pearl, and the street of the city was pure gold, like transparent glass. ^2121
+And the twelve gates were twelve pearls, each of the gates made of a single pearl, and the street of the city was pure gold, transparent as glass. ^2121
 
 And I saw no temple in the city, for its temple is the Lord God the Almighty and the Lamb. ^2122
 
@@ -802,12 +778,11 @@ And the city has no need of sun or moon to shine on it, for the glory of God giv
 
 By its light will the nations walk, and the kings of the earth will bring their glory into it, ^2124
 
-and its gates will never be shut by day — and there will be no night there. ^2125
+and its gates will never be shut by day--and there will be no night there. ^2125
 
 They will bring into it the glory and the honor of the nations. ^2126
 
-But nothing unclean will ever enter it, nor anyone who does what is detestable or false, but only those who are written in the Lamb’s book of life. ^2127
-
+But nothing unclean will ever enter it, nor anyone who does what is detestable or false, but only those who are written in the Lamb's book of life. ^2127
 
 
 Then the angel showed me the river of the water of life, bright as crystal, flowing from the throne of God and of the Lamb ^2201
@@ -832,7 +807,7 @@ And he said to me, Do not seal up the words of the prophecy of this book, for th
 
 Let the evildoer still do evil, and the filthy still be filthy, and the righteous still do right, and the holy still be holy. ^2211
 
-Behold, I am coming soon, bringing my recompense with me, to repay each one for what he has done. ^2212
+Behold, I am coming soon, bringing my recompense with me, to repay everyone for what he has done. ^2212
 
 I am the Alpha and the Omega, the first and the last, the beginning and the end. ^2213
 
@@ -844,12 +819,10 @@ I, Jesus, have sent my angel to testify to you about these things for the church
 
 The Spirit and the Bride say, Come. And let the one who hears say, Come. And let the one who is thirsty come; let the one who desires take the water of life without price. ^2217
 
-I warn everyone who hears the words of the prophecy of this book : if anyone adds to them, God will add to him the plagues described in this book, ^2218
+I warn everyone who hears the words of the prophecy of this book: if anyone adds to them, God will add to him the plagues described in this book, ^2218
 
 and if anyone takes away from the words of the book of this prophecy, God will take away his share in the tree of life and in the holy city, which are described in this book. ^2219
 
 He who testifies to these things says, Surely I am coming soon. Amen. Come, Lord Jesus! ^2220
 
 The grace of the Lord Jesus be with all. Amen. ^2221
-
-

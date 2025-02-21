@@ -1,26 +1,24 @@
-
-
 Paul, called by the will of God to be an apostle of Christ Jesus, and our brother Sosthenes, ^0101
 
-To the church of God that is in Corinth, to those sanctified in Christ Jesus, called to be saints together with all those who in every place call upon the name of our Lord Jesus Christ, both their Lord and ours : ^0102
+To the church of God that is in Corinth, to those sanctified in Christ Jesus, called to be saints together with all those who in every place call upon the name of our Lord Jesus Christ, both their Lord and ours: ^0102
 
 Grace to you and peace from God our Father and the Lord Jesus Christ. ^0103
 
 I give thanks to my God always for you because of the grace of God that was given you in Christ Jesus, ^0104
 
-that in every way you were enriched in him in all speech and all knowledge — ^0105
+that in every way you were enriched in him in all speech and all knowledge-- ^0105
 
-even as the testimony about Christ was confirmed among you — ^0106
+even as the testimony about Christ was confirmed among you-- ^0106
 
-so that you are not lacking in any gift, as you wait for the revealing of our Lord Jesus Christ, ^0107
+so that you are not lacking in any spiritual gift, as you wait for the revealing of our Lord Jesus Christ, ^0107
 
 who will sustain you to the end, guiltless in the day of our Lord Jesus Christ. ^0108
 
 God is faithful, by whom you were called into the fellowship of his Son, Jesus Christ our Lord. ^0109
 
-I appeal to you, brothers, by the name of our Lord Jesus Christ, that all of you agree, and that there be no divisions among you, but that you be united in the same mind and the same judgment. ^0110
+I appeal to you, brothers, by the name of our Lord Jesus Christ, that all of you agree and that there be no divisions among you, but that you be united in the same mind and the same judgment. ^0110
 
-For it has been reported to me by Chloe’s people that there is quarreling among you, my brothers. ^0111
+For it has been reported to me by Chloe's people that there is quarreling among you, my brothers. ^0111
 
 What I mean is that each one of you says, I follow Paul, or I follow Apollos, or I follow Cephas, or I follow Christ. ^0112
 
@@ -30,7 +28,7 @@ I thank God that I baptized none of you except Crispus and Gaius, ^0114
 
 so that no one may say that you were baptized in my name. ^0115
 
-(I did baptize also the household of Stephanas. Beyond that, I do not know whether I baptized anyone else .) ^0116
+(I did baptize also the household of Stephanas. Beyond that, I do not know whether I baptized anyone else.) ^0116
 
 For Christ did not send me to baptize but to preach the gospel, and not with words of eloquent wisdom, lest the cross of Christ be emptied of its power. ^0117
 
@@ -50,7 +48,7 @@ but to those who are called, both Jews and Greeks, Christ the power of God and t
 
 For the foolishness of God is wiser than men, and the weakness of God is stronger than men. ^0125
 
-For consider your calling, brothers : not many of you were wise according to worldly standards, not many were powerful, not many were of noble birth. ^0126
+For consider your calling, brothers: not many of you were wise according to worldly standards, not many were powerful, not many were of noble birth. ^0126
 
 But God chose what is foolish in the world to shame the wise; God chose what is weak in the world to shame the strong; ^0127
 
@@ -58,10 +56,9 @@ God chose what is low and despised in the world, even things that are not, to br
 
 so that no human being might boast in the presence of God. ^0129
 
-And because of him you are in Christ Jesus, who became to us wisdom from God, righteousness and sanctification and redemption, ^0130
+He is the source of your life in Christ Jesus, whom God made our wisdom and our righteousness and sanctification and redemption. ^0130
 
-so that, as it is written, Let the one who boasts, boast in the Lord. ^0131
-
+Therefore, as it is written, Let the one who boasts, boast in the Lord. ^0131
 
 
 And I, when I came to you, brothers, did not come proclaiming to you the testimony of God with lofty speech or wisdom. ^0201
@@ -72,7 +69,7 @@ And I was with you in weakness and in fear and much trembling, ^0203
 
 and my speech and my message were not in plausible words of wisdom, but in demonstration of the Spirit and of power, ^0204
 
-so that your faith might not rest in the wisdom of men but in the power of God. ^0205
+that your faith might not rest in the wisdom of men but in the power of God. ^0205
 
 Yet among the mature we do impart wisdom, although it is not a wisdom of this age or of the rulers of this age, who are doomed to pass away. ^0206
 
@@ -80,11 +77,11 @@ But we impart a secret and hidden wisdom of God, which God decreed before the ag
 
 None of the rulers of this age understood this, for if they had, they would not have crucified the Lord of glory. ^0208
 
-But, as it is written, What no eye has seen, nor ear heard, nor the heart of man imagined, what God has prepared for those who love him — ^0209
+But, as it is written, What no eye has seen, nor ear heard, nor the heart of man imagined, what God has prepared for those who love him-- ^0209
 
 these things God has revealed to us through the Spirit. For the Spirit searches everything, even the depths of God. ^0210
 
-For who knows a person’s thoughts except the spirit of that person, which is in him? So also no one comprehends the thoughts of God except the Spirit of God. ^0211
+For who knows a person's thoughts except the spirit of that person, which is in him? So also no one comprehends the thoughts of God except the Spirit of God. ^0211
 
 Now we have received not the spirit of the world, but the Spirit who is from God, that we might understand the things freely given us by God. ^0212
 
@@ -95,7 +92,6 @@ The natural person does not accept the things of the Spirit of God, for they are
 The spiritual person judges all things, but is himself to be judged by no one. ^0215
 
 For who has understood the mind of the Lord so as to instruct him? But we have the mind of Christ. ^0216
-
 
 
 But I, brothers, could not address you as spiritual people, but as people of the flesh, as infants in Christ. ^0301
@@ -114,23 +110,23 @@ So neither he who plants nor he who waters is anything, but only God who gives t
 
 He who plants and he who waters are one, and each will receive his wages according to his labor. ^0308
 
-For we are God’s fellow workers. You are God’s field, God’s building. ^0309
+For we are God's fellow workers. You are God's field, God's building. ^0309
 
 According to the grace of God given to me, like a skilled master builder I laid a foundation, and someone else is building upon it. Let each one take care how he builds upon it. ^0310
 
 For no one can lay a foundation other than that which is laid, which is Jesus Christ. ^0311
 
-Now if anyone builds on the foundation with gold, silver, precious stones, wood, hay, straw — ^0312
+Now if anyone builds on the foundation with gold, silver, precious stones, wood, hay, straw-- ^0312
 
-each one’s work will become manifest, for the Day will disclose it, because it will be revealed by fire, and the fire will test what sort of work each one has done. ^0313
+each one's work will become manifest, for the Day will disclose it, because it will be revealed by fire, and the fire will test what sort of work each one has done. ^0313
 
 If the work that anyone has built on the foundation survives, he will receive a reward. ^0314
 
-If anyone’s work is burned up, he will suffer loss, though he himself will be saved, but only as through fire. ^0315
+If anyone's work is burned up, he will suffer loss, though he himself will be saved, but only as through fire. ^0315
 
-Do you not know that you are God’s temple and that God’s Spirit dwells in you? ^0316
+Do you not know that you are God's temple and that God's Spirit dwells in you? ^0316
 
-If anyone destroys God’s temple, God will destroy him. For God’s temple is holy, and you are that temple. ^0317
+If anyone destroys God's temple, God will destroy him. For God's temple is holy, and you are that temple. ^0317
 
 Let no one deceive himself. If anyone among you thinks that he is wise in this age, let him become a fool that he may become wise. ^0318
 
@@ -140,19 +136,18 @@ and again, The Lord knows the thoughts of the wise, that they are futile. ^0320
 
 So let no one boast in men. For all things are yours, ^0321
 
-whether Paul or Apollos or Cephas or the world or life or death or the present or the future — all are yours, ^0322
+whether Paul or Apollos or Cephas or the world or life or death or the present or the future--all are yours, ^0322
 
-and you are Christ’s, and Christ is God’s. ^0323
-
+and you are Christ's, and Christ is God's. ^0323
 
 
 This is how one should regard us, as servants of Christ and stewards of the mysteries of God. ^0401
 
-Moreover, it is required of stewards that they be found faithful. ^0402
+Moreover, it is required of stewards that they be found trustworthy. ^0402
 
 But with me it is a very small thing that I should be judged by you or by any human court. In fact, I do not even judge myself. ^0403
 
-For I am not aware of anything against myself, but I am not thereby acquitted. It is the Lord who judges me. ^0404
+I am not aware of anything against myself, but I am not thereby acquitted. It is the Lord who judges me. ^0404
 
 Therefore do not pronounce judgment before the time, before the Lord comes, who will bring to light the things now hidden in darkness and will disclose the purposes of the heart. Then each one will receive his commendation from God. ^0405
 
@@ -164,7 +159,7 @@ Already you have all you want! Already you have become rich! Without us you have
 
 For I think that God has exhibited us apostles as last of all, like men sentenced to death, because we have become a spectacle to the world, to angels, and to men. ^0409
 
-We are fools for Christ’s sake, but you are wise in Christ. We are weak, but you are strong. You are held in honor, but we in disrepute. ^0410
+We are fools for Christ's sake, but you are wise in Christ. We are weak, but you are strong. You are held in honor, but we in disrepute. ^0410
 
 To the present hour we hunger and thirst, we are poorly dressed and buffeted and homeless, ^0411
 
@@ -189,8 +184,7 @@ For the kingdom of God does not consist in talk but in power. ^0420
 What do you wish? Shall I come to you with a rod, or with love in a spirit of gentleness? ^0421
 
 
-
-It is actually reported that there is sexual immorality among you, and of a kind that is not tolerated even among pagans, for a man has his father’s wife. ^0501
+It is actually reported that there is sexual immorality among you, and of a kind that is not tolerated even among pagans, for a man has his father's wife. ^0501
 
 And you are arrogant! Ought you not rather to mourn? Let him who has done this be removed from among you. ^0502
 
@@ -206,16 +200,15 @@ Cleanse out the old leaven that you may be a new lump, as you really are unleave
 
 Let us therefore celebrate the festival, not with the old leaven, the leaven of malice and evil, but with the unleavened bread of sincerity and truth. ^0508
 
-I wrote to you in my letter not to associate with sexually immoral people— ^0509
+I wrote to you in my letter not to associate with sexually immoral people-- ^0509
 
 not at all meaning the sexually immoral of this world, or the greedy and swindlers, or idolaters, since then you would need to go out of the world. ^0510
 
-But now I am writing to you not to associate with anyone who bears the name of brother if he is guilty of sexual immorality or greed, or is an idolater, reviler, drunkard, or swindler —not even to eat with such a one. ^0511
+But now I am writing to you not to associate with anyone who bears the name of brother if he is guilty of sexual immorality or greed, or is an idolater, reviler, drunkard, or swindler--not even to eat with such a one. ^0511
 
 For what have I to do with judging outsiders? Is it not those inside the church whom you are to judge? ^0512
 
 God judges those outside. Purge the evil person from among you. ^0513
-
 
 
 When one of you has a grievance against another, does he dare go to law before the unrighteous instead of the saints? ^0601
@@ -232,17 +225,17 @@ but brother goes to law against brother, and that before unbelievers? ^0606
 
 To have lawsuits at all with one another is already a defeat for you. Why not rather suffer wrong? Why not rather be defrauded? ^0607
 
-But you yourselves wrong and defraud — even your own brothers! ^0608
+But you yourselves wrong and defraud--even your own brothers! ^0608
 
-Or do you not know that the unrighteous will not inherit the kingdom of God? Do not be deceived : neither the sexually immoral, nor idolaters, nor adulterers, nor men who practice homosexuality, ^0609
+Do you not know that the unrighteous will not inherit the kingdom of God? Do not be deceived: neither the sexually immoral, nor idolaters, nor adulterers, nor men who practice homosexuality, ^0609
 
 nor thieves, nor the greedy, nor drunkards, nor revilers, nor swindlers will inherit the kingdom of God. ^0610
 
 And such were some of you. But you were washed, you were sanctified, you were justified in the name of the Lord Jesus Christ and by the Spirit of our God. ^0611
 
-All things are lawful for me, but not all things are helpful. All things are lawful for me, but I will not be dominated by anything. ^0612
+All things are lawful for me, but not all things are helpful. All things are lawful for me, but I will not be enslaved by anything. ^0612
 
-Food is meant for the stomach and the stomach for food — and God will destroy both one and the other. The body is not meant for sexual immorality, but for the Lord, and the Lord for the body. ^0613
+Food is meant for the stomach and the stomach for food--and God will destroy both one and the other. The body is not meant for sexual immorality, but for the Lord, and the Lord for the body. ^0613
 
 And God raised the Lord and will also raise us up by his power. ^0614
 
@@ -259,8 +252,7 @@ Or do you not know that your body is a temple of the Holy Spirit within you, who
 for you were bought with a price. So glorify God in your body. ^0620
 
 
-
-Now concerning the matters about which you wrote : It is good for a man not to have sexual relations with a woman. ^0701
+Now concerning the matters about which you wrote: It is good for a man not to have sexual relations with a woman. ^0701
 
 But because of the temptation to sexual immorality, each man should have his own wife and each woman her own husband. ^0702
 
@@ -276,13 +268,13 @@ I wish that all were as I myself am. But each has his own gift from God, one of 
 
 To the unmarried and the widows I say that it is good for them to remain single as I am. ^0708
 
-But if they cannot exercise self-control, they should marry. For it is better to marry than to burn with passion. ^0709
+But if they cannot exercise self-control, they should marry. For it is better to marry than to be aflame with passion. ^0709
 
-To the married I give this charge ( not I, but the Lord ): the wife should not separate from her husband ^0710
+To the married I give this charge (not I, but the Lord): the wife should not separate from her husband ^0710
 
-( but if she does, she should remain unmarried or else be reconciled to her husband ), and the husband should not divorce his wife. ^0711
+(but if she does, she should remain unmarried or else be reconciled to her husband), and the husband should not divorce his wife. ^0711
 
-To the rest I say ( I, not the Lord ) that if any brother has a wife who is an unbeliever, and she consents to live with him, he should not divorce her. ^0712
+To the rest I say (I, not the Lord) that if any brother has a wife who is an unbeliever, and she consents to live with him, he should not divorce her. ^0712
 
 If any woman has a husband who is an unbeliever, and he consents to live with her, she should not divorce him. ^0713
 
@@ -290,7 +282,7 @@ For the unbelieving husband is made holy because of his wife, and the unbelievin
 
 But if the unbelieving partner separates, let it be so. In such cases the brother or sister is not enslaved. God has called you to peace. ^0715
 
-For how do you know, wife, whether you will save your husband? Or how do you know, husband, whether you will save your wife? ^0716
+Wife, how do you know whether you will save your husband? Husband, how do you know whether you will save your wife? ^0716
 
 Only let each person lead the life that the Lord has assigned to him, and to which God has called him. This is my rule in all the churches. ^0717
 
@@ -300,15 +292,15 @@ For neither circumcision counts for anything nor uncircumcision, but keeping the
 
 Each one should remain in the condition in which he was called. ^0720
 
-Were you a bondservant when called? Do not be concerned about it. ( But if you can gain your freedom, avail yourself of the opportunity.) ^0721
+Were you a slave when called? Do not be concerned about it. But if you can gain your freedom, avail yourself of the opportunity. ^0721
 
-For he who was called in the Lord as a bondservant is a freedman of the Lord. Likewise he who was free when called is a bondservant of Christ. ^0722
+For he who was called in the Lord as a slave is a freedman of the Lord. Likewise he who was free when called is a slave of Christ. ^0722
 
-You were bought with a price; do not become bondservants of men. ^0723
+You were bought with a price; do not become slaves of men. ^0723
 
 So, brothers, in whatever condition each was called, there let him remain with God. ^0724
 
-Now concerning the betrothed, I have no command from the Lord, but I give my judgment as one who by the Lord’s mercy is trustworthy. ^0725
+Now concerning the betrothed, I have no command from the Lord, but I give my judgment as one who by the Lord's mercy is trustworthy. ^0725
 
 I think that in view of the present distress it is good for a person to remain as he is. ^0726
 
@@ -316,7 +308,7 @@ Are you bound to a wife? Do not seek to be free. Are you free from a wife? Do no
 
 But if you do marry, you have not sinned, and if a betrothed woman marries, she has not sinned. Yet those who marry will have worldly troubles, and I would spare you that. ^0728
 
-This is what I mean, brothers : the appointed time has grown very short. From now on, let those who have wives live as though they had none, ^0729
+This is what I mean, brothers: the appointed time has grown very short. From now on, let those who have wives live as though they had none, ^0729
 
 and those who mourn as though they were not mourning, and those who rejoice as though they were not rejoicing, and those who buy as though they had no goods, ^0730
 
@@ -330,7 +322,7 @@ and his interests are divided. And the unmarried or betrothed woman is anxious a
 
 I say this for your own benefit, not to lay any restraint upon you, but to promote good order and to secure your undivided devotion to the Lord. ^0735
 
-If anyone thinks that he is not behaving properly toward his betrothed, if his passions are strong, and it has to be, let him do as he wishes : let them marry —it is no sin. ^0736
+If anyone thinks that he is not behaving properly toward his betrothed, if his passions are strong, and it has to be, let him do as he wishes: let them marry--it is no sin. ^0736
 
 But whoever is firmly established in his heart, being under no necessity but having his desire under control, and has determined this in his heart, to keep her as his betrothed, he will do well. ^0737
 
@@ -341,8 +333,7 @@ A wife is bound to her husband as long as he lives. But if her husband dies, she
 Yet in my judgment she is happier if she remains as she is. And I think that I too have the Spirit of God. ^0740
 
 
-
-Now concerning food offered to idols : we know that all of us possess knowledge. This knowledge puffs up, but love builds up. ^0801
+Now concerning food offered to idols: we know that all of us possess knowledge. This knowledge puffs up, but love builds up. ^0801
 
 If anyone imagines that he knows something, he does not yet know as he ought to know. ^0802
 
@@ -350,7 +341,7 @@ But if anyone loves God, he is known by God. ^0803
 
 Therefore, as to the eating of food offered to idols, we know that an idol has no real existence, and that there is no God but one. ^0804
 
-For although there may be so-called gods in heaven or on earth — as indeed there are many gods and many lords — ^0805
+For although there may be so-called gods in heaven or on earth--as indeed there are many gods and many lords-- ^0805
 
 yet for us there is one God, the Father, from whom are all things and for whom we exist, and one Lord, Jesus Christ, through whom are all things and through whom we exist. ^0806
 
@@ -360,14 +351,13 @@ Food will not commend us to God. We are no worse off if we do not eat, and no be
 
 But take care that this right of yours does not somehow become a stumbling block to the weak. ^0809
 
-For if anyone sees you who have knowledge eating in an idol’s temple, will he not be encouraged, if his conscience is weak, to eat food offered to idols? ^0810
+For if anyone sees you who have knowledge eating in an idol's temple, will he not be encouraged, if his conscience is weak, to eat food offered to idols? ^0810
 
 And so by your knowledge this weak person is destroyed, the brother for whom Christ died. ^0811
 
 Thus, sinning against your brothers and wounding their conscience when it is weak, you sin against Christ. ^0812
 
 Therefore, if food makes my brother stumble, I will never eat meat, lest I make my brother stumble. ^0813
-
 
 
 Am I not free? Am I not an apostle? Have I not seen Jesus our Lord? Are not you my workmanship in the Lord? ^0901
@@ -388,11 +378,11 @@ Do I say these things on human authority? Does not the Law say the same? ^0908
 
 For it is written in the Law of Moses, You shall not muzzle an ox when it treads out the grain. Is it for oxen that God is concerned? ^0909
 
-Does he not certainly speak for our sake? It was written for our sake, because the plowman should plow in hope and the thresher thresh in hope of sharing in the crop. ^0910
+Does he not speak entirely for our sake? It was written for our sake, because the plowman should plow in hope and the thresher thresh in hope of sharing in the crop. ^0910
 
 If we have sown spiritual things among you, is it too much if we reap material things from you? ^0911
 
-If others share this rightful claim on you, do not we even more? Nevertheless, we have not made use of this right, but we endure anything rather than put an obstacle in the way of the gospel of Christ. ^0912
+If others share this rightful claim on you, do not we even more?Nevertheless, we have not made use of this right, but we endure anything rather than put an obstacle in the way of the gospel of Christ. ^0912
 
 Do you not know that those who are employed in the temple service get their food from the temple, and those who serve at the altar share in the sacrificial offerings? ^0913
 
@@ -402,21 +392,21 @@ But I have made no use of any of these rights, nor am I writing these things to 
 
 For if I preach the gospel, that gives me no ground for boasting. For necessity is laid upon me. Woe to me if I do not preach the gospel! ^0916
 
-For if I do this of my own will, I have a reward, but if not of my own will, I am still entrusted with a stewardship. ^0917
+For if I do this of my own will, I have a reward, but not of my own will, I am still entrusted with a stewardship. ^0917
 
 What then is my reward? That in my preaching I may present the gospel free of charge, so as not to make full use of my right in the gospel. ^0918
 
 For though I am free from all, I have made myself a servant to all, that I might win more of them. ^0919
 
-To the Jews I became as a Jew, in order to win Jews. To those under the law I became as one under the law (though not being myself under the law ) that I might win those under the law. ^0920
+To the Jews I became as a Jew, in order to win Jews. To those under the law I became as one under the law (though not being myself under the law) that I might win those under the law. ^0920
 
-To those outside the law I became as one outside the law ( not being outside the law of God but under the law of Christ ) that I might win those outside the law. ^0921
+To those outside the law I became as one outside the law (not being outside the law of God but under the law of Christ) that I might win those outside the law. ^0921
 
 To the weak I became weak, that I might win the weak. I have become all things to all people, that by all means I might save some. ^0922
 
 I do it all for the sake of the gospel, that I may share with them in its blessings. ^0923
 
-Do you not know that in a race all the runners run, but only one receives the prize? So run that you may obtain it. ^0924
+Do you not know that in a race all the runners compete, but only one receives the prize? So run that you may obtain it. ^0924
 
 Every athlete exercises self-control in all things. They do it to receive a perishable wreath, but we an imperishable. ^0925
 
@@ -425,8 +415,7 @@ So I do not run aimlessly; I do not box as one beating the air. ^0926
 But I discipline my body and keep it under control, lest after preaching to others I myself should be disqualified. ^0927
 
 
-
-For I do not want you to be unaware, brothers, that our fathers were all under the cloud, and all passed through the sea, ^1001
+I want you to know, brothers, that our fathers were all under the cloud, and all passed through the sea, ^1001
 
 and all were baptized into Moses in the cloud and in the sea, ^1002
 
@@ -460,7 +449,7 @@ The cup of blessing that we bless, is it not a participation in the blood of Chr
 
 Because there is one bread, we who are many are one body, for we all partake of the one bread. ^1017
 
-Consider the people of Israel : are not those who eat the sacrifices participants in the altar? ^1018
+Consider the people of Israel: are not those who eat the sacrifices participants in the altar? ^1018
 
 What do I imply then? That food offered to idols is anything, or that an idol is anything? ^1019
 
@@ -476,13 +465,13 @@ Let no one seek his own good, but the good of his neighbor. ^1024
 
 Eat whatever is sold in the meat market without raising any question on the ground of conscience. ^1025
 
-For the earth is the Lord’s, and the fullness thereof. ^1026
+For the earth is the Lord's, and the fullness thereof. ^1026
 
 If one of the unbelievers invites you to dinner and you are disposed to go, eat whatever is set before you without raising any question on the ground of conscience. ^1027
 
-But if someone says to you, This has been offered in sacrifice, then do not eat it, for the sake of the one who informed you, and for the sake of conscience — ^1028
+But if someone says to you, This has been offered in sacrifice, then do not eat it, for the sake of the one who informed you, and for the sake of conscience-- ^1028
 
-I do not mean your conscience, but his. For why should my liberty be determined by someone else’s conscience? ^1029
+I do not mean your conscience, but his. For why should my liberty be determined by someone else's conscience? ^1029
 
 If I partake with thankfulness, why am I denounced because of that for which I give thanks? ^1030
 
@@ -493,7 +482,6 @@ Give no offense to Jews or to Greeks or to the church of God, ^1032
 just as I try to please everyone in everything I do, not seeking my own advantage, but that of many, that they may be saved. ^1033
 
 
-
 Be imitators of me, as I am of Christ. ^1101
 
 Now I commend you because you remember me in everything and maintain the traditions even as I delivered them to you. ^1102
@@ -502,7 +490,7 @@ But I want you to understand that the head of every man is Christ, the head of a
 
 Every man who prays or prophesies with his head covered dishonors his head, ^1104
 
-but every wife who prays or prophesies with her head uncovered dishonors her head, since it is the same as if her head were shaven. ^1105
+but every wife who prays or prophesies with her head uncovered dishonors her head--it is the same as if her head were shaven. ^1105
 
 For if a wife will not cover her head, then she should cut her hair short. But since it is disgraceful for a wife to cut off her hair or shave her head, let her cover her head. ^1106
 
@@ -518,7 +506,7 @@ Nevertheless, in the Lord woman is not independent of man nor man of woman; ^111
 
 for as woman was made from man, so man is now born of woman. And all things are from God. ^1112
 
-Judge for yourselves : is it proper for a wife to pray to God with her head uncovered? ^1113
+Judge for yourselves: is it proper for a wife to pray to God with her head uncovered? ^1113
 
 Does not nature itself teach you that if a man wears long hair it is a disgrace for him, ^1114
 
@@ -532,7 +520,7 @@ For, in the first place, when you come together as a church, I hear that there a
 
 for there must be factions among you in order that those who are genuine among you may be recognized. ^1119
 
-When you come together, it is not the Lord’s supper that you eat. ^1120
+When you come together, it is not the Lord's supper that you eat. ^1120
 
 For in eating, each one goes ahead with his own meal. One goes hungry, another gets drunk. ^1121
 
@@ -544,9 +532,9 @@ and when he had given thanks, he broke it, and said, This is my body which is fo
 
 In the same way also he took the cup, after supper, saying, This cup is the new covenant in my blood. Do this, as often as you drink it, in remembrance of me. ^1125
 
-For as often as you eat this bread and drink the cup, you proclaim the Lord’s death until he comes. ^1126
+For as often as you eat this bread and drink the cup, you proclaim the Lord's death until he comes. ^1126
 
-Whoever, therefore, eats the bread or drinks the cup of the Lord in an unworthy manner will be guilty concerning the body and blood of the Lord. ^1127
+Whoever, therefore, eats the bread or drinks the cup of the Lord in an unworthy manner will be guilty of profaning the body and blood of the Lord. ^1127
 
 Let a person examine himself, then, and so eat of the bread and drink of the cup. ^1128
 
@@ -558,10 +546,9 @@ But if we judged ourselves truly, we would not be judged. ^1131
 
 But when we are judged by the Lord, we are disciplined so that we may not be condemned along with the world. ^1132
 
-So then, my brothers, when you come together to eat, wait for one another — ^1133
+So then, my brothers, when you come together to eat, wait for one another-- ^1133
 
-if anyone is hungry, let him eat at home —so that when you come together it will not be for judgment. About the other things I will give directions when I come. ^1134
-
+if anyone is hungry, let him eat at home--so that when you come together it will not be for judgment. About the other things I will give directions when I come. ^1134
 
 
 Now concerning spiritual gifts, brothers, I do not want you to be uninformed. ^1201
@@ -578,7 +565,7 @@ and there are varieties of activities, but it is the same God who empowers them 
 
 To each is given the manifestation of the Spirit for the common good. ^1207
 
-For to one is given through the Spirit the utterance of wisdom, and to another the utterance of knowledge according to the same Spirit, ^1208
+To one is given through the Spirit the utterance of wisdom, and to another the utterance of knowledge according to the same Spirit, ^1208
 
 to another faith by the same Spirit, to another gifts of healing by the one Spirit, ^1209
 
@@ -588,7 +575,7 @@ All these are empowered by one and the same Spirit, who apportions to each one i
 
 For just as the body is one and has many members, and all the members of the body, though many, are one body, so it is with Christ. ^1212
 
-For in one Spirit we were all baptized into one body — Jews or Greeks, slaves or free — and all were made to drink of one Spirit. ^1213
+For in one Spirit we were all baptized into one body--Jews or Greeks, slaves or free--and all were made to drink of one Spirit. ^1213
 
 For the body does not consist of one member but of many. ^1214
 
@@ -624,8 +611,7 @@ Are all apostles? Are all prophets? Are all teachers? Do all work miracles? ^122
 
 Do all possess gifts of healing? Do all speak with tongues? Do all interpret? ^1230
 
-But earnestly desire the higher gifts. And I will show you a still more excellent way. ^1231
-
+But earnestly desire the higher gifts.And I will show you a still more excellent way. ^1231
 
 
 If I speak in the tongues of men and of angels, but have not love, I am a noisy gong or a clanging cymbal. ^1301
@@ -655,7 +641,6 @@ For now we see in a mirror dimly, but then face to face. Now I know in part; the
 So now faith, hope, and love abide, these three; but the greatest of these is love. ^1313
 
 
-
 Pursue love, and earnestly desire the spiritual gifts, especially that you may prophesy. ^1401
 
 For one who speaks in a tongue speaks not to men but to God; for no one understands him, but he utters mysteries in the Spirit. ^1402
@@ -680,7 +665,7 @@ but if I do not know the meaning of the language, I will be a foreigner to the s
 
 So with yourselves, since you are eager for manifestations of the Spirit, strive to excel in building up the church. ^1412
 
-Therefore, one who speaks in a tongue should pray that he may interpret. ^1413
+Therefore, one who speaks in a tongue should pray for the power to interpret. ^1413
 
 For if I pray in a tongue, my spirit prays but my mind is unfruitful. ^1414
 
@@ -720,7 +705,7 @@ For you can all prophesy one by one, so that all may learn and all be encouraged
 
 and the spirits of prophets are subject to prophets. ^1432
 
-For God is not a God of confusion but of peace. As in all the churches of the saints, ^1433
+For God is not a God of confusion but of peace.As in all the churches of the saints, ^1433
 
 the women should keep silent in the churches. For they are not permitted to speak, but should be in submission, as the Law also says. ^1434
 
@@ -737,12 +722,11 @@ So, my brothers, earnestly desire to prophesy, and do not forbid speaking in ton
 But all things should be done decently and in order. ^1440
 
 
-
 Now I would remind you, brothers, of the gospel I preached to you, which you received, in which you stand, ^1501
 
-and by which you are being saved, if you hold fast to the word I preached to you — unless you believed in vain. ^1502
+and by which you are being saved, if you hold fast to the word I preached to you--unless you believed in vain. ^1502
 
-For I delivered to you as of first importance what I also received : that Christ died for our sins in accordance with the Scriptures, ^1503
+For I delivered to you as of first importance what I also received: that Christ died for our sins in accordance with the Scriptures, ^1503
 
 that he was buried, that he was raised on the third day in accordance with the Scriptures, ^1504
 
@@ -774,7 +758,7 @@ And if Christ has not been raised, your faith is futile and you are still in you
 
 Then those also who have fallen asleep in Christ have perished. ^1518
 
-If in Christ we have hope in this life only, we are of all people most to be pitied. ^1519
+If in this life only we have hoped in Christ, we are of all people most to be pitied. ^1519
 
 But in fact Christ has been raised from the dead, the firstfruits of those who have fallen asleep. ^1520
 
@@ -782,7 +766,7 @@ For as by a man came death, by a man has come also the resurrection of the dead.
 
 For as in Adam all die, so also in Christ shall all be made alive. ^1522
 
-But each in his own order : Christ the firstfruits, then at his coming those who belong to Christ. ^1523
+But each in his own order: Christ the firstfruits, then at his coming those who belong to Christ. ^1523
 
 Then comes the end, when he delivers the kingdom to God the Father after destroying every rule and every authority and power. ^1524
 
@@ -796,13 +780,13 @@ When all things are subjected to him, then the Son himself will also be subjecte
 
 Otherwise, what do people mean by being baptized on behalf of the dead? If the dead are not raised at all, why are people baptized on their behalf? ^1529
 
-Why are we in danger every hour? ^1530
+Why am I in danger every hour? ^1530
 
 I protest, brothers, by my pride in you, which I have in Christ Jesus our Lord, I die every day! ^1531
 
 What do I gain if, humanly speaking, I fought with beasts at Ephesus? If the dead are not raised, Let us eat and drink, for tomorrow we die. ^1532
 
-Do not be deceived : Bad company ruins good morals. ^1533
+Do not be deceived: Bad company ruins good morals. ^1533
 
 Wake up from your drunken stupor, as is right, and do not go on sinning. For some have no knowledge of God. I say this to your shame. ^1534
 
@@ -836,7 +820,7 @@ As was the man of dust, so also are those who are of the dust, and as is the man
 
 Just as we have borne the image of the man of dust, we shall also bear the image of the man of heaven. ^1549
 
-I tell you this, brothers : flesh and blood cannot inherit the kingdom of God, nor does the perishable inherit the imperishable. ^1550
+I tell you this, brothers: flesh and blood cannot inherit the kingdom of God, nor does the perishable inherit the imperishable. ^1550
 
 Behold! I tell you a mystery. We shall not all sleep, but we shall all be changed, ^1551
 
@@ -844,7 +828,7 @@ in a moment, in the twinkling of an eye, at the last trumpet. For the trumpet wi
 
 For this perishable body must put on the imperishable, and this mortal body must put on immortality. ^1553
 
-When the perishable puts on the imperishable, and the mortal puts on immortality, then shall come to pass the saying that is written : Death is swallowed up in victory. ^1554
+When the perishable puts on the imperishable, and the mortal puts on immortality, then shall come to pass the saying that is written: Death is swallowed up in victory. ^1554
 
 O death, where is your victory? O death, where is your sting? ^1555
 
@@ -855,8 +839,7 @@ But thanks be to God, who gives us the victory through our Lord Jesus Christ. ^1
 Therefore, my beloved brothers, be steadfast, immovable, always abounding in the work of the Lord, knowing that in the Lord your labor is not in vain. ^1558
 
 
-
-Now concerning the collection for the saints : as I directed the churches of Galatia, so you also are to do. ^1601
+Now concerning the collection for the saints: as I directed the churches of Galatia, so you also are to do. ^1601
 
 On the first day of every week, each of you is to put something aside and store it up, as he may prosper, so that there will be no collecting when I come. ^1602
 
@@ -884,13 +867,13 @@ Be watchful, stand firm in the faith, act like men, be strong. ^1613
 
 Let all that you do be done in love. ^1614
 
-Now I urge you, brothers —you know that the household of Stephanas were the first converts in Achaia, and that they have devoted themselves to the service of the saints — ^1615
+Now I urge you, brothers--you know that the household of Stephanas were the first converts in Achaia, and that they have devoted themselves to the service of the saints-- ^1615
 
 be subject to such as these, and to every fellow worker and laborer. ^1616
 
 I rejoice at the coming of Stephanas and Fortunatus and Achaicus, because they have made up for your absence, ^1617
 
-for they refreshed my spirit as well as yours. Give recognition to such people. ^1618
+for they refreshed my spirit as well as yours. Give recognition to such men. ^1618
 
 The churches of Asia send you greetings. Aquila and Prisca, together with the church in their house, send you hearty greetings in the Lord. ^1619
 
@@ -903,5 +886,3 @@ If anyone has no love for the Lord, let him be accursed. Our Lord, come! ^1622
 The grace of the Lord Jesus be with you. ^1623
 
 My love be with you all in Christ Jesus. Amen. ^1624
-
-

@@ -1,6 +1,4 @@
-
-
-Paul and Timothy, servants of Christ Jesus, To all the saints in Christ Jesus who are at Philippi, with the overseers and deacons : ^0101
+Paul and Timothy, servants of Christ Jesus,To all the saints in Christ Jesus who are at Philippi, with the overseers and deacons: ^0101
 
 Grace to you and peace from God our Father and the Lord Jesus Christ. ^0102
 
@@ -32,7 +30,7 @@ Some indeed preach Christ from envy and rivalry, but others from good will. ^011
 
 The latter do it out of love, knowing that I am put here for the defense of the gospel. ^0116
 
-The former proclaim Christ out of selfish ambition, not sincerely but thinking to afflict me in my imprisonment. ^0117
+The former proclaim Christ out of rivalry, not sincerely but thinking to afflict me in my imprisonment. ^0117
 
 What then? Only that in every way, whether in pretense or in truth, Christ is proclaimed, and in that I rejoice. Yes, and I will rejoice, ^0118
 
@@ -61,12 +59,11 @@ For it has been granted to you that for the sake of Christ you should not only b
 engaged in the same conflict that you saw I had and now hear that I still have. ^0130
 
 
-
 So if there is any encouragement in Christ, any comfort from love, any participation in the Spirit, any affection and sympathy, ^0201
 
 complete my joy by being of the same mind, having the same love, being in full accord and of one mind. ^0202
 
-Do nothing from selfish ambition or conceit, but in humility count others more significant than yourselves. ^0203
+Do nothing from rivalry or conceit, but in humility count others more significant than yourselves. ^0203
 
 Let each of you look not only to his own interests, but also to the interests of others. ^0204
 
@@ -74,7 +71,7 @@ Have this mind among yourselves, which is yours in Christ Jesus, ^0205
 
 who, though he was in the form of God, did not count equality with God a thing to be grasped, ^0206
 
-but emptied himself, by taking the form of a servant, being born in the likeness of men. ^0207
+but made himself nothing, taking the form of a servant, being born in the likeness of men. ^0207
 
 And being found in human form, he humbled himself by becoming obedient to the point of death, even death on a cross. ^0208
 
@@ -88,7 +85,7 @@ Therefore, my beloved, as you have always obeyed, so now, not only as in my pres
 
 for it is God who works in you, both to will and to work for his good pleasure. ^0213
 
-Do all things without grumbling or disputing, ^0214
+Do all things without grumbling or questioning, ^0214
 
 that you may be blameless and innocent, children of God without blemish in the midst of a crooked and twisted generation, among whom you shine as lights in the world, ^0215
 
@@ -102,9 +99,9 @@ I hope in the Lord Jesus to send Timothy to you soon, so that I too may be cheer
 
 For I have no one like him, who will be genuinely concerned for your welfare. ^0220
 
-For they all seek their own interests, not those of Jesus Christ. ^0221
+They all seek their own interests, not those of Jesus Christ. ^0221
 
-But you know Timothy’s proven worth, how as a son with a father he has served with me in the gospel. ^0222
+But you know Timothy's proven worth, how as a son with a father he has served with me in the gospel. ^0222
 
 I hope therefore to send him just as soon as I see how it will go with me, ^0223
 
@@ -123,24 +120,23 @@ So receive him in the Lord with all joy, and honor such men, ^0229
 for he nearly died for the work of Christ, risking his life to complete what was lacking in your service to me. ^0230
 
 
-
 Finally, my brothers, rejoice in the Lord. To write the same things to you is no trouble to me and is safe for you. ^0301
 
 Look out for the dogs, look out for the evildoers, look out for those who mutilate the flesh. ^0302
 
-For we are the circumcision, who worship by the Spirit of God and glory in Christ Jesus and put no confidence in the flesh — ^0303
+For we are the real circumcision, who worship by the Spirit of God and glory in Christ Jesus and put no confidence in the flesh-- ^0303
 
-though I myself have reason for confidence in the flesh also. If anyone else thinks he has reason for confidence in the flesh, I have more : ^0304
+though I myself have reason for confidence in the flesh also. If anyone else thinks he has reason for confidence in the flesh, I have more: ^0304
 
 circumcised on the eighth day, of the people of Israel, of the tribe of Benjamin, a Hebrew of Hebrews; as to the law, a Pharisee; ^0305
 
-as to zeal, a persecutor of the church; as to righteousness under the law, blameless. ^0306
+as to zeal, a persecutor of the church; as to righteousness, under the law blameless. ^0306
 
 But whatever gain I had, I counted as loss for the sake of Christ. ^0307
 
 Indeed, I count everything as loss because of the surpassing worth of knowing Christ Jesus my Lord. For his sake I have suffered the loss of all things and count them as rubbish, in order that I may gain Christ ^0308
 
-and be found in him, not having a righteousness of my own that comes from the law, but that which comes through faith in Christ, the righteousness from God that depends on faith — ^0309
+and be found in him, not having a righteousness of my own that comes from the law, but that which comes through faith in Christ, the righteousness from God that depends on faith-- ^0309
 
 that I may know him and the power of his resurrection, and may share his sufferings, becoming like him in his death, ^0310
 
@@ -167,14 +163,13 @@ But our citizenship is in heaven, and from it we await a Savior, the Lord Jesus 
 who will transform our lowly body to be like his glorious body, by the power that enables him even to subject all things to himself. ^0321
 
 
-
 Therefore, my brothers, whom I love and long for, my joy and crown, stand firm thus in the Lord, my beloved. ^0401
 
 I entreat Euodia and I entreat Syntyche to agree in the Lord. ^0402
 
 Yes, I ask you also, true companion, help these women, who have labored side by side with me in the gospel together with Clement and the rest of my fellow workers, whose names are in the book of life. ^0403
 
-Rejoice in the Lord always; again I will say, rejoice. ^0404
+Rejoice in the Lord always; again I will say, Rejoice. ^0404
 
 Let your reasonableness be known to everyone. The Lord is at hand; ^0405
 
@@ -184,7 +179,7 @@ And the peace of God, which surpasses all understanding, will guard your hearts 
 
 Finally, brothers, whatever is true, whatever is honorable, whatever is just, whatever is pure, whatever is lovely, whatever is commendable, if there is any excellence, if there is anything worthy of praise, think about these things. ^0408
 
-What you have learned and received and heard and seen in me — practice these things, and the God of peace will be with you. ^0409
+What you have learned and received and heard and seen in me--practice these things, and the God of peace will be with you. ^0409
 
 I rejoiced in the Lord greatly that now at length you have revived your concern for me. You were indeed concerned for me, but you had no opportunity. ^0410
 
@@ -210,8 +205,6 @@ To our God and Father be glory forever and ever. Amen. ^0420
 
 Greet every saint in Christ Jesus. The brothers who are with me greet you. ^0421
 
-All the saints greet you, especially those of Caesar’s household. ^0422
+All the saints greet you, especially those of Caesar's household. ^0422
 
 The grace of the Lord Jesus Christ be with your spirit. ^0423
-
-

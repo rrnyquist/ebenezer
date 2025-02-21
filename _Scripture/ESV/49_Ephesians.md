@@ -1,6 +1,4 @@
-
-
-Paul, an apostle of Christ Jesus by the will of God, To the saints who are in Ephesus, and are faithful in Christ Jesus : ^0101
+Paul, an apostle of Christ Jesus by the will of God,To the saints who are in Ephesus, and are faithful in Christ Jesus: ^0101
 
 Grace to you and peace from God our Father and the Lord Jesus Christ. ^0102
 
@@ -8,7 +6,7 @@ Blessed be the God and Father of our Lord Jesus Christ, who has blessed us in Ch
 
 even as he chose us in him before the foundation of the world, that we should be holy and blameless before him. In love ^0104
 
-he predestined us for adoption as sons through Jesus Christ, according to the purpose of his will, ^0105
+he predestined us for adoption through Jesus Christ, according to the purpose of his will, ^0105
 
 to the praise of his glorious grace, with which he has blessed us in the Beloved. ^0106
 
@@ -32,7 +30,7 @@ For this reason, because I have heard of your faith in the Lord Jesus and your l
 
 I do not cease to give thanks for you, remembering you in my prayers, ^0116
 
-that the God of our Lord Jesus Christ, the Father of glory, may give you the Spirit of wisdom and of revelation in the knowledge of him, ^0117
+that the God of our Lord Jesus Christ, the Father of glory, may give you a spirit of wisdom and of revelation in the knowledge of him, ^0117
 
 having the eyes of your hearts enlightened, that you may know what is the hope to which he has called you, what are the riches of his glorious inheritance in the saints, ^0118
 
@@ -47,16 +45,15 @@ And he put all things under his feet and gave him as head over all things to the
 which is his body, the fullness of him who fills all in all. ^0123
 
 
-
 And you were dead in the trespasses and sins ^0201
 
-in which you once walked, following the course of this world, following the prince of the power of the air, the spirit that is now at work in the sons of disobedience — ^0202
+in which you once walked, following the course of this world, following the prince of the power of the air, the spirit that is now at work in the sons of disobedience-- ^0202
 
 among whom we all once lived in the passions of our flesh, carrying out the desires of the body and the mind, and were by nature children of wrath, like the rest of mankind. ^0203
 
 But God, being rich in mercy, because of the great love with which he loved us, ^0204
 
-even when we were dead in our trespasses, made us alive together with Christ — by grace you have been saved — ^0205
+even when we were dead in our trespasses, made us alive together with Christ--by grace you have been saved-- ^0205
 
 and raised us up with him and seated us with him in the heavenly places in Christ Jesus, ^0206
 
@@ -68,7 +65,7 @@ not a result of works, so that no one may boast. ^0209
 
 For we are his workmanship, created in Christ Jesus for good works, which God prepared beforehand, that we should walk in them. ^0210
 
-Therefore remember that at one time you Gentiles in the flesh, called the uncircumcision by what is called the circumcision, which is made in the flesh by hands — ^0211
+Therefore remember that at one time you Gentiles in the flesh, called the uncircumcision by what is called the circumcision, which is made in the flesh by hands-- ^0211
 
 remember that you were at that time separated from Christ, alienated from the commonwealth of Israel and strangers to the covenants of promise, having no hope and without God in the world. ^0212
 
@@ -76,7 +73,7 @@ But now in Christ Jesus you who once were far off have been brought near by the 
 
 For he himself is our peace, who has made us both one and has broken down in his flesh the dividing wall of hostility ^0214
 
-by abolishing the law of commandments expressed in ordinances, that he might create in himself one new man in place of the two, so making peace, ^0215
+by abolishing the law of commandments and ordinances, that he might create in himself one new man in place of the two, so making peace, ^0215
 
 and might reconcile us both to God in one body through the cross, thereby killing the hostility. ^0216
 
@@ -93,10 +90,9 @@ in whom the whole structure, being joined together, grows into a holy temple in 
 In him you also are being built together into a dwelling place for God by the Spirit. ^0222
 
 
+For this reason I, Paul, a prisoner for Christ Jesus on behalf of you Gentiles-- ^0301
 
-For this reason I, Paul, a prisoner for Christ Jesus on behalf of you Gentiles — ^0301
-
-assuming that you have heard of the stewardship of God’s grace that was given to me for you, ^0302
+assuming that you have heard of the stewardship of God's grace that was given to me for you, ^0302
 
 how the mystery was made known to me by revelation, as I have written briefly. ^0303
 
@@ -106,7 +102,7 @@ which was not made known to the sons of men in other generations as it has now b
 
 This mystery is that the Gentiles are fellow heirs, members of the same body, and partakers of the promise in Christ Jesus through the gospel. ^0306
 
-Of this gospel I was made a minister according to the gift of God’s grace, which was given me by the working of his power. ^0307
+Of this gospel I was made a minister according to the gift of God's grace, which was given me by the working of his power. ^0307
 
 To me, though I am the very least of all the saints, this grace was given, to preach to the Gentiles the unsearchable riches of Christ, ^0308
 
@@ -126,7 +122,7 @@ from whom every family in heaven and on earth is named, ^0315
 
 that according to the riches of his glory he may grant you to be strengthened with power through his Spirit in your inner being, ^0316
 
-so that Christ may dwell in your hearts through faith — that you, being rooted and grounded in love, ^0317
+so that Christ may dwell in your hearts through faith--that you, being rooted and grounded in love, ^0317
 
 may have strength to comprehend with all the saints what is the breadth and length and height and depth, ^0318
 
@@ -137,28 +133,27 @@ Now to him who is able to do far more abundantly than all that we ask or think, 
 to him be glory in the church and in Christ Jesus throughout all generations, forever and ever. Amen. ^0321
 
 
-
 I therefore, a prisoner for the Lord, urge you to walk in a manner worthy of the calling to which you have been called, ^0401
 
 with all humility and gentleness, with patience, bearing with one another in love, ^0402
 
 eager to maintain the unity of the Spirit in the bond of peace. ^0403
 
-There is one body and one Spirit —just as you were called to the one hope that belongs to your call — ^0404
+There is one body and one Spirit--just as you were called to the one hope that belongs to your call-- ^0404
 
 one Lord, one faith, one baptism, ^0405
 
 one God and Father of all, who is over all and through all and in all. ^0406
 
-But grace was given to each one of us according to the measure of Christ’s gift. ^0407
+But grace was given to each one of us according to the measure of Christ's gift. ^0407
 
 Therefore it says, When he ascended on high he led a host of captives, and he gave gifts to men. ^0408
 
-( In saying, He ascended, what does it mean but that he had also descended into the lower regions, the earth? ^0409
+(In saying, He ascended, what does it mean but that he had also descended into the lower parts of the earth? ^0409
 
-He who descended is the one who also ascended far above all the heavens, that he might fill all things .) ^0410
+He who descended is the one who also ascended far above all the heavens, that he might fill all things.) ^0410
 
-And he gave the apostles, the prophets, the evangelists, the shepherds and teachers, ^0411
+And he gave the apostles, the prophets, the evangelists, the pastors and teachers, ^0411
 
 to equip the saints for the work of ministry, for building up the body of Christ, ^0412
 
@@ -176,7 +171,7 @@ They are darkened in their understanding, alienated from the life of God because
 
 They have become callous and have given themselves up to sensuality, greedy to practice every kind of impurity. ^0419
 
-But that is not the way you learned Christ !— ^0420
+But that is not the way you learned Christ!-- ^0420
 
 assuming that you have heard about him and were taught in him, as the truth is in Jesus, ^0421
 
@@ -203,7 +198,6 @@ Let all bitterness and wrath and anger and clamor and slander be put away from y
 Be kind to one another, tenderhearted, forgiving one another, as God in Christ forgave you. ^0432
 
 
-
 Therefore be imitators of God, as beloved children. ^0501
 
 And walk in love, as Christ loved us and gave himself up for us, a fragrant offering and sacrifice to God. ^0502
@@ -212,15 +206,15 @@ But sexual immorality and all impurity or covetousness must not even be named am
 
 Let there be no filthiness nor foolish talk nor crude joking, which are out of place, but instead let there be thanksgiving. ^0504
 
-For you may be sure of this, that everyone who is sexually immoral or impure, or who is covetous ( that is, an idolater ), has no inheritance in the kingdom of Christ and God. ^0505
+For you may be sure of this, that everyone who is sexually immoral or impure, or who is covetous (that is, an idolater), has no inheritance in the kingdom of Christ and God. ^0505
 
 Let no one deceive you with empty words, for because of these things the wrath of God comes upon the sons of disobedience. ^0506
 
-Therefore do not become partners with them; ^0507
+Therefore do not associate with them; ^0507
 
 for at one time you were darkness, but now you are light in the Lord. Walk as children of light ^0508
 
-( for the fruit of light is found in all that is good and right and true ), ^0509
+(for the fruit of light is found in all that is good and right and true), ^0509
 
 and try to discern what is pleasing to the Lord. ^0510
 
@@ -240,7 +234,7 @@ Therefore do not be foolish, but understand what the will of the Lord is. ^0517
 
 And do not get drunk with wine, for that is debauchery, but be filled with the Spirit, ^0518
 
-addressing one another in psalms and hymns and spiritual songs, singing and making melody to the Lord with your heart, ^0519
+addressing one another in psalms and hymns and spiritual songs, singing and making melody to the Lord with all your heart, ^0519
 
 giving thanks always and for everything to God the Father in the name of our Lord Jesus Christ, ^0520
 
@@ -271,22 +265,21 @@ This mystery is profound, and I am saying that it refers to Christ and the churc
 However, let each one of you love his wife as himself, and let the wife see that she respects her husband. ^0533
 
 
-
 Children, obey your parents in the Lord, for this is right. ^0601
 
-Honor your father and mother ( this is the first commandment with a promise ), ^0602
+Honor your father and mother (this is the first commandment with a promise), ^0602
 
 that it may go well with you and that you may live long in the land. ^0603
 
 Fathers, do not provoke your children to anger, but bring them up in the discipline and instruction of the Lord. ^0604
 
-Bondservants, obey your earthly masters with fear and trembling, with a sincere heart, as you would Christ, ^0605
+Slaves, obey your earthly masters with fear and trembling, with a sincere heart, as you would Christ, ^0605
 
-not by the way of eye-service, as people-pleasers, but as bondservants of Christ, doing the will of God from the heart, ^0606
+not by the way of eye-service, as people-pleasers, but as servants of Christ, doing the will of God from the heart, ^0606
 
 rendering service with a good will as to the Lord and not to man, ^0607
 
-knowing that whatever good anyone does, this he will receive back from the Lord, whether he is a bondservant or is free. ^0608
+knowing that whatever good anyone does, this he will receive back from the Lord, whether he is a slave or free. ^0608
 
 Masters, do the same to them, and stop your threatening, knowing that he who is both their Master and yours is in heaven, and that there is no partiality with him. ^0609
 
@@ -319,5 +312,3 @@ I have sent him to you for this very purpose, that you may know how we are, and 
 Peace be to the brothers, and love with faith, from God the Father and the Lord Jesus Christ. ^0623
 
 Grace be with all who love our Lord Jesus Christ with love incorruptible. ^0624
-
-

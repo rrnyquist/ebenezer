@@ -1,8 +1,6 @@
-
-
 Paul, an apostle of Christ Jesus by the will of God according to the promise of the life that is in Christ Jesus, ^0101
 
-To Timothy, my beloved child : Grace, mercy, and peace from God the Father and Christ Jesus our Lord. ^0102
+To Timothy, my beloved child:Grace, mercy, and peace from God the Father and Christ Jesus our Lord. ^0102
 
 I thank God whom I serve, as did my ancestors, with a clear conscience, as I remember you constantly in my prayers night and day. ^0103
 
@@ -32,10 +30,9 @@ You are aware that all who are in Asia turned away from me, among whom are Phyge
 
 May the Lord grant mercy to the household of Onesiphorus, for he often refreshed me and was not ashamed of my chains, ^0116
 
-but when he arrived in Rome he searched for me earnestly and found me— ^0117
+but when he arrived in Rome he searched for me earnestly and found me-- ^0117
 
-may the Lord grant him to find mercy from the Lord on that Day !— and you well know all the service he rendered at Ephesus. ^0118
-
+may the Lord grant him to find mercy from the Lord on that Day!--and you well know all the service he rendered at Ephesus. ^0118
 
 
 You then, my child, be strengthened by the grace that is in Christ Jesus, ^0201
@@ -58,11 +55,11 @@ for which I am suffering, bound with chains as a criminal. But the word of God i
 
 Therefore I endure everything for the sake of the elect, that they also may obtain the salvation that is in Christ Jesus with eternal glory. ^0210
 
-The saying is trustworthy, for : If we have died with him, we will also live with him; ^0211
+The saying is trustworthy, for: If we have died with him, we will also live with him; ^0211
 
 if we endure, we will also reign with him; if we deny him, he also will deny us; ^0212
 
-if we are faithless, he remains faithful — for he cannot deny himself. ^0213
+if we are faithless, he remains faithful--for he cannot deny himself. ^0213
 
 Remind them of these things, and charge them before God not to quarrel about words, which does no good, but only ruins the hearers. ^0214
 
@@ -74,7 +71,7 @@ and their talk will spread like gangrene. Among them are Hymenaeus and Philetus,
 
 who have swerved from the truth, saying that the resurrection has already happened. They are upsetting the faith of some. ^0218
 
-But God’s firm foundation stands, bearing this seal : The Lord knows those who are his, and, Let everyone who names the name of the Lord depart from iniquity. ^0219
+But God's firm foundation stands, bearing this seal: The Lord knows those who are his, and, Let everyone who names the name of the Lord depart from iniquity. ^0219
 
 Now in a great house there are not only vessels of gold and silver but also of wood and clay, some for honorable use, some for dishonorable. ^0220
 
@@ -84,12 +81,11 @@ So flee youthful passions and pursue righteousness, faith, love, and peace, alon
 
 Have nothing to do with foolish, ignorant controversies; you know that they breed quarrels. ^0223
 
-And the Lord’s servant must not be quarrelsome but kind to everyone, able to teach, patiently enduring evil, ^0224
+And the Lord's servant must not be quarrelsome but kind to everyone, able to teach, patiently enduring evil, ^0224
 
 correcting his opponents with gentleness. God may perhaps grant them repentance leading to a knowledge of the truth, ^0225
 
-and they may come to their senses and escape from the snare of the devil, after being captured by him to do his will. ^0226
-
+and they may escape from the snare of the devil, after being captured by him to do his will. ^0226
 
 
 But understand this, that in the last days there will come times of difficulty. ^0301
@@ -112,7 +108,7 @@ But they will not get very far, for their folly will be plain to all, as was tha
 
 You, however, have followed my teaching, my conduct, my aim in life, my faith, my patience, my love, my steadfastness, ^0310
 
-my persecutions and sufferings that happened to me at Antioch, at Iconium, and at Lystra — which persecutions I endured; yet from them all the Lord rescued me. ^0311
+my persecutions and sufferings that happened to me at Antioch, at Iconium, and at Lystra--which persecutions I endured; yet from them all the Lord rescued me. ^0311
 
 Indeed, all who desire to live a godly life in Christ Jesus will be persecuted, ^0312
 
@@ -124,11 +120,10 @@ and how from childhood you have been acquainted with the sacred writings, which 
 
 All Scripture is breathed out by God and profitable for teaching, for reproof, for correction, and for training in righteousness, ^0316
 
-that the man of God may be complete, equipped for every good work. ^0317
+that the man of God may be competent, equipped for every good work. ^0317
 
 
-
-I charge you in the presence of God and of Christ Jesus, who is to judge the living and the dead, and by his appearing and his kingdom : ^0401
+I charge you in the presence of God and of Christ Jesus, who is to judge the living and the dead, and by his appearing and his kingdom: ^0401
 
 preach the word; be ready in season and out of season; reprove, rebuke, and exhort, with complete patience and teaching. ^0402
 
@@ -160,7 +155,7 @@ Beware of him yourself, for he strongly opposed our message. ^0415
 
 At my first defense no one came to stand by me, but all deserted me. May it not be charged against them! ^0416
 
-But the Lord stood by me and strengthened me, so that through me the message might be fully proclaimed and all the Gentiles might hear it. So I was rescued from the lion’s mouth. ^0417
+But the Lord stood by me and strengthened me, so that through me the message might be fully proclaimed and all the Gentiles might hear it. So I was rescued from the lion's mouth. ^0417
 
 The Lord will rescue me from every evil deed and bring me safely into his heavenly kingdom. To him be the glory forever and ever. Amen. ^0418
 
@@ -171,5 +166,3 @@ Erastus remained at Corinth, and I left Trophimus, who was ill, at Miletus. ^042
 Do your best to come before winter. Eubulus sends greetings to you, as do Pudens and Linus and Claudia and all the brothers. ^0421
 
 The Lord be with your spirit. Grace be with you. ^0422
-
-

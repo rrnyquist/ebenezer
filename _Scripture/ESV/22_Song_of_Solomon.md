@@ -1,6 +1,4 @@
-
-
-The Song of Songs, which is Solomon’s. ^0101
+The Song of Songs, which is Solomon's. ^0101
 
 Let him kiss me with the kisses of his mouth! For your love is better than wine; ^0102
 
@@ -10,13 +8,13 @@ Draw me after you; let us run. The king has brought me into his chambers. We wil
 
 I am very dark, but lovely, O daughters of Jerusalem, like the tents of Kedar, like the curtains of Solomon. ^0105
 
-Do not gaze at me because I am dark, because the sun has looked upon me. My mother’s sons were angry with me; they made me keeper of the vineyards, but my own vineyard I have not kept! ^0106
+Do not gaze at me because I am dark, because the sun has looked upon me. My mother's sons were angry with me; they made me keeper of the vineyards, but my own vineyard I have not kept! ^0106
 
 Tell me, you whom my soul loves, where you pasture your flock, where you make it lie down at noon; for why should I be like one who veils herself beside the flocks of your companions? ^0107
 
-If you do not know, O most beautiful among women, follow in the tracks of the flock, and pasture your young goats beside the shepherds ’ tents. ^0108
+If you do not know, O most beautiful among women, follow in the tracks of the flock, and pasture your young goats beside the shepherds' tents. ^0108
 
-I compare you, my love, to a mare among Pharaoh’s chariots. ^0109
+I compare you, my love, to a mare among Pharaoh's chariots. ^0109
 
 Your cheeks are lovely with ornaments, your neck with strings of jewels. ^0110
 
@@ -35,12 +33,11 @@ Behold, you are beautiful, my beloved, truly delightful. Our couch is green; ^01
 the beams of our house are cedar; our rafters are pine. ^0117
 
 
-
 I am a rose of Sharon, a lily of the valleys. ^0201
 
 As a lily among brambles, so is my love among the young women. ^0202
 
-As an apple tree among the trees of the forest, so is my beloved among the young men. With great delight I sat in his shadow, and his fruit was sweet to my taste. ^0203
+As an apple tree among the trees of the forest, so is my beloved among the young men. With great delight I sat in his shadow, and his fruit was sweet to my taste, ^0203
 
 He brought me to the banqueting house, and his banner over me was love. ^0204
 
@@ -71,14 +68,13 @@ My beloved is mine, and I am his; he grazes among the lilies. ^0216
 Until the day breathes and the shadows flee, turn, my beloved, be like a gazelle or a young stag on cleft mountains. ^0217
 
 
-
 On my bed by night I sought him whom my soul loves; I sought him, but found him not. ^0301
 
 I will rise now and go about the city, in the streets and in the squares; I will seek him whom my soul loves. I sought him, but found him not. ^0302
 
 The watchmen found me as they went about in the city. Have you seen him whom my soul loves? ^0303
 
-Scarcely had I passed them when I found him whom my soul loves. I held him, and would not let him go until I had brought him into my mother’s house, and into the chamber of her who conceived me. ^0304
+Scarcely had I passed them when I found him whom my soul loves. I held him, and would not let him go until I had brought him into my mother's house, and into the chamber of her who conceived me. ^0304
 
 I adjure you, O daughters of Jerusalem, by the gazelles or the does of the field, that you not stir up or awaken love until it pleases. ^0305
 
@@ -93,7 +89,6 @@ King Solomon made himself a carriage from the wood of Lebanon. ^0309
 He made its posts of silver, its back of gold, its seat of purple; its interior was inlaid with love by the daughters of Jerusalem. ^0310
 
 Go out, O daughters of Zion, and look upon King Solomon, with the crown with which his mother crowned him on the day of his wedding, on the day of the gladness of his heart. ^0311
-
 
 
 Behold, you are beautiful, my love, behold, you are beautiful! Your eyes are doves behind your veil. Your hair is like a flock of goats leaping down the slopes of Gilead. ^0401
@@ -122,12 +117,11 @@ A garden locked is my sister, my bride, a spring locked, a fountain sealed. ^041
 
 Your shoots are an orchard of pomegranates with all choicest fruits, henna with nard, ^0413
 
-nard and saffron, calamus and cinnamon, with all trees of frankincense, myrrh and aloes, with all choice spices — ^0414
+nard and saffron, calamus and cinnamon, with all trees of frankincense, myrrh and aloes, with all chief spices-- ^0414
 
 a garden fountain, a well of living water, and flowing streams from Lebanon. ^0415
 
 Awake, O north wind, and come, O south wind! Blow upon my garden, let its spices flow. Let my beloved come to his garden, and eat its choicest fruits. ^0416
-
 
 
 I came to my garden, my sister, my bride, I gathered my myrrh with my spice, I ate my honeycomb with my honey, I drank my wine with my milk. Eat, friends, drink, and be drunk with love! ^0501
@@ -163,16 +157,15 @@ His legs are alabaster columns, set on bases of gold. His appearance is like Leb
 His mouth is most sweet, and he is altogether desirable. This is my beloved and this is my friend, O daughters of Jerusalem. ^0516
 
 
-
 Where has your beloved gone, O most beautiful among women? Where has your beloved turned, that we may seek him with you? ^0601
 
 My beloved has gone down to his garden to the beds of spices, to graze in the gardens and to gather lilies. ^0602
 
-I am my beloved’s and my beloved is mine; he grazes among the lilies. ^0603
+I am my beloved's and my beloved is mine; he grazes among the lilies. ^0603
 
 You are beautiful as Tirzah, my love, lovely as Jerusalem, awesome as an army with banners. ^0604
 
-Turn away your eyes from me, for they overwhelm me— Your hair is like a flock of goats leaping down the slopes of Gilead. ^0605
+Turn away your eyes from me, for they overwhelm me--Your hair is like a flock of goats leaping down the slopes of Gilead. ^0605
 
 Your teeth are like a flock of ewes that have come up from the washing; all of them bear twins; not one among them has lost its young. ^0606
 
@@ -188,8 +181,7 @@ I went down to the nut orchard to look at the blossoms of the valley, to see whe
 
 Before I was aware, my desire set me among the chariots of my kinsman, a prince. ^0612
 
-Return, return, O Shulammite, return, return, that we may look upon you. Why should you look upon the Shulammite, as upon a dance before two armies? ^0613
-
+Return, return, O Shulammite, return, return, that we may look upon you.Why should you look upon the Shulammite, as upon a dance before two armies? ^0613
 
 
 How beautiful are your feet in sandals, O noble daughter! Your rounded thighs are like jewels, the work of a master hand. ^0701
@@ -210,7 +202,7 @@ I say I will climb the palm tree and lay hold of its fruit. Oh may your breasts 
 
 and your mouth like the best wine. It goes down smoothly for my beloved, gliding over lips and teeth. ^0709
 
-I am my beloved’s, and his desire is for me. ^0710
+I am my beloved's, and his desire is for me. ^0710
 
 Come, my beloved, let us go out into the fields and lodge in the villages; ^0711
 
@@ -219,18 +211,17 @@ let us go out early to the vineyards and see whether the vines have budded, whet
 The mandrakes give forth fragrance, and beside our doors are all choice fruits, new as well as old, which I have laid up for you, O my beloved. ^0713
 
 
+Oh that you were like a brother to me who nursed at my mother's breasts! If I found you outside, I would kiss you, and none would despise me. ^0801
 
-Oh that you were like a brother to me who nursed at my mother’s breasts! If I found you outside, I would kiss you, and none would despise me. ^0801
-
-I would lead you and bring you into the house of my mother — she who used to teach me. I would give you spiced wine to drink, the juice of my pomegranate. ^0802
+I would lead you and bring you into the house of my mother--she who used to teach me. I would give you spiced wine to drink, the juice of my pomegranate. ^0802
 
 His left hand is under my head, and his right hand embraces me! ^0803
 
 I adjure you, O daughters of Jerusalem, that you not stir up or awaken love until it pleases. ^0804
 
-Who is that coming up from the wilderness, leaning on her beloved? Under the apple tree I awakened you. There your mother was in labor with you; there she who bore you was in labor. ^0805
+Who is that coming up from the wilderness, leaning on her beloved?Under the apple tree I awakened you. There your mother was in labor with you; there she who bore you was in labor. ^0805
 
-Set me as a seal upon your heart, as a seal upon your arm, for love is strong as death, jealousy is fierce as the grave. Its flashes are flashes of fire, the very flame of the Lord. ^0806
+Set me as a seal upon your heart, as a seal upon your arm, for love is strong as death, jealousy is fierce as the grave. Its flashes are flashes of fire, the very flame of the LORD. ^0806
 
 Many waters cannot quench love, neither can floods drown it. If a man offered for love all the wealth of his house, he would be utterly despised. ^0807
 
@@ -247,5 +238,3 @@ My vineyard, my very own, is before me; you, O Solomon, may have the thousand, a
 O you who dwell in the gardens, with companions listening for your voice; let me hear it. ^0813
 
 Make haste, my beloved, and be like a gazelle or a young stag on the mountains of spices. ^0814
-
-

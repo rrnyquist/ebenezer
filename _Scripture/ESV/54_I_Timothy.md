@@ -1,10 +1,8 @@
-
-
 Paul, an apostle of Christ Jesus by command of God our Savior and of Christ Jesus our hope, ^0101
 
-To Timothy, my true child in the faith : Grace, mercy, and peace from God the Father and Christ Jesus our Lord. ^0102
+To Timothy, my true child in the faith:Grace, mercy, and peace from God the Father and Christ Jesus our Lord. ^0102
 
-As I urged you when I was going to Macedonia, remain at Ephesus so that you may charge certain persons not to teach any different doctrine, ^0103
+As I urged you when I was going to Macedonia, remain at Ephesus that you may charge certain persons not to teach any different doctrine, ^0103
 
 nor to devote themselves to myths and endless genealogies, which promote speculations rather than the stewardship from God that is by faith. ^0104
 
@@ -20,7 +18,7 @@ understanding this, that the law is not laid down for the just but for the lawle
 
 the sexually immoral, men who practice homosexuality, enslavers, liars, perjurers, and whatever else is contrary to sound doctrine, ^0110
 
-in accordance with the gospel of the glory of the blessed God with which I have been entrusted. ^0111
+in accordance with the glorious gospel of the blessed God with which I have been entrusted. ^0111
 
 I thank him who has given me strength, Christ Jesus our Lord, because he judged me faithful, appointing me to his service, ^0112
 
@@ -32,14 +30,13 @@ The saying is trustworthy and deserving of full acceptance, that Christ Jesus ca
 
 But I received mercy for this reason, that in me, as the foremost, Jesus Christ might display his perfect patience as an example to those who were to believe in him for eternal life. ^0116
 
-To the King of the ages, immortal, invisible, the only God, be honor and glory forever and ever. Amen. ^0117
+To the King of ages, immortal, invisible, the only God, be honor and glory forever and ever. Amen. ^0117
 
 This charge I entrust to you, Timothy, my child, in accordance with the prophecies previously made about you, that by them you may wage the good warfare, ^0118
 
 holding faith and a good conscience. By rejecting this, some have made shipwreck of their faith, ^0119
 
 among whom are Hymenaeus and Alexander, whom I have handed over to Satan that they may learn not to blaspheme. ^0120
-
 
 
 First of all, then, I urge that supplications, prayers, intercessions, and thanksgivings be made for all people, ^0201
@@ -54,13 +51,13 @@ For there is one God, and there is one mediator between God and men, the man Chr
 
 who gave himself as a ransom for all, which is the testimony given at the proper time. ^0206
 
-For this I was appointed a preacher and an apostle ( I am telling the truth, I am not lying ), a teacher of the Gentiles in faith and truth. ^0207
+For this I was appointed a preacher and an apostle (I am telling the truth, I am not lying), a teacher of the Gentiles in faith and truth. ^0207
 
 I desire then that in every place the men should pray, lifting holy hands without anger or quarreling; ^0208
 
 likewise also that women should adorn themselves in respectable apparel, with modesty and self-control, not with braided hair and gold or pearls or costly attire, ^0209
 
-but with what is proper for women who profess godliness — with good works. ^0210
+but with what is proper for women who profess godliness--with good works. ^0210
 
 Let a woman learn quietly with all submissiveness. ^0211
 
@@ -70,11 +67,10 @@ For Adam was formed first, then Eve; ^0213
 
 and Adam was not deceived, but the woman was deceived and became a transgressor. ^0214
 
-Yet she will be saved through childbearing — if they continue in faith and love and holiness, with self-control. ^0215
+Yet she will be saved through childbearing--if they continue in faith and love and holiness, with self-control. ^0215
 
 
-
-The saying is trustworthy : If anyone aspires to the office of overseer, he desires a noble task. ^0301
+The saying is trustworthy: If anyone aspires to the office of overseer, he desires a noble task. ^0301
 
 Therefore an overseer must be above reproach, the husband of one wife, sober-minded, self-controlled, respectable, hospitable, able to teach, ^0302
 
@@ -82,7 +78,7 @@ not a drunkard, not violent but gentle, not quarrelsome, not a lover of money. ^
 
 He must manage his own household well, with all dignity keeping his children submissive, ^0304
 
-for if someone does not know how to manage his own household, how will he care for God’s church? ^0305
+for if someone does not know how to manage his own household, how will he care for God's church? ^0305
 
 He must not be a recent convert, or he may become puffed up with conceit and fall into the condemnation of the devil. ^0306
 
@@ -102,10 +98,9 @@ For those who serve well as deacons gain a good standing for themselves and also
 
 I hope to come to you soon, but I am writing these things to you so that, ^0314
 
-if I delay, you may know how one ought to behave in the household of God, which is the church of the living God, a pillar and buttress of the truth. ^0315
+if I delay, you may know how one ought to behave in the household of God, which is the church of the living God, a pillar and buttress of truth. ^0315
 
-Great indeed, we confess, is the mystery of godliness : He was manifested in the flesh, vindicated by the Spirit, seen by angels, proclaimed among the nations, believed on in the world, taken up in glory. ^0316
-
+Great indeed, we confess, is the mystery of godliness: He was manifested in the flesh, vindicated by the Spirit, seen by angels, proclaimed among the nations, believed on in the world, taken up in glory. ^0316
 
 
 Now the Spirit expressly says that in later times some will depart from the faith by devoting themselves to deceitful spirits and teachings of demons, ^0401
@@ -136,15 +131,14 @@ Until I come, devote yourself to the public reading of Scripture, to exhortation
 
 Do not neglect the gift you have, which was given you by prophecy when the council of elders laid their hands on you. ^0414
 
-Practice these things, immerse yourself in them, so that all may see your progress. ^0415
+Practice these things, devote yourself to them, so that all may see your progress. ^0415
 
 Keep a close watch on yourself and on the teaching. Persist in this, for by so doing you will save both yourself and your hearers. ^0416
 
 
+Do not rebuke an older man but encourage him as you would a father. Treat younger men like brothers, ^0501
 
-Do not rebuke an older man but encourage him as you would a father, younger men as brothers, ^0501
-
-older women as mothers, younger women as sisters, in all purity. ^0502
+older women like mothers, younger women like sisters, in all purity. ^0502
 
 Honor widows who are truly widows. ^0503
 
@@ -160,7 +154,7 @@ But if anyone does not provide for his relatives, and especially for members of 
 
 Let a widow be enrolled if she is not less than sixty years of age, having been the wife of one husband, ^0509
 
-and having a reputation for good works : if she has brought up children, has shown hospitality, has washed the feet of the saints, has cared for the afflicted, and has devoted herself to every good work. ^0510
+and having a reputation for good works: if she has brought up children, has shown hospitality, has washed the feet of the saints, has cared for the afflicted, and has devoted herself to every good work. ^0510
 
 But refuse to enroll younger widows, for when their passions draw them away from Christ, they desire to marry ^0511
 
@@ -172,7 +166,7 @@ So I would have younger widows marry, bear children, manage their households, an
 
 For some have already strayed after Satan. ^0515
 
-If any believing woman has relatives who are widows, let her care for them. Let the church not be burdened, so that it may care for those who are truly widows. ^0516
+If any believing woman has relatives who are widows, let her care for them. Let the church not be burdened, so that it may care for those who are really widows. ^0516
 
 Let the elders who rule well be considered worthy of double honor, especially those who labor in preaching and teaching. ^0517
 
@@ -186,17 +180,16 @@ In the presence of God and of Christ Jesus and of the elect angels I charge you 
 
 Do not be hasty in the laying on of hands, nor take part in the sins of others; keep yourself pure. ^0522
 
-(No longer drink only water, but use a little wine for the sake of your stomach and your frequent ailments .) ^0523
+(No longer drink only water, but use a little wine for the sake of your stomach and your frequent ailments.) ^0523
 
-The sins of some people are conspicuous, going before them to judgment, but the sins of others appear later. ^0524
+The sins of some men are conspicuous, going before them to judgment, but the sins of others appear later. ^0524
 
 So also good works are conspicuous, and even those that are not cannot remain hidden. ^0525
 
 
+Let all who are under a yoke as slaves regard their own masters as worthy of all honor, so that the name of God and the teaching may not be reviled. ^0601
 
-Let all who are under a yoke as bondservants regard their own masters as worthy of all honor, so that the name of God and the teaching may not be reviled. ^0601
-
-Those who have believing masters must not be disrespectful on the ground that they are brothers; rather they must serve all the better since those who benefit by their good service are believers and beloved. Teach and urge these things. ^0602
+Those who have believing masters must not be disrespectful on the ground that they are brothers; rather they must serve all the better since those who benefit by their good service are believers and beloved.Teach and urge these things. ^0602
 
 If anyone teaches a different doctrine and does not agree with the sound words of our Lord Jesus Christ and the teaching that accords with godliness, ^0603
 
@@ -204,7 +197,7 @@ he is puffed up with conceit and understands nothing. He has an unhealthy cravin
 
 and constant friction among people who are depraved in mind and deprived of the truth, imagining that godliness is a means of gain. ^0605
 
-But godliness with contentment is great gain, ^0606
+Now there is great gain in godliness with contentment, ^0606
 
 for we brought nothing into the world, and we cannot take anything out of the world. ^0607
 
@@ -222,7 +215,7 @@ I charge you in the presence of God, who gives life to all things, and of Christ
 
 to keep the commandment unstained and free from reproach until the appearing of our Lord Jesus Christ, ^0614
 
-which he will display at the proper time —he who is the blessed and only Sovereign, the King of kings and Lord of lords, ^0615
+which he will display at the proper time--he who is the blessed and only Sovereign, the King of kings and Lord of lords, ^0615
 
 who alone has immortality, who dwells in unapproachable light, whom no one has ever seen or can see. To him be honor and eternal dominion. Amen. ^0616
 
@@ -234,6 +227,4 @@ thus storing up treasure for themselves as a good foundation for the future, so 
 
 O Timothy, guard the deposit entrusted to you. Avoid the irreverent babble and contradictions of what is falsely called knowledge, ^0620
 
-for by professing it some have swerved from the faith. Grace be with you. ^0621
-
-
+for by professing it some have swerved from the faith.Grace be with you. ^0621

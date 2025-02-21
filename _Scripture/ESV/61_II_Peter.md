@@ -1,6 +1,4 @@
-
-
-Simeon Peter, a servant and apostle of Jesus Christ, To those who have obtained a faith of equal standing with ours by the righteousness of our God and Savior Jesus Christ : ^0101
+Simeon Peter, a servant and apostle of Jesus Christ,To those who have obtained a faith of equal standing with ours by the righteousness of our God and Savior Jesus Christ: ^0101
 
 May grace and peace be multiplied to you in the knowledge of God and of Jesus our Lord. ^0102
 
@@ -18,7 +16,7 @@ For if these qualities are yours and are increasing, they keep you from being in
 
 For whoever lacks these qualities is so nearsighted that he is blind, having forgotten that he was cleansed from his former sins. ^0109
 
-Therefore, brothers, be all the more diligent to confirm your calling and election, for if you practice these qualities you will never fall. ^0110
+Therefore, brothers, be all the more diligent to make your calling and election sure, for if you practice these qualities you will never fall. ^0110
 
 For in this way there will be richly provided for you an entrance into the eternal kingdom of our Lord and Savior Jesus Christ. ^0111
 
@@ -36,12 +34,11 @@ For when he received honor and glory from God the Father, and the voice was born
 
 we ourselves heard this very voice borne from heaven, for we were with him on the holy mountain. ^0118
 
-And we have the prophetic word more fully confirmed, to which you will do well to pay attention as to a lamp shining in a dark place, until the day dawns and the morning star rises in your hearts, ^0119
+And we have something more sure, the prophetic word, to which you will do well to pay attention as to a lamp shining in a dark place, until the day dawns and the morning star rises in your hearts, ^0119
 
-knowing this first of all, that no prophecy of Scripture comes from someone’s own interpretation. ^0120
+knowing this first of all, that no prophecy of Scripture comes from someone's own interpretation. ^0120
 
 For no prophecy was ever produced by the will of man, but men spoke from God as they were carried along by the Holy Spirit. ^0121
-
 
 
 But false prophets also arose among the people, just as there will be false teachers among you, who will secretly bring in destructive heresies, even denying the Master who bought them, bringing upon themselves swift destruction. ^0201
@@ -58,11 +55,11 @@ if by turning the cities of Sodom and Gomorrah to ashes he condemned them to ext
 
 and if he rescued righteous Lot, greatly distressed by the sensual conduct of the wicked ^0207
 
-(for as that righteous man lived among them day after day, he was tormenting his righteous soul over their lawless deeds that he saw and heard ); ^0208
+(for as that righteous man lived among them day after day, he was tormenting his righteous soul over their lawless deeds that he saw and heard); ^0208
 
 then the Lord knows how to rescue the godly from trials, and to keep the unrighteous under punishment until the day of judgment, ^0209
 
-and especially those who indulge in the lust of defiling passion and despise authority. Bold and willful, they do not tremble as they blaspheme the glorious ones, ^0210
+and especially those who indulge in the lust of defiling passion and despise authority.Bold and willful, they do not tremble as they blaspheme the glorious ones, ^0210
 
 whereas angels, though greater in might and power, do not pronounce a blasphemous judgment against them before the Lord. ^0211
 
@@ -74,7 +71,7 @@ They have eyes full of adultery, insatiable for sin. They entice unsteady souls.
 
 Forsaking the right way, they have gone astray. They have followed the way of Balaam, the son of Beor, who loved gain from wrongdoing, ^0215
 
-but was rebuked for his own transgression; a speechless donkey spoke with human voice and restrained the prophet’s madness. ^0216
+but was rebuked for his own transgression; a speechless donkey spoke with human voice and restrained the prophet's madness. ^0216
 
 These are waterless springs and mists driven by a storm. For them the gloom of utter darkness has been reserved. ^0217
 
@@ -86,8 +83,7 @@ For if, after they have escaped the defilements of the world through the knowled
 
 For it would have been better for them never to have known the way of righteousness than after knowing it to turn back from the holy commandment delivered to them. ^0221
 
-What the true proverb says has happened to them : The dog returns to its own vomit, and the sow, after washing herself, returns to wallow in the mire. ^0222
-
+What the true proverb says has happened to them: The dog returns to its own vomit, and the sow, after washing herself, returns to wallow in the mire. ^0222
 
 
 This is now the second letter that I am writing to you, beloved. In both of them I am stirring up your sincere mind by way of reminder, ^0301
@@ -125,5 +121,3 @@ as he does in all his letters when he speaks in them of these matters. There are
 You therefore, beloved, knowing this beforehand, take care that you are not carried away with the error of lawless people and lose your own stability. ^0317
 
 But grow in the grace and knowledge of our Lord and Savior Jesus Christ. To him be the glory both now and to the day of eternity. Amen. ^0318
-
-

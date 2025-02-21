@@ -70,7 +70,7 @@ var EbenezerPlugin = /** @class */ (function (_super) {
             ],
         });
         
-        // NEW COMMAND: Cycle Translation Folders with mod+shift+R
+        // NEW COMMAND: Cycle Translation Folders with mod+shift+R (forward)
         this.addCommand({
             id: 'cycle-translation',
             name: 'Cycle Translation Folders',
@@ -78,6 +78,19 @@ var EbenezerPlugin = /** @class */ (function (_super) {
             hotkeys: [
                 {
                     modifiers: ['Mod', 'Shift'],
+                    key: 'R',
+                },
+            ],
+        });
+        
+        // NEW COMMAND: Cycle Translation Folders in reverse with mod+alt+shift+R
+        this.addCommand({
+            id: 'cycle-translation-reverse',
+            name: 'Cycle Translation Folders (Reverse)',
+            callback: async function () { return await _this.cycleTranslationReverse(); },
+            hotkeys: [
+                {
+                    modifiers: ['Mod', 'Alt', 'Shift'],
                     key: 'R',
                 },
             ],
@@ -419,6 +432,41 @@ var EbenezerPlugin = /** @class */ (function (_super) {
                 nextTranslation = translationFolders[(currentIndex + 1) % translationFolders.length];
             }
             return prefix + this.settings.scriptureDirectory + "/" + nextTranslation + rest;
+        });
+        if (newLineText !== lineText) {
+            editor.replaceRange(newLineText, { line: lineNr, ch: 0 }, { line: lineNr, ch: lineText.length });
+        }
+    };
+
+    // NEW METHOD: Cycle translation folders in reverse.
+    EbenezerPlugin.prototype.cycleTranslationReverse = async function() {
+        // Use the dynamic Scripture directory from settings.
+        const scriptureFolder = this.app.vault.getAbstractFileByPath(this.settings.scriptureDirectory);
+        let translationFolders = [];
+        if (scriptureFolder && scriptureFolder.children) {
+            translationFolders = scriptureFolder.children
+                .filter(child => child instanceof obsidian.TFolder)
+                .map(folder => folder.name);
+        }
+        if (translationFolders.length === 0) return; // exit if no folders found
+
+        var view = this.app.workspace.getActiveViewOfType(obsidian.MarkdownView);
+        if (!view) return;
+        var editor = view.editor;
+        var lineNr = editor.getCursor().line;
+        var lineText = editor.getLine(lineNr);
+        // Build the regex dynamically using the scripture directory.
+        var escapedDir = this.settings.scriptureDirectory.replace(/[-\/\\^$*+?.()|[\]{}]/g, '\\$&');
+        var regex = new RegExp("(!\\[\\[)" + escapedDir + "\\/([^\\/]+)(\\/[^#\\]]+#\\^[0-9]{2,3}[0-9]{2,3}\\]\\])", "g");
+        
+        // Replace the current translation with the previous one in the cycle.
+        var newLineText = lineText.replace(regex, (match, prefix, currentTranslation, rest) => {
+            var currentIndex = translationFolders.indexOf(currentTranslation);
+            var prevTranslation = translationFolders[translationFolders.length - 1];
+            if (currentIndex !== -1) {
+                prevTranslation = translationFolders[(currentIndex - 1 + translationFolders.length) % translationFolders.length];
+            }
+            return prefix + this.settings.scriptureDirectory + "/" + prevTranslation + rest;
         });
         if (newLineText !== lineText) {
             editor.replaceRange(newLineText, { line: lineNr, ch: 0 }, { line: lineNr, ch: lineText.length });

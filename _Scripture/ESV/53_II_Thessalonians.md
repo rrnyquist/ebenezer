@@ -1,6 +1,4 @@
-
-
-Paul, Silvanus, and Timothy, To the church of the Thessalonians in God our Father and the Lord Jesus Christ : ^0101
+Paul, Silvanus, and Timothy,To the church of the Thessalonians in God our Father and the Lord Jesus Christ: ^0101
 
 Grace to you and peace from God our Father and the Lord Jesus Christ. ^0102
 
@@ -8,7 +6,7 @@ We ought always to give thanks to God for you, brothers, as is right, because yo
 
 Therefore we ourselves boast about you in the churches of God for your steadfastness and faith in all your persecutions and in the afflictions that you are enduring. ^0104
 
-This is evidence of the righteous judgment of God, that you may be considered worthy of the kingdom of God, for which you are also suffering — ^0105
+This is evidence of the righteous judgment of God, that you may be considered worthy of the kingdom of God, for which you are also suffering-- ^0105
 
 since indeed God considers it just to repay with affliction those who afflict you, ^0106
 
@@ -23,7 +21,6 @@ when he comes on that day to be glorified in his saints, and to be marveled at a
 To this end we always pray for you, that our God may make you worthy of his calling and may fulfill every resolve for good and every work of faith by his power, ^0111
 
 so that the name of our Lord Jesus may be glorified in you, and you in him, according to the grace of our God and the Lord Jesus Christ. ^0112
-
 
 
 Now concerning the coming of our Lord Jesus Christ and our being gathered together to him, we ask you, brothers, ^0201
@@ -61,7 +58,6 @@ Now may our Lord Jesus Christ himself, and God our Father, who loved us and gave
 comfort your hearts and establish them in every good work and word. ^0217
 
 
-
 Finally, brothers, pray for us, that the word of the Lord may speed ahead and be honored, as happened among you, ^0301
 
 and that we may be delivered from wicked and evil men. For not all have faith. ^0302
@@ -76,11 +72,11 @@ Now we command you, brothers, in the name of our Lord Jesus Christ, that you kee
 
 For you yourselves know how you ought to imitate us, because we were not idle when we were with you, ^0307
 
-nor did we eat anyone’s bread without paying for it, but with toil and labor we worked night and day, that we might not be a burden to any of you. ^0308
+nor did we eat anyone's bread without paying for it, but with toil and labor we worked night and day, that we might not be a burden to any of you. ^0308
 
 It was not because we do not have that right, but to give you in ourselves an example to imitate. ^0309
 
-For even when we were with you, we would give you this command : If anyone is not willing to work, let him not eat. ^0310
+For even when we were with you, we would give you this command: If anyone is not willing to work, let him not eat. ^0310
 
 For we hear that some among you walk in idleness, not busy at work, but busybodies. ^0311
 
@@ -97,5 +93,3 @@ Now may the Lord of peace himself give you peace at all times in every way. The 
 I, Paul, write this greeting with my own hand. This is the sign of genuineness in every letter of mine; it is the way I write. ^0317
 
 The grace of our Lord Jesus Christ be with you all. ^0318
-
-

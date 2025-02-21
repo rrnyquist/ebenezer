@@ -69,6 +69,19 @@ var EbenezerPlugin = /** @class */ (function (_super) {
                 },
             ],
         });
+        
+        // NEW COMMAND: Cycle Translation Folders with mod+shift+R
+        this.addCommand({
+            id: 'cycle-translation',
+            name: 'Cycle Translation Folders',
+            callback: async function () { return await _this.cycleTranslation(); },
+            hotkeys: [
+                {
+                    modifiers: ['Mod', 'Shift'],
+                    key: 'R',
+                },
+            ],
+        });
     };
     
     EbenezerPlugin.prototype.cleanSelected = function () {
@@ -209,7 +222,14 @@ var EbenezerPlugin = /** @class */ (function (_super) {
         var anchors = [];
         var bookId = "";
         while ((match = regex.exec(text)) !== null) {
-            if (!bookId) { bookId = match[1]; }
+            if (!bookId) { 
+                bookId = match[1]; 
+                // NEW CODE: Remove folder prefix if present.
+                if (bookId.includes('/')) {
+                    let parts = bookId.split('/');
+                    bookId = parts[parts.length - 1];
+                }
+            }
             anchors.push(match[2] + match[3]);
         }
         if (anchors.length === 0) return text;
@@ -330,7 +350,7 @@ var EbenezerPlugin = /** @class */ (function (_super) {
             // Single-chapter: generate a link for every verse from start to end.
             for (var v = startVerse; v <= endVerse; v++) {
                 refs.push("![["
-                    + canonicalBookId
+                    + `${this.settings.scriptureDirectory}/ESV/${canonicalBookId}`
                     + "#^" + pad(startChapter) + pad(v)
                     + "]]");
             }
@@ -341,7 +361,7 @@ var EbenezerPlugin = /** @class */ (function (_super) {
             var maxStart = (startRange.max > 0) ? startRange.max : startVerse;
             for (var v = startVerse; v <= maxStart; v++) {
                 refs.push("![["
-                    + canonicalBookId
+                    + `${this.settings.scriptureDirectory}/ESV/${canonicalBookId}`
                     + "#^" + pad(startChapter) + pad(v)
                     + "]]");
             }
@@ -351,7 +371,7 @@ var EbenezerPlugin = /** @class */ (function (_super) {
                 if (midRange.max > 0) {
                     for (var v = midRange.min; v <= midRange.max; v++) {
                         refs.push("![["
-                            + canonicalBookId
+                            + `${this.settings.scriptureDirectory}/ESV/${canonicalBookId}`
                             + "#^" + pad(ch) + pad(v)
                             + "]]");
                     }
@@ -362,12 +382,47 @@ var EbenezerPlugin = /** @class */ (function (_super) {
             var minEnd = (endRange.min > 0) ? endRange.min : 1;
             for (var v = minEnd; v <= endVerse; v++) {
                 refs.push("![["
-                    + canonicalBookId
+                    + `${this.settings.scriptureDirectory}/ESV/${canonicalBookId}`
                     + "#^" + pad(endChapter) + pad(v)
                     + "]]");
             }
         }
         return refs.join(" ");
+    };
+
+    // NEW METHOD: Cycle translation folders in wikilinks on the active line.
+    EbenezerPlugin.prototype.cycleTranslation = async function() {
+        // Use the dynamic Scripture directory from settings.
+        const scriptureFolder = this.app.vault.getAbstractFileByPath(this.settings.scriptureDirectory);
+        let translationFolders = [];
+        if (scriptureFolder && scriptureFolder.children) {
+            translationFolders = scriptureFolder.children
+                .filter(child => child instanceof obsidian.TFolder)
+                .map(folder => folder.name);
+        }
+        if (translationFolders.length === 0) return; // exit if no folders found
+
+        var view = this.app.workspace.getActiveViewOfType(obsidian.MarkdownView);
+        if (!view) return;
+        var editor = view.editor;
+        var lineNr = editor.getCursor().line;
+        var lineText = editor.getLine(lineNr);
+        // Dynamically build the regex using the user-defined Scripture directory.
+        var escapedDir = this.settings.scriptureDirectory.replace(/[-\/\\^$*+?.()|[\]{}]/g, '\\$&');
+        var regex = new RegExp("(!\\[\\[)" + escapedDir + "\\/([^\\/]+)(\\/[^#\\]]+#\\^[0-9]{2,3}[0-9]{2,3}\\]\\])", "g");
+        
+        // Replace the current translation with the next one in the cycle.
+        var newLineText = lineText.replace(regex, (match, prefix, currentTranslation, rest) => {
+            var currentIndex = translationFolders.indexOf(currentTranslation);
+            var nextTranslation = translationFolders[0];
+            if (currentIndex !== -1) {
+                nextTranslation = translationFolders[(currentIndex + 1) % translationFolders.length];
+            }
+            return prefix + this.settings.scriptureDirectory + "/" + nextTranslation + rest;
+        });
+        if (newLineText !== lineText) {
+            editor.replaceRange(newLineText, { line: lineNr, ch: 0 }, { line: lineNr, ch: lineText.length });
+        }
     };
 
     return EbenezerPlugin;
@@ -377,7 +432,8 @@ var EbenezerPlugin = /** @class */ (function (_super) {
 
 // Default settings
 var DEFAULT_SETTINGS = {
-    CiteWithArabic: false
+    CiteWithArabic: false,
+    scriptureDirectory: '_Scripture'
 };
 
 // Load and save settings methods added to the plugin prototype.
@@ -410,10 +466,20 @@ var EbenezerPluginSettingTab = /** @class */ (function (_super) {
                     this.plugin.settings.CiteWithArabic = value;
                     await this.plugin.saveSettings();
                 }));
+        new obsidian.Setting(containerEl)
+        .setName('Scripture Directory')
+        .setDesc('Set the root directory for scripture files (default: _Scripture)')
+        .addText(text => text
+            .setPlaceholder('_Scripture')
+            .setValue(this.plugin.settings.scriptureDirectory || '_Scripture')
+            .onChange(async (value) => {
+                this.plugin.settings.scriptureDirectory = value;
+                await this.plugin.saveSettings();
+            })
+        );
     };
+
     return EbenezerPluginSettingTab;
 }(obsidian.PluginSettingTab));
 
 module.exports = EbenezerPlugin;
-
-/* nosourcemap */

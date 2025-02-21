@@ -15,7 +15,6 @@
 # Babel Branch: CSS should be enabled by default
 !.obsidian/appearance.json
 
-# Live Preview should be disabled by default  
 # Easy catch-all directory for personal study, tests, etc
 git_ignore/
 

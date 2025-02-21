@@ -34,84 +34,6 @@
 
 ⟨May⟩ [[G3588|the]] [[G2962|Lord]] [[G1325|grant]] ⟨Onesiphorus⟩ [[G846|]] ⟨His⟩ [[G2962|]] [[G1656|mercy]] [[G1722|on]] [[G1565|that]] [[G2250|day.]] [[G4771|You]] [[G1097|know]] [[G957|very well]] [[G3745|how much]] [[G1247|he ministered]] ⟨to me⟩ [[G1722|in]] [[G2181|Ephesus.]] ^0118
 
-[[G1263|I charge]] ⟨you⟩ [[G1799|in the presence]] [[G2316|of God]] [[G2532|and]] [[G5547|of Christ]] [[G2424|Jesus,]] [[G3588|who]] [[G3195|will]] [[G2919|judge]] ⟨the⟩ [[G2198|living]] [[G2532|and]] ⟨the⟩ [[G3498|dead,]] [[G2532|and]] ⟨in view⟩ [[G846|of His]] [[G2015|appearing]] [[G2532|and]] [[G846|His]] [[G932|kingdom:]] ^0401
-
-[[G2784|Preach]] [[G3588|the]] [[G3056|word;]] [[G2186|be prepared]] [[G2122|in season]] ⟨and⟩ [[G171|out of season;]] [[G1651|reprove,]] [[G2008|rebuke,]] ⟨and⟩ [[G3870|encourage]] [[G1722|with]] [[G3956|every]] ⟨form of⟩ [[G3115|patient]] [[G1322|instruction.]] ^0402
-
-[[G1063|For]] ⟨the⟩ [[G2540|time]] [[G1510|will come]] [[G3753|when]] [[G430|men will not tolerate]] [[G5198|sound]] [[G1319|doctrine,]] [[G235|but]] [[G2833|with itching]] [[G189|ears]] [[G2002|they will gather around]] [[G1438|themselves]] [[G1320|teachers]] [[G2596|to suit]] ⟨their⟩ [[G3588|]] [[G2398|own]] [[G1939|desires.]] ^0403
-
-⟨So⟩ [[G2532|]] [[G654|they will turn]] ⟨their⟩ [[G3588|]] [[G189|ears]] ⟨away⟩ [[G575|from]] [[G3588|the]] [[G225|truth]] [[G1161|and]] [[G1624|turn aside]] [[G1909|to]] [[G3454|myths.]] ^0404
-
-[[G1161|But]] [[G4771|you,]] [[G3525|be sober]] [[G1722|in]] [[G3956|all things,]] [[G2553|endure hardship,]] [[G4160|do]] ⟨the⟩ [[G2041|work]] [[G2099|of an evangelist,]] [[G4135|fulfill]] [[G4771|your]] [[G1248|ministry.]] ^0405
-
-[[G1063|For]] [[G1473|I]] ⟨am⟩ [[G2235|already]] [[G4689|being poured out like a drink offering,]] [[G2532|and]] [[G3588|the]] [[G2540|time]] [[G3588|of]] [[G1473|my]] [[G359|departure]] [[G2186|is at hand.]] ^0406
-
-[[G75|I have fought]] [[G3588|the]] [[G2570|good]] [[G73|fight,]] [[G5055|I have finished]] [[G3588|the]] [[G1408|race,]] [[G5083|I have kept]] [[G3588|the]] [[G4102|faith.]] ^0407
-
-[[G3063|From now on]] [[G3588|the]] [[G4735|crown]] [[G1343|of righteousness]] [[G606|is laid up]] [[G1473|for me,]] [[G3739|which]] [[G3588|the]] [[G2962|Lord,]] [[G3588|the]] [[G1342|righteous]] [[G2923|judge,]] [[G591|will award]] [[G1473|to me]] [[G1722|on]] [[G1565|that]] [[G2250|day—]] [[G1161|and]] [[G3756|not]] [[G3440|only]] [[G1473|to me,]] [[G235|but]] [[G3956|to all]] [[G3588|who]] [[G25|crave]] [[G846|His]] [[G2015|appearing.]] ^0408
-
-[[G4704|Make every effort]] [[G2064|to come]] [[G4314|to]] [[G1473|me]] [[G5030|quickly,]] ^0409
-
-[[G1063|because]] [[G1214|Demas,]] [[G25|in his love of]] [[G3568|this]] ⟨world⟩ [[G165|,]] [[G1459|has deserted]] [[G1473|me]] [[G2532|and]] [[G4198|gone]] [[G1519|to]] [[G2332|Thessalonica.]] [[G2913|Crescens]] ⟨has gone⟩ [[G1519|to]] [[G1053|Galatia,]] ⟨and⟩ [[G5103|Titus]] [[G1519|to]] [[G1149|Dalmatia.]] ^0410
-
-[[G3441|Only]] [[G3065|Luke]] [[G1510|is]] [[G3326|with]] [[G1473|me.]] [[G353|Get]] [[G3138|Mark]] ⟨and⟩ [[G71|bring]] ⟨him⟩ [[G3326|with]] [[G4572|you,]] [[G1063|because]] [[G1510|he is]] [[G2173|useful]] [[G1473|to me]] [[G1519|in]] ⟨the⟩ [[G1248|ministry.]] ^0411
-
-[[G5190|Tychicus,]] [[G1161|however,]] [[G649|I have sent]] [[G1519|to]] [[G2181|Ephesus.]] ^0412
-
-[[G2064|When you come,]] [[G5342|bring]] [[G3588|the]] [[G5341|cloak]] [[G3739|that]] [[G620|I left]] [[G3844|with]] [[G2591|Carpus]] [[G1722|at]] [[G5174|Troas,]] [[G2532|and]] ⟨my⟩ [[G3588|]] [[G975|scrolls,]] [[G3122|especially]] [[G3588|the]] [[G3200|parchments.]] ^0413
-
-[[G223|Alexander]] [[G3588|the]] [[G5471|coppersmith]] [[G1731|did]] [[G4183|great]] [[G2556|harm]] [[G1473|to me.]] [[G3588|The]] [[G2962|Lord]] [[G591|will repay]] [[G846|him]] [[G2596|according to]] [[G846|his]] [[G2041|deeds.]] ^0414
-
-[[G4771|You]] [[G2532|too]] [[G5442|should beware of]] ⟨him⟩ [[G3739|,]] [[G1063|for]] [[G436|he has vigorously opposed]] [[G2251|our]] [[G3056|message.]] ^0415
-
-[[G1722|At]] [[G1473|my]] [[G4413|first]] [[G627|defense,]] [[G3762|no one]] [[G3854|stood with]] [[G1473|me,]] [[G235|but]] [[G3956|everyone]] [[G1459|deserted]] [[G1473|me.]] [[G3049|May it not be charged]] [[G846|against them.]] ^0416
-
-[[G1161|But]] [[G3588|the]] [[G2962|Lord]] [[G3936|stood by]] [[G1473|me]] [[G2532|and]] [[G1743|strengthened]] [[G1473|me,]] [[G2443|so that]] [[G1223|through]] [[G1473|me]] [[G3588|the]] [[G2782|message]] [[G4135|would be fully proclaimed,]] [[G2532|and]] [[G3956|all]] [[G3588|the]] [[G1484|Gentiles]] [[G191|would hear]] ⟨it⟩. ⟨So⟩ [[G2532|]] [[G4506|I was delivered]] [[G1537|from]] ⟨the⟩ [[G4750|mouth]] [[G3023|of the lion.]] ^0417
-
-⟨And⟩ [[G3588|the]] [[G2962|Lord]] [[G4506|will rescue]] [[G1473|me]] [[G575|from]] [[G3956|every]] [[G4190|evil]] [[G2041|action]] [[G2532|and]] [[G4982|bring safely]] ⟨me⟩ [[G1519|into]] [[G846|His]] [[G2032|heavenly]] [[G932|kingdom.]] [[G3739|To Him]] ⟨be⟩ [[G3588|the]] [[G1391|glory]] [[G165|forever]] ⟨and⟩ [[G3588|]] [[G165|ever.]] [[G281|Amen.]] ^0418
-
-[[G782|Greet]] [[G4251|Prisca]] [[G2532|and]] [[G207|Aquila,]] [[G2532|as well as]] [[G3588|the]] [[G3624|household]] [[G3683|of Onesiphorus.]] ^0419
-
-[[G2037|Erastus]] [[G3306|has remained]] [[G1722|at]] [[G2882|Corinth,]] [[G1161|and]] [[G5161|Trophimus]] [[G620|I left]] [[G770|sick]] [[G1722|in]] [[G3399|Miletus.]] ^0420
-
-[[G4704|Make every effort]] [[G2064|to come]] ⟨to me⟩ [[G4253|before]] [[G5494|winter.]] [[G2103|Eubulus]] [[G782|sends you greetings,]] [[G2532|as do]] [[G4227|Pudens,]] [[G3044|Linus,]] [[G2803|Claudia,]] [[G2532|and]] [[G3956|all]] [[G3588|the]] [[G80|brothers.]] ^0421
-
-[[G3588|The]] [[G2962|Lord]] ⟨be⟩ [[G3326|with]] [[G4771|your]] [[G4151|spirit.]] [[G5485|Grace]] ⟨be⟩ [[G3326|with]] [[G4771|you all.]] ^0422
-
-[[G1161|But]] [[G1097|understand]] [[G3778|this:]] [[G1722|In]] ⟨the⟩ [[G2078|last]] [[G2250|days]] [[G5467|terrible]] [[G2540|times]] [[G1764|will come.]] ^0301
-
-[[G1063|For]] [[G444|men]] [[G1510|will be]] [[G5367|lovers of themselves,]] [[G5366|lovers of money,]] [[G213|boastful,]] [[G5244|arrogant,]] [[G989|abusive,]] [[G545|disobedient]] [[G1118|to parents,]] ⟨their⟩ [[G884|ungrateful,]] [[G462|unholy,]] ^0302
-
-[[G794|unloving,]] [[G786|unforgiving,]] [[G1228|slanderous,]] [[G193|without self-control,]] [[G434|brutal,]] [[G865|without love of good,]] ^0303
-
-[[G4273|traitorous,]] [[G4312|reckless,]] [[G5187|conceited,]] [[G5369|lovers of pleasure]] [[G3123|rather]] [[G2228|than]] [[G5377|lovers of God,]] ^0304
-
-[[G2192|having]] [[G3446|a form]] [[G2150|of godliness]] [[G1161|but]] [[G720|denying]] [[G846|its]] [[G1411|power.]] [[G665|Turn away from]] ⟨such⟩ [[G3778|as these!]] ^0305
-
-[[G1510|They are]] [[G3778|the kind who]] [[G1744|worm their way]] [[G1519|into]] [[G3614|households]] [[G2532|and]] [[G163|captivate]] [[G1133|vulnerable women]] [[G4987|who are weighed down]] [[G266|with sins]] ⟨and⟩ [[G71|led astray]] [[G4164|by various]] [[G1939|passions,]] ^0306
-
-[[G3842|always]] [[G3129|learning]] ⟨but⟩ [[G2532|]] [[G3368|never]] [[G1410|able]] [[G2064|to come]] [[G1519|to]] [[G1922|a knowledge]] [[G225|of truth.]] ⟨the⟩ ^0307
-
-[[G3739|Just as]] [[G2389|Jannes]] [[G2532|and]] [[G2387|Jambres]] [[G436|opposed]] [[G3475|Moses,]] [[G3779|so]] [[G2532|also]] [[G3778|these]] [[G444|men]] [[G436|oppose]] [[G3588|the]] [[G225|truth.]] [[G2704|They are depraved]] [[G3563|in mind]] ⟨and⟩ [[G96|disqualified]] [[G4012|from]] [[G3588|the]] [[G4102|faith.]] ^0308
-
-[[G235|But]] [[G4298|they will not advance]] [[G4119|much]] [[G1909|further.]] [[G1063|For]] [[G2532|just]] [[G5613|like]] ⟨Jannes and Jambres⟩ [[G1565|,]] [[G846|their]] [[G454|folly]] [[G1510|will be]] [[G1552|plain]] [[G3956|to everyone.]] ^0309
-
-[[G4771|You,]] [[G1161|however,]] [[G3877|have observed]] [[G1473|my]] [[G1319|teaching,]] ⟨my⟩ [[G3588|]] [[G72|conduct,]] ⟨my⟩ [[G3588|]] [[G4286|purpose,]] ⟨my⟩ [[G3588|]] [[G4102|faith,]] ⟨my⟩ [[G3588|]] [[G3115|patience,]] ⟨my⟩ [[G3588|]] [[G26|love,]] ⟨my⟩ [[G3588|]] [[G5281|endurance,]] ^0310
-
-⟨my⟩ [[G3588|]] [[G1375|persecutions,]] ⟨and the⟩ [[G3588|]] [[G3804|sufferings]] [[G3634|that]] [[G1096|came upon]] [[G1473|me]] [[G1722|in]] [[G490|Antioch,]] [[G2430|Iconium,]] ⟨and⟩ [[G1722|]] [[G3082|Lystra.]] [[G3634|What]] [[G1375|persecutions]] [[G5297|I endured!]] [[G2532|Yet]] [[G3588|the]] [[G2962|Lord]] [[G4506|rescued]] [[G1473|me]] [[G1537|from]] [[G3956|all]] ⟨of them⟩. ^0311
-
-[[G1161|Indeed,]] [[G3956|all]] [[G3588|who]] [[G2309|desire]] [[G2198|to live]] [[G2153|godly]] ⟨lives⟩ [[G1722|in]] [[G5547|Christ]] [[G2424|Jesus]] [[G1377|will be persecuted,]] ^0312
-
-[[G1161|while]] [[G4190|evil]] [[G444|men]] [[G2532|and]] [[G1114|imposters]] [[G4298|go]] ⟨from bad⟩ [[G1909|to]] [[G5501|worse,]] [[G4105|deceiving]] [[G2532|and]] [[G4105|being deceived.]] ^0313
-
-[[G1161|But]] ⟨as for⟩ [[G4771|you,]] [[G3306|continue]] [[G1722|in]] [[G3739|the things]] [[G3129|you have learned]] [[G2532|and]] [[G4104|firmly believed,]] [[G1492|since you know]] [[G3844|from]] [[G5101|whom]] [[G3129|you learned]] ⟨them⟩. ^0314
-
-[[G575|From]] [[G1025|infancy]] [[G1492|you have known]] [[G3588|the]] [[G2413|Holy]] [[G1121|Scriptures,]] [[G3588|which]] [[G1410|are able]] [[G4679|to make you wise]] [[G1519|for]] [[G4991|salvation]] [[G1223|through]] [[G4102|faith]] [[G1722|in]] [[G5547|Christ]] [[G2424|Jesus.]] ^0315
-
-[[G3956|All]] [[G1124|Scripture]] ⟨is⟩ [[G2315|God-breathed]] [[G2532|and]] [[G5624|is useful]] [[G4314|for]] [[G1319|instruction,]] [[G4314|for]] [[G1650|conviction,]] [[G4314|for]] [[G1882|correction,]] ⟨and⟩ [[G4314|for]] [[G3809|training]] [[G1722|in]] [[G1343|righteousness,]] ^0316
-
-[[G2443|so that]] [[G3588|the]] [[G444|man]] [[G2316|of God]] [[G1510|may be]] [[G739|complete,]] [[G1822|fully equipped]] [[G4314|for]] [[G3956|every]] [[G18|good]] [[G2041|work.]] ^0317
-
 [[G4771|You]] [[G3767|therefore,]] [[G1473|my]] [[G5043|child,]] [[G1743|be strong]] [[G1722|in]] [[G3588|the]] [[G5485|grace]] [[G3588|that]] ⟨is⟩ [[G1722|in]] [[G5547|Christ]] [[G2424|Jesus.]] ^0201
 
 [[G2532|And]] [[G3739|the things that]] [[G191|you have heard]] [[G1473|me]] ⟨say⟩ [[G1223|among]] [[G4183|many]] [[G3144|witnesses,]] [[G3908|entrust]] [[G3778|these]] [[G4103|to faithful]] [[G444|men]] [[G3748|who]] [[G1510|will be]] [[G2425|qualified]] [[G1321|to teach]] [[G2087|others]] [[G2532|as well.]] ^0202
@@ -164,3 +86,82 @@
 
 [[G2532|Then]] [[G366|they will come to their senses]] ⟨and escape⟩ [[G1537|]] [[G3588|the]] [[G3803|snare]] [[G3588|of the]] [[G1228|devil,]] ⟨who⟩ [[G846|]] [[G2221|has taken them captive]] [[G1519|to]] [[G1565|his]] [[G2307|will.]] ^0226
 
+
+
+[[G1161|But]] [[G1097|understand]] [[G3778|this:]] [[G1722|In]] ⟨the⟩ [[G2078|last]] [[G2250|days]] [[G5467|terrible]] [[G2540|times]] [[G1764|will come.]] ^0301
+
+[[G1063|For]] [[G444|men]] [[G1510|will be]] [[G5367|lovers of themselves,]] [[G5366|lovers of money,]] [[G213|boastful,]] [[G5244|arrogant,]] [[G989|abusive,]] [[G545|disobedient]] [[G1118|to parents,]] ⟨their⟩ [[G884|ungrateful,]] [[G462|unholy,]] ^0302
+
+[[G794|unloving,]] [[G786|unforgiving,]] [[G1228|slanderous,]] [[G193|without self-control,]] [[G434|brutal,]] [[G865|without love of good,]] ^0303
+
+[[G4273|traitorous,]] [[G4312|reckless,]] [[G5187|conceited,]] [[G5369|lovers of pleasure]] [[G3123|rather]] [[G2228|than]] [[G5377|lovers of God,]] ^0304
+
+[[G2192|having]] [[G3446|a form]] [[G2150|of godliness]] [[G1161|but]] [[G720|denying]] [[G846|its]] [[G1411|power.]] [[G665|Turn away from]] ⟨such⟩ [[G3778|as these!]] ^0305
+
+[[G1510|They are]] [[G3778|the kind who]] [[G1744|worm their way]] [[G1519|into]] [[G3614|households]] [[G2532|and]] [[G163|captivate]] [[G1133|vulnerable women]] [[G4987|who are weighed down]] [[G266|with sins]] ⟨and⟩ [[G71|led astray]] [[G4164|by various]] [[G1939|passions,]] ^0306
+
+[[G3842|always]] [[G3129|learning]] ⟨but⟩ [[G2532|]] [[G3368|never]] [[G1410|able]] [[G2064|to come]] [[G1519|to]] [[G1922|a knowledge]] [[G225|of truth.]] ⟨the⟩ ^0307
+
+[[G3739|Just as]] [[G2389|Jannes]] [[G2532|and]] [[G2387|Jambres]] [[G436|opposed]] [[G3475|Moses,]] [[G3779|so]] [[G2532|also]] [[G3778|these]] [[G444|men]] [[G436|oppose]] [[G3588|the]] [[G225|truth.]] [[G2704|They are depraved]] [[G3563|in mind]] ⟨and⟩ [[G96|disqualified]] [[G4012|from]] [[G3588|the]] [[G4102|faith.]] ^0308
+
+[[G235|But]] [[G4298|they will not advance]] [[G4119|much]] [[G1909|further.]] [[G1063|For]] [[G2532|just]] [[G5613|like]] ⟨Jannes and Jambres⟩ [[G1565|,]] [[G846|their]] [[G454|folly]] [[G1510|will be]] [[G1552|plain]] [[G3956|to everyone.]] ^0309
+
+[[G4771|You,]] [[G1161|however,]] [[G3877|have observed]] [[G1473|my]] [[G1319|teaching,]] ⟨my⟩ [[G3588|]] [[G72|conduct,]] ⟨my⟩ [[G3588|]] [[G4286|purpose,]] ⟨my⟩ [[G3588|]] [[G4102|faith,]] ⟨my⟩ [[G3588|]] [[G3115|patience,]] ⟨my⟩ [[G3588|]] [[G26|love,]] ⟨my⟩ [[G3588|]] [[G5281|endurance,]] ^0310
+
+⟨my⟩ [[G3588|]] [[G1375|persecutions,]] ⟨and the⟩ [[G3588|]] [[G3804|sufferings]] [[G3634|that]] [[G1096|came upon]] [[G1473|me]] [[G1722|in]] [[G490|Antioch,]] [[G2430|Iconium,]] ⟨and⟩ [[G1722|]] [[G3082|Lystra.]] [[G3634|What]] [[G1375|persecutions]] [[G5297|I endured!]] [[G2532|Yet]] [[G3588|the]] [[G2962|Lord]] [[G4506|rescued]] [[G1473|me]] [[G1537|from]] [[G3956|all]] ⟨of them⟩. ^0311
+
+[[G1161|Indeed,]] [[G3956|all]] [[G3588|who]] [[G2309|desire]] [[G2198|to live]] [[G2153|godly]] ⟨lives⟩ [[G1722|in]] [[G5547|Christ]] [[G2424|Jesus]] [[G1377|will be persecuted,]] ^0312
+
+[[G1161|while]] [[G4190|evil]] [[G444|men]] [[G2532|and]] [[G1114|imposters]] [[G4298|go]] ⟨from bad⟩ [[G1909|to]] [[G5501|worse,]] [[G4105|deceiving]] [[G2532|and]] [[G4105|being deceived.]] ^0313
+
+[[G1161|But]] ⟨as for⟩ [[G4771|you,]] [[G3306|continue]] [[G1722|in]] [[G3739|the things]] [[G3129|you have learned]] [[G2532|and]] [[G4104|firmly believed,]] [[G1492|since you know]] [[G3844|from]] [[G5101|whom]] [[G3129|you learned]] ⟨them⟩. ^0314
+
+[[G575|From]] [[G1025|infancy]] [[G1492|you have known]] [[G3588|the]] [[G2413|Holy]] [[G1121|Scriptures,]] [[G3588|which]] [[G1410|are able]] [[G4679|to make you wise]] [[G1519|for]] [[G4991|salvation]] [[G1223|through]] [[G4102|faith]] [[G1722|in]] [[G5547|Christ]] [[G2424|Jesus.]] ^0315
+
+[[G3956|All]] [[G1124|Scripture]] ⟨is⟩ [[G2315|God-breathed]] [[G2532|and]] [[G5624|is useful]] [[G4314|for]] [[G1319|instruction,]] [[G4314|for]] [[G1650|conviction,]] [[G4314|for]] [[G1882|correction,]] ⟨and⟩ [[G4314|for]] [[G3809|training]] [[G1722|in]] [[G1343|righteousness,]] ^0316
+
+[[G2443|so that]] [[G3588|the]] [[G444|man]] [[G2316|of God]] [[G1510|may be]] [[G739|complete,]] [[G1822|fully equipped]] [[G4314|for]] [[G3956|every]] [[G18|good]] [[G2041|work.]] ^0317
+
+[[G1263|I charge]] ⟨you⟩ [[G1799|in the presence]] [[G2316|of God]] [[G2532|and]] [[G5547|of Christ]] [[G2424|Jesus,]] [[G3588|who]] [[G3195|will]] [[G2919|judge]] ⟨the⟩ [[G2198|living]] [[G2532|and]] ⟨the⟩ [[G3498|dead,]] [[G2532|and]] ⟨in view⟩ [[G846|of His]] [[G2015|appearing]] [[G2532|and]] [[G846|His]] [[G932|kingdom:]] ^0401
+
+[[G2784|Preach]] [[G3588|the]] [[G3056|word;]] [[G2186|be prepared]] [[G2122|in season]] ⟨and⟩ [[G171|out of season;]] [[G1651|reprove,]] [[G2008|rebuke,]] ⟨and⟩ [[G3870|encourage]] [[G1722|with]] [[G3956|every]] ⟨form of⟩ [[G3115|patient]] [[G1322|instruction.]] ^0402
+
+[[G1063|For]] ⟨the⟩ [[G2540|time]] [[G1510|will come]] [[G3753|when]] [[G430|men will not tolerate]] [[G5198|sound]] [[G1319|doctrine,]] [[G235|but]] [[G2833|with itching]] [[G189|ears]] [[G2002|they will gather around]] [[G1438|themselves]] [[G1320|teachers]] [[G2596|to suit]] ⟨their⟩ [[G3588|]] [[G2398|own]] [[G1939|desires.]] ^0403
+
+⟨So⟩ [[G2532|]] [[G654|they will turn]] ⟨their⟩ [[G3588|]] [[G189|ears]] ⟨away⟩ [[G575|from]] [[G3588|the]] [[G225|truth]] [[G1161|and]] [[G1624|turn aside]] [[G1909|to]] [[G3454|myths.]] ^0404
+
+[[G1161|But]] [[G4771|you,]] [[G3525|be sober]] [[G1722|in]] [[G3956|all things,]] [[G2553|endure hardship,]] [[G4160|do]] ⟨the⟩ [[G2041|work]] [[G2099|of an evangelist,]] [[G4135|fulfill]] [[G4771|your]] [[G1248|ministry.]] ^0405
+
+[[G1063|For]] [[G1473|I]] ⟨am⟩ [[G2235|already]] [[G4689|being poured out like a drink offering,]] [[G2532|and]] [[G3588|the]] [[G2540|time]] [[G3588|of]] [[G1473|my]] [[G359|departure]] [[G2186|is at hand.]] ^0406
+
+[[G75|I have fought]] [[G3588|the]] [[G2570|good]] [[G73|fight,]] [[G5055|I have finished]] [[G3588|the]] [[G1408|race,]] [[G5083|I have kept]] [[G3588|the]] [[G4102|faith.]] ^0407
+
+[[G3063|From now on]] [[G3588|the]] [[G4735|crown]] [[G1343|of righteousness]] [[G606|is laid up]] [[G1473|for me,]] [[G3739|which]] [[G3588|the]] [[G2962|Lord,]] [[G3588|the]] [[G1342|righteous]] [[G2923|judge,]] [[G591|will award]] [[G1473|to me]] [[G1722|on]] [[G1565|that]] [[G2250|day—]] [[G1161|and]] [[G3756|not]] [[G3440|only]] [[G1473|to me,]] [[G235|but]] [[G3956|to all]] [[G3588|who]] [[G25|crave]] [[G846|His]] [[G2015|appearing.]] ^0408
+
+[[G4704|Make every effort]] [[G2064|to come]] [[G4314|to]] [[G1473|me]] [[G5030|quickly,]] ^0409
+
+[[G1063|because]] [[G1214|Demas,]] [[G25|in his love of]] [[G3568|this]] ⟨world⟩ [[G165|,]] [[G1459|has deserted]] [[G1473|me]] [[G2532|and]] [[G4198|gone]] [[G1519|to]] [[G2332|Thessalonica.]] [[G2913|Crescens]] ⟨has gone⟩ [[G1519|to]] [[G1053|Galatia,]] ⟨and⟩ [[G5103|Titus]] [[G1519|to]] [[G1149|Dalmatia.]] ^0410
+
+[[G3441|Only]] [[G3065|Luke]] [[G1510|is]] [[G3326|with]] [[G1473|me.]] [[G353|Get]] [[G3138|Mark]] ⟨and⟩ [[G71|bring]] ⟨him⟩ [[G3326|with]] [[G4572|you,]] [[G1063|because]] [[G1510|he is]] [[G2173|useful]] [[G1473|to me]] [[G1519|in]] ⟨the⟩ [[G1248|ministry.]] ^0411
+
+[[G5190|Tychicus,]] [[G1161|however,]] [[G649|I have sent]] [[G1519|to]] [[G2181|Ephesus.]] ^0412
+
+[[G2064|When you come,]] [[G5342|bring]] [[G3588|the]] [[G5341|cloak]] [[G3739|that]] [[G620|I left]] [[G3844|with]] [[G2591|Carpus]] [[G1722|at]] [[G5174|Troas,]] [[G2532|and]] ⟨my⟩ [[G3588|]] [[G975|scrolls,]] [[G3122|especially]] [[G3588|the]] [[G3200|parchments.]] ^0413
+
+[[G223|Alexander]] [[G3588|the]] [[G5471|coppersmith]] [[G1731|did]] [[G4183|great]] [[G2556|harm]] [[G1473|to me.]] [[G3588|The]] [[G2962|Lord]] [[G591|will repay]] [[G846|him]] [[G2596|according to]] [[G846|his]] [[G2041|deeds.]] ^0414
+
+[[G4771|You]] [[G2532|too]] [[G5442|should beware of]] ⟨him⟩ [[G3739|,]] [[G1063|for]] [[G436|he has vigorously opposed]] [[G2251|our]] [[G3056|message.]] ^0415
+
+[[G1722|At]] [[G1473|my]] [[G4413|first]] [[G627|defense,]] [[G3762|no one]] [[G3854|stood with]] [[G1473|me,]] [[G235|but]] [[G3956|everyone]] [[G1459|deserted]] [[G1473|me.]] [[G3049|May it not be charged]] [[G846|against them.]] ^0416
+
+[[G1161|But]] [[G3588|the]] [[G2962|Lord]] [[G3936|stood by]] [[G1473|me]] [[G2532|and]] [[G1743|strengthened]] [[G1473|me,]] [[G2443|so that]] [[G1223|through]] [[G1473|me]] [[G3588|the]] [[G2782|message]] [[G4135|would be fully proclaimed,]] [[G2532|and]] [[G3956|all]] [[G3588|the]] [[G1484|Gentiles]] [[G191|would hear]] ⟨it⟩. ⟨So⟩ [[G2532|]] [[G4506|I was delivered]] [[G1537|from]] ⟨the⟩ [[G4750|mouth]] [[G3023|of the lion.]] ^0417
+
+⟨And⟩ [[G3588|the]] [[G2962|Lord]] [[G4506|will rescue]] [[G1473|me]] [[G575|from]] [[G3956|every]] [[G4190|evil]] [[G2041|action]] [[G2532|and]] [[G4982|bring safely]] ⟨me⟩ [[G1519|into]] [[G846|His]] [[G2032|heavenly]] [[G932|kingdom.]] [[G3739|To Him]] ⟨be⟩ [[G3588|the]] [[G1391|glory]] [[G165|forever]] ⟨and⟩ [[G3588|]] [[G165|ever.]] [[G281|Amen.]] ^0418
+
+[[G782|Greet]] [[G4251|Prisca]] [[G2532|and]] [[G207|Aquila,]] [[G2532|as well as]] [[G3588|the]] [[G3624|household]] [[G3683|of Onesiphorus.]] ^0419
+
+[[G2037|Erastus]] [[G3306|has remained]] [[G1722|at]] [[G2882|Corinth,]] [[G1161|and]] [[G5161|Trophimus]] [[G620|I left]] [[G770|sick]] [[G1722|in]] [[G3399|Miletus.]] ^0420
+
+[[G4704|Make every effort]] [[G2064|to come]] ⟨to me⟩ [[G4253|before]] [[G5494|winter.]] [[G2103|Eubulus]] [[G782|sends you greetings,]] [[G2532|as do]] [[G4227|Pudens,]] [[G3044|Linus,]] [[G2803|Claudia,]] [[G2532|and]] [[G3956|all]] [[G3588|the]] [[G80|brothers.]] ^0421
+
+[[G3588|The]] [[G2962|Lord]] ⟨be⟩ [[G3326|with]] [[G4771|your]] [[G4151|spirit.]] [[G5485|Grace]] ⟨be⟩ [[G3326|with]] [[G4771|you all.]] ^0422

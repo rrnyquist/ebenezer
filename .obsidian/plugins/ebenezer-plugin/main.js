@@ -3,9 +3,8 @@
 var obsidian = require('obsidian');
 
 /* 
-   This plugin was originally based on Hotkeys++ and then modified for Rapid Logging.
-   Now we modify it further so that a citation (e.g. "Psalms 1:1-2:3" or "Matthew 18:21-35")
-   is converted into a series of wikilinks. The plugin “searches the vault” for the canonical file 
+   This plugin converts a citation (e.g. "Psalms 1:1-2:3" or "Matthew 18:21-35")
+   into a series of wikilinks. The plugin searches the vault for the canonical file 
    (by comparing a cleaned book name) and then reads that file’s content to determine the available
    paragraph anchors for each chapter.
 
@@ -28,15 +27,35 @@ function __extends(d, b) {
     d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
 }
 
-var RapidLogging = /** @class */ (function (_super) {
-    __extends(RapidLogging, _super);
-    function RapidLogging() {
+// Helper: Convert between Arabic numerals and Roman numerals (supports 1-3)
+function convertNumeral(input) {
+    // Map supports only 1, 2, and 3.
+    const mapping = { 1: "I", 2: "II", 3: "III" };
+    if (typeof input === "number") {
+      return mapping[input] || "";
+    } else if (typeof input === "string") {
+      // Reverse lookup: only works for "I", "II", and "III".
+      for (const key in mapping) {
+        if (mapping[key] === input) return parseInt(key, 10);
+      }
+    }
+    return null;
+  }
+  
+var EbenezerPlugin = /** @class */ (function (_super) {
+    __extends(EbenezerPlugin, _super);
+    function EbenezerPlugin() {
         return _super !== null && _super.apply(this, arguments) || this;
     }
     
-    RapidLogging.prototype.onload = function () {
+    EbenezerPlugin.prototype.onload = function () {
         var _this = this;
-        console.log('Loading RapidLogging plugin (Citation Toggle mode)');
+        console.log('Loading Citation Toggle plugin');
+        
+        // ─── NEW CODE: Load settings and add settings tab with our toggle option.
+        this.loadSettings().then(() => {
+            this.addSettingTab(new EbenezerPluginSettingTab(this.app, this));
+        });
         
         this.addCommand({
             id: 'toggle-citation',
@@ -52,7 +71,7 @@ var RapidLogging = /** @class */ (function (_super) {
         });
     };
     
-    RapidLogging.prototype.cleanSelected = function () {
+    EbenezerPlugin.prototype.cleanSelected = function () {
         var view = this.app.workspace.getActiveViewOfType(obsidian.MarkdownView);
         if (!view) return;
         var editor = view.editor;
@@ -62,11 +81,11 @@ var RapidLogging = /** @class */ (function (_super) {
         editor.replaceRange(newString, selectedText.start, selectedText.end);
     };
     
-    RapidLogging.prototype.onunload = function () {
-        console.log('Unloading RapidLogging plugin (Citation Toggle mode)');
+    EbenezerPlugin.prototype.onunload = function () {
+        console.log('Unloading EbenezerPlugin plugin (Citation Toggle mode)');
     };
     
-    RapidLogging.prototype.getSelectedText = function (editor) {
+    EbenezerPlugin.prototype.getSelectedText = function (editor) {
         if (editor.somethingSelected()) {
             // When something is selected, get the entire lines covered.
             var cursorStart = editor.getCursor('from');
@@ -94,28 +113,46 @@ var RapidLogging = /** @class */ (function (_super) {
     // ─── Helper: Clean the book name.
     // Remove any leading digits/underscore and replace remaining underscores with a space.
     // e.g. "40_Matthew"  → "Matthew" ; "62_I_John" → "I John"
-    RapidLogging.prototype.cleanBookName = function(bookId) {
+    EbenezerPlugin.prototype.cleanBookName = function(bookId) {
         var cleaned = bookId.replace(/^[0-9]+_/, '');
         return cleaned.replace(/_/g, ' ');
     };
 
+    EbenezerPlugin.prototype.normalizeBookName = function(bookName) {
+        // This regex matches a leading number followed by a space.
+        let match = bookName.match(/^(\d+)(\s+)(.+)/);
+        if (match) {
+            let arabicNum = parseInt(match[1]);
+            // Convert the Arabic numeral to Roman numeral.
+            let roman = convertNumeral(arabicNum);
+            return roman + match[2] + match[3];
+        }
+        // Otherwise, return the bookName unchanged.
+        return bookName;
+    };
+    
+
     // ─── Helper: Find the canonical file name by searching the vault.
     // Compares cleaned basenames (case-insensitively). If no match, returns a default.
-    RapidLogging.prototype.getCanonicalBookId = function(cleanName) {
+    EbenezerPlugin.prototype.getCanonicalBookId = function(cleanName) {
+        // Normalize the input cleanName (e.g., "3 John" becomes "III John")
+        cleanName = this.normalizeBookName(cleanName).toLowerCase();
         var vaultFiles = this.app.vault.getMarkdownFiles();
         for (var i = 0; i < vaultFiles.length; i++) {
             var file = vaultFiles[i];
-            if (this.cleanBookName(file.basename).toLowerCase() === cleanName.toLowerCase()) {
+            // Normalize the file basename (assuming cleanBookName strips out prefixes like "64_")
+            var normalizedBookName = this.normalizeBookName(this.cleanBookName(file.basename)).toLowerCase();
+            if (normalizedBookName === cleanName) {
                 return file.basename;
             }
         }
-        return "49_" + cleanName.replace(/ /g, '_');
+        return "??_" + cleanName.replace(/ /g, '_');
     };
-
+    
     // ─── Helper: Read a file’s content and extract all anchors for a given chapter.
     // For Psalms, the anchors in the file use three digits per part; for other books, two.
     // Returns an object { min: <minimum verse>, max: <maximum verse> }.
-    RapidLogging.prototype.getChapterVerseRange = async function(canonicalBookId, chapterNumber, padLength) {
+    EbenezerPlugin.prototype.getChapterVerseRange = async function(canonicalBookId, chapterNumber, padLength) {
         var vaultFiles = this.app.vault.getMarkdownFiles();
         var file = vaultFiles.find(function(f) { return f.basename === canonicalBookId; });
         if (!file) return { min: 1, max: 0 };
@@ -146,7 +183,7 @@ var RapidLogging = /** @class */ (function (_super) {
     // If the selected text already contains wikilinks (i.e. "![["), convert them into a citation.
     // Otherwise, assume the text is a citation and convert it into wikilinks.
     // In either case, the generated output is appended (via newline) to the original text.
-    RapidLogging.prototype.toggleCitations = async function () {
+    EbenezerPlugin.prototype.toggleCitations = async function () {
         var view = this.app.workspace.getActiveViewOfType(obsidian.MarkdownView);
         if (!view) return;
         var editor = view.editor;
@@ -166,8 +203,7 @@ var RapidLogging = /** @class */ (function (_super) {
 
     // ─── Generate a citation string from existing wikilinks.
     // (For a single WikiLink, output "Book Chapter:Verse"; for multiple, output a range.)
-    // For Psalms, the chapter and verse numbers are not padded with extra zeros.
-    RapidLogging.prototype.generateCitationFromWikiLinks = function (text) {
+    EbenezerPlugin.prototype.generateCitationFromWikiLinks = function (text) {
         var regex = /!\[\[([^\]]+?)#\^(\d{2,3})(\d{2,3})\]\]/g;
         var match;
         var anchors = [];
@@ -177,44 +213,96 @@ var RapidLogging = /** @class */ (function (_super) {
             anchors.push(match[2] + match[3]);
         }
         if (anchors.length === 0) return text;
+        
         var bookName = this.cleanBookName(bookId);
+        var specialBooks = ["Obadiah", "II John", "III John", "Jude", "Philemon"];
+        
         var first = anchors[0];
         var halfLength = first.length / 2;
         var firstChapter = parseInt(first.substring(0, halfLength), 10);
         var firstVerse = parseInt(first.substring(halfLength), 10);
+        
+        var citation = "";
         if (anchors.length === 1) {
-            if (bookName.toLowerCase() === "psalms") {
-                return bookName + " " + firstChapter + ":" + firstVerse;
+            if (specialBooks.indexOf(bookName) !== -1 && firstChapter === 1) {
+                // One-chapter books don't need a chapter identifier
+                citation = bookName + " " + firstVerse;
             } else {
-                return bookName + " " + firstChapter + ":" + firstVerse;
+                // For a single WikiLink, output "Book Chapter:Verse"
+                citation = bookName + " " + firstChapter + ":" + firstVerse;
+            }
+        } else {
+            var last = anchors[anchors.length - 1];
+            var halfLengthLast = last.length / 2;
+            var lastChapter = parseInt(last.substring(0, halfLengthLast), 10);
+            var lastVerse = parseInt(last.substring(halfLengthLast), 10);
+            
+            // If the book is a special book and both anchors are in chapter 1,
+            // format as "Book Vstart-Vend" (dropping the chapter number)
+            if (specialBooks.indexOf(bookName) !== -1 && firstChapter === 1 && lastChapter === 1) {
+                citation = bookName + " " + firstVerse + "-" + lastVerse;
+            }
+            // If both anchors are in the same chapter, output as "Book Ch:Vstart-Vend"
+            else if (firstChapter === lastChapter) {
+                citation = bookName + " " + firstChapter + ":" + firstVerse + "-" + lastVerse;
+            }
+            // Else, output as "Book Ch:Vstart-Ch:Vend"
+            else {
+                citation = bookName + " " + firstChapter + ":" + firstVerse + "-" + lastChapter + ":" + lastVerse;
             }
         }
-        var last = anchors[anchors.length - 1];
-        var halfLengthLast = last.length / 2;
-        var lastChapter = parseInt(last.substring(0, halfLengthLast), 10);
-        var lastVerse = parseInt(last.substring(halfLengthLast), 10);
-        if (bookName.toLowerCase() === "psalms") {
-            return bookName + " " + firstChapter + ":" + firstVerse +
-                   "-" + lastChapter + ":" + lastVerse;
-        } else {
-            var pad = function(num, len) { return num.toString().padStart(len, '0'); };
-            return bookName + " " + firstChapter + ":" + firstVerse +
-                   "-" + lastChapter + ":" + lastVerse;
+        // NEW CODE: If the toggle is on, convert a leading Roman numeral to Arabic.
+        if (this.settings.CiteWithArabic) {
+            citation = citation.replace(/^([IVXLCDM]+)(\s+)/, function(match, p1, p2) {
+                return convertNumeral(p1) + p2;
+            });
         }
+        return citation;
     };
-
+    
     // ─── Generate a WikiLinks line (wikilinks) from a citation.
     // Expected citation formats: either "Book Ch:Vs-Ch:Ve" or "Book Ch:V" (single WikiLink).
     // For a single-chapter citation the plugin generates every wikilink from the cited start verse to end verse.
     // For a multi-chapter citation, it reads the canonical file’s contents to determine available anchors.
     // (For Psalms, anchors in the file use three-digit padding; for other books, two digits.)
-    RapidLogging.prototype.generateWikiLinksFromCitation = async function (text) {
-        // var rangeRegex = /^(\S+)\s+(\d+):(\d+)-(\d+):(\d+)$/;
-        // var singleRegex = /^(\S+)\s+(\d+):(\d+)$/;
+    EbenezerPlugin.prototype.generateWikiLinksFromCitation = async function (text) {
+        // Regex for "Book Ch:Vs-Ch:Ve"
         var rangeRegex = /^(.+?)\s+(\d+):(\d+)-(\d+):(\d+)$/;
+        // Regex to handle "Book Ch:Vs-Ve"
+        var singleChapterRangeRegex = /^(.+?)\s+(\d+):(\d+)-(\d+)$/;
+        // Regex to handle "Book Ch:V"
         var singleRegex = /^(.+?)\s+(\d+):(\d+)$/;
+        // Regex for one-chapter books when no colon is present: e.g. "Jude 5" or "Jude 5-7"
+        var oneChapterRegex = /^(.+?)\s+(\d+)(?:-(\d+))?$/;
         var match, rawBookName, startChapter, startVerse, endChapter, endVerse;
-        if (match = text.trim().match(rangeRegex)) {
+    
+        // If there is no colon, check for one-chapter books.
+        if (text.indexOf(":") === -1) {
+            if (match = text.trim().match(oneChapterRegex)) {
+                rawBookName = match[1];
+                // Determine the canonical book id early.
+                var cleanedBookName = this.cleanBookName(this.normalizeBookName(rawBookName));
+                // List of one-chapter books.
+                var specialBooks = ["Obadiah", "II John", "III John", "Jude", "Philemon"];
+                if (specialBooks.map(s => s.toLowerCase()).includes(cleanedBookName.toLowerCase())) {
+                    startChapter = 1;
+                    endChapter = 1;
+                    startVerse = parseInt(match[2], 10);
+                    endVerse = match[3] ? parseInt(match[3], 10) : startVerse;
+                } else {
+                    return text;
+                }
+            } else {
+                return text;
+            }
+        } else if (match = text.trim().match(singleChapterRangeRegex)) {
+            // Handles "Book Ch:Vs-Ve" (implying same chapter)
+            rawBookName = match[1];
+            startChapter = parseInt(match[2], 10);
+            startVerse = parseInt(match[3], 10);
+            endChapter = startChapter;
+            endVerse = parseInt(match[4], 10);
+        } else if (match = text.trim().match(rangeRegex)) {
             rawBookName = match[1];
             startChapter = parseInt(match[2], 10);
             startVerse = parseInt(match[3], 10);
@@ -229,6 +317,7 @@ var RapidLogging = /** @class */ (function (_super) {
         } else {
             return text;
         }
+        
         var cleanedBookName = this.cleanBookName(rawBookName);
         var canonicalBookId = this.getCanonicalBookId(cleanedBookName);
         // For wikilinks we use padding that matches the file’s anchors.
@@ -281,9 +370,50 @@ var RapidLogging = /** @class */ (function (_super) {
         return refs.join(" ");
     };
 
-    return RapidLogging;
+    return EbenezerPlugin;
 }(obsidian.Plugin));
 
-module.exports = RapidLogging;
+// NEW CODE: Plugin Settings Support
+
+// Default settings
+var DEFAULT_SETTINGS = {
+    CiteWithArabic: false
+};
+
+// Load and save settings methods added to the plugin prototype.
+EbenezerPlugin.prototype.loadSettings = async function () {
+    this.settings = Object.assign({}, DEFAULT_SETTINGS, await this.loadData());
+};
+
+EbenezerPlugin.prototype.saveSettings = async function () {
+    await this.saveData(this.settings);
+};
+
+// Define a settings tab for the plugin.
+var EbenezerPluginSettingTab = /** @class */ (function (_super) {
+    __extends(EbenezerPluginSettingTab, _super);
+    function EbenezerPluginSettingTab(app, plugin) {
+        var _this = _super.call(this, app, plugin) || this;
+        _this.plugin = plugin;
+        return _this;
+    }
+    EbenezerPluginSettingTab.prototype.display = function () {
+        var containerEl = this.containerEl;
+        containerEl.empty();
+        containerEl.createEl('h2', { text: 'Citation Toggle Settings' });
+        new obsidian.Setting(containerEl)
+            .setName('Cite with Arabic Numerals')
+            .setDesc('OFF: II Peter 1:1 | ON: 2 Peter 1:1')
+            .addToggle(toggle => toggle
+                .setValue(this.plugin.settings.CiteWithArabic)
+                .onChange(async (value) => {
+                    this.plugin.settings.CiteWithArabic = value;
+                    await this.plugin.saveSettings();
+                }));
+    };
+    return EbenezerPluginSettingTab;
+}(obsidian.PluginSettingTab));
+
+module.exports = EbenezerPlugin;
 
 /* nosourcemap */

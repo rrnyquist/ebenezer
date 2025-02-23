@@ -1,11 +1,22 @@
 # Ignore the personal Obsidian settings folder:
 .obsidian/*
-# Keep the plugins folder:
+# Keep these folders:
 !.obsidian/plugins
-# But ignore everything in it:
+!.obsidian/snippets
+
+# But ignore everything in them:
 .obsidian/plugins/*
-# Except this one plugin:
+.obsidian/snippets/*
+
+# Except this one plugin and one css snippet:
 !.obsidian/plugins/ebenezer-plugin
+!.obsidian/snippets/ebenezer-babel-wikilink-hiding.css
+
+# Babel Branch: CSS should be enabled by default
+!.obsidian/appearance.json
+
+# Could also enable Ebenezer Plugin by default, but would disable other plugins on a git-pull
+# !.obsidian/community-plugins.json
 
 # Easy catch-all directory for personal study, tests, etc
 git_ignore/

@@ -48,6 +48,6 @@ Verse text ^CCCVVV
 - BYZ: [The New Testament in the original Greek: Byzantine textform](https://github.com/byztxt/byzantine-majority-text)
 
 ## Upcoming Fixes
-- ESV text has no double quotation marks -> will be remidied
+- ESV text has no double quotation marks -> will be remedied
 - ESV Psalms, Proverbs should have chapter numbers -> will be added
 - BSB Psalm 119 should have letter headings -> will be added

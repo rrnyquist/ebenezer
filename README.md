@@ -48,6 +48,15 @@ Verse text ^CCVV
 Verse text ^CCCVVV
 ```
 
+## Searching a Translation  🔎
+
+Recommend searching one translation at a time by beginning your search with:
+```
+path:_Scripture/ESV
+```
+
+Similarly, it is recommended that personal notes be kept in a separate folder so that the same process can be applied to searching your own files.
+
 ## Bible Sources ✝️
 - ESV:
 	- Non-Psalms: [Bible](https://github.com/rwev/bible/tree/master)
@@ -102,7 +111,7 @@ To embed a verse, add an exclamation mark:
 
 This is the text that is automatically generated using the "Toggle Citation/WikiLinks" hotkey (`Ctrl/Cmd + R`).
 
-## Upcoming Fixes
+## Upcoming Fixes 🐞
 - ESV text has no double quotation marks -> will be remedied
 - ESV Psalms, Proverbs should have chapter numbers -> will be added
 - BSB Psalm 119 should have letter headings -> will be added

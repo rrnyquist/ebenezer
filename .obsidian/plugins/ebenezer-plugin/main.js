@@ -218,15 +218,19 @@ var EbenezerPlugin = /** @class */ (function (_super) {
         if (selectedText.content.indexOf('![[') !== -1) {
             // Convert wikilinks into a citation.
             var citation = this.generateCitationFromWikiLinks(selectedText.content);
+            // If no conversion occurred, do nothing.
+            if (citation === selectedText.content) return;
             newString = selectedText.content + '\n' + citation;
         } else {
             // Convert a citation into wikilinks.
             var wikilinks = await this.generateWikiLinksFromCitation(selectedText.content);
+            // If no conversion occurred, do nothing.
+            if (wikilinks === selectedText.content) return;
             newString = wikilinks + '\n' + selectedText.content;
         }
         editor.replaceRange(newString, selectedText.start, selectedText.end);
     };
-
+    
     // ─── Generate a citation string from existing wikilinks.
     // (For a single WikiLink, output "Book Chapter:Verse"; for multiple, output a range.)
     EbenezerPlugin.prototype.generateCitationFromWikiLinks = function (text) {

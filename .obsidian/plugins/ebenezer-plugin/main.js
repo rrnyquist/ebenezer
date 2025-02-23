@@ -234,7 +234,7 @@ var EbenezerPlugin = /** @class */ (function (_super) {
     // ─── Generate a citation string from existing wikilinks.
     // (For a single WikiLink, output "Book Chapter:Verse"; for multiple, output a range.)
     EbenezerPlugin.prototype.generateCitationFromWikiLinks = function (text) {
-        var regex = /!\[\[([^\]]+?)#\^(\d{2,3})(\d{2,3})\]\]/g;
+        var regex = /!\[\[([^\]]+?)#\^(\d{2,3})(\d{2,3})(?:\|[^\]]+)?\]\]/g;
         var match;
         var anchors = [];
         var bookId = "";

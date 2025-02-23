@@ -1,5 +1,7 @@
 # Obsidian/Ebenezer  🪨
 ### A Rock of Help
+[![Obsidian/Ebenezer Full Demo](https://img.youtube.com/vi/t_AqacQm85w/0.jpg)](https://www.youtube.com/watch?v=t_AqacQm85w "Obsidian/Ebenezer Full Demo")
+
 Ebenezer is a Scripture study tool for searching and referencing Biblical passages in Obsidian. 
 
 ## Settings ⚙️

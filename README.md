@@ -55,7 +55,8 @@ Verse text ^CCCVVV
 - BSB-Strongs: [Berean Study Bible with Strongs](https://github.com/gapmiss/berean-study-bible-with-strongs).
 - BYZ: [The New Testament in the original Greek: Byzantine textform](https://github.com/byztxt/byzantine-majority-text)
 
-## Wiki-Link Usage Manual 
+## Wiki-Link Usage Manual  🔗
+
 #### Links 
 Wiki-links have the following structure:
 ```

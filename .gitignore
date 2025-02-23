@@ -10,7 +10,7 @@
 
 # Except this one plugin and one css snippet:
 !.obsidian/plugins/ebenezer-plugin
-!.obsidian/snippets/ebenezer-babel-wikilink-hiding.css
+!.obsidian/snippets/ebenezer-lexicon-wikilink-hiding.css
 
 # Babel Branch: CSS should be enabled by default
 !.obsidian/appearance.json

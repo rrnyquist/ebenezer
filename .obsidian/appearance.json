@@ -1,5 +1,6 @@
 {
   "enabledCssSnippets": [
-    "ebenezer-lexicon-wikilink-hiding"
+    "ebenezer-lexicon-wikilink-hiding",
+    "ebenezer-embedded-link-icon-hiding"
   ]
 }

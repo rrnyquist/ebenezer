@@ -12,6 +12,7 @@ Ebenezer is a Scripture study tool for searching and referencing Biblical passag
 ### Optional Settings
 - **Settings > Appearance > CSS snippets**
 	- Enable/disable  **ebenezer-lexicon-wikilink-hiding** to hide/show wiki-link formatting on lexicon words
+	- Enable/disable **ebenezer-embedded-link-icon-hiding** to hide/show the link button on embedded text
 - **Settings > Hotkeys > Search "Ebenezer"**
 	- Verse hotkeys can be modified as desired
 - **Settings > Ebenezer Plugin"**
@@ -61,8 +62,10 @@ Similarly, it is recommended that personal notes be kept in a separate folder so
 - ESV:
 	- Non-Psalms: [Bible](https://github.com/rwev/bible/tree/master)
 	- Psalms: [mdbible – ESV Bible in Markdown](https://github.com/lguenth/mdbible) (includes choirmaster instructions and Psalm 119 letters)
-- BSB-Strongs: [Berean Study Bible with Strongs](https://github.com/gapmiss/berean-study-bible-with-strongs).
-- BYZ: [The New Testament in the original Greek: Byzantine textform](https://github.com/byztxt/byzantine-majority-text)
+- BSB: [Berean Study Bible with Strongs](https://github.com/gapmiss/berean-study-bible-with-strongs).
+- HEB+BYZ:
+	- HEB: Hebrew Old Testament from [Bible](https://github.com/ivandustin/bible)
+	- BYZ: [The New Testament in the original Greek: Byzantine textform](https://github.com/byztxt/byzantine-majority-text)
 
 ## Wiki-Link Usage Manual  🔗
 
@@ -75,7 +78,7 @@ For example:
 ```
 [[62_I_John]]
 ```
-[[62_I_John]]
+[[_Scripture/HEB-BYZ/62_I_John]]
 
 Our vault contains multiple translations of I John, so we want to specify the ESV file:
 ```
@@ -113,5 +116,6 @@ This is the text that is automatically generated using the "Toggle Citation/Wiki
 
 ## Upcoming Fixes 🐞
 - ESV text has no double quotation marks -> will be remedied
-- ESV Psalms, Proverbs should have chapter numbers -> will be added
+- ESV Psalms, Proverbs chapter numbers -> will be added
 - BSB Psalm 119 should have letter headings -> will be added
+- HEB Psalms + Proverbs chapter numbers, Psalm 119 headings -> will be added

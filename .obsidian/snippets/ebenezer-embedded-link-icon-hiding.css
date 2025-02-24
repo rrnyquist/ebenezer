@@ -1,0 +1,6 @@
+.markdown-embed-link {
+    opacity: 0;
+}
+.markdown-embed-link:hover {
+    opacity: 1;
+}

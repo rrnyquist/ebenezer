@@ -363,11 +363,12 @@ var EbenezerPlugin = /** @class */ (function (_super) {
             return num.toString().padStart(padLength, '0');
         };
         var refs = [];
+        var bookLocation = `${this.settings.defaultTranslation}/${canonicalBookId}`;
         if (startChapter === endChapter) {
             // Single-chapter: generate a link for every verse from start to end.
             for (var v = startVerse; v <= endVerse; v++) {
                 refs.push("![["
-                    + `${this.settings.scriptureDirectory}/${this.settings.defaultTranslation}/${canonicalBookId}`
+                    + bookLocation
                     + "#^" + pad(startChapter) + pad(v)
                     + "]]");
             }
@@ -378,7 +379,7 @@ var EbenezerPlugin = /** @class */ (function (_super) {
             var maxStart = (startRange.max > 0) ? startRange.max : startVerse;
             for (var v = startVerse; v <= maxStart; v++) {
                 refs.push("![["
-                    + `${this.settings.scriptureDirectory}/${this.settings.defaultTranslation}/${canonicalBookId}`
+                    + bookLocation
                     + "#^" + pad(startChapter) + pad(v)
                     + "]]");
             }
@@ -388,7 +389,7 @@ var EbenezerPlugin = /** @class */ (function (_super) {
                 if (midRange.max > 0) {
                     for (var v = midRange.min; v <= midRange.max; v++) {
                         refs.push("![["
-                            + `${this.settings.scriptureDirectory}/${this.settings.defaultTranslation}/${canonicalBookId}`
+                            + bookLocation
                             + "#^" + pad(ch) + pad(v)
                             + "]]");
                     }
@@ -399,7 +400,7 @@ var EbenezerPlugin = /** @class */ (function (_super) {
             var minEnd = (endRange.min > 0) ? endRange.min : 1;
             for (var v = minEnd; v <= endVerse; v++) {
                 refs.push("![["
-                    + `${this.settings.scriptureDirectory}/${this.settings.defaultTranslation}/${canonicalBookId}`
+                    + bookLocation
                     + "#^" + pad(endChapter) + pad(v)
                     + "]]");
             }
@@ -411,72 +412,90 @@ var EbenezerPlugin = /** @class */ (function (_super) {
     EbenezerPlugin.prototype.cycleTranslation = async function() {
         // Use the dynamic Scripture directory from settings.
         const scriptureFolder = this.app.vault.getAbstractFileByPath(this.settings.scriptureDirectory);
+        
         let translationFolders = [];
         if (scriptureFolder && scriptureFolder.children) {
-            translationFolders = scriptureFolder.children
-                .filter(child => child instanceof obsidian.TFolder)
-                .map(folder => folder.name);
+        translationFolders = scriptureFolder.children
+            .filter(child => child instanceof obsidian.TFolder)
+            .map(folder => folder.name);
         }
         if (translationFolders.length === 0) return; // exit if no folders found
-
+        
         var view = this.app.workspace.getActiveViewOfType(obsidian.MarkdownView);
         if (!view) return;
         var editor = view.editor;
         var lineNr = editor.getCursor().line;
         var lineText = editor.getLine(lineNr);
-        // Dynamically build the regex using the user-defined Scripture directory.
-        var escapedDir = this.settings.scriptureDirectory.replace(/[-\/\\^$*+?.()|[\]{}]/g, '\\$&');
-        var regex = new RegExp("(!\\[\\[)" + escapedDir + "\\/([^\\/]+)(\\/[^#\\]]+#\\^[0-9]{2,3}[0-9]{2,3}\\]\\])", "g");
         
-        // Replace the current translation with the next one in the cycle.
-        var newLineText = lineText.replace(regex, (match, prefix, currentTranslation, rest) => {
-            var currentIndex = translationFolders.indexOf(currentTranslation);
-            var nextTranslation = translationFolders[0];
-            if (currentIndex !== -1) {
-                nextTranslation = translationFolders[(currentIndex + 1) % translationFolders.length];
-            }
-            return prefix + this.settings.scriptureDirectory + "/" + nextTranslation + rest;
+        // Generalized regex with named groups:
+        //  - (!\[\[) : capture the opening "![["
+        //  - (?:\/?[^\/\]]+\/)* : non-capturing group that matches any leading directories (optional, repeated)
+        //  - (?<translation>[^\/\]]+) : capture the translation folder (second-to-last element)
+        //  - \/ : match the literal slash between the translation and the remainder
+        //  - (?<rest>[^\/\]]+#\^[0-9]{4,6}\]\]) : capture the remainder (book name and anchor, then closing brackets)
+        var regex = /(!\[\[)(?:\/?[^\/\]]+\/)*(?<translation>[^\/\]]+)\/(?<rest>[^\/\]]+#\^[0-9]{4,6}\]\])/g;
+        
+        // Replace each link on the line
+        var newLineText = lineText.replace(regex, (match, prefix, _unused, _unused2, offset, string, groups) => {
+        var currentTranslation = groups.translation;
+        var currentIndex = translationFolders.indexOf(currentTranslation);
+        var nextTranslation = translationFolders[0];
+        if (currentIndex !== -1) {
+            nextTranslation = translationFolders[(currentIndex + 1) % translationFolders.length];
+        }
+        // Build new link with the updated translation folder and captured remainder.
+        return prefix + nextTranslation + "/" + groups.rest;
         });
+        
         if (newLineText !== lineText) {
-            editor.replaceRange(newLineText, { line: lineNr, ch: 0 }, { line: lineNr, ch: lineText.length });
+        editor.replaceRange(newLineText, { line: lineNr, ch: 0 }, { line: lineNr, ch: lineText.length });
         }
     };
-
+    
+    
     // NEW METHOD: Cycle translation folders in reverse.
     EbenezerPlugin.prototype.cycleTranslationReverse = async function() {
         // Use the dynamic Scripture directory from settings.
         const scriptureFolder = this.app.vault.getAbstractFileByPath(this.settings.scriptureDirectory);
         let translationFolders = [];
         if (scriptureFolder && scriptureFolder.children) {
-            translationFolders = scriptureFolder.children
-                .filter(child => child instanceof obsidian.TFolder)
-                .map(folder => folder.name);
+        translationFolders = scriptureFolder.children
+            .filter(child => child instanceof obsidian.TFolder)
+            .map(folder => folder.name);
         }
         if (translationFolders.length === 0) return; // exit if no folders found
-
+    
         var view = this.app.workspace.getActiveViewOfType(obsidian.MarkdownView);
         if (!view) return;
         var editor = view.editor;
         var lineNr = editor.getCursor().line;
         var lineText = editor.getLine(lineNr);
-        // Build the regex dynamically using the scripture directory.
-        var escapedDir = this.settings.scriptureDirectory.replace(/[-\/\\^$*+?.()|[\]{}]/g, '\\$&');
-        var regex = new RegExp("(!\\[\\[)" + escapedDir + "\\/([^\\/]+)(\\/[^#\\]]+#\\^[0-9]{2,3}[0-9]{2,3}\\]\\])", "g");
-        
-        // Replace the current translation with the previous one in the cycle.
-        var newLineText = lineText.replace(regex, (match, prefix, currentTranslation, rest) => {
-            var currentIndex = translationFolders.indexOf(currentTranslation);
-            var prevTranslation = translationFolders[translationFolders.length - 1];
-            if (currentIndex !== -1) {
-                prevTranslation = translationFolders[(currentIndex - 1 + translationFolders.length) % translationFolders.length];
-            }
-            return prefix + this.settings.scriptureDirectory + "/" + prevTranslation + rest;
+    
+        // Generalized regex with named groups:
+        //  - (!\[\[) captures the opening "![["
+        //  - (?:\/?[^\/\]]+\/)* optionally matches any leading directories
+        //  - (?<translation>[^\/\]]+) captures the translation folder
+        //  - \/ is the literal slash between the translation folder and the rest
+        //  - (?<rest>[^\/\]]+#\^[0-9]{4,6}\]\]) captures the rest (book and anchor plus closing brackets)
+        var regex = /(!\[\[)(?:\/?[^\/\]]+\/)*(?<translation>[^\/\]]+)\/(?<rest>[^\/\]]+#\^[0-9]{4,6}\]\])/g;
+    
+        // Replace each link on the line with the previous translation in the cycle.
+        var newLineText = lineText.replace(regex, (match, prefix, _unused, _unused2, offset, string, groups) => {
+        var currentTranslation = groups.translation;
+        var currentIndex = translationFolders.indexOf(currentTranslation);
+        var prevTranslation = translationFolders[translationFolders.length - 1];
+        if (currentIndex !== -1) {
+            prevTranslation = translationFolders[(currentIndex - 1 + translationFolders.length) % translationFolders.length];
+        }
+        // Build new link in the standardized format: ![[translation/rest]]
+        return prefix + prevTranslation + "/" + groups.rest;
         });
+    
         if (newLineText !== lineText) {
-            editor.replaceRange(newLineText, { line: lineNr, ch: 0 }, { line: lineNr, ch: lineText.length });
+        editor.replaceRange(newLineText, { line: lineNr, ch: 0 }, { line: lineNr, ch: lineText.length });
         }
     };
-
+  
     return EbenezerPlugin;
 }(obsidian.Plugin));
 
@@ -522,14 +541,24 @@ var EbenezerPluginSettingTab = /** @class */ (function (_super) {
         new obsidian.Setting(containerEl)
         .setName('Scripture Directory')
         .setDesc('Set the root directory for scripture files (default: _Scripture)')
-        .addText(text => text
-            .setPlaceholder('_Scripture')
-            .setValue(this.plugin.settings.scriptureDirectory || '_Scripture')
-            .onChange(async (value) => {
-                this.plugin.settings.scriptureDirectory = value;
-                await this.plugin.saveSettings();
-            })
-        );
+        .addText(text => {
+            text.setPlaceholder('_Scripture')
+                .setValue(this.plugin.settings.scriptureDirectory || '_Scripture')
+                .onChange(async (value) => {
+                    // Optionally store interim changes, if needed.
+                });
+            
+            // Listen for when the input loses focus (blur)
+            text.inputEl.addEventListener('blur', async () => {
+                const newValue = text.getValue();
+                if (newValue !== this.plugin.settings.scriptureDirectory) {
+                    this.plugin.settings.scriptureDirectory = newValue;
+                    await this.plugin.saveSettings();
+                    // Re-render the settings tab to update the dropdown options.
+                    this.display();
+                }
+            });
+        });
         // NEW CODE: Add a dropdown to select the default translation folder.
         new obsidian.Setting(containerEl)
             .setName('Default Translation Folder')

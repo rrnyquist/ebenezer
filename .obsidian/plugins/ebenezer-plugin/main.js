@@ -428,23 +428,15 @@ var EbenezerPlugin = /** @class */ (function (_super) {
         var lineText = editor.getLine(lineNr);
         
         // Generalized regex with named groups:
-        //  - (!\[\[) : capture the opening "![["
-        //  - (?:\/?[^\/\]]+\/)* : non-capturing group that matches any leading directories (optional, repeated)
-        //  - (?<translation>[^\/\]]+) : capture the translation folder (second-to-last element)
-        //  - \/ : match the literal slash between the translation and the remainder
-        //  - (?<rest>[^\/\]]+#\^[0-9]{4,6}\]\]) : capture the remainder (book name and anchor, then closing brackets)
-        var regex = /(!\[\[)(?:\/?[^\/\]]+\/)*(?<translation>[^\/\]]+)\/(?<rest>[^\/\]]+#\^[0-9]{4,6}\]\])/g;
-        
-        // Replace each link on the line
-        var newLineText = lineText.replace(regex, (match, prefix, _unused, _unused2, offset, string, groups) => {
-        var currentTranslation = groups.translation;
-        var currentIndex = translationFolders.indexOf(currentTranslation);
-        var nextTranslation = translationFolders[0];
-        if (currentIndex !== -1) {
-            nextTranslation = translationFolders[(currentIndex + 1) % translationFolders.length];
-        }
-        // Build new link with the updated translation folder and captured remainder.
-        return prefix + nextTranslation + "/" + groups.rest;
+        var regex = /(!\[\[)(?:[^\/\]]+\/)*(?<translation>[^\/\]]+)\/(?<anchor>[^|\]]+#\^[0-9]{4,6})(?<display>\|[^\]]+)?\]\]/g;
+        var newLineText = lineText.replace(regex, (match, prefix, translation, anchor, display, offset, string, groups) => {
+            var currentTranslation = translation;
+            var currentIndex = translationFolders.indexOf(currentTranslation);
+            var nextTranslation = translationFolders[0];
+            if (currentIndex !== -1) {
+                nextTranslation = translationFolders[(currentIndex + 1) % translationFolders.length];
+            }
+            return prefix + nextTranslation + "/" + anchor + (display || "") + "]]";
         });
         
         if (newLineText !== lineText) {
@@ -471,26 +463,17 @@ var EbenezerPlugin = /** @class */ (function (_super) {
         var lineNr = editor.getCursor().line;
         var lineText = editor.getLine(lineNr);
     
-        // Generalized regex with named groups:
-        //  - (!\[\[) captures the opening "![["
-        //  - (?:\/?[^\/\]]+\/)* optionally matches any leading directories
-        //  - (?<translation>[^\/\]]+) captures the translation folder
-        //  - \/ is the literal slash between the translation folder and the rest
-        //  - (?<rest>[^\/\]]+#\^[0-9]{4,6}\]\]) captures the rest (book and anchor plus closing brackets)
-        var regex = /(!\[\[)(?:\/?[^\/\]]+\/)*(?<translation>[^\/\]]+)\/(?<rest>[^\/\]]+#\^[0-9]{4,6}\]\])/g;
-    
-        // Replace each link on the line with the previous translation in the cycle.
-        var newLineText = lineText.replace(regex, (match, prefix, _unused, _unused2, offset, string, groups) => {
-        var currentTranslation = groups.translation;
-        var currentIndex = translationFolders.indexOf(currentTranslation);
-        var prevTranslation = translationFolders[translationFolders.length - 1];
-        if (currentIndex !== -1) {
-            prevTranslation = translationFolders[(currentIndex - 1 + translationFolders.length) % translationFolders.length];
-        }
-        // Build new link in the standardized format: ![[translation/rest]]
-        return prefix + prevTranslation + "/" + groups.rest;
+        var regex = /(!\[\[)(?:[^\/\]]+\/)*(?<translation>[^\/\]]+)\/(?<anchor>[^|\]]+#\^[0-9]{4,6})(?<display>\|[^\]]+)?\]\]/g;
+        var newLineText = lineText.replace(regex, (match, prefix, translation, anchor, display, offset, string, groups) => {
+            var currentTranslation = translation;
+            var currentIndex = translationFolders.indexOf(currentTranslation);
+            var prevTranslation = translationFolders[translationFolders.length - 1];
+            if (currentIndex !== -1) {
+                prevTranslation = translationFolders[(currentIndex - 1 + translationFolders.length) % translationFolders.length];
+            }
+            return prefix + prevTranslation + "/" + anchor + (display || "") + "]]";
         });
-    
+        
         if (newLineText !== lineText) {
         editor.replaceRange(newLineText, { line: lineNr, ch: 0 }, { line: lineNr, ch: lineText.length });
         }

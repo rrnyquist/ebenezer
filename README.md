@@ -68,7 +68,7 @@ Verse text ^CCCVVV
 
 Recommend searching one translation at a time by beginning your search with:
 ```
-path:_Scripture/ESV
+path:ESV
 ```
 
 Similarly, it is recommended that personal notes be kept in a separate folder so that the same process can be applied to searching your own files.

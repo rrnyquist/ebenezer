@@ -296,21 +296,21 @@ var EbenezerPlugin = /** @class */ (function (_super) {
         }
         return citation;
     };
-    
-    // ─── Generate a WikiLinks line (wikilinks) from a citation.
-    // Expected citation formats: either "Book Ch:Vs-Ch:Ve" or "Book Ch:V" (single WikiLink).
-    // For a single-chapter citation the plugin generates every wikilink from the cited start verse to end verse.
-    // For a multi-chapter citation, it reads the canonical file’s contents to determine available anchors.
-    // (For Psalms, anchors in the file use three-digit padding; for other books, two digits.)
+
     EbenezerPlugin.prototype.generateWikiLinksFromCitation = async function (text) {
+        // Optional bullet marker: any whitespace, then a hyphen or asterisk, optional whitespace,
+        // an optional checkbox (brackets with any characters) and following whitespace.
+        // This is added at the beginning of each regex.
+        var bulletPattern = "^\\s*(?:[-*]\\s*(?:\\[[^\\]]*\\]\\s*)?)?";
+    
         // Regex for "Book Ch:Vs-Ch:Ve"
-        var rangeRegex = /^(.+?)\s+(\d+):(\d+)-(\d+):(\d+)$/;
+        var rangeRegex = new RegExp(bulletPattern + "(.+?)\\s+(\\d+):(\\d+)-(\\d+):(\\d+)$");
         // Regex to handle "Book Ch:Vs-Ve"
-        var singleChapterRangeRegex = /^(.+?)\s+(\d+):(\d+)-(\d+)$/;
+        var singleChapterRangeRegex = new RegExp(bulletPattern + "(.+?)\\s+(\\d+):(\\d+)-(\\d+)$");
         // Regex to handle "Book Ch:V"
-        var singleRegex = /^(.+?)\s+(\d+):(\d+)$/;
+        var singleRegex = new RegExp(bulletPattern + "(.+?)\\s+(\\d+):(\\d+)$");
         // Regex for one-chapter books when no colon is present: e.g. "Jude 5" or "Jude 5-7"
-        var oneChapterRegex = /^(.+?)\s+(\d+)(?:-(\d+))?$/;
+        var oneChapterRegex = new RegExp(bulletPattern + "(.+?)\\s+(\\d+)(?:-(\\d+))?$");
         var match, rawBookName, startChapter, startVerse, endChapter, endVerse;
     
         // If there is no colon, check for one-chapter books.

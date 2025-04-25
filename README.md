@@ -125,13 +125,11 @@ For example:
 ```
 [[62_I_John]]
 ```
-[[_Scripture/HEB-BYZ/62_I_John]]
 
 Our vault contains multiple translations of I John, so we want to specify the ESV file:
 ```
 [[ESV/62_I_John]]
 ```
-[[_Scripture/ESV/62_I_John]]
 
 It is recommended that all translations be kept in a single directory, such as `_Scripture` directory within this vault. If you choose to move or rename the directory, you must specify the new folder name in the Ebenezer Plugin settings to allow for Translation Cycling hotkeys.
 

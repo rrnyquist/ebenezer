@@ -132,12 +132,16 @@ var EbenezerPlugin = /** @class */ (function (_super) {
     }
     };
 
-
     EbenezerPlugin.prototype.cleanBookName = function(bookId) {
-        var c = bookId.replace(/^[0-9]+_/, '');
-        return c.replace(/_/g, ' ');
+        // strip any numeric prefix and underscores
+        var c = bookId.replace(/^[0-9]+_/, '').replace(/_/g, ' ');
+        // treat singular Psalm as Psalms
+        if (c.trim().toLowerCase() === 'psalm') {
+            return 'Psalms';
+        }
+        return c;
     };
-
+        
     EbenezerPlugin.prototype.normalizeBookName = function(bookName) {
         var m = bookName.match(/^(\d+)(\s+)(.+)/);
         if (m) return convertNumeral(+m[1]) + m[2] + m[3];
@@ -199,8 +203,11 @@ var EbenezerPlugin = /** @class */ (function (_super) {
         }
         if (!anchors.length) return text;
 
-        var bookName = this.cleanBookName(bookId),
-            specs = ["Obadiah","II John","III John","Jude","Philemon"],
+        var bookName = this.cleanBookName(bookId);
+        if (bookName.toLowerCase() === 'psalms') {
+            bookName = 'Psalm';
+        }
+        var specs = ["Obadiah","II John","III John","Jude","Philemon"],
             first  = anchors[0],
             half   = first.length/2,
             fc     = +first.slice(0,half),

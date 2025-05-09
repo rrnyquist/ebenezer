@@ -16,6 +16,7 @@
 # But ignore the files I use for unit testing:
 .obsidian/plugins/ebenezer-plugin/data.json
 .obsidian/plugins/ebenezer-plugin/node_modules/
+.obsidian/plugins/ebenezer-plugin/eslint.config.mjs
 
 # CSS should be enabled by default
 !.obsidian/appearance.json

@@ -13,13 +13,17 @@
 !.obsidian/snippets/ebenezer-lexicon-wikilink-hiding.css
 !.obsidian/snippets/ebenezer-embedded-link-icon-hiding.css
 
-# Babel Branch: CSS should be enabled by default
+# But ignore the files I use for unit testing:
+.obsidian/plugins/ebenezer-plugin/data.json
+.obsidian/plugins/ebenezer-plugin/node_modules/
+
+# CSS should be enabled by default
 !.obsidian/appearance.json
 
 # Could also enable Ebenezer Plugin by default, but would disable other plugins on a git-pull
 # !.obsidian/community-plugins.json
 
-# Easy catch-all directory for personal study, tests, etc
+# Easy catch-all directory for personal study, tests, etc while developing
 git_ignore/
 
 # Mac folder display settings
